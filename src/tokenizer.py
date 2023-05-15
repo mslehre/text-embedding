@@ -1,6 +1,5 @@
 import tiktoken
 
-
 def get_token_from_string(string: str, encoding_name = "cl100k_base", max_token = 8000, force_cut = False, verbose = False) \
         -> list[int]:
     """
@@ -18,7 +17,6 @@ def get_token_from_string(string: str, encoding_name = "cl100k_base", max_token 
         return [None]  # return None if number of tokens exceeds maximal number of token
     return token
 
-
 def get_token_for_chunks(chunks: list[str], encoding_name = "cl100k_base", max_token = 8000, force_cut = False, verbose = False) \
         -> list[list[int]]:
     """
@@ -31,7 +29,6 @@ def get_token_for_chunks(chunks: list[str], encoding_name = "cl100k_base", max_t
         token = get_token_from_string(chunk, encoding_name = encoding_name, max_token = max_token, force_cut = force_cut, verbose = verbose)
         chunk_token.append(token)
     return chunk_token
-
 
 def main():
     text = ["You are a big boy",
