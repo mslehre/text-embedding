@@ -11,7 +11,7 @@ def get_token_from_string(string: str, encoding_name = "cl100k_base", max_token 
     token = encoding.encode(string)
     if len(token) > max_token: 
         if verbose:  # print warning if max number of tokens is exceeded
-            print("WARNING: Number of tokens for string \"" + string + "\" exceed the maximal number of tokens:", max_token, "!")
+            print("WARNING: Number of tokens for string \"" + string + "\" exceeds the maximal number of tokens:", max_token, "!")
         if force_cut:  # cut off tokens after max number of token
     	    return token[:max_token]
         return [None]  # return None if number of tokens exceeds maximal number of token
