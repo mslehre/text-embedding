@@ -54,7 +54,7 @@ def embedding_from_string(string: str,
     return get_embedding(string, engine=embedding_name)
    
 def main():
-    """This is the main function. If this program is executed the embedding for
+    """If this program is executed the embedding for
     a few strings in a list is computed and both the string and the first five 
     values of its embedding are printed.
     """
