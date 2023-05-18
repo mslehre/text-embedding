@@ -18,7 +18,9 @@ def embedding_from_string(string: str,
             model text-embedding-ada-002 is used.
         max_token (int): The maximum number of tokens for which an embedding is
             computed. By default this is the maximum number of tokens of the 
-            embedding model text-embedding-ada-002.
+            embedding model text-embedding-ada-002. If the default model is 
+            changed, the default value for max_token should be adapted to the 
+            maximum number of tokens of the new default embedding model.
 
     Returns: 
         list[float]: The embedding for the string is returned as vector. In case
