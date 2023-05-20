@@ -29,7 +29,7 @@ def get_token_from_string(string: str,
                   "\" exceeds the maximal number of tokens:", max_token, "!")
         if force_cut:  # cut off tokens after max number of token
     	    return token[:max_token]
-        return [None]  # return None if number of tokens exceeds maximum number
+        return [None]  # return None if number of tokens exceeds maximal number
     return token
 
 def get_token_for_chunks(chunks: list[str], 
