@@ -64,8 +64,9 @@ def compute_similarity_of_files(file1: str, file2: str):
           
     """
     # Test if files exist.
-    if not((path.exists(file1) and path.exists(file2))):
+    if not ((path.exists(file1) and path.exists(file2))):
       return "<p>File does not exist</p>"
+
     # Get content of files in one string each.
     file1input = open(file1, "r")
     file2input = open(file2, "r")
@@ -73,15 +74,16 @@ def compute_similarity_of_files(file1: str, file2: str):
     file2text=file2input.read()
     file1input.close()
     file2input.close()
+    
     # Compute embeddings for both files.
     file1_embedding = embedding_from_string(file1text, "text-embedding-ada-002")
     file2_embedding = embedding_from_string(file2text, "text-embedding-ada-002")
     text = ""
     # Test if embeddings could be computed.
-    if(file1_embedding is None):
+    if (file1_embedding is None):
         text += "File 1 " + file1 + " is too large to compute an embedding for \
             it."
-    elif(file2_embedding is None):
+    elif (file2_embedding is None):
         text += "File 2 " + file2 + " is too large to compute an embedding for \
             it."
     else:
