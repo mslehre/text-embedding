@@ -10,85 +10,81 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return '''<form>
-  <label for="fname">Enter first file file: </label><br>
-  <input type="text" id="file1"><br>
-  <label for="lname">Enter second file:</label><br>
-  <input type="text" id="file2"><br><br>
+    <label for="fname">Enter first file file: </label><br>
+    <input type="text" id="file1"><br>
+    <label for="lname">Enter second file:</label><br>
+    <input type="text" id="file2"><br><br>
 
-  <button onclick="myFunction()"> Compute similarity of the files content\
-      </button> <br><br>
+    <button onclick="myFunction()"> Compute similarity of the files content\
+        </button> <br><br>
 
-  <p id="demo"> </p>
-  <p id="url"> </p>
+    <p id="demo"> </p>
+    <p id="url"> </p>
 
-  <script>
-    function myFunction() {
-      let f1 = document.getElementById("file1").value;
-      let f2 = document.getElementById("file2").value;
-      let actualUrl = window.location.href;
+    <script>
+        function myFunction() {
+            let f1 = document.getElementById("file1").value;
+            let f2 = document.getElementById("file2").value;
+            let actualUrl = window.location.href;
 
-      document.getElementById("url").innerHTML="";
+            document.getElementById("url").innerHTML="";
 
-      if(!f1 || !f2){
-        document.getElementById("demo").innerHTML="";
-        alert("The file name can not be empty!");
-
-      }
-      else {
-        window.open(actualUrl+"/file1/"+f1+"/file2/"+f2);
+            if(!f1 || !f2){
+                document.getElementById("demo").innerHTML="";
+                alert("The file name can not be empty!");
+            } else {
+                window.open(actualUrl+"/file1/"+f1+"/file2/"+f2);
+            }
         }
-    }
-  </script>
+    </script>
 
-  <form>
-  <textarea name="file1" rows="10" cols="30">
-  </textarea>
+    <form>
+    <textarea name="file1" rows="10" cols="30">
+    </textarea>
 
-</form>'''
+    </form>'''
 
 @app.route('/file1/<file1>/file2/<file2>')
 def compute_similarity_of_files(file1: str, file2: str):
     """This function computes first two embeddings for the contents of two files
-           and then computes the cosine similarity of the two embeddings. The 
-           cosine similarity is returned as string in a web form. 
+    and then computes the cosine similarity of the two embeddings. The 
+    cosine similarity is returned as string in a web form. 
 
-      Args:
-          file1 (str): This parameter is the name of the first file for which 
-              the cosine similarity of its content with the content of the 
-              second file is computed.
-          file2 (str): This parameter is the name of the second file for which 
-              the cosine similarity of its content with the content of the first
-              file is computed.
+    Args:
+        file1 (str): This parameter is the name of the first file for which the 
+            cosine similarity of its content with the content of the second 
+            file is computed.
+        file2 (str): This parameter is the name of the second file for which 
+            the cosine similarity of its content with the content of the first
+            file is computed.
 
-      Returns: 
-          
+    Returns: A web form is returned that contains two labels file1 and file2 
+        and the names of the files the user specified. In a textfield the 
+        cosine similarity of the content of the two files is displayed. If the
+        embedding for one of the files cannot be computed, there is a message
+        that the file is probably too large in the textfield.     
     """
     # Test if files exist.
     if not ((path.exists(file1) and path.exists(file2))):
       return "<p>File does not exist</p>"
 
-    # Get content of files in one string each.
-    file1input = open(file1, "r")
-    file2input = open(file2, "r")
-    file1text=file1input.read()
-    file2text=file2input.read()
-    file1input.close()
-    file2input.close()
-    
-    # Compute embeddings for both files.
-    file1_embedding = embedding_from_string(file1text, "text-embedding-ada-002")
-    file2_embedding = embedding_from_string(file2text, "text-embedding-ada-002")
+    files = [file1, file2]
+    embeddings = []
+    # Compute embeddings for content of the files.
+    for file in files:
+        fileinput = open(file, 'r')
+        embeddings.append(embedding_from_string(fileinput.read(), 
+                                                "text-embedding-ada-002"))
+        fileinput.close()
+        
     text = ""
     # Test if embeddings could be computed.
-    if (file1_embedding is None):
-        text += "File 1 " + file1 + " is too large to compute an embedding for \
-            it."
-    elif (file2_embedding is None):
-        text += "File 2 " + file2 + " is too large to compute an embedding for \
-            it."
-    else:
-        # Compute cosine similarity of both embeddings and dispaly it.
-        similarity = cosine_similarity(file1_embedding, file2_embedding)
+    for i in range(0,2):
+        if (embeddings[i] == [None]):
+            text += files[i] + " is too large to compute an embedding for it. "
+    if not text:  # Test if both embeddings could be computed.
+        # Compute cosine similarity of both embeddings and display it.
+        similarity = cosine_similarity(embeddings[0], embeddings[1])
         text += "The cosine similarity between " + file1 + " and " + file2 + " \
             is " + str(similarity) + "."
     return '''
@@ -96,7 +92,8 @@ def compute_similarity_of_files(file1: str, file2: str):
           <label id="file2">file2: '''+file2+'''</label> <br>
   
           <form>
-          <textarea id="file1content" name="file1" rows="10" cols="30">'''+text+'''</textarea>
+          <textarea id="file1content" name="file1" rows="10" cols="30">'''\
+              +text+'''</textarea>
 
           </form>'''
 
