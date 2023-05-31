@@ -4,7 +4,12 @@ import typing
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options
 from selenium.webdriver.firefox.service import Service
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+from selenium.common.exceptions import TimeoutException
 import time
+import datetime
 
 
 
@@ -25,7 +30,6 @@ import time
 def getJsCode(path: str) -> str:
     with open(path) as file:
         content = file.read()
-    print("Executing code: \n" + content)
     return content
 
 def launchFirefox(geckoPath: str): 
@@ -45,39 +49,60 @@ def launchFirefox(geckoPath: str):
     print("Headless Firefox Initialized")
     return driver
 
-def navigateToWebsite(driver, URL: str):
+def navigateToWebsite(driver, URL: str, elementToWaitFor: str):
     #visit website specified under URL    
-    driver.get(URL)
-    #rudimentary wait function
-    #should be implemented to wait for specific objects to be ready
-    return driver
+    dt = datetime.datetime.now()
+    dtstr = dt.strftime('%d/%m/%Y %H:%M:%S')
+    try:
+        driver.get(URL)
+    except:
+        with open('dataAcquisitionLog.txt','a') as file:
+            file.write("["+dtstr+"]\tError: Page \""+URL+"\" could not be loaded.]\n")
+        return driver
+    delay = 30 #timeout delay
+    try:
+        myElem = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.ID, elementToWaitFor)))
+        with open('dataAcquisitionLog.txt','a') as file:
+            file.write("["+dtstr+"]\tPage \""+URL+"\" loaded successfully.\n")
+    except TimeoutException:
+        with open('dataAcquisitionLog.txt','a') as file:
+            file.write("["+dtstr+"]\tError: Page \""+URL+"\" loading timeout.\n")
+    except:
+        with open('dataAcquisitionLog.txt','a') as file:
+            file.write("["+dtstr+"]\tError: Element \""+elementToWaitFor+"\" could not be loaded.\n")
+    finally:    
+        return driver
 
 def exejscode(driver, jscode: str):
     #call to execute js code on website
     #data type of result is only determined on runtime
     #maybe typeof in js can be used to set return type
-    result = driver.execute_script(jscode)
+    dt = datetime.datetime.now()
+    dtstr = dt.strftime('%d/%m/%Y %H:%M:%S')
+    with open('dataAcquisitionLog.txt','a') as file:
+            file.write("["+dtstr+"]\tExecuting code: \n" +jscode+"\n")
+    try:
+        result = driver.execute_script(jscode)
+    except:
+        with open('dataAcquisitionLog.txt','a') as file:
+            file.write("["+dtstr+"]\tError while executing script.\n")
     return result
 
 #main function for testing
 def main():
     #js code to be converted
-    cookies = getJsCode("js_scripts/wos_cookieClicker.js")
-    gotIt = getJsCode("js_scripts/wos_gotItClicker.js")
     linkgrabber = getJsCode("js_scripts/linkgrabber.js")
     URL = "https://www.webofscience.com/wos/author/record/1177820"
     driver = launchFirefox('/snap/bin/firefox.geckodriver')
-    time.sleep(10)
-    driver = navigateToWebsite(driver, URL)
-    time.sleep(15)
-    bla = exejscode(driver, cookies)
-    time.sleep(10)
-    bla2 = exejscode(driver, gotIt)
-    time.sleep(5)
+    #time to login and accept cookies etc.
+    time.sleep(60)
+    driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
     linklist = exejscode(driver, linkgrabber)
     driver.quit()
-    for link in linklist:
-        print(link[0]+"\t"+link[1]+"\n")
+    #linklist = filterForRelevantLinks(linklist)
+    with open('linklist.txt','a') as file:
+        for link in linklist:
+            file.write(link[0]+"\t"+link[1]+"\n")
     
 
 if __name__ == "__main__":
