@@ -99,3 +99,4 @@ def compute_similarity_of_files(file1: str, file2: str):
 
 if __name__ == '__main__':
     app.run()
+    
