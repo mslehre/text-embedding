@@ -47,8 +47,13 @@ def home():
 @app.route('/file1/<file1>/file2/<file2>') 
 def compute_similarity_of_files(file1: str, file2: str) -> str:
     """This function computes first two embeddings for the contents of two files
-    and then computes the cosine similarity of the two embeddings. The 
-    cosine similarity is returned as string in a web form. 
+    and then computes the cosine similarity of the two embeddings. If a file is 
+    too large because its content is encoded to more tokens than the maximum 
+    number of tokens for which an embedding is computed, the embedding 
+    for the files content that is encoded to the first max_token tokens is 
+    computed where max_token is the maximum number of tokens for which an 
+    embedding is computed. The cosine similarity is returned as string in a web 
+    form. 
 
     Args:
         file1 (str): This parameter is the name of the first file for which the 
@@ -65,8 +70,8 @@ def compute_similarity_of_files(file1: str, file2: str) -> str:
             contains two labels file1 and file2 and the names of the files the 
             user specified. In a textfield the cosine similarity of the content 
             of the two files is displayed. If the embedding for one of the 
-            files cannot be computed, there is a message that the file is 
-            probably too large in the textfield.     
+            files cannot be computed, there is a message that the openai api key
+            was probably not set or is not valid.     
     """
     # Test if files exist.
     if not ((path.exists(file1) and path.exists(file2))):
@@ -85,7 +90,10 @@ def compute_similarity_of_files(file1: str, file2: str) -> str:
     # Test if embeddings could be computed.
     for i in range(0,2):
         if (embeddings[i] == [None]):
-            text += files[i] + " is too large to compute an embedding for it. "
+            text += "No embedding could be computed for " + files[i] + \
+                ". Probably, the openai api key is not valid or set as an " + \
+                "environment variable. Therefore, the similarity of the " + \
+                "files cannot be computed.\n"
     if not text:  # Test if both embeddings could be computed.
         # Compute cosine similarity of both embeddings and display it.
         similarity = cosine_similarity(embeddings[0], embeddings[1])
