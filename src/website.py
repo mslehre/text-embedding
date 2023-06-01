@@ -10,9 +10,9 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return '''<form>
-    <label for="fname">Enter first file file: </label><br>
+    <label for="fname">Enter first file name: </label><br>
     <input type="text" id="file1"><br>
-    <label for="lname">Enter second file:</label><br>
+    <label for="lname">Enter second file name:</label><br>
     <input type="text" id="file2"><br><br>
 
     <button onclick="myFunction()"> Compute similarity of the files content\
@@ -44,8 +44,8 @@ def home():
 
     </form>'''
 
-@app.route('/file1/<file1>/file2/<file2>')
-def compute_similarity_of_files(file1: str, file2: str):
+@app.route('/file1/<file1>/file2/<file2>') 
+def compute_similarity_of_files(file1: str, file2: str) -> str:
     """This function computes first two embeddings for the contents of two files
     and then computes the cosine similarity of the two embeddings. The 
     cosine similarity is returned as string in a web form. 
@@ -53,20 +53,24 @@ def compute_similarity_of_files(file1: str, file2: str):
     Args:
         file1 (str): This parameter is the name of the first file for which the 
             cosine similarity of its content with the content of the second 
-            file is computed.
+            file is computed. The file should be in the same directory as this
+            program.
         file2 (str): This parameter is the name of the second file for which 
             the cosine similarity of its content with the content of the first
-            file is computed.
+            file is computed. The file should be in the same directory as this
+            program.
 
-    Returns: A web form is returned that contains two labels file1 and file2 
-        and the names of the files the user specified. In a textfield the 
-        cosine similarity of the content of the two files is displayed. If the
-        embedding for one of the files cannot be computed, there is a message
-        that the file is probably too large in the textfield.     
+    Returns: 
+        str: A string is returned that contains html code for a web from that
+            contains two labels file1 and file2 and the names of the files the 
+            user specified. In a textfield the cosine similarity of the content 
+            of the two files is displayed. If the embedding for one of the 
+            files cannot be computed, there is a message that the file is 
+            probably too large in the textfield.     
     """
     # Test if files exist.
     if not ((path.exists(file1) and path.exists(file2))):
-      return "<p>File does not exist</p>"
+      return "<p>At least one file does not exist on the server.</p>"
 
     files = [file1, file2]
     embeddings = []
@@ -99,4 +103,3 @@ def compute_similarity_of_files(file1: str, file2: str):
 
 if __name__ == '__main__':
     app.run()
-    
