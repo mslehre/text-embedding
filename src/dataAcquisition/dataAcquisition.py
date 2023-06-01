@@ -10,18 +10,12 @@ from selenium.webdriver.common.by import By
 from selenium.common.exceptions import TimeoutException
 import time
 import datetime
-
+import pandas
 
 
 #def linkgrabber(profileURLs):
 #    for URL in profileURLs:
         
-
-
-
-
-
-
 
 
 
@@ -57,7 +51,8 @@ def navigateToWebsite(driver, URL: str, elementToWaitFor: str):
         driver.get(URL)
     except:
         with open('dataAcquisitionLog.txt','a') as file:
-            file.write("["+dtstr+"]\tError: Page \""+URL+"\" could not be loaded.]\n")
+            file.write("["+dtstr+"]\tError: Page \""+URL
+                       +"\" could not be loaded.]"+Exception+"\n")
         return driver
     delay = 30 #timeout delay
     try:
@@ -66,10 +61,12 @@ def navigateToWebsite(driver, URL: str, elementToWaitFor: str):
             file.write("["+dtstr+"]\tPage \""+URL+"\" loaded successfully.\n")
     except TimeoutException:
         with open('dataAcquisitionLog.txt','a') as file:
-            file.write("["+dtstr+"]\tError: Page \""+URL+"\" loading timeout.\n")
+            file.write("["+dtstr+"]\tError: Page \""+URL
+                       +"\" loading timeout.\n")
     except:
         with open('dataAcquisitionLog.txt','a') as file:
-            file.write("["+dtstr+"]\tError: Element \""+elementToWaitFor+"\" could not be loaded.\n")
+            file.write("["+dtstr+"]\tError: Element \""+elementToWaitFor
+                       +"\" could not be loaded."+Exception+"\n")
     finally:    
         return driver
 
@@ -79,30 +76,48 @@ def exejscode(driver, jscode: str):
     #maybe typeof in js can be used to set return type
     dt = datetime.datetime.now()
     dtstr = dt.strftime('%d/%m/%Y %H:%M:%S')
-    with open('dataAcquisitionLog.txt','a') as file:
-            file.write("["+dtstr+"]\tExecuting code: \n" +jscode+"\n")
     try:
         result = driver.execute_script(jscode)
     except:
         with open('dataAcquisitionLog.txt','a') as file:
-            file.write("["+dtstr+"]\tError while executing script.\n")
-    return result
+            file.write("["+dtstr+"]\tError while executing script. "+Exception+"\n")
+    finally:
+        with open('dataAcquisitionLog.txt','a') as file:
+            file.write("["+dtstr+"]\tExtracted "+str(len(result))+" links.\n")
+        return result
+
+#extract names and ID from spreadsheet and create data frame with URLs
+def getNamesAndURLs(df: pandas.DataFrame) -> pandas.DataFrame:
+    names_IDs_URLs = df[["Vorname","Nachname","ID"]]
+    return names_IDs_URLs
 
 #main function for testing
 def main():
     #js code to be converted
     linkgrabber = getJsCode("js_scripts/linkgrabber.js")
-    URL = "https://www.webofscience.com/wos/author/record/1177820"
+    spreadsheet = pandas.read_csv("../../data/ProfsGW-proflist.csv")
+    sub_df = getNamesAndURLs(spreadsheet)
+    print(sub_df.to_string())
+    #geckodriver location can differ
     driver = launchFirefox('/snap/bin/firefox.geckodriver')
     #time to login and accept cookies etc.
     time.sleep(60)
-    driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
-    linklist = exejscode(driver, linkgrabber)
+    for ID in sub_df["ID"]:
+        if str(ID) == "nan":
+            continue
+        URL = "https://www.webofscience.com/wos/author/record/"+str(ID)
+        driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
+        linklist = exejscode(driver, linkgrabber)
+        print(str(ID)+"\t"+str(len(linklist)))
+        #linklist = filterForRelevantLinks(linklist)
+        with open(ID+'.txt','a') as file:
+            file.write(sub_df.loc[sub_df.ID == ID, "Vorname"].values[0]
+                       +" "
+                       +sub_df.loc[sub_df.ID == ID, "Nachname"].values[0]
+                       +" "+str(ID)+"\n\n")
+            for link in linklist:
+                file.write(link[0]+"\t"+link[1]+"\n\n")
     driver.quit()
-    #linklist = filterForRelevantLinks(linklist)
-    with open('linklist.txt','a') as file:
-        for link in linklist:
-            file.write(link[0]+"\t"+link[1]+"\n")
     
 
 if __name__ == "__main__":
