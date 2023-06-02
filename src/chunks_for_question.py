@@ -7,6 +7,8 @@ from compute_embedding import get_embedding
 #   - how to get the chunks? -> from folder, directly?
 #   - how to return the chunks: indices, directly, which format?
 #   - questiona as string or only tokens? both?
+#   - catch exceptions if wrong folder is named or not only target files in 
+#     there
 
 def get_k_chunks_from_folder(question: str, 
                              folder: str,
@@ -35,9 +37,9 @@ def get_k_chunks_from_folder(question: str,
             best cosine similiarity for the question orderd from best to least 
             similar.
     """
-    print(os.getcwd())
     directory = os.getcwd() + "/../data/" + folder
     for filename in os.listdir(directory):
+        # TODO: catch exceptions of wrong files/ folders...
         print(filename)
 
 def main():
