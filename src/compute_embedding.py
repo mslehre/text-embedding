@@ -7,7 +7,7 @@ from openai.embeddings_utils import get_embedding
 from tokenizer import get_token_from_string, get_string_from_tokens
 
 def embedding_from_string(string: str,
-                          embedding_name: "text-embedding-ada-002",
+                          embedding_name: str = "text-embedding-ada-002",
                           max_token: int = 8191) -> list[float]:
     """This function computes the embedding for a string.
 
