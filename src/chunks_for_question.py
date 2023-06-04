@@ -4,15 +4,14 @@ import numpy as np
 from compute_embedding import embedding_from_string
 from openai.embeddings_utils import cosine_similarity
 
-# What to think about:
-#   - how to get the chunks? -> from folder, directly?
-#   - how to return the chunks: indices, directly, which format?
-#   - questiona as string or only tokens? both?
+# TODOS:
 #   - catch exceptions if wrong folder is named or not only target files in 
 #     there
+#   - cathc exceptions if no arguments are given (e.g. no folder,...)
+#   - think about how embeddings are saved and read in...
 
-def get_k_chunks_from_folder(question: str, 
-                             folder: str,
+def get_k_chunks_from_folder(question: str = "What is a pizza?", 
+                             folder: str = "Example_chunks",
                              k: int = 1) -> list[str]:
     
     """Gets the k chunks that have the best cosine similarity with the
@@ -38,6 +37,7 @@ def get_k_chunks_from_folder(question: str,
             best cosine similiarity for the question orderd from most to least 
             similar.
     """
+    # TODO: catch exceptions if k=0, No question, ...
     # Embed the different chunks and compute cosine similarity with question:
     directory = os.getcwd() + "/../data/" + folder
     file_list = os.listdir(directory)
