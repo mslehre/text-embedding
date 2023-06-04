@@ -1,13 +1,20 @@
-#took example code from article
 #Questions to work through:
 # - settings (temperature etc) correct for us?
-# - add in our embedding etc. functions where needed
-# - what should be set as system variable, what hardcoded etc (e.g. vectorstore directory)
-# - import needed packages from langchain
-# - add main for testing
+# - add testing function? need example vectors for this...
+
+#set key with export OPENAI_API_KEY="..."
+import os
+
+import langchain
+from langchain.chains.question_answering import load_qa_chain
+from langchain.vectorstores import Chroma
+from langchain import VectorDBQA
+from langchain import PromptTemplate
+
+from compute_embedding import embedding_from_string
 
 # [Prompt]
-prompt_template = """You are a Bot assistant answering any questions about documents.
+this_prompt_template = """You are a Bot assistant answering any questions about documents.
 You are given a question and a set of documents.
 If the user's question requires you to provide specific information from the documents, give your answer based only on the examples provided below. DON'T generate an answer that is NOT written in the provided examples.
 If you don't find the answer to the user's question with the examples provided to you below, answer that you didn't find the answer in the documentation and propose him to rephrase his query with more details.
@@ -23,7 +30,6 @@ Finish by proposing your help for anything else.
 """
 
 def answer(
-  self, 
   prompt: str, 
   persist_directory: str
   ) -> str:
@@ -36,20 +42,22 @@ def answer(
         Returns:
             str: Answer generated with the LLM
         """
-        LOGGER.info(f"Start answering based on prompt: {prompt}.")
-        vectorstore = Chroma(persist_directory=persist_directory, embedding_function=self.embeddings)
-        prompt_template = PromptTemplate(template=config.prompt_template, input_variables=["context", "question"])
+        #reads in vectorstore:
+        vectorstore = Chroma(persist_directory=persist_directory, embedding_function=embedding_from_string)
+        prompt_template = PromptTemplate(template=this_prompt_template, input_variables=["context", "question"])
+
+        #sets settings for LLM:
         doc_chain = load_qa_chain(
             llm=OpenAI(
-              openai_api_key=open_ai_key, # set as system variable
               model_name="text-davinci-003",
               temperature=0,
               max_tokens=300, # Maximal number of tokens returned by the LLM
-            )
+            ),
             chain_type="stuff", 
             prompt=prompt_template,
         )
-        LOGGER.info(f"The top {config.k} chunks are considered to answer the user's query.")
+
+        #calls LLM to ask question
         qa = VectorDBQA(
             vectorstore=vectorstore,
             combine_documents_chain=doc_chain,
@@ -57,6 +65,4 @@ def answer(
         )
         result = qa({"query": prompt})
         answer = result["result"]
-        LOGGER.info(f"The returned answer is: {answer}")
-        LOGGER.info(f"Answering module over.")
         return answer
