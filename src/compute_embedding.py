@@ -4,10 +4,10 @@ import tiktoken
 import openai
 from openai.embeddings_utils import get_embedding
 
-from tokenizer import get_token_from_string 
+from tokenizer import get_token_from_string, get_string_from_tokens
 
 def embedding_from_string(string: str,
-                          embedding_name: "text-embedding-ada-002",
+                          embedding_name: str = "text-embedding-ada-002",
                           max_token: int = 8191) -> list[float]:
     """This function computes the embedding for a string.
 
@@ -26,8 +26,11 @@ def embedding_from_string(string: str,
         list[float]: The embedding for the string is returned as vector. In case
             of text-embedding-ada-002 as embedding model the dimension is 1536.
             If no embedding can be computed because the embedding model cannot
-            be accessed or the number of tokens for the string that an embedding
-            should be computed of is too large None is returned.
+            be accessed or max_token is larger than the maximum number of tokens
+            the embedding model supports, None is returned. If the string is 
+            too long because it is encoded to more tokens than max_token, the 
+            embedding for the string that is encoded to the first max_token
+            tokens is computed.
     """
     # Check if number of tokens is too large to for default embedding model.
     if (max_token > 8191):
@@ -35,14 +38,6 @@ def embedding_from_string(string: str,
             than the maximum number of tokens', embedding_name, 'supports, \
             which is', 8191, 'tokens.')
         return [None] 
-    # Get tokens from string to test whether number of tokens is too large for 
-    # the string.
-    tokens = get_token_from_string(string, max_token=max_token, force_cut=True,
-                                   verbose=True)
-    if (tokens is None):
-        print('WARNING: The number of tokens for', string, 'exceeds the \
-            maximum number of tokens which is', max_token,'.')
-        return [None]
 
     # Test if OPENAI_API_KEY is set as environment variable.  
     if (os.environ.get('OPENAI_API_KEY') is None):
@@ -51,6 +46,15 @@ def embedding_from_string(string: str,
             environment variable by typing: export OPENAI_API_KEY=\'your key\'\
             .')
         return [None]
+    # Get tokens from string to test whether number of tokens is too large for 
+    # the string. If the number of tokens for the string exceeds the maximum
+    # number of tokens, only the first max_token tokens are returned.
+    tokens = get_token_from_string(string, max_token=max_token, force_cut=True,
+                                   verbose=True)
+    # Get string from tokens since in case the string was too long and 
+    # the number of tokens was cut, the string is different from the original
+    # string.
+    string = get_string_from_tokens(tokens) 
     return get_embedding(string, engine=embedding_name)
    
 def main():

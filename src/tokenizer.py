@@ -10,7 +10,9 @@ def get_token_from_string(string: str,
     
     Args:
         string (str): The string of which the tokens are computed.
-        encoding_name (str): Name of the encoding model.
+        encoding_name (str): Name of the encoding model. The default encoding
+            model should always be the same as the default encoding model of
+            get_string_from_tokens.
         max_token (int): Max allowed length of the token list if force_cut is 
             set to True. 
         force_cut (bool): If True, cuts off tokens after max number of token. 
@@ -42,7 +44,9 @@ def get_token_for_chunks(chunks: list[str],
 
     Args:
         chunks (list[str]): List of strings for the computation of tokens.
-        encoding_name (str): Name of the encoding model.
+        encoding_name (str): Name of the encoding model. The default encoding
+            model should always be the same as the default encoding model of
+            get_token_from_string.
         max_token (int): Max allowed length of the token list if force_cut is 
             set to True. 
         force_cut (bool): If True, cuts off tokens after max number of token. 
@@ -62,6 +66,25 @@ def get_token_for_chunks(chunks: list[str],
                                       verbose=verbose)
         chunk_token.append(token)
     return chunk_token
+
+def get_string_from_tokens(token: list[int], 
+                           encoding_name: str = "cl100k_base") -> str:
+    """
+    Gets the string that tokens encode.
+
+    Args:
+        token (list[int]): The tokens which should be decoded to the string they
+            encode.
+        encoding_name (str): Name of the encoding model. The encoding model is 
+            also needed to decode the tokens. The default encoding model should
+            always be the same as the default encoding model of 
+            get_token_from_string.
+    
+    Returns:
+        str: The string that the tokens encode.
+    """
+    encoding = tiktoken.get_encoding(encoding_name)
+    return encoding.decode(token)
 
 def main():
     text = ["You are a big boy",
