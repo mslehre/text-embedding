@@ -1,0 +1,168 @@
+Welcome to the group of Matthias Höhne!
+
+Our research focuses on enzyme engineering and enzyme discovery for biocatalysis.
+
+Within the ERC Starting grant project LightZymes starting in 2018, we envision to create proteins that use light energy to catalyze non-natural reactions.
+
+For enzyme discovery, we apply in silico screening approaches to identify biocatalysts with desired properties (e.g., substrate specificity). Our key question here is: "How does enzyme's function relate with its structure and amino acid sequence"?
+
+Additionally, we use protein engineering to improve the proteins in the desired way.
+
+Together with collaborating partners from industry and academia, we apply our identified and engineered catalysts for the synthesis of fine chemicals such as chiral amines.
+
+1. LightZymes: Artificial proteins that use light for catalysis
+
+Within the ERC-starting grant project (starting 2018), we will create proteins that use light to catalyse regio- and stereoselective reactions. During evolution, new types of catalytic activities have been unlocked by utilizing additional cofactors. We will follow this thread of development and combine the strengths of bio- and photocatalysis: organo-photocatalysts will be placed as artificial cofactors into proteins to provide the protein with novel catalytic reactivities, and the proteins will be evolved to assist the catalytic reaction and to render it regio- and stereoselective.
+
+
+
+
+2. Protein Biochemistry
+
+ 
+
+In the field of biocatalysis, there are two ways to look onto a protein:
+
+The view from the chemical application: A chemist wants to identify and use a specific enzyme to catalyze a desired reaction. Appropriate enzymes can be identified by various methods like screening strain cultures or metagenomic libraries, or by doing protein engineering.
+
+The perspective of biology: Often, the starting point of the biologist is from the opposite site. Nowadays, in the area of metagenomics and next generation sequencing, we are overwhelmed with a plethora of genome sequences. However, the function of many protein sequences is still unknown, and the biologist wants to explore the physiological role of these proteins.
+
+In our research group we combine the focus of applied and basic research:
+
+
+A) Structure – sequence – function relationships and enzyme discovery
+
+Our aim is to relate general enzymatic properties like substrate specificity to patterns in protein sequence.
+
+We demonstrated the power of this strategy for the in silico discovery of (R)-selective amine-transaminases for which no protein sequence was reported. By rational design we were able to identify a plausible ancestor and necessary key mutations, which we believed, should allow the conversion of (R)-amines. Instead of constructing the predicted mutants in the lab, 20 proteins could be identified in protein databases that already carry these mutations.  Indeed, 15 enzymes  converted (R)-amines significantly (Nat Chem Biol, 2010) and five enzymes turned out to be highly useful for the asymmetric synthesis of a panel of different (R)-amines (Adv Synth Catal 2011).
+
+We also identified the catalytic function of six proteins with solved crystal structures (deposited in the protein data bank, but biochemically uncharacterized) and their biocatalytic potential as transaminases and imine reductases (ChemCatChem 2013, Appl Microb Biotechnol 2016,  JMCB 2014).
+
+From the transaminase structures, we elucidated a molecular model how dual substrate recognition works (click here for an animation)
+
+By a comprehensive bioinformatic analysis, we revealed important active site residues that determine substrate and reaction specificity of 28 different enzymes belonging to PLP fold class I (Biotech Adv 2015).
+
+ 
+
+B) Protein engineering and application of discovered enzymes
+
+Our current focus is the biocatalytic synthesis of functionalized and beta chiral amines (builiding blocks/pharmaceuticals) using transaminases (Adv Synth Catal 2015) and imine reductases. Especially imine reductases are attractive, as they allow the asymmetric one-step synthesis of secondary or tertiary amines (ChemBioChem 2017) from ketones. We synthesized both enantiomers of rasagiline using stereo complementary imine reductases (Green Chem 2017). To explore and tailor the substrate specificity, we employ methods of protein engineering, e.g. to relax the cofactor preference of an imine reductases so that NADH can be used in biocatalysis instead of NADPH (J Biotechnol 2016).
+
+Papers
+52. Kollipara M, Matzel P, Bornscheuer U, Höhne M (2022), Activity levels of amine transaminases correlate with active site hydrophobicity, Chem. Ing. Tech. DOI:10.1002/cite.202200062
+
+51. Kollipara M, Matzel P, Sowa M, Brott S, Bornscheuer U, Höhne M (2022), Characterization of proteins from the 3N5M family reveals an operationally stable amine transaminase, Appl. Microbiol. Biotechnol. 106, 5563–5574 here
+
+50. Janson N, Heinks T, Beuel T, Alam S, Höhne M, Bornscheuer UT, Fischer von Mollard G, Sewald N (2022), Efficient site-selective immobilization of aldehyde-tagged peptides and proteins by Knoevenagel ligation, ChemCatChem, 14, e202101485 here
+
+49. Heinks T, Paulus J, Koopmeiners S, Beuel T, Sewald N, Höhne M, Bornscheuer UT, Fischer von Mollard G (2022), Recombinant L-Amino acid oxidase with broad substrate spectrum for co-substrate recycling in (S)-selective transaminase-catalyzed kinetic resolutions, ChemBioChem 23, e2022003 here
+
+48. Yi D, Bayer T, Badenhorst CPS, Wu SK, Doerr M, Höhne M, Bornscheuer UT (2021), Recent trends in biocatalysis. Chem. Soc. Rev. 50, 8003-8049 here
+
+47. Marx L, Rios-Lombardia N, Süss P, Höhne M, Moris F, Gonzales-Sabin J, Berglund P (2020), Chemoenzymatic Synthesis of Sertraline. Eur. J. Org. Chem, 2020, 510-513 here
+
+46. Voss M, Xiang C, Esque J, Nobili A, Menke MJ, André I, Höhne M, Bornscheuer UT (2020), Creation of (R)‐amine transaminase activity within an α‐amino acid transaminase scaffold, ACS Chem. Biol.15, 416-424 here
+
+45. Matassa C, Ormerod D, Bornscheuer UT, Höhne M, Satyawali Y (2020), Three‐liquid‐phase spinning reactor for the transaminase‐catalyzed synthesis and recovery of a chiral amine. ChemCatChem, 12, 1288-1291 here
+
+44. Matassa C,  Romani A, Ormerod D, Bornscheuer UT, Höhne M, Satyawali Y (2020), Jeffamine (R) ED-600: a polyether amine donor for enzymatic transamination in organic solvent/solvent-free medium with membrane-assisted product extraction. J. Chem. Technol. Biotechnol. 95, 604-613 here
+
+43. Höhne M (2019), Engineering imine reductases for industrial applications. Nat. Catal. 2, 841-842 here
+
+42. Sviatenko O, Ríos‐Lombardía N, Morís F, González‐Sabín J, Manideep KV, Merdivan S, Günther S, Süss P, Höhne M (2019), One‐pot synthesis of 4‐aminocyclohexanol isomers by combining a keto reductase and an amine transaminase. ChemCatChem11, 5794-5799 here
+
+41. Schwendenwein D, Ressmann AK, Dörr M, Höhne M, Bornscheuer UT, Mihovilovic MD, Rudroff F, Winkler M (2019), Random mutagenesis‐driven improvement of carboxylate reductase activity using an amino benzamidoxime‐mediated high‐throughput assay. Adv. Synth. Catal. 361, 2544-2549 here
+
+40. Matzel P, Wenske S, Merdivan S, Günther S, Höhne M (2019), Synthesis of β‐chiral amines by dynamic kinetic resolution of α‐branched aldehydes applying imine reductases. ChemCatChem, 11, 4281–4285 here
+
+39. Matassa C, Ormeroda D, Bornscheuer UT, Höhne M, Satyawali Y (2019), Application of novel high molecular weight amine donors in chiral amine synthesis facilitates integrated downstream processing and provides in situ product recovery opportunities.  Process Biochem. 80, 17-25 here
+
+38. Zhang W, Fueyo EF, Hollmann F, Martin LL, Pesic M, Wardenga R, Höhne M, Schmidt S (2019), Combining photo-organo redox- and enzyme catalysis facilitates asymmetric C-H bond functionalization. Eur. J. Org. Chem. 2019, 80-84  here
+
+37. Mystkowska AA, Robb C, Vidal-Melgosa S, Vanni C, Fernandez-Guerra A, Höhne M, Hehemann J-H (2018), Molecular recognition of branched laminarin by a SusD-like glycan binding protein of a marine Bacteroidetes, FEBS J. 285, 4465-4481 here
+
+36. Voss M, Das D, Genz M, Kumar A, Kulkarni N, Kustosz J, Kumar P, Bornscheuer UT, Höhne M (2018), A quantum mechanics based engineering approach to improve transaminases for the conversion of bulky substrates, ACS Catal. 8, 11524–11533.
+
+35. Calvelage S, Dörr M, Höhne M, Bornscheuer UT (2017), A systematic analysis of the substrate scope of (S)- and (R)-selective amine transaminases, Adv. Synth. Catal. 359, 4235-4243 here
+
+34. Matzel P, Krautschick L, Höhne M (2017), Photometric characterization of the reductive amination scope of the imine reductases from Streptomyces tsukubaensis and Streptomyces ipomoeae, ChemBioChem 18, 2022-2027 here
+
+33. Matzel P, Gand M, Höhne M (2017), One-step asymmetric synthesis of (R)- and (S)-rasagiline by reductive amination applying imine reductases, Green Chem. 19, 385-389 here
+
+32. Gand M, Thöle C, Müller H, Brundiek H, Bashiri G, Höhne M (2016), A NADH- accepting imine reductase variant: Immobilization and cofactor regeneration by oxidative deamination, J. Biotechnol. 230, 11-18 here
+
+31. Cuetos A, Steffen-Munsberg F, Mangas Sanchez J, Frese A, Bornscheuer UT, Höhne M, Grogan G (2016), Structural basis for phospholyase activity of a Class III transaminase homolog, ChemBioChem 17, 2308–2311 here
+
+30. Wetzl D, Gand M, Ross A, Müller H, Matzel P, Hanlon SP, Müller M, Wirz B, Höhne M, Iding H (2016), Asymmetric reductive amination of ketones catalyzed by imine reductases, ChemCatChem 8, 2023-2026 here
+
+29. Höhne M, Kabisch J (2016), Brewing painkillers: a yeast cell factory for the production of opioids from sugar, Angew. Chem. Int. Ed. 55, 1248-1250 here; Schmerzmittel brauen: Eine Hefe-Zellfabrik produziert Opiate aus Zucker, Angew. Chem. 128, 1266-1268 here
+
+28. Steffen-Munsberg F, Matzel P, Sowa M, Berglund P, Bornscheuer UT, Höhne M (2016), Bacillus anthracis ω-amino acid:pyruvate transaminase employs a different mechanism for dual substrate recognition than other amine transaminases, Appl. Microb. Biotechnol. 100, 4511–4521 here
+
+27. Kohls H, Anderson M, Dickerhoff J, Weisz K, Córdova A, Berglund P, Brundiek H, Bornscheuer UT, Höhne M (2015), Selective access to all four diastereomers of an 1,3-amino alcohol by combination of a keto reductase- and an amine transaminase-catalysed reaction, Adv. Synth. Catal. 357, 1808-1814 here
+
+26. Skalden L, Peters C, Dickerhoff J, Nobili A, Joosten HJ, Weisz K, Höhne M, Bornscheuer UT (2015) Two subtle amino acid changes in a transaminase substantially enhance or invert enantiopreference in cascade syntheses, ChemBioChem 16, 1041-1045 here
+
+25. Nobili A, Steffen-Munsberg F, Kohls H, Trentin I, Schulzke C, Höhne M, Bornscheuer UT (2015) Engineering the active site of the amine-transaminase from Vibrio fluvialis for the asymmetric synthesis of aryl-alkyl amines and amino alcohols, ChemCatChem 7, 757-760 here
+
+24. Dörr M, Böttcher D, Hummel A, Höhne M, Bornscheuer UT (2015) Eine Roboterplattform für das Hochdurchsatz-Screening von Biokatalysatoren, Biospektrum 21, 230-231 here
+
+23. Steffen-Munsberg F, Vickers C, Kohls H, Land H, Mallin H, Nobili A, Skalden L, van den Bergh T, Joosten HJ, Berglund P, Höhne M, Bornscheuer UT (2015) Bioinformatic analysis of a PLP-dependent enzyme superfamily suitable for biocatalytic applications, Biotechnol. Adv. 33, 566-604 here
+
+22. Skalden L, Thomsen M, Höhne M, Bornscheuer UT, Hinrichs H (2015), Structural and biochemical characterization of the dual substrate recognition of the (R)-selective amine transaminase from Aspergillus fumigatus, FEBS J. 282, 407-415 here
+
+21. Weiss M, Pavlidis I, Vickers C, Höhne M, Bornscheuer UT (2014), A glycine oxidase based high-throughput solid-phase-assay for substrate profiling and directed evolution of (R)- and (S)-selective amine transaminases, Anal. Chem. 86, 11847-11853 here
+
+20. Gand M, Müller H, Wardenga R, Höhne M (2014), Characterization of three novel enzymes with imine reductase activity. J. Mol. Catal. B. Enzym. 110, 126-132 here
+
+19. Mallin H, Höhne M, Bornscheuer UT (2014), Immobilization of (R)- and (S)-amine transaminases on chitosan support and their application for amine synthesis using isopropylamine as donor, J. Biotechnol. 191, 32-37 here
+
+18. Kohls H, Steffen-Munsberg F, Höhne M (2014), Recent achievements in developing the biocatalytic toolbox for chiral amine synthesis. Curr. Opin. Chem. Biol. 19, 180-192 here
+
+17. Thomsen M, Skalden L, Palm GJ, Höhne M, Bornscheuer UT, Hinrichs W (2014), Crystallographic characterization of the (R)-selective amine transaminase from Aspergillus fumigatus, Acta Cryst. Sect D. 70, 1086-1093 here
+
+16. Höhne M, Bornscheuer UT (2014), Protein engineering from 'scratch' is maturing, Angew. Chem. Int. Ed. 53, 1200-1202 here; Protein engineering aus dem "Nichts" wird praktikabel, Angew. Chem. 126, 1222-1224 here
+
+15. Thomsen M, Skalden L, Palm G, Höhne M, Bornscheuer UT, Hinrichs W (2013), Crystallization and preliminary X-ray diffraction studies of the (R)-selective amine transaminase from Aspergillus fumigatus, Acta Cryst. Sect. F. 69, 1415-1417 here
+
+14. Wardenga R, Bednarczyk A, Höhne M (2013), Asymmetric synthesis of chiral amines from ketones. How to apply biocatalysis and find a suitable enzyme. PharmaChem 12, 22-25 here
+
+13. Mallin H, Menyes U, Vorhaben T, Höhne M, Bornscheuer UT (2013), Immobilization of two (R)-amine transaminases on an optimized chitosan support for the enzymatic synthesis of optically pure amines, ChemCatChem 5, 588-593 here
+
+12. Steffen-Munsberg F, Vickers C, Thontowi A, Schätzle S, Meinhardt T, Svedendahl Humble M, Land H, Berglund P, Bornscheuer UT, Höhne M (2013), Revealing the structural basis of promiscuous amine transaminase activity, ChemCatChem 5, 154-157 here
+
+11. Steffen-Munsberg F, Vickers C, Thontowi A, Schätzle S, Tumlirsch T, Svedendahl Humble M, Land H, Berglund P, Bornscheuer UT, Höhne M (2013), Connecting unexplored protein crystal structures to enzymatic function, ChemCatChem 5, 150-153 here
+
+10. Schätzle S, Steffen-Munsberg F, Thontowi A, Höhne M, Robins K, Bornscheuer UT (2011), Enzymatic asymmetric synthesis of enantiomerically pure aliphatic, aromatic and arylaliphatic amines with (R)-selective amine transaminases, Adv. Synth. Catal. 353, 2439-2445 here
+
+9. Höhne M, Schätzle S, Jochens H, Robins K, Bornscheuer UT (2010) Rational assignment of key motifs for function guides in silico enzyme identification, Nature Chem. Biol. 6, 807-813 here
+
+8. Soltwedel O, Ivanova O, Höhne M, Gopinadhan M, Helm CA (2010) Aggregation and rearrangement within a silver nanoparticle layer during polyelectrolyte multilayer formation, Langmuir 26, 15219-152284 here
+
+7. Schätzle S, Höhne M, Robins K, Bornscheuer UT (2010), A conductometric method for the rapid characterization of the substrate specificity of amine-transaminases, Anal. Chem. 82, 2082-2086 here
+
+6. Schätzle S, Höhne M, Redestad E, Robins K, Bornscheuer UT (2009), A rapid and sensitive kinetic assay for characterization of omega-transaminases, Anal. Chem, 81, 8244-8248 here
+
+5. Höhne M, Bornscheuer UT (2009), Biocatalytic routes to optically active amines, ChemCatChem 1, 42-51 here
+
+4. Kourist R, Höhne M, Bornscheuer UT (2009), Protein Design: Im Spannungsfeld zwischen gerichteter Evolution und rationalem Design, Chemie in unserer Zeit 43, 132-142 here
+
+3. Höhne M, Robins K, Bornscheuer UT (2008), A protection strategy substantially enhances rate and enantioselectivity in transaminase-catalyzed kinetic resolutions, Adv. Synth. Catal. 350, 807-812 here
+
+2. Höhne M, Kühl S, Robins K, Bornscheuer UT (2008), Efficient asymmetric synthesis of chiral amines by combining transaminase and pyruvate decarboxylase, ChemBioChem 9, 363-365 here
+
+1. Schmidt M, Barbayianni E, Fotakopoulou I, Höhne M, Constantinou-Kokotou V, Bornscheuer UT, Kokotos G (2005), Enzymatic removal of carboxyl protecting groups. Part I: Cleavage of the tert-butyl moiety, J. Org. Chem. 70, 3737-3040 here
+
+Book chapters
+Höhne M, Matzel P, Gand M (2019). Asymmetric reduction of C=N bonds by imine reductases and reductive aminases. In: Grunwald P (editor). Pharmaceutical Biocatalysis – Chemoenzymatic Synthesis of Active Pharmaceutical Ingredients, 1st Edition, Jenny Stanford Series on Biocatalysis 5, ISBN 978-981-4800-80-8, Jenny Stanford Publishing, Singapore;
+
+Brundiek H, Höhne M (2016). Transaminases – A Biosynthetic Route for Chiral Amines. In: Applied Biocatalysis - From Fundamental Science to Industrial Applications, Liese, A., et al. (Eds.), Wiley-VCH, Weinheim;
+
+Höhne, M., Bornscheuer, U.T., (2011) Application of transaminases in organic synthesis. In: Enzymes in Organic Synthesis, May, O., Gröger, H., Drauz, W. (Eds.), Wiley-VCH, Weinheim
+
+Patents
+3. Höhne, M., Bornscheuer, U., Robins, K., Schätzle, S. (2011), A process fort he identification and preparation of a (R)-specific omega-transaminase. Intern. Patent PCT WO 2011026556
+
+2. Robins, K., Bornscheuer, U., Höhne, M. (2008), Intern. Patent PCT WO 2008028654.
+
+1. Robins, K., Bornscheuer, U., Höhne, M. (2007), European Patent EP 1818411
