@@ -12,21 +12,12 @@ import time
 import datetime
 import pandas
 
-
-#def linkgrabber(profileURLs):
-#    for URL in profileURLs:
-        
-
-
-
-
-
 def getJsCode(path: str) -> str:
     with open(path) as file:
         content = file.read()
     return content
 
-def launchFirefox(geckoPath: str): 
+def launchFirefox(geckoPath: str) -> webdriver.Firefox: 
     #geckodriver 0.33 added to PATH
     #included in snap on linux distributions of firefox
     
@@ -43,8 +34,9 @@ def launchFirefox(geckoPath: str):
     print("Headless Firefox Initialized")
     return driver
 
-def navigateToWebsite(driver, URL: str, elementToWaitFor: str):
-    #visit website specified under URL    
+#visit website specified under URL and wait for specific element
+def navigateToWebsite(driver, URL: str,
+                      elementToWaitFor: str) -> webdriver.Firefox:    
     dt = datetime.datetime.now()
     dtstr = dt.strftime('%d/%m/%Y %H:%M:%S')
     try:
@@ -52,11 +44,14 @@ def navigateToWebsite(driver, URL: str, elementToWaitFor: str):
     except:
         with open('dataAcquisitionLog.txt','a') as file:
             file.write("["+dtstr+"]\tError: Page \""+URL
-                       +"\" could not be loaded.]"+type(Exception).__name_+"\n")
+                       +"\" could not be loaded.]"
+                       +type(Exception).__name_+"\n")
         return driver
     delay = 15 #timeout delay
     try:
-        myElem = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.ID, elementToWaitFor)))
+        #wait for element to be loaded
+        myElem = WebDriverWait(driver, delay).until(
+                  EC.presence_of_element_located((By.ID, elementToWaitFor)))
         with open('dataAcquisitionLog.txt','a') as file:
             file.write("["+dtstr+"]\tPage \""+URL+"\" loaded successfully.\n")
     except TimeoutException:
@@ -70,17 +65,18 @@ def navigateToWebsite(driver, URL: str, elementToWaitFor: str):
     finally:    
         return driver
 
+#call to execute js code on website
+#data type of result is only determined on runtime
+#maybe typeof in js can be used to set return type
 def exejscode(driver, jscode: str):
-    #call to execute js code on website
-    #data type of result is only determined on runtime
-    #maybe typeof in js can be used to set return type
     dt = datetime.datetime.now()
     dtstr = dt.strftime('%d/%m/%Y %H:%M:%S')
     try:
         result = driver.execute_script(jscode)
     except:
         with open('dataAcquisitionLog.txt','a') as file:
-            file.write("["+dtstr+"]\tError while executing script. "+type(Exception).__name_+"\n")
+            file.write("["+dtstr+"]\tError while executing script. "
+                       +type(Exception).__name_+"\n")
     finally:
         with open('dataAcquisitionLog.txt','a') as file:
             file.write("["+dtstr+"]\tExtracted "+str(len(result))+" links.\n")
@@ -91,6 +87,7 @@ def getNamesAndURLs(df: pandas.DataFrame) -> pandas.DataFrame:
     names_IDs_URLs = df[["Vorname","Nachname","ID"]]
     return names_IDs_URLs
 
+#function to filter for relevant links and return new list of links
 def filterForRelevantLinks(linklist: list) -> list:
     dt = datetime.datetime.now()
     dtstr = dt.strftime('%d/%m/%Y %H:%M:%S')
@@ -123,11 +120,15 @@ def main():
         driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
         linklist = exejscode(driver, linkgrabber)
         linklist = filterForRelevantLinks(linklist)
+        #write header
         with open(str(i)+'.txt','a') as file:
+            #sub_df.loc[...] returns "Vorname", "Nachname" from that row
+            #where "ID" matches current ID in loop
             file.write(sub_df.loc[sub_df.ID == ID, "Vorname"].values[0]
                        +" "
                        +sub_df.loc[sub_df.ID == ID, "Nachname"].values[0]
                        +","+str(ID)+";\n\n")
+            #write links
             for link in linklist:
                 file.write(link[0]+"\t"+link[1]+"\n\n")
     driver.quit()
