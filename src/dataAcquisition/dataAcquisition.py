@@ -52,9 +52,9 @@ def navigateToWebsite(driver, URL: str, elementToWaitFor: str):
     except:
         with open('dataAcquisitionLog.txt','a') as file:
             file.write("["+dtstr+"]\tError: Page \""+URL
-                       +"\" could not be loaded.]"+Exception+"\n")
+                       +"\" could not be loaded.]"+type(Exception).__name_+"\n")
         return driver
-    delay = 30 #timeout delay
+    delay = 15 #timeout delay
     try:
         myElem = WebDriverWait(driver, delay).until(EC.presence_of_element_located((By.ID, elementToWaitFor)))
         with open('dataAcquisitionLog.txt','a') as file:
@@ -66,7 +66,7 @@ def navigateToWebsite(driver, URL: str, elementToWaitFor: str):
     except:
         with open('dataAcquisitionLog.txt','a') as file:
             file.write("["+dtstr+"]\tError: Element \""+elementToWaitFor
-                       +"\" could not be loaded."+Exception+"\n")
+                       +"\" could not be loaded."+type(Exception).__name_+"\n")
     finally:    
         return driver
 
@@ -80,7 +80,7 @@ def exejscode(driver, jscode: str):
         result = driver.execute_script(jscode)
     except:
         with open('dataAcquisitionLog.txt','a') as file:
-            file.write("["+dtstr+"]\tError while executing script. "+Exception+"\n")
+            file.write("["+dtstr+"]\tError while executing script. "+type(Exception).__name_+"\n")
     finally:
         with open('dataAcquisitionLog.txt','a') as file:
             file.write("["+dtstr+"]\tExtracted "+str(len(result))+" links.\n")
@@ -91,34 +91,47 @@ def getNamesAndURLs(df: pandas.DataFrame) -> pandas.DataFrame:
     names_IDs_URLs = df[["Vorname","Nachname","ID"]]
     return names_IDs_URLs
 
+def filterForRelevantLinks(linklist: list) -> list:
+    dt = datetime.datetime.now()
+    dtstr = dt.strftime('%d/%m/%Y %H:%M:%S')
+    newLinklist = []
+    for link in linklist:
+        if "full-record" in link[1]:
+            newLinklist.append(link)
+    with open('dataAcquisitionLog.txt','a') as file:
+            file.write("["+dtstr+"]\tFiltered to "
+                       +str(len(newLinklist))+" links.\n")
+    return newLinklist
+
 #main function for testing
 def main():
     #js code to be converted
     linkgrabber = getJsCode("js_scripts/linkgrabber.js")
     spreadsheet = pandas.read_csv("../../data/ProfsGW-proflist.csv")
     sub_df = getNamesAndURLs(spreadsheet)
-    print(sub_df.to_string())
     #geckodriver location can differ
     driver = launchFirefox('/snap/bin/firefox.geckodriver')
     #time to login and accept cookies etc.
     time.sleep(60)
+    #i is index of the spreadsheet
+    i = 1
     for ID in sub_df["ID"]:
+        i = i+1
         if str(ID) == "nan":
             continue
         URL = "https://www.webofscience.com/wos/author/record/"+str(ID)
         driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
         linklist = exejscode(driver, linkgrabber)
-        print(str(ID)+"\t"+str(len(linklist)))
-        #linklist = filterForRelevantLinks(linklist)
-        with open(ID+'.txt','a') as file:
+        linklist = filterForRelevantLinks(linklist)
+        with open(str(i)+'.txt','a') as file:
             file.write(sub_df.loc[sub_df.ID == ID, "Vorname"].values[0]
                        +" "
                        +sub_df.loc[sub_df.ID == ID, "Nachname"].values[0]
-                       +" "+str(ID)+"\n\n")
+                       +","+str(ID)+";\n\n")
             for link in linklist:
                 file.write(link[0]+"\t"+link[1]+"\n\n")
     driver.quit()
-    
+    return 0
 
 if __name__ == "__main__":
     main()
