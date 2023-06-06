@@ -120,6 +120,9 @@ def main():
         driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
         linklist = exejscode(driver, linkgrabber)
         linklist = filterForRelevantLinks(linklist)
+        #generate no file, if list is empty after filtering
+        if len(linklist) == 0:
+            continue
         #write header
         with open(str(i)+'.txt','a') as file:
             #sub_df.loc[...] returns "Vorname", "Nachname" from that row
