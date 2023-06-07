@@ -1,28 +1,30 @@
 import os
 
+import h5py
 import numpy as np
 from compute_embedding import embedding_from_string
 from openai.embeddings_utils import cosine_similarity
 
-# TODOS:
-#   - catch exceptions if wrong folder is named or not only target files in 
-#     there
-#   - cathc exceptions if no arguments are given (e.g. no folder,...)
-#   - think about how embeddings are saved and read in...
+# TODO:
+#   - catch exceptions if wrong file  does not exist
+#   - catch exceptions if no arguments are given (e.g. no file,...)
+#   - filter embeddings that are None, because tehre are no files
 
 def get_k_IDs(question: str,
               embeddings_file: str,
               k: int) -> list[int]:
     """Gets the IDs of the k chunks that have the best cosine similarity with 
-    the embedded question. The embeddings of the chunks are given in the hpf5
+    the embedded question. The embeddings of the chunks are given in the hdf5
     file embeddin_file which should be locaded in the data directory of this
     repository. The function gives back a list that contains the IDs of the k
     best chunks starting with the best match for the question.
+    ATTENTION: At this point it only returns the indices, not IDs. It may be
+               added later.
 
     Args:
         question (str): The string of the question to scompare the embeddings 
             of the chunks to.
-        embeddings_file (str): The relative path of the hpf5 file, that 
+        embeddings_file (str): The relative path of the hdf5 file, that 
             contains the embeddings , if one is currently in the data 
             directory, since all data files should be stored there. 
             Example:    For the file named "example_embeddings" in the data 
@@ -38,15 +40,19 @@ def get_k_IDs(question: str,
             best cosine similiarity for the question orderd from most to least 
             similar.
     """
-    # TODO: catch exceptions if k=0, No question, file not exists...
     # Get the embeddings from the hpf5 file:
-
-    # ADD CODE HERE to open file and extract the dataframe and embeddings
+    file_path = os.getcwd() + "../data/" + embeddings_file
+    with h5py.File(file_path, 'r') as file:
+        file_keys = file.keys()
+        # get all embeddings, shoulb be list of lists:
+        embeddings = file[file_keys[0]][:] 
+    # TODO: filter out embeddings that are None
 
     # Compute IDs of the best embeddings and return the sorted list from 
     # biggest to smallest similarity:
-    
-    # ADD CODE HERE using get_embedding_argsort() from below
+    inds = get_embeddings_argsort(question=question, 
+                                  embedding_list=embeddings)
+    return inds[0:k]
 
     
 # For now leave the function here for test purposes, may delete later...:
@@ -100,15 +106,15 @@ def get_k_chunks_from_folder(question: str = "What is a pizza?",
     return [file_list[i] for i in inds[0:k]]
 
 def get_embeddings_argsort(question: str, 
-                             embedding_list: list[float]) -> list[int]:
+                             embedding_list: list[list[float]]) -> list[int]:
     """Gets the argsort of the given embeddings from best cosine similarity to 
     least similarity with the given question.
 
     Args:
-        question (str): The string of the question to scompare the embeddings 
-            of the chunks to.
-        embedding_list (list[float]): The list containing the embeddings of the
-            chunks.   
+        question (str): The string of the question that is compared to the 
+            embeddings of the chunks.
+        embedding_list (list[list[float]]): The list containing the embeddings 
+            of the chunks.   
 
     Returns:
         list[int]: The list that contains the indices of the argsort of the 
