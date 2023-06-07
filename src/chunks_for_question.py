@@ -8,7 +8,6 @@ from openai.embeddings_utils import cosine_similarity
 # TODO:
 #   - catch exceptions if wrong file  does not exist
 #   - catch exceptions if no arguments are given (e.g. no file,...)
-#   - filter embeddings that are None, because tehre are no files
 
 def get_k_IDs(question: str,
               embeddings_file: str,
@@ -42,16 +41,33 @@ def get_k_IDs(question: str,
     """
     # Get the embeddings from the hpf5 file:
     file_path = os.getcwd() + "../data/" + embeddings_file
-    with h5py.File(file_path, 'r') as file:
-        file_keys = file.keys()
+    with h5py.File(file_path, 'r') as f_in:
+        file_keys = f_in.keys()
         # get all embeddings, shoulb be list of lists:
-        embeddings = file[file_keys[0]][:] 
-    # TODO: filter out embeddings that are None
+        embeddings_all = f_in[file_keys[0]][:] 
+
+    # Filter out embeddings that are None and save indices/IDs of selected 
+    # embeddings:
+    embeddings = []  # empty list for embeddings that exist
+    ids = []  # list for indices/IDs of embeddings that exist
+    for i in range(0, len(embeddings_all)):
+        if(all(embeddings_all[i]) is not None):
+            embeddings.append(embeddings_all[i])
+            ids.append(i)
+        else:
+            print("A chunk could not be used as it was not computed.")
 
     # Compute IDs of the best embeddings and return the sorted list from 
     # biggest to smallest similarity:
+    # Attention: embeddings with None in it are not given to the function which
+    #            means that the resulting indices are not the right ones as 
+    #            some embeddings were deletet.
     inds = get_embeddings_argsort(question=question, 
                                   embedding_list=embeddings)
+    inds = [ids[i] for i in inds] 
+
+    # TODO: catch exception that k is bigger than number of chunks...
+    
     return inds[0:k]
 
     
@@ -90,8 +106,8 @@ def get_k_chunks_from_folder(question: str = "What is a pizza?",
 
     for filename in file_list:
         # TODO: catch exceptions of wrong files/ folders...
-        with open(directory + "/" + filename,'r') as file:
-            data = file.read().replace('\n', ' ')  # linebreaks to whitespaces
+        with open(directory + "/" + filename,'r') as f_in:
+            data = f_in.read().replace('\n', ' ')  # linebreaks to whitespaces
             string_list.append(data)
     
     chunks_embedding = []
@@ -106,7 +122,7 @@ def get_k_chunks_from_folder(question: str = "What is a pizza?",
     return [file_list[i] for i in inds[0:k]]
 
 def get_embeddings_argsort(question: str, 
-                             embedding_list: list[list[float]]) -> list[int]:
+                           embedding_list: list[list[float]]) -> list[int]:
     """Gets the argsort of the given embeddings from best cosine similarity to 
     least similarity with the given question.
 
