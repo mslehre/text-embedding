@@ -10,10 +10,49 @@ from openai.embeddings_utils import cosine_similarity
 #   - cathc exceptions if no arguments are given (e.g. no folder,...)
 #   - think about how embeddings are saved and read in...
 
+def get_k_IDs(question: str,
+              embeddings_file: str,
+              k: int) -> list[int]:
+    """Gets the IDs of the k chunks that have the best cosine similarity with 
+    the embedded question. The embeddings of the chunks are given in the hpf5
+    file embeddin_file which should be locaded in the data directory of this
+    repository. The function gives back a list that contains the IDs of the k
+    best chunks starting with the best match for the question.
+
+    Args:
+        question (str): The string of the question to scompare the embeddings 
+            of the chunks to.
+        embeddings_file (str): The relative path of the hpf5 file, that 
+            contains the embeddings , if one is currently in the data 
+            directory, since all data files should be stored there. 
+            Example:    For the file named "example_embeddings" in the data 
+                        directory the strings should be in the following 
+                        format: "example_embeddings" (without "/" at the 
+                        beginning)
+            If the file is stored in another folder, then use the relative 
+            path without "/" at the beginning. (e.g. "folder/file_name")
+        k (int): Integer that indicates the number of chunks that are returned.   
+
+    Returns:
+        list[int]: The list that contains the IDs of the k files with the 
+            best cosine similiarity for the question orderd from most to least 
+            similar.
+    """
+    # TODO: catch exceptions if k=0, No question, file not exists...
+    # Get the embeddings from the hpf5 file:
+
+    # ADD CODE HERE to open file and extract the dataframe and embeddings
+
+    # Compute IDs of the best embeddings and return the sorted list from 
+    # biggest to smallest similarity:
+    
+    # ADD CODE HERE using get_embedding_argsort() from below
+
+    
+# For now leave the function here for test purposes, may delete later...:
 def get_k_chunks_from_folder(question: str = "What is a pizza?", 
                              folder: str = "Example_chunks",
                              k: int = 1) -> list[str]:
-    
     """Gets the k chunks that have the best cosine similarity with the
     embedded question. The analysed chunks are taken from the named folder, 
     every file in this folder is embedded and compared to the embedded 
