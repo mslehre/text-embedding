@@ -32,3 +32,68 @@ split -l 20 -a 1 --additional-suffix=.txt proflist proflist-
 
 
 links-{chunk}.txt
+
+## Table with institute, faculty and web of science ID
+Export spreadsheet from Drive in tab-separated format on  Mo 5. Jun 13:46:39 CEST 2023 to obtain
+`proflist-drieve5Jun.tsv`.
+
+Create master table with profs
+```
+FNAME=prof.tbl
+echo -e "id\tlastname\tfirstname\tinstitute\tfaculty\ttitle\tWoSID" > $FNAME
+tail -n +2  proflist-drive5Jun.tsv | perl -ne 'chomp; @f = split /\t/; $i=0 if !defined $i; print "$i\t$f[2]\t$f[1]\t$f[7]\t$f[6]\t$f[0]\t$f[5]\n"; $i++' >> $FNAME
+```
+```
+# head -n 5 prof.tbl
+# tail  -n 5 prof.tbl
+id      lastname        firstname       institute       faculty title   WoSID
+0       Link    Andreas Institut für Pharmazie  MNF     Prof. Dr. rer. nat.     1152429
+1       Frosch  Christian       Caspar-David-Friedrich-Institut CDFI    Prof.
+2       Wacker  Alexander       Zoologisches Institut und Museum        MNF     Prof. Dr.       1070397
+3       Tamminga        Allard  Institut für Philosophie        PHIL    Prof. Dr.       16382291
+...
+132     Kuhn    Thomas  Theologische Fakultät   THEO    Prof. Dr. theol.
+133     Braune-Krickau  Tobias  Theologische Fakultät   THEO    Prof. Dr.       5781747
+134     Fried   Torsten Historisches Institut   PHIL    Prof. Dr.
+135     Soltau  Michael Caspar-David-Friedrich-Institut CDFI    Prof.
+136     Warr    Laurence        Institut für Geographie und Geologie    MNF     Prof. PhD       16185175
+```
+
+### Mapping Institutes and Faculty to Colors
+
+Faculties
+```
+cut -f 5 prof.tbl | sort -u > colors.fak.tbl
+```
+manually add colors `colors.fak.tbl`:
+```
+# more colors.fak.tbl
+faculty color
+MNF     0
+PHIL    1
+RSF     2
+THEO    3
+CDFI    4
+CSFI    5
+```
+
+Institutes
+```
+echo -e "institute_long\tcolor\tinstitute_short" > colors.inst.tbl
+cut -f 4 prof.tbl | sort -u  | grep -Pv "^$" | perl -ne 'chomp; @f = split /\t/; $i=0 if !defined $i; print "$f[0]\t$i\t$f[0]\n"; $i++' >> colors.inst.tbl
+```
+manually edit `colors.inst.tbl` and short the names:
+```
+# head colors.inst.tbl
+faculty color
+institute_long  color   institute_short
+Caspar-David-Friedrich-Institut 1       CDFI
+Fachbereich Rechtswissenschaften        2       Jura
+Fachbereich Wirtschaftswissenschaften   3       Wiwi
+Historisches Institut   4       Geschichte
+Institut für Anatomie und Zellbiologie  6       Anatomie
+Institut für Anglistik und Amerikanistik        7       Anglistik
+Institut für Baltistik  8       Baltistik
+Institut für Biochemie  9       Biochemie
+Institut für Botanik und Landschaftsökologie    10      Botanik
+```
