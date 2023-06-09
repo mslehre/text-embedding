@@ -14,7 +14,7 @@ def dir_readable(arg):
     return arg
 
 def read_pubs(dir_path: str, 
-              n: int) -> tuple(list[str], np.ndarray):
+              n: int) -> tuple[list[str], np.ndarray]:
     """
     Read publication lists in given directory
 
@@ -56,8 +56,8 @@ def read_pubs(dir_path: str,
     return pubs, author_ids
 
 def embeddings_from_pubs(pubs: list[str], 
-                         embedding_name: 'text-embedding-ada-002',
-                         max_token: 8191 ) -> np.ndarray:    
+                         embedding_name: str = 'text-embedding-ada-002',
+                         max_token: int = 8191 ) -> np.ndarray:    
     """
     Get the embeddings of the publications for every author
 
@@ -91,31 +91,22 @@ def embeddings_from_pubs(pubs: list[str],
 
 def main():
     parser = argparse.ArgumentParser(
-        description='')
+        description='Compute embeddings for lists of publications.')
     parser.add_argument('-p', '--publications', type = dir_readable, 
                         required = True,
                         help = 'Directory containing files with names ' 
-                        + '<author_id>.txt.')
+                        + '<author_id>.txt, which contain publication lists.')
     parser.add_argument('-n', '--num_authors', type = int, required = True,
                         help = 'Number of expected files in the publications ' 
                         + 'directory, i.e if the highest author id in the ' 
                         + 'directory is 10, specify 11 as the indexing starts '
                         + 'with 0. A subset of the files may be missing.')
-    parser.add_argument('-o', '-outfile', default = 'pub_embed.h5',
-                        help = 'Output file in hdf5 format.')
-    parser.add_argument('--descr', type = str,
-                        help = 'Custom description in the hdf5 file.')
-    args = parser.parse_args()
-
-    
-    descr = args.descr if args.descr else \
-        "publication_embedding: 2-dim numpy array\n" \
-        + "Each line contains the embedding of a publication list computed " \
-        + "with embedding model \"text-embedding-ada-002\".\n\n" \
-        + "author_ids: 1-dim numpy array\n" \
-        + "Each entry contains the author ID corresponding to the " \
-        + "publication list embedding at the same index in " \
-        + "publication_embedding."
+    parser.add_argument('-o', '--outfile', default = 'pub_embed.h5',
+                        help = 'Output file in hdf5 format with data sets: ' 
+                        + 'publication_embedding: 2-dim numpy array with '
+                        + 'embeddings. author_ids: 1-dim numpy array '
+                        + 'containing the ids for each embedding.')
+    args = parser.parse_args()        
 
     # read publications and compute embeddings
     pubs, author_ids = read_pubs(args.publications, args.num_authors)
@@ -129,8 +120,6 @@ def main():
         f_out.create_dataset(name = 'author_ids', 
                              data = author_ids,
                              compression = 'gzip')
-        f_out.create_dataset(name = 'description', 
-                             data = descr)
     
     exit(0)
 
