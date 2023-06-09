@@ -1,8 +1,70 @@
 Michael Lalk,1182517;
 
+Genomic analysis of the international high-risk clonal lineage Klebsiella pneumoniae sequence type 395	https://www.webofscience.com/wos/woscc/full-record/WOS:000932067900001
+
+Structural Insights into (Tere)phthalate-Ester Hydrolysis by a Carboxylesterase and Its Role in Promoting PET Depolymerization	https://www.webofscience.com/wos/woscc/full-record/WOS:000898569200001
+
+Systemic Bile Acids Affect the Severity of Acute Pancreatitis in Mice Depending on Their Hydrophobicity and the Disease Pathogenesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000884050700001
+
+The conserved protein WhiA influences branched-chain fatty acid precursors in Bacillus subtilis	https://www.webofscience.com/wos/pprn/full-record/PPRN:22471949
+
+Morphology, microbiota, and metabolome along the intestinal tract of female turkeys	https://www.webofscience.com/wos/woscc/full-record/WOS:000861197400022
+
+Clostridioides difficile Modifies its Aromatic Compound Metabolism in Response to Amidochelocardin-Induced Membrane Stress	https://www.webofscience.com/wos/woscc/full-record/WOS:000842915000001
+
+Hydroxylation and dimerization of para-dihydroxylated aromatic compounds mediated by cold atmospheric-pressure plasma in comparison with chemically catalyzed reactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000838160600001
+
+Antimicrobial volatiles emitted by members of the nest microbiome of social spiders	https://www.webofscience.com/wos/woscc/full-record/WOS:000867888800001
+
+Novel Effective Fluorinated Benzothiophene-Indole Hybrid Antibacterials against S. aureus and MRSA Strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000856790100001
+
+Investigation on the colonisation of Campylobacter strains in the pig intestine depending on available metabolites	https://www.webofscience.com/wos/woscc/full-record/WOS:000878499500001
+
+Re-expression of tafazzin isoforms in TAZ-deficient C6 glioma cells restores cardiolipin composition but not proliferation rate and alterations in gene expression (vol 13, 931017, 2022)	https://www.webofscience.com/wos/woscc/full-record/WOS:000874630000001
+
+Connecting Algal Polysaccharide Degradation to Formaldehyde Detoxification	https://www.webofscience.com/wos/woscc/full-record/WOS:000814837100001
+
+Bioactive lipid screening during respiratory tract infections with bacterial and viral pathogens in mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000809348100001
+
+BILE ACIDS MODULATE THE SEVERITY OF ACUTE PANCREATITIS DEPENDING ON THEIR HYDROPHOBICITY AND BY INTERACTING WITH CCK1 RECEPTOR	https://www.webofscience.com/wos/woscc/full-record/WOS:000826446203415
+
+Pathogenesis of vaccine-induced immune thrombotic thrombocytopenia (VITT)	https://www.webofscience.com/wos/woscc/full-record/WOS:000799051900007
+
+Metabolite Profiling of the Social Spider Stegodyphus dumicola Along a Climate Gradient	https://www.webofscience.com/wos/woscc/full-record/WOS:000791356400001
+
+Synergistic effect of plasma-activated medium and novel indirubin derivatives on human skin cancer cells by activation of the AhR pathway (vol 12, 2528, 2022)	https://www.webofscience.com/wos/woscc/full-record/WOS:000769065000038
+
+Synergistic effect of plasma-activated medium and novel indirubin derivatives on human skin cancer cells by activation of the AhR pathway	https://www.webofscience.com/wos/woscc/full-record/WOS:000756701900016
+
 Air Ambulance: Antimicrobial Power of Bacterial Volatiles	https://www.webofscience.com/wos/woscc/full-record/WOS:000747276900001
 
 Novel Small-Molecule Hybrid-Antibacterial Agents against S. aureus and MRSA Strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000741200700001
+
+Preparation, Characterization and Antimicrobial Properties of Nanosized Silver-Containing Carbon/Silica Composites from Rice Husk Waste	https://www.webofscience.com/wos/woscc/full-record/WOS:000735199900012
+
+Insights in ChAdOx1 nCoV-19 vaccine-induced immune thrombotic thrombocytopenia	https://www.webofscience.com/wos/woscc/full-record/WOS:000730824000013
+
+Bronchial Epithelial Cells Accumulate Citrate Intracellularly in Response to Pneumococcal Hydrogen Peroxide	https://www.webofscience.com/wos/woscc/full-record/WOS:000719871200005
+
+Influenza A H1N1 Induced Disturbance of the Respiratory and Fecal Microbiome of German Landrace Pigs - a Multi-Omics Characterization	https://www.webofscience.com/wos/woscc/full-record/WOS:000728629300016
+
+Ethanol inactivation of orthonairoviruses in ixodid ticks	https://www.webofscience.com/wos/woscc/full-record/WOS:000698127200001
+
+An Innovative Protocol for Metaproteomic Analyses of Microbial Pathogens in Cystic Fibrosis Sputum	https://www.webofscience.com/wos/woscc/full-record/WOS:000698797500001
+
+Antimicrobial Compounds in the Volatilome of Social Spider Communities	https://www.webofscience.com/wos/woscc/full-record/WOS:000695871800001
+
+Biotransformation of bisphenol a analogues by the biphenyl-degrading bacterium Cupriavidus basilensis - a structure-biotransformation relationship (vol 104, pg 3569, 2020)	https://www.webofscience.com/wos/woscc/full-record/WOS:000673871800002
+
+The novel impact of hydrophobic bile acids in acute pancreatitis and its mechanism	https://www.webofscience.com/wos/woscc/full-record/WOS:000688499100032
+
+Gas Plasma Technology Augments Ovalbumin Immunogenicity and OT-II T Cell Activation Conferring Tumor Protection in Mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000626161400001
+
+Carbon Source-Dependent Reprogramming of Anaerobic Metabolism in Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000631851200007
+
+Cell morphology maintenance in Bacillus subtilis through balanced peptidoglycan synthesis and hydrolysis (vol 10, 17910, 2020)	https://www.webofscience.com/wos/woscc/full-record/WOS:000629631300004
+
+Primary and Secondary Gliosarcoma: Differences in Treatment and Outcome	https://www.webofscience.com/wos/woscc/full-record/WOS:000614795700001
 
 Crystal Structure and Pathophysiological Role of the Pneumococcal Nucleoside-binding Protein PnrA	https://www.webofscience.com/wos/woscc/full-record/WOS:000606810600007
 
@@ -10,93 +72,31 @@ From Proteomics to Personalized Medicine: The Importance of Isoflavone Dose and 
 
 On the Liquid Chemistry of the Reactive Nitrogen Species Peroxynitrite and Nitrogen Dioxide Generated by Physical Plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000601730500001
 
+A Multi-Omics Protocol for Swine Feces to Elucidate Longitudinal Dynamics in Microbiome Structure and Function	https://www.webofscience.com/wos/woscc/full-record/WOS:000602479000001
+
+Self-assembled mono- and bilayers on gold electrodes to assess antioxidants-a comparative study	https://www.webofscience.com/wos/woscc/full-record/WOS:000545044600001
+
+Cell morphology maintenance in Bacillus subtilis through balanced peptidoglycan synthesis and hydrolysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000585147800016
+
+Novel effective antibacterial small-molecules against Staphylococcus and Enterococcus strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000613275500003
+
+Prothrombotic and Proinflammatory Activities of the beta-Hemolytic Group B Streptococcal Pigment	https://www.webofscience.com/wos/woscc/full-record/WOS:000546426200003
+
+Exploring metabolic adaptation of Streptococcus pneumoniae to antibiotics	https://www.webofscience.com/wos/woscc/full-record/WOS:000521525500002
+
 Ring-Closure Mechanisms Mediated by Laccase to Synthesize Phenothiazines, Phenoxazines, and Phenazines	https://www.webofscience.com/wos/woscc/full-record/WOS:000543740600015
 
+Analyses of competent and non-competent subpopulations of Bacillus subtilis reveal yhfW, yhxC and ncRNAs as novel players in competence	https://www.webofscience.com/wos/woscc/full-record/WOS:000525776400001
+
+Biotransformation of bisphenol A analogues by the biphenyl-degrading bacterium Cupriavidusbasilensis - a structure-biotransformation relationship	https://www.webofscience.com/wos/woscc/full-record/WOS:000518077800004
+
 On a heavy path - determining cold plasma-derived short-lived species chemistry using isotopic labelling	https://www.webofscience.com/wos/woscc/full-record/WOS:000526930200008
+
+16HBE Cell Lipid Mediator Responses to Mono and Co-Infections with Respiratory Pathogens	https://www.webofscience.com/wos/woscc/full-record/WOS:000523660800002
 
 Proteomic and Membrane Lipid Correlates of Re-duced Host Defense Peptide Susceptibility in a snoD Mutant of Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000506678800014
 
 Novel Small-molecule Antibacterials against Gram-positive Pathogens of Staphylococcus and Enterococcus Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000506678800054
 
-The Absence of Pyruvate Kinase Affects Glucose-Dependent Carbon Catabolite Repression in Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000494273300024
-
-Eicosanoid Profile of Influenza A Virus Infected Pigs	https://www.webofscience.com/wos/woscc/full-record/WOS:000481505900033
-
-Metabolic inventory of Streptococcus pneumoniae growing in a chemical defined environment	https://www.webofscience.com/wos/woscc/full-record/WOS:000444663400016
-
-Novel Effective Small-Molecule Antibacterials against Enterococcus Strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000419242400158
-
-Metabolic Perturbations in a Bacillus subtilis clpP Mutant during Glucose Starvation	https://www.webofscience.com/wos/woscc/full-record/WOS:000423938000015
-
-N-acetyl ornithine deacetylase is a moonlighting protein and is involved in the adaptation of Entamoeba histolytica to nitrosative stress (vol 6, 36323, 2016)	https://www.webofscience.com/wos/woscc/full-record/WOS:000398382400001
-
-Differential effects of Helenalin, an anti-inflammatory sesquiterpene lactone, on the proteome, metabolome and the oxidative stress response in several immune cell types	https://www.webofscience.com/wos/woscc/full-record/WOS:000397550600005
-
-Genetic engineering of the branched fatty acid metabolic pathway of Bacillus subtilis for the overproduction of surfactin C-14 isoform	https://www.webofscience.com/wos/woscc/full-record/WOS:000404888200009
-
-Biotransformation and reduction of estrogenicity of bisphenol A by the biphenyl-degrading Cupriavidus basilensis	https://www.webofscience.com/wos/woscc/full-record/WOS:000399705800020
-
-Novel inhibitors of the methicillin-resistant Staphylococcus aureus (MRSA)-pyruvate kinase	https://www.webofscience.com/wos/woscc/full-record/WOS:000385270300105
-
-A proteomic approach for the identification of immunotoxic properties of Tulipalin A	https://www.webofscience.com/wos/woscc/full-record/WOS:000389220000009
-
-Staphylococcus aureus Infection Reduces Nutrition Uptake and Nucleotide Biosynthesis in a Human Airway Epithelial Cell Line	https://www.webofscience.com/wos/woscc/full-record/WOS:000393034200010
-
-N-acetyl ornithine deacetylase is a moonlighting protein and is involved in the adaptation of Entamoeba histolytica to nitrosative stress	https://www.webofscience.com/wos/woscc/full-record/WOS:000386970400001
-
-The Impact of Soy Isoflavones on MCF-7 and MDA-MB-231 Breast Cancer Cells Using a Global Metabolomic Approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000385525500070
-
-Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000378517600001
-
-Burkholderia pseudomallei Colony Morphotypes Show a Synchronized Metabolic Pattern after Acute Infection	https://www.webofscience.com/wos/woscc/full-record/WOS:000373272500022
-
-Proteomic Identification of Oxidized Proteins in Entamoeba histolytica by Resin-Assisted Capture: Insights into the Role of Arginase in Resistance to Oxidative Stress	https://www.webofscience.com/wos/woscc/full-record/WOS:000372565700049
-
-Soy Isoflavones and Breast Cancer Cell Lines: Molecular Mechanisms and Future Perspectives	https://www.webofscience.com/wos/woscc/full-record/WOS:000369485600004
-
-BRCA1 and CtIP suppress long-tract gene conversion between sister chromatids	https://www.webofscience.com/wos/woscc/full-record/WOS:000325533700001
-
-Staphylococcus aureus Infection Reduces Nutrition Uptake and Nucleotide Biosynthesis in a Human Airway Epithelial Cell Line.	https://www.webofscience.com/wos/medline/full-record/MEDLINE:27834866
-
-Production of the polyketide 6-deoxyerythronolide B in the heterologous host Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000369308900013
-
-A proteomic perspective of the interplay of Staphylococcus aureus and human alveolar epithelial cells during infection	https://www.webofscience.com/wos/woscc/full-record/WOS:000364882200019
-
-An in vitro approach for evaluating the immunotoxic potential of Cannabidiol	https://www.webofscience.com/wos/woscc/full-record/WOS:000370693801485
-
-Evaluation of the immunotoxic potential of Tulipalin A by a combination of functional in-vitro investigations and omics analyses	https://www.webofscience.com/wos/woscc/full-record/WOS:000370693801486
-
-Omics technologies for the prediction of immunmodulatory effects	https://www.webofscience.com/wos/woscc/full-record/WOS:000370693801512
-
-Modelling antibiotic and cytotoxic isoquinoline effects in Staphylococcus aureus, Staphylococcus epidermidis and mammalian cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000348957700011
-
-Regulation of the Arginine Deiminase System by ArgR2 Interferes with Arginine Metabolism and Fitness of Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000347073600012
-
-Cell physiology of the biotechnological relevant bacterium Bacillus pumilus-An omics-based approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000345970300034
-
-Cytotoxic activity of aquatic fungus Pseudohalonectria lignicola on two different human cell lines	https://www.webofscience.com/wos/woscc/full-record/WOS:000345550400136
-
-Impact of Antibiotics with Various Target Sites on the Metabolome of Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000345221000015
-
-Comparative proteome analysis reveals conserved and specific adaptation patterns of Staphylococcus aureus after internalization by different types of human non-professional phagocytic host cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000341013700001
-
-Synthesis of Functionalized Diaryldiazenes by Formal [3+3] Cyclizations of 1,3-Bis(silyloxy)-1,3-butadienes with 2-Aryldiazenyl-3-silyloxy-2-en-1-ones	https://www.webofscience.com/wos/woscc/full-record/WOS:000343191700012
-
-Replacement, refinement, and reduction: Necessity of standardization and computational models for long bone fracture repair in animals	https://www.webofscience.com/wos/woscc/full-record/WOS:000339964300042
-
-A time resolved metabolomics study: the influence of different carbon sources during growth and starvation of Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000337103600020
-
-Adaptation of B acillus subtilis carbon core metabolism to simultaneous nutrient limitation and osmotic challenge: a multi-omics perspective	https://www.webofscience.com/wos/woscc/full-record/WOS:000337512000034
-
-GdpS contributes to Staphylococcus aureus biofilm formation by regulation of eDNA release	https://www.webofscience.com/wos/woscc/full-record/WOS:000336339500010
-
-Staphylococcus aureus metabolic response to changing environmental conditions - A metabolomics perspective	https://www.webofscience.com/wos/woscc/full-record/WOS:000336339500002
-
-Staphylococcus aureus Alpha-Toxin Mediates General and Cell Type-Specific Changes in Metabolite Concentrations of Immortalized Human Airway Epithelial Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000336970400112
-
-Bacillus pumilus Reveals a Remarkably High Resistance to Hydrogen Peroxide Provoked Oxidative Stress	https://www.webofscience.com/wos/woscc/full-record/WOS:000330240500061
-
-Nutrient Limitation Governs Staphylococcus aureus Metabolism and Niche Adaptation in the Human Nose	https://www.webofscience.com/wos/woscc/full-record/WOS:000332640900029
-
-Human sweat - the natural environment of the antimicrobial peptide dermcidin	https://www.webofscience.com/wos/woscc/full-record/WOS:000332335500229
+Antibacterial Evaluation of Novel Substituted Cycloheptaindoles in Staphylococcus and Enterococcus Strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000497706100001
 

@@ -1,5 +1,7 @@
 Sabine Müller,653208;
 
+Boronic Acid Assisted Self-Assembly of Functional RNAs	https://www.webofscience.com/wos/woscc/full-record/WOS:000981439400001
+
 Azide-modified Nucleosides as Versatile Tools for Bioorthogonal Labeling and Functionalization	https://www.webofscience.com/wos/woscc/full-record/WOS:000758363300001
 
 RNA self-splicing by engineered hairpin ribozyme variants	https://www.webofscience.com/wos/woscc/full-record/WOS:000749588900030

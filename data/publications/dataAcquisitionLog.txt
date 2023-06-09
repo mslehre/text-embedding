@@ -1,255 +1,326 @@
-[06/06/2023 13:46:30]	Page "https://www.webofscience.com/wos/author/record/1152429" loaded successfully.
-[06/06/2023 13:46:34]	Extracted 151 links.
-[06/06/2023 13:46:34]	Filtered to 44 links.
-[06/06/2023 13:46:34]	Page "https://www.webofscience.com/wos/author/record/1070397" loaded successfully.
-[06/06/2023 13:46:39]	Extracted 164 links.
-[06/06/2023 13:46:39]	Filtered to 50 links.
-[06/06/2023 13:46:39]	Error: Page "https://www.webofscience.com/wos/author/record/16382291" loading timeout.
-[06/06/2023 13:46:56]	Extracted 19 links.
-[06/06/2023 13:46:56]	Filtered to 0 links.
-[06/06/2023 13:46:56]	Error: Page "https://www.webofscience.com/wos/author/record/28784297" loading timeout.
-[06/06/2023 13:47:13]	Extracted 19 links.
-[06/06/2023 13:47:13]	Filtered to 0 links.
-[06/06/2023 13:47:13]	Page "https://www.webofscience.com/wos/author/record/528741" loaded successfully.
-[06/06/2023 13:47:17]	Extracted 167 links.
-[06/06/2023 13:47:17]	Filtered to 50 links.
-[06/06/2023 13:47:17]	Page "https://www.webofscience.com/wos/author/record/1633393" loaded successfully.
-[06/06/2023 13:47:21]	Extracted 164 links.
-[06/06/2023 13:47:21]	Filtered to 50 links.
-[06/06/2023 13:47:21]	Page "https://www.webofscience.com/wos/author/record/209287" loaded successfully.
-[06/06/2023 13:47:26]	Extracted 170 links.
-[06/06/2023 13:47:26]	Filtered to 50 links.
-[06/06/2023 13:47:26]	Error: Page "https://www.webofscience.com/wos/author/record/10996438" loading timeout.
-[06/06/2023 13:47:42]	Extracted 19 links.
-[06/06/2023 13:47:42]	Filtered to 0 links.
-[06/06/2023 13:47:42]	Error: Page "https://www.webofscience.com/wos/author/record/832193" loading timeout.
-[06/06/2023 13:47:58]	Extracted 125 links.
-[06/06/2023 13:47:58]	Filtered to 39 links.
-[06/06/2023 13:47:58]	Error: Page "https://www.webofscience.com/wos/author/record/29122867" loading timeout.
-[06/06/2023 13:48:14]	Extracted 19 links.
-[06/06/2023 13:48:14]	Filtered to 0 links.
-[06/06/2023 13:48:14]	Error: Page "https://www.webofscience.com/wos/author/record/9033334" loading timeout.
-[06/06/2023 13:48:31]	Extracted 19 links.
-[06/06/2023 13:48:31]	Filtered to 0 links.
-[06/06/2023 13:48:31]	Error: Page "https://www.webofscience.com/wos/author/record/40896787" loading timeout.
-[06/06/2023 13:48:47]	Extracted 19 links.
-[06/06/2023 13:48:47]	Filtered to 0 links.
-[06/06/2023 13:48:47]	Error: Page "https://www.webofscience.com/wos/author/record/17912705" loading timeout.
-[06/06/2023 13:49:04]	Extracted 19 links.
-[06/06/2023 13:49:04]	Filtered to 0 links.
-[06/06/2023 13:49:04]	Error: Page "https://www.webofscience.com/wos/author/record/18551932" loading timeout.
-[06/06/2023 13:49:20]	Extracted 19 links.
-[06/06/2023 13:49:20]	Filtered to 0 links.
-[06/06/2023 13:49:20]	Error: Page "https://www.webofscience.com/wos/author/record/7491794" loading timeout.
-[06/06/2023 13:49:36]	Extracted 19 links.
-[06/06/2023 13:49:36]	Filtered to 0 links.
-[06/06/2023 13:49:36]	Error: Page "https://www.webofscience.com/wos/author/record/43934982" loading timeout.
-[06/06/2023 13:49:52]	Extracted 19 links.
-[06/06/2023 13:49:52]	Filtered to 0 links.
-[06/06/2023 13:49:52]	Page "https://www.webofscience.com/wos/author/record/1933480" loaded successfully.
-[06/06/2023 13:49:55]	Extracted 44 links.
-[06/06/2023 13:49:55]	Filtered to 9 links.
-[06/06/2023 13:49:55]	Error: Page "https://www.webofscience.com/wos/author/record/13135515" loading timeout.
-[06/06/2023 13:50:12]	Extracted 19 links.
-[06/06/2023 13:50:12]	Filtered to 0 links.
-[06/06/2023 13:50:12]	Error: Page "https://www.webofscience.com/wos/author/record/16726735" loading timeout.
-[06/06/2023 13:50:28]	Extracted 19 links.
-[06/06/2023 13:50:28]	Filtered to 0 links.
-[06/06/2023 13:50:28]	Error: Page "https://www.webofscience.com/wos/author/record/14030208" loading timeout.
-[06/06/2023 13:50:44]	Extracted 19 links.
-[06/06/2023 13:50:44]	Filtered to 0 links.
-[06/06/2023 13:50:44]	Error: Page "https://www.webofscience.com/wos/author/record/12002066" loading timeout.
-[06/06/2023 13:51:00]	Extracted 19 links.
-[06/06/2023 13:51:00]	Filtered to 0 links.
-[06/06/2023 13:51:00]	Error: Page "https://www.webofscience.com/wos/author/record/27809429" loading timeout.
-[06/06/2023 13:51:16]	Extracted 19 links.
-[06/06/2023 13:51:16]	Filtered to 0 links.
-[06/06/2023 13:51:16]	Error: Page "https://www.webofscience.com/wos/author/record/23415830" loading timeout.
-[06/06/2023 13:51:32]	Extracted 19 links.
-[06/06/2023 13:51:32]	Filtered to 0 links.
-[06/06/2023 13:51:32]	Error: Page "https://www.webofscience.com/wos/author/record/8456107" loading timeout.
-[06/06/2023 13:51:48]	Extracted 19 links.
-[06/06/2023 13:51:48]	Filtered to 0 links.
-[06/06/2023 13:51:48]	Error: Page "https://www.webofscience.com/wos/author/record/23161498" loading timeout.
-[06/06/2023 13:52:05]	Extracted 19 links.
-[06/06/2023 13:52:05]	Filtered to 0 links.
-[06/06/2023 13:52:05]	Page "https://www.webofscience.com/wos/author/record/2360917" loaded successfully.
-[06/06/2023 13:52:10]	Extracted 164 links.
-[06/06/2023 13:52:10]	Filtered to 50 links.
-[06/06/2023 13:52:10]	Error: Page "https://www.webofscience.com/wos/author/record/12417651" loading timeout.
-[06/06/2023 13:52:26]	Extracted 19 links.
-[06/06/2023 13:52:26]	Filtered to 0 links.
-[06/06/2023 13:52:26]	Error: Page "https://www.webofscience.com/wos/author/record/34436052" loading timeout.
-[06/06/2023 13:52:42]	Extracted 19 links.
-[06/06/2023 13:52:42]	Filtered to 0 links.
-[06/06/2023 13:52:42]	Page "https://www.webofscience.com/wos/author/record/1683686" loaded successfully.
-[06/06/2023 13:52:46]	Extracted 164 links.
-[06/06/2023 13:52:46]	Filtered to 50 links.
-[06/06/2023 13:52:46]	Page "https://www.webofscience.com/wos/author/record/1690610" loaded successfully.
-[06/06/2023 13:52:50]	Extracted 160 links.
-[06/06/2023 13:52:50]	Filtered to 50 links.
-[06/06/2023 13:52:50]	Page "https://www.webofscience.com/wos/author/record/759114" loaded successfully.
-[06/06/2023 13:52:59]	Extracted 166 links.
-[06/06/2023 13:52:59]	Filtered to 50 links.
-[06/06/2023 13:52:59]	Error: Page "https://www.webofscience.com/wos/author/record/22341702" loading timeout.
-[06/06/2023 13:53:15]	Extracted 19 links.
-[06/06/2023 13:53:15]	Filtered to 0 links.
-[06/06/2023 13:53:15]	Error: Page "https://www.webofscience.com/wos/author/record/11278775" loading timeout.
-[06/06/2023 13:53:31]	Extracted 19 links.
-[06/06/2023 13:53:31]	Filtered to 0 links.
-[06/06/2023 13:53:31]	Error: Page "https://www.webofscience.com/wos/author/record/22009360" loading timeout.
-[06/06/2023 13:53:48]	Extracted 19 links.
-[06/06/2023 13:53:48]	Filtered to 0 links.
-[06/06/2023 13:53:48]	Error: Page "https://www.webofscience.com/wos/author/record/27978917" loading timeout.
-[06/06/2023 13:54:04]	Extracted 19 links.
-[06/06/2023 13:54:04]	Filtered to 0 links.
-[06/06/2023 13:54:04]	Error: Page "https://www.webofscience.com/wos/author/record/24618944" loading timeout.
-[06/06/2023 13:54:20]	Extracted 19 links.
-[06/06/2023 13:54:20]	Filtered to 0 links.
-[06/06/2023 13:54:20]	Error: Page "https://www.webofscience.com/wos/author/record/5548040" loading timeout.
-[06/06/2023 13:54:37]	Extracted 19 links.
-[06/06/2023 13:54:37]	Filtered to 0 links.
-[06/06/2023 13:54:37]	Error: Page "https://www.webofscience.com/wos/author/record/27932947" loading timeout.
-[06/06/2023 13:54:52]	Extracted 19 links.
-[06/06/2023 13:54:52]	Filtered to 0 links.
-[06/06/2023 13:54:52]	Error: Page "https://www.webofscience.com/wos/author/record/16251703" loading timeout.
-[06/06/2023 13:55:09]	Extracted 19 links.
-[06/06/2023 13:55:09]	Filtered to 0 links.
-[06/06/2023 13:55:09]	Error: Page "https://www.webofscience.com/wos/author/record/11581584" loading timeout.
-[06/06/2023 13:55:25]	Extracted 19 links.
-[06/06/2023 13:55:25]	Filtered to 0 links.
-[06/06/2023 13:55:25]	Error: Page "https://www.webofscience.com/wos/author/record/26232743" loading timeout.
-[06/06/2023 13:55:41]	Extracted 19 links.
-[06/06/2023 13:55:41]	Filtered to 0 links.
-[06/06/2023 13:55:41]	Error: Page "https://www.webofscience.com/wos/author/record/15091152" loading timeout.
-[06/06/2023 13:55:58]	Extracted 19 links.
-[06/06/2023 13:55:58]	Filtered to 0 links.
-[06/06/2023 13:55:58]	Error: Page "https://www.webofscience.com/wos/author/record/29940551" loading timeout.
-[06/06/2023 13:56:14]	Extracted 19 links.
-[06/06/2023 13:56:14]	Filtered to 0 links.
-[06/06/2023 13:56:14]	Error: Page "https://www.webofscience.com/wos/author/record/35093486, 15750930" loading timeout.
-[06/06/2023 13:56:30]	Extracted 16 links.
-[06/06/2023 13:56:30]	Filtered to 0 links.
-[06/06/2023 13:56:30]	Error: Page "https://www.webofscience.com/wos/author/record/4998395" loading timeout.
-[06/06/2023 13:56:46]	Extracted 19 links.
-[06/06/2023 13:56:46]	Filtered to 0 links.
-[06/06/2023 13:56:46]	Error: Page "https://www.webofscience.com/wos/author/record/7011797" loading timeout.
-[06/06/2023 13:57:03]	Extracted 19 links.
-[06/06/2023 13:57:03]	Filtered to 0 links.
-[06/06/2023 13:57:03]	Page "https://www.webofscience.com/wos/author/record/1033084" loaded successfully.
-[06/06/2023 13:57:07]	Extracted 161 links.
-[06/06/2023 13:57:07]	Filtered to 50 links.
-[06/06/2023 13:57:07]	Error: Page "https://www.webofscience.com/wos/author/record/1911881" loading timeout.
-[06/06/2023 13:57:23]	Extracted 105 links.
-[06/06/2023 13:57:23]	Filtered to 38 links.
-[06/06/2023 13:57:23]	Error: Page "https://www.webofscience.com/wos/author/record/2892727" loading timeout.
-[06/06/2023 13:57:40]	Extracted 19 links.
-[06/06/2023 13:57:40]	Filtered to 0 links.
-[06/06/2023 13:57:40]	Page "https://www.webofscience.com/wos/author/record/1177820" loaded successfully.
-[06/06/2023 13:57:44]	Extracted 161 links.
-[06/06/2023 13:57:44]	Filtered to 50 links.
-[06/06/2023 13:57:44]	Page "https://www.webofscience.com/wos/author/record/1421103" loaded successfully.
-[06/06/2023 13:57:48]	Extracted 164 links.
-[06/06/2023 13:57:48]	Filtered to 50 links.
-[06/06/2023 13:57:48]	Page "https://www.webofscience.com/wos/author/record/2053866" loaded successfully.
-[06/06/2023 13:57:53]	Extracted 159 links.
-[06/06/2023 13:57:53]	Filtered to 50 links.
-[06/06/2023 13:57:53]	Page "https://www.webofscience.com/wos/author/record/394932" loaded successfully.
-[06/06/2023 13:57:58]	Extracted 165 links.
-[06/06/2023 13:57:58]	Filtered to 50 links.
-[06/06/2023 13:57:58]	Page "https://www.webofscience.com/wos/author/record/1182517" loaded successfully.
-[06/06/2023 13:58:03]	Extracted 163 links.
-[06/06/2023 13:58:03]	Filtered to 50 links.
-[06/06/2023 13:58:03]	Page "https://www.webofscience.com/wos/author/record/2064064" loaded successfully.
-[06/06/2023 13:58:08]	Extracted 120 links.
-[06/06/2023 13:58:08]	Filtered to 35 links.
-[06/06/2023 13:58:08]	Page "https://www.webofscience.com/wos/author/record/2041566" loaded successfully.
-[06/06/2023 13:58:13]	Extracted 163 links.
-[06/06/2023 13:58:13]	Filtered to 50 links.
-[06/06/2023 13:58:13]	Page "https://www.webofscience.com/wos/author/record/1833895" loaded successfully.
-[06/06/2023 13:58:18]	Extracted 168 links.
-[06/06/2023 13:58:18]	Filtered to 50 links.
-[06/06/2023 13:58:18]	Error: Page "https://www.webofscience.com/wos/author/record/10462691" loading timeout.
-[06/06/2023 13:58:35]	Extracted 19 links.
-[06/06/2023 13:58:35]	Filtered to 0 links.
-[06/06/2023 13:58:35]	Error: Page "https://www.webofscience.com/wos/author/record/29340731" loading timeout.
-[06/06/2023 13:58:52]	Extracted 19 links.
-[06/06/2023 13:58:52]	Filtered to 0 links.
-[06/06/2023 13:58:52]	Page "https://www.webofscience.com/wos/author/record/653208" loaded successfully.
-[06/06/2023 13:58:56]	Extracted 147 links.
-[06/06/2023 13:58:56]	Filtered to 46 links.
-[06/06/2023 13:58:56]	Error: Page "https://www.webofscience.com/wos/author/record/10342075" loading timeout.
-[06/06/2023 13:59:12]	Extracted 19 links.
-[06/06/2023 13:59:12]	Filtered to 0 links.
-[06/06/2023 13:59:12]	Page "https://www.webofscience.com/wos/author/record/840206" loaded successfully.
-[06/06/2023 13:59:16]	Extracted 159 links.
-[06/06/2023 13:59:16]	Filtered to 50 links.
-[06/06/2023 13:59:16]	Page "https://www.webofscience.com/wos/author/record/1301247" loaded successfully.
-[06/06/2023 13:59:21]	Extracted 160 links.
-[06/06/2023 13:59:21]	Filtered to 49 links.
-[06/06/2023 13:59:21]	Page "https://www.webofscience.com/wos/author/record/827774" loaded successfully.
-[06/06/2023 13:59:27]	Extracted 149 links.
-[06/06/2023 13:59:27]	Filtered to 50 links.
-[06/06/2023 13:59:27]	Error: Page "https://www.webofscience.com/wos/author/record/16021920" loading timeout.
-[06/06/2023 13:59:43]	Extracted 19 links.
-[06/06/2023 13:59:43]	Filtered to 0 links.
-[06/06/2023 13:59:43]	Error: Page "https://www.webofscience.com/wos/author/record/30245214" loading timeout.
-[06/06/2023 14:00:00]	Extracted 19 links.
-[06/06/2023 14:00:00]	Filtered to 0 links.
-[06/06/2023 14:00:00]	Page "https://www.webofscience.com/wos/author/record/2349887" loaded successfully.
-[06/06/2023 14:00:12]	Extracted 169 links.
-[06/06/2023 14:00:12]	Filtered to 50 links.
-[06/06/2023 14:00:12]	Page "https://www.webofscience.com/wos/author/record/321742" loaded successfully.
-[06/06/2023 14:00:18]	Extracted 163 links.
-[06/06/2023 14:00:18]	Filtered to 50 links.
-[06/06/2023 14:00:18]	Error: Page "https://www.webofscience.com/wos/author/record/15268051" loading timeout.
-[06/06/2023 14:00:34]	Extracted 19 links.
-[06/06/2023 14:00:34]	Filtered to 0 links.
-[06/06/2023 14:00:34]	Error: Page "https://www.webofscience.com/wos/author/record/27417070" loading timeout.
-[06/06/2023 14:00:50]	Extracted 19 links.
-[06/06/2023 14:00:50]	Filtered to 0 links.
-[06/06/2023 14:00:50]	Page "https://www.webofscience.com/wos/author/record/1245996" loaded successfully.
-[06/06/2023 14:00:55]	Extracted 151 links.
-[06/06/2023 14:00:55]	Filtered to 50 links.
-[06/06/2023 14:00:55]	Page "https://www.webofscience.com/wos/author/record/1584822" loaded successfully.
-[06/06/2023 14:00:58]	Extracted 54 links.
-[06/06/2023 14:00:58]	Filtered to 14 links.
-[06/06/2023 14:00:58]	Error: Page "https://www.webofscience.com/wos/author/record/26062928" loading timeout.
-[06/06/2023 14:01:15]	Extracted 19 links.
-[06/06/2023 14:01:15]	Filtered to 0 links.
-[06/06/2023 14:01:15]	Error: Page "https://www.webofscience.com/wos/author/record/13991934" loading timeout.
-[06/06/2023 14:01:31]	Extracted 19 links.
-[06/06/2023 14:01:31]	Filtered to 0 links.
-[06/06/2023 14:01:31]	Error: Page "https://www.webofscience.com/wos/author/record/15681668" loading timeout.
-[06/06/2023 14:01:47]	Extracted 19 links.
-[06/06/2023 14:01:47]	Filtered to 0 links.
-[06/06/2023 14:01:47]	Error: Page "https://www.webofscience.com/wos/author/record/19750317" loading timeout.
-[06/06/2023 14:02:03]	Extracted 19 links.
-[06/06/2023 14:02:03]	Filtered to 0 links.
-[06/06/2023 14:02:03]	Error: Page "https://www.webofscience.com/wos/author/record/19663629" loading timeout.
-[06/06/2023 14:02:19]	Extracted 19 links.
-[06/06/2023 14:02:19]	Filtered to 0 links.
-[06/06/2023 14:02:19]	Page "https://www.webofscience.com/wos/author/record/707958" loaded successfully.
-[06/06/2023 14:02:24]	Extracted 156 links.
-[06/06/2023 14:02:24]	Filtered to 47 links.
-[06/06/2023 14:02:24]	Error: Page "https://www.webofscience.com/wos/author/record/4439661" loading timeout.
-[06/06/2023 14:02:40]	Extracted 19 links.
-[06/06/2023 14:02:40]	Filtered to 0 links.
-[06/06/2023 14:02:40]	Error: Page "https://www.webofscience.com/wos/author/record/5827238" loading timeout.
-[06/06/2023 14:02:56]	Extracted 19 links.
-[06/06/2023 14:02:56]	Filtered to 0 links.
-[06/06/2023 14:02:56]	Error: Page "https://www.webofscience.com/wos/author/record/4786401" loading timeout.
-[06/06/2023 14:03:12]	Extracted 19 links.
-[06/06/2023 14:03:12]	Filtered to 0 links.
-[06/06/2023 14:03:12]	Error: Page "https://www.webofscience.com/wos/author/record/13797766" loading timeout.
-[06/06/2023 14:03:29]	Extracted 19 links.
-[06/06/2023 14:03:29]	Filtered to 0 links.
-[06/06/2023 14:03:29]	Error: Page "https://www.webofscience.com/wos/author/record/5038091" loading timeout.
-[06/06/2023 14:03:45]	Extracted 19 links.
-[06/06/2023 14:03:45]	Filtered to 0 links.
-[06/06/2023 14:03:45]	Error: Page "https://www.webofscience.com/wos/author/record/5781747" loading timeout.
-[06/06/2023 14:04:01]	Extracted 19 links.
-[06/06/2023 14:04:01]	Filtered to 0 links.
-[06/06/2023 14:04:01]	Error: Page "https://www.webofscience.com/wos/author/record/16185175" loading timeout.
-[06/06/2023 14:04:18]	Extracted 19 links.
-[06/06/2023 14:04:18]	Filtered to 0 links.
+[09/06/2023 11:50:31]	Page "https://www.webofscience.com/wos/author/record/1152429" loaded successfully.
+[09/06/2023 11:50:36]	Extracted 252 links.
+[09/06/2023 11:50:36]	Filtered to 44 links.
+[09/06/2023 11:50:36]	Page "https://www.webofscience.com/wos/author/record/1070397" loaded successfully.
+[09/06/2023 11:50:41]	Extracted 258 links.
+[09/06/2023 11:50:41]	Filtered to 50 links.
+[09/06/2023 11:50:41]	Page "https://www.webofscience.com/wos/author/record/16382291" loaded successfully.
+[09/06/2023 11:50:45]	Extracted 100 links.
+[09/06/2023 11:50:45]	Filtered to 18 links.
+[09/06/2023 11:50:45]	Page "https://www.webofscience.com/wos/author/record/28784297" loaded successfully.
+[09/06/2023 11:50:48]	Extracted 291 links.
+[09/06/2023 11:50:48]	Filtered to 50 links.
+[09/06/2023 11:50:48]	Page "https://www.webofscience.com/wos/author/record/528741" loaded successfully.
+[09/06/2023 11:50:53]	Extracted 268 links.
+[09/06/2023 11:50:53]	Filtered to 50 links.
+[09/06/2023 11:50:53]	Page "https://www.webofscience.com/wos/author/record/620344" loaded successfully.
+[09/06/2023 11:50:57]	Extracted 265 links.
+[09/06/2023 11:50:57]	Filtered to 50 links.
+[09/06/2023 11:50:57]	Page "https://www.webofscience.com/wos/author/record/1633393" loaded successfully.
+[09/06/2023 11:51:02]	Extracted 265 links.
+[09/06/2023 11:51:02]	Filtered to 50 links.
+[09/06/2023 11:51:02]	Page "https://www.webofscience.com/wos/author/record/209287" loaded successfully.
+[09/06/2023 11:51:07]	Extracted 271 links.
+[09/06/2023 11:51:07]	Filtered to 50 links.
+[09/06/2023 11:51:07]	Page "https://www.webofscience.com/wos/author/record/10996438" loaded successfully.
+[09/06/2023 11:51:10]	Extracted 54 links.
+[09/06/2023 11:51:10]	Filtered to 11 links.
+[09/06/2023 11:51:10]	Error: Page "https://www.webofscience.com/wos/author/record/832193" loading timeout. #(last element not indexed, grabbed all docs)
+[09/06/2023 11:51:26]	Extracted 156 links.
+[09/06/2023 11:51:26]	Filtered to 39 links.
+[09/06/2023 11:51:26]	Page "https://www.webofscience.com/wos/author/record/29122867" loaded successfully.
+[09/06/2023 11:51:30]	Extracted 271 links.
+[09/06/2023 11:51:30]	Filtered to 50 links.
+[09/06/2023 11:51:30]	Page "https://www.webofscience.com/wos/author/record/9033334" loaded successfully.
+[09/06/2023 11:51:34]	Extracted 183 links.
+[09/06/2023 11:51:34]	Filtered to 48 links.
+[09/06/2023 11:51:34]	Page "https://www.webofscience.com/wos/author/record/40896787" loaded successfully.
+[09/06/2023 11:51:38]	Extracted 188 links.
+[09/06/2023 11:51:38]	Filtered to 50 links.
+[09/06/2023 11:51:38]	Page "https://www.webofscience.com/wos/author/record/17912705" loaded successfully.
+[09/06/2023 11:51:41]	Extracted 44 links.
+[09/06/2023 11:51:42]	Filtered to 6 links.
+[09/06/2023 11:51:42]	Page "https://www.webofscience.com/wos/author/record/18551932" loaded successfully.
+[09/06/2023 11:51:45]	Extracted 53 links.
+[09/06/2023 11:51:45]	Filtered to 12 links.
+[09/06/2023 11:51:45]	Page "https://www.webofscience.com/wos/author/record/7491794" loaded successfully.
+[09/06/2023 11:51:49]	Extracted 255 links.
+[09/06/2023 11:51:49]	Filtered to 50 links.
+[09/06/2023 11:51:49]	Page "https://www.webofscience.com/wos/author/record/43934982" loaded successfully.
+[09/06/2023 11:51:53]	Extracted 21 links.
+[09/06/2023 11:51:53]	Filtered to 2 links.
+[09/06/2023 11:51:53]	Page "https://www.webofscience.com/wos/author/record/1933480" loaded successfully.
+[09/06/2023 11:51:57]	Extracted 49 links.
+[09/06/2023 11:51:57]	Filtered to 9 links.
+[09/06/2023 11:51:57]	Page "https://www.webofscience.com/wos/author/record/13135515" loaded successfully.
+[09/06/2023 11:52:00]	Extracted 38 links.
+[09/06/2023 11:52:00]	Filtered to 6 links.
+[09/06/2023 11:52:00]	Page "https://www.webofscience.com/wos/author/record/16726735" loaded successfully.
+[09/06/2023 11:52:04]	Extracted 154 links.
+[09/06/2023 11:52:04]	Filtered to 31 links.
+[09/06/2023 11:52:04]	Page "https://www.webofscience.com/wos/author/record/14030208" loaded successfully.
+[09/06/2023 11:52:07]	Extracted 34 links.
+[09/06/2023 11:52:08]	Filtered to 4 links.
+[09/06/2023 11:52:08]	Page "https://www.webofscience.com/wos/author/record/12002066" loaded successfully.
+[09/06/2023 11:52:11]	Extracted 34 links.
+[09/06/2023 11:52:11]	Filtered to 4 links.
+[09/06/2023 11:52:11]	Page "https://www.webofscience.com/wos/author/record/27809429" loaded successfully.
+[09/06/2023 11:52:14]	Extracted 52 links.
+[09/06/2023 11:52:15]	Filtered to 7 links.
+[09/06/2023 11:52:15]	Page "https://www.webofscience.com/wos/author/record/23415830" loaded successfully.
+[09/06/2023 11:52:17]	Extracted 26 links.
+[09/06/2023 11:52:18]	Filtered to 3 links.
+[09/06/2023 11:52:18]	Page "https://www.webofscience.com/wos/author/record/8456107" loaded successfully.
+[09/06/2023 11:52:21]	Extracted 24 links.
+[09/06/2023 11:52:21]	Filtered to 3 links.
+[09/06/2023 11:52:21]	Page "https://www.webofscience.com/wos/author/record/23161498" loaded successfully.
+[09/06/2023 11:52:25]	Extracted 73 links.
+[09/06/2023 11:52:25]	Filtered to 12 links.
+[09/06/2023 11:52:25]	Page "https://www.webofscience.com/wos/author/record/2360917" loaded successfully.
+[09/06/2023 11:52:30]	Extracted 265 links.
+[09/06/2023 11:52:31]	Filtered to 50 links.
+[09/06/2023 11:52:31]	Error: Page "https://www.webofscience.com/wos/author/record/12417651" loading timeout. #(Markus Münzenberg, wrong ID given)
+[09/06/2023 11:52:47]	Extracted 17 links.
+[09/06/2023 11:52:47]	Filtered to 0 links.
+[09/06/2023 11:52:47]	Page "https://www.webofscience.com/wos/author/record/34436052" loaded successfully.
+[09/06/2023 11:52:50]	Extracted 29 links.
+[09/06/2023 11:52:51]	Filtered to 4 links.
+[09/06/2023 11:52:51]	Page "https://www.webofscience.com/wos/author/record/1683686" loaded successfully.
+[09/06/2023 11:52:56]	Extracted 265 links.
+[09/06/2023 11:52:56]	Filtered to 50 links.
+[09/06/2023 11:52:56]	Page "https://www.webofscience.com/wos/author/record/1690610" loaded successfully.
+[09/06/2023 11:53:01]	Extracted 261 links.
+[09/06/2023 11:53:01]	Filtered to 50 links.
+[09/06/2023 11:53:01]	Page "https://www.webofscience.com/wos/author/record/759114" loaded successfully.
+[09/06/2023 11:53:06]	Extracted 266 links.
+[09/06/2023 11:53:06]	Filtered to 50 links.
+[09/06/2023 11:53:06]	Page "https://www.webofscience.com/wos/author/record/22341702" loaded successfully.
+[09/06/2023 11:53:09]	Extracted 269 links.
+[09/06/2023 11:53:10]	Filtered to 50 links.
+[09/06/2023 11:53:10]	Page "https://www.webofscience.com/wos/author/record/11278775" loaded successfully.
+[09/06/2023 11:53:13]	Extracted 222 links.
+[09/06/2023 11:53:14]	Filtered to 50 links.
+[09/06/2023 11:53:14]	Page "https://www.webofscience.com/wos/author/record/22009360" loaded successfully.
+[09/06/2023 11:53:17]	Extracted 77 links.
+[09/06/2023 11:53:17]	Filtered to 23 links.
+[09/06/2023 11:53:17]	Page "https://www.webofscience.com/wos/author/record/27978917" loaded successfully.
+[09/06/2023 11:53:20]	Extracted 93 links.
+[09/06/2023 11:53:20]	Filtered to 24 links.
+[09/06/2023 11:53:20]	Page "https://www.webofscience.com/wos/author/record/24618944" loaded successfully.
+[09/06/2023 11:53:23]	Extracted 64 links.
+[09/06/2023 11:53:24]	Filtered to 14 links.
+[09/06/2023 11:53:24]	Page "https://www.webofscience.com/wos/author/record/5548040" loaded successfully.
+[09/06/2023 11:53:27]	Extracted 186 links.
+[09/06/2023 11:53:28]	Filtered to 50 links.
+[09/06/2023 11:53:28]	Page "https://www.webofscience.com/wos/author/record/27932947" loaded successfully.
+[09/06/2023 11:53:32]	Extracted 107 links.
+[09/06/2023 11:53:32]	Filtered to 23 links.
+[09/06/2023 11:53:32]	Page "https://www.webofscience.com/wos/author/record/16251703" loaded successfully.
+[09/06/2023 11:53:36]	Extracted 119 links.
+[09/06/2023 11:53:36]	Filtered to 35 links.
+[09/06/2023 11:53:36]	Page "https://www.webofscience.com/wos/author/record/11581584" loaded successfully.
+[09/06/2023 11:53:40]	Extracted 28 links.
+[09/06/2023 11:53:40]	Filtered to 3 links.
+[09/06/2023 11:53:40]	Error: Page "https://www.webofscience.com/wos/author/record/26232743" loading timeout. #(all links gathered)
+[09/06/2023 11:54:54]	Extracted 34 links.
+[09/06/2023 11:54:59]	Filtered to 7 links.
+[09/06/2023 11:54:59]	Page "https://www.webofscience.com/wos/author/record/15091152" loaded successfully.
+[09/06/2023 11:55:26]	Extracted 46 links.
+[09/06/2023 11:55:26]	Filtered to 8 links.
+[09/06/2023 11:55:26]	Page "https://www.webofscience.com/wos/author/record/29940551" loaded successfully.
+[09/06/2023 11:55:29]	Extracted 41 links.
+[09/06/2023 11:55:29]	Filtered to 7 links.
+[09/06/2023 11:55:29]	Page "https://www.webofscience.com/wos/author/record/35093486" loaded successfully.
+[09/06/2023 11:55:33]	Extracted 200 links.
+[09/06/2023 11:55:33]	Filtered to 40 links.
+[09/06/2023 11:55:33]	Page "https://www.webofscience.com/wos/author/record/4998395" loaded successfully.
+[09/06/2023 11:55:36]	Extracted 23 links.
+[09/06/2023 11:55:37]	Filtered to 2 links.
+[09/06/2023 11:55:37]	Page "https://www.webofscience.com/wos/author/record/7011797" loaded successfully.
+[09/06/2023 11:55:40]	Extracted 142 links.
+[09/06/2023 11:55:40]	Filtered to 38 links.
+[09/06/2023 11:55:40]	Page "https://www.webofscience.com/wos/author/record/35075334" loaded successfully.
+[09/06/2023 11:55:43]	Extracted 121 links.
+[09/06/2023 11:55:43]	Filtered to 32 links.
+[09/06/2023 11:55:43]	Page "https://www.webofscience.com/wos/author/record/24163668" loaded successfully.
+[09/06/2023 11:55:46]	Extracted 72 links.
+[09/06/2023 11:55:47]	Filtered to 18 links.
+[09/06/2023 11:55:47]	Page "https://www.webofscience.com/wos/author/record/14270230" loaded successfully.
+[09/06/2023 11:55:50]	Extracted 307 links.
+[09/06/2023 11:55:51]	Filtered to 50 links.
+[09/06/2023 11:55:51]	Page "https://www.webofscience.com/wos/author/record/24007801" loaded successfully.
+[09/06/2023 11:55:54]	Extracted 80 links.
+[09/06/2023 11:55:55]	Filtered to 16 links.
+[09/06/2023 11:55:55]	Page "https://www.webofscience.com/wos/author/record/2332504" loaded successfully.
+[09/06/2023 11:56:01]	Extracted 258 links.
+[09/06/2023 11:56:01]	Filtered to 50 links.
+[09/06/2023 11:56:01]	Page "https://www.webofscience.com/wos/author/record/4574333" loaded successfully.
+[09/06/2023 11:56:05]	Extracted 187 links.
+[09/06/2023 11:56:05]	Filtered to 44 links.
+[09/06/2023 11:56:05]	Page "https://www.webofscience.com/wos/author/record/14014797" loaded successfully.
+[09/06/2023 11:56:09]	Extracted 306 links.
+[09/06/2023 11:56:09]	Filtered to 50 links.
+[09/06/2023 11:56:09]	Page "https://www.webofscience.com/wos/author/record/1847103" loaded successfully.
+[09/06/2023 11:56:15]	Extracted 267 links.
+[09/06/2023 11:56:15]	Filtered to 50 links.
+[09/06/2023 11:56:15]	Page "https://www.webofscience.com/wos/author/record/27775648" loaded successfully.
+[09/06/2023 11:56:20]	Extracted 247 links.
+[09/06/2023 11:56:20]	Filtered to 50 links.
+[09/06/2023 11:56:20]	Page "https://www.webofscience.com/wos/author/record/30620207" loaded successfully.
+[09/06/2023 11:56:24]	Extracted 306 links.
+[09/06/2023 11:56:24]	Filtered to 50 links.
+[09/06/2023 11:56:24]	Page "https://www.webofscience.com/wos/author/record/23754437" loaded successfully.
+[09/06/2023 11:56:27]	Extracted 304 links.
+[09/06/2023 11:56:28]	Filtered to 50 links.
+[09/06/2023 11:56:28]	Page "https://www.webofscience.com/wos/author/record/2829" loaded successfully.
+[09/06/2023 11:56:32]	Extracted 246 links.
+[09/06/2023 11:56:32]	Filtered to 44 links.
+[09/06/2023 11:56:32]	Error: Page "https://www.webofscience.com/wos/author/record/32321" loading timeout. #(last element was not indexed, despite that all links gathered)
+[09/06/2023 11:56:52]	Extracted 179 links.
+[09/06/2023 11:56:52]	Filtered to 38 links.
+[09/06/2023 11:56:52]	Page "https://www.webofscience.com/wos/author/record/38352705" loaded successfully.
+[09/06/2023 11:56:58]	Extracted 133 links.
+[09/06/2023 11:56:58]	Filtered to 39 links.
+[09/06/2023 11:56:58]	Page "https://www.webofscience.com/wos/author/record/22382262" loaded successfully.
+[09/06/2023 11:57:01]	Extracted 98 links.
+[09/06/2023 11:57:01]	Filtered to 17 links.
+[09/06/2023 11:57:01]	Page "https://www.webofscience.com/wos/author/record/28934358" loaded successfully.
+[09/06/2023 11:57:04]	Extracted 296 links.
+[09/06/2023 11:57:05]	Filtered to 50 links.
+[09/06/2023 11:57:05]	Page "https://www.webofscience.com/wos/author/record/1033084" loaded successfully.
+[09/06/2023 11:57:10]	Extracted 262 links.
+[09/06/2023 11:57:10]	Filtered to 50 links.
+[09/06/2023 11:57:10]	Page "https://www.webofscience.com/wos/author/record/4831300" loaded successfully.
+[09/06/2023 11:57:15]	Extracted 293 links.
+[09/06/2023 11:57:15]	Filtered to 50 links.
+[09/06/2023 11:57:15]	Page "https://www.webofscience.com/wos/author/record/17218814" loaded successfully.
+[09/06/2023 11:57:18]	Extracted 187 links.
+[09/06/2023 11:57:18]	Filtered to 50 links.
+[09/06/2023 11:57:18]	Error: Page "https://www.webofscience.com/wos/author/record/1911881" loading timeout. #(last element not indexed, but all links gathered)
+[09/06/2023 11:57:35]	Extracted 131 links.
+[09/06/2023 11:57:35]	Filtered to 38 links.
+[09/06/2023 11:57:35]	Error: Page "https://www.webofscience.com/wos/author/record/2892727" loading timeout. #(Mareike Fischer, wrong ID, empty profile grabbed)
+[09/06/2023 11:57:51]	Extracted 17 links.
+[09/06/2023 11:57:51]	Filtered to 0 links.
+[09/06/2023 11:57:51]	Page "https://www.webofscience.com/wos/author/record/14569009" loaded successfully.
+[09/06/2023 11:57:54]	Extracted 93 links.
+[09/06/2023 11:57:54]	Filtered to 17 links.
+[09/06/2023 11:57:54]	Page "https://www.webofscience.com/wos/author/record/1177820" loaded successfully.
+[09/06/2023 11:57:59]	Extracted 262 links.
+[09/06/2023 11:57:59]	Filtered to 50 links.
+[09/06/2023 11:57:59]	Page "https://www.webofscience.com/wos/author/record/11828568" loaded successfully.
+[09/06/2023 11:58:03]	Extracted 258 links.
+[09/06/2023 11:58:03]	Filtered to 50 links.
+[09/06/2023 11:58:03]	Page "https://www.webofscience.com/wos/author/record/1421103" loaded successfully.
+[09/06/2023 11:58:08]	Extracted 258 links.
+[09/06/2023 11:58:08]	Filtered to 50 links.
+[09/06/2023 11:58:08]	Page "https://www.webofscience.com/wos/author/record/2053866" loaded successfully.
+[09/06/2023 11:58:13]	Extracted 260 links.
+[09/06/2023 11:58:14]	Filtered to 50 links.
+[09/06/2023 11:58:14]	Page "https://www.webofscience.com/wos/author/record/394932" loaded successfully.
+[09/06/2023 11:58:19]	Extracted 266 links.
+[09/06/2023 11:58:19]	Filtered to 50 links.
+[09/06/2023 11:58:19]	Page "https://www.webofscience.com/wos/author/record/1182517" loaded successfully.
+[09/06/2023 11:58:24]	Extracted 260 links.
+[09/06/2023 11:58:24]	Filtered to 50 links.
+[09/06/2023 11:58:24]	Page "https://www.webofscience.com/wos/author/record/2064064" loaded successfully.
+[09/06/2023 11:58:29]	Extracted 221 links.
+[09/06/2023 11:58:29]	Filtered to 35 links.
+[09/06/2023 11:58:29]	Page "https://www.webofscience.com/wos/author/record/39224456" loaded successfully.
+[09/06/2023 11:58:32]	Extracted 21 links.
+[09/06/2023 11:58:32]	Filtered to 2 links.
+[09/06/2023 11:58:32]	Page "https://www.webofscience.com/wos/author/record/16065697" loaded successfully.
+[09/06/2023 11:58:35]	Extracted 223 links.
+[09/06/2023 11:58:36]	Filtered to 36 links.
+[09/06/2023 11:58:36]	Page "https://www.webofscience.com/wos/author/record/2041566" loaded successfully.
+[09/06/2023 11:58:41]	Extracted 264 links.
+[09/06/2023 11:58:41]	Filtered to 50 links.
+[09/06/2023 11:58:41]	Page "https://www.webofscience.com/wos/author/record/1833895" loaded successfully.
+[09/06/2023 11:58:47]	Extracted 269 links.
+[09/06/2023 11:58:47]	Filtered to 50 links.
+[09/06/2023 11:58:47]	Page "https://www.webofscience.com/wos/author/record/10462691" loaded successfully.
+[09/06/2023 11:58:50]	Extracted 107 links.
+[09/06/2023 11:58:50]	Filtered to 17 links.
+[09/06/2023 11:58:50]	Page "https://www.webofscience.com/wos/author/record/29340731" loaded successfully.
+[09/06/2023 11:58:54]	Extracted 239 links.
+[09/06/2023 11:58:54]	Filtered to 50 links.
+[09/06/2023 11:58:54]	Page "https://www.webofscience.com/wos/author/record/653208" loaded successfully.
+[09/06/2023 11:59:01]	Extracted 248 links.
+[09/06/2023 11:59:01]	Filtered to 47 links.
+[09/06/2023 11:59:01]	Page "https://www.webofscience.com/wos/author/record/10342075" loaded successfully.
+[09/06/2023 11:59:04]	Extracted 262 links.
+[09/06/2023 11:59:04]	Filtered to 48 links.
+[09/06/2023 11:59:04]	Page "https://www.webofscience.com/wos/author/record/840206" loaded successfully.
+[09/06/2023 11:59:09]	Extracted 260 links.
+[09/06/2023 11:59:09]	Filtered to 50 links.
+[09/06/2023 11:59:09]	Page "https://www.webofscience.com/wos/author/record/1301247" loaded successfully.
+[09/06/2023 11:59:14]	Extracted 261 links.
+[09/06/2023 11:59:14]	Filtered to 49 links.
+[09/06/2023 11:59:14]	Page "https://www.webofscience.com/wos/author/record/827774" loaded successfully.
+[09/06/2023 11:59:19]	Extracted 250 links.
+[09/06/2023 11:59:20]	Filtered to 50 links.
+[09/06/2023 11:59:20]	Page "https://www.webofscience.com/wos/author/record/16021920" loaded successfully.
+[09/06/2023 11:59:23]	Extracted 250 links.
+[09/06/2023 11:59:23]	Filtered to 42 links.
+[09/06/2023 11:59:23]	Page "https://www.webofscience.com/wos/author/record/30245214" loaded successfully.
+[09/06/2023 11:59:28]	Extracted 312 links.
+[09/06/2023 11:59:28]	Filtered to 50 links.
+[09/06/2023 11:59:28]	Page "https://www.webofscience.com/wos/author/record/2349887" loaded successfully.
+[09/06/2023 11:59:33]	Extracted 269 links.
+[09/06/2023 11:59:33]	Filtered to 50 links.
+[09/06/2023 11:59:33]	Page "https://www.webofscience.com/wos/author/record/321742" loaded successfully.
+[09/06/2023 11:59:40]	Extracted 264 links.
+[09/06/2023 11:59:40]	Filtered to 50 links.
+[09/06/2023 11:59:40]	Page "https://www.webofscience.com/wos/author/record/15268051" loaded successfully.
+[09/06/2023 11:59:43]	Extracted 53 links.
+[09/06/2023 11:59:43]	Filtered to 7 links.
+[09/06/2023 11:59:43]	Page "https://www.webofscience.com/wos/author/record/27417070" loaded successfully.
+[09/06/2023 11:59:46]	Extracted 43 links.
+[09/06/2023 11:59:46]	Filtered to 7 links.
+[09/06/2023 11:59:46]	Page "https://www.webofscience.com/wos/author/record/1245996" loaded successfully.
+[09/06/2023 11:59:51]	Extracted 252 links.
+[09/06/2023 11:59:51]	Filtered to 50 links.
+[09/06/2023 11:59:51]	Page "https://www.webofscience.com/wos/author/record/1584822" loaded successfully.
+[09/06/2023 11:59:55]	Extracted 62 links.
+[09/06/2023 11:59:55]	Filtered to 14 links.
+[09/06/2023 11:59:55]	Page "https://www.webofscience.com/wos/author/record/26062928" loaded successfully.
+[09/06/2023 11:59:59]	Extracted 48 links.
+[09/06/2023 11:59:59]	Filtered to 7 links.
+[09/06/2023 11:59:59]	Page "https://www.webofscience.com/wos/author/record/13991934" loaded successfully.
+[09/06/2023 12:00:02]	Extracted 246 links.
+[09/06/2023 12:00:03]	Filtered to 50 links.
+[09/06/2023 12:00:03]	Error: Page "https://www.webofscience.com/wos/author/record/15681668" loading timeout. #(first element cannot be last element? 1/1 doc grabbed)
+[09/06/2023 12:00:37]	Extracted 22 links.
+[09/06/2023 12:00:40]	Filtered to 1 links.
+[09/06/2023 12:00:40]	Page "https://www.webofscience.com/wos/author/record/19750317" loaded successfully.
+[09/06/2023 12:00:53]	Extracted 28 links.
+[09/06/2023 12:00:53]	Filtered to 2 links.
+[09/06/2023 12:00:53]	Page "https://www.webofscience.com/wos/author/record/19663629" loaded successfully.
+[09/06/2023 12:00:56]	Extracted 54 links.
+[09/06/2023 12:00:56]	Filtered to 10 links.
+[09/06/2023 12:00:56]	Page "https://www.webofscience.com/wos/author/record/707958" loaded successfully.
+[09/06/2023 12:01:01]	Extracted 257 links.
+[09/06/2023 12:01:01]	Filtered to 47 links.
+[09/06/2023 12:01:01]	Page "https://www.webofscience.com/wos/author/record/4439661" loaded successfully.
+[09/06/2023 12:01:06]	Extracted 264 links.
+[09/06/2023 12:01:06]	Filtered to 48 links.
+[09/06/2023 12:01:06]	Page "https://www.webofscience.com/wos/author/record/5827238" loaded successfully.
+[09/06/2023 12:01:09]	Extracted 104 links.
+[09/06/2023 12:01:09]	Filtered to 25 links.
+[09/06/2023 12:01:09]	Page "https://www.webofscience.com/wos/author/record/4786401" loaded successfully.
+[09/06/2023 12:01:13]	Extracted 89 links.
+[09/06/2023 12:01:13]	Filtered to 17 links.
+[09/06/2023 12:01:13]	Page "https://www.webofscience.com/wos/author/record/13797766" loaded successfully.
+[09/06/2023 12:01:16]	Extracted 27 links.
+[09/06/2023 12:01:16]	Filtered to 2 links.
+[09/06/2023 12:01:16]	Page "https://www.webofscience.com/wos/author/record/5038091" loaded successfully.
+[09/06/2023 12:01:19]	Extracted 95 links.
+[09/06/2023 12:01:19]	Filtered to 26 links.
+[09/06/2023 12:01:19]	Page "https://www.webofscience.com/wos/author/record/5781747" loaded successfully.
+[09/06/2023 12:01:22]	Extracted 34 links.
+[09/06/2023 12:01:22]	Filtered to 5 links.
+[09/06/2023 12:01:22]	Page "https://www.webofscience.com/wos/author/record/16185175" loaded successfully.
+[09/06/2023 12:01:26]	Extracted 296 links.
+[09/06/2023 12:01:26]	Filtered to 50 links.
+#7 loading timeouts, 2 due to wrong ID(i.e. human error in data annotation), 5 due to implementation of waiting queue(but still successful)
+#That means 100% of error free data successfully gathered. IDs for M. Münzenberg und M.Fischer were corrected in spreadsheet.

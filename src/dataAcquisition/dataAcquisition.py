@@ -11,6 +11,9 @@ from selenium.common.exceptions import TimeoutException
 import time
 import datetime
 import pandas
+from os.path import exists
+
+logPath = "../../data/publications/dataAcquisitionLog.txt"
 
 def getJsCode(path: str) -> str:
     with open(path) as file:
@@ -42,7 +45,7 @@ def navigateToWebsite(driver, URL: str,
     try:
         driver.get(URL)
     except:
-        with open('dataAcquisitionLog.txt','a') as file:
+        with open(logPath,'a') as file:
             file.write("["+dtstr+"]\tError: Page \""+URL
                        +"\" could not be loaded.]"
                        +type(Exception).__name_+"\n")
@@ -52,14 +55,14 @@ def navigateToWebsite(driver, URL: str,
         #wait for element to be loaded
         myElem = WebDriverWait(driver, delay).until(
                   EC.presence_of_element_located((By.ID, elementToWaitFor)))
-        with open('dataAcquisitionLog.txt','a') as file:
+        with open(logPath,'a') as file:
             file.write("["+dtstr+"]\tPage \""+URL+"\" loaded successfully.\n")
     except TimeoutException:
-        with open('dataAcquisitionLog.txt','a') as file:
+        with open(logPath,'a') as file:
             file.write("["+dtstr+"]\tError: Page \""+URL
                        +"\" loading timeout.\n")
     except:
-        with open('dataAcquisitionLog.txt','a') as file:
+        with open(logPath,'a') as file:
             file.write("["+dtstr+"]\tError: Element \""+elementToWaitFor
                        +"\" could not be loaded."+type(Exception).__name_+"\n")
     finally:    
@@ -74,11 +77,11 @@ def exejscode(driver, jscode: str):
     try:
         result = driver.execute_script(jscode)
     except:
-        with open('dataAcquisitionLog.txt','a') as file:
+        with open(logPath,'a') as file:
             file.write("["+dtstr+"]\tError while executing script. "
                        +type(Exception).__name_+"\n")
     finally:
-        with open('dataAcquisitionLog.txt','a') as file:
+        with open(logPath,'a') as file:
             file.write("["+dtstr+"]\tExtracted "+str(len(result))+" links.\n")
         return result
 
@@ -95,7 +98,7 @@ def filterForRelevantLinks(linklist: list) -> list:
     for link in linklist:
         if "full-record" in link[1]:
             newLinklist.append(link)
-    with open('dataAcquisitionLog.txt','a') as file:
+    with open(logPath,'a') as file:
             file.write("["+dtstr+"]\tFiltered to "
                        +str(len(newLinklist))+" links.\n")
     return newLinklist
@@ -108,15 +111,26 @@ def main():
     sub_df = getNamesAndURLs(spreadsheet)
     #geckodriver location can differ
     driver = launchFirefox('/snap/bin/firefox.geckodriver')
-    #time to login and accept cookies etc.
-    time.sleep(60)
+    """
+    Use time to:
+    1. Make sure all sessions for WOS are ended in other browsers.
+    2. Use VPN of affiliated institution (not sure if necessary)
+    3. After browser window is ready, visit webofscience.com
+    4. Log in via your institution to gain full access to website
+       make also sure to tick the box that says "Remember me for this session"
+    5. Accept cookies and dismiss other pop-ups
+    6. Wait until program is finished and you regain control over shell
+    """
+    time.sleep(120)
     #i is index of the spreadsheet
     i = 1
     for ID in sub_df["ID"]:
         i = i+1
         if str(ID) == "nan":
             continue
-        URL = "https://www.webofscience.com/wos/author/record/"+str(ID)
+        if exists("../../data/publications/"+str(i)+".txt"):
+            continue
+        URL = "https://www.webofscience.com/wos/author/record/"+str(int(ID))
         driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
         linklist = exejscode(driver, linkgrabber)
         linklist = filterForRelevantLinks(linklist)
@@ -127,7 +141,7 @@ def main():
             file.write(sub_df.loc[sub_df.ID == ID, "Vorname"].values[0]
                        +" "
                        +sub_df.loc[sub_df.ID == ID, "Nachname"].values[0]
-                       +","+str(ID)+";\n\n")
+                       +","+str(int(ID))+";\n\n")
             #write links
             for link in linklist:
                 file.write(link[0]+"\t"+link[1]+"\n\n")
