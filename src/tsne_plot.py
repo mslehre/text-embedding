@@ -4,10 +4,59 @@ import os
 import argparse
 import h5py
 import numpy as np
+import pandas as pd
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import seaborn  as sns
+
+
+def file_readable(arg):
+    if not os.path.isfile(arg) or not os.access(arg, os.R_OK):
+        raise argparse.ArgumentTypeError("The file " + arg + "does not exist "
+                                         + "or is not readable!")
+    return arg
+
+def get_affiliation_and_palette(authors: pd.DataFrame,
+                                author_ids: np.ndarray,
+                                affiliation_map: pd.DataFrame, 
+                                affiliation: str) -> tuple(list[str], dict):
+    """
+    Get affiliations of autors by ID and generate color palette for the
+    affiliations
+
+    Args:
+        authors (pandas.DataFrame): Table containing at least author ids and 
+            their faculties and institutes
+        author_ids (numpay.ndarray): List of author ids for which to get the 
+            affiliations
+        affiliation_map (pandas.DataFrame): Table with all possible 
+            faculties or institutes
+        affiliation (str): Which affiliation to use - faculty or institute
+
+    Returns:
+        affil (list[str]): List of affiliations for author ids
+        pal (dict): Color palette for the affiliations
+    """
+    # get affiliations of authors by ID
+    affil = authors.loc[authors['id'].isin(author_ids), affiliation].to_list()
+    # if institutes, switch long names of institutes to short names
+    if affiliation == 'institute':
+        mapping = dict(zip(affiliation_map[:, 'institute_long'], 
+                           affiliation_map[:, 'institute_short']))
+
+        affil_ = [mapping[item] for item in affil]
+        affil = affil_
+        affil_uniq = affiliation_map[:, 'institute_short'].to_list()
+    else:
+        affil_uniq = affiliation_map[:, 'faculty'].to_list()
+    
+    # generate color palette
+    num_col = len(affil_uniq)  # number of colors
+    colors = sns.color_palette("hls", num_col).as_hex()  # get colors
+    pal = dict(zip(affil_uniq, colors))  # color palette for plot
+    
+    return affil, pal
 
 
 def compute_tsne(X: np.ndarray, 
@@ -37,33 +86,32 @@ def compute_tsne(X: np.ndarray,
         pca_result = pca.fit_transform(X)  # fit model and apply dim reduction
         X = pca_result
 
-    # perplexity = knn, n_job = how many parallel searches for knn
-    tsne = TSNE(perplexity = tsne_perplexity, n_jobs = None) 
+    tsne = TSNE(perplexity = tsne_perplexity)  # perplexity = knn
     tsne_result = tsne.fit_transform(X)  # fit model and apply dim reduction
 
     return tsne_result
 
-
 def tsne_plot(X: np.ndarray, 
-              color: np.ndarray):
+              affiliation: list[str],
+              palette: dict):
     """
     Plot t-SNE 
 
     Args:
         X (numpy.ndarray): Result of the t-SNE transformation.
-        color (numpy.ndarray): 1-dim containing the institutes or faculties 
-            corresponding to the data points. This decides how to color the 
-            points in the plot. 
+        affiliation (): containing the institutes or 
+            faculties corresponding to the data points. This decides how to 
+            color the points in the plot. 
 
     Returns:
         matplotlib.figure.Figure: Figure of the plot.
     """
-    num_col = len(np.unique(color))  # number of colors
+
     plt.figure(figsize=(15,15))
     plot = sns.scatterplot(
         x = X[:, 0], y = X[:, 1],
-        hue = color,
-        palette = sns.color_palette("hls", num_col),
+        hue = affiliation,
+        palette = palette,
         legend = "full",
         alpha = 0.75
     )
@@ -74,7 +122,12 @@ def tsne_plot(X: np.ndarray,
 def main():
     parser = argparse.ArgumentParser(
         description='Visualize the embeddings of ...')
-    parser.add_argument('infile', help = 'hdf5 file with embeddings')
+    parser.add_argument('embed_file', type = file_readable,
+                        help = 'hdf5 file with embeddings')
+    parser.add_argument('author_file', type = file_readable,
+                        help = '')
+    parser.add_argument('affiliation_map', type = file_readable,
+                        help = '')
     parser.add_argument('-o', '-outfile', default = 'tsne_plot',
                         help = 'Stem for outfile')
     parser.add_argument('--format', default = 'png', 
@@ -88,21 +141,25 @@ def main():
                         choices = ['institute', 'faculty'],
                         help = '')
     args = parser.parse_args()
-
-    #### test if input is readable
-    #### test if outfile is writable 
-    outfile = args.outfile + args.format
+    
+    outfile = args.outfile + '.' + args.format
 
     # read data
-    with h5py.File(args.infile, 'r') as f_in:
-        pub_embedding = f_in['pub_embedding'][:]
-        affiliation = f_in['author_affiliation'][:]
-
-    # transform embeddings and plot result
+    with h5py.File(args.emed_file, 'r') as f_in:
+        pub_embedding = f_in['publication_embedding'][:]
+        author_ids = f_in['author_ids'][:]
+    authors = pd.read_table(args.author_file, delimiter = '\t')
+    affiliation_map = pd.read_table(args.affiliation_map, delimiter = '\t')
+        
+    # transform embeddings
     tsne_result = compute_tsne(pub_embedding, pca_reduction = args.no_pca, 
                                pca_components = args.pca_components)
-    color = affiliation[1]  ###### adjust
-    fig = tsne_plot(tsne_result, color)  
+    # get affiliations and color palette
+    affiliation, palette = get_affiliation_and_palette(authors, author_ids, 
+                                                       affiliation_map, 
+                                                       args.affiliation)
+    # plot
+    fig = tsne_plot(tsne_result, affiliation, palette)  
     fig.savefig(outfile, format = args.format)
     plt.show()
 

@@ -7,23 +7,62 @@ import h5py
 from compute_embedding import embedding_from_string
 
 
-def read_pubs_to_dict():
-    """
-    """
-    pubs = {}
-    affiliation = []  # save author faculty institute
-    return pubs, affiliation
+def dir_readable(arg):
+    if not os.path.isdir(arg) or not os.access(arg, os.R_OK):
+        raise argparse.ArgumentTypeError("The directory " + arg + " does not "
+                                         + "exist or is not readable!")
+    return arg
 
+def read_pubs(dir_path: str, 
+              n: int) -> tuple(list[str], np.ndarray):
+    """
+    Read publication lists in given directory
 
-def embeddings_from_pubs(pubs: dict, 
+    Args:
+        dir_path (str): Path to directory containing files with publication
+            lists. 
+        n (int): Number of expected file in the directory.
+
+    Returns:
+        pubs (list[str]): List of length n. Every entry contains a list of
+            publications of an author in a string or None if no file exists for
+            the author.
+        author_ids (numpy.ndarray): List of author ids corresponding to the 
+            publication lists.
+    """
+
+    dir_path = os.path.join(dir_path, '')  # append '/' if not already there
+    pubs = []
+    author_ids = []
+
+    for i in range(n):  # loop over all possible files
+        file_path = dir_path + str(i) + ".txt"
+
+        # check if file exists and is readable, if yes open and read
+        if os.path.isfile(file_path) and os.access(file_path, os.R_OK):
+            author_pubs = ""
+            author_ids.append(i)  # save ID
+            with open(file_path, 'r') as file_handle:
+                lines = file_handle.readlines()
+                for line in lines[1:]:  # exclude first line containing author
+                    if line.strip():  # check if line is not empty
+                        # add publication title
+                        author_pubs += " " + line.split('\t')[0] + ";"
+                author_pubs = author_pubs.lstrip()  # remove leading space
+                pubs.append(author_pubs)
+
+    author_ids = np.asarray(author_ids)
+
+    return pubs, author_ids
+
+def embeddings_from_pubs(pubs: list[str], 
                          embedding_name: 'text-embedding-ada-002',
-                         max_token: 8191) -> np.ndarray:
-    
+                         max_token: 8191 ) -> np.ndarray:    
     """
     Get the embeddings of the publications for every author
 
     Args:
-        pubs (dict):
+        pubs (list[str]):
         embedding_name (str): The name of the embedding model. By default the
             model text-embedding-ada-002 is used.
         max_token (int): The maximum number of tokens for which an embedding is
@@ -31,55 +70,67 @@ def embeddings_from_pubs(pubs: dict,
             embedding model text-embedding-ada-002.
         
     Returns:
-        embeddings (np.ndarray): Embeddings of the publication lists.
+        embeddings (numpy.ndarray): Embeddings of the publication lists.
     """
 
-    embeddings = []  
+    embedding = []
 
-    for author in pubs:
-        embeddings.append(embedding_from_string(pubs[author],
-                                              embedding_name = embedding_name,
-                                              max_token = max_token))
-    embeddings = np.asarray(embeddings, dtype=np.float64)
+    for pub in pubs:
+        embedding.append(embedding_from_string(pub,
+                                               embedding_name = embedding_name,
+                                               max_token = max_token))
+        if embedding[-1] == None:
+            print("ERROR: The embedding for \"", pub, "\" could not be" 
+                  + "computed! Please check your input and parameters!")
+            exit(1)
 
-    if np.isnan(embeddings).any():  # check if all embeddings were computed
-        print("WARNING: At least one embedding wasn't computed! Please check " 
-              + "your input and parameters!")
-        exit(1)
+    embedding = np.asarray(embedding)
 
-    return embeddings
+    return embedding
 
 
 def main():
     parser = argparse.ArgumentParser(
         description='')
-    parser.add_argument('input', help = '')
-    parser.add_argument('-o', '-outfile', default = 'pub_embed',
-                        help = 'Stem for output file.')
-    parser.add_argument('--descr', type = str, 
-                        help = 'Custom description for hdf5 file')
+    parser.add_argument('-p', '--publications', type = dir_readable, 
+                        required = True,
+                        help = 'Directory containing files with names ' 
+                        + '<author_id>.txt.')
+    parser.add_argument('-n', '--num_authors', type = int, required = True,
+                        help = 'Number of expected files in the publications ' 
+                        + 'directory, i.e if the highest author id in the ' 
+                        + 'directory is 10, specify 11 as the indexing starts '
+                        + 'with 0. A subset of the files may be missing.')
+    parser.add_argument('-o', '-outfile', default = 'pub_embed.h5',
+                        help = 'Output file in hdf5 format.')
+    parser.add_argument('--descr', type = str,
+                        help = 'Custom description in the hdf5 file.')
     args = parser.parse_args()
 
-    # test if input is readable
+    
+    descr = args.descr if args.descr else \
+        "publication_embedding: 2-dim numpy array\n" \
+        + "Each line contains the embedding of a publication list computed " \
+        + "with embedding model \"text-embedding-ada-002\".\n\n" \
+        + "author_ids: 1-dim numpy array\n" \
+        + "Each entry contains the author ID corresponding to the " \
+        + "publication list embedding at the same index in " \
+        + "publication_embedding."
 
-    outfile = args.outfile + ".hdf5"
-    # description for datasets
-    descr = "" if not args.descr else args.descr  #### write description
-
-    # read data and compute embeddings
-    pubs, affiliation = read_pubs_to_dict(args.input)
+    # read publications and compute embeddings
+    pubs, author_ids = read_pubs(args.publications, args.num_authors)
     embeddings = embeddings_from_pubs(pubs)
 
-    # write embeddings and author affiliations to hdf5 file
-    with h5py.File(outfile, 'w') as f_out:
-        f_out.create_dataset(name = 'pub_embedding', data = embeddings,
-                             dtype = 'f', compression = 'gzip')
-        
-        f_out.create_dataset(name = 'author_affiliation', data = affiliation,
-                             comperession = 'gzip')
-        
-        f_out.create_dataset('description', 
-                             data = descr)  
+    # write data to hdf5 file
+    with h5py.File(args.outfile, 'w') as f_out:
+        f_out.create_dataset(name = 'publication_embedding', 
+                             data = embeddings,
+                             compression = 'gzip')
+        f_out.create_dataset(name = 'author_ids', 
+                             data = author_ids,
+                             compression = 'gzip')
+        f_out.create_dataset(name = 'description', 
+                             data = descr)
     
     exit(0)
 
