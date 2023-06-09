@@ -114,6 +114,8 @@ def main():
     """
     Use time to:
     1. Make sure all sessions for WOS are ended in other browsers.
+       Also close affected browsers. "Access denied" error can still occur.
+       Being patient helps, but it's still annoying.
     2. Use VPN of affiliated institution (not sure if necessary)
     3. After browser window is ready, visit webofscience.com
     4. Log in via your institution to gain full access to website
@@ -130,6 +132,7 @@ def main():
             continue
         if exists("../../data/publications/"+str(i)+".txt"):
             continue
+        #somehow the entries in the column are read as float, hence the cast
         URL = "https://www.webofscience.com/wos/author/record/"+str(int(ID))
         driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
         linklist = exejscode(driver, linkgrabber)
