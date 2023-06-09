@@ -114,8 +114,9 @@ def main():
     """
     Use time to:
     1. Make sure all sessions for WOS are ended in other browsers.
-       Also close affected browsers. "Access denied" error can still occur.
-       Being patient helps, but it's still annoying.
+       Also close affected browsers.
+       Delete cookies, ALWAYS keep deleting cookies, when "Access denied"
+       error occurs.
     2. Use VPN of affiliated institution (not sure if necessary)
     3. After browser window is ready, visit webofscience.com
     4. Log in via your institution to gain full access to website
