@@ -11,11 +11,12 @@ import matplotlib.pyplot as plt
 import seaborn  as sns
 
 
-def file_readable(arg):
-    if not os.path.isfile(arg) or not os.access(arg, os.R_OK):
-        raise argparse.ArgumentTypeError("The file " + arg + "does not exist "
-                                         + "or is not readable!")
-    return arg
+def try_to_read_file(file_path: str) -> str:
+    # a quick function for argparse to check if given arg is a readable file
+    if not os.path.isfile(file_path) or not os.access(file_path, os.R_OK):
+        raise argparse.ArgumentTypeError("The file " + file_path + "does not "
+                                         + "exist or is not readable!")
+    return file_path
 
 def get_affiliation_and_palette(authors: pd.DataFrame,
                                 author_ids: np.ndarray,
@@ -32,7 +33,7 @@ def get_affiliation_and_palette(authors: pd.DataFrame,
             affiliations.
         affiliation_map (pandas.DataFrame): Table with all possible 
             faculties or institutes.
-        affiliation (str): Which affiliation to use - faculty or institute.
+        affiliation (str): Which affiliation to use - "faculty" or "institute".
 
     Returns:
         affil (list[str]): List of affiliations for author IDs.
@@ -126,28 +127,29 @@ def main():
     parser = argparse.ArgumentParser(
         description='Visualize the embeddings of publications with a t-SNE '
                     + 'plot.')
-    parser.add_argument('embed_file', type = file_readable,
+    parser.add_argument('embed_file', type = try_to_read_file,
                         help = 'hdf5 file with embeddings.')
-    parser.add_argument('author_file', type = file_readable,
+    parser.add_argument('author_file', type = try_to_read_file,
                         help = 'File with table containing information about '
-                        + 'the authors, like ID, fculty, and institute.')
-    parser.add_argument('affiliation_map', type = file_readable,
+                        + 'the authors, like ID, faculty, and institute.')
+    parser.add_argument('affiliation_map', type = try_to_read_file,
                         help = 'File with table containig all possible '
                         + 'faculties/institutes.')
     parser.add_argument('-o', '--outfile', default = 'tsne_plot',
-                        help = 'Stem for output file to save plot.')
+                        help = 'Stem for output file to save plot. Default is '
+                        + '\"tsne_plot\".')
     parser.add_argument('--format', default = 'png', 
                         choices = ['png', 'pdf', 'svg'],
-                        help = 'Format for plot.')
+                        help = 'Format for plot. Default is png.')
     parser.add_argument('--pca', action = 'store_true',
                         help = 'Perform a PCA before the t-SNE.')
     parser.add_argument('--pca_components', type = int, default = 50,
                         help = 'Number of components to keep after performing'
-                        + ' the PCA')
+                        + ' the PCA. Default is 50.')
     parser.add_argument('--affiliation', default = 'faculty', 
                         choices = ['institute', 'faculty'],
                         help = 'Decides after which fashion to color the ' 
-                        + 'plot.')
+                        + 'plot. Default is \"faculty\".')
     args = parser.parse_args()
     
     outfile = args.outfile + '.' + args.format
@@ -159,7 +161,7 @@ def main():
     authors = pd.read_table(args.author_file, delimiter = '\t')
     affiliation_map = pd.read_table(args.affiliation_map, delimiter = '\t')
 
-    # perplexity for tsne needs to be smaller than number of data points
+    # perplexity for tsne needs to be smaller than the number of samples
     k = 30.0 if len(author_ids) > 30 else float(len(author_ids) - 1)
     # pca components needs to be <= min(n_samples, n_features)
     pca_components = args.pca_components \
