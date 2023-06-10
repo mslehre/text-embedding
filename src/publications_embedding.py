@@ -74,20 +74,21 @@ def embeddings_from_pubs(pubs: list[str],
         embeddings (numpy.ndarray): Embeddings of the publication lists.
     """
 
-    embedding = []
+    embeddings = []
 
     for pub in pubs:
-        embedding.append(embedding_from_string(pub,
-                                               embedding_name = embedding_name,
-                                               max_token = max_token))
-        if embedding[-1] == None:
+        embed = embedding_from_string(pub,
+                                          embedding_name = embedding_name,
+                                          max_token = max_token)
+        if embed == [None]:
             print("ERROR: The embedding for \"", pub, "\" could not be" 
                   + "computed! Please check your input and parameters!")
             exit(1)
+        embeddings.append(embed)
 
-    embedding = np.asarray(embedding)
+    embeddings = np.asarray(embeddings)
 
-    return embedding
+    return embeddings
 
 
 def main():
