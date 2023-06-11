@@ -10,10 +10,14 @@ app = Flask(__name__)
 @app.route('/')
 def home():
     return '''<form>
-    <label for="fname">Enter first file name: </label><br>
-    <input type="text" id="file1"><br>
-    <label for="lname">Enter second file name:</label><br>
-    <input type="text" id="file2"><br><br>
+    <label for="fname">Enter first file text: </label><br>
+  <textarea name="file1" id="file1text" rows="10" cols="30"></textarea>
+  </form>
+  
+  <form>
+  <label for="lname">Enter second file text:</label><br>
+  <textarea name="file1" id="file2text" rows="10" cols="30"></textarea>
+  </form>
 
     <button onclick="myFunction()"> Compute similarity of the files content\
         </button> <br><br>
@@ -23,8 +27,8 @@ def home():
 
     <script>
         function myFunction() {
-            let f1 = document.getElementById("file1").value;
-            let f2 = document.getElementById("file2").value;
+            let f1 = document.getElementById("file1text").value;
+            let f2 = document.getElementById("file2text").value;
             let actualUrl = window.location.href;
 
             document.getElementById("url").innerHTML="";
@@ -33,13 +37,14 @@ def home():
                 document.getElementById("demo").innerHTML="";
                 alert("The file name can not be empty!");
             } else {
+                document.getElementById("file1a2").value=f1+f2;
                 window.open(actualUrl+"/file1/"+f1+"/file2/"+f2);
             }
         }
     </script>
 
     <form>
-    <textarea name="file1" rows="10" cols="30">
+    <textarea name="file1" id=file1a2 rows="10" cols="30">
     </textarea>
 
     </form>'''
@@ -111,3 +116,4 @@ def compute_similarity_of_files(file1: str, file2: str) -> str:
 
 if __name__ == '__main__':
     app.run()
+
