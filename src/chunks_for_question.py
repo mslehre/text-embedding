@@ -39,7 +39,7 @@ def get_k_IDs(question: str,
     # Check if question is given:
     if not question:
         print("No question was given. Please enter a question.")
-        return  [None]
+        return [None]
 
     # Get the embeddings from the hpf5 file if exists and acess is given:
     file_path = os.getcwd() + "/../data/" + embeddings_file
