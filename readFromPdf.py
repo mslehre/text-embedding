@@ -1,22 +1,31 @@
 # importing required modules
 import PyPDF2
 
-# creating a pdf file object
-pdfFileObj = open('examination_regulations/GPO-BMS_Lesefassung_AendS-2021-2.pdf', 'rb')
+def pdfToTxt(pdfname, txtname):
+    # creating a pdf file object
+    pdfFileObj = open(pdfname, 'rb')
+    
+    # creating a pdf reader object
+    pdfReader = PyPDF2.PdfReader(pdfFileObj)
 
+    # printing number of pages in pdf file
+    #print(pdfReader.numPages)
 
-# creating a pdf reader object
-pdfReader = PyPDF2.PdfReader(pdfFileObj)
+    # creating a page object
+    pageObj = pdfReader.pages[0]
 
-# printing number of pages in pdf file
-#print(pdfReader.numPages)
+    # extracting text from page
+    fileText = pageObj.extract_text()
 
-# creating a page object
-pageObj = pdfReader.pages[0]
+    # closing the pdf file object
+    pdfFileObj.close()
 
-# extracting text from page
-print(pageObj.extract_text())
+    #write the text from pdf to txt file
+    output = open(txtname, 'w')
+    output.write(fileText)
 
-# closing the pdf file object
+#test variables
+pdfTestName = 'examination_regulations/GPO-BMS_Lesefassung_AendS-2021-2.pdf'
+txtTestName = 'GPO-BMS_Lesefassung_AendS-2021-2.txt'
 
-pdfFileObj.close()
+pdfToTxt(pdfTestName, txtTestName)
