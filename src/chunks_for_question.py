@@ -5,10 +5,6 @@ import numpy as np
 from compute_embedding import embedding_from_string
 from openai.embeddings_utils import cosine_similarity
 
-# TODO:
-#   - catch exceptions if wrong file  does not exist
-#   - catch exceptions if no arguments are given (e.g. no file,...)
-
 def get_k_IDs(question: str,
               embeddings_file: str,
               k: int = 5) -> list[int]:
@@ -36,12 +32,21 @@ def get_k_IDs(question: str,
             best cosine similiarity for the question orderd from most to least 
             similar.
     """
-    # Get the embeddings from the hpf5 file:
-    file_path = os.getcwd() + "//../data/" + embeddings_file
+    # Check if question is given:
+    if not question:
+        print("No question was given. Please enter a question.")
+        return  [None]
+
+    # Get the embeddings from the hpf5 file if exists and acess is given:
+    file_path = os.getcwd() + "/../data/" + embeddings_file
+    if(not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
+        print("The file " + file_path + " does "
+              + "not exist or is not readable!")
+        return [None]
+
     with h5py.File(file_path, 'r') as f_in:
         # get all embeddings and the id list:
         for key in f_in.keys():
-            print(key)
             if("embeddings" in key):
                 embeddings = f_in[key][:] 
             elif("ids" in key):
@@ -49,16 +54,18 @@ def get_k_IDs(question: str,
             else:
                 print("Some keys of the hdf5 file could not be used.")
 
+    # Check if k not bigger than the number of embeddings:
+    n = np.shape(embeddings)[0]
+    if (k > n):
+        print(f'k was given as {k} but there are {n} embeddings given. k is ' 
+              + f'set to {n}.')
+        k = n
 
     # Compute IDs of the best embeddings and return the sorted list from 
     # biggest to smallest similarity:
-    # Attention: embeddings with None in it are not given to the function which
-    #            means that the resulting indices are not the right ones as 
-    #            some embeddings were deletet.
     inds = get_embeddings_argsort(question=question, 
                                   embedding_list=embeddings)
     inds = [id_list[i] for i in inds] 
-    # TODO: catch exception that k is bigger than number of chunks...
     return inds[0:k]
 
 def get_embeddings_argsort(question: str, 
@@ -93,17 +100,11 @@ def get_embeddings_argsort(question: str,
 def main():
     """Main to test the function that gets the k best chunks for a question.
     """
-    question = "What papers did Daniel write?"
+    question = "Whta did Christian Helm write?"
     k = 3
-#    a = get_k_chunks_from_folder(question=question,
-#                                 folder="Example_chunks",
-#                                 k=k)
     a = get_k_IDs(question, 
                 embeddings_file="example_pubs/example_embeddings.hdf5", k=k)
-    if k == 1:
-        print(f'Question: {question} The best file is {a[0]}.')
-    else:
-        print(f'Question: {question} The list with the best {k} files is {a}.')
+    print(f'Question: {question} The list with the best {k} file(s) is {a}.')
 
     exit(0)
 
