@@ -11,7 +11,7 @@ from openai.embeddings_utils import cosine_similarity
 
 def get_k_IDs(question: str,
               embeddings_file: str,
-              k: int) -> list[int]:
+              k: int = 5) -> list[int]:
     """Gets the IDs of the k chunks that have the best cosine similarity with 
     the embedded question. The embeddings of the chunks are given in the hdf5
     file embeddin_file which should be locaded in the data directory of this
@@ -40,22 +40,13 @@ def get_k_IDs(question: str,
             similar.
     """
     # Get the embeddings from the hpf5 file:
-    file_path = os.getcwd() + "../data/" + embeddings_file
+    file_path = os.getcwd() + "//../data/" + embeddings_file
     with h5py.File(file_path, 'r') as f_in:
         file_keys = f_in.keys()
+        print(file_keys)
         # get all embeddings, shoulb be list of lists:
-        embeddings_all = f_in[file_keys[0]][:] 
-
-    # Filter out embeddings that are None and save indices/IDs of selected 
-    # embeddings:
-    embeddings = []  # empty list for embeddings that exist
-    ids = []  # list for indices/IDs of embeddings that exist
-    for i in range(0, len(embeddings_all)):
-        if(all(embeddings_all[i]) is not None):
-            embeddings.append(embeddings_all[i])
-            ids.append(i)
-        else:
-            print("A chunk could not be used as it was not computed.")
+        embeddings = f_in['publication_embeddings'][:] 
+        id_list = f_in['author_ids'][:]
 
     # Compute IDs of the best embeddings and return the sorted list from 
     # biggest to smallest similarity:
@@ -64,10 +55,8 @@ def get_k_IDs(question: str,
     #            some embeddings were deletet.
     inds = get_embeddings_argsort(question=question, 
                                   embedding_list=embeddings)
-    inds = [ids[i] for i in inds] 
-
+    inds = [id_list[i] for i in inds] 
     # TODO: catch exception that k is bigger than number of chunks...
-    
     return inds[0:k]
 
     
@@ -153,11 +142,13 @@ def get_embeddings_argsort(question: str,
 def main():
     """Main to test the function that gets the k best chunks for a question.
     """
-    question = "What is a pizza?"
-    k = 1
-    a = get_k_chunks_from_folder(question=question,
-                                 folder="Example_chunks",
-                                 k=k)
+    question = "What papers did Daniel write?"
+    k = 3
+#    a = get_k_chunks_from_folder(question=question,
+#                                 folder="Example_chunks",
+#                                 k=k)
+    a = get_k_IDs(question, 
+                embeddings_file="example_pubs/example_embeddings.hdf5", k=k)
     if k == 1:
         print(f'Question: {question} The best file is {a[0]}.')
     else:
