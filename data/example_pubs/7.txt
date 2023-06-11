@@ -1,0 +1,101 @@
+Andre Melzer,528741;
+
+Analyzing phase separation processes in binary dusty plasmas using a polarization-sensitive camera	https://www.webofscience.com/wos/woscc/full-record/WOS:000843551100005
+
+Fast 3D particle reconstruction using a convolutional neural network: application to dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000692769000001
+
+Nonlinear Wave Synchronization in a Dusty Plasma Under Microgravity on the International Space Station (ISS)	https://www.webofscience.com/wos/woscc/full-record/WOS:000731147400032
+
+Charge measurement of SiO2 nanoparticles in an rf plasma by ir absorption	https://www.webofscience.com/wos/woscc/full-record/WOS:000710272900008
+
+Configurational temperature of multispecies dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000708112300006
+
+Investigation of the IR absorption of trapped MF particles in a dusty plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000704916200001
+
+Simulations and experiments of phase separation in binary dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000650951500008
+
+Experimental investigation of phase separation in binary dusty plasmas under microgravity	https://www.webofscience.com/wos/woscc/full-record/WOS:000529311300015
+
+Dust-density Waves in Radio-frequency Discharges Under Magnetic Fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000519062000001
+
+Dusty (complex) plasmas-routes towards magnetized and polydisperse systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000459244800001
+
+Three-Dimensional Reconstruction of Individual Particles in Dense Dust Clouds: Benchmarking Camera Orientations and Reconstruction Algorithms	https://www.webofscience.com/wos/woscc/full-record/WOS:000460175100010
+
+Optical diagnostics of dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000451055300001
+
+Finite dust clusters under strong magnetic fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000489060300055
+
+Configurational temperature in dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000471986300005
+
+Layered structures in extended dust clouds under microgravity	https://www.webofscience.com/wos/woscc/full-record/WOS:000443730900126
+
+Diagnostics and characterization of nanodust and nanodusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000431920300002
+
+Microphysics of liquid complex plasmas in equilibrium and non-equilibrium systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000431920300001
+
+Characterization of injected aluminum oxide nanoparticle clouds in an rf discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000424021500001
+
+Magnetic field effects and waves in complex plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000434039500001
+
+Analysis of 3D vortex motion in a dusty plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000418957200095
+
+Experimental determination of phase transitions by means of configurational entropies in finite Yukawa balls	https://www.webofscience.com/wos/woscc/full-record/WOS:000414741300009
+
+Transverse forces on dust particles in a magnetized sheath with crossed electric and magnetic fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000400817900087
+
+Vertical oscillations of dust particles in a strongly magnetized plasma sheath induced by horizontal laser manipulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000395395100091
+
+Long-term spatio-temporal evolution of the dust distribution in dusty argon rf plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000403945500004
+
+Phase Separation of Binary Charged Particle Systems with Small Size Disparities using a Dusty Plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000372431400005
+
+Stereoscopic imaging of dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000376014600006
+
+Influence of dust particles on the bulk electron density in radio frequency plasmas measured by microwave interferometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000367460400098
+
+Vertically aligned dust particles under the influence of crossed electric and magnetic fields in the sheath of a radio frequency discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000358933600074
+
+Spatio-temporal evolution of the dust particle size distribution in dusty argon rf plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000356816200033
+
+Effect of confinement on the mode dynamics of dipole clusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000349146400018
+
+Dust particles under the influence of crossed electric and magnetic fields in the sheath of an rf discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000347162700110
+
+Connecting the wakefield instabilities in dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000345691700025
+
+Computer tomography of large dust clouds in complex plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000344594200042
+
+Wave Crest Reconstruction of a Dust Density Wave Using Single Particle Trajectories	https://www.webofscience.com/wos/woscc/full-record/WOS:000344548300176
+
+Recrystallization in Finite 3-D Dust Clouds	https://www.webofscience.com/wos/woscc/full-record/WOS:000344548300179
+
+Oscillation Amplitudes in 3-D Dust Density Waves in Dusty Plasmas Under Microgravity Conditions	https://www.webofscience.com/wos/woscc/full-record/WOS:000344548300178
+
+Controlling strongly correlated dust clusters with lasers	https://www.webofscience.com/wos/woscc/full-record/WOS:000341771100001
+
+Global coherence of dust density waves	https://www.webofscience.com/wos/woscc/full-record/WOS:000338995300116
+
+Correlation buildup during recrystallization in three-dimensional dusty plasma clusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000337107200001
+
+Paramagnetic dust particles in rf-plasmas with weak external magnetic fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000335383100002
+
+Symbolic transfer entropy analysis of the dust interaction in the presence of wakefields in dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000335501600003
+
+Stereoscopy of dust density waves under microgravity: Velocity distributions and phase-resolved single-particle analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000334180200111
+
+Nonequilibrium finite dust clusters: Connecting normal modes and wakefields	https://www.webofscience.com/wos/woscc/full-record/WOS:000332169100008
+
+Crystal and fluid modes in three-dimensional finite dust clouds	https://www.webofscience.com/wos/woscc/full-record/WOS:000326728600005
+
+Observation of Omega mode electron heating in dusty argon radio frequency discharges	https://www.webofscience.com/wos/woscc/full-record/WOS:000323946800121
+
+From transport to disorder: Thermodynamic properties of finite dust clouds	https://www.webofscience.com/wos/woscc/full-record/WOS:000320109300006
+
+Stereoscopic Observations of Dust Clouds in Front of a Pixel Electrode in a Radio Frequency Discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000317922000009
+
+Analyzing the liquid state of two-dimensional dust clusters: The instantaneous normal mode approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000316680000021
+
+Three-dimensional single particle tracking in dense dust clouds by stereoscopy of fluorescent particles	https://www.webofscience.com/wos/woscc/full-record/WOS:000312834000083
+
+Experiments and Simulations of Particle Flows in a Magnetized Dust Torus	https://www.webofscience.com/wos/woscc/full-record/WOS:000310986500007
