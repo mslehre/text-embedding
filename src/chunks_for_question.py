@@ -25,6 +25,10 @@ def get_k_IDs(question: str,
                         directory "data/folder" the strings should be in the 
                         following format: "foler/example_embeddings" 
                         (without "/" at the beginning)
+            Attention: The dictionary has to have a key that contains the 
+                       string "embeddings" that gives the array of the 
+                       embeddigs and a string with "ids" that gives the ids or
+                       names of the corrsponding files.
         k (int): Integer that indicates the number of chunks that are returned.   
 
     Returns:
