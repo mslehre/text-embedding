@@ -99,4 +99,3 @@ Global and long-term comparison of SCIAMACHY limb ozone profiles with correlativ
 Sensitivity of equatorial mesopause temperatures to the 27-day solar cycle	https://www.webofscience.com/wos/woscc/full-record/WOS:000310691000005
 
 On the dependence of the OH* Meinel emission altitude on vibrational level: SCIAMACHY observations and model simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000309424300032
-
