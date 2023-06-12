@@ -8,33 +8,33 @@ from openai.embeddings_utils import cosine_similarity
 def get_k_IDs(question: str,
               embeddings_file: str,
               k: int = 5) -> list[int]:
-    """Gets the IDs of the k chunks that have the best cosine similarity with 
-    the embedded question. The embeddings of the chunks are given in the hdf5
-    file named after the string of 'embeddings_file' which should be locaded in
-    the data directory of this repository. The function gives back a list that 
-    contains the IDs of the k best chunks starting with the best match for the 
-    question.
+    """Gets the IDs of the k chunks that have the highest cosine similarity
+    with the embedded question. The embeddings of the chunks are given in the
+    hdf5 file named after the string of 'embeddings_file' which should be
+    locaded in the data directory of this repository. The function gives back a
+    list that contains the IDs of the k chunks sorted decreasingly by
+    similarity to the question.
 
     Args:
-        question (str): The string of the question to compare the embeddings 
+        question (str): The string of the question to compare the embeddings
             of the chunks to.
-        embeddings_file (str): The relative path of the hdf5 file, that 
-            contains the embeddings , if one is currently in the data 
-            directory, since all data files should be stored there. 
-            Example:    For the file named "example_embeddings" in the  
-                        directory "data/folder" the strings should be in the 
-                        following format: "foler/example_embeddings" 
+        embeddings_file (str): The relative path of the hdf5 file, that
+            contains the embeddings , if one is currently in the data
+            directory, since all data files should be stored there.
+            Example:    For the file named "example_embeddings" in the
+                        directory "data/folder" the strings should be in the
+                        following format: "folder/example_embeddings"
                         (without "/" at the beginning)
-            Attention: The dictionary has to have a key that contains the 
-                       string "embeddings" that gives the array of the 
+            Attention: The dictionary has to have a key that contains the
+                       string "embeddings" that gives the array of the
                        embeddigs and a string with "ids" that gives the ids or
                        names of the corrsponding files.
-        k (int): Integer that indicates the number of chunks that are returned.   
+        k (int): Integer that indicates the number of chunks that are returned.
 
     Returns:
-        list[int]: The list that contains the IDs of the k files with the 
-            best cosine similiarity for the question orderd from most to least 
-            similar.
+        list[int]: The list that contains the IDs of the k files with the
+            best cosine similiarity for the question orderded from most to
+            least similar.
     """
     # Check if question is given:
     if not question:
@@ -43,7 +43,7 @@ def get_k_IDs(question: str,
 
     # Get the embeddings from the hpf5 file if exists and acess is given:
     file_path = os.getcwd() + "/../data/" + embeddings_file
-    if(not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
+    if (not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
         print("The file " + file_path + " does "
               + "not exist or is not readable!")
         return [None]
@@ -104,7 +104,7 @@ def get_embeddings_argsort(question: str,
 def main():
     """Main to test the function that gets the k best chunks for a question.
     """
-    question = "Whta did Christian Helm write?"
+    question = "What is the publication domain of Christiane Helm?"
     k = 3
     a = get_k_IDs(question, 
                 embeddings_file="example_pubs/example_embeddings.hdf5", k=k)
@@ -114,4 +114,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
