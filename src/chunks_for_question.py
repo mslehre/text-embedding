@@ -40,6 +40,8 @@ def get_k_IDs(question: str,
     if not question:
         print("No question was given. Please enter a question.")
         return [None]
+    # Embed the question:
+    question_embedding = embedding_from_string(string=question)
 
     # Get the embeddings from the hpf5 file if exists and acess is given:
     file_path = os.getcwd() + "/../data/" + embeddings_file
@@ -67,19 +69,19 @@ def get_k_IDs(question: str,
 
     # Compute IDs of the best embeddings and return the sorted list from 
     # biggest to smallest similarity:
-    inds = get_embeddings_argsort(question=question, 
+    inds = get_embeddings_argsort(question_embedding=question_embedding, 
                                   embedding_list=embeddings)
     inds = [id_list[i] for i in inds] 
     return inds[0:k]
 
-def get_embeddings_argsort(question: str, 
+def get_embeddings_argsort(question_embedding: list[float], 
                            embedding_list: list[list[float]]) -> list[int]:
-    """Gets the argsort of the given embeddings from best cosine similarity to 
-    least similarity with the given question.
+    """Gets the argsort of the given embeddings from higehst to lowest cosine
+    similarity with the given question.
 
     Args:
-        question (str): The string of the question that is compared to the 
-            embeddings of the chunks.
+        question_embedding (list[float]): The embedded question to which the 
+            embeddings are compared to.
         embedding_list (list[list[float]]): The list containing the embeddings 
             of the chunks.   
 
@@ -88,15 +90,13 @@ def get_embeddings_argsort(question: str,
             embeddings according to the cosine similiarity for the question 
             orderd from most to least similar.
     """
-    # Embed the question
-    question_embedding = embedding_from_string(string=question)
     similarities = []
     for i in range(0,len(embedding_list)):
         similarities.append(cosine_similarity(question_embedding, 
                                               embedding_list[i]))
     
     # Return the indices of the k best embeddings, the best results have the 
-    # biggest cosine similarity.
+    # highest cosine similarity.
     inds = np.array(similarities).argsort()[::-1]  
     return inds
 
