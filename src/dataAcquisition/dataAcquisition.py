@@ -115,12 +115,12 @@ def main():
     Use time to:
     1. Make sure all sessions for WOS are ended in other browsers.
        Also close affected browsers.
-       Delete cookies, ALWAYS keep deleting cookies, when "Access denied"
-       error occurs.
     2. Use VPN of affiliated institution (not sure if necessary)
     3. After browser window is ready, visit webofscience.com
     4. Log in via your institution to gain full access to website
        make also sure to tick the box that says "Remember me for this session"
+       When "Access denied" error occurs, delete cookies manually and resend
+       the form (i.e. refresh page) afterwards.
     5. Accept cookies and dismiss other pop-ups
     6. Wait until program is finished and you regain control over shell
     """

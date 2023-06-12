@@ -324,3 +324,15 @@
 [09/06/2023 12:01:26]	Filtered to 50 links.
 #7 loading timeouts, 2 due to wrong ID(i.e. human error in data annotation), 5 due to implementation of waiting queue(but still successful)
 #That means 100% of error free data successfully gathered. IDs for M. Münzenberg und M.Fischer were corrected in spreadsheet.
+[09/06/2023 17:58:25]	Error: Page "https://www.webofscience.com/wos/author/record/38874770" loading timeout. #testrun
+[09/06/2023 17:58:44]	Extracted 0 links.
+[09/06/2023 17:58:44]	Filtered to 0 links.
+[09/06/2023 17:58:44]	Error: Page "https://www.webofscience.com/wos/author/record/15236651" loading timeout.#testrun
+[09/06/2023 17:59:03]	Extracted 23 links.
+[09/06/2023 17:59:03]	Filtered to 0 links.
+[09/06/2023 18:01:48]	Page "https://www.webofscience.com/wos/author/record/38874770" loaded successfully.
+[09/06/2023 18:01:53]	Extracted 260 links.
+[09/06/2023 18:01:54]	Filtered to 50 links.
+[09/06/2023 18:01:54]	Page "https://www.webofscience.com/wos/author/record/15236651" loaded successfully.
+[09/06/2023 18:01:57]	Extracted 192 links.
+[09/06/2023 18:01:57]	Filtered to 33 links.
