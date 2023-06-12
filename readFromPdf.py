@@ -1,7 +1,11 @@
 # importing required modules
 import PyPDF2
 
-def pdfToTxt(pdfname, txtname):
+def pdfToTxt(pdfname):
+    #creating a txt output file
+    txtname=pdfname[:-4]
+    txtname+=".txt"
+
     # creating a pdf file object
     pdfFileObj = open(pdfname, 'rb')
     
@@ -25,7 +29,6 @@ def pdfToTxt(pdfname, txtname):
     output.write(fileText)
 
 #test variables
-pdfTestName = 'examination_regulations/GPO-BMS_Lesefassung_AendS-2021-2.pdf'
-txtTestName = 'GPO-BMS_Lesefassung_AendS-2021-2.txt'
+pdfTestName = input('Enter the pdf file name: ') #'examination_regulations/GPO-BMS_Lesefassung_AendS-2021-2.pdf'
 
-pdfToTxt(pdfTestName, txtTestName)
+pdfToTxt(pdfTestName)
