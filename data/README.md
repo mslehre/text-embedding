@@ -80,7 +80,7 @@ CSFI    5
 Institutes
 ```
 echo -e "institute_long\tcolor\tinstitute_short" > colors.inst.tbl
-cut -f 4 prof.tbl | sort -u | perl -ne 'chomp; @f = split /\t/; $i=0 if !defined $i; print "$f[0]\t$i\t$f[0]\n"; $i++' >> colors.inst.tbl
+cut -f 4 prof.tbl | sort -u  | grep -Pv "^$" | perl -ne 'chomp; @f = split /\t/; $i=0 if !defined $i; print "$f[0]\t$i\t$f[0]\n"; $i++' >> colors.inst.tbl
 ```
 manually edit `colors.inst.tbl` and short the names:
 ```
