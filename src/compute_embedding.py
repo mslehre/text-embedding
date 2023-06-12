@@ -56,6 +56,48 @@ def embedding_from_string(string: str,
     # string.
     string = get_string_from_tokens(tokens) 
     return get_embedding(string, engine=embedding_name)
+
+def compute_similarity_of_texts(file1: str, file2: str) -> float:
+    """This function computes first two embeddings for the contents of two files
+    and then computes the cosine similarity of the two embeddings. If a file is 
+    too large because its content is encoded to more tokens than the maximum 
+    number of tokens for which an embedding is computed, the embedding 
+    for the files content that is encoded to the first max_token tokens is 
+    computed where max_token is the maximum number of tokens for which an 
+    embedding is computed. The cosine similarity is returned as string in a web 
+    form. 
+
+    Args:
+        file1 (str): This parameter is the name of the first file for which the 
+            cosine similarity of its content with the content of the second 
+            file is computed. The file should be in the same directory as this
+            program.
+        file2 (str): This parameter is the name of the second file for which 
+            the cosine similarity of its content with the content of the first
+            file is computed. The file should be in the same directory as this
+            program.
+
+    Returns: 
+        str: A string is returned that contains html code for a web from that
+            contains two labels file1 and file2 and the names of the files the 
+            user specified. In a textfield the cosine similarity of the content 
+            of the two files is displayed. If the embedding for one of the 
+            files cannot be computed, there is a message that the openai api key
+            was probably not set or is not valid.     
+    """
+
+    files = [file1, file2]
+    embeddings = []
+    # Compute embeddings for content of the files.
+    for file in files:
+        embeddings.append(embedding_from_string(file[i]))
+        
+    text = ""
+    # Test if embeddings could be computed.
+    for i in range(0,2):
+        if (embeddings[i] == [None]):
+            return -10
+    return cosine_similarity(embeddings[0], embeddings[1])
    
 def main():
     """If this program is executed the embedding for
