@@ -2,67 +2,68 @@
 # - settings (temperature etc) correct for us?
 # - add testing function? need example vectors for this...
 
+#example question: What are common interests for these two scientists, give documents: first list, second list....
 #set key with export OPENAI_API_KEY="..."
+
+#add argument list of indices, read in eg 1.txt, 5.txt and 7.txt from directory
+
+#first test without that though, make a directory with some testfiles, ask a test question see if it works
+#read up and understand what that vectorstore even is and how chroma gets it
+
+#here: https://blog.langchain.dev/langchain-chroma/ and github link in that will help
+
+#https://platform.openai.com/docs/guides/gpt/chat-completions-api
+#look up how to most basically ask openai questions, use that
+
+
 import os
+import openai
 
-import langchain
-from langchain.chains.question_answering import load_qa_chain
-from langchain.vectorstores import Chroma
-from langchain import VectorDBQA
-from langchain import PromptTemplate
+from build_prompt import prompt
 
-from compute_embedding import embedding_from_string
-
-# [Prompt]
-this_prompt_template = """You are a Bot assistant answering any questions about documents.
-You are given a question and a set of documents.
-If the user's question requires you to provide specific information from the documents, give your answer based only on the examples provided below. DON'T generate an answer that is NOT written in the provided examples.
-If you don't find the answer to the user's question with the examples provided to you below, answer that you didn't find the answer in the documentation and propose him to rephrase his query with more details.
-Use bullet points if you have to make a list, only if necessary.
-
-QUESTION: {question}
-
-DOCUMENTS:
-=========
-{context}
-=========
-Finish by proposing your help for anything else.
-"""
 
 def answer(
-  prompt: str, 
-  persist_directory: str
+  query: str, 
+  text_dir: str,
+  index_list: list
   ) -> str:
-        """From a question asked by the user, generate the answer based on the vectorstore.
+        """From a question asked by the user, generate the answer
 
         Args:
-            prompt (str): Question asked by the user.
-            persist_directory (str): Vectorstore directory.
+            query (str): Question asked by the user.
+            text_dir (str): Documents directory.
+            index_list (list): List of relevant docs.
 
         Returns:
             str: Answer generated with the LLM
         """
-        #reads in vectorstore:
-        vectorstore = Chroma(persist_directory=persist_directory, embedding_function=embedding_from_string)
-        prompt_template = PromptTemplate(template=this_prompt_template, input_variables=["context", "question"])
 
-        #sets settings for LLM:
-        doc_chain = load_qa_chain(
-            llm=OpenAI(
-              model_name="text-davinci-003",
-              temperature=0,
-              max_tokens=300, # Maximal number of tokens returned by the LLM
-            ),
-            chain_type="stuff", 
-            prompt=prompt_template,
+        #first read in docs given by list from the given directory
+        docs={}
+        for i in index_list:
+            this_chunk = open(text_dir + "/" + str(i) + ".txt", "r",encoding="UTF-8")
+            docs["chunk" + str(i)]=this_chunk.read()
+            this_chunk.close()
+        
+        #assemble the prompt
+        this_prompt=prompt(query, docs)
+
+        #call openai to obtain a response
+        response = openai.Completion.create(
+            model="text-davinci-003",
+            prompt=this_prompt,
+            temperature=0,
+            max_tokens=30,
         )
 
-        #calls LLM to ask question
-        qa = VectorDBQA(
-            vectorstore=vectorstore,
-            combine_documents_chain=doc_chain,
-            k=4
-        )
-        result = qa({"query": prompt})
-        answer = result["result"]
-        return answer
+        result = response['choices'][0]['text']
+        return result
+    
+def test():
+        testq="Given these lists of favourite foods, what could these two people eat togethers?"
+        testdir="/home/fb165560/text-embedding/data/test"
+        testlist=[1,3]
+        testanswer=answer(query=testq,text_dir=testdir,index_list=testlist)
+        print(testanswer)
+
+test()
