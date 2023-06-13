@@ -1,10 +1,102 @@
-Matthias Schneider,34436052;
+Mihaela Delcea,1690610;
 
-Chorale Fantasias for Organ	https://www.webofscience.com/wos/woscc/full-record/WOS:000956395900030
+Identification of Kazal Inhibitor Scaffolds with Identical Canonical Binding Loops and Their Effects on Binding Properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000910942400001
 
-"Director organi" Jan Adam Reincken on the 300th anniversary of his death	https://www.webofscience.com/wos/woscc/full-record/WOS:000861022800010
+Interaction of Polystyrene Nanoparticles with Supported Lipid Bilayers: Impact of Nanoparticle Size and Protein Corona	https://www.webofscience.com/wos/woscc/full-record/WOS:000928699900001
 
-Editorial	https://www.webofscience.com/wos/woscc/full-record/WOS:000837750800001
+The impact of cell culture media on the interaction of biopolymer-functionalized gold nanoparticles with cells: mechanical and toxicological properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000864277100057
 
-With and without Steam Locomotive The Organ was Instrument of the Year 2021. A short Review	https://www.webofscience.com/wos/woscc/full-record/WOS:000762420100034
+Fundamental Redesign of the TIGER2hs Kernel to Address Severe Parameter Sensitivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000848668500001
+
+Inhibitory Effect of Epigallocatechin Gallate-Silver Nanoparticles and Their Lysozyme Bioconjugates on Biofilm Formation and Cytotoxicity	https://www.webofscience.com/wos/woscc/full-record/WOS:000844281300001
+
+Structural Basis of the Pancreatitis-Associated Autoproteolytic Failsafe Mechanism in Human Anionic Trypsin	https://www.webofscience.com/wos/woscc/full-record/WOS:000818737200001
+
+Structural and Biophysical Insights into SPINK1 Bound to Human Cationic Trypsin	https://www.webofscience.com/wos/woscc/full-record/WOS:000780494900001
+
+Molecular interplay of ADAMTS13-MDTCS and von willebrand Factor-A2: deepened insights from extensive atomistic simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000871348400001
+
+Easy Expression and Purification of Fluorescent N-Terminal BCL11B CCHC Zinc Finger Domain	https://www.webofscience.com/wos/woscc/full-record/WOS:000736454800001
+
+Singlet-Oxygen-Induced Phospholipase A(2) Inhibition: A Major Role for Interfacial Tryptophan Dioxidation	https://www.webofscience.com/wos/woscc/full-record/WOS:000695969100001
+
+Improved Adsorption of the Antimicrobial Agent Poly (Hexamethylene) Biguanide on Ti-Al-V Alloys by NaOH Treatment and Impact of Mass Coverage and Contamination on Cytocompatibility	https://www.webofscience.com/wos/woscc/full-record/WOS:000699211300001
+
+Identification of a critical lipid ratio in raft-like phases exposed to nitric oxide: An AFM study	https://www.webofscience.com/wos/woscc/full-record/WOS:000681715400013
+
+The effects of the chemical environment of menaquinones in lipid monolayers on mercury electrodes on the thermodynamics and kinetics of their electrochemistry	https://www.webofscience.com/wos/woscc/full-record/WOS:000629870200001
+
+Reconstitution of Functional Integrin alpha IIb beta 3 and Its Activation in Plasma Membrane-Mimetic Lipid Environments	https://www.webofscience.com/wos/woscc/full-record/WOS:000676486000001
+
+Gas Plasma Technology Augments Ovalbumin Immunogenicity and OT-II T Cell Activation Conferring Tumor Protection in Mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000626161400001
+
+A Hypothesized Mechanism for Chronic Pancreatitis Caused by the N34S Mutation of Serine Protease Inhibitor Kazal-Type 1 Based on Conformational Studies	https://www.webofscience.com/wos/woscc/full-record/WOS:000653393900001
+
+Unveiling the N-Terminal Homodimerization of BCL11B by Hybrid Solvent Replica-Exchange Simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000638672900001
+
+Specific domain V reduction of beta-2-glycoprotein I induces protein flexibility and alters pathogenic antibody binding	https://www.webofscience.com/wos/woscc/full-record/WOS:000626619700005
+
+Changing surface properties of artificial lipid membranes at the interface with biopolymer coated gold nanoparticles under normal and redox conditions	https://www.webofscience.com/wos/woscc/full-record/WOS:000595259100005
+
+Interaction of fibrinogen-magnetic nanoparticle bioconjugates with integrin reconstituted into artificial membranes	https://www.webofscience.com/wos/woscc/full-record/WOS:000578100000036
+
+Thermodynamics, cooperativity and stability of the tetracycline repressor (TetR) upon tetracycline binding	https://www.webofscience.com/wos/woscc/full-record/WOS:000527000700004
+
+Biopolymer-coated gold nanoparticles inhibit human insulin amyloid fibrillation	https://www.webofscience.com/wos/woscc/full-record/WOS:000559780100032
+
+Nitrosative stress affects the interaction of integrin alphaIIbbeta3 with its ligands	https://www.webofscience.com/wos/woscc/full-record/WOS:000528194700008
+
+H-Bonding-mediated binding and charge reorganization of proteins on gold nanoparticles	https://www.webofscience.com/wos/woscc/full-record/WOS:000519585700012
+
+Characterization of the interaction between platelet factor 4 and homogeneous synthetic low molecular weight heparins	https://www.webofscience.com/wos/woscc/full-record/WOS:000491016500001
+
+The impact of physiological stress conditions on protein structure and trypsin inhibition of serine protease inhibitor Kazal type 1 (SPINK1) and its N34S variant	https://www.webofscience.com/wos/woscc/full-record/WOS:000503094800012
+
+The role of beta-2-glycoprotein I in health and disease associating structure with function: More than just APS	https://www.webofscience.com/wos/woscc/full-record/WOS:000514757500001
+
+Maghemite nanoparticles stabilize the protein corona formed with transferrin presenting different iron-saturation levels	https://www.webofscience.com/wos/woscc/full-record/WOS:000483691300030
+
+Role of endoplasmic reticulum stress and protein misfolding in disorders of the liver and pancreas	https://www.webofscience.com/wos/woscc/full-record/WOS:000499101900017
+
+Studying The Structure and Function of Plasmin Clipped Beta-2-Glycoprotein-1: The Saga Begins	https://www.webofscience.com/wos/woscc/full-record/WOS:000486295800077
+
+X-ray and Neutron Reflectometry of Thin Films at Liquid Interfaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000474478700002
+
+Reactivity of platelet-activating and nonplatelet-activating anti-PF4/heparin antibodies in enzyme immunosorbent assays under different conditions	https://www.webofscience.com/wos/woscc/full-record/WOS:000474259200012
+
+Antibacterial Mesoporous Titania Films with Embedded Gentamicin and Surface Modified with Bone Morphogenetic Protein 2 to Promote Osseointegration in Bone Implants	https://www.webofscience.com/wos/woscc/full-record/WOS:000471810800001
+
+Drug-induced activation of integrin alpha IIb beta 3 leads to minor localized structural changes	https://www.webofscience.com/wos/woscc/full-record/WOS:000464349000025
+
+Lysine residues control the conformational dynamics of beta 2-glycoprotein I	https://www.webofscience.com/wos/woscc/full-record/WOS:000451351500004
+
+The apelin receptor influences biomechanical and morphological properties of endothelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000430797600066
+
+Micropatterned array to assess the interaction of single platelets with platelet factor 4-heparin-IgG complexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000335541500011
+
+Polyphosphates form antigenic complexes with platelet factor 4 (PF4) and enhance PF4-binding to bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000365769200012
+
+Biophysical tools to assess the interaction of PF4 with polyanions	https://www.webofscience.com/wos/woscc/full-record/WOS:000387247800004
+
+Anti-platelet factor 4/polyanion antibodies mediate a new mechanism of autoimmunity	https://www.webofscience.com/wos/woscc/full-record/WOS:000401906100001
+
+Specific Capture of Peptide-Receptive Major Histocompatibility Complex Class I Molecules by Antibody Micropatterns Allows for a Novel Peptide-Binding Assay in Live Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000399019700002
+
+Tumour-specific delivery of siRNA-coupled superparamagnetic iron oxide nanoparticles, targeted against PLK1, stops progression of pancreatic cancer	https://www.webofscience.com/wos/woscc/full-record/WOS:000386471000011
+
+Rupture Forces among Human Blood Platelets at different Degrees of Activation	https://www.webofscience.com/wos/woscc/full-record/WOS:000375479800001
+
+Bioinspired titanium coatings: self-assembly of collagen-alginate films for enhanced osseointegration	https://www.webofscience.com/wos/woscc/full-record/WOS:000372231800007
+
+Partially desulfated heparin modulates the interaction between anti-protamine/heparin antibodies and platelets	https://www.webofscience.com/wos/woscc/full-record/WOS:000369431700012
+
+Neutrophil extracellular traps: imaging, nanomechanics and their relevance for cardiovascular diseases	https://www.webofscience.com/wos/woscc/full-record/WOS:000383869500345
+
+3D Micropillars Guide the Mechanobiology of Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes	https://www.webofscience.com/wos/woscc/full-record/WOS:000370004100005
+
+The architecture of neutrophil extracellular traps investigated by atomic force microscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000381815000044
+
+Human neutrophil antigen-3a antibodies induce neutrophil stiffening and conformational activation of CD11b without shedding of L-selectin	https://www.webofscience.com/wos/woscc/full-record/WOS:000367950600024
+
+Another surprising finding in heparin-induced thrombocytopenia - eat big	https://www.webofscience.com/wos/woscc/full-record/WOS:000358690900008
 

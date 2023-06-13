@@ -1,72 +1,74 @@
-Michael Lammers,2064064;
+Nikolai Siemens,16065697;
 
-Structural and Biophysical Insights into SPINK1 Bound to Human Cationic Trypsin	https://www.webofscience.com/wos/woscc/full-record/WOS:000780494900001
+Impact of Pneumococcal and Viral Pneumonia on the Respiratory and Intestinal Tract Microbiomes of Mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000960150700001
 
-Post-translational lysine ac(et)ylation in health, ageing and disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000733957300001
+Cytokine Profiling in Influenza A Virus and Staphylococcal (Co-)Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000901813100005
 
-Diversification by CofC and Control by CofD Govern Biosynthesis and Evolution of Coenzyme F-420 and Its Derivative 3PG-F420	https://www.webofscience.com/wos/woscc/full-record/WOS:000766836200010
+Editorial: Streptococci in infectious diseases - pathogenic mechanisms and host immune responses	https://www.webofscience.com/wos/woscc/full-record/WOS:000860200700001
 
-Lysine acetylation regulates the interaction between proteins and membranes	https://www.webofscience.com/wos/woscc/full-record/WOS:000716589100007
+Procoagulant Activity of Blood and Microvesicles Is Disturbed by Pneumococcal Pneumolysin, Which Interacts with Coagulation Factors	https://www.webofscience.com/wos/woscc/full-record/WOS:000829897700001
 
-Genetic Code Expansion Tools to Study Lysine Acylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000712089400001
+Bioactive lipid screening during respiratory tract infections with bacterial and viral pathogens in mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000809348100001
 
-Post-translational Lysine Ac(et)ylation in Bacteria: A Biochemical, Structural, and Synthetic Biological Perspective	https://www.webofscience.com/wos/woscc/full-record/WOS:000715224700001
+Group B Streptococcal Hemolytic Pigment Impairs Platelet Function in a Two-Step Process	https://www.webofscience.com/wos/woscc/full-record/WOS:000801344800001
 
-Promiscuous Dehalogenase Activity of the Epoxide Hydrolase CorEH from Corynebacterium sp. C12	https://www.webofscience.com/wos/woscc/full-record/WOS:000656056200020
+Streptococcus pneumoniae Impairs Maturation of Human Dendritic Cells and Consequent Activation of CD4(+) T Cells via Pneumolysin	https://www.webofscience.com/wos/woscc/full-record/WOS:000783920100001
 
-The development of genome editing tools as powerful techniques with versatile applications in biotechnology and medicine: CRISPR/Cas9, ZnF and TALE nucleases, RNA interference, and Cre/loxP	https://www.webofscience.com/wos/woscc/full-record/WOS:000591942100001
+Innate immune responses at the asymptomatic stage of influenza A viral infections of Streptococcus pneumoniae colonized and non-colonized mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000741362900006
 
-The development of genome editing tools as powerful techniques with versatile applications in biotechnology and medicine: CRISPR/Cas9, ZnF- and TALE-nucleases, RNA interference and Cre/loxP (vol 7, 3, 2021)	https://www.webofscience.com/wos/woscc/full-record/WOS:000617520600001
+Bronchial Epithelial Cells Accumulate Citrate Intracellularly in Response to Pneumococcal Hydrogen Peroxide	https://www.webofscience.com/wos/woscc/full-record/WOS:000719871200005
 
-Discovery and Design of Family VIII Carboxylesterases as Highly Efficient Acyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000591343700001
+The global proteome and ubiquitinome of bacterial and viral co-infected bronchial epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000710228300006
 
-Autophagy lipidation machinery regulates axonal microtubule dynamics but is dispensable for survival of mammalian neurons	https://www.webofscience.com/wos/woscc/full-record/WOS:000530024600005
+Hydrogen Peroxide Is Crucial for NLRP3 Inflammasome-Mediated IL-1 beta Production and Cell Death in Pneumococcal Infections of Bronchial Epithelial Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000684286700001
 
-An evolutionary approach to systematic discovery of novel deubiquitinases, applied to Legionella	https://www.webofscience.com/wos/woscc/full-record/WOS:000576834200010
+Streptococcus pyogenes ("Group A Streptococcus"), a Highly Adapted Human Pathogen-Potential Implications of Its Virulence Regulation for Epidemiology and Disease Management	https://www.webofscience.com/wos/woscc/full-record/WOS:000666442400001
 
-Sequence-Based Prediction of Promiscuous Acyltransferase Activity in Hydrolases	https://www.webofscience.com/wos/woscc/full-record/WOS:000531327000001
+The Role of NLRP3 Inflammasome in Pneumococcal Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000602633500001
 
-Mechanism and chain specificity of RNF216/TRIAD3, the ubiquitin ligase mutated in Gordon Holmes syndrome	https://www.webofscience.com/wos/woscc/full-record/WOS:000493064600005
+Adenosine Triphosphate Neutralizes Pneumolysin-Induced Neutrophil Activation	https://www.webofscience.com/wos/woscc/full-record/WOS:000605980300020
 
-Acetylation regulates ribonucleotide reductase activity and cancer cell growth	https://www.webofscience.com/wos/woscc/full-record/WOS:000476471300022
+Prothrombotic and Proinflammatory Activities of the beta-Hemolytic Group B Streptococcal Pigment	https://www.webofscience.com/wos/woscc/full-record/WOS:000546426200003
 
-Analysis of human acetylation stoichiometry defines mechanistic constraints on protein regulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000460402300014
+Is It Time to Reconsider the Group A Streptococcal Rheumatogenic Concept?	https://www.webofscience.com/wos/woscc/full-record/WOS:000532686300031
 
-Comment on 'YcgC represents a new protein deacetylase family in prokaryotes'	https://www.webofscience.com/wos/woscc/full-record/WOS:000458157000001
+16HBE Cell Lipid Mediator Responses to Mono and Co-Infections with Respiratory Pathogens	https://www.webofscience.com/wos/woscc/full-record/WOS:000523660800002
 
-DNA Repair Network Analysis Reveals Shieldin as a Key Regulator of NHEJ and PARP Inhibitor Sensitivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000432471100018
+Pathogenic Mechanisms of Streptococcal Necrotizing Soft Tissue Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000588074800010
 
-Expression and Purification of Site-Specifically Lysine-Acetylated and Natively-Folded Proteins for Biophysical Investigations	https://www.webofscience.com/wos/woscc/full-record/WOS:000434794700012
+Glycoconjugated Phthalocyanines as Photosensitizers for PDT - Overcoming Aggregation in Solution	https://www.webofscience.com/wos/woscc/full-record/WOS:000494504400001
 
-Development of Substrate-Derived Sirtuin Inhibitors with Potential Anticancer Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000413329800006
+The Role of Streptococcal and Staphylococcal Exotoxins and Proteases in Human Necrotizing Soft Tissue Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000475328000029
 
-A KRAS GTPase K104Q Mutant Retains Downstream Signaling by Offsetting Defects in Regulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000397585100006
+Port d'Entree for Respiratory Infections - Does the Influenza A Virus Pave the Way for Bacteria?	https://www.webofscience.com/wos/woscc/full-record/WOS:000418401600001
 
-Insights into K-Ras 4B regulation by post-translational lysine acetylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000384647400011
+Shocking superantigens promote establishment of bacterial infection	https://www.webofscience.com/wos/woscc/full-record/WOS:000411157100038
 
-Insights into Lysine Deacetylation of Natively Folded Substrate Proteins by Sirtuins	https://www.webofscience.com/wos/woscc/full-record/WOS:000380366700022
+Phosphoglycerate Kinase-A Novel Streptococcal Factor Involved in Neutrophil Activation and Degranulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000393130000015
 
-Novel Coronin7 interactions with Cdc42 and N-WASP regulate actin organization and Golgi morphology	https://www.webofscience.com/wos/woscc/full-record/WOS:000375443400001
+A point mutation in AgrC determines cytotoxic or colonizing properties associated with phenotypic variants of ST22 MRSA strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000381185000001
 
-Structural and Mechanistic Insights into the Regulation of the Fundamental Rho Regulator RhoGDI by Lysine Acetylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000372551800004
+Biofilm in group A streptococcal necrotizing soft tissue infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000387113300016
 
-RhoGDI alpha Acetylation at K127 and K141 Affects Binding toward Nonprenylated RhoA	https://www.webofscience.com/wos/woscc/full-record/WOS:000368562100008
+Genetic Architecture of Group A Streptococcal Necrotizing Soft Tissue Infections in the Mouse	https://www.webofscience.com/wos/woscc/full-record/WOS:000383366400020
 
-Small GTP-binding protein Ran is regulated by posttranslational lysine acetylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000357878700010
+Differential neutrophil responses to bacterial stimuli: Streptococcal strains are potent inducers of heparin-binding protein and resistin-release	https://www.webofscience.com/wos/woscc/full-record/WOS:000370370000001
 
-Structural and Biochemical Basis for the Inhibitory Effect of Liprin-alpha 3 on Mouse Diaphanous 1 (mDia1) Function	https://www.webofscience.com/wos/woscc/full-record/WOS:000355754600005
+LL-37 Triggers Formation of Streptococcus pyogenes Extracellular Vesicle-Like Structures with Immune Stimulatory Properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000375803900004
 
-TRIM protein domain topology and implications for antiviral immunity	https://www.webofscience.com/wos/woscc/full-record/WOS:000519606300244
+Increased cytotoxicity and streptolysin O activity in group G streptococcal strains causing invasive tissue infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000365276500001
 
-Acetylation regulates Cyclophilin A catalysis, immunosuppression and HIV isomerization	https://www.webofscience.com/wos/woscc/full-record/WOS:000276823200011
+Modelling staphylococcal pneumonia in a human 3D lung tissue model system delineates toxin-mediated pathology	https://www.webofscience.com/wos/woscc/full-record/WOS:000363970300008
 
-Active site remodeling switches HIV specificity of antiretroviral TRIMCyp	https://www.webofscience.com/wos/woscc/full-record/WOS:000270514200009
+Heterologous Expression of Ralp3 in Streptococcus pyogenes M2 and M6 Strains Affects the Virulence Characteristics	https://www.webofscience.com/wos/woscc/full-record/WOS:000315965100010
 
-Specificity of Interactions between mDia Isoforms and Rho Proteins	https://www.webofscience.com/wos/woscc/full-record/WOS:000261469100079
+The Extracellular Protein Factor Epf from Streptococcus pyogenes Is a Cell Surface Adhesin That Binds to Cells through an N-terminal Domain Containing a Carbohydrate-binding Module	https://www.webofscience.com/wos/woscc/full-record/WOS:000310642200051
 
-The regulation of mDia1 by autoinhibition and its release by Rho center dot GTP	https://www.webofscience.com/wos/woscc/full-record/WOS:000234336400019
+Effects of the ERES Pathogenicity Region Regulator Ralp3 on Streptococcus pyogenes Serotype M49 Virulence Factor Expression	https://www.webofscience.com/wos/woscc/full-record/WOS:000306099700006
 
-Structural and mechanistic insights into the interaction between Rho and mammalian Dia	https://www.webofscience.com/wos/woscc/full-record/WOS:000229337800058
+Purification, crystallization and preliminary crystallographic analysis of the adhesion domain of Epf from Streptococcus pyogenes	https://www.webofscience.com/wos/woscc/full-record/WOS:000305967100015
 
-The Bacillus megaterium comE locus encodes a functional DNA uptake protein	https://www.webofscience.com/wos/woscc/full-record/WOS:000225663700005
+Streptococcus pyogenes M49 Plasminogen/Plasmin Binding Facilitates Keratinocyte Invasion via Integrin-Integrin-linked Kinase (ILK) Pathways and Protects from Macrophage Killing	https://www.webofscience.com/wos/woscc/full-record/WOS:000291464700058
+
+Characterization of Three Lactic Acid Bacteria and Their Isogenic ldh Deletion Mutants Shows Optimization for YATP (Cell Mass Produced per Mole of ATP) at Their Physiological pHs	https://www.webofscience.com/wos/woscc/full-record/WOS:000286147300028
 

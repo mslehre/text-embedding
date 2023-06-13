@@ -1,102 +1,102 @@
-Thomas Schweder,30245214;
+Uwe Bornscheuer,321742;
+
+Structure- and Data-Driven Protein Engineering of Transaminases for Improving Activity and Stereoselectivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000980652800001
+
+Discovery and Characterization of a Baeyer-Villiger Monooxygenase Using Sequence Similarity Network Analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000975625100001
+
+Synthesis of Modified Poly(vinyl Alcohol)s and Their Degradation Using an Enzymatic Cascade	https://www.webofscience.com/wos/woscc/full-record/WOS:000929373300001
 
 Unique alcohol dehydrogenases involved in algal sugar utilization by marine bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000946036300001
 
-Novel Plant-Associated Brevibacillus and Lysinibacillus Genomospecies Harbor a Rich Biosynthetic Potential of Antimicrobial Compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000918358100001
+AsiteDesign: a Semirational Algorithm for an Automated Enzyme Design	https://www.webofscience.com/wos/woscc/full-record/WOS:000955376400001
 
-Marine bacteroidetes use a conserved enzymatic cascade to digest diatom beta-mannan	https://www.webofscience.com/wos/woscc/full-record/WOS:000886191300001
+Chemoenzymatic Cascade Reaction for the Valorization of the Lignin Depolymerization Product G-C2-Dioxolane Phenol	https://www.webofscience.com/wos/woscc/full-record/WOS:000961614400001
 
-Metabolic engineering enables Bacillus licheniformis to grow on the marine polysaccharide ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000865769500001
+Enlightening the Path to Protein Engineering: Chemoselective Turn-On Probes for High-Throughput Screening of Enzymatic Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000942745100001
 
-A host-vector toolbox for improved secretory protein overproduction in Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000823666800002
+Urethanases for the Enzymatic Hydrolysis of Low Molecular Weight Carbamates and the Recycling of Polyurethanes	https://www.webofscience.com/wos/woscc/full-record/WOS:000917773700001
+
+Comparison of Four Immobilization Methods for Different Transaminases	https://www.webofscience.com/wos/woscc/full-record/WOS:000938430400001
+
+A growth selection system for the directed evolution of amine-forming or converting enzymes	https://www.webofscience.com/wos/woscc/full-record/WOS:000934496000001
+
+Shifting the pH Optima of (R)-Selective Transaminases by Protein Engineering	https://www.webofscience.com/wos/woscc/full-record/WOS:000896420300001
+
+Systemic Bile Acids Affect the Severity of Acute Pancreatitis in Mice Depending on Their Hydrophobicity and the Disease Pathogenesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000884050700001
+
+Structural insight and engineering of a plastic degrading hydrolase Ple629	https://www.webofscience.com/wos/woscc/full-record/WOS:000877162800015
+
+Cascades of Evolved Enzymes for the Synthesis of Complex Molecules	https://www.webofscience.com/wos/woscc/full-record/WOS:000844804300001
+
+Characterization of proteins from the 3N5M family reveals an operationally stable amine transaminase	https://www.webofscience.com/wos/woscc/full-record/WOS:000836755500001
+
+Recombinant l-Amino Acid Oxidase with Broad Substrate Spectrum for Co-substrate Recycling in (S)-Selective Transaminase-Catalyzed Kinetic Resolutions	https://www.webofscience.com/wos/woscc/full-record/WOS:000820804300001
 
 Connecting Algal Polysaccharide Degradation to Formaldehyde Detoxification	https://www.webofscience.com/wos/woscc/full-record/WOS:000814837100001
 
-Methanosaeta and "Candidatus Velamenicoccus archaeovorus"	https://www.webofscience.com/wos/woscc/full-record/WOS:000782461400045
+Recovery of Hydroxytyrosol from Olive Mill Wastewater Using the Promiscuous Hydrolase/Acyltransferase PestE	https://www.webofscience.com/wos/woscc/full-record/WOS:000803658800001
 
-Diverse events have transferred genes for edible seaweed digestion from marine to human gut bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000772209900010
+Enzyme Kits to Facilitate the Integration of Biocatalysis into Organic Chemistry - First Aid for Synthetic Chemists	https://www.webofscience.com/wos/woscc/full-record/WOS:000809645700001
 
-Genome sequence data of Bacillus velezensis BP1.2A and BT2.4	https://www.webofscience.com/wos/woscc/full-record/WOS:000778990600025
+Discovery of Novel Tyrosine Ammonia Lyases for the Enzymatic Synthesis of p-Coumaric Acid	https://www.webofscience.com/wos/woscc/full-record/WOS:000778965400001
 
-A new carbohydrate-active oligosaccharide dehydratase is involved in the degradation of ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000713100100013
+The metabolic potential of plastics as biotechnological carbon sources-Review and targets for the future	https://www.webofscience.com/wos/woscc/full-record/WOS:000793785100004
 
-Biotransformation of bisphenol a analogues by the biphenyl-degrading bacterium Cupriavidus basilensis - a structure-biotransformation relationship (vol 104, pg 3569, 2020)	https://www.webofscience.com/wos/woscc/full-record/WOS:000673871800002
+Engineering and evaluation of thermostable IsPETase variants for PET degradation	https://www.webofscience.com/wos/woscc/full-record/WOS:000723590500001
 
-Reaching out in anticipation: bacterial membrane extensions represent a permanent investment in polysaccharide sensing and utilization	https://www.webofscience.com/wos/woscc/full-record/WOS:000648032100001
+Efficient Site-Selective Immobilization of Aldehyde-Tagged Peptides and Proteins by Knoevenagel Ligation	https://www.webofscience.com/wos/woscc/full-record/WOS:000728720100001
 
-Genomic and proteomic profiles of biofilms on microplastics are decoupled from artificial surface properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000647845600001
+Algorithm-aided engineering of aliphatic halogenase WelO5*for the asymmetric late-stage functionalization of soraphens	https://www.webofscience.com/wos/woscc/full-record/WOS:000744122300006
 
-Changing expression patterns of TonB-dependent transporters suggest shifts in polysaccharide consumption over the course of a spring phytoplankton bloom	https://www.webofscience.com/wos/woscc/full-record/WOS:000623737300004
+Computer Modeling Explains the Structural Reasons for the Difference in Reactivity of Amine Transaminases Regarding Prochiral Methylketones	https://www.webofscience.com/wos/woscc/full-record/WOS:000758817900001
 
-Diatom fucan polysaccharide precipitates carbon during algal blooms	https://www.webofscience.com/wos/woscc/full-record/WOS:000621486400005
+Recent Insights and Future Perspectives on Promiscuous Hydrolases/Acyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000751835200022
 
-Bacterial symbiont subpopulations have different roles in a deep-sea symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000606821500001
+Pinene-Based Oxidative Synthetic Toolbox for Scalable Polyester Synthesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000730355700014
 
-Draft Genome Sequences of 59 Endospore-Forming Gram-Positive Bacteria Associated with Crop Plants Grown in Vietnam	https://www.webofscience.com/wos/woscc/full-record/WOS:000593943400022
+Recent advances in (chemo)enzymatic cascades for upgrading bio-based resources	https://www.webofscience.com/wos/woscc/full-record/WOS:000700918400001
 
-Verrucomicrobia use hundreds of enzymes to digest the algal polysaccharide fucoidan	https://www.webofscience.com/wos/woscc/full-record/WOS:000535444800003
+Biocatalysis in the Recycling Landscape for Synthetic Polymers and Plastics towards Circular Textiles	https://www.webofscience.com/wos/woscc/full-record/WOS:000617214700001
 
-Biotransformation of bisphenol A analogues by the biphenyl-degrading bacterium Cupriavidusbasilensis - a structure-biotransformation relationship	https://www.webofscience.com/wos/woscc/full-record/WOS:000518077800004
+Fatty Acids and their Derivatives as Renewable Platform Molecules for the Chemical Industry	https://www.webofscience.com/wos/woscc/full-record/WOS:000645902400001
 
-Comparative proteomics of related symbiotic mussel species reveals high variability of host-symbiont interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000509197100026
+Rational Design for Enhanced Acyltransferase Activity in Water Catalyzed by the Pyrobaculum calidifontis VA1 Esterase	https://www.webofscience.com/wos/woscc/full-record/WOS:000690967900001
 
-Host-Microbe Interactions in the Chemosynthetic Riftia pachyptila Symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000507988700006
+From Natural Methylation to Versatile Alkylations Using Halide Methyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000648680500001
 
-In marine Bacteroidetes the bulk of glycan degradation during algae blooms is mediated by few clades using a restricted set of genes	https://www.webofscience.com/wos/woscc/full-record/WOS:000490275400015
+LuxAB-Based Microbial Cell Factories for the Sensing, Manufacturing and Transformation of Industrial Aldehydes	https://www.webofscience.com/wos/woscc/full-record/WOS:000688840000001
 
-Biopearling of Interconnected Outer Membrane Vesicle Chains by a Marine Flavobacterium	https://www.webofscience.com/wos/woscc/full-record/WOS:000488849800005
+Directed evolution of an amine transaminase for the synthesis of an Apremilast intermediate via kinetic resolution	https://www.webofscience.com/wos/woscc/full-record/WOS:000678339600007
 
-Individual Physiological Adaptations Enable Selected Bacterial Taxa To Prevail during Long-Term Incubations	https://www.webofscience.com/wos/woscc/full-record/WOS:000478565000021
+Recent trends in biocatalysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000663886900001
 
-A marine bacterial enzymatic cascade degrades the algal polysaccharide ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000476478500010
+Marine Polysaccharides: Occurrence, Enzymatic Degradation and Utilization	https://www.webofscience.com/wos/woscc/full-record/WOS:000650225700001
 
-Characterization of a thaumarchaeal symbiont that drives incomplete nitrification in the tropical sponge Ianthella basta	https://www.webofscience.com/wos/woscc/full-record/WOS:000479705700001
+Promiscuous Dehalogenase Activity of the Epoxide Hydrolase CorEH from Corynebacterium sp. C12	https://www.webofscience.com/wos/woscc/full-record/WOS:000656056200020
 
-Microbial metal-sulfide oxidation in inactive hydrothermal vent chimneys suggested by metagenomic and metaproteomic analyses	https://www.webofscience.com/wos/woscc/full-record/WOS:000459172700013
+An ADH toolbox for raspberry ketone production from natural resources via a biocatalytic cascade	https://www.webofscience.com/wos/woscc/full-record/WOS:000650536300002
 
-An auto-inducible phosphate-controlled expression system of Bacillus licheniformis	https://www.webofscience.com/wos/woscc/full-record/WOS:000455336400002
+Kinetics Modeling of a Convergent Cascade Catalyzed by Monooxygenase-Alcohol Dehydrogenase Coupled Enzymes	https://www.webofscience.com/wos/woscc/full-record/WOS:000631441700008
 
-Transcriptomic and proteomic insight into the mechanism of cyclooctasulfur- versus thiosulfate-oxidation by the chemolithoautotroph Sulfurimonas denitrificans	https://www.webofscience.com/wos/woscc/full-record/WOS:000456278900017
+Efficient Acylation of Sugars and Oligosaccharides in Aqueous Environment Using Engineered Acyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000626844200034
 
-Biphasic cellular adaptations and ecological implications of Alteromonas macleodii degrading a mixture of algal polysaccharides	https://www.webofscience.com/wos/woscc/full-record/WOS:000453576600008
+Discovery and Design of Family VIII Carboxylesterases as Highly Efficient Acyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000591343700001
 
-Polysaccharide utilization loci of North Sea Flavobacteriia as basis for using SusC/D-protein expression for predicting major phytoplankton glycans	https://www.webofscience.com/wos/woscc/full-record/WOS:000453576600007
+Directed Evolution of a Halide Methyltransferase Enables Biocatalytic Synthesis of Diverse SAM Analogs	https://www.webofscience.com/wos/woscc/full-record/WOS:000588400000001
 
-Adaptive mechanisms that provide competitive advantages to marine bacteroidetes during microalgal blooms	https://www.webofscience.com/wos/woscc/full-record/WOS:000450781600007
+Biotechnological Production and Sensory Evaluation of omega 1-Unsaturated Aldehydes	https://www.webofscience.com/wos/woscc/full-record/WOS:000611076800033
 
-Alpha- and beta-mannan utilization by marine Bacteroidetes	https://www.webofscience.com/wos/woscc/full-record/WOS:000450357400017
+Biocatalysis: Enzymatic Synthesis for Industrial Applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000563953900001
 
-Oxidative demethylation of algal carbohydrates by cytochrome P450 monooxygenases (vol 14, pg 342, 2018)	https://www.webofscience.com/wos/woscc/full-record/WOS:000442174500021
+Repositioning microbial biotechnology against COVID-19: the case of microbial production of flavonoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000578714900001
 
-Biochemical characterization of an ulvan lyase from the marine flavobacterium Formosa agariphila KMM 3901(T)	https://www.webofscience.com/wos/woscc/full-record/WOS:000440109200019
+Possibilities and limitations of biotechnological plastic degradation and recycling	https://www.webofscience.com/wos/woscc/full-record/WOS:000577033300002
 
-Metaproteogenomic Profiling of Microbial Communities Colonizing Actively Venting Hydrothermal Chimneys	https://www.webofscience.com/wos/woscc/full-record/WOS:000429347400002
+Folding Assessment of Incorporation of Noncanonical Amino Acids Facilitates Expansion of Functional-Group Diversity for Enzyme Engineering	https://www.webofscience.com/wos/woscc/full-record/WOS:000565695000001
 
-Oxidative demethylation of algal carbohydrates by cytochrome P450 monooxygenases	https://www.webofscience.com/wos/woscc/full-record/WOS:000428522900008
+A Biocatalytic Cascade Reaction to Access a Valuable Long-Chain omega-Hydroxy Fatty Acid	https://www.webofscience.com/wos/woscc/full-record/WOS:000543170900001
 
-Genome sequence of the sulfur-oxidizing Bathymodiolus thermophilus gill endosymbiont	https://www.webofscience.com/wos/woscc/full-record/WOS:000409355500001
+Influence of Substrate Binding Residues on the Substrate Scope and Regioselectivity of a Plant O-Methyltransferase against Flavonoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000535798500001
 
-Exploiting fine-scale genetic and physiological variation of closely related microbes to reveal unknown enzyme functions	https://www.webofscience.com/wos/woscc/full-record/WOS:000407220100032
-
-Aquatic adaptation of a laterally acquired pectin degradation pathway in marine gammaproteobacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000404007700019
-
-Bacillus pumilus KatX2 confers enhanced hydrogen peroxide resistance to a Bacillus subtilis PkatA:: katX2 mutant strain	https://www.webofscience.com/wos/woscc/full-record/WOS:000400326800002
-
-Insight into the evolution of microbial metabolism from the deep-branching bacterium, Thermovibrio ammonificans	https://www.webofscience.com/wos/woscc/full-record/WOS:000401793500001
-
-Staphylococcal serine protease-like proteins are pacemakers of allergic airway reactions to Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000397002400015
-
-Metabolic and physiological interdependencies in the Bathymodiolus azoricus symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000394541500015
-
-Nitrogen fixation in a chemoautotrophic lucinid symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000396366300013
-
-A Phosphate Starvation-Inducible Ribonuclease of Bacillus licheniformis	https://www.webofscience.com/wos/woscc/full-record/WOS:000385018200017
-
-The anaerobic linalool metabolism in Thauera linaloolentis 47 Lol	https://www.webofscience.com/wos/woscc/full-record/WOS:000374838300001
-
-Linalool isomerase, a membrane-anchored enzyme in the anaerobic monoterpene degradation in Thauera linaloolentis 47Lol	https://www.webofscience.com/wos/woscc/full-record/WOS:000371959600001
-
-Production of the polyketide 6-deoxyerythronolide B in the heterologous host Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000369308900013
-
-Effects of Halide Ions on the Carbamidocyclophane Biosynthesis in Nostoc sp CAVN2	https://www.webofscience.com/wos/woscc/full-record/WOS:000374586800020
+Protein Engineering for Enhanced Acyltransferase Activity, Substrate Scope, and Selectivity of the Mycobacterium smegmatis Acyltransferase MsAcT	https://www.webofscience.com/wos/woscc/full-record/WOS:000551549800012
 

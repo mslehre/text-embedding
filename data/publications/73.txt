@@ -1,102 +1,102 @@
-Dörte Becher,1847103;
+Gabriele Uhl,30620207;
 
-Legionella- and host-driven lipid flux at LCV-ER membrane contact sites promotes vacuole remodeling	https://www.webofscience.com/wos/woscc/full-record/WOS:000905941200001
+Evolution of nuptial-gift-related male prosomal structures: taxonomic revision and cladistic analysis of the genus Oedothorax (Araneae: Linyphiidae: Erigoninae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000764786000001
 
-The Cellular Abundance of Chemoreceptors, Chemosensory Signaling Proteins, Sensor Histidine Kinases, and Solute Binding Proteins of Pseudomonas aeruginosa Provides Insight into Sensory Preferences and Signaling Mechanisms	https://www.webofscience.com/wos/woscc/full-record/WOS:000917568600001
+Pheromone communication among sexes of the garden cross spider Araneus diadematus	https://www.webofscience.com/wos/woscc/full-record/WOS:000690941100002
 
-Understanding a high-risk acute myeloid leukemia by analyzing the interactome of its major driver mutation	https://www.webofscience.com/wos/woscc/full-record/WOS:000924683600002
+Diversification through gustatory courtship: an X-ray micro-computed tomography study on dwarf spiders	https://www.webofscience.com/wos/woscc/full-record/WOS:000701484700001
 
-Effect of Iron Limitation, Elevated Temperature, and Florfenicol on the Proteome and Vesiculation of the Fish Pathogen Aeromonas salmonicida	https://www.webofscience.com/wos/woscc/full-record/WOS:000856911200001
+Building behavior does not drive rates of phenotypic evolution in spiders	https://www.webofscience.com/wos/woscc/full-record/WOS:000687404200009
 
-Three Microbial Musketeers of the Seas: Shewanella baltica, Aliivibrio fischeri and Vibrio harveyi, and Their Adaptation to Different Salinity Probed by a Proteomic Approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000747571900001
+Functional morphology of immature mating in a widow spider	https://www.webofscience.com/wos/woscc/full-record/WOS:000644654900001
 
-The Metaproteomics Initiative: a coordinated approach for propelling the functional characterization of microbiomes	https://www.webofscience.com/wos/woscc/full-record/WOS:000732982600002
+Chromosome-level reference genome of the European wasp spider Argiope bruennichi: a resource for studies on range expansion and evolutionary adaptation	https://www.webofscience.com/wos/woscc/full-record/WOS:000609915000002
 
-CdrS Is a Global Transcriptional Regulator Influencing Cell Division in Haloferax volcanii	https://www.webofscience.com/wos/woscc/full-record/WOS:000757946900020
+Chemical Species Recognition in a Tetragnatha Spider (Araneae: Tetragnathidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000604503300001
 
-Genomic and proteomic profiles of biofilms on microplastics are decoupled from artificial surface properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000647845600001
+Dragline silk reveals female developmental stage and mediates male vibratory courtship in the nuptial gift-giving spider Pisaura mirabilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000603343300001
 
-Reaching out in anticipation: bacterial membrane extensions represent a permanent investment in polysaccharide sensing and utilization	https://www.webofscience.com/wos/woscc/full-record/WOS:000648032100001
+Sperm competition when transfer is dangerous	https://www.webofscience.com/wos/woscc/full-record/WOS:000585265500012
 
-Proteomic Charting of Imipenem Adaptive Responses in a Highly Carbapenem Resistant Clinical Enterobacter roggenkampii Isolate	https://www.webofscience.com/wos/woscc/full-record/WOS:000653688900001
+Differential oxidative costs of locomotory and genital damage in an orb-weaving spider	https://www.webofscience.com/wos/woscc/full-record/WOS:000590598700008
 
-Proteomic Analysis of a hom-Disrupted, Cephamycin C Overproducing Streptomyces clavuligerus	https://www.webofscience.com/wos/woscc/full-record/WOS:000637726400009
+Condition-dependent differences in male vibratory pre-copulatory and copulatory courtship in a nuptial gift-giving spider	https://www.webofscience.com/wos/woscc/full-record/WOS:000582916800001
 
-Another layer of complexity in Staphylococcus aureus methionine biosynthesis control: unusual RNase III-driven T-box riboswitch cleavage determines met operon mRNA stability and decay	https://www.webofscience.com/wos/woscc/full-record/WOS:000637321900031
+Ultrastructure of chemosensory tarsal tip-pore sensilla ofArgiopespp. Audouin, 1826 (Chelicerata: Araneae: Araneidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000575617600001
 
-Diatom fucan polysaccharide precipitates carbon during algal blooms	https://www.webofscience.com/wos/woscc/full-record/WOS:000621486400005
+Towards establishment of a centralized spider traits database	https://www.webofscience.com/wos/woscc/full-record/WOS:000576762000001
 
-Proteomic Adaptation of Clostridioides difficile to Treatment with the Antimicrobial Peptide Nisin	https://www.webofscience.com/wos/woscc/full-record/WOS:000622364300001
+Species-specific effects of thermal stress on the expression of genetic variation across a diverse group of plant and animal taxa under experimental conditions	https://www.webofscience.com/wos/woscc/full-record/WOS:000545912500001
 
-Proteomic Adaptation of Streptococcus pneumoniae to the Antimicrobial Peptide Human Beta Defensin 3 (hBD3) in Comparison to Other Cell Surface Stresses	https://www.webofscience.com/wos/woscc/full-record/WOS:000594031300001
+Sex differences in spiders: from phenotype to genomics	https://www.webofscience.com/wos/woscc/full-record/WOS:000513063700001
 
-Optimized Proteomics Workflow for the Detection of Small Proteins	https://www.webofscience.com/wos/woscc/full-record/WOS:000577157000012
+Alternative mating tactics in a cannibalistic widow spider: do males prefer the safer option?	https://www.webofscience.com/wos/woscc/full-record/WOS:000512386000006
 
-Verrucomicrobia use hundreds of enzymes to digest the algal polysaccharide fucoidan	https://www.webofscience.com/wos/woscc/full-record/WOS:000535444800003
+Dispersal and life-history traits in a spider with rapid range expansion	https://www.webofscience.com/wos/woscc/full-record/WOS:000513267100002
 
-A Lactococcal Phage Protein Promotes Viral Propagation and Alters the Host Proteomic Response During Infection	https://www.webofscience.com/wos/woscc/full-record/WOS:000578916900001
+Tissue- and Population-Level Microbiome Analysis of the Wasp Spider Argiope bruennichi Identified a Novel Dominant Bacterial Symbiont	https://www.webofscience.com/wos/woscc/full-record/WOS:000514650700018
 
-Comprehensive Spectral Library from the Pathogenic Bacterium Streptococcus pneumoniae with Focus on Phosphoproteins	https://www.webofscience.com/wos/woscc/full-record/WOS:000526337800008
+Females of a cannibalistic spider control mutilation of their genitalia by males	https://www.webofscience.com/wos/woscc/full-record/WOS:000501728400014
 
-Proteomic Adaptation of Streptococcus pneumoniae to the Human Antimicrobial Peptide LL-37	https://www.webofscience.com/wos/woscc/full-record/WOS:000525952700101
+The innervation of the male copulatory organ of spiders (Araneae) - a comparative analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000492170100001
 
-Bacterioplankton reveal years-long retention of Atlantic deep-ocean water by the Tropic Seamount	https://www.webofscience.com/wos/woscc/full-record/WOS:000563440200009
+Taxonomic revision of the dwarf spider genus Shaanxinus Tanasevitch, 2006 (Araneae, Linyphiidae, Erigoninae), with new species from Taiwan and Vietnam	https://www.webofscience.com/wos/woscc/full-record/WOS:000468875200008
 
-Comparative proteomics of related symbiotic mussel species reveals high variability of host-symbiont interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000509197100026
+Deposition, removal and production site of the amorphous mating plug in the spider Philodromus cespitum	https://www.webofscience.com/wos/woscc/full-record/WOS:000439852800002
 
-The Disulfide Stress Response and Protein S-thioallylation Caused by Allicin and Diallyl Polysulfanes in Bacillus subtilis as Revealed by Transcriptomics and Proteomics	https://www.webofscience.com/wos/woscc/full-record/WOS:000506633000038
+Comparative female genital morphology in Stegodyphus spiders (Araneae: Eresidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000433135300023
 
-In marine Bacteroidetes the bulk of glycan degradation during algae blooms is mediated by few clades using a restricted set of genes	https://www.webofscience.com/wos/woscc/full-record/WOS:000490275400015
+Editorial for the Special Issue in honour of Peter Weygoldt	https://www.webofscience.com/wos/woscc/full-record/WOS:000433135300001
 
-Sample Preservation and Storage Significantly Impact Taxonomic and Functional Profiles in Metaproteomics Studies of the Human Gut Microbiome	https://www.webofscience.com/wos/woscc/full-record/WOS:000489131300094
+The sensory equipment of a spider - A morphological survey of different types of sensillum in both sexes of Argiope bruennichi (Araneae, Araneidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000430027800002
 
-Exoproteome Heterogeneity among Closely Related Staphylococcus aureus t437 Isolates and Possible Implications for Virulence	https://www.webofscience.com/wos/woscc/full-record/WOS:000474795500016
+Evolution of external female genital mutilation: why do males harm their mates?	https://www.webofscience.com/wos/woscc/full-record/WOS:000416787500057
 
-A homopolymeric adenosine tract in the promoter region of nspA influences factor H-mediated serum resistance in Neisseria meningitidis	https://www.webofscience.com/wos/woscc/full-record/WOS:000459571100099
+Extreme allomaternal care and unequal task participation by unmated females in a cooperatively breeding spider	https://www.webofscience.com/wos/woscc/full-record/WOS:000412445700010
 
-Toward the quantitative characterization of arginine phosphorylations in Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000455285900023
+Neurons and a sensory organ in the pedipalps of male spiders reveal that it is not a numb structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000411434900075
 
-Global quantification of phosphoproteins combining metabolic labeling and gel-based proteomics in B. pumilus	https://www.webofscience.com/wos/woscc/full-record/WOS:000422745900004
+Male spiders reduce pre- and postmating sexual investment in response to sperm competition risk	https://www.webofscience.com/wos/woscc/full-record/WOS:000407590000010
 
-Metabolic and physiological interdependencies in the Bathymodiolus azoricus symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000394541500015
+The synganglion of the jumping spider Marpissa muscosa (Arachnida: Salticidae): Insights from histology, immunohistochemistry and microCT analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000398868700002
 
-Nitrogen fixation in a chemoautotrophic lucinid symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000396366300013
+Bipolarity in sea slugs: a new species of Doridunculus (Mollusca: Nudibranchia: Onchidoridoidea) from Antarctica	https://www.webofscience.com/wos/woscc/full-record/WOS:000396042400008
 
-Extracellular Proteome and Citrullinome of the Oral Pathogen Porphyromonas gingivalis	https://www.webofscience.com/wos/woscc/full-record/WOS:000389396500031
+Transition from monogyny to polygyny in Nephila senegalensis (Araneae: Nephilidae) is not accompanied by increased investment in sperm	https://www.webofscience.com/wos/woscc/full-record/WOS:000388505600020
 
-Grad-seq guides the discovery of ProQ as a major small RNA-binding protein	https://www.webofscience.com/wos/woscc/full-record/WOS:000384886900077
+A phylogeographical survey of a highly dispersive spider reveals eastern Asia as a major glacial refugium for Palaearctic fauna	https://www.webofscience.com/wos/woscc/full-record/WOS:000380056900009
 
-Proteomics of septicemic Escherichia coli	https://www.webofscience.com/wos/woscc/full-record/WOS:000385363800014
+The End of the Cold Loneliness: 3D Comparison between Doto antarctica and a New Sympatric Species of Doto (Heterobranchia: Nudibranchia)	https://www.webofscience.com/wos/woscc/full-record/WOS:000379508300014
 
-The protein inventory of Clostridium difficile grown in complex and minimal medium	https://www.webofscience.com/wos/woscc/full-record/WOS:000385363800012
+Taxonomy and nomenclature of some mainland SE-Asian Coeliccia species (Odonata, Platycnemididae) using micro-CT analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000366849200002
 
-Impact of Moderate Temperature Changes on Neisseria meningitidis Adhesion Phenotypes and Proteome	https://www.webofscience.com/wos/woscc/full-record/WOS:000390128700021
+Exploiting a moment of weakness: male spiders escape sexual cannibalism by copulating with moulting females	https://www.webofscience.com/wos/woscc/full-record/WOS:000365388900001
 
-Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000378517600001
+Securing Paternity by Mutilating Female Genitalia in Spiders	https://www.webofscience.com/wos/woscc/full-record/WOS:000365061500027
 
-Evolutionary Events Associated with an Outbreak of Meningococcal Disease in Men Who Have Sex with Men	https://www.webofscience.com/wos/woscc/full-record/WOS:000376587300035
+Short-Term Nutritional Limitation Affects Mating Behaviour and Reproductive Output in Dwarf Spiders	https://www.webofscience.com/wos/woscc/full-record/WOS:000359421700006
 
-Global analysis of the impact of linezolid onto virulence factor production in S. aureus USA300	https://www.webofscience.com/wos/woscc/full-record/WOS:000386991000001
+Female control of mate plugging in a female-cannibalistic spider (Micaria sociabilis)	https://www.webofscience.com/wos/woscc/full-record/WOS:000349341100001
 
-Cellulose and hemicellulose decomposition by forest soil bacteria proceeds by the action of structurally variable enzymatic systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000375184800001
+Functional morphology of the copulatory organs of a reed beetle and a shining leaf beetle (Coleoptera: Chrysomelidae: Donaciinae, Criocerinae) using X-ray micro-computed tomography	https://www.webofscience.com/wos/woscc/full-record/WOS:000367877900010
 
-Methods and applications of absolute protein quantification in microbial systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000372692600022
+A spider mating plug: origin and constraints of production	https://www.webofscience.com/wos/woscc/full-record/WOS:000342613900001
 
-Comparative proteome analysis of Actinoplanes sp SE50/110 grown with maltose or glucose shows Minor differences for acarbose biosynthesis proteins but major differences for saccharide transporters	https://www.webofscience.com/wos/woscc/full-record/WOS:000366540200015
+Do the size and age of mating plugs alter their efficacy in protecting paternity?	https://www.webofscience.com/wos/woscc/full-record/WOS:000339728500010
 
-Molecular mechanisms underlying the close association between soil Burkholderia and fungi	https://www.webofscience.com/wos/woscc/full-record/WOS:000366671300023
+Testing mitochondrial marker efficacy for DNA barcoding in spiders: a test case using the dwarf spider genus Oedothorax (Araneae : Linyphiidae : Erigoninae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000346194000004
 
-Life Stage-specific Proteomes of Legionella pneumophila Reveal a Highly Differential Abundance of Virulence-associated Dot/Icm effectors	https://www.webofscience.com/wos/woscc/full-record/WOS:000367461000013
+Sperm storage mediated by cryptic female choice for nuptial gifts	https://www.webofscience.com/wos/woscc/full-record/WOS:000330325400002
 
-Decoding the complete arsenal for cellulose and hemicellulose deconstruction in the highly efficient cellulose decomposer Paenibacillus O199	https://www.webofscience.com/wos/woscc/full-record/WOS:000375907200001
+Cephalic secretion release in the male dwarf spider Oedothorax retusus (Linyphiidae: Erigoninae): An ultrastructural analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000328872800004
 
-Proteomic analysis of the Simkania- containing vacuole: the central role of retrograde transport	https://www.webofscience.com/wos/woscc/full-record/WOS:000369157900011
+May Salivary Gland Secretory Proteins from Hematophagous Leeches (Hirudo verbana) Reach Pharmacologically Relevant Concentrations in the Vertebrate Host?	https://www.webofscience.com/wos/woscc/full-record/WOS:000324695900022
 
-Updating the proteome of the uncultivable hemotrophic Mycoplasmasuis in experimentally infected pigs	https://www.webofscience.com/wos/woscc/full-record/WOS:000371150900006
+Sperm Dynamics in Spiders (Araneae): Ultrastructural Analysis of the Sperm Activation Process in the Garden Spider Argiope bruennichi (Scopoli, 1772)	https://www.webofscience.com/wos/woscc/full-record/WOS:000324856500025
 
-Characterization of Helicobacter pyloriVacA-containing vacuoles (VCVs), VacA intracellular trafficking and interference with calcium signalling in T lymphocytes	https://www.webofscience.com/wos/woscc/full-record/WOS:000365626700008
+The function of the secretory cephalic hump in males of the dwarf spider Oedothorax retusus (Linyphiidae: Erigoninae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000299539000027
 
-Quantitative prediction of genome-wide resource allocation in bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000365073100023
+Cephalic Modifications in Dimorphic Dwarf Spiders of the Genus Oedothorax (Erigoninae, Linyphiidae, Araneae) and Their Evolutionary Implications	https://www.webofscience.com/wos/woscc/full-record/WOS:000291702200005
 
-Systematic Analysis of Mycobacterial Acylation Reveals First Example of Acylation-mediated Regulation of Enzyme Activity of a Bacterial Phosphatase	https://www.webofscience.com/wos/woscc/full-record/WOS:000363527300039
+Mate choice in males with one-shot genitalia: limited importance of female fecundity	https://www.webofscience.com/wos/woscc/full-record/WOS:000281916300015
 

@@ -1,102 +1,78 @@
-Klaus Weisz,4831300;
+Marc Ebner,1911881;
 
-High-affinity binding at quadruplex-duplex junctions: rather the rule than the exception	https://www.webofscience.com/wos/woscc/full-record/WOS:000891993400001
+Are Image Patches Beneficial for Initializing Convolutional Neural Network Models?	https://www.webofscience.com/wos/woscc/full-record/WOS:000661288200034
 
-Guiding the folding of G-quadruplexes through loop residue interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000816728300001
+Collision Detection for a Mobile Robot using Logistic Regression	https://www.webofscience.com/wos/woscc/full-record/WOS:000571072100016
 
-Indoloquinoline Ligands Favor Intercalation at Quadruplex-Duplex Interfaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000739143300001
+Acceleration based Collision Detection with a Mobile Robot	https://www.webofscience.com/wos/woscc/full-record/WOS:000465234300079
 
-A world beyond double-helical nucleic acids: the structural diversity of tetra-stranded G-quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000688540800001
+Distributed storage and recall of sentences	https://www.webofscience.com/wos/woscc/full-record/WOS:000453253500005
 
-Expanding the Topological Landscape by a G-Column Flip of a Parallel G-Quadruplex	https://www.webofscience.com/wos/woscc/full-record/WOS:000658100000001
+Evolving Game State Features from Raw Pixels	https://www.webofscience.com/wos/woscc/full-record/WOS:000413012200004
 
-Thermodynamic Stability of G-Quadruplexes: Impact of Sequence and Environment	https://www.webofscience.com/wos/woscc/full-record/WOS:000645989500001
+Is depth information and optical flow helpful for visual control?	https://www.webofscience.com/wos/woscc/full-record/WOS:000453250400002
 
-First Tandem Repeat of a Potassium Channel KCNN4 Minisatellite Folds into a V-Loop G-Quadruplex Structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000648509400003
+A GP-based Video Game Player	https://www.webofscience.com/wos/woscc/full-record/WOS:000358795700131
 
-G-Quadruplex Formation in a Putative Coding Region of White Spot Syndrome Virus: Structural and Thermodynamic Aspects	https://www.webofscience.com/wos/woscc/full-record/WOS:000637484000001
+A Strongly Typed GP-based Video Game Player	https://www.webofscience.com/wos/woscc/full-record/WOS:000376490300035
 
-Structural motifs and intramolecular interactions in non-canonical G-quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000641784900004
+Single-image shadow detection and removal using local colour constancy computation	https://www.webofscience.com/wos/woscc/full-record/WOS:000349533500004
 
-A Thermodynamic Perspective on Potential G-Quadruplex Structures as Silencer Elements in the MYC Promoter	https://www.webofscience.com/wos/woscc/full-record/WOS:000590326100001
+Depth map color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000453242900001
 
-Quadruplex-Duplex Junction: A High-Affinity Binding Site for Indoloquinoline Ligands	https://www.webofscience.com/wos/woscc/full-record/WOS:000589522100001
+A COMPUTATIONAL MODEL FOR COLOR PERCEPTION	https://www.webofscience.com/wos/woscc/full-record/WOS:000453240900005
 
-Locked nucleic acid building blocks as versatile tools for advanced G-quadruplex design	https://www.webofscience.com/wos/woscc/full-record/WOS:000593122700042
+Evolving concepts using gene duplication	https://www.webofscience.com/wos/woscc/full-record/WOS:000327984900012
 
-Influence of Substrate Binding Residues on the Substrate Scope and Regioselectivity of a Plant O-Methyltransferase against Flavonoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000535798500001
+Lateral Information Processing by Spiking Neurons: A Theoretical Model of the Neural Correlate of Consciousness	https://www.webofscience.com/wos/woscc/full-record/WOS:000208906100007
 
-Switching the type of V-loop in sugar-modified G-quadruplexes through altered fluorine interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000529513000004
+Computational Modeling of Robust Figure/Ground Separation	https://www.webofscience.com/wos/woscc/full-record/WOS:000394239700012
 
-Impact of a Snap-Back Loop on Stability and Ligand Binding to a Parallel G-Quadruplex	https://www.webofscience.com/wos/woscc/full-record/WOS:000526869700005
+A COMPUTATIONAL MODEL FOR CONSCIOUS VISUAL PERCEPTION AND FIGURE/GROUND SEPARATION	https://www.webofscience.com/wos/woscc/full-record/WOS:000308513700021
 
-NMR studies on oligonucleotide - Methylene blue conjugates targeting double-helical nucleic acids	https://www.webofscience.com/wos/woscc/full-record/WOS:000509630700004
+On the effect of scene motion on color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000300095600004
 
-Sugar Puckering Drives G-Quadruplex Refolding: Implications for V-Shaped Loops	https://www.webofscience.com/wos/woscc/full-record/WOS:000501674600001
+Towards Automated Learning of Object Detectors	https://www.webofscience.com/wos/woscc/full-record/WOS:000279390200024
 
-Duplex-Guided Refolding into Novel G-Quadruplex (3+1) Hybrid Conformations	https://www.webofscience.com/wos/woscc/full-record/WOS:000473628100001
+Coevolutionary Dynamics of Interacting Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000279390200001
 
-Manipulating DNA G-Quadruplex Structures by Using Guanosine Analogues	https://www.webofscience.com/wos/woscc/full-record/WOS:000468026000002
+Evolutionary parameter optimization of a fuzzy controller which is used to control a sewage treatment plant	https://www.webofscience.com/wos/woscc/full-record/WOS:000273806100007
 
-Thermodynamic signature of indoloquinolines interacting with G-quadruplexes: Impact of ligand side chain	https://www.webofscience.com/wos/woscc/full-record/WOS:000456421400016
+Evolving Object Detectors with a GPU Accelerated Vision System	https://www.webofscience.com/wos/woscc/full-record/WOS:000286407000010
 
-Revealing the Energetics of Ligand-Quadruplex Interactions Using Isothermal Titration Calorimetry	https://www.webofscience.com/wos/woscc/full-record/WOS:000520558900004
+Color constancy based on local space average color	https://www.webofscience.com/wos/woscc/full-record/WOS:000266926400002
 
-Preparation and characterization of pyrene modified uridine derivatives as potential electron donors in RNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000448344400017
+Engineering of Computer Vision Algorithms Using Evolutionary Algorithms	https://www.webofscience.com/wos/woscc/full-record/WOS:000279102300034
 
-DNA-RNA Hybrid Quadruplexes Reveal Interactions that Favor RNA Parallel Topologies	https://www.webofscience.com/wos/woscc/full-record/WOS:000447124800031
+A Real-Time Evolutionary Object Recognition System	https://www.webofscience.com/wos/woscc/full-record/WOS:000265597500023
 
-Loop Length Affects Syn-Anti Conformational Rearrangements in Parallel G-Quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000439496600035
+Color constancy from image transformations in JPEG and JPEG2000	https://www.webofscience.com/wos/woscc/full-record/WOS:000255196800099
 
-Fluorine-Mediated Editing of a G-Quadruplex Folding Pathway	https://www.webofscience.com/wos/woscc/full-record/WOS:000431625100007
+An Adaptive On-Line Evolutionary Visual System	https://www.webofscience.com/wos/woscc/full-record/WOS:000273016800015
 
-Ligand-Induced Dimerization of a Truncated Parallel MYC G-Quadruplex	https://www.webofscience.com/wos/woscc/full-record/WOS:000426494600016
+A genetic programming approach to deriving the spectral sensitivity of an optical system	https://www.webofscience.com/wos/woscc/full-record/WOS:000254506700006
 
-Nonconventional C-H center dot center dot center dot F Hydrogen Bonds Support a Tetrad Flip in Modified G-Quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000413798300028
+Estimating the Spectral Sensitivity of a Digital Sensor using Calibration Targets	https://www.webofscience.com/wos/woscc/full-record/WOS:000268226900126
 
-Comprehensive Thermodynamic Profiling for the Binding of a G-Quadruplex Selective Indoloquinoline	https://www.webofscience.com/wos/woscc/full-record/WOS:000403731400007
+Integrating color constancy into JPEG2000	https://www.webofscience.com/wos/woscc/full-record/WOS:000250241500007
 
-Tracing Effects of Fluorine Substitutions on G-Quadruplex Conformational Changes	https://www.webofscience.com/wos/woscc/full-record/WOS:000402023300017
+Estimating the color of the illuminant using anisotropic diffusion	https://www.webofscience.com/wos/woscc/full-record/WOS:000249585600055
 
-Selective Targeting of G-Quadruplex Structures by a Benzothiazole-Based Binding Motif	https://www.webofscience.com/wos/woscc/full-record/WOS:000400044400023
+How does the brain arrive at a color constant descriptor?	https://www.webofscience.com/wos/woscc/full-record/WOS:000250716000009
 
-Observation of a Dynamic G-Tetrad Flip in Intramolecular G-Quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000389866400020
+Evolving color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000238279200008
 
-Sugar-Edge Interactions in a DNA-RNA G-Quadruplex: Evidence of Sequential C-H center dot center dot center dot O Hydrogen Bonds Contributing to RNA Quadruplex Folding	https://www.webofscience.com/wos/woscc/full-record/WOS:000388258000051
+Evolution of vertex and pixel shaders	https://www.webofscience.com/wos/woscc/full-record/WOS:000229209800023
 
-Towards the Development of Structure-Selective G-Quadruplex-Binding Indolo[3,2-b]quinolines	https://www.webofscience.com/wos/woscc/full-record/WOS:000370452300040
+On determining the color of the illuminant using the dichromatic reflection model	https://www.webofscience.com/wos/woscc/full-record/WOS:000232246500001
 
-Selective Capture of Ni2+ Ions by Naphthalene- and Coumarin-Substituted Dithiolenes	https://www.webofscience.com/wos/woscc/full-record/WOS:000367947500002
+A parallel algorithm for color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000188063800007
 
-Molecular Recognition and Visual Detection of G-Quadruplexes by a Dicarbocyanine Dye	https://www.webofscience.com/wos/woscc/full-record/WOS:000361190200041
+Color constancy using local color shifts	https://www.webofscience.com/wos/woscc/full-record/WOS:000221569700022
 
-Selective Access to All Four Diastereomers of a 1,3-Amino Alcohol by Combination of a Keto Reductase- and an Amine Transaminase-Catalysed Reaction	https://www.webofscience.com/wos/woscc/full-record/WOS:000355235700020
+Combining white-patch retinex and the gray world assumption to achieve color constancy for multiple illuminants	https://www.webofscience.com/wos/woscc/full-record/WOS:000187294800009
 
-Flipping a G-Tetrad in a Unimolecular Quadruplex Without Affecting Its Global Fold	https://www.webofscience.com/wos/woscc/full-record/WOS:000354193300009
+Evolution and growth of virtual plants	https://www.webofscience.com/wos/woscc/full-record/WOS:000187009400025
 
-Two Subtle Amino Acid Changes in a Transaminase Substantially Enhance or Invert Enantiopreference in Cascade Syntheses	https://www.webofscience.com/wos/woscc/full-record/WOS:000353502300005
-
-Structure and catalytic mechanism of the evolutionarily unique bacterial chalcone isomerase	https://www.webofscience.com/wos/woscc/full-record/WOS:000352507200017
-
-Exploration of the Substrate Promiscuity of Biosynthetic Tailoring Enzymes as a New Source of Structural Diversity for Polyene Macrolide Antifungals	https://www.webofscience.com/wos/woscc/full-record/WOS:000349147100017
-
-Exploring multiple binding sites of an indoloquinoline in triple-helical DNA: A paradigm for DNA triplex-selective intercalators	https://www.webofscience.com/wos/woscc/full-record/WOS:000347742400019
-
-Conformational Flexibility of Dibenzobarrelene-Based PC(sp(3))P Pincer Iridium Hydride Complexes: The Role of Hemilabile Functional Groups and External Coordinating Solvents	https://www.webofscience.com/wos/woscc/full-record/WOS:000344722000013
-
-Indoloquinolines as DNA binding ligands	https://www.webofscience.com/wos/woscc/full-record/WOS:000319913600001
-
-Low-Temperature NMR Studies on the Geometry of Base Pairs Involving 5-Substituted Uracil Derivatives	https://www.webofscience.com/wos/woscc/full-record/WOS:000318536700014
-
-Hydrogen Bonding and Proton Transfer to Ruthenium Hydride Complex CpRuH(dppe): Metal and Hydride Dichotomy	https://www.webofscience.com/wos/woscc/full-record/WOS:000315255200021
-
-Spectroscopic and Calorimetric Studies on the Binding of an Indoloquinoline Drug to Parallel and Antiparallel DNA Triplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000313303800005
-
-A TT Dinucleotide with a Nonionic Silyl Backbone: Impact on Conformation and H-Bond Mediated Base Pairing as Studied by Low-Temperature NMR	https://www.webofscience.com/wos/woscc/full-record/WOS:000322050200006
-
-Preface	https://www.webofscience.com/wos/woscc/full-record/WOS:000322050200001
-
-Binding and NMR Structural Studies on Indoloquinoline-Oligonucleotide Conjugates Targeting Duplex DNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000305358700005
-
-Inter- and intrastrand DNA crosslinks by 2-fluoro-substituted pyrrolobenzodiazepine dimers: stability, stereochemistry and drug orientation	https://www.webofscience.com/wos/woscc/full-record/WOS:000307306500006
+Evolutionary design of objects using scene graphs	https://www.webofscience.com/wos/woscc/full-record/WOS:000184814100005
 

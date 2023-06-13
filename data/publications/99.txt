@@ -1,74 +1,102 @@
-Nikolai Siemens,16065697;
+Peter Manz,1833895;
 
-Impact of Pneumococcal and Viral Pneumonia on the Respiratory and Intestinal Tract Microbiomes of Mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000960150700001
+Edge transport and fuelling studies via gas puff modulation in ASDEX Upgrade L-mode plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000784124000001
 
-Cytokine Profiling in Influenza A Virus and Staphylococcal (Co-)Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000901813100005
+Progress from ASDEX Upgrade experiments in preparing the physics basis of ITER operation and DEMO scenario development	https://www.webofscience.com/wos/woscc/full-record/WOS:000769721300001
 
-Editorial: Streptococci in infectious diseases - pathogenic mechanisms and host immune responses	https://www.webofscience.com/wos/woscc/full-record/WOS:000860200700001
+High-heat flux ball-pen probe head in ASDEX-Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000760756500001
 
-Procoagulant Activity of Blood and Microvesicles Is Disturbed by Pneumococcal Pneumolysin, Which Interacts with Coagulation Factors	https://www.webofscience.com/wos/woscc/full-record/WOS:000829897700001
+Linearized spectrum correlation analysis for thermal helium beam diagnostics	https://www.webofscience.com/wos/woscc/full-record/WOS:000702519500003
 
-Bioactive lipid screening during respiratory tract infections with bacterial and viral pathogens in mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000809348100001
+Gyrofluid simulation of an I-mode pedestal relaxation event	https://www.webofscience.com/wos/woscc/full-record/WOS:000710772300002
 
-Group B Streptococcal Hemolytic Pigment Impairs Platelet Function in a Two-Step Process	https://www.webofscience.com/wos/woscc/full-record/WOS:000801344800001
+The separatrix operational space of ASDEX Upgrade due to interchange-drift-Alfven turbulence	https://www.webofscience.com/wos/woscc/full-record/WOS:000674463700001
 
-Streptococcus pneumoniae Impairs Maturation of Human Dendritic Cells and Consequent Activation of CD4(+) T Cells via Pneumolysin	https://www.webofscience.com/wos/woscc/full-record/WOS:000783920100001
+Numerical modelling of an enhanced perpendicular transport regime in the scrape-off layer of ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000655320200001
 
-Innate immune responses at the asymptomatic stage of influenza A viral infections of Streptococcus pneumoniae colonized and non-colonized mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000741362900006
+Quiescent regions below the X-point in ASDEX upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000642199300001
 
-Bronchial Epithelial Cells Accumulate Citrate Intracellularly in Response to Pneumococcal Hydrogen Peroxide	https://www.webofscience.com/wos/woscc/full-record/WOS:000719871200005
+Outwards transport of angular momentum in a shallow water accretion disk experiment	https://www.webofscience.com/wos/woscc/full-record/WOS:000652862200003
 
-The global proteome and ubiquitinome of bacterial and viral co-infected bronchial epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000710228300006
+Turbulent energy transfer into zonal flows from the weak to the strong flow shear regime in the stellarator TJ-K	https://www.webofscience.com/wos/woscc/full-record/WOS:000646351900004
 
-Hydrogen Peroxide Is Crucial for NLRP3 Inflammasome-Mediated IL-1 beta Production and Cell Death in Pneumococcal Infections of Bronchial Epithelial Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000684286700001
+Electric field and turbulence in global Braginskii simulations across the ASDEX Upgrade edge and scrape-off layer	https://www.webofscience.com/wos/woscc/full-record/WOS:000618336200001
 
-Streptococcus pyogenes ("Group A Streptococcus"), a Highly Adapted Human Pathogen-Potential Implications of Its Virulence Regulation for Epidemiology and Disease Management	https://www.webofscience.com/wos/woscc/full-record/WOS:000666442400001
+Approaching detachment in I-mode-response of core confinement and the edge pedestal in the ASDEX Upgrade tokamak	https://www.webofscience.com/wos/woscc/full-record/WOS:000619561900001
 
-The Role of NLRP3 Inflammasome in Pneumococcal Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000602633500001
+Advective-acoustic cycle in a shallow water standing accretion shock experiment	https://www.webofscience.com/wos/woscc/full-record/WOS:000600286100011
 
-Adenosine Triphosphate Neutralizes Pneumolysin-Induced Neutrophil Activation	https://www.webofscience.com/wos/woscc/full-record/WOS:000605980300020
+Experimental observation of resonance manifold shrinking under zonal flow shear	https://www.webofscience.com/wos/woscc/full-record/WOS:000595699900008
 
-Prothrombotic and Proinflammatory Activities of the beta-Hemolytic Group B Streptococcal Pigment	https://www.webofscience.com/wos/woscc/full-record/WOS:000546426200003
+I-mode pedestal relaxation events at ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000578452700001
 
-Is It Time to Reconsider the Group A Streptococcal Rheumatogenic Concept?	https://www.webofscience.com/wos/woscc/full-record/WOS:000532686300031
+Continuous observation of filaments from the confined region to the far scrape-off layer	https://www.webofscience.com/wos/woscc/full-record/WOS:000600734700057
 
-16HBE Cell Lipid Mediator Responses to Mono and Co-Infections with Respiratory Pathogens	https://www.webofscience.com/wos/woscc/full-record/WOS:000523660800002
+Physical mechanism behind and access to the I-mode confinement regime in tokamaks	https://www.webofscience.com/wos/woscc/full-record/WOS:000560073400001
 
-Pathogenic Mechanisms of Streptococcal Necrotizing Soft Tissue Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000588074800010
+Self-sustained divertor oscillations in ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000548344900001
 
-Glycoconjugated Phthalocyanines as Photosensitizers for PDT - Overcoming Aggregation in Solution	https://www.webofscience.com/wos/woscc/full-record/WOS:000494504400001
+Thermal dynamics in the flux-coordinate independent turbulence code GRILLIX	https://www.webofscience.com/wos/woscc/full-record/WOS:000504228800001
 
-The Role of Streptococcal and Staphylococcal Exotoxins and Proteases in Human Necrotizing Soft Tissue Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000475328000029
+The influence of magnetic field curvature on intermittency in drift-wave turbulence in the stellarator TJ-K	https://www.webofscience.com/wos/woscc/full-record/WOS:000536602800001
 
-Port d'Entree for Respiratory Infections - Does the Influenza A Virus Pave the Way for Bacteria?	https://www.webofscience.com/wos/woscc/full-record/WOS:000418401600001
+Turbulence driven widening of the near-SOL power width in ASDEX Upgrade H-Mode discharges	https://www.webofscience.com/wos/woscc/full-record/WOS:000528529200001
 
-Shocking superantigens promote establishment of bacterial infection	https://www.webofscience.com/wos/woscc/full-record/WOS:000411157100038
+The importance of realistic plasma filament waveforms for the study of resonant wave-filament interactions in tokamak edge plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000533907500001
 
-Phosphoglycerate Kinase-A Novel Streptococcal Factor Involved in Neutrophil Activation and Degranulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000393130000015
+Nonlinear dynamics of energetic-particle driven geodesic acoustic modes in ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000528529400001
 
-A point mutation in AgrC determines cytotoxic or colonizing properties associated with phenotypic variants of ST22 MRSA strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000381185000001
+The diffusion limit of ballistic transport in the scrape-off layer	https://www.webofscience.com/wos/woscc/full-record/WOS:000518030000002
 
-Biofilm in group A streptococcal necrotizing soft tissue infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000387113300016
+Overview of physics studies on ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000490603100002
 
-Genetic Architecture of Group A Streptococcal Necrotizing Soft Tissue Infections in the Mouse	https://www.webofscience.com/wos/woscc/full-record/WOS:000383366400020
+Synthetic conventional reflectometry probing of edge and scrape-off layer plasma turbulence	https://www.webofscience.com/wos/woscc/full-record/WOS:000501797800043
 
-Differential neutrophil responses to bacterial stimuli: Streptococcal strains are potent inducers of heparin-binding protein and resistin-release	https://www.webofscience.com/wos/woscc/full-record/WOS:000370370000001
+Validation of the edge density profiles from the ICRF antenna reflectometer on ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000501797800014
 
-LL-37 Triggers Formation of Streptococcus pyogenes Extracellular Vesicle-Like Structures with Immune Stimulatory Properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000375803900004
+On the nature of blob propagation and generation in the large plasma device: Global GRILLIX studies	https://www.webofscience.com/wos/woscc/full-record/WOS:000505980600026
 
-Increased cytotoxicity and streptolysin O activity in group G streptococcal strains causing invasive tissue infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000365276500001
+High frequency edge coherent modes studied with the ultra-fast swept reflectometer on ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000507472300001
 
-Modelling staphylococcal pneumonia in a human 3D lung tissue model system delineates toxin-mediated pathology	https://www.webofscience.com/wos/woscc/full-record/WOS:000363970300008
+Dependence on plasma shape and plasma fueling for small edge-localized mode regimes in TCV and ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000473079500003
 
-Heterologous Expression of Ralp3 in Streptococcus pyogenes M2 and M6 Strains Affects the Virulence Characteristics	https://www.webofscience.com/wos/woscc/full-record/WOS:000315965100010
+Blob distortion by radio-frequency induced sheared flow	https://www.webofscience.com/wos/woscc/full-record/WOS:000470808000001
 
-The Extracellular Protein Factor Epf from Streptococcus pyogenes Is a Cell Surface Adhesin That Binds to Cells through an N-terminal Domain Containing a Carbohydrate-binding Module	https://www.webofscience.com/wos/woscc/full-record/WOS:000310642200051
+Global turbulence simulations of the tokamak edge region with GRILLIX	https://www.webofscience.com/wos/woscc/full-record/WOS:000470877600037
 
-Effects of the ERES Pathogenicity Region Regulator Ralp3 on Streptococcus pyogenes Serotype M49 Virulence Factor Expression	https://www.webofscience.com/wos/woscc/full-record/WOS:000306099700006
+Stationarity of I-mode operation and I-mode divertor heat fluxes on the ASDEX Upgrade tokamak	https://www.webofscience.com/wos/woscc/full-record/WOS:000460107500028
 
-Purification, crystallization and preliminary crystallographic analysis of the adhesion domain of Epf from Streptococcus pyogenes	https://www.webofscience.com/wos/woscc/full-record/WOS:000305967100015
+A locked mode indicator for disruption prediction on JET and ASDEX upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000457663100032
 
-Streptococcus pyogenes M49 Plasminogen/Plasmin Binding Facilitates Keratinocyte Invasion via Integrin-Integrin-linked Kinase (ILK) Pathways and Protects from Macrophage Killing	https://www.webofscience.com/wos/woscc/full-record/WOS:000291464700058
+Characterization of low-frequency inter-ELM modes of H-mode discharges at ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000446354600007
 
-Characterization of Three Lactic Acid Bacteria and Their Isogenic ldh Deletion Mutants Shows Optimization for YATP (Cell Mass Produced per Mole of ATP) at Their Physiological pHs	https://www.webofscience.com/wos/woscc/full-record/WOS:000286147300028
+Parameter dependences of small edge localized modes (ELMs)	https://www.webofscience.com/wos/woscc/full-record/WOS:000445960100001
+
+On the role of filaments in perpendicular heat transport at the scrape-off layer	https://www.webofscience.com/wos/woscc/full-record/WOS:000438371700001
+
+On the phase velocity in between weak and strong plasma edge turbulence	https://www.webofscience.com/wos/woscc/full-record/WOS:000434973700002
+
+Magnetic configuration effects on the Reynolds stress in the plasma edge	https://www.webofscience.com/wos/woscc/full-record/WOS:000440589100043
+
+Characterization of edge turbulence in different states of divertor detachment using reflectometry in the ASDEX Upgrade tokamak	https://www.webofscience.com/wos/woscc/full-record/WOS:000428859900002
+
+Small amplitude oscillations before the L-H transition in EAST	https://www.webofscience.com/wos/woscc/full-record/WOS:000424261800001
+
+Nonlinear coupling induced toroidal structure of edge localized modes	https://www.webofscience.com/wos/woscc/full-record/WOS:000418664300002
+
+Estimation of the plasma blob occurrence rate	https://www.webofscience.com/wos/woscc/full-record/WOS:000424021700058
+
+Linear gyrokinetic investigation of the geodesic acoustic modes in realistic tokamak configurations	https://www.webofscience.com/wos/woscc/full-record/WOS:000418957200019
+
+The collisionality dependence of intermittency level in drift-wave turbulence in the stellarator TJ-K	https://www.webofscience.com/wos/woscc/full-record/WOS:000416643500031
+
+Overview of ASDEX Upgrade results	https://www.webofscience.com/wos/woscc/full-record/WOS:000404620600004
+
+Stability and propagation of the high field side high density front in the fluctuating state of detachment in ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000417293300190
+
+A study on the density shoulder formation in the SOL of H-mode plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000417293300196
+
+Turbulence characteristics of the I-mode confinement regime in ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000405555600002
+
+Spatio-temporal structure of turbulent Reynolds stress zonal flow drive in 3D magnetic configuration	https://www.webofscience.com/wos/woscc/full-record/WOS:000401608000003
 

@@ -1,0 +1,96 @@
+Sabine Müller,653208;
+
+Boronic Acid Assisted Self-Assembly of Functional RNAs	https://www.webofscience.com/wos/woscc/full-record/WOS:000981439400001
+
+Azide-modified Nucleosides as Versatile Tools for Bioorthogonal Labeling and Functionalization	https://www.webofscience.com/wos/woscc/full-record/WOS:000758363300001
+
+RNA self-splicing by engineered hairpin ribozyme variants	https://www.webofscience.com/wos/woscc/full-record/WOS:000749588900030
+
+Azido Functionalized Nucleosides Linked to Controlled Pore Glass as Suitable Starting Materials for Oligonucleotide Synthesis by the Phosphoramidite Approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000722452900001
+
+Towards Higher Complexity in the RNA World: Hairpin Ribozyme Supported RNA Recombination	https://www.webofscience.com/wos/woscc/full-record/WOS:000672627600002
+
+Synthesis of fully protected trinucleotide building blocks on a disulphide-linked soluble support	https://www.webofscience.com/wos/woscc/full-record/WOS:000615282100014
+
+Boronic Acid-Mediated Activity Control of Split 10-23 DNAzymes	https://www.webofscience.com/wos/woscc/full-record/WOS:000598647100001
+
+Self-cleaving ribozymes: substrate specificity and synthetic biology applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000670010800001
+
+Reductive Charge Transfer through an RNA Aptamer	https://www.webofscience.com/wos/woscc/full-record/WOS:000578726500001
+
+Changed reactivity of secondary hydroxy groups in C8-modified adenosine - lessons learned from silylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000593054800001
+
+Recent advances in understanding circular RNAs	https://www.webofscience.com/wos/medline/full-record/MEDLINE:32612809
+
+Splitting aptamers and nucleic acid enzymes for the development of advanced biosensors	https://www.webofscience.com/wos/woscc/full-record/WOS:000525957700008
+
+Challenges and Perspectives in Nucleic Acid Enzyme Engineering	https://www.webofscience.com/wos/woscc/full-record/WOS:000501158800003
+
+Engineering of hairpin ribozyme variants for RNA recombination and splicing	https://www.webofscience.com/wos/woscc/full-record/WOS:000475632800010
+
+Solid Phase Assembly of Fully Protected Trinucleotide Building Blocks for Codon-Based Gene Synthesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000472641200027
+
+High-Precision FRET Reveals Sequence Dependent Structures of RNA Three-Way Junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000460779800690
+
+RNA- based boronate internucleosidic linkages: an entry into reversible templated ligation and loop formation	https://www.webofscience.com/wos/woscc/full-record/WOS:000451074500022
+
+Preparation and characterization of pyrene modified uridine derivatives as potential electron donors in RNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000448344400017
+
+Ligand-Induced Dimerization of a Truncated Parallel MYC G-Quadruplex	https://www.webofscience.com/wos/woscc/full-record/WOS:000426494600016
+
+Preparation of trinucleotide phosphoramidites as synthons for the synthesis of gene libraries	https://www.webofscience.com/wos/woscc/full-record/WOS:000425799800001
+
+Synthesis and Engineering of Circular RNAs	https://www.webofscience.com/wos/woscc/full-record/WOS:000431336900015
+
+In vitro circularization of RNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000415997500008
+
+Special Issue: Ribozymes and RNA Catalysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000404522900111
+
+Accurate Determination of the RNA Three-Way Junctions Via Single-Molecule High-Precision Fret Measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000402375600817
+
+Phosphorous chemistry in vivo: what makes the phosphoesters in DNA and RNA so diverse?	https://www.webofscience.com/wos/woscc/full-record/WOS:000404430400008
+
+Welcome to a SUPA issue	https://www.webofscience.com/wos/woscc/full-record/WOS:000388841600001
+
+Sugar-Edge Interactions in a DNA-RNA G-Quadruplex: Evidence of Sequential C-H center dot center dot center dot O Hydrogen Bonds Contributing to RNA Quadruplex Folding	https://www.webofscience.com/wos/woscc/full-record/WOS:000388258000051
+
+EGFR1 Targeted Delivery of 5-Fluorouracil Using Tumor Specific Theranostic Aptamers in Pancreatic Ductal Adenocarcinoma	https://www.webofscience.com/wos/woscc/full-record/WOS:000386978400145
+
+Challenges and Opportunities in the Development of Aptamers for TNFα	https://www.webofscience.com/wos/woscc/full-record/WOS:000378697800004
+
+RNA Hairpin Folding in the Crowded Cell	https://www.webofscience.com/wos/woscc/full-record/WOS:000370656200049
+
+Accurate Determination of the RNA Junctions via Single-Molecule High-Precision FRET Measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000375142200492
+
+In vitro repair of a defective EGFP transcript and translation into a functional protein	https://www.webofscience.com/wos/woscc/full-record/WOS:000379432600013
+
+Preparation of trinucleotide synthons for the synthesis of gene libraries	https://www.webofscience.com/wos/woscc/full-record/WOS:000375960700004
+
+Thirty-five years of research into ribozymes and nucleic acid catalysis: where do we stand today?	https://www.webofscience.com/wos/medline/full-record/MEDLINE:27408700
+
+Hairpin ribozyme mediated RNA recombination	https://www.webofscience.com/wos/woscc/full-record/WOS:000372176500025
+
+Landmarks in the Evolution of (t)-RNAs from the Origin of Life up to Their Present Role in Human Cognition	https://www.webofscience.com/wos/medline/full-record/MEDLINE:26703740
+
+Sequence-controlled RNA self-processing: computational design, biochemical analysis, and visualization by AFM	https://www.webofscience.com/wos/woscc/full-record/WOS:000357354000004
+
+Engineering of ribozymes with useful activities in the ancient RNA world	https://www.webofscience.com/wos/woscc/full-record/WOS:000353112000007
+
+RNA circularization strategies in vivo and in vitro	https://www.webofscience.com/wos/woscc/full-record/WOS:000351876500045
+
+Ribozymes that can be regulated by external stimuli	https://www.webofscience.com/wos/woscc/full-record/WOS:000348960200006
+
+Synthesis of a bifunctional cytidine derivative and its conjugation to RNA for in vitro selection of a cytidine deaminase ribozyme	https://www.webofscience.com/wos/woscc/full-record/WOS:000340629700001
+
+Design and Characterization of a Twin Ribozyme for Potential Repair of a Deletion Mutation within the Oncogenic CTNNB1 -ΔS45 mRNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000341623300023
+
+Preparation of modified long-mer RNAs and analysis of FMN binding to the ypaA aptamer from B. subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000341517200018
+
+RNA Aminoacylation Mediated by Sequential Action of Two Ribozymes and a Nonactivated Amino Acid	https://www.webofscience.com/wos/woscc/full-record/WOS:000337582200019
+
+Generation and selection of ribozyme variants with potential application in protein engineering and synthetic biology	https://www.webofscience.com/wos/woscc/full-record/WOS:000334171100002
+
+RNA Ligation	https://www.webofscience.com/wos/woscc/full-record/WOS:000357533800004
+
+Synthesis of Site-Specifically Modified Long-mer RNAs	https://www.webofscience.com/wos/woscc/full-record/WOS:000340097800027
+

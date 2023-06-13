@@ -1,102 +1,102 @@
-Andre Melzer,528741;
+Björn Philipp Lehmann,620344;
 
-Analyzing phase separation processes in binary dusty plasmas using a polarization-sensitive camera	https://www.webofscience.com/wos/woscc/full-record/WOS:000843551100005
+Scientists' warning on climate change and insects	https://www.webofscience.com/wos/woscc/full-record/WOS:000879374800001
 
-Fast 3D particle reconstruction using a convolutional neural network: application to dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000692769000001
+Microclimatic variation affects developmental phenology, synchrony and voltinism in an insect population	https://www.webofscience.com/wos/woscc/full-record/WOS:000866263800001
 
-Nonlinear Wave Synchronization in a Dusty Plasma Under Microgravity on the International Space Station (ISS)	https://www.webofscience.com/wos/woscc/full-record/WOS:000731147400032
+Intrapopulation variance in ecophysiological responses to water limitation in a butterfly metapopulation suggests adaptive resilience to environmental variability	https://www.webofscience.com/wos/woscc/full-record/WOS:000871359400001
 
-Charge measurement of SiO2 nanoparticles in an rf plasma by ir absorption	https://www.webofscience.com/wos/woscc/full-record/WOS:000710272900008
+Time- and temperature-dependent dynamics of prothoracicotropic hormone and ecdysone sensitivity co-regulate pupal diapause in the green-veined white butterfly Pieris napi	https://www.webofscience.com/wos/woscc/full-record/WOS:000862895300002
 
-Configurational temperature of multispecies dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000708112300006
+The evolution of predator avoidance in cephalopods: A case of brain over brawn?	https://www.webofscience.com/wos/woscc/full-record/WOS:000874010900001
 
-Investigation of the IR absorption of trapped MF particles in a dusty plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000704916200001
+Longer and warmer prewinter periods reduce post-winter fitness in a diapausing insect	https://www.webofscience.com/wos/woscc/full-record/WOS:000776484500001
 
-Simulations and experiments of phase separation in binary dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000650951500008
+Extensive transcriptomic profiling of pupal diapause in a butterfly reveals a dynamic phenotype	https://www.webofscience.com/wos/woscc/full-record/WOS:000729417400001
 
-Experimental investigation of phase separation in binary dusty plasmas under microgravity	https://www.webofscience.com/wos/woscc/full-record/WOS:000529311300015
+Chronic Background Radiation Correlates With Sperm Swimming Endurance in Bank Voles From Chernobyl	https://www.webofscience.com/wos/woscc/full-record/WOS:000745183500001
 
-Dust-density Waves in Radio-frequency Discharges Under Magnetic Fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000519062000001
+Sequence variation and regulatory variation in acetylcholinesterase genes contribute to insecticide resistance in different populations of Leptinotarsa decemlineata	https://www.webofscience.com/wos/woscc/full-record/WOS:000713514000001
 
-Dusty (complex) plasmas-routes towards magnetized and polydisperse systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000459244800001
+Unraveling the World's Longest Non-stop Migration: The Indian Ocean Crossing of the Globe Skimmer Dragonfly	https://www.webofscience.com/wos/woscc/full-record/WOS:000692780000001
 
-Three-Dimensional Reconstruction of Individual Particles in Dense Dust Clouds: Benchmarking Camera Orientations and Reconstruction Algorithms	https://www.webofscience.com/wos/woscc/full-record/WOS:000460175100010
+Thermal performance under constant temperatures can accurately predict insect development times across naturally variable microclimates	https://www.webofscience.com/wos/woscc/full-record/WOS:000654115300001
 
-Optical diagnostics of dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000451055300001
+Using mu CT in live larvae of a large wood-boring beetle to study tracheal oxygen supply during development	https://www.webofscience.com/wos/woscc/full-record/WOS:000641044400005
 
-Finite dust clusters under strong magnetic fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000489060300055
+Metabolic responses to starvation and feeding contribute to the invasiveness of an emerging pest insect	https://www.webofscience.com/wos/woscc/full-record/WOS:000605762300002
 
-Configurational temperature in dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000471986300005
+The effect of chronic low-dose environmental radiation on organ mass of bank voles in the Chernobyl exclusion zone	https://www.webofscience.com/wos/woscc/full-record/WOS:000552577000001
 
-Layered structures in extended dust clouds under microgravity	https://www.webofscience.com/wos/woscc/full-record/WOS:000443730900126
+New records of the Paleotropical migrant Hemianax ephippiger in the Caribbean and a review of its status in the Neotropics	https://www.webofscience.com/wos/woscc/full-record/WOS:000552538200001
 
-Diagnostics and characterization of nanodust and nanodusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000431920300002
+The Diapause Lipidomes of Three Closely Related Beetle Species Reveal Mechanisms for Tolerating Energetic and Cold Stress in High-Latitude Seasonal Environments	https://www.webofscience.com/wos/woscc/full-record/WOS:000576704800001
 
-Microphysics of liquid complex plasmas in equilibrium and non-equilibrium systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000431920300001
+Variation in butterfly diapause duration in relation to voltinism suggests adaptation to autumn warmth, not winter cold	https://www.webofscience.com/wos/woscc/full-record/WOS:000512443900001
 
-Characterization of injected aluminum oxide nanoparticle clouds in an rf discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000424021500001
+Regulatory Roles of Drosophila Insulin-Like Peptide 1 (DILP1) in Metabolism Differ in Pupal and Adult Stages	https://www.webofscience.com/wos/woscc/full-record/WOS:000531641700001
 
-Magnetic field effects and waves in complex plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000434039500001
+Complex responses of global insect pests to climate warming	https://www.webofscience.com/wos/woscc/full-record/WOS:000510585900001
 
-Analysis of 3D vortex motion in a dusty plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000418957200095
+A transposable element insertion is associated with an alternative life history strategy	https://www.webofscience.com/wos/woscc/full-record/WOS:000503009700005
 
-Experimental determination of phase transitions by means of configurational entropies in finite Yukawa balls	https://www.webofscience.com/wos/woscc/full-record/WOS:000414741300009
+The Effect of Oxygen Limitation on a Xylophagous Insect's Heat Tolerance Is Influenced by Life-Stage Through Variation in Aerobic Scope and Respiratory Anatomy	https://www.webofscience.com/wos/woscc/full-record/WOS:000501237200001
 
-Transverse forces on dust particles in a magnetized sheath with crossed electric and magnetic fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000400817900087
+Sublethal Pyrethroid Insecticide Exposure Carries Positive Fitness Effects Over Generations in a Pest Insect	https://www.webofscience.com/wos/woscc/full-record/WOS:000478743700032
 
-Vertical oscillations of dust particles in a strongly magnetized plasma sheath induced by horizontal laser manipulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000395395100091
+Factors affecting the degree of vertical stratification of fatty acids in grey seal blubber	https://www.webofscience.com/wos/woscc/full-record/WOS:000475657500009
 
-Long-term spatio-temporal evolution of the dust distribution in dusty argon rf plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000403945500004
+Developmental plasticity in metabolism but not in energy reserve accumulation in a seasonally polyphenic butterfly	https://www.webofscience.com/wos/woscc/full-record/WOS:000475480100018
 
-Phase Separation of Binary Charged Particle Systems with Small Size Disparities using a Dusty Plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000372431400005
+Diapause decision in the small tortoiseshell butterfly, Aglais urticae	https://www.webofscience.com/wos/woscc/full-record/WOS:000474290300006
 
-Stereoscopic imaging of dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000376014600006
+Termination of pupal diapause in the pine processionary moth Thaumetopoea pityocampa	https://www.webofscience.com/wos/woscc/full-record/WOS:000457737500006
 
-Influence of dust particles on the bulk electron density in radio frequency plasmas measured by microwave interferometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000367460400098
+Oxygen limitation is not the cause of death during lethal heat exposure in an insect	https://www.webofscience.com/wos/woscc/full-record/WOS:000456789800011
 
-Vertically aligned dust particles under the influence of crossed electric and magnetic fields in the sheath of a radio frequency discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000358933600074
+Effects of a glyphosate-based herbicide on survival and oxidative status of a non-target herbivore, the Colorado potato beetle (Leptinotarsa decenilineata)	https://www.webofscience.com/wos/woscc/full-record/WOS:000452584300007
 
-Spatio-temporal evolution of the dust particle size distribution in dusty argon rf plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000356816200033
+Prepupal diapause synchronizes adult emergence in the pine processionary moth Thaumetopoea pityocampa (Lepidoptera: Notodontidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000446159200013
 
-Effect of confinement on the mode dynamics of dipole clusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000349146400018
+The scales of experience: Introduction to the special issue Experiencing the global environment Introduction	https://www.webofscience.com/wos/woscc/full-record/WOS:000443662100001
 
-Dust particles under the influence of crossed electric and magnetic fields in the sheath of an rf discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000347162700110
+Average rainfall and the play of colors:Colonial experience and global climate data	https://www.webofscience.com/wos/woscc/full-record/WOS:000443662100005
 
-Connecting the wakefield instabilities in dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000345691700025
+Physiological differences between female limited, alternative life history strategies: The Alba phenotype in the butterfly Colias croceus	https://www.webofscience.com/wos/woscc/full-record/WOS:000434751100031
 
-Computer tomography of large dust clouds in complex plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000344594200042
+Metabolome dynamics of diapause in the butterfly Pieris napi: distinguishing maintenance, termination and post-diapause phases	https://www.webofscience.com/wos/woscc/full-record/WOS:000424076300016
 
-Wave Crest Reconstruction of a Dust Density Wave Using Single Particle Trajectories	https://www.webofscience.com/wos/woscc/full-record/WOS:000344548300176
+Timing of diapause termination in relation to variation in winter climate	https://www.webofscience.com/wos/woscc/full-record/WOS:000409281600005
 
-Recrystallization in Finite 3-D Dust Clouds	https://www.webofscience.com/wos/woscc/full-record/WOS:000344548300179
+Idiosyncratic development of sensory structures in brains of diapausing butterfly pupae: implications for information processing	https://www.webofscience.com/wos/woscc/full-record/WOS:000405958600021
 
-Oscillation Amplitudes in 3-D Dust Density Waves in Dusty Plasmas Under Microgravity Conditions	https://www.webofscience.com/wos/woscc/full-record/WOS:000344548300178
+A key malaria metabolite modulates vector blood seeking, feeding, and susceptibility to infection	https://www.webofscience.com/wos/woscc/full-record/WOS:000396348900045
 
-Controlling strongly correlated dust clusters with lasers	https://www.webofscience.com/wos/woscc/full-record/WOS:000341771100001
+Germany in Green: An ambivalent Success Story	https://www.webofscience.com/wos/woscc/full-record/WOS:000399811500020
 
-Global coherence of dust density waves	https://www.webofscience.com/wos/woscc/full-record/WOS:000338995300116
+Utopia	https://www.webofscience.com/wos/woscc/full-record/WOS:000543941200097
 
-Correlation buildup during recrystallization in three-dimensional dusty plasma clusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000337107200001
+Do respiratory limitations affect metabolism of insect larvae before moulting? An empirical test at the individual level	https://www.webofscience.com/wos/woscc/full-record/WOS:000385956100018
 
-Paramagnetic dust particles in rf-plasmas with weak external magnetic fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000335383100002
+Energy and lipid metabolism during direct and diapause development in a pierid butterfly	https://www.webofscience.com/wos/woscc/full-record/WOS:000385956100017
 
-Symbolic transfer entropy analysis of the dust interaction in the presence of wakefields in dusty plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000335501600003
+Inheritance patterns of photoperiodic diapause induction in Leptinotarsa decemlineata	https://www.webofscience.com/wos/woscc/full-record/WOS:000386940600005
 
-Stereoscopy of dust density waves under microgravity: Velocity distributions and phase-resolved single-particle analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000334180200111
+Is a legally distinct subsidiary an "establishment" under Article 97(1) of the Community Trade Mark Regulation?	https://www.webofscience.com/wos/woscc/full-record/WOS:000403091600008
 
-Nonequilibrium finite dust clusters: Connecting normal modes and wakefields	https://www.webofscience.com/wos/woscc/full-record/WOS:000332169100008
+Fitness costs of increased cataract frequency and cumulative radiation dose in natural mammalian populations from Chernobyl	https://www.webofscience.com/wos/woscc/full-record/WOS:000368670800001
 
-Crystal and fluid modes in three-dimensional finite dust clouds	https://www.webofscience.com/wos/woscc/full-record/WOS:000326728600005
+Fail-safe Power Supply for x-by-wire Systems in ag and Construction Machines	https://www.webofscience.com/wos/woscc/full-record/WOS:000391769400016
 
-Observation of Omega mode electron heating in dusty argon radio frequency discharges	https://www.webofscience.com/wos/woscc/full-record/WOS:000323946800121
+Effect of winter cold duration on spring phenology of the orange tip butterfly, Anthocharis cardamines	https://www.webofscience.com/wos/woscc/full-record/WOS:000367433000007
 
-From transport to disorder: Thermodynamic properties of finite dust clouds	https://www.webofscience.com/wos/woscc/full-record/WOS:000320109300006
+Is a change in juvenile hormone sensitivity involved in range expansion in an invasive beetle?	https://www.webofscience.com/wos/woscc/full-record/WOS:000361097600001
 
-Stereoscopic Observations of Dust Clouds in Front of a Pixel Electrode in a Radio Frequency Discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000317922000009
+Heading which way? Y-maze chemical assays: not all crustaceans are alike	https://www.webofscience.com/wos/woscc/full-record/WOS:000360082300006
 
-Analyzing the liquid state of two-dimensional dust clusters: The instantaneous normal mode approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000316680000021
+Responses in metabolic rate to changes in temperature in diapausing Colorado potato beetle Leptinotarsa decemlineata from three European populations	https://www.webofscience.com/wos/woscc/full-record/WOS:000354131800003
 
-Three-dimensional single particle tracking in dense dust clouds by stereoscopy of fluorescent particles	https://www.webofscience.com/wos/woscc/full-record/WOS:000312834000083
+Comparative Ecophysiology of Cold-Tolerance-Related Traits: Assessing Range Expansion Potential for an Invasive Insect at High Latitude	https://www.webofscience.com/wos/woscc/full-record/WOS:000352794300003
 
-Experiments and Simulations of Particle Flows in a Magnetized Dust Torus	https://www.webofscience.com/wos/woscc/full-record/WOS:000310986500007
+Latitudinal differences in diapause related photoperiodic responses of European Colorado potato beetles (Leptinotarsa decemlineata)	https://www.webofscience.com/wos/woscc/full-record/WOS:000349964700005
 

@@ -1,90 +1,102 @@
-Andreas Link ,1152429;
+Alexander Wacker,1070397;
 
-A graphite furnace-atomic absorption spectrometry-based rubidium efflux assay for screening activators of the K(v)7.2/3 channel	https://www.webofscience.com/wos/woscc/full-record/WOS:000932451000001
+Dietary sterol availability modulates heat tolerance of Daphnia	https://www.webofscience.com/wos/woscc/full-record/WOS:000901903900001
 
-Advances in the discovery of new chemotypes through ultra-large library docking	https://www.webofscience.com/wos/woscc/full-record/WOS:000922467700001
+Interactive effects of nitrogen and phosphorus on growth and stoichiometry of lake phytoplankton	https://www.webofscience.com/wos/woscc/full-record/WOS:000949313600001
 
-Replacing the oxidation-sensitive triaminoaryl chemotype of problematic K(V)7 channel openers: Exploration of a nicotinamide scaffold	https://www.webofscience.com/wos/woscc/full-record/WOS:000888857900001
+Photoperiodic adaptation of aanat and clock gene expression in seasonal populations of Daphnia pulex	https://www.webofscience.com/wos/woscc/full-record/WOS:000961250000001
 
-Fundamental Redesign of the TIGER2hs Kernel to Address Severe Parameter Sensitivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000848668500001
+Photosynthetic activity in both algae and cyanobacteria changes in response to cues of predation	https://www.webofscience.com/wos/woscc/full-record/WOS:000891355200001
 
-Flucytosine-based prodrug activation by cold physical plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000800612500001
+A sterol-mediated gleaner-opportunist trade-off underlies the evolution of grazer resistance to cyanobacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000892130000001
 
-Carba Analogues of Flupirtine and Retigabine with Improved Oxidation Resistance and Reduced Risk of Quinoid Metabolite Formation	https://www.webofscience.com/wos/woscc/full-record/WOS:000821529800001
+Ecological impacts of photosynthetic light harvesting in changing aquatic environments: A systematic literature map	https://www.webofscience.com/wos/woscc/full-record/WOS:000774698800001
 
-Modifications of the Triaminoaryl Metabophore of Flupirtine and Retigabine Aimed at Avoiding Quinone Diimine Formation	https://www.webofscience.com/wos/woscc/full-record/WOS:000783599200054
+More Light Please: Daphnia Benefit From Light Pollution by Increased Tolerance Toward Cyanobacterial Chymotrypsin Inhibitors	https://www.webofscience.com/wos/woscc/full-record/WOS:000761979700001
 
-Correlation Analysis of Protein Expression of 10 HDAC/Sirtuin Isoenzymes with Sensitivities of 23 Anticancer Drugs in 17 Cancer Cell Lines and Potentiation of Drug Activity by Co-Treatment with HDAC Inhibitors	https://www.webofscience.com/wos/woscc/full-record/WOS:000751114500001
+Evaluating the relevance of species sorting and physiological plasticity of phytoplankton communities grown in a multifactor environment	https://www.webofscience.com/wos/woscc/full-record/WOS:000683412700001
 
-Nuclear import of BCL11B is mediated by a classical nuclear localization signal and not the Kruppel-like zinc fingers	https://www.webofscience.com/wos/woscc/full-record/WOS:000754504800013
+Phenotypic Diversity and Plasticity of Photoresponse Across an Environmentally Contrasting Family of Phytoflagellates	https://www.webofscience.com/wos/woscc/full-record/WOS:000698018800001
 
-Supercritical fluid extraction-supercritical fluid chromatography of saliva: Single-quadrupole mass spectrometry monitoring of caffeine for gastric emptying studies(dagger)	https://www.webofscience.com/wos/woscc/full-record/WOS:000685440600001
+Crustaceans in a changing world	https://www.webofscience.com/wos/woscc/full-record/WOS:000658669800004
 
-Chiral Pharmacokinetics and Metabolite Profile of Prolonged-release Ketamine Tablets in Healthy Human Subjects	https://www.webofscience.com/wos/woscc/full-record/WOS:000672099700020
+Field studies on breeding sites of CulicoidesLatreille (Diptera: Ceratopogonidae) in agriculturally used and natural habitats	https://www.webofscience.com/wos/woscc/full-record/WOS:000658810900016
 
-A Hypothesized Mechanism for Chronic Pancreatitis Caused by the N34S Mutation of Serine Protease Inhibitor Kazal-Type 1 Based on Conformational Studies	https://www.webofscience.com/wos/woscc/full-record/WOS:000653393900001
+Phytoplankton Community Responses to Interactions Between Light Intensity, Light Variations, and Phosphorus Supply	https://www.webofscience.com/wos/woscc/full-record/WOS:000603379900001
 
-Unveiling the N-Terminal Homodimerization of BCL11B by Hybrid Solvent Replica-Exchange Simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000638672900001
+Inter- and intraspecific differences in rotifer fatty acid composition during acclimation to low-quality food	https://www.webofscience.com/wos/woscc/full-record/WOS:000542596300004
 
-Directed Evolution of a Halide Methyltransferase Enables Biocatalytic Synthesis of Diverse SAM Analogs	https://www.webofscience.com/wos/woscc/full-record/WOS:000588400000001
+Plant-soil feedback effects altered by aboveground herbivory explain plant species abundance in the landscape	https://www.webofscience.com/wos/woscc/full-record/WOS:000538100800001
 
-Engineering Regioselectivity of a P450 Monooxygenase Enables the Synthesis of Ursodeoxycholic Acid via 7 beta-Hydroxylation of Lithocholic Acid	https://www.webofscience.com/wos/woscc/full-record/WOS:000588422100001
+The relative importance of plant-soil feedbacks for plant-species performance increases with decreasing intensity of herbivory	https://www.webofscience.com/wos/woscc/full-record/WOS:000476826200013
 
-Activation of Sirtuin 2 Inhibitors Employing Photoswitchable Geometry and Aqueous Solubility	https://www.webofscience.com/wos/woscc/full-record/WOS:000530663600001
+Feeding in the frequency domain: coarser-grained environments increase consumer sensitivity to resource variability, covariance and phase	https://www.webofscience.com/wos/woscc/full-record/WOS:000472684000006
 
-Influence of Substrate Binding Residues on the Substrate Scope and Regioselectivity of a Plant O-Methyltransferase against Flavonoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000535798500001
+Nitrate or ammonium: Influences of nitrogen source on the physiology of a green alga	https://www.webofscience.com/wos/woscc/full-record/WOS:000461112700001
 
-Crystal structure of benzo[h]quinoline-3-carboxamide	https://www.webofscience.com/wos/woscc/full-record/WOS:000501540200004
+Fitness response variation within and among consumer species can be co-mediated by food quantity and biochemical quality	https://www.webofscience.com/wos/woscc/full-record/WOS:000494636500015
 
-Structure-Based Screening of Tetrazolylhydrazide Inhibitors versus KDM4 Histone Demethylases	https://www.webofscience.com/wos/woscc/full-record/WOS:000489321000001
+Food quantity-quality co-limitation: Interactive effects of dietary carbon and essential lipid supply on population growth of a freshwater rotifer	https://www.webofscience.com/wos/woscc/full-record/WOS:000466805700007
 
-Simultaneous quantification of acidic and basic flupirtine metabolites by supercritical fluid chromatography according to European Medicines Agency validation	https://www.webofscience.com/wos/woscc/full-record/WOS:000484871200034
+Temperature-induced changes in body lipid composition affect vulnerability to oxidative stress in Daphnia magna	https://www.webofscience.com/wos/woscc/full-record/WOS:000466822400012
 
-Azologization and repurposing of a hetero-stilbene-based kinase inhibitor: towards the design of photoswitchable sirtuin inhibitors	https://www.webofscience.com/wos/woscc/full-record/WOS:000487507400001
+One man's trash is another man's treasure-the effect of bacteria on phytoplankton-zooplankton interactions in chemostat systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000447207700002
 
-Supercritical fluid chromatography: From science fiction to scientific fact	https://www.webofscience.com/wos/woscc/full-record/WOS:000472146800001
+Environmental concentrations of pharmaceuticals directly affect phytoplankton and effects propagate through trophic interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000430519100031
 
-Replica-Based Protein Structure Sampling Methods II: Advanced Hybrid Solvent TIGER2hs	https://www.webofscience.com/wos/woscc/full-record/WOS:000476693700003
+Sex-Specific Differences in Essential Lipid Requirements of Daphnia magna	https://www.webofscience.com/wos/woscc/full-record/WOS:000451661300001
 
-Crystal structure of 7,8,15,16,17-pentathiadi-spiro[5.2.5(9).3(6)]heptadecane	https://www.webofscience.com/wos/woscc/full-record/WOS:000477632400039
+Linking primary producer diversity and food quality effects on herbivores: A biochemical perspective	https://www.webofscience.com/wos/woscc/full-record/WOS:000409841100097
 
-Sulfide Analogues of Flupirtine and Retigabine with Nanomolar K(V)7.2/K(V)7.3 Channel Opening Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000471300900007
+Planktotrons: A novel indoor mesocosm facility for aquatic biodiversity and food web research	https://www.webofscience.com/wos/woscc/full-record/WOS:000406310000006
 
-Subcritical Fluid Chromatography at Sub-Ambient Temperatures for the Chiral Resolution of Ketamine Metabolites with Rapid-Onset Antidepressant Effects	https://www.webofscience.com/wos/woscc/full-record/WOS:000470996600085
+Understanding and predicting physiological performance of organisms in fluctuating and multifactorial environments	https://www.webofscience.com/wos/woscc/full-record/WOS:000400406300002
 
-How to replace the lost keys? Strategies toward safer K(V)7 channel openers	https://www.webofscience.com/wos/woscc/full-record/WOS:000465358000007
+Diet quality determines lipase gene expression and lipase/esterase activity in Daphnia pulex	https://www.webofscience.com/wos/woscc/full-record/WOS:000394429000009
 
-Interconnection of sulfides and sulfoxides in medicinal chemistry	https://www.webofscience.com/wos/woscc/full-record/WOS:000454680000005
+A fundamental dichotomy in long-chain polyunsaturated fatty acid abundance between and within marine and terrestrial ecosystems	https://www.webofscience.com/wos/woscc/full-record/WOS:000402318000002
 
-Tetrahydroindoles as Multipurpose Screening Compounds and Novel Sirtuin Inhibitors	https://www.webofscience.com/wos/woscc/full-record/WOS:000465110100006
+High food quality of prey lowers its risk of extinction	https://www.webofscience.com/wos/woscc/full-record/WOS:000412070800014
 
-Flupirtine Analogues: Explorative Synthesis and Influence of Chemical Structure on K(V)7.2/K(V)7.3 Channel Opening Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000457433000007
+Ecophysiological strategies for growth under varying light and organic carbon supply in two species of green microalgae differing in their motility	https://www.webofscience.com/wos/woscc/full-record/WOS:000418628100005
 
-Flupirtine and retigabine as templates for ligand-based drug design of K(V)7.2/3 activators	https://www.webofscience.com/wos/woscc/full-record/WOS:000468955900014
+Light-Induced Changes in Fatty Acid Profiles of Specific Lipid Classes in Several Freshwater Phytoplankton Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000372077200001
 
-Near-infrared spectroscopic identification and quantification of active pharmaceutical ingredients in closed capsules: a feasibility study for pediatric doses	https://www.webofscience.com/wos/woscc/full-record/WOS:000490746700012
+Covariance modulates the effect of joint temperature and food variance on ectotherm life-history traits	https://www.webofscience.com/wos/woscc/full-record/WOS:000368072200004
 
-Supercritical fluid extraction (SFE) of ketamine metabolites from dried urine and on-line quantification by supercritical fluid chromatography and single mass detection (on-line-SFE-SFC-MS)	https://www.webofscience.com/wos/woscc/full-record/WOS:000425555300011
+Photosynthetic sensitivity of phytoplankton to commonly used pharmaceuticals and its dependence on cellular phosphorus status	https://www.webofscience.com/wos/woscc/full-record/WOS:000373743800008
 
-Synthesis and potassium KV7 channel opening activity of thioether analogues of the analgesic flupirtine	https://www.webofscience.com/wos/woscc/full-record/WOS:000451074500005
+Bridging factorial and gradient concepts of resource co-limitation: towards a general framework applied to consumers	https://www.webofscience.com/wos/woscc/full-record/WOS:000368072200010
 
-The many (inter-) faces of supercritical fluid chromatography: the present and future prospects of online supercritical fluid extraction-supercritical fluid chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000442734200002
+Maternal diet of Daphnia magna affects offspring growth responses to supplementation with particular polyunsaturated fatty acids	https://www.webofscience.com/wos/woscc/full-record/WOS:000356039300019
 
-Ketamine metabolites with antidepressant effects: Fast, economical, and eco-friendly enantioselective separation based on supercritical-fluid chromatography (SFC) and single quadrupole MS detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000413283400053
+Photosynthetic and fatty acid acclimation of four phytoplankton species in response to light intensity and phosphorus availability	https://www.webofscience.com/wos/woscc/full-record/WOS:000358665200005
 
-Three-Component Aminoalkylations Yielding Dihydronaphthoxazine-Based Sirtuin Inhibitors: Scaffold Modification and Exploration of Space for Polar Side-Chains	https://www.webofscience.com/wos/woscc/full-record/WOS:000405999000007
+Interspecific competition in phytoplankton drives the availability of essential mineral and biochemical nutrients	https://www.webofscience.com/wos/woscc/full-record/WOS:000361152100014
 
-Quantitative chiral and achiral determination of ketamine and its metabolites by LC-MS/MS in human serum, urine and fecal samples	https://www.webofscience.com/wos/woscc/full-record/WOS:000399865900010
+Production, distribution, and abundance of long-chain omega-3 polyunsaturated fatty acids: a fundamental dichotomy between freshwater and terrestrial ecosystems	https://www.webofscience.com/wos/woscc/full-record/WOS:000365340300004
 
-Centennial Anniversary of Mannich's Report on the Formation of beta-Amino-Ketones in the Archiv der Pharmazie	https://www.webofscience.com/wos/woscc/full-record/WOS:000405999000005
+Measuring bacterial activity and community composition at high hydrostatic pressure using a novel experimental approach: a pilot study	https://www.webofscience.com/wos/woscc/full-record/WOS:000355328100011
 
-Substituted tetrazoles as multipurpose screening compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000394440900002
+Melatonin synthesis follows a daily cycle in Daphnia	https://www.webofscience.com/wos/woscc/full-record/WOS:000356039200013
 
-Synthesis, chemical behavior, structure elucidation and iNOS inhibitory activity of 1-substituted3-methylsulfany1-5,6,7,8-tetrahydro-1H-[1,2,4]-triazolo[1,2-a]pyridazines	https://www.webofscience.com/wos/woscc/full-record/WOS:000408295400001
+Constraints by oxygen and food quality on carbon pathway regulation: a co-limitation study with an aquatic key herbivore	https://www.webofscience.com/wos/woscc/full-record/WOS:000345326000008
 
-G-Protein-Coupled Receptors: Sustained Signaling via Intracellular Megaplexes and Pathway-Specific Drugs	https://www.webofscience.com/wos/woscc/full-record/WOS:000392875700001
+Daphnia's dilemma: adjustment of carbon budgets in the face of food and cholesterol limitation	https://www.webofscience.com/wos/woscc/full-record/WOS:000333908500016
 
-Oxidation Potentials of N-Modified Derivatives of the Analgesic Flupirtine Linked to Potassium K(V)7 Channel Opening Activity But Not Hepatocyte Toxicity	https://www.webofscience.com/wos/woscc/full-record/WOS:000348710100015
+Acclimation to dietary shifts impacts the carbon budgets of Daphnia magna	https://www.webofscience.com/wos/woscc/full-record/WOS:000336490000021
 
-Tetrazolylhydrazides as Selective Fragment-Like Inhibitors of the JumonjiC-Domain-Containing Histone Demethylase KDM4A	https://www.webofscience.com/wos/woscc/full-record/WOS:000363777500010
+Thresholds for Sterol-Limited Growth of Daphnia magna: A Comparative Approach Using 10 Different Sterols	https://www.webofscience.com/wos/woscc/full-record/WOS:000345391400009
+
+The neonate nutrition hypothesis: early feeding affects the body stoichiometry of Daphnia offspring	https://www.webofscience.com/wos/woscc/full-record/WOS:000325156400011
+
+Nutritional indicators and their uses in ecology	https://www.webofscience.com/wos/woscc/full-record/WOS:000316630200014
+
+Seasonal changes in the accumulation of polyunsaturated fatty acids in zooplankton	https://www.webofscience.com/wos/woscc/full-record/WOS:000312883300011
+
+Biochemical nutrient requirements of the rotifer Brachionus calyciflorus : co-limitation by sterols and amino acids	https://www.webofscience.com/wos/woscc/full-record/WOS:000309391500016
+
+Use of ciliate and phytoplankton taxonomic composition for the estimation of eicosapentaenoic acid concentration in lakes	https://www.webofscience.com/wos/woscc/full-record/WOS:000305000700005
+
+Phytoplankton sterol contents vary with temperature, phosphorus and silicate supply: a study on three freshwater species	https://www.webofscience.com/wos/woscc/full-record/WOS:000310900100001
 

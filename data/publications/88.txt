@@ -1,68 +1,102 @@
-Mareike Fischer,15236651;
+Mario Stanke,1177820;
 
-Computer Vision for Detection of Body Posture and Behavior of Red Foxes	https://www.webofscience.com/wos/woscc/full-record/WOS:000755614900001
+Global, highly specific and fast filtering of alignment seeds	https://www.webofscience.com/wos/woscc/full-record/WOS:000809346000003
 
-Measuring tree balance using symmetry nodes - A new balance index and its extremal properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000710581500006
+End-to-end learning of evolutionary models to find coding regions in genome alignments	https://www.webofscience.com/wos/woscc/full-record/WOS:000756788300001
+
+Co-evolution of Spies and Resistance Fighters	https://www.webofscience.com/wos/woscc/full-record/WOS:000873604200031
+
+TSEBRA: transcript selector for BRAKER	https://www.webofscience.com/wos/woscc/full-record/WOS:000722613300003
+
+A 20-kb lineage-specific genomic region tames virulence in pathogenic amphidiploid Verticillium longisporum	https://www.webofscience.com/wos/woscc/full-record/WOS:000647319700001
+
+The genomic basis of evolutionary differentiation among honey bees	https://www.webofscience.com/wos/woscc/full-record/WOS:000680055300007
 
 Application of YOLOv4 for Detection and Motion Monitoring of Red Foxes	https://www.webofscience.com/wos/woscc/full-record/WOS:000665400000001
 
-Extremal Values of the Sackin Tree Balance Index	https://www.webofscience.com/wos/woscc/full-record/WOS:000655800900001
+Pseudomonas Strains Induce Transcriptional and Morphological Changes and Reduce Root Colonization of Verticillium spp	https://www.webofscience.com/wos/woscc/full-record/WOS:000658317500001
 
-Unrooted non-binary tree-based phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000674744600002
+BRAKER2: automatic eukaryotic genome annotation with GeneMark-EP plus and AUGUSTUS supported by a protein database	https://www.webofscience.com/wos/woscc/full-record/WOS:000698594000004
 
-How tree-based is my network? Proximity measures for unrooted phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000543301700008
+Enhanced genome assembly and a new official gene set for Tribolium castaneum	https://www.webofscience.com/wos/woscc/full-record/WOS:000521340000005
 
-Classes of tree-based networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000705833000001
+VARUS: sampling complementary RNA reads from the sequence read archive	https://www.webofscience.com/wos/woscc/full-record/WOS:000496277900001
 
-On the uniqueness of the maximum parsimony tree for data with up to two substitutions: An extension of the classic Buneman theorem in phylogenetics	https://www.webofscience.com/wos/woscc/full-record/WOS:000472499000011
+Whole-Genome Annotation with BRAKER	https://www.webofscience.com/wos/woscc/full-record/WOS:000486995300006
 
-Statistical Inconsistency of Maximum Parsimony for k-Tuple-Site Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000460046900009
+Multi-Genome Annotation with AUGUSTUS	https://www.webofscience.com/wos/woscc/full-record/WOS:000486995300009
 
-On the Shapley Value of Unrooted Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000456407300013
+Effects of adult temperature on gene expression in a butterfly: identifying pathways associated with thermal acclimation	https://www.webofscience.com/wos/woscc/full-record/WOS:000456525800001
 
-LVQ-KNN: Composition-based DNA/RNA binning of short nucleotide sequences utilizing a prototype-based k-nearest neighbor approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000450382600007
+Sixteen diverse laboratory mouse reference genomes define strain-specific haplotypes and novel functional loci	https://www.webofscience.com/wos/woscc/full-record/WOS:000448398000013
 
-On the information content of discrete phylogenetic characters	https://www.webofscience.com/wos/woscc/full-record/WOS:000443369200001
+Exome Sequencing Discloses Ionizing-radiation-induced DNA Variants in the Genome of Human Gingiva Fibroblasts	https://www.webofscience.com/wos/woscc/full-record/WOS:000434256100018
 
-Phylogenetic diversity and biodiversity indices on phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000430034700007
+Repeat associated mechanisms of genome evolution and function revealed by the &ITMus caroli&IT and &ITMus pahari&IT genomes	https://www.webofscience.com/wos/woscc/full-record/WOS:000428993500003
 
-On the Accuracy of Ancestral Sequence Reconstruction for Ultrametric Trees with Parsimony	https://www.webofscience.com/wos/woscc/full-record/WOS:000428067300007
+Comparative Genome Annotation	https://www.webofscience.com/wos/woscc/full-record/WOS:000432825900007
 
-Automatic classification of farms and traders in the pig production chain	https://www.webofscience.com/wos/woscc/full-record/WOS:000426027300011
+Comparative Annotation Toolkit (CAT)-simultaneous clade and personal genome annotation	https://www.webofscience.com/wos/woscc/full-record/WOS:000437225800010
 
-Defining objective clusters for rabies virus sequences using affinity propagation clustering	https://www.webofscience.com/wos/woscc/full-record/WOS:000424022700044
+Matching phenotypes to whole genomes: Lessons learned from four iterations of the personal genome project community challenges	https://www.webofscience.com/wos/woscc/full-record/WOS:000407861100023
 
-Ancestral Sequence Reconstruction with Maximum Parsimony	https://www.webofscience.com/wos/woscc/full-record/WOS:000416819300005
+The house spider genome reveals an ancient whole-genome duplication during arachnid evolution	https://www.webofscience.com/wos/woscc/full-record/WOS:000406537400001
 
-On the Complexity of Computing MP Distance Between Binary Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000414908200007
+House spider genome uncovers evolutionary shifts in the diversity and expression of black widow venom proteins associated with extreme toxicity	https://www.webofscience.com/wos/woscc/full-record/WOS:000394418200005
 
-Comparing the rankings obtained from two biodiversity indices: the Fair Proportion Index and the Shapley Value	https://www.webofscience.com/wos/woscc/full-record/WOS:000408401800021
+Wild tobacco genomes reveal the evolution of nicotine biosynthesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000402703800084
 
-On the quirks of maximum parsimony and likelihood on phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000396640900010
+Simultaneous gene finding in multiple genomes	https://www.webofscience.com/wos/woscc/full-record/WOS:000392748700003
 
-A Linear Bound on the Number of States in Optimal Convex Characters for Maximum Parsimony Distance	https://www.webofscience.com/wos/woscc/full-record/WOS:000399013500025
+BRAKER1: Unsupervised RNA-Seq-Based Genome Annotation with GeneMark-ET and AUGUSTUS	https://www.webofscience.com/wos/woscc/full-record/WOS:000371693900017
 
-Reduction rules for the maximum parsimony distance on phylogenetic trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000383822900001
+Large scale RNAi screen in Tribolium reveals novel target genes for pest control and the proteasome as prime target	https://www.webofscience.com/wos/woscc/full-record/WOS:000360607100014
 
-On the Maximum Parsimony Distance Between Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000370802900006
+The iBeetle large-scale RNAi screen reveals gene functions for insect development and physiology	https://www.webofscience.com/wos/woscc/full-record/WOS:000358860900002
 
-ON COMPUTING THE MAXIMUM PARSIMONY SCORE OF A PHYLOGENETIC NETWORK	https://www.webofscience.com/wos/woscc/full-record/WOS:000352224600035
+Current methods for automated annotation of protein-coding genes	https://www.webofscience.com/wos/woscc/full-record/WOS:000369016700004
 
-The most parsimonious tree for random data	https://www.webofscience.com/wos/woscc/full-record/WOS:000343742200017
+Combining features in a graphical model to predict protein binding sites	https://www.webofscience.com/wos/woscc/full-record/WOS:000353060900007
 
-Mathematical Aspects of Phylogenetic Groves	https://www.webofscience.com/wos/woscc/full-record/WOS:000319359000003
+The Chlamydomonas genome project: a decade on	https://www.webofscience.com/wos/woscc/full-record/WOS:000343359900011
 
-On the group theoretical background of assigning stepwise mutations onto phylogenies	https://www.webofscience.com/wos/woscc/full-record/WOS:000314209900001
+CRF-based models of protein surfaces improve protein-protein interaction site predictions	https://www.webofscience.com/wos/woscc/full-record/WOS:000341198600001
 
-Non-hereditary Maximum Parsimony trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000306067000004
+Verticillium transcription activator of adhesion Vta2 suppresses microsclerotia formation and is required for systemic infection of plant roots	https://www.webofscience.com/wos/woscc/full-record/WOS:000333060500027
 
-Revisiting an Equivalence Between Maximum Parsimony and Maximum Likelihood Methods in Phylogenetics	https://www.webofscience.com/wos/woscc/full-record/WOS:000273481000009
+Finding the missing honey bee genes: lessons learned from a genome upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000331116900002
 
-Maximum parsimony on subsets of taxa	https://www.webofscience.com/wos/woscc/full-record/WOS:000274798300012
+Tissue-specific transcriptomics, chromosomal localization, and phylogeny of chemosensory and odorant binding proteins from the red flour beetle Tribolium castaneum reveal subgroup specificities for olfaction or more general functions	https://www.webofscience.com/wos/woscc/full-record/WOS:000347728600001
 
-Sequence length bounds for resolving a deep phylogenetic divergence	https://www.webofscience.com/wos/woscc/full-record/WOS:000262842700010
+ClassyFlu: Classification of Influenza A Viruses with Discriminatively Trained Profile-HMMs	https://www.webofscience.com/wos/woscc/full-record/WOS:000329460800052
 
-Expected Anomalies in the Fossil Record	https://www.webofscience.com/wos/woscc/full-record/WOS:000264677700007
+WebAUGUSTUS-a web service for training AUGUSTUS and predicting genes in eukaryotes	https://www.webofscience.com/wos/woscc/full-record/WOS:000323603200020
 
-Perfectly Misleading Distances from Ternary Characters	https://www.webofscience.com/wos/woscc/full-record/WOS:000263702800001
+Gene Transfer from Bacteria and Archaea Facilitated Evolution of an Extremophilic Eukaryote	https://www.webofscience.com/wos/woscc/full-record/WOS:000315709900048
+
+jpHMM: recombination analysis in viruses with circular genomes such as the hepatitis B virus	https://www.webofscience.com/wos/woscc/full-record/WOS:000306670900031
+
+Genome sequencing of the lizard parasite Leishmania tarentolae reveals loss of genes associated to the intracellular stage of human pathogenic species	https://www.webofscience.com/wos/woscc/full-record/WOS:000300422400025
+
+Design of a tobacco exon array with application to investigate the differential cadmium accumulation property in two tobacco varieties	https://www.webofscience.com/wos/woscc/full-record/WOS:000316400200001
+
+Concerted action of the new Genomic Peptide Finder and AUGUSTUS allows for automated proteogenomic annotation of the Chlamydomonas reinhardtii genome	https://www.webofscience.com/wos/woscc/full-record/WOS:000290051000021
+
+A novel hybrid gene prediction method employing protein multiple sequence alignments	https://www.webofscience.com/wos/woscc/full-record/WOS:000288277300003
+
+Detection of viral sequence fragments of HIV-1 subfamilies yet unknown	https://www.webofscience.com/wos/woscc/full-record/WOS:000290144300001
+
+Sequencing of Culex quinquefasciatus Establishes a Platform for Mosquito Comparative Genomics	https://www.webofscience.com/wos/woscc/full-record/WOS:000282334500040
+
+Draft genome sequence of the oilseed species Ricinus communis	https://www.webofscience.com/wos/woscc/full-record/WOS:000281719100021
+
+The Amphimedon queenslandica genome and the evolution of animal complexity	https://www.webofscience.com/wos/woscc/full-record/WOS:000280562500031
+
+Insights into evolution of multicellular fungi from the assembled chromosomes of the mushroom Coprinopsis cinerea (Coprinus cinereus)	https://www.webofscience.com/wos/woscc/full-record/WOS:000279332300043
+
+HIV classification using the coalescent theory	https://www.webofscience.com/wos/woscc/full-record/WOS:000277985500004
+
+Genome Sequence of the Pea Aphid Acyrthosiphon pisum	https://www.webofscience.com/wos/woscc/full-record/WOS:000275257300009
+
+Functional and Evolutionary Insights from the Genomes of Three Parasitoid Nasonia Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000273629700047
 

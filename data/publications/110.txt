@@ -1,86 +1,102 @@
-Thomas Jira,16021920;
+Torsten Haberzettl,2349887;
 
-Development and validation of a rapid stability indicating HPLC-method using monolithic stationary phase and two spectrophotometric methods for determination of antihistaminic acrivastine in capsules	https://www.webofscience.com/wos/woscc/full-record/WOS:000338806800062
+Eutrophication and contamination dynamics of Schweriner See, NE- Germany, during the past 670 years-A multi-proxy approach on lacustrine surface sediments and sediment cores	https://www.webofscience.com/wos/woscc/full-record/WOS:000964459500001
 
-Multifactorial design principles applied for the simultaneous separation of local anesthetics using chromatography modeling software	https://www.webofscience.com/wos/woscc/full-record/WOS:000340981600012
+Organochlorine pesticide contamination in sediments from Richards Bay, South Africa: spatial trends and ecotoxicological risks	https://www.webofscience.com/wos/woscc/full-record/WOS:000836535800007
 
-Chromatography Modeling Software Applicability for Non-Conventional Columns: a Case Study of Calixarene- and Resorcinarene-Bonded Stationary Phases	https://www.webofscience.com/wos/woscc/full-record/WOS:000341659000008
+Reconstructing Late Quaternary precipitation and its source on the southern Cape coast of South Africa: A multi-proxy paleoenvironmental record from Vankervelsvlei	https://www.webofscience.com/wos/woscc/full-record/WOS:000796232900003
 
-Evaluation of (S)- and (R)-Misonidazole as GPX Inhibitors: Synthesis, Characterization Including Circular Dichroism and In Vitro Testing on Bovine GPx-1	https://www.webofscience.com/wos/woscc/full-record/WOS:000332331800001
+Holocene Temperature Variations in Semi-Arid Central Mongolia-A Chronological and Sedimentological Perspective From a 7400-year Lake Sediment Record From the Khangai Mountains	https://www.webofscience.com/wos/woscc/full-record/WOS:000804762500001
 
-Isolation of farnesylhydroquinones from the basidiomycete Ganoderma pfeifferi	https://www.webofscience.com/wos/woscc/full-record/WOS:000216561700003
+Rain Forest Fragmentation and Environmental Dynamics on Nosy Be Island (NW Madagascar) at 1300 cal BP Is Attributable to Intensified Human Impact	https://www.webofscience.com/wos/woscc/full-record/WOS:000760647800001
 
-Intergroup cross-comparison for the evaluation of data-interchangeability from various chromatographic tests	https://www.webofscience.com/wos/woscc/full-record/WOS:000320821900017
+Characterization of (paleo)lacustrine landforms using sedimentological and portable OSL investigations at Schweriner See, north-eastern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000714092700001
 
-Analytical power of LLE-HPLC-PDA-MS/MS in drug metabolism studies: Identification of new nabumetone metabolites	https://www.webofscience.com/wos/woscc/full-record/WOS:000318748900021
+Spatial distribution and consequences of contaminants in harbour sediments - A case study from Richards Bay Harbour, South Africa	https://www.webofscience.com/wos/woscc/full-record/WOS:000701874400002
 
-Evaluation of the Chromatographic Performance of Conventional, Polar-Endcapped and Calixarene-Bonded Stationary Phases for the Separation of Water-Soluble Vitamins	https://www.webofscience.com/wos/woscc/full-record/WOS:000318168100002
+Precipitation dynamics on the Tibetan Plateau during the Late Quaternary - Hydroclimatic sedimentary proxies versus lake level variability	https://www.webofscience.com/wos/woscc/full-record/WOS:000692367400002
 
-Complexation of Achiral Calixarenes with Chiral Pharmaceutical Substances: A Circular Dichroism Study	https://www.webofscience.com/wos/woscc/full-record/WOS:000314226900015
+Holocene sea level and environmental change at the southern Cape - an 8.5 kyr multi-proxy paleoclimate record from Lake Voelvlei, South Africa	https://www.webofscience.com/wos/woscc/full-record/WOS:000679663800001
 
-Spectrophotometric and Stability-Indicating High-Performance Liquid Chromatographic Determinations of Terbutaline Sulfate	https://www.webofscience.com/wos/woscc/full-record/WOS:000310652300020
+Holocene paleoenvironmental change inferred from two sediment cores collected in the Tibetan lake Taro Co	https://www.webofscience.com/wos/woscc/full-record/WOS:000674199300001
 
-Effect of chromatographic conditions on liquid chromatographic chiral separation of terbutaline and salbutamol on Chirobiotic V column	https://www.webofscience.com/wos/woscc/full-record/WOS:000295432700019
+Extending and refining the paleomagnetic secular variation database for south-eastern Africa (Madagascar) to 2500 cal BP	https://www.webofscience.com/wos/woscc/full-record/WOS:000649176900012
 
-Selectivity of calixarene-bonded silica phases in HPLC: Description of special characteristics with a multiple term linear equation at different methanol concentrations	https://www.webofscience.com/wos/woscc/full-record/WOS:000283201900005
+Fijian, fire and grazing in Southern Tibet? A 20,000-year multi-proxy record in an alpine ecotonal ecosystem	https://www.webofscience.com/wos/woscc/full-record/WOS:000626320300003
 
-Characterization of calixarene-bonded stationary phases	https://www.webofscience.com/wos/woscc/full-record/WOS:000283201900004
+Vegetation and climate change during the Medieval Climate Anomaly and the Little Ice Age on the southern Cape coast of South Africa: Pollen evidence from Bo Langvlei	https://www.webofscience.com/wos/woscc/full-record/WOS:000562094100001
 
-Chromatographic Application on Calixarene Bonded Stationary Phases: A Stability Indicating LC-Method for Determination of Celecoxib in Tablet Formulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000273352500012
+Is there a common threshold to subfossil chironomid assemblages at 16 m water depth? Evidence from the Tibetan Plateau	https://www.webofscience.com/wos/woscc/full-record/WOS:000600514700006
 
-Description of retention characteristics of calixarene-bonded stationary phases in dependence of the methanol content in the mobile phase	https://www.webofscience.com/wos/woscc/full-record/WOS:000269372200004
+Holocene variability in climate and oceanic conditions in the winter rainfall zone of South Africa-inferred from a high resolution diatom record from Verlorenvlei	https://www.webofscience.com/wos/woscc/full-record/WOS:000530041800007
 
-Selectivity of calixarene-bonded silica-phases in HPLC: Description of special characteristics with a multiple term linear equation at two different pH-values	https://www.webofscience.com/wos/woscc/full-record/WOS:000259584800015
+Seasonal stratification of a deep, high-altitude, dimictic lake: Nam Co, Tibetan Plateau	https://www.webofscience.com/wos/woscc/full-record/WOS:000527390200080
 
-The effect of achiral calixarenes on chiral separation of propranolol-HCl and brompheniramine maleate in capillary electrophoresis using cyclodextrin as chiral selector	https://www.webofscience.com/wos/woscc/full-record/WOS:000254779800002
+Late Holocene vegetation responses to climate change and human impact on the central Tibetan Plateau	https://www.webofscience.com/wos/woscc/full-record/WOS:000506214900132
 
-Comparison of the chromatographic behavior of tricyclic neuroleptics on calixarene-bonded, monolithic and conventional RP-HPLC columns	https://www.webofscience.com/wos/woscc/full-record/WOS:000249546100010
+Late Quaternary palaeoenvironmental change in the year-round rainfall zone of South Africa derived from peat sediments from Vankervelsvlei	https://www.webofscience.com/wos/woscc/full-record/WOS:000480378000015
 
-Achiral and chiral high-performance liquid chromatographic determination of flubendazole and its metabolites in biomatrices using UV photodiode-array and mass spectrometric detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000246701600013
+ICDP workshop on scientific drilling of Nam Co on the Tibetan Plateau: 1 million years of paleoenvironmental history, geomicrobiology, tectonics and paleomagnetism derived from sediments of a high-altitude lake	https://www.webofscience.com/wos/woscc/full-record/WOS:000471599400006
 
-Calixarene HPLC phases - Applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000244996900005
+Using (210)pb-data and paleomagnetic secular variations to date anthropogenic impact on a lake system in the Western Cape, South Africa	https://www.webofscience.com/wos/woscc/full-record/WOS:000463463500005
 
-Effect of chaotropic mobile phase additives on retention behaviour of beta-blockers on various reversed-phase high-performance liquid chromatography columns	https://www.webofscience.com/wos/woscc/full-record/WOS:000241772800009
+Spatial and temporal variations in water temperature in a high-altitude deep dimictic mountain lake (Nam Co), central Tibetan Plateau	https://www.webofscience.com/wos/woscc/full-record/WOS:000463464000002
 
-Retention behaviour of beta-blockers in HPLC using a monolithic column	https://www.webofscience.com/wos/woscc/full-record/WOS:000237786800008
+Southern Hemispheric Westerlies control sedimentary processes of Laguna Azul (south-eastern Patagonia, Argentina)	https://www.webofscience.com/wos/woscc/full-record/WOS:000461697500003
 
-Use of chiral liquid chromatography for the evaluation of stereospecificity in the carbonyl reduction of potential benzo[c]fluorene antineoplastics benfluron and dimefluron in various species	https://www.webofscience.com/wos/woscc/full-record/WOS:000229599200031
+Late glacial and Holocene vegetation and climate variations at Lake Tangra Yumco, central Tibetan Plateau	https://www.webofscience.com/wos/woscc/full-record/WOS:000461411900002
 
-Peak shape improvement of basic analytes in capillary liquid chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000227397400012
+The spatial heterogeneity of micro- and meio-organisms and their significance in understanding coastal system dynamics	https://www.webofscience.com/wos/woscc/full-record/WOS:000447544500009
 
-Chromatographic applications on monolithic columns: Determination of triamcinolone, prednisolone and dexamethasone in pharmaceutical tablet formulations using a solid phase extraction and a monolithic column	https://www.webofscience.com/wos/woscc/full-record/WOS:000227123900006
+A high-resolution record of Holocene climate and vegetation dynamics from the southern Cape coast of South Africa: pollen and microcharcoal evidence from Eilandvlei	https://www.webofscience.com/wos/woscc/full-record/WOS:000437134000003
 
-Evaluation of packed capillary liquid chromatography columns and comparison with conventional-size columns	https://www.webofscience.com/wos/woscc/full-record/WOS:000189217300021
+A high-resolution record of Holocene climate and vegetation dynamics from the southern Cape coast of South Africa: pollen and microcharcoal evidence from Eilandvlei	https://www.webofscience.com/wos/woscc/full-record/WOS:000437134000003
 
-Extracolumn band broadening in capillary liquid chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000185689900001
+Widespread occurrence of distinct alkenones from Group I haptophytes in freshwater lakes: Implications for paleotemperature and paleoenvironmental reconstructions	https://www.webofscience.com/wos/woscc/full-record/WOS:000432762000023
 
-Investigation of the retention behaviour of steroids with calixarene-based stationary phases by modern NMR spectroscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000185163400006
+A multiproxy study of the ocean-atmospheric forcing and the impact of sea-level changes on the southern Cape coast, South Africa during the Holocene	https://www.webofscience.com/wos/woscc/full-record/WOS:000428973000021
 
-Separation of (Z)- and (E)-isomers of thioxanthene and dibenz[b,e]oxepin derivatives with calixarenes and resorcinarenes as additives in nonaqueous capillary electrophoresis	https://www.webofscience.com/wos/woscc/full-record/WOS:000183242700019
+Holocene environmental change along the southern Cape coast of South Africa - Insights from the Eilandvlei sediment record spanning the last 8.9 kyr	https://www.webofscience.com/wos/woscc/full-record/WOS:000430771400006
 
-Separation of cis- and trans-isomers of thioxanthene and dibenz[b,e]oxepin derivatives on calixarene- and resorcinarene-bonded high-performance liquid chromatography stationary phases	https://www.webofscience.com/wos/woscc/full-record/WOS:000174491700031
+LATE HOLOCENE MARINE RADIOCARBON RESERVOIR CORRECTION FOR THE SOUTHERN AND EASTERN COASTS OF SOUTH AFRICA	https://www.webofscience.com/wos/woscc/full-record/WOS:000430929600015
 
-Chiral separation of amino acid esters by micellar electrokinetic chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000171365800024
+Artemisia/Chenopodiaceae ratio from surface lake sediments on the central and western Tibetan Plateau and its application	https://www.webofscience.com/wos/woscc/full-record/WOS:000402945200011
 
-Chiral separations of 1,3,4-thia- and 1,3,4-selenadiazine derivatives by use of non-aqueous capillary electrophoresis	https://www.webofscience.com/wos/woscc/full-record/WOS:000168918700006
+Synchronous pattern of moisture availability on the southern Tibetan Plateau since 17.5 cal. ka BP-the Tangra Yumco lake sediment record	https://www.webofscience.com/wos/woscc/full-record/WOS:000398048200006
 
-New calixarene-bonded stationary phases in high-performance liquid chromatography: comparative studies on the retention behavior and on influences of the eluent	https://www.webofscience.com/wos/woscc/full-record/WOS:000165200600004
+Variability of the C-14 reservoir effects in Lake Tangra Yumco, Central Tibet (China), determined from recent sedimentation rates and dating of plant fossils	https://www.webofscience.com/wos/woscc/full-record/WOS:000397933600002
 
-Chiral separation of unmodified amino acids with non-aqueous capillary electrophoresis based on the ligand-exchange principle	https://www.webofscience.com/wos/woscc/full-record/WOS:000086544000013
+The impact of changing reservoir effects on the C-14 chronology of a Holocene sediment record from South Africa	https://www.webofscience.com/wos/woscc/full-record/WOS:000385605000013
 
-Nonaqueous capillary electrophoresis: Application possibilities and suitability of various solvents for the separation of basic analytes	https://www.webofscience.com/wos/woscc/full-record/WOS:000085044700011
+Vegetation and climate dynamics during the last glacial period in the fynbos-afrotemperate forest ecotone, southern Cape, South Africa	https://www.webofscience.com/wos/woscc/full-record/WOS:000376403500012
 
-Use of chiral and achiral ion-pairing reagents in combination with cyclodextrins in capillary electrophoresis	https://www.webofscience.com/wos/woscc/full-record/WOS:000072695800033
+Late quaternary hydrological changes at Tangra Yumco, Tibetan Plateau: a compound-specific isotope-based quantification of lake level changes	https://www.webofscience.com/wos/woscc/full-record/WOS:000373304300005
 
-Use of cationic cyclodextrin for enantioseparation by capillary electrophoresis	https://www.webofscience.com/wos/woscc/full-record/WOS:000072695800032
+Sea level and climate change at the southern Cape coast, South Africa, during the past 4.2 kyr	https://www.webofscience.com/wos/woscc/full-record/WOS:000371553000026
 
-Circular dichroism of axially chiral methaqualone, 3-aryl-2-mercapto- and 3-aryl-2-alkylthio-4(3H)-quinazolinones: Conformational dependence of CD and assignment of absolute configuration	https://www.webofscience.com/wos/woscc/full-record/WOS:000072218500008
+High-resolution paleomagnetic and sedimentological investigations on the Tibetan Plateau for the past 16 ka cal BPThe Tangra Yumco record	https://www.webofscience.com/wos/woscc/full-record/WOS:000375144700007
 
-Capillary electrophoretic chiral resolution of vicinal diols by complexation with borate and cyclodextrin: Comparative studies on different cyclodextrin derivatives	https://www.webofscience.com/wos/woscc/full-record/WOS:A1997WW05200014
+Holocene lake level history of the Tangra Yumco lake system, southern-central Tibetan Plateau	https://www.webofscience.com/wos/woscc/full-record/WOS:000368332200002
 
-Influence of different types of cyclodextrins on the racemization of scopolamine-N-butylbromide	https://www.webofscience.com/wos/woscc/full-record/WOS:A1996UH42600046
+Unravelling the past 1,000 years of history of human-climate-landscape interactions at the Lindu plain, Sulawesi, Indonesia	https://www.webofscience.com/wos/woscc/full-record/WOS:000373747500001
 
-Enantioselective influence of cyclodextrins on cleavage of chiralic esters	https://www.webofscience.com/wos/woscc/full-record/WOS:A1995TK55500010
+A persistent northern boundary of Indian Summer Monsoon precipitation over Central Asia during the Holocene	https://www.webofscience.com/wos/woscc/full-record/WOS:000375830200001
 
-ALTERATIONS OF PURINE METABOLISM IN MONONUCLEAR CELL-POPULATIONS OF 1ST DEGREE RELATIVES OF INSULIN-DEPENDENT DIABETIC INDIVIDUALS WITH DISTURBED GLUCOSE-TOLERANCE	https://www.webofscience.com/wos/woscc/full-record/WOS:A1992JQ45600001
+A 1400 year environmental magnetic record from varved sediments of Lake Xiaolongwan (Northeast China) reflecting natural and anthropogenic soil erosion	https://www.webofscience.com/wos/woscc/full-record/WOS:000365039400018
+
+Climate change on the Tibetan Plateau in response to shifting atmospheric circulation since the LGM	https://www.webofscience.com/wos/woscc/full-record/WOS:000359846000001
+
+Independently dated paleomagnetic secular variation records from the Tibetan Plateau	https://www.webofscience.com/wos/woscc/full-record/WOS:000351811400011
+
+Sediment dynamics and hydrologic events affecting small lacustrine systems on the southern-central Tibetan Plateau - the example of TT Lake	https://www.webofscience.com/wos/woscc/full-record/WOS:000349531500009
+
+Rock-magnetic proxies of wind intensity and dust since 51,200 cal BP from lacustrine sediments of Laguna Potrok Aike, southeastern Patagonia	https://www.webofscience.com/wos/woscc/full-record/WOS:000349197500009
+
+Ostracoda (Crustacea) as indicators of subaqueous mass movements: An example from the large brackish lake Tangra Yumco on the southern Tibetan Plateau, China	https://www.webofscience.com/wos/woscc/full-record/WOS:000349577500006
+
+Assessing resilience/sensitivity of tropical mountain rainforests towards climate variability of the last 1500 years: The long-term perspective at Lake Kalimpaa (Sulawesi, Indonesia)	https://www.webofscience.com/wos/woscc/full-record/WOS:000349198300004
+
+Hydrological variations on the Central Tibetan Plateau since the Last Glacial Maximum and their teleconnection to inter-regional and hemispheric climate variations	https://www.webofscience.com/wos/woscc/full-record/WOS:000348721100008
+
+Luminescence dating of lacustrine sediments from Tangra Yumco (southern Tibetan Plateau) using post-IR IRSL signals from polymineral grains	https://www.webofscience.com/wos/woscc/full-record/WOS:000347169200011
 

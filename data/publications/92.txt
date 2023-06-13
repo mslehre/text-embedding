@@ -1,102 +1,102 @@
-Martin Schnittler,1421103;
+Matthias Eschrig,394932;
 
-Two new species of Perichaena (Myxomycetes) from arid areas of Russia and Kazakhstan	https://www.webofscience.com/wos/woscc/full-record/WOS:000260436100015
+FeSe and the Missing Electron Pocket Problem	https://www.webofscience.com/wos/woscc/full-record/WOS:000800548500001
 
-No sex at all? Extremely low genetic diversity in Gagea spathacea (Liliaceae) across Europe	https://www.webofscience.com/wos/woscc/full-record/WOS:000305878200007
+Anomalous inverse proximity effect in unconventional superconductor junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000726609400001
 
-Xerotolerant foliar endophytic fungi of Populus euphratica from the Tarim River basin, Central China are conspecific to endophytic ITS phylotypes of Populus tremula from temperate Europe	https://www.webofscience.com/wos/woscc/full-record/WOS:000303881300012
+Non-local d(xy) nematicity and the missing electron pocket in FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000656948700002
 
-18S rDNA Phylogeny of Lamproderma and Allied Genera (Stemonitales, Myxomycetes, Amoebozoa)	https://www.webofscience.com/wos/woscc/full-record/WOS:000305350600078
+Tunable Pure Spin Supercurrents and the Demonstration of Their Gateability in a Spin-Wave Device	https://www.webofscience.com/wos/woscc/full-record/WOS:000552610700001
 
-New insights into the phylogeny and taxonomy of Chinese species of Gagea (Liliaceae)-speciation through hybridization	https://www.webofscience.com/wos/woscc/full-record/WOS:000299268500005
+k(z) Selective Scattering within Quasiparticle Interference Measurements of FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000498887900011
 
-Myxomycetes in soil	https://www.webofscience.com/wos/woscc/full-record/WOS:000295745700004
+Magnetic skyrmion lattice by the Fourier transform method	https://www.webofscience.com/wos/woscc/full-record/WOS:000466384800003
 
-Flow cytometry confirms reticulate evolution and reveals triploidy in Central European Diphasiastrum taxa (Lycopodiaceae, Lycophyta)	https://www.webofscience.com/wos/woscc/full-record/WOS:000295167900007
+Tuning of Magnetic Activity in Spin-Filter Josephson Junctions Towards Spin-Triplet Transport	https://www.webofscience.com/wos/woscc/full-record/WOS:000457706700025
 
-Characterization of Microsatellite Loci and Reliable Genotyping in a Polyploid Plant, Mercurialis perennis (Euphorbiaceae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000292130800012
+Effect of Meissner Screening and Trapped Magnetic Flux on Magnetization Dynamics in Thick Nb/Ni80Fe20/Nb Trilayers	https://www.webofscience.com/wos/woscc/full-record/WOS:000457141300002
 
-An empirical test of neighbourhood effect and safe-site effect in abandoned Mediterranean vineyards	https://www.webofscience.com/wos/woscc/full-record/WOS:000288767800004
+Exchange-field enhancement of superconducting spin pumping	https://www.webofscience.com/wos/woscc/full-record/WOS:000455821400006
 
-Does sex make a difference? Genetic diversity and spatial genetic structure in two co-occurring species of Gagea (Liliaceae) with contrasting reproductive strategies	https://www.webofscience.com/wos/woscc/full-record/WOS:000288661500006
+Phase-Sensitive Interface and Proximity Effects in Superconducting Spintronics	https://www.webofscience.com/wos/woscc/full-record/WOS:000576730400018
 
-Species abundance distributions and richness estimations in fungal metagenomics - lessons learned from community ecology	https://www.webofscience.com/wos/woscc/full-record/WOS:000285970200009
+Scaling of the superconducting gap with orbital character in FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000450139100002
 
-Genetic Structure of Two Protist Species (Myxogastria, Amoebozoa) Suggests Asexual Reproduction in Sexual Amoebae	https://www.webofscience.com/wos/woscc/full-record/WOS:000293511200024
+Generation of pure superconducting spin current in magnetic heterostructures via nonlocally induced magnetism due to Landau Fermi liquid effects	https://www.webofscience.com/wos/woscc/full-record/WOS:000445722700007
 
-Species richness analysis and ITS rDNA phylogeny revealed the majority of cultivable foliar endophytes from beech (Fagus sylvatica)	https://www.webofscience.com/wos/woscc/full-record/WOS:000283695900013
+Theory of Andreev bound states in S-F-S junctions and S-F proximity devices	https://www.webofscience.com/wos/woscc/full-record/WOS:000436125200005
 
-Consequences of genotyping errors for estimation of clonality: a case study on Populus euphratica Oliv. (Salicaceae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000287599900011
+Enhanced spin pumping into superconductors provides evidence for superconducting pure spin currents	https://www.webofscience.com/wos/woscc/full-record/WOS:000432928300012
 
-Ecology of sandstone ravine myxomycetes from Saxonian Switzerland (Germany)	https://www.webofscience.com/wos/woscc/full-record/WOS:000278535700001
+Superconducting spin valves controlled by spiral re-orientation in B20-family magnets	https://www.webofscience.com/wos/woscc/full-record/WOS:000413294800030
 
-Myxomycete diversity of the Altay Mountains (southwestern Siberia, Russia)	https://www.webofscience.com/wos/woscc/full-record/WOS:000276498100012
+Charge Density Waves in Graphite: Towards the Magnetic Ultraquantum Limit	https://www.webofscience.com/wos/woscc/full-record/WOS:000411769700009
 
-Aquatic protostelids – a study from northeastern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000267477900005
+Triplet Cooper pairs induced in diffusive s-wave superconductors interfaced with strongly spin-polarized magnetic insulators or half-metallic ferromagnets	https://www.webofscience.com/wos/woscc/full-record/WOS:000401406700007
 
-Dilution-to-extinction cultivation of leaf-inhabiting endophytic fungi in beech (Fagus sylvatica L.) – Different cultivation techniques influence fungal biodiversity assessment	https://www.webofscience.com/wos/woscc/full-record/WOS:000266473900013
+Strongly enhanced temperature dependence of the chemical potential in FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000401229000002
 
-Bulbils contra seeds: reproductive investment in two species of Gagea (Liliaceae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000265775000004
+Theory of surface spectroscopy for noncentrosymmetric superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000400371800006
 
-Root suckering patterns in Populus euphratica (Euphrates poplar, Salicaceae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000269384200011
+Spectroscopic evidence of odd frequency superconducting order	https://www.webofscience.com/wos/woscc/full-record/WOS:000392343900001
 
-Microhabitat and niche separation in species of Ceratiomyxa	https://www.webofscience.com/wos/woscc/full-record/WOS:000262185400003
+Evidence for unidirectional nematic bond ordering in FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000387538600001
 
-A habitat colonisation model for spore-dispersed organisms—Does it work with eumycetozoans?	https://www.webofscience.com/wos/woscc/full-record/WOS:000257532600008
+Theory of a weak-link superconductor-ferromagnet Josephson structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000383231600011
 
-Application of species richness estimators for the assessment of fungal diversity	https://www.webofscience.com/wos/woscc/full-record/WOS:000255137900008
+Remotely induced magnetism in a normal metal using a superconducting spin-valve	https://www.webofscience.com/wos/woscc/full-record/WOS:000367835400020
 
-Structure, reproduction and flood-induced dynamics of riparian Tugai forests at the Tarim River in xinjiang, NW China	https://www.webofscience.com/wos/woscc/full-record/WOS:000254471200004
+Irreversible magnetization switching at the onset of superconductivity in a superconductor ferromagnet hybrid	https://www.webofscience.com/wos/woscc/full-record/WOS:000368442300028
 
-Myxomycete diversity and distribution from the fossil record to the present	https://www.webofscience.com/wos/woscc/full-record/WOS:000252689400005
+Spin-polarized supercurrents for spintronics: a review of current progress	https://www.webofscience.com/wos/woscc/full-record/WOS:000363041800002
 
-Myxomycete diversity and distribution from the fossil record to the present	https://www.webofscience.com/wos/woscc/full-record/WOS:000252689400005
+General boundary conditions for quasiclassical theory of superconductivity in the diffusive limit: application to strongly spin-polarized systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000360956600005
 
-Myxomycete diversity and ecology in arid regions of the Great Lake Basin of western Mongolia	https://www.webofscience.com/wos/woscc/full-record/WOS:000258548800008
+Odd-frequency superconducting states with different types of Meissner response: Problem of coexistence	https://www.webofscience.com/wos/woscc/full-record/WOS:000353680800005
 
-Sedimentation velocity of myxomycete spores	https://www.webofscience.com/wos/woscc/full-record/WOS:000253284500003
+Controlled suppression of superconductivity by the generation of polarized Cooper pairs in spin-valve structures	https://www.webofscience.com/wos/woscc/full-record/WOS:000348873100001
 
-Myxomycete diversity and ecology in the arid regions of the Lower Volga River Basin (Russia)	https://www.webofscience.com/wos/woscc/full-record/WOS:000243414100011
+Giant thermoelectric effects in a proximity-coupled superconductor-ferromagnet device	https://www.webofscience.com/wos/woscc/full-record/WOS:000339235500002
 
-Species richness and ecological characterization of myxomycetes and myxomycete-like organisms in the canopy of a temperate deciduous forest	https://www.webofscience.com/wos/woscc/full-record/WOS:000239320100007
+Comment on "Unified Formalism of Andreev Reflection at a Ferromagnet/Superconductor Interface"	https://www.webofscience.com/wos/woscc/full-record/WOS:000324762300022
 
-Agamospermous seed production of the invasive tussock grass Nardus stricta L. (Poaceae) in New Zealand – evidence from pollination experiments	https://www.webofscience.com/wos/woscc/full-record/WOS:000235777300007
+Andreev spectroscopy of CrO2 thin films on TiO2 and Al2O3	https://www.webofscience.com/wos/woscc/full-record/WOS:000326280200025
 
-Invasion ecology of the alien tussock grass Nardus stricta (Poaceae) at Lake Pukaki, Canterbury, New Zealand	https://www.webofscience.com/wos/woscc/full-record/WOS:000232743900001
+Inverse proximity effect and influence of disorder on triplet supercurrents in strongly spin-polarized ferromagnets	https://www.webofscience.com/wos/woscc/full-record/WOS:000322795300005
 
-Synecology of myxomycetes in desert of the northwestern Caspian Lowland	https://www.webofscience.com/wos/woscc/full-record/WOS:000232219600006
+Nonlocal Thermoelectric Effects and Nonlocal Onsager relations in a Three-Terminal Proximity-Coupled Superconductor-Ferromagnet Device	https://www.webofscience.com/wos/woscc/full-record/WOS:000313952000015
 
-Ecological Characterization of a Tropical Myxomycete Assemblage: Maquipucuna Cloud Forest Reserve, Ecuador	https://www.webofscience.com/wos/woscc/full-record/WOS:000222022000007
+Effect of spin fluctuations on the electronic structure in iron-based superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000308128000004
 
-Species of Anthracoidea (Ustilaginales, Basidiomycota) on Cyperaceae in Arctic Europe	https://www.webofscience.com/wos/woscc/full-record/WOS:000183321800005
+Tailoring the Fulde-Ferrell-Larkin-Ovchinnikov state	https://www.webofscience.com/wos/woscc/full-record/WOS:000301772400008
 
-Biodiversity assessment of myxomycetes from two tropical forest reserves in Mexico	https://www.webofscience.com/wos/woscc/full-record/WOS:000181503800007
+Properties of Interfaces and Surfaces in Non-centrosymmetric Superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000305683200012
 
-An annotated checklist of the Myxomycetes of the northwestern Caspian lowland	https://www.webofscience.com/wos/woscc/full-record/WOS:000189359400007
+A Numerical Study of the Superconducting Proximity Effect in Topological Surface States	https://www.webofscience.com/wos/woscc/full-record/WOS:000314761400149
 
-Distribution and ecology of myxomycetes in the forests of Yucatan	https://www.webofscience.com/wos/woscc/full-record/WOS:000186576700012
+Spin polarization of (Ga,Mn)As measured by Andreev spectroscopy: The role of spin-active scattering	https://www.webofscience.com/wos/woscc/full-record/WOS:000287367200002
 
-Inflorescences of Neotropical Herbs as a Newly Discovered Microhabitat for Myxomycetes	https://www.webofscience.com/wos/woscc/full-record/WOS:000173697600002
+Electronic Dispersion Anomalies in Iron Pnictide Superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000286736000018
 
-Biosystematics of the myxomycete Arcyria cinerea	https://www.webofscience.com/wos/woscc/full-record/WOS:000177167900023
+Spin-polarized supercurrents for spintronics	https://www.webofscience.com/wos/woscc/full-record/WOS:000286041800018
 
-Rapid biodiversity assessment of a tropical myxomycete assemblage - Maquipucuna Cloud Forest Reserve, Ecuador	https://www.webofscience.com/wos/woscc/full-record/WOS:000174741600010
+Is CrO2 Fully Spin Polarized? Analysis of Andreev Spectra and Excess Current	https://www.webofscience.com/wos/woscc/full-record/WOS:000284052700012
 
-Ecology of Myxomycetes of a Winter-Cold Desert in Western Kazakhstan	https://www.webofscience.com/wos/woscc/full-record/WOS:000170100100005
+Nonlocal conductance via overlapping Andreev bound states in ferromagnet-superconductor heterostructures	https://www.webofscience.com/wos/woscc/full-record/WOS:000283709000001
 
-Myxomycetes from different forest types in Puerto Rico	https://www.webofscience.com/wos/woscc/full-record/WOS:000167961400022
+Signature of odd-frequency pairing correlations induced by a magnetic interface	https://www.webofscience.com/wos/woscc/full-record/WOS:000278386700007
 
-Foliicolous liverworts as a microhabitat for Neotropical Myxomycetes	https://www.webofscience.com/wos/woscc/full-record/WOS:000167417200013
+Theory of superconductor-ferromagnet point-contact spectra: The case of strong spin polarization (vol 81, 094508, 2010)	https://www.webofscience.com/wos/woscc/full-record/WOS:000276207300122
 
-Myxomycetes of the Great Smoky Mountains National Park	https://www.webofscience.com/wos/woscc/full-record/WOS:000169237400001
+Theory of superconductor-ferromagnet point-contact spectra: The case of strong spin polarization	https://www.webofscience.com/wos/woscc/full-record/WOS:000276207300097
 
-Ecology and world distribution of Barbeyella minutissima (Myxomycetes)	https://www.webofscience.com/wos/woscc/full-record/WOS:000166481700018
+Scattering problem in nonequilibrium quasiclassical theory of metals and superconductors: General boundary conditions and applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000271351300090
 
-Myxomycete Biodiversity in Four Different Forest Types in Costa Rica	https://www.webofscience.com/wos/woscc/full-record/WOS:000088424000004
+Charge dynamics of vortex cores in layered chiral triplet superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000268177400003
 
-Distribution and ecology of myxomycetes in high-latitude regions of the Northern Hemisphere	https://www.webofscience.com/wos/woscc/full-record/WOS:000166179900014
+Vortices in chiral, spin-triplet superconductors and superfluids	https://www.webofscience.com/wos/woscc/full-record/WOS:000268177400002
 
-Myxomycetes of the winter-cold desert in western Kazakhstan	https://www.webofscience.com/wos/woscc/full-record/WOS:000087025200002
+Spin-Dependent Cooper Pair Phase and Pure Spin Supercurrents in Strongly Polarized Ferromagnets	https://www.webofscience.com/wos/woscc/full-record/WOS:000266685400050
 
-Central European vascular plants requiring priority conservation measures - an analysis from national Red Lists and distribution maps	https://www.webofscience.com/wos/woscc/full-record/WOS:000081678800002
+Coherent conductors at a distance	https://www.webofscience.com/wos/woscc/full-record/WOS:000266544800011
 

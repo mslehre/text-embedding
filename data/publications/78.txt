@@ -1,90 +1,80 @@
-Hans Volkmar Liebscher,2829;
+Ines Kath,38352705;
 
-Simultaneous Credible Regions for Multiple Changepoint Locations	https://www.webofscience.com/wos/woscc/full-record/WOS:000472960100007
+Lattices in the Four-Dimensional Hyperbolic Oscillator Group	https://www.webofscience.com/wos/woscc/full-record/WOS:000897568200012
 
-Simultaneous Credible Regions for Multiple Changepoint Locations (vol 28, pg 290, 2019)	https://www.webofscience.com/wos/woscc/full-record/WOS:000472960100001
+A new example of a compact ERP G2-structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000668292200001
 
-The Rosenzweig-MacArthur system via reduction of an individual based model	https://www.webofscience.com/wos/woscc/full-record/WOS:000463926800014
+Existence of Cocompact Lattices in Lie Groups With a Bi-invariant Metric of Index 2	https://www.webofscience.com/wos/woscc/full-record/WOS:000731074000015
 
-An approximate Bayesian significance test for genomic evaluations	https://www.webofscience.com/wos/woscc/full-record/WOS:000449709000019
+Skew Killing spinors in four dimensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000625601800001
 
-New Gromov-Inspired Metrics on Phylogenetic Tree Space	https://www.webofscience.com/wos/woscc/full-record/WOS:000425308400002
+Spectra of Compact Quotients of the Oscillator Group	https://www.webofscience.com/wos/woscc/full-record/WOS:000658208300001
 
-Strategies for the identification of disease-related patterns of volatile organic compounds: prediction of paratuberculosis in an animal model using random forests	https://www.webofscience.com/wos/woscc/full-record/WOS:000414263000001
+Lattices in the four-dimensional split oscillator group	https://www.webofscience.com/wos/pprn/full-record/PPRN:11498384
 
-Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000378517600001
+HOLONOMY GROUPS OF G(2)(*)-MANIFOLDS	https://www.webofscience.com/wos/woscc/full-record/WOS:000469491900009
 
-An efficient level set method for simultaneous intensity inhomogeneity correction and segmentation of MR images	https://www.webofscience.com/wos/woscc/full-record/WOS:000371364500002
+Local Type I Metrics with Holonomy in ${m G}_{2}^*$	https://www.webofscience.com/wos/pprn/full-record/PPRN:22599435
 
-Piecewise-Deterministic Markov Processes as Limits of Markov Jump Processes	https://www.webofscience.com/wos/woscc/full-record/WOS:000310413800007
+Local Type I Metrics with Holonomy in G(2)*	https://www.webofscience.com/wos/woscc/full-record/WOS:000440858100001
 
-Revealing complex function, process and pathway interactions with high-throughput expression and biological annotation data	https://www.webofscience.com/wos/woscc/full-record/WOS:000384405400023
+Holonomy groups of $G_2^*$-manifolds	https://www.webofscience.com/wos/pprn/full-record/PPRN:12118172
 
-A matter of dispersal: REVEALSinR introduces state-of-the-art dispersal models to quantitative vegetation reconstruction	https://www.webofscience.com/wos/woscc/full-record/WOS:000386396300003
+Compact quotients of Cahen-Wallach spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:19147234
 
-The relation of spatial and tensor product of Arveson systems — the random set point of view	https://www.webofscience.com/wos/woscc/full-record/WOS:000368631200007
+SPECTRA OF SUB-DIRAC OPERATORS ON CERTAIN NILMANIFOLDS	https://www.webofscience.com/wos/woscc/full-record/WOS:000363494800003
 
-Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study	https://www.webofscience.com/wos/woscc/full-record/WOS:000363098800001
+Indefinite symmetric spaces with G(2(2))-structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000320453000012
 
-Microarray-based identification of human antibodies against Staphylococcus aureus antigens	https://www.webofscience.com/wos/woscc/full-record/WOS:000367723600005
+Indefinite extrinsic symmetric spaces II	https://www.webofscience.com/wos/woscc/full-record/WOS:000310725100003
 
-A Level Set Based Framework for Quantitative Evaluation of Breast Tissue Density from MRI Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000345899700012
+A SPLITTING THEOREM FOR HIGHER ORDER PARALLEL IMMERSIONS	https://www.webofscience.com/wos/woscc/full-record/WOS:000306387400029
 
-Fully Automatic Renal Parenchyma Volumetry in LDA-based Probability Maps Using Variational Outer Cortex Edge Alignment Forces	https://www.webofscience.com/wos/woscc/full-record/WOS:000346381500128
+Semisimplicity of indefinite extrinsic symmetric spaces and mean curvature	https://www.webofscience.com/wos/woscc/full-record/WOS:000304158400005
 
-An approach to model monitoring and surveillance data of wildlife diseases-Exemplified by Classical Swine Fever in wild boar	https://www.webofscience.com/wos/woscc/full-record/WOS:000327228100020
+Indefinite symmetric spaces with $G_{2(2)}$-structure	https://www.webofscience.com/wos/pprn/full-record/PPRN:22583546
 
-Identifying Genes Relevant to Specific Biological Conditions in Time Course Microarray Experiments	https://www.webofscience.com/wos/woscc/full-record/WOS:000325819400064
+Indefinite extrinsic symmetric spaces I	https://www.webofscience.com/wos/woscc/full-record/WOS:000291342000004
 
-A fast global variational bias field correction method for MR images	https://www.webofscience.com/wos/woscc/full-record/WOS:000349789200118
+Classification results for pseudo-Riemannian symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000324344600022
 
-Complexity L0-Penalized M-Estimation: Consistency in More Dimensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000215143800002
+ON THE STRUCTURE OF PSEUDO-RIEMANNIAN SYMMETRIC SPACES	https://www.webofscience.com/wos/woscc/full-record/WOS:000272870400006
 
-CellFateScout - a bioinformatics tool for elucidating small molecule signaling pathways that drive cells in a specific direction	https://www.webofscience.com/wos/woscc/full-record/WOS:000329171000001
+The classification problem for pseudo-Riemannian symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000268749200001
 
-An algebraic analysis of the two state Markov model on tripod trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000304515900004
+New examples of indefinite hyper-Kahler symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000246597900007
 
-Prior Shape Level Set Segmentation on Multistep Generated Probability Maps of MR Datasets for Fully Automatic Kidney Parenchyma Volumetry	https://www.webofscience.com/wos/woscc/full-record/WOS:000300197500014
+Nilpotent metric Lie algebras of small dimension	https://www.webofscience.com/wos/woscc/full-record/WOS:000244494300003
 
-A LIMIT THEOREM FOR CONDITIONALLY INDEPENDENT BEAM SPLITTINGS	https://www.webofscience.com/wos/woscc/full-record/WOS:000234252600015
+Metric Lie algebras and quadratic extensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000236108600006
 
-The spatial product of Arveson systems is intrinsic	https://www.webofscience.com/wos/woscc/full-record/WOS:000284249000011
+New examples of indefinite hyper-Kaehler symmetric spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:22836777
 
-On a Class of Deterministic Population Models with Stochastic Foundation	https://www.webofscience.com/wos/woscc/full-record/WOS:000290671500006
+Metric Lie algebras with maximal isotropic centre	https://www.webofscience.com/wos/woscc/full-record/WOS:000187291700003
 
-Subsystems of Fock need not be Fock: Spatial CP-semigroups	https://www.webofscience.com/wos/woscc/full-record/WOS:000278512900021
+Doubly extended Lie groups - curvature, holonomy and parallel spinors	https://www.webofscience.com/wos/woscc/full-record/WOS:000186288300001
 
-Autocatalytic genetic networks modeled by piecewise-deterministic Markov processes	https://www.webofscience.com/wos/woscc/full-record/WOS:000273087200003
+Curvature estimates in asymptotically flat manifolds of positive scalar curvature	https://www.webofscience.com/wos/woscc/full-record/WOS:000183580000006
 
-Consistencies and rates of convergence of jump-penalized least squares estimators	https://www.webofscience.com/wos/woscc/full-record/WOS:000263129000006
+Parallel pure spinors on pseudo-Riemannian manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000172650900008
 
-Hybrid Modeling of Noise Reduction by a Negatively Autoregulated System	https://www.webofscience.com/wos/woscc/full-record/WOS:000264944000012
+Pseudo-Riemannian T-duals of compact Riemannian homogeneous spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000087670200004
 
-Random sets and invariants for (type II) continuous tensor product systems of Hilbert spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000265130700001
+Parallel spinors and holonomy groups on pseudo-Riemannian spin manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000078754600001
 
-Transcription, intercellular variability and correlated random walk	https://www.webofscience.com/wos/woscc/full-record/WOS:000261540600004
+G(2(2)(*))-Structures on pseudo-Riemannian manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000076008300001
 
-Complexity penalized least squares estimators: Analytical results	https://www.webofscience.com/wos/woscc/full-record/WOS:000255337700010
+On nearly parallel G(2)-structures	https://www.webofscience.com/wos/woscc/full-record/WOS:000070984000006
 
-Complexity Penalized M-Estimation	https://www.webofscience.com/wos/woscc/full-record/WOS:000254056700011
+Normally hyperbolic operators, the Huygens property and conformal geometry	https://www.webofscience.com/wos/woscc/full-record/WOS:A1996VU19600001
 
-Constructing units in product systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000251993600028
+RIEMANNIAN-MANIFOLDS OF DIMENSION 7 WITH ONE REAL KILLING SPINOR	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EE99800015
 
-Simulation of genetic networks modelled by piecewise deterministic Markov processes	https://www.webofscience.com/wos/woscc/full-record/WOS:000257143600002
+7-DIMENSIONAL COMPACT RIEMANNIAN-MANIFOLDS WITH KILLING SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EJ17200005
 
-A PROBLEM OF POWERS AND THE PRODUCT OF SPATIAL PRODUCT SYSTEMS	https://www.webofscience.com/wos/woscc/full-record/WOS:000263963100007
+COMPACT 5-DIMENSIONAL RIEMANNIAN-MANIFOLDS WITH PARALLEL SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EA96500017
 
-Copy-number variations measured by single-nucleotide polymorphism oligonucleotide Arrays in patients with mental retardation	https://www.webofscience.com/wos/woscc/full-record/WOS:000249307600017
+EINSTEIN MANIFOLDS OF DIMENSION-5 WITH SMALL 1ST EIGENVALUE OF THE DIRAC OPERATOR	https://www.webofscience.com/wos/woscc/full-record/WOS:A1989T512700003
 
-Modeling the Hes1 oscillator	https://www.webofscience.com/wos/woscc/full-record/WOS:000249521700008
-
-Number of active transcription factor binding sites is essential for the Hes7 oscillator	https://www.webofscience.com/wos/woscc/full-record/WOS:000208054800011
-
-Identification of coexpressed gene clusters in a comparative analysis of transcriptome and proteome in mouse tissues	https://www.webofscience.com/wos/woscc/full-record/WOS:000229807200041
-
-Parsimonious segmentation of time series by Potts models	https://www.webofscience.com/wos/woscc/full-record/WOS:000226261800034
-
-Evaluation of the chicken transcriptome by SAGE of B cells and the DT40 cell line	https://www.webofscience.com/wos/woscc/full-record/WOS:000226607800002
-
-Type I product systems of Hilbert modules	https://www.webofscience.com/wos/woscc/full-record/WOS:000222095600005
+7-DIMENSIONAL COMPACT RIEMANNIAN-MANIFOLDS ADMITTING KILLING SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1988R490700008
 

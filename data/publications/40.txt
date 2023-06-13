@@ -1,102 +1,102 @@
-Markus Münzenberg,38874770;
+Michael Höhle,1683686;
 
-Interface-Assisted Room-Temperature Magnetoresistance in Cu-Phenalenyl-Based Magnetic Tunnel Junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000945886700001
+Epitweetr: Early warning of public health threats using Twitter data	https://www.webofscience.com/wos/woscc/full-record/WOS:000870702900005
 
-Broadband Spintronic Terahertz Source with Peak Electric Fields Exceeding 1.5 MV/cm	https://www.webofscience.com/wos/woscc/full-record/WOS:000953280800001
+Comment "On the role of data, statistics and decisions in a pandemic" by Jahn et al	https://www.webofscience.com/wos/woscc/full-record/WOS:000812618300001
 
-Thermally induced all-optical ferromagnetic resonance in thin YIG films	https://www.webofscience.com/wos/woscc/full-record/WOS:000953586800001
+Real-time monitoring of COVID-19 dynamics using automated trend fitting and anomaly detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000658592500005
 
-The 2022 magneto-optics roadmap	https://www.webofscience.com/wos/woscc/full-record/WOS:000861000800001
+Analysis of the early COVID-19 epidemic curve in Germany by regression models with change points	https://www.webofscience.com/wos/woscc/full-record/WOS:000629562500001
 
-Second harmonic generation from grating-coupled hybrid plasmon-phonon polaritons	https://www.webofscience.com/wos/woscc/full-record/WOS:000886062700005
+Nowcasting the COVID-19 pandemic in Bavaria	https://www.webofscience.com/wos/woscc/full-record/WOS:000594347400001
 
-Giant quadratic magneto-optical response of thin Y3Fe5O12 films for sensitive magnetometry experiments	https://www.webofscience.com/wos/woscc/full-record/WOS:000868755600003
+Parallelized calculation of permutation tests	https://www.webofscience.com/wos/woscc/full-record/WOS:000661074700018
 
-Coupling broadband terahertz dipoles to microscale resonators	https://www.webofscience.com/wos/pprn/full-record/PPRN:13516794
+Model selection and parameter estimation for dynamic epidemic models via iterated filtering: application to rotavirus in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000607778500003
 
-Magnetic domain scanning imaging using phase-sensitive THz-pulse detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000876217900005
+Prospective Detection of Outbreaks	https://www.webofscience.com/wos/woscc/full-record/WOS:000526939800021
 
-Second Harmonic Generation from Grating-Coupled Hybrid Plasmon-Phonon Polaritons	https://www.webofscience.com/wos/pprn/full-record/PPRN:12901328
+Evaluating quality of hospital care using time-to-event endpoints based on patient follow-up data	https://www.webofscience.com/wos/woscc/full-record/WOS:000494473300001
 
-Magnetic domain scanning imaging using phase-sensitive THz-pulse detection	https://www.webofscience.com/wos/pprn/full-record/PPRN:12200208
+Identifying the source of food-borne disease outbreaks: An application of Bayesian variable selection	https://www.webofscience.com/wos/woscc/full-record/WOS:000463234000010
 
-Spin reorientation transition in CoFeB/MgO/CoFeB tunnel junction enabled by ultrafast laser-induced suppression of perpendicular magnetic anisotropy	https://www.webofscience.com/wos/woscc/full-record/WOS:000800598700001
+An unconditional space-time scan statistic for ZIP-distributed data	https://www.webofscience.com/wos/woscc/full-record/WOS:000458557100007
 
-Spintronic emitters for super-resolution in THz-spectral imaging	https://www.webofscience.com/wos/woscc/full-record/WOS:000747691200005
+Spatio-Temporal Analysis of Epidemic Phenomena Using the R Package surveillance	https://www.webofscience.com/wos/woscc/full-record/WOS:000401086600001
 
-Ultrafast Demagnetization of Iron Induced by Optical versus Terahertz Pulses	https://www.webofscience.com/wos/woscc/full-record/WOS:000734342400001
+A statistician's perspective on digital epidemiology	https://www.webofscience.com/wos/woscc/full-record/WOS:000468817600017
 
-The 2021 Magnonics Roadmap	https://www.webofscience.com/wos/woscc/full-record/WOS:000684383800001
+Are People Living Near Modern Swine Production Facilities at Increased Risk of Influenza Virus Infection?	https://www.webofscience.com/wos/woscc/full-record/WOS:000392716100004
 
-High-speed spins	https://www.webofscience.com/wos/woscc/full-record/WOS:000679215800001
+Monitoring Count Time Series in R: Aberration Detection in Public Health Surveillance	https://www.webofscience.com/wos/woscc/full-record/WOS:000384912500001
 
-Frequency-Independent Terahertz Anomalous Hall Effect in DyCo5, Co32Fe68, and Gd27Fe73 Thin Films from DC to 40 THz	https://www.webofscience.com/wos/woscc/full-record/WOS:000624570000001
+A system for automated outbreak detection of communicable diseases in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000373268600007
 
-The impact of metallic contacts on spin-polarized photocurrents in topological insulator Bi 2 Se 3 nanowires	https://www.webofscience.com/wos/woscc/full-record/WOS:000608049600001
+Infectious Disease Modelling	https://www.webofscience.com/wos/woscc/full-record/WOS:000414705200027
 
-Efficiency of ultrafast optically induced spin transfer in Hensler compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000603587400006
+Bayesian outbreak detection in the presence of reporting delays	https://www.webofscience.com/wos/woscc/full-record/WOS:000363419700008
 
-Photocurrent measurements in topological insulator Bi 2 Se 3 nanowires	https://www.webofscience.com/wos/woscc/full-record/WOS:000530422500002
+Bayesian Nowcasting during the STEC O104:H4 Outbreak in Germany, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000346827500023
 
-Light-wave dynamic control of magnetism	https://www.webofscience.com/wos/woscc/full-record/WOS:000474843400035
+Modelling the epidemiological impact of rotavirus vaccination in Germany - A Bayesian approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000342269800016
 
-Microscaffolds by Direct Laser Writing for Neurite Guidance Leading to Tailor-Made Neuronal Networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000471816000002
+OutbreakTools: A new platform for disease outbreak analysis using the R software	https://www.webofscience.com/wos/woscc/full-record/WOS:000338704900005
 
-Tunnel magneto-Seebeck effect	https://www.webofscience.com/wos/woscc/full-record/WOS:000457438200001
+Bayesian parameter inference for dynamic infectious disease modelling: rotavirus in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000333744000010
 
-Remagnetization in arrays of ferromagnetic nanostripes with periodic and quasiperiodic order	https://www.webofscience.com/wos/woscc/full-record/WOS:000458365300004
+Estimating the under-reporting of norovirus illness in Germany utilizing enhanced awareness of diarrhoea during a large outbreak of Shiga toxin-producing E. coli O104: H4 in 2011-a time series analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000332630600002
 
-The missing link	https://www.webofscience.com/wos/woscc/full-record/WOS:000540316700006
+Large multistate outbreak of norovirus gastroenteritis associated with frozen strawberries, Germany, 2012	https://www.webofscience.com/wos/woscc/full-record/WOS:000332376900003
 
-Driving Magnetization Dynamics in an On-Demand Magnonic Crystal via the Magnetoelastic Interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000454192800003
+Shiga Toxin-Producing Escherichia coli O157 Is More Likely to Lead to Hospitalization and Death than Non-O157 Serogroups - Except O104	https://www.webofscience.com/wos/woscc/full-record/WOS:000327143800006
 
-Terahertz spectroscopy for all-optical spintronic characterization of the spin-Hall-effect metals Pt, W and Cu(80)lr(20)	https://www.webofscience.com/wos/woscc/full-record/WOS:000440976600002
+Associations of Age and Sex With the Clinical Outcome and Incubation Period of Shiga toxin-producing Escherichia coli O104:H4 Infections, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000325150600021
 
-Femtosecond formation dynamics of the spin Seebeck effect revealed by terahertz spectroscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000439557800005
+Bayesian outbreak detection algorithm for monitoring reported cases of campylobacteriosis in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000325887000004
 
-3D Micro Scaffolds for Tailor-Made Three-Dimensional Neural Network Studies	https://www.webofscience.com/wos/woscc/full-record/WOS:000430563300353
+Clinical aspects and self-reported symptoms of sequelae of Yersinia enterocolitica infections in a population-based study, Germany 2009-2010	https://www.webofscience.com/wos/woscc/full-record/WOS:000319747100001
 
-Anomalous Nernst effect and three-dimensional temperature gradients in magnetic tunnel junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000449054100001
+RE: "THE 'CASE-CHAOS STUDY' AS AN ADJUNCT OR ALTERNATIVE TO CONVENTIONAL CASE-CONTROL STUDY METHODOLOGY"	https://www.webofscience.com/wos/woscc/full-record/WOS:000318576300022
 
-Thermal conductivity of thin insulating films determined by tunnel magneto-Seebeck effect measurements and finite-element modeling	https://www.webofscience.com/wos/woscc/full-record/WOS:000431947900003
+Boosting Structured Additive Quantile Regression for Longitudinal Childhood Obesity Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000329433300001
 
-Laser-induced changes of nonlinear electronic transport properties in La0.75Ba0.25MnO3 and (La0.6Pr0.4)(0.67)Ca0.33MnO3	https://www.webofscience.com/wos/woscc/full-record/WOS:000419354400001
+Duration of Fecal Shedding of Shiga Toxin-Producing Escherichia coli O104:H4 in Patients Infected During the 2011 Outbreak in Germany: A Multicenter Study	https://www.webofscience.com/wos/woscc/full-record/WOS:000316700100015
 
-Enhancement of thermovoltage and tunnel magneto-Seebeck effect in CoFeB-based magnetic tunnel junctions by variation of the MgAl2O4 and MgO barrier thickness	https://www.webofscience.com/wos/woscc/full-record/WOS:000418653000007
+More reasons to dread rain on vacation? Dengue fever in 42 German and United Kingdom Madeira tourists during autumn 2012	https://www.webofscience.com/wos/woscc/full-record/WOS:000317095400003
 
-Large magneto-Seebeck effect in magnetic tunnel junctions with half-metallic Heusler electrodes	https://www.webofscience.com/wos/woscc/full-record/WOS:000415759900009
+Carrier Prevalence, Secondary Household Transmission, and Long-Term Shedding in 2 Districts During the Escherichia coli O104:H4 Outbreak in Germany, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000313216300010
 
-Terahertz Spin Currents and Inverse Spin Hall Effect in Thin-Film Heterostructures Containing Complex Magnetic Compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000412735800003
+Determining high-risk zones for unexploded World War II bombs by using point process methodology	https://www.webofscience.com/wos/woscc/full-record/WOS:000315332600003
 
-Magnetisation switching of FePt nanoparticle recording medium by femtosecond laser pulses	https://www.webofscience.com/wos/woscc/full-record/WOS:000404118700006
+Hepatitis E Virus Seroprevalence among Adults, Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000328172500018
 
-Analysis of the time-resolved magneto- optical Kerr effect for ultrafast magnetization dynamics in ferromagnetic thin films	https://www.webofscience.com/wos/woscc/full-record/WOS:000398071100001
+Risk factors for sporadic Yersinia enterocolitica infections, Germany 2009-2010	https://www.webofscience.com/wos/woscc/full-record/WOS:000308845100002
 
-Pumping laser excited spins through MgO barriers	https://www.webofscience.com/wos/woscc/full-record/WOS:000397498500001
+Ecological analysis of social risk factors for Rotavirus infections in Berlin, Germany, 2007-2009	https://www.webofscience.com/wos/woscc/full-record/WOS:000312994500001
 
-Light-Induced Metastable Magnetic Texture Uncovered by in situ Lorentz Microscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000396043900012
+A Space-Time Conditional Intensity Model for Invasive Meningococcal Disease Occurrence	https://www.webofscience.com/wos/woscc/full-record/WOS:000305691900030
 
-Spin-Current Manipulation of Photo-Induced Magnetization Dynamics in Heavy Metal/Ferromagnet Double Layer-Based Nanostructures	https://www.webofscience.com/wos/woscc/full-record/WOS:000413981300195
+German Outbreak of Escherichia coli O104:H4 Associated with Sprouts	https://www.webofscience.com/wos/woscc/full-record/WOS:000296762800005
 
-Magnetization dynamics in magnonic structures with different geometries: interfaces, notches and waveguides	https://www.webofscience.com/wos/woscc/full-record/WOS:000412504600001
+Assessment of varicella vaccine effectiveness in Germany: a time-series approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000296428300009
 
-Ultrafast photocurrents at the surface of the three-dimensional topological insulator Bi2Se3	https://www.webofscience.com/wos/woscc/full-record/WOS:000386501500001
+Prevalence of Antibodies to 2009 Pandemic Influenza A (H1N1) Virus in German Adult Population in Pre- and Post-Pandemic Period	https://www.webofscience.com/wos/woscc/full-record/WOS:000291983800043
 
-Preface to Special Topic: Cutting Edge Physics in Functional Materials	https://www.webofscience.com/wos/woscc/full-record/WOS:000386535400002
+Update on the ongoing outbreak of haemolytic uraemic syndrome due to Shiga toxin-producing Escherichia coli (STEC) serotype O104, Germany, May 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000291430300001
 
-Efficient metallic spintronic emitters of ultrabroadband terahertz radiation	https://www.webofscience.com/wos/woscc/full-record/WOS:000378839600015
+Large and ongoing outbreak of haemolytic uraemic syndrome, Germany, May 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000291055700001
 
-Comparison of laser-induced and intrinsic tunnel magneto-Seebeck effect in CoFeB/MgAl2O4 and CoFeB/MgO magnetic tunnel junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000378815800002
+Online Change-Point Detection in Categorical Time Series	https://www.webofscience.com/wos/woscc/full-record/WOS:000275129600020
 
-3D Micropillars Guide the Mechanobiology of Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes	https://www.webofscience.com/wos/woscc/full-record/WOS:000370004100005
+Additive-Multiplicative Regression Models for Spatio-Temporal Epidemics	https://www.webofscience.com/wos/woscc/full-record/WOS:000273507600006
 
-THz elastic dynamics in finite-size CoFeB-MgO phononic superlattices	https://www.webofscience.com/wos/woscc/full-record/WOS:000386535400018
+Statistical approaches to the monitoring and surveillance of infectious diseases for veterinary public health	https://www.webofscience.com/wos/woscc/full-record/WOS:000269033900002
 
-Confinement of phonon propagation in laser deposited tungsten/polycarbonate multilayers	https://www.webofscience.com/wos/woscc/full-record/WOS:000385685300001
+Accuracy assessment of digital elevation models by means of robust statistical methods	https://www.webofscience.com/wos/woscc/full-record/WOS:000268650200007
 
-Perspective: Ultrafast magnetism and THz spintronics	https://www.webofscience.com/wos/woscc/full-record/WOS:000386535400001
+Prevalence of spotted fever group rickettsiae in Ixodes ricinus (Acari : Ixodidae) in southern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000259099000018
 
-Coherent ultrafast spin-dynamics probed in three dimensional topological insulators	https://www.webofscience.com/wos/woscc/full-record/WOS:000363637700001
+Anaplasma phagocytophilum infection in Ixodes ricinus, Bavaria, Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000256465100022
 
-Comparison of the magneto-Peltier and magneto-Seebeck effects in magnetic tunnel junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000358600700001
+Modelling the spread in space and time of an airborne plant disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000255663200001
 

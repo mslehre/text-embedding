@@ -1,102 +1,102 @@
-Mario Stanke,1177820;
+Martin Schnittler,1421103;
 
-Global, highly specific and fast filtering of alignment seeds	https://www.webofscience.com/wos/woscc/full-record/WOS:000809346000003
+Two new species of Perichaena (Myxomycetes) from arid areas of Russia and Kazakhstan	https://www.webofscience.com/wos/woscc/full-record/WOS:000260436100015
 
-End-to-end learning of evolutionary models to find coding regions in genome alignments	https://www.webofscience.com/wos/woscc/full-record/WOS:000756788300001
+No sex at all? Extremely low genetic diversity in Gagea spathacea (Liliaceae) across Europe	https://www.webofscience.com/wos/woscc/full-record/WOS:000305878200007
 
-Co-evolution of Spies and Resistance Fighters	https://www.webofscience.com/wos/woscc/full-record/WOS:000873604200031
+Xerotolerant foliar endophytic fungi of Populus euphratica from the Tarim River basin, Central China are conspecific to endophytic ITS phylotypes of Populus tremula from temperate Europe	https://www.webofscience.com/wos/woscc/full-record/WOS:000303881300012
 
-TSEBRA: transcript selector for BRAKER	https://www.webofscience.com/wos/woscc/full-record/WOS:000722613300003
+18S rDNA Phylogeny of Lamproderma and Allied Genera (Stemonitales, Myxomycetes, Amoebozoa)	https://www.webofscience.com/wos/woscc/full-record/WOS:000305350600078
 
-A 20-kb lineage-specific genomic region tames virulence in pathogenic amphidiploid Verticillium longisporum	https://www.webofscience.com/wos/woscc/full-record/WOS:000647319700001
+New insights into the phylogeny and taxonomy of Chinese species of Gagea (Liliaceae)-speciation through hybridization	https://www.webofscience.com/wos/woscc/full-record/WOS:000299268500005
 
-The genomic basis of evolutionary differentiation among honey bees	https://www.webofscience.com/wos/woscc/full-record/WOS:000680055300007
+Myxomycetes in soil	https://www.webofscience.com/wos/woscc/full-record/WOS:000295745700004
 
-Application of YOLOv4 for Detection and Motion Monitoring of Red Foxes	https://www.webofscience.com/wos/woscc/full-record/WOS:000665400000001
+Flow cytometry confirms reticulate evolution and reveals triploidy in Central European Diphasiastrum taxa (Lycopodiaceae, Lycophyta)	https://www.webofscience.com/wos/woscc/full-record/WOS:000295167900007
 
-Pseudomonas Strains Induce Transcriptional and Morphological Changes and Reduce Root Colonization of Verticillium spp	https://www.webofscience.com/wos/woscc/full-record/WOS:000658317500001
+Characterization of Microsatellite Loci and Reliable Genotyping in a Polyploid Plant, Mercurialis perennis (Euphorbiaceae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000292130800012
 
-BRAKER2: automatic eukaryotic genome annotation with GeneMark-EP plus and AUGUSTUS supported by a protein database	https://www.webofscience.com/wos/woscc/full-record/WOS:000698594000004
+An empirical test of neighbourhood effect and safe-site effect in abandoned Mediterranean vineyards	https://www.webofscience.com/wos/woscc/full-record/WOS:000288767800004
 
-Enhanced genome assembly and a new official gene set for Tribolium castaneum	https://www.webofscience.com/wos/woscc/full-record/WOS:000521340000005
+Does sex make a difference? Genetic diversity and spatial genetic structure in two co-occurring species of Gagea (Liliaceae) with contrasting reproductive strategies	https://www.webofscience.com/wos/woscc/full-record/WOS:000288661500006
 
-VARUS: sampling complementary RNA reads from the sequence read archive	https://www.webofscience.com/wos/woscc/full-record/WOS:000496277900001
+Species abundance distributions and richness estimations in fungal metagenomics - lessons learned from community ecology	https://www.webofscience.com/wos/woscc/full-record/WOS:000285970200009
 
-Whole-Genome Annotation with BRAKER	https://www.webofscience.com/wos/woscc/full-record/WOS:000486995300006
+Genetic Structure of Two Protist Species (Myxogastria, Amoebozoa) Suggests Asexual Reproduction in Sexual Amoebae	https://www.webofscience.com/wos/woscc/full-record/WOS:000293511200024
 
-Multi-Genome Annotation with AUGUSTUS	https://www.webofscience.com/wos/woscc/full-record/WOS:000486995300009
+Species richness analysis and ITS rDNA phylogeny revealed the majority of cultivable foliar endophytes from beech (Fagus sylvatica)	https://www.webofscience.com/wos/woscc/full-record/WOS:000283695900013
 
-Effects of adult temperature on gene expression in a butterfly: identifying pathways associated with thermal acclimation	https://www.webofscience.com/wos/woscc/full-record/WOS:000456525800001
+Consequences of genotyping errors for estimation of clonality: a case study on Populus euphratica Oliv. (Salicaceae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000287599900011
 
-Sixteen diverse laboratory mouse reference genomes define strain-specific haplotypes and novel functional loci	https://www.webofscience.com/wos/woscc/full-record/WOS:000448398000013
+Ecology of sandstone ravine myxomycetes from Saxonian Switzerland (Germany)	https://www.webofscience.com/wos/woscc/full-record/WOS:000278535700001
 
-Exome Sequencing Discloses Ionizing-radiation-induced DNA Variants in the Genome of Human Gingiva Fibroblasts	https://www.webofscience.com/wos/woscc/full-record/WOS:000434256100018
+Myxomycete diversity of the Altay Mountains (southwestern Siberia, Russia)	https://www.webofscience.com/wos/woscc/full-record/WOS:000276498100012
 
-Repeat associated mechanisms of genome evolution and function revealed by the &ITMus caroli&IT and &ITMus pahari&IT genomes	https://www.webofscience.com/wos/woscc/full-record/WOS:000428993500003
+Aquatic protostelids – a study from northeastern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000267477900005
 
-Comparative Genome Annotation	https://www.webofscience.com/wos/woscc/full-record/WOS:000432825900007
+Dilution-to-extinction cultivation of leaf-inhabiting endophytic fungi in beech (Fagus sylvatica L.) – Different cultivation techniques influence fungal biodiversity assessment	https://www.webofscience.com/wos/woscc/full-record/WOS:000266473900013
 
-Comparative Annotation Toolkit (CAT)-simultaneous clade and personal genome annotation	https://www.webofscience.com/wos/woscc/full-record/WOS:000437225800010
+Bulbils contra seeds: reproductive investment in two species of Gagea (Liliaceae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000265775000004
 
-Matching phenotypes to whole genomes: Lessons learned from four iterations of the personal genome project community challenges	https://www.webofscience.com/wos/woscc/full-record/WOS:000407861100023
+Root suckering patterns in Populus euphratica (Euphrates poplar, Salicaceae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000269384200011
 
-The house spider genome reveals an ancient whole-genome duplication during arachnid evolution	https://www.webofscience.com/wos/woscc/full-record/WOS:000406537400001
+Microhabitat and niche separation in species of Ceratiomyxa	https://www.webofscience.com/wos/woscc/full-record/WOS:000262185400003
 
-House spider genome uncovers evolutionary shifts in the diversity and expression of black widow venom proteins associated with extreme toxicity	https://www.webofscience.com/wos/woscc/full-record/WOS:000394418200005
+A habitat colonisation model for spore-dispersed organisms—Does it work with eumycetozoans?	https://www.webofscience.com/wos/woscc/full-record/WOS:000257532600008
 
-Wild tobacco genomes reveal the evolution of nicotine biosynthesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000402703800084
+Application of species richness estimators for the assessment of fungal diversity	https://www.webofscience.com/wos/woscc/full-record/WOS:000255137900008
 
-Simultaneous gene finding in multiple genomes	https://www.webofscience.com/wos/woscc/full-record/WOS:000392748700003
+Structure, reproduction and flood-induced dynamics of riparian Tugai forests at the Tarim River in xinjiang, NW China	https://www.webofscience.com/wos/woscc/full-record/WOS:000254471200004
 
-BRAKER1: Unsupervised RNA-Seq-Based Genome Annotation with GeneMark-ET and AUGUSTUS	https://www.webofscience.com/wos/woscc/full-record/WOS:000371693900017
+Myxomycete diversity and distribution from the fossil record to the present	https://www.webofscience.com/wos/woscc/full-record/WOS:000252689400005
 
-Large scale RNAi screen in Tribolium reveals novel target genes for pest control and the proteasome as prime target	https://www.webofscience.com/wos/woscc/full-record/WOS:000360607100014
+Myxomycete diversity and distribution from the fossil record to the present	https://www.webofscience.com/wos/woscc/full-record/WOS:000252689400005
 
-The iBeetle large-scale RNAi screen reveals gene functions for insect development and physiology	https://www.webofscience.com/wos/woscc/full-record/WOS:000358860900002
+Myxomycete diversity and ecology in arid regions of the Great Lake Basin of western Mongolia	https://www.webofscience.com/wos/woscc/full-record/WOS:000258548800008
 
-Current methods for automated annotation of protein-coding genes	https://www.webofscience.com/wos/woscc/full-record/WOS:000369016700004
+Sedimentation velocity of myxomycete spores	https://www.webofscience.com/wos/woscc/full-record/WOS:000253284500003
 
-Combining features in a graphical model to predict protein binding sites	https://www.webofscience.com/wos/woscc/full-record/WOS:000353060900007
+Myxomycete diversity and ecology in the arid regions of the Lower Volga River Basin (Russia)	https://www.webofscience.com/wos/woscc/full-record/WOS:000243414100011
 
-The Chlamydomonas genome project: a decade on	https://www.webofscience.com/wos/woscc/full-record/WOS:000343359900011
+Species richness and ecological characterization of myxomycetes and myxomycete-like organisms in the canopy of a temperate deciduous forest	https://www.webofscience.com/wos/woscc/full-record/WOS:000239320100007
 
-CRF-based models of protein surfaces improve protein-protein interaction site predictions	https://www.webofscience.com/wos/woscc/full-record/WOS:000341198600001
+Agamospermous seed production of the invasive tussock grass Nardus stricta L. (Poaceae) in New Zealand – evidence from pollination experiments	https://www.webofscience.com/wos/woscc/full-record/WOS:000235777300007
 
-Verticillium transcription activator of adhesion Vta2 suppresses microsclerotia formation and is required for systemic infection of plant roots	https://www.webofscience.com/wos/woscc/full-record/WOS:000333060500027
+Invasion ecology of the alien tussock grass Nardus stricta (Poaceae) at Lake Pukaki, Canterbury, New Zealand	https://www.webofscience.com/wos/woscc/full-record/WOS:000232743900001
 
-Finding the missing honey bee genes: lessons learned from a genome upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000331116900002
+Synecology of myxomycetes in desert of the northwestern Caspian Lowland	https://www.webofscience.com/wos/woscc/full-record/WOS:000232219600006
 
-Tissue-specific transcriptomics, chromosomal localization, and phylogeny of chemosensory and odorant binding proteins from the red flour beetle Tribolium castaneum reveal subgroup specificities for olfaction or more general functions	https://www.webofscience.com/wos/woscc/full-record/WOS:000347728600001
+Ecological Characterization of a Tropical Myxomycete Assemblage: Maquipucuna Cloud Forest Reserve, Ecuador	https://www.webofscience.com/wos/woscc/full-record/WOS:000222022000007
 
-ClassyFlu: Classification of Influenza A Viruses with Discriminatively Trained Profile-HMMs	https://www.webofscience.com/wos/woscc/full-record/WOS:000329460800052
+Species of Anthracoidea (Ustilaginales, Basidiomycota) on Cyperaceae in Arctic Europe	https://www.webofscience.com/wos/woscc/full-record/WOS:000183321800005
 
-WebAUGUSTUS-a web service for training AUGUSTUS and predicting genes in eukaryotes	https://www.webofscience.com/wos/woscc/full-record/WOS:000323603200020
+Biodiversity assessment of myxomycetes from two tropical forest reserves in Mexico	https://www.webofscience.com/wos/woscc/full-record/WOS:000181503800007
 
-Gene Transfer from Bacteria and Archaea Facilitated Evolution of an Extremophilic Eukaryote	https://www.webofscience.com/wos/woscc/full-record/WOS:000315709900048
+An annotated checklist of the Myxomycetes of the northwestern Caspian lowland	https://www.webofscience.com/wos/woscc/full-record/WOS:000189359400007
 
-jpHMM: recombination analysis in viruses with circular genomes such as the hepatitis B virus	https://www.webofscience.com/wos/woscc/full-record/WOS:000306670900031
+Distribution and ecology of myxomycetes in the forests of Yucatan	https://www.webofscience.com/wos/woscc/full-record/WOS:000186576700012
 
-Genome sequencing of the lizard parasite Leishmania tarentolae reveals loss of genes associated to the intracellular stage of human pathogenic species	https://www.webofscience.com/wos/woscc/full-record/WOS:000300422400025
+Inflorescences of Neotropical Herbs as a Newly Discovered Microhabitat for Myxomycetes	https://www.webofscience.com/wos/woscc/full-record/WOS:000173697600002
 
-Design of a tobacco exon array with application to investigate the differential cadmium accumulation property in two tobacco varieties	https://www.webofscience.com/wos/woscc/full-record/WOS:000316400200001
+Biosystematics of the myxomycete Arcyria cinerea	https://www.webofscience.com/wos/woscc/full-record/WOS:000177167900023
 
-Concerted action of the new Genomic Peptide Finder and AUGUSTUS allows for automated proteogenomic annotation of the Chlamydomonas reinhardtii genome	https://www.webofscience.com/wos/woscc/full-record/WOS:000290051000021
+Rapid biodiversity assessment of a tropical myxomycete assemblage - Maquipucuna Cloud Forest Reserve, Ecuador	https://www.webofscience.com/wos/woscc/full-record/WOS:000174741600010
 
-A novel hybrid gene prediction method employing protein multiple sequence alignments	https://www.webofscience.com/wos/woscc/full-record/WOS:000288277300003
+Ecology of Myxomycetes of a Winter-Cold Desert in Western Kazakhstan	https://www.webofscience.com/wos/woscc/full-record/WOS:000170100100005
 
-Detection of viral sequence fragments of HIV-1 subfamilies yet unknown	https://www.webofscience.com/wos/woscc/full-record/WOS:000290144300001
+Myxomycetes from different forest types in Puerto Rico	https://www.webofscience.com/wos/woscc/full-record/WOS:000167961400022
 
-Sequencing of Culex quinquefasciatus Establishes a Platform for Mosquito Comparative Genomics	https://www.webofscience.com/wos/woscc/full-record/WOS:000282334500040
+Foliicolous liverworts as a microhabitat for Neotropical Myxomycetes	https://www.webofscience.com/wos/woscc/full-record/WOS:000167417200013
 
-Draft genome sequence of the oilseed species Ricinus communis	https://www.webofscience.com/wos/woscc/full-record/WOS:000281719100021
+Myxomycetes of the Great Smoky Mountains National Park	https://www.webofscience.com/wos/woscc/full-record/WOS:000169237400001
 
-The Amphimedon queenslandica genome and the evolution of animal complexity	https://www.webofscience.com/wos/woscc/full-record/WOS:000280562500031
+Ecology and world distribution of Barbeyella minutissima (Myxomycetes)	https://www.webofscience.com/wos/woscc/full-record/WOS:000166481700018
 
-Insights into evolution of multicellular fungi from the assembled chromosomes of the mushroom Coprinopsis cinerea (Coprinus cinereus)	https://www.webofscience.com/wos/woscc/full-record/WOS:000279332300043
+Myxomycete Biodiversity in Four Different Forest Types in Costa Rica	https://www.webofscience.com/wos/woscc/full-record/WOS:000088424000004
 
-HIV classification using the coalescent theory	https://www.webofscience.com/wos/woscc/full-record/WOS:000277985500004
+Distribution and ecology of myxomycetes in high-latitude regions of the Northern Hemisphere	https://www.webofscience.com/wos/woscc/full-record/WOS:000166179900014
 
-Genome Sequence of the Pea Aphid Acyrthosiphon pisum	https://www.webofscience.com/wos/woscc/full-record/WOS:000275257300009
+Myxomycetes of the winter-cold desert in western Kazakhstan	https://www.webofscience.com/wos/woscc/full-record/WOS:000087025200002
 
-Functional and Evolutionary Insights from the Genomes of Three Parasitoid Nasonia Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000273629700047
+Central European vascular plants requiring priority conservation measures - an analysis from national Red Lists and distribution maps	https://www.webofscience.com/wos/woscc/full-record/WOS:000081678800002
 

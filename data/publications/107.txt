@@ -1,102 +1,102 @@
-Sebastian van der Linden,840206;
+Sven Hammerschmidt,827774;
 
-High-resolution data and maps of material stock, population, and employment in Austria from 1985 to 2018	https://www.webofscience.com/wos/woscc/full-record/WOS:000953114600001
+Impact of Pneumococcal and Viral Pneumonia on the Respiratory and Intestinal Tract Microbiomes of Mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000960150700001
 
-High-resolution mapping of 33 years of material stock and population growth in Germany using Earth Observation data	https://www.webofscience.com/wos/woscc/full-record/WOS:000871443300001
+Competence remodels the pneumococcal cell wall exposing key surface virulence factors that mediate increased host adherence	https://www.webofscience.com/wos/woscc/full-record/WOS:000934657800001
 
-Saving soil carbon, greenhouse gas emissions, biodiversity and the economy: paludiculture as sustainable land use option in German fen peatlands	https://www.webofscience.com/wos/woscc/full-record/WOS:000793171700002
+Specific associations between fungi and bacteria in broncho-alveolar aspirates from mechanically ventilated intensive care unit patients	https://www.webofscience.com/wos/woscc/full-record/WOS:000889159600001
 
-Revisiting the Past: Replicability of a Historic Long-Term Vegetation Dynamics Assessment in the Era of Big Data Analytics	https://www.webofscience.com/wos/woscc/full-record/WOS:000754849500001
+Antimicrobial Activity of Peptide-Coupled Antisense Peptide Nucleic Acids in Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000887979400001
 
-Rewetting does not return drained fen peatlands to their old selves	https://www.webofscience.com/wos/woscc/full-record/WOS:000704007700003
+Cytokine Profiling in Influenza A Virus and Staphylococcal (Co-)Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000901813100005
 
-Multi-season unmixing of vegetation class fractions across diverse Californian ecoregions using simulated spaceborne imaging spectroscopy data	https://www.webofscience.com/wos/woscc/full-record/WOS:000688451300005
+Molecular Characterization and Antibiotic Susceptibility of Non-PCV13 Pneumococcal Serotypes among Vaccinated Children in Cape Coast, Ghana	https://www.webofscience.com/wos/woscc/full-record/WOS:000872856900001
 
-Combining simulated hyperspectral EnMAP and Landsat time series for forest aboveground biomass mapping	https://www.webofscience.com/wos/woscc/full-record/WOS:000632601300002
+Editorial: Transmission, colonization, and molecular pathogenesis of pneumococcus	https://www.webofscience.com/wos/woscc/full-record/WOS:000861683800001
 
-Gridded population mapping for Germany based on building density, height and type from Earth Observation data using census disaggregation and bottom-up estimates	https://www.webofscience.com/wos/woscc/full-record/WOS:000634833500011
+Competence remodels the pneumococcal cell wall providing resistance to fratricide and surface exposing key virulence factors	https://www.webofscience.com/wos/pprn/full-record/PPRN:11901477
 
-High-Resolution Maps of Material Stocks in Buildings and Infrastructures in Austria and Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000626270400067
+The choline-binding proteins PspA, PspC and LytA of Streptococcus pneumoniae and their role on host cellular adhesion and damage	https://www.webofscience.com/wos/pprn/full-record/PPRN:10261583
 
-National-scale mapping of building height using Sentinel-1 and Sentinel-2 time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000595878500003
+Polyvalent Immunoglobulin Preparations Inhibit Pneumolysin-Induced Platelet Destruction	https://www.webofscience.com/wos/woscc/full-record/WOS:000841945200008
 
-Green growth? On the relation between population density, land use and vegetation cover fractions in a city using a 30-years Landsat time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000568996500006
+Real-World Efficacy of Nintedanib Plus Docetaxel After Progression on Immune Checkpoint Inhibitors: Results From the Ongoing, Non-interventional VARGADO Study	https://www.webofscience.com/wos/woscc/full-record/WOS:000844045900023
 
-Mapping urban-rural gradients of settlements and vegetation at national scale using Sentinel-2 spectral-temporal metrics and regression-based unmixing with synthetic training data	https://www.webofscience.com/wos/woscc/full-record/WOS:000537691800005
+Bioactive lipid screening during respiratory tract infections with bacterial and viral pathogens in mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000809348100001
 
-Disentangling fractional vegetation cover: Regression-based unmixing of simulated spaceborne imaging spectroscopy data	https://www.webofscience.com/wos/woscc/full-record/WOS:000537691800016
+alpha-hemolysin of Staphylococcus aureus impairs thrombus formation	https://www.webofscience.com/wos/woscc/full-record/WOS:000773625000001
 
-A generalized regression-based unmixing model for mapping forest cover fractions throughout three decades of Landsat data	https://www.webofscience.com/wos/woscc/full-record/WOS:000523955300002
+Group B Streptococcal Hemolytic Pigment Impairs Platelet Function in a Two-Step Process	https://www.webofscience.com/wos/woscc/full-record/WOS:000801344800001
 
-Visualizing and labeling dense multi-sensor earth observation time series: The EO Time Series Viewer	https://www.webofscience.com/wos/woscc/full-record/WOS:000513927700017
+Hydrogen Peroxide Is Crucial for NLRP3 Inflammasome-Mediated IL-1 beta Production and Cell Death in Pneumococcal Infections of Bronchial Epithelial Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000684286700001
 
-Brightness gradient-corrected hyperspectral image mosaics for fractional vegetation cover mapping in northern California	https://www.webofscience.com/wos/woscc/full-record/WOS:000492790000001
+Platelets, Bacterial Adhesins and the Pneumococcus	https://www.webofscience.com/wos/woscc/full-record/WOS:000781377700001
 
-Comparing map-based and library-based training approaches for urban land-cover fraction mapping from Sentinel-2 imagery	https://www.webofscience.com/wos/woscc/full-record/WOS:000463131700026
+Streptococcus pneumoniae Affects Endothelial Cell Migration in Microfluidic Circulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000790187100001
 
-Imaging Spectroscopy of Urban Environments	https://www.webofscience.com/wos/woscc/full-record/WOS:000468286300007
+Streptococcus pneumoniae and Influenza A Virus Co-Infection Induces Altered Polyubiquitination in A549 Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000766967100001
 
-Make EU trade with Brazil sustainable	https://www.webofscience.com/wos/woscc/full-record/WOS:000465643400032
+Molecular Epidemiology of Multidrug-Resistant Pneumococci among Ghanaian Children under Five Years Post PCV13 Using MLST	https://www.webofscience.com/wos/woscc/full-record/WOS:000762720800001
 
-Characterizing 32 years of shrub cover dynamics in southern Portugal using annual Landsat composites and machine learning regression modeling	https://www.webofscience.com/wos/woscc/full-record/WOS:000450379200026
+A semisynthetic glycoconjugate provides expanded cross-serotype protection against Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000750903800011
 
-From sample to pixel: multi-scale remote sensing data for upscaling aboveground carbon data in heterogeneous landscapes	https://www.webofscience.com/wos/woscc/full-record/WOS:000448271400001
+The global proteome and ubiquitinome of bacterial and viral co-infected bronchial epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000710228300006
 
-Mapping patterns of urban development in Ouagadougou, Burkina Faso, using machine learning regression modeling with bi-seasonal Landsat time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000431164300016
+Super-resolution microscopy to decipher the subcellular localization of complement regulatory proteins at the surface of Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000773913400215
 
-Mapping fractional woody cover in semi-arid savannahs using multi-seasonal composites from Landsat data	https://www.webofscience.com/wos/woscc/full-record/WOS:000431160100007
+Role of C5b-9 on Streptococcus pneumoniae-induced hemolytic uremic syndrome (Sp-HUS)	https://www.webofscience.com/wos/woscc/full-record/WOS:000773913400197
 
-Mapping pasture management in the Brazilian Amazon from dense Landsat time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000423007700033
+Streptococcus pneumoniae diverse surface proteins act as guards against complement attack	https://www.webofscience.com/wos/woscc/full-record/WOS:000773913400209
 
-Generalizing machine learning regression models using multi-site spectral libraries for mapping vegetation-impervious-soil fractions across multiple cities	https://www.webofscience.com/wos/woscc/full-record/WOS:000445990100034
+Streptococcus pneumoniae Impairs Maturation of Human Dendritic Cells and Consequent Activation of CD4(+) T Cells via Pneumolysin	https://www.webofscience.com/wos/woscc/full-record/WOS:000783920100001
 
-Generalizing machine learning regression models using multi-site spectral libraries for mapping vegetation-impervious-soil fractions across multiple cities	https://www.webofscience.com/wos/woscc/full-record/WOS:000445990100034
+Procoagulant Activity of Blood and Microvesicles Is Disturbed by Pneumococcal Pneumolysin, Which Interacts with Coagulation Factors	https://www.webofscience.com/wos/woscc/full-record/WOS:000829897700001
 
-Influence of neighbourhood information on 'Local Climate Zone' mapping in heterogeneous cities	https://www.webofscience.com/wos/woscc/full-record/WOS:000408787100010
+Bronchial Epithelial Cells Accumulate Citrate Intracellularly in Response to Pneumococcal Hydrogen Peroxide	https://www.webofscience.com/wos/woscc/full-record/WOS:000719871200005
 
-A Novel Spectral Library Pruning Technique for Spectral Unmixing of Urban Land Cover	https://www.webofscience.com/wos/woscc/full-record/WOS:000404623900056
+Pneumococcal Extracellular Serine Proteases: Molecular Analysis and Impact on Colonization and Disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000719853800001
 
-Ensemble Learning From Synthetically Mixed Training Data for Quantifying Urban Land Cover With Support Vector Regression	https://www.webofscience.com/wos/woscc/full-record/WOS:000398948400032
+Innate immune responses at the asymptomatic stage of influenza A viral infections of Streptococcus pneumoniae colonized and non-colonized mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000741362900006
 
-Thermal evaluation of the Local Climate Zone scheme in Belgium	https://www.webofscience.com/wos/woscc/full-record/WOS:000406006100027
+Factors Associated with Streptococcus pneumoniae Nasopharyngeal Carriage and Antimicrobial Susceptibility among Children Under the Age of 5 Years in the Southwestern Colombia	https://www.webofscience.com/wos/woscc/full-record/WOS:000666628400004
 
-Optimizing mixed spectra generation for regression-based unmixing of land cover in urban areas	https://www.webofscience.com/wos/woscc/full-record/WOS:000406006100025
+A semisynthetic glycoconjugate provides expanded cross-serotype protection against Streptococcus pneumoniae	https://www.webofscience.com/wos/pprn/full-record/PPRN:14788543
 
-Optical trait indicators for remote sensing of plant species composition: Predictive power and seasonal variability	https://www.webofscience.com/wos/woscc/full-record/WOS:000398334400081
+The Two-Component System 09 of Streptococcus pneumoniae Is Important for Metabolic Fitness and Resistance during Dissemination in the Host	https://www.webofscience.com/wos/woscc/full-record/WOS:000676504300001
 
-Use of multispectral satellite imagery and hyperspectral endmember libraries for urban land cover mapping at the metropolitan scale	https://www.webofscience.com/wos/woscc/full-record/WOS:000391362900017
+Sputum Proteome Signatures of Mechanically Ventilated Intensive Care Unit Patients Distinguish Samples with or without Anti-pneumococcal Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000632673500005
 
-Spectral unmixing of urban land cover using a generic library approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000391362900018
+The Two-Component System 09 Regulates Pneumococcal Carbohydrate Metabolism and Capsule Expression	https://www.webofscience.com/wos/woscc/full-record/WOS:000633900800001
 
-ON THE USE OF COLLABORATIVE SPARSE REGRESSION IN HYPERSPECTRAL UNMIXING CHAINS	https://www.webofscience.com/wos/woscc/full-record/WOS:000428980100029
+Extracellular Pneumococcal Serine Proteases Affect Nasopharyngeal Colonization	https://www.webofscience.com/wos/woscc/full-record/WOS:000623207600001
 
-Monitoring Natural Ecosystem and Ecological Gradients: Perspectives with EnMAP	https://www.webofscience.com/wos/woscc/full-record/WOS:000364328600022
+Crystal Structure and Pathophysiological Role of the Pneumococcal Nucleoside-binding Protein PnrA	https://www.webofscience.com/wos/woscc/full-record/WOS:000606810600007
 
-The EnMAP-Box-A Toolbox and Application Programming Interface for EnMAP Data Processing	https://www.webofscience.com/wos/woscc/full-record/WOS:000362511400012
+Molecular analyses identifies new domains and structural differences among Streptococcus pneumoniae immune evasion proteins PspC and Hic	https://www.webofscience.com/wos/woscc/full-record/WOS:000639435500016
 
-Using Class Probabilities to Map Gradual Transitions in Shrub Vegetation from Simulated EnMAP Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000360818800054
+Pneumolysin induces platelet destruction, not platelet activation, which can be prevented by immunoglobulin preparations in vitro	https://www.webofscience.com/wos/woscc/full-record/WOS:000602609500025
 
-The EnMAP Spaceborne Imaging Spectroscopy Mission for Earth Observation	https://www.webofscience.com/wos/woscc/full-record/WOS:000360919900026
+The Role of NLRP3 Inflammasome in Pneumococcal Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000602633500001
 
-Mapping beta diversity from space: Sparse Generalised Dissimilarity Modelling (SGDM) for analysing high-dimensional data	https://www.webofscience.com/wos/woscc/full-record/WOS:000358083200003
+Post-Vaccination Streptococcus pneumoniae Carriage and Virulence Gene Distribution among Children Less Than Five Years of Age, Cape Coast, Ghana	https://www.webofscience.com/wos/woscc/full-record/WOS:000602522800001
 
-Analyzing Hyperspectral and Hypertemporal Data by Decoupling Feature Redundancy and Feature Relevance	https://www.webofscience.com/wos/woscc/full-record/WOS:000351412200013
+Adenosine Triphosphate Neutralizes Pneumolysin-Induced Neutrophil Activation	https://www.webofscience.com/wos/woscc/full-record/WOS:000605980300020
 
-Extending the vegetation-impervious-soil model using simulated EnMAP data and machine learning	https://www.webofscience.com/wos/woscc/full-record/WOS:000348879100006
+Proteomic Adaptation of Streptococcus pneumoniae to the Antimicrobial Peptide Human Beta Defensin 3 (hBD3) in Comparison to Other Cell Surface Stresses	https://www.webofscience.com/wos/woscc/full-record/WOS:000594031300001
 
-Mapping land cover in complex Mediterranean landscapes using Landsat: Improved classification accuracies from integrating multi-seasonal and synthetic imagery	https://www.webofscience.com/wos/woscc/full-record/WOS:000347579900043
+Relationships among streptococci from the mitis group, misidentified as Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000532893300001
 
-Time Series Analyses in a New Era of Optical Satellite Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000375103900003
+A Giant Extracellular Matrix Binding Protein of Staphylococcus epidermidis Binds Surface-Immobilized Fibronectin via a Novel Mechanism	https://www.webofscience.com/wos/woscc/full-record/WOS:000579503600019
 
-A Comparison of Advanced Regression Algorithms for Quantifying Urban Land Cover	https://www.webofscience.com/wos/woscc/full-record/WOS:000340038700020
+HIF-1 alpha is involved in blood-brain barrier dysfunction and paracellular migration of bacteria in pneumococcal meningitis	https://www.webofscience.com/wos/woscc/full-record/WOS:000539909100001
 
-Import Vector Machines for Quantitative Analysis of Hyperspectral Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000332181200015
+Lipidation of Pneumococcal Antigens Leads to Improved Immunogenicity and Protection	https://www.webofscience.com/wos/woscc/full-record/WOS:000550920200001
 
-Support vector regression and synthetically mixed training data for quantifying urban land cover	https://www.webofscience.com/wos/woscc/full-record/WOS:000324156600016
+Activated platelets kill Staphylococcus aureus, but not Streptococcus pneumoniae-The role of Fc gamma RIIa and platelet factor 4/heparinantibodies	https://www.webofscience.com/wos/woscc/full-record/WOS:000528210300001
 
-Mapping Rubber Plantations and Natural Forests in Xishuangbanna (Southwest China) Using Multi-Spectral Phenological Metrics from MODIS Time Series	https://www.webofscience.com/wos/woscc/full-record/WOS:000320771100011
+Comprehensive Spectral Library from the Pathogenic Bacterium Streptococcus pneumoniae with Focus on Phosphoproteins	https://www.webofscience.com/wos/woscc/full-record/WOS:000526337800008
 
-A Pixel-Based Landsat Compositing Algorithm for Large Area Land Cover Mapping	https://www.webofscience.com/wos/woscc/full-record/WOS:000325757300003
+Proteomic Adaptation of Streptococcus pneumoniae to the Human Antimicrobial Peptide LL-37	https://www.webofscience.com/wos/woscc/full-record/WOS:000525952700101
 
-Using MODIS time series and random forests classification for mapping land use in South-East Asia	https://www.webofscience.com/wos/woscc/full-record/WOS:000313189406176
+Association of proteome and metabolome signatures with severity in patients with community-acquired pneumonia	https://www.webofscience.com/wos/woscc/full-record/WOS:000514253100005
 

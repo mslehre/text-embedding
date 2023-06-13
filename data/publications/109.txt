@@ -1,102 +1,102 @@
-Sven Hammerschmidt,827774;
+Thomas Schweder,30245214;
 
-Impact of Pneumococcal and Viral Pneumonia on the Respiratory and Intestinal Tract Microbiomes of Mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000960150700001
+Unique alcohol dehydrogenases involved in algal sugar utilization by marine bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000946036300001
 
-Competence remodels the pneumococcal cell wall exposing key surface virulence factors that mediate increased host adherence	https://www.webofscience.com/wos/woscc/full-record/WOS:000934657800001
+Novel Plant-Associated Brevibacillus and Lysinibacillus Genomospecies Harbor a Rich Biosynthetic Potential of Antimicrobial Compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000918358100001
 
-Specific associations between fungi and bacteria in broncho-alveolar aspirates from mechanically ventilated intensive care unit patients	https://www.webofscience.com/wos/woscc/full-record/WOS:000889159600001
+Marine bacteroidetes use a conserved enzymatic cascade to digest diatom beta-mannan	https://www.webofscience.com/wos/woscc/full-record/WOS:000886191300001
 
-Antimicrobial Activity of Peptide-Coupled Antisense Peptide Nucleic Acids in Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000887979400001
+Metabolic engineering enables Bacillus licheniformis to grow on the marine polysaccharide ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000865769500001
 
-Cytokine Profiling in Influenza A Virus and Staphylococcal (Co-)Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000901813100005
+A host-vector toolbox for improved secretory protein overproduction in Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000823666800002
 
-Molecular Characterization and Antibiotic Susceptibility of Non-PCV13 Pneumococcal Serotypes among Vaccinated Children in Cape Coast, Ghana	https://www.webofscience.com/wos/woscc/full-record/WOS:000872856900001
+Connecting Algal Polysaccharide Degradation to Formaldehyde Detoxification	https://www.webofscience.com/wos/woscc/full-record/WOS:000814837100001
 
-Editorial: Transmission, colonization, and molecular pathogenesis of pneumococcus	https://www.webofscience.com/wos/woscc/full-record/WOS:000861683800001
+Methanosaeta and "Candidatus Velamenicoccus archaeovorus"	https://www.webofscience.com/wos/woscc/full-record/WOS:000782461400045
 
-Competence remodels the pneumococcal cell wall providing resistance to fratricide and surface exposing key virulence factors	https://www.webofscience.com/wos/pprn/full-record/PPRN:11901477
+Diverse events have transferred genes for edible seaweed digestion from marine to human gut bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000772209900010
 
-The choline-binding proteins PspA, PspC and LytA of Streptococcus pneumoniae and their role on host cellular adhesion and damage	https://www.webofscience.com/wos/pprn/full-record/PPRN:10261583
+Genome sequence data of Bacillus velezensis BP1.2A and BT2.4	https://www.webofscience.com/wos/woscc/full-record/WOS:000778990600025
 
-Polyvalent Immunoglobulin Preparations Inhibit Pneumolysin-Induced Platelet Destruction	https://www.webofscience.com/wos/woscc/full-record/WOS:000841945200008
+A new carbohydrate-active oligosaccharide dehydratase is involved in the degradation of ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000713100100013
 
-Real-World Efficacy of Nintedanib Plus Docetaxel After Progression on Immune Checkpoint Inhibitors: Results From the Ongoing, Non-interventional VARGADO Study	https://www.webofscience.com/wos/woscc/full-record/WOS:000844045900023
+Biotransformation of bisphenol a analogues by the biphenyl-degrading bacterium Cupriavidus basilensis - a structure-biotransformation relationship (vol 104, pg 3569, 2020)	https://www.webofscience.com/wos/woscc/full-record/WOS:000673871800002
 
-Bioactive lipid screening during respiratory tract infections with bacterial and viral pathogens in mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000809348100001
+Reaching out in anticipation: bacterial membrane extensions represent a permanent investment in polysaccharide sensing and utilization	https://www.webofscience.com/wos/woscc/full-record/WOS:000648032100001
 
-alpha-hemolysin of Staphylococcus aureus impairs thrombus formation	https://www.webofscience.com/wos/woscc/full-record/WOS:000773625000001
+Genomic and proteomic profiles of biofilms on microplastics are decoupled from artificial surface properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000647845600001
 
-Group B Streptococcal Hemolytic Pigment Impairs Platelet Function in a Two-Step Process	https://www.webofscience.com/wos/woscc/full-record/WOS:000801344800001
+Changing expression patterns of TonB-dependent transporters suggest shifts in polysaccharide consumption over the course of a spring phytoplankton bloom	https://www.webofscience.com/wos/woscc/full-record/WOS:000623737300004
 
-Hydrogen Peroxide Is Crucial for NLRP3 Inflammasome-Mediated IL-1 beta Production and Cell Death in Pneumococcal Infections of Bronchial Epithelial Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000684286700001
+Diatom fucan polysaccharide precipitates carbon during algal blooms	https://www.webofscience.com/wos/woscc/full-record/WOS:000621486400005
 
-Platelets, Bacterial Adhesins and the Pneumococcus	https://www.webofscience.com/wos/woscc/full-record/WOS:000781377700001
+Bacterial symbiont subpopulations have different roles in a deep-sea symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000606821500001
 
-Streptococcus pneumoniae Affects Endothelial Cell Migration in Microfluidic Circulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000790187100001
+Draft Genome Sequences of 59 Endospore-Forming Gram-Positive Bacteria Associated with Crop Plants Grown in Vietnam	https://www.webofscience.com/wos/woscc/full-record/WOS:000593943400022
 
-Streptococcus pneumoniae and Influenza A Virus Co-Infection Induces Altered Polyubiquitination in A549 Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000766967100001
+Verrucomicrobia use hundreds of enzymes to digest the algal polysaccharide fucoidan	https://www.webofscience.com/wos/woscc/full-record/WOS:000535444800003
 
-Molecular Epidemiology of Multidrug-Resistant Pneumococci among Ghanaian Children under Five Years Post PCV13 Using MLST	https://www.webofscience.com/wos/woscc/full-record/WOS:000762720800001
+Biotransformation of bisphenol A analogues by the biphenyl-degrading bacterium Cupriavidusbasilensis - a structure-biotransformation relationship	https://www.webofscience.com/wos/woscc/full-record/WOS:000518077800004
 
-A semisynthetic glycoconjugate provides expanded cross-serotype protection against Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000750903800011
+Comparative proteomics of related symbiotic mussel species reveals high variability of host-symbiont interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000509197100026
 
-The global proteome and ubiquitinome of bacterial and viral co-infected bronchial epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000710228300006
+Host-Microbe Interactions in the Chemosynthetic Riftia pachyptila Symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000507988700006
 
-Super-resolution microscopy to decipher the subcellular localization of complement regulatory proteins at the surface of Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000773913400215
+In marine Bacteroidetes the bulk of glycan degradation during algae blooms is mediated by few clades using a restricted set of genes	https://www.webofscience.com/wos/woscc/full-record/WOS:000490275400015
 
-Role of C5b-9 on Streptococcus pneumoniae-induced hemolytic uremic syndrome (Sp-HUS)	https://www.webofscience.com/wos/woscc/full-record/WOS:000773913400197
+Biopearling of Interconnected Outer Membrane Vesicle Chains by a Marine Flavobacterium	https://www.webofscience.com/wos/woscc/full-record/WOS:000488849800005
 
-Streptococcus pneumoniae diverse surface proteins act as guards against complement attack	https://www.webofscience.com/wos/woscc/full-record/WOS:000773913400209
+Individual Physiological Adaptations Enable Selected Bacterial Taxa To Prevail during Long-Term Incubations	https://www.webofscience.com/wos/woscc/full-record/WOS:000478565000021
 
-Streptococcus pneumoniae Impairs Maturation of Human Dendritic Cells and Consequent Activation of CD4(+) T Cells via Pneumolysin	https://www.webofscience.com/wos/woscc/full-record/WOS:000783920100001
+A marine bacterial enzymatic cascade degrades the algal polysaccharide ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000476478500010
 
-Procoagulant Activity of Blood and Microvesicles Is Disturbed by Pneumococcal Pneumolysin, Which Interacts with Coagulation Factors	https://www.webofscience.com/wos/woscc/full-record/WOS:000829897700001
+Characterization of a thaumarchaeal symbiont that drives incomplete nitrification in the tropical sponge Ianthella basta	https://www.webofscience.com/wos/woscc/full-record/WOS:000479705700001
 
-Bronchial Epithelial Cells Accumulate Citrate Intracellularly in Response to Pneumococcal Hydrogen Peroxide	https://www.webofscience.com/wos/woscc/full-record/WOS:000719871200005
+Microbial metal-sulfide oxidation in inactive hydrothermal vent chimneys suggested by metagenomic and metaproteomic analyses	https://www.webofscience.com/wos/woscc/full-record/WOS:000459172700013
 
-Pneumococcal Extracellular Serine Proteases: Molecular Analysis and Impact on Colonization and Disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000719853800001
+An auto-inducible phosphate-controlled expression system of Bacillus licheniformis	https://www.webofscience.com/wos/woscc/full-record/WOS:000455336400002
 
-Innate immune responses at the asymptomatic stage of influenza A viral infections of Streptococcus pneumoniae colonized and non-colonized mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000741362900006
+Transcriptomic and proteomic insight into the mechanism of cyclooctasulfur- versus thiosulfate-oxidation by the chemolithoautotroph Sulfurimonas denitrificans	https://www.webofscience.com/wos/woscc/full-record/WOS:000456278900017
 
-Factors Associated with Streptococcus pneumoniae Nasopharyngeal Carriage and Antimicrobial Susceptibility among Children Under the Age of 5 Years in the Southwestern Colombia	https://www.webofscience.com/wos/woscc/full-record/WOS:000666628400004
+Biphasic cellular adaptations and ecological implications of Alteromonas macleodii degrading a mixture of algal polysaccharides	https://www.webofscience.com/wos/woscc/full-record/WOS:000453576600008
 
-A semisynthetic glycoconjugate provides expanded cross-serotype protection against Streptococcus pneumoniae	https://www.webofscience.com/wos/pprn/full-record/PPRN:14788543
+Polysaccharide utilization loci of North Sea Flavobacteriia as basis for using SusC/D-protein expression for predicting major phytoplankton glycans	https://www.webofscience.com/wos/woscc/full-record/WOS:000453576600007
 
-The Two-Component System 09 of Streptococcus pneumoniae Is Important for Metabolic Fitness and Resistance during Dissemination in the Host	https://www.webofscience.com/wos/woscc/full-record/WOS:000676504300001
+Adaptive mechanisms that provide competitive advantages to marine bacteroidetes during microalgal blooms	https://www.webofscience.com/wos/woscc/full-record/WOS:000450781600007
 
-Sputum Proteome Signatures of Mechanically Ventilated Intensive Care Unit Patients Distinguish Samples with or without Anti-pneumococcal Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000632673500005
+Alpha- and beta-mannan utilization by marine Bacteroidetes	https://www.webofscience.com/wos/woscc/full-record/WOS:000450357400017
 
-The Two-Component System 09 Regulates Pneumococcal Carbohydrate Metabolism and Capsule Expression	https://www.webofscience.com/wos/woscc/full-record/WOS:000633900800001
+Oxidative demethylation of algal carbohydrates by cytochrome P450 monooxygenases (vol 14, pg 342, 2018)	https://www.webofscience.com/wos/woscc/full-record/WOS:000442174500021
 
-Extracellular Pneumococcal Serine Proteases Affect Nasopharyngeal Colonization	https://www.webofscience.com/wos/woscc/full-record/WOS:000623207600001
+Biochemical characterization of an ulvan lyase from the marine flavobacterium Formosa agariphila KMM 3901(T)	https://www.webofscience.com/wos/woscc/full-record/WOS:000440109200019
 
-Crystal Structure and Pathophysiological Role of the Pneumococcal Nucleoside-binding Protein PnrA	https://www.webofscience.com/wos/woscc/full-record/WOS:000606810600007
+Metaproteogenomic Profiling of Microbial Communities Colonizing Actively Venting Hydrothermal Chimneys	https://www.webofscience.com/wos/woscc/full-record/WOS:000429347400002
 
-Molecular analyses identifies new domains and structural differences among Streptococcus pneumoniae immune evasion proteins PspC and Hic	https://www.webofscience.com/wos/woscc/full-record/WOS:000639435500016
+Oxidative demethylation of algal carbohydrates by cytochrome P450 monooxygenases	https://www.webofscience.com/wos/woscc/full-record/WOS:000428522900008
 
-Pneumolysin induces platelet destruction, not platelet activation, which can be prevented by immunoglobulin preparations in vitro	https://www.webofscience.com/wos/woscc/full-record/WOS:000602609500025
+Genome sequence of the sulfur-oxidizing Bathymodiolus thermophilus gill endosymbiont	https://www.webofscience.com/wos/woscc/full-record/WOS:000409355500001
 
-The Role of NLRP3 Inflammasome in Pneumococcal Infections	https://www.webofscience.com/wos/woscc/full-record/WOS:000602633500001
+Exploiting fine-scale genetic and physiological variation of closely related microbes to reveal unknown enzyme functions	https://www.webofscience.com/wos/woscc/full-record/WOS:000407220100032
 
-Post-Vaccination Streptococcus pneumoniae Carriage and Virulence Gene Distribution among Children Less Than Five Years of Age, Cape Coast, Ghana	https://www.webofscience.com/wos/woscc/full-record/WOS:000602522800001
+Aquatic adaptation of a laterally acquired pectin degradation pathway in marine gammaproteobacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000404007700019
 
-Adenosine Triphosphate Neutralizes Pneumolysin-Induced Neutrophil Activation	https://www.webofscience.com/wos/woscc/full-record/WOS:000605980300020
+Bacillus pumilus KatX2 confers enhanced hydrogen peroxide resistance to a Bacillus subtilis PkatA:: katX2 mutant strain	https://www.webofscience.com/wos/woscc/full-record/WOS:000400326800002
 
-Proteomic Adaptation of Streptococcus pneumoniae to the Antimicrobial Peptide Human Beta Defensin 3 (hBD3) in Comparison to Other Cell Surface Stresses	https://www.webofscience.com/wos/woscc/full-record/WOS:000594031300001
+Insight into the evolution of microbial metabolism from the deep-branching bacterium, Thermovibrio ammonificans	https://www.webofscience.com/wos/woscc/full-record/WOS:000401793500001
 
-Relationships among streptococci from the mitis group, misidentified as Streptococcus pneumoniae	https://www.webofscience.com/wos/woscc/full-record/WOS:000532893300001
+Staphylococcal serine protease-like proteins are pacemakers of allergic airway reactions to Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000397002400015
 
-A Giant Extracellular Matrix Binding Protein of Staphylococcus epidermidis Binds Surface-Immobilized Fibronectin via a Novel Mechanism	https://www.webofscience.com/wos/woscc/full-record/WOS:000579503600019
+Metabolic and physiological interdependencies in the Bathymodiolus azoricus symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000394541500015
 
-HIF-1 alpha is involved in blood-brain barrier dysfunction and paracellular migration of bacteria in pneumococcal meningitis	https://www.webofscience.com/wos/woscc/full-record/WOS:000539909100001
+Nitrogen fixation in a chemoautotrophic lucinid symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000396366300013
 
-Lipidation of Pneumococcal Antigens Leads to Improved Immunogenicity and Protection	https://www.webofscience.com/wos/woscc/full-record/WOS:000550920200001
+A Phosphate Starvation-Inducible Ribonuclease of Bacillus licheniformis	https://www.webofscience.com/wos/woscc/full-record/WOS:000385018200017
 
-Activated platelets kill Staphylococcus aureus, but not Streptococcus pneumoniae-The role of Fc gamma RIIa and platelet factor 4/heparinantibodies	https://www.webofscience.com/wos/woscc/full-record/WOS:000528210300001
+The anaerobic linalool metabolism in Thauera linaloolentis 47 Lol	https://www.webofscience.com/wos/woscc/full-record/WOS:000374838300001
 
-Comprehensive Spectral Library from the Pathogenic Bacterium Streptococcus pneumoniae with Focus on Phosphoproteins	https://www.webofscience.com/wos/woscc/full-record/WOS:000526337800008
+Linalool isomerase, a membrane-anchored enzyme in the anaerobic monoterpene degradation in Thauera linaloolentis 47Lol	https://www.webofscience.com/wos/woscc/full-record/WOS:000371959600001
 
-Proteomic Adaptation of Streptococcus pneumoniae to the Human Antimicrobial Peptide LL-37	https://www.webofscience.com/wos/woscc/full-record/WOS:000525952700101
+Production of the polyketide 6-deoxyerythronolide B in the heterologous host Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000369308900013
 
-Association of proteome and metabolome signatures with severity in patients with community-acquired pneumonia	https://www.webofscience.com/wos/woscc/full-record/WOS:000514253100005
+Effects of Halide Ions on the Carbamidocyclophane Biosynthesis in Nostoc sp CAVN2	https://www.webofscience.com/wos/woscc/full-record/WOS:000374586800020
 

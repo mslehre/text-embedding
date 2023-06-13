@@ -1,102 +1,82 @@
-Christian von Savigny,209287;
+Daniel Schiller,832193;
 
-Retrieval of mesospheric sodium from OSIRIS nightglow measurements and comparison to ground-based Lidar measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000634837500004
+Which firms benefit the most from agglomeration? New evidence from an emerging country with consistent measure of productivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000988068800001
 
-Retrieval of stratospheric aerosol size distribution parameters using satellite solar occultation measurements at three wavelengths	https://www.webofscience.com/wos/woscc/full-record/WOS:000635417000002
+Identification and characterization of potential change agents among agri-food producers: regime, niche and hybrid actors	https://www.webofscience.com/wos/woscc/full-record/WOS:000836073800001
 
-Evidence for the predictability of changes in the stratospheric aerosol size following volcanic eruptions of diverse magnitudes using space-based instruments	https://www.webofscience.com/wos/woscc/full-record/WOS:000613907400005
+Regional Policy and Greenfield Investments in German Districts	https://www.webofscience.com/wos/woscc/full-record/WOS:000702097800001
 
-Particle aging and aerosol-radiation interaction affect volcanic plume dispersion: evidence from the Raikoke 2019 eruption	https://www.webofscience.com/wos/woscc/full-record/WOS:000598102600005
+Establishing the Regional Sustainable Developmental Role of Universities-From the Multilevel-Perspective (MLP) and Beyond	https://www.webofscience.com/wos/woscc/full-record/WOS:000670955600001
 
-Overview: Estimating and reporting uncertainties in remotely sensed atmospheric composition and temperature	https://www.webofscience.com/wos/woscc/full-record/WOS:000562955400002
+Introduction: The Role of Universities in Regional Transitions towards Sustainability	https://www.webofscience.com/wos/woscc/full-record/WOS:000677174800001
 
-A Method for Retrieving Stratospheric Aerosol Extinction and Particle Size from Ground-Based Rayleigh-Mie-Raman Lidar Observations	https://www.webofscience.com/wos/woscc/full-record/WOS:000564724300001
+Regional Interaction and Effects of Universities: Introduction to the Special Issue	https://www.webofscience.com/wos/woscc/full-record/WOS:000490829100002
 
-Issues related to the retrieval of stratospheric-aerosol particle size information based on optical measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000527607200001
+THE EVOLUTION OF CROSS-BORDER M&As AND INNOVATION STRATEGIES: EVIDENCE FROM CHINESE CONSTRUCTION MACHINERY FIRMS	https://www.webofscience.com/wos/woscc/full-record/WOS:000488759500005
 
-The Research Unit VolImpact: Revisiting the volcanic impact on atmosphere and climate - preparations for the next big volcanic eruption	https://www.webofscience.com/wos/woscc/full-record/WOS:000521636200001
+Southeast Asia - Societies, Spaces and Development	https://www.webofscience.com/wos/woscc/full-record/WOS:000503866300007
 
-Photochemical modeling of molecular and atomic oxygen based on multiple nightglow emissions measured in situ during the Energy Transfer in the Oxygen Nightglow rocket campaign	https://www.webofscience.com/wos/woscc/full-record/WOS:000518134300008
+Spaces for integration or a divide? New-generation growth corridors and their integration in global value chains in the Global South	https://www.webofscience.com/wos/woscc/full-record/WOS:000431421500005
 
-Response of middle atmospheric temperature to the 27 d solar cycle: an analysis of 13 years of microwave limb sounder data	https://www.webofscience.com/wos/woscc/full-record/WOS:000514157100001
+Sustainable Economies: Challenges, Transitions and Trajectories in Spatial Perspective	https://www.webofscience.com/wos/woscc/full-record/WOS:000425202900027
 
-Multiple Airglow Chemistry approach for atomic oxygen retrievals on the basis of in situ nightglow emissions	https://www.webofscience.com/wos/woscc/full-record/WOS:000491303700005
+DETERMINANTS OF NETWORKING PRACTICES IN THE CHINESE TRANSITION CONTEXT: EMPIRICAL INSIGHTS FROM THE PEARL RIVER DELTA	https://www.webofscience.com/wos/woscc/full-record/WOS:000398036800005
 
-Year-round stratospheric aerosol backscatter ratios calculated from lidar measurements above northern Norway	https://www.webofscience.com/wos/woscc/full-record/WOS:000476891100001
+Appreciation of Cultural Landscapes by Tourists and locals	https://www.webofscience.com/wos/woscc/full-record/WOS:000417369300007
 
-Indications for a potential synchronization between the phase evolution of the Madden-Julian oscillation and the solar 27-day cycle	https://www.webofscience.com/wos/woscc/full-record/WOS:000463364000005
+The Perception of Local Institutional Quality by Multinationals in a Transition Economy Context Empirical Evidence From Three Regions in Ukraine	https://www.webofscience.com/wos/woscc/full-record/WOS:000454857200012
 
-Solar 27-day signatures in standard phase height measurements above central Europe	https://www.webofscience.com/wos/woscc/full-record/WOS:000458888400001
+Bringing owls to Athens? The transformative potential of RIS3 for innovation policy in Germany's Federal States	https://www.webofscience.com/wos/woscc/full-record/WOS:000378920200005
 
-Model results of OH airglow considering four different wavelength regions to derive night-time atomic oxygen and atomic hydrogen in the mesopause region	https://www.webofscience.com/wos/woscc/full-record/WOS:000458362200001
+Doing business in Ukraine - multinational companies in the trap of regional institutions?	https://www.webofscience.com/wos/woscc/full-record/WOS:000378889900004
 
-Observation of a 27-day solar signature in noctilucent cloud altitude	https://www.webofscience.com/wos/woscc/full-record/WOS:000431938700004
+Spatial cooperation patterns and their impact on innovation outcomes: lessons from firms in a low-technology region	https://www.webofscience.com/wos/woscc/full-record/WOS:000372152800001
 
-The lunar semidiurnal tide at the polar summer mesopause observed by SOFIE	https://www.webofscience.com/wos/woscc/full-record/WOS:000424724100014
+The end of cheap labour? Industrial transformation and "social upgrading" in China	https://www.webofscience.com/wos/woscc/full-record/WOS:000365460800006
 
-First results on the retrieval of noctilucent cloud albedo and occurrence rate from SCIAMACHY/Envisat satellite nadir measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000438003500004
+The functional and sectoral division of labour between Hong Kong and the Pearl River Delta: from complementarities in production to competition in producer services?	https://www.webofscience.com/wos/woscc/full-record/WOS:000352361400013
 
-Sensitivity of equatorial atomic oxygen in the MLT region to the 11-year and 27-day solar cycles	https://www.webofscience.com/wos/woscc/full-record/WOS:000412036500013
+Knowledge Spillover in the Knowledge Economy - Passages, Effects and spatial Expressions	https://www.webofscience.com/wos/woscc/full-record/WOS:000218197700007
 
-First identification of lunar tides in satellite observations of noctilucent clouds	https://www.webofscience.com/wos/woscc/full-record/WOS:000412036500011
+Interactive learning, informal networks and innovation: Evidence from electronics firm survey in the Pearl River Delta, China	https://www.webofscience.com/wos/woscc/full-record/WOS:000317025200005
 
-Solar-induced 27-day variations of polar mesospheric clouds from the AIM SOFIE and CIPS experiments	https://www.webofscience.com/wos/woscc/full-record/WOS:000412036500012
+The global economic crisis as leverage for emerging regional growth paths? Differentiated evidence from China - three years onwards	https://www.webofscience.com/wos/woscc/full-record/WOS:000337674700006
 
-Comparison of global datasets of sodium densities in the mesosphere and lower thermosphere from GOMOS, SCIAMACHY and OSIRIS measurements and WACCM model simulations from 2008 to 2012	https://www.webofscience.com/wos/woscc/full-record/WOS:000408029700001
+The Impact of Academic Mobility on the Creation of Localized Intangible Assets	https://www.webofscience.com/wos/woscc/full-record/WOS:000310486300004
 
-Variability of OH(3-1) and OH(6-2) emission altitude and volume emission rate from 2003 to 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000408298200004
+REGIONAL INNOVATION SYSTEMS WITHIN A TRANSITIONAL CONTEXT: EVOLUTIONARY COMPARISON OF THE ELECTRONICS INDUSTRY IN SHENZHEN AND DONGGUAN SINCE THE OPENING OF CHINA	https://www.webofscience.com/wos/woscc/full-record/WOS:000304085500009
 
-Airglow in the Earth atmosphere: basic characteristics and excitation mechanisms	https://www.webofscience.com/wos/woscc/full-record/WOS:000418274600004
+The localization of electronics manufacturing in the Greater Pearl River Delta, China: Do global implants put down local roots?	https://www.webofscience.com/wos/woscc/full-record/WOS:000295994000016
 
-First mesopause Na retrievals from satellite Na D-line nightglow observations	https://www.webofscience.com/wos/woscc/full-record/WOS:000392741900041
+Strategies of using social proximity and organizational proximity in product innovation Empirical insight from the Pearl River Delta, China	https://www.webofscience.com/wos/woscc/full-record/WOS:000303971200006
 
-Retrieval of sodium number density profiles in the mesosphere and lower thermosphere from SCIAMACHY limb emission measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000375610500020
+Informal dynamics of economic processes Remarks on the potential of the informality concept	https://www.webofscience.com/wos/woscc/full-record/WOS:000303971200001
 
-Global tropospheric ozone variations from 2003 to 2011 as seen by SCIAMACHY	https://www.webofscience.com/wos/woscc/full-record/WOS:000371284000001
+Workplace quality and labour turnover in the electronics industry of the Pearl River Delta, China Contrasting employer and employee perspectives	https://www.webofscience.com/wos/woscc/full-record/WOS:000303971200005
 
-Global cloud top height retrieval using SCIAMACHY limb spectra: model studies and first results	https://www.webofscience.com/wos/woscc/full-record/WOS:000375612000030
+Upgrading strategies of electronics firms within the regional innovation system of the Pearl River Delta, illustrated by the example of two Hong Kong firms	https://www.webofscience.com/wos/woscc/full-record/WOS:000307054900005
 
-Solar-induced 27-day variations of mesospheric temperature and water vapor from the AIM SOFIE experiment: Drivers of polar mesospheric cloud variability	https://www.webofscience.com/wos/woscc/full-record/WOS:000364257700007
+The role of foreign and domestic firms in regional innovation systems of latecomer countries: empirical evidence from the electronics industry in the Pearl River Delta	https://www.webofscience.com/wos/woscc/full-record/WOS:000290701300003
 
-Lunar semidiurnal tide in the terrestrial airglow	https://www.webofscience.com/wos/woscc/full-record/WOS:000355878300061
+Institutions and practice in cross-sector research collaboration: conceptual considerations with empirical illustrations from the German science sector	https://www.webofscience.com/wos/woscc/full-record/WOS:000294372300004
 
-Variability of OH(3–1) emission altitude from 2003 to 2011: Long-term stability and universality of the emission rate–altitude relationship	https://www.webofscience.com/wos/woscc/full-record/WOS:000355708700016
+Upgrading strategies of firms from emerging economies in global value chains: three cases from the electronics industry in Hong Kong	https://www.webofscience.com/wos/woscc/full-record/WOS:000309024800001
 
-Atomic oxygen retrievals in the MLT region from SCIAMACHY nightglow limb measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000352158300002
+Local embeddedness of knowledge spillover agents: Empirical evidence from German star scientists	https://www.webofscience.com/wos/woscc/full-record/WOS:000278568900004
 
-Global investigation of the Mg atom and ion layers using SCIAMACHY/Envisat observations between 70 and 150km altitude and WACCM-Mg model results	https://www.webofscience.com/wos/woscc/full-record/WOS:000347958200016
+Establishing an interface between public sector applied research and the Chinese enterprise sector: Preparing for 2020	https://www.webofscience.com/wos/woscc/full-record/WOS:000275028500004
 
-Improved stratospheric aerosol extinction profiles from SCIAMACHY: validation and sample results	https://www.webofscience.com/wos/woscc/full-record/WOS:000367384600013
+Capacity Building for University–Industry Linkages in Developing Countries	https://www.webofscience.com/wos/woscc/full-record/WOS:000208171200003
 
-The fractal perimeter dimension of noctilucent clouds: Sensitivity analysis of the area-perimeter method and results on the seasonal and hemispheric dependence of the fractal dimension	https://www.webofscience.com/wos/woscc/full-record/WOS:000355708700008
+THE JANUS-FACED ECONOMY: HONG KONG FIRMS AS INTERMEDIARIES BETWEEN GLOBAL CUSTOMERS AND LOCAL PRODUCERS IN THE ELECTRONICS INDUSTRY	https://www.webofscience.com/wos/woscc/full-record/WOS:000263967400008
 
-Traveling planetary wave activity from mesopause region airglow temperatures determined by the Network for the Detection of Mesospheric Change (NDMC)	https://www.webofscience.com/wos/woscc/full-record/WOS:000342890100008
+University-Industry Linkages in Thailand: Successes, Failures, and Lessons Learned for Other Developing Countries	https://www.webofscience.com/wos/woscc/full-record/WOS:000420864500005
 
-On the impact of the temporal variability of the collisional quenching process on the mesospheric OH emission layer: a study based on SD-WACCM4 and SABER	https://www.webofscience.com/wos/woscc/full-record/WOS:000344165600003
+Academic capabilities in developing countries—A conceptual framework with empirical illustrations from Thailand	https://www.webofscience.com/wos/woscc/full-record/WOS:000254598400007
 
-Past changes in the vertical distribution of ozone - Part 1: Measurement techniques, uncertainties and availability	https://www.webofscience.com/wos/woscc/full-record/WOS:000336740700016
+Agile Firms and their Spatial Organisation of Business Activities in the Greater Pearl River Delta	https://www.webofscience.com/wos/woscc/full-record/WOS:000262014700007
 
-Tropospheric column amount of ozone retrieved from SCIAMACHY limb-nadir-matching observations	https://www.webofscience.com/wos/woscc/full-record/WOS:000339937200013
+Higher education funding reform and university-industry links in developing countries: The case of Thailand	https://www.webofscience.com/wos/woscc/full-record/WOS:000249212800005
 
-Chemical ozone loss and ozone mini-hole event during the Arctic winter 2010/2011 as observed by SCIAMACHY and GOME-2	https://www.webofscience.com/wos/woscc/full-record/WOS:000334608400006
-
-Retrieval algorithm for densities of mesospheric and lower thermospheric metal atom and ion species from satellite-borne limb emission signals	https://www.webofscience.com/wos/woscc/full-record/WOS:000330945400003
-
-On the relationship between atomic oxygen and vertical shifts between OH Meinel bands originating from different vibrational levels	https://www.webofscience.com/wos/woscc/full-record/WOS:000327810800046
-
-Chemical ozone losses in Arctic and Antarctic polar winter/spring season derived from SCIAMACHY limb measurements 2002-2009	https://www.webofscience.com/wos/woscc/full-record/WOS:000315406600008
-
-Harmonized dataset of ozone profiles from satellite limb and occultation measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000209415500011
-
-Error budget analysis of SCIAMACHY limb ozone profile retrievals using the SCIATRAN model	https://www.webofscience.com/wos/woscc/full-record/WOS:000326547100019
-
-OSIRIS A Decade of Scattered Light	https://www.webofscience.com/wos/woscc/full-record/WOS:000312441200007
-
-Impacts of the January 2005 solar particle event on noctilucent clouds and water at the polar summer mesopause	https://www.webofscience.com/wos/woscc/full-record/WOS:000305835900020
-
-Global and long-term comparison of SCIAMACHY limb ozone profiles with correlative satellite data (2002-2008)	https://www.webofscience.com/wos/woscc/full-record/WOS:000304056200006
-
-Sensitivity of equatorial mesopause temperatures to the 27-day solar cycle	https://www.webofscience.com/wos/woscc/full-record/WOS:000310691000005
-
-On the dependence of the OH* Meinel emission altitude on vibrational level: SCIAMACHY observations and model simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000309424300032
+The Potential to Upgrade the Thai Innovation System by University-industry Linkages	https://www.webofscience.com/wos/kjd/full-record/KJD:ART001149683
 

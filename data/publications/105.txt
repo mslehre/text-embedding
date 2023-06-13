@@ -1,96 +1,102 @@
-Sabine Müller,653208;
+Sebastian van der Linden,840206;
 
-Boronic Acid Assisted Self-Assembly of Functional RNAs	https://www.webofscience.com/wos/woscc/full-record/WOS:000981439400001
+High-resolution data and maps of material stock, population, and employment in Austria from 1985 to 2018	https://www.webofscience.com/wos/woscc/full-record/WOS:000953114600001
 
-Azide-modified Nucleosides as Versatile Tools for Bioorthogonal Labeling and Functionalization	https://www.webofscience.com/wos/woscc/full-record/WOS:000758363300001
+High-resolution mapping of 33 years of material stock and population growth in Germany using Earth Observation data	https://www.webofscience.com/wos/woscc/full-record/WOS:000871443300001
 
-RNA self-splicing by engineered hairpin ribozyme variants	https://www.webofscience.com/wos/woscc/full-record/WOS:000749588900030
+Saving soil carbon, greenhouse gas emissions, biodiversity and the economy: paludiculture as sustainable land use option in German fen peatlands	https://www.webofscience.com/wos/woscc/full-record/WOS:000793171700002
 
-Azido Functionalized Nucleosides Linked to Controlled Pore Glass as Suitable Starting Materials for Oligonucleotide Synthesis by the Phosphoramidite Approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000722452900001
+Revisiting the Past: Replicability of a Historic Long-Term Vegetation Dynamics Assessment in the Era of Big Data Analytics	https://www.webofscience.com/wos/woscc/full-record/WOS:000754849500001
 
-Towards Higher Complexity in the RNA World: Hairpin Ribozyme Supported RNA Recombination	https://www.webofscience.com/wos/woscc/full-record/WOS:000672627600002
+Rewetting does not return drained fen peatlands to their old selves	https://www.webofscience.com/wos/woscc/full-record/WOS:000704007700003
 
-Synthesis of fully protected trinucleotide building blocks on a disulphide-linked soluble support	https://www.webofscience.com/wos/woscc/full-record/WOS:000615282100014
+Multi-season unmixing of vegetation class fractions across diverse Californian ecoregions using simulated spaceborne imaging spectroscopy data	https://www.webofscience.com/wos/woscc/full-record/WOS:000688451300005
 
-Boronic Acid-Mediated Activity Control of Split 10-23 DNAzymes	https://www.webofscience.com/wos/woscc/full-record/WOS:000598647100001
+Combining simulated hyperspectral EnMAP and Landsat time series for forest aboveground biomass mapping	https://www.webofscience.com/wos/woscc/full-record/WOS:000632601300002
 
-Self-cleaving ribozymes: substrate specificity and synthetic biology applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000670010800001
+Gridded population mapping for Germany based on building density, height and type from Earth Observation data using census disaggregation and bottom-up estimates	https://www.webofscience.com/wos/woscc/full-record/WOS:000634833500011
 
-Reductive Charge Transfer through an RNA Aptamer	https://www.webofscience.com/wos/woscc/full-record/WOS:000578726500001
+High-Resolution Maps of Material Stocks in Buildings and Infrastructures in Austria and Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000626270400067
 
-Changed reactivity of secondary hydroxy groups in C8-modified adenosine - lessons learned from silylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000593054800001
+National-scale mapping of building height using Sentinel-1 and Sentinel-2 time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000595878500003
 
-Recent advances in understanding circular RNAs	https://www.webofscience.com/wos/medline/full-record/MEDLINE:32612809
+Green growth? On the relation between population density, land use and vegetation cover fractions in a city using a 30-years Landsat time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000568996500006
 
-Splitting aptamers and nucleic acid enzymes for the development of advanced biosensors	https://www.webofscience.com/wos/woscc/full-record/WOS:000525957700008
+Mapping urban-rural gradients of settlements and vegetation at national scale using Sentinel-2 spectral-temporal metrics and regression-based unmixing with synthetic training data	https://www.webofscience.com/wos/woscc/full-record/WOS:000537691800005
 
-Challenges and Perspectives in Nucleic Acid Enzyme Engineering	https://www.webofscience.com/wos/woscc/full-record/WOS:000501158800003
+Disentangling fractional vegetation cover: Regression-based unmixing of simulated spaceborne imaging spectroscopy data	https://www.webofscience.com/wos/woscc/full-record/WOS:000537691800016
 
-Engineering of hairpin ribozyme variants for RNA recombination and splicing	https://www.webofscience.com/wos/woscc/full-record/WOS:000475632800010
+A generalized regression-based unmixing model for mapping forest cover fractions throughout three decades of Landsat data	https://www.webofscience.com/wos/woscc/full-record/WOS:000523955300002
 
-Solid Phase Assembly of Fully Protected Trinucleotide Building Blocks for Codon-Based Gene Synthesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000472641200027
+Visualizing and labeling dense multi-sensor earth observation time series: The EO Time Series Viewer	https://www.webofscience.com/wos/woscc/full-record/WOS:000513927700017
 
-High-Precision FRET Reveals Sequence Dependent Structures of RNA Three-Way Junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000460779800690
+Brightness gradient-corrected hyperspectral image mosaics for fractional vegetation cover mapping in northern California	https://www.webofscience.com/wos/woscc/full-record/WOS:000492790000001
 
-RNA- based boronate internucleosidic linkages: an entry into reversible templated ligation and loop formation	https://www.webofscience.com/wos/woscc/full-record/WOS:000451074500022
+Comparing map-based and library-based training approaches for urban land-cover fraction mapping from Sentinel-2 imagery	https://www.webofscience.com/wos/woscc/full-record/WOS:000463131700026
 
-Preparation and characterization of pyrene modified uridine derivatives as potential electron donors in RNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000448344400017
+Imaging Spectroscopy of Urban Environments	https://www.webofscience.com/wos/woscc/full-record/WOS:000468286300007
 
-Ligand-Induced Dimerization of a Truncated Parallel MYC G-Quadruplex	https://www.webofscience.com/wos/woscc/full-record/WOS:000426494600016
+Make EU trade with Brazil sustainable	https://www.webofscience.com/wos/woscc/full-record/WOS:000465643400032
 
-Preparation of trinucleotide phosphoramidites as synthons for the synthesis of gene libraries	https://www.webofscience.com/wos/woscc/full-record/WOS:000425799800001
+Characterizing 32 years of shrub cover dynamics in southern Portugal using annual Landsat composites and machine learning regression modeling	https://www.webofscience.com/wos/woscc/full-record/WOS:000450379200026
 
-Synthesis and Engineering of Circular RNAs	https://www.webofscience.com/wos/woscc/full-record/WOS:000431336900015
+From sample to pixel: multi-scale remote sensing data for upscaling aboveground carbon data in heterogeneous landscapes	https://www.webofscience.com/wos/woscc/full-record/WOS:000448271400001
 
-In vitro circularization of RNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000415997500008
+Mapping patterns of urban development in Ouagadougou, Burkina Faso, using machine learning regression modeling with bi-seasonal Landsat time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000431164300016
 
-Special Issue: Ribozymes and RNA Catalysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000404522900111
+Mapping fractional woody cover in semi-arid savannahs using multi-seasonal composites from Landsat data	https://www.webofscience.com/wos/woscc/full-record/WOS:000431160100007
 
-Accurate Determination of the RNA Three-Way Junctions Via Single-Molecule High-Precision Fret Measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000402375600817
+Mapping pasture management in the Brazilian Amazon from dense Landsat time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000423007700033
 
-Phosphorous chemistry in vivo: what makes the phosphoesters in DNA and RNA so diverse?	https://www.webofscience.com/wos/woscc/full-record/WOS:000404430400008
+Generalizing machine learning regression models using multi-site spectral libraries for mapping vegetation-impervious-soil fractions across multiple cities	https://www.webofscience.com/wos/woscc/full-record/WOS:000445990100034
 
-Welcome to a SUPA issue	https://www.webofscience.com/wos/woscc/full-record/WOS:000388841600001
+Generalizing machine learning regression models using multi-site spectral libraries for mapping vegetation-impervious-soil fractions across multiple cities	https://www.webofscience.com/wos/woscc/full-record/WOS:000445990100034
 
-Sugar-Edge Interactions in a DNA-RNA G-Quadruplex: Evidence of Sequential C-H center dot center dot center dot O Hydrogen Bonds Contributing to RNA Quadruplex Folding	https://www.webofscience.com/wos/woscc/full-record/WOS:000388258000051
+Influence of neighbourhood information on 'Local Climate Zone' mapping in heterogeneous cities	https://www.webofscience.com/wos/woscc/full-record/WOS:000408787100010
 
-EGFR1 Targeted Delivery of 5-Fluorouracil Using Tumor Specific Theranostic Aptamers in Pancreatic Ductal Adenocarcinoma	https://www.webofscience.com/wos/woscc/full-record/WOS:000386978400145
+A Novel Spectral Library Pruning Technique for Spectral Unmixing of Urban Land Cover	https://www.webofscience.com/wos/woscc/full-record/WOS:000404623900056
 
-Challenges and Opportunities in the Development of Aptamers for TNFα	https://www.webofscience.com/wos/woscc/full-record/WOS:000378697800004
+Ensemble Learning From Synthetically Mixed Training Data for Quantifying Urban Land Cover With Support Vector Regression	https://www.webofscience.com/wos/woscc/full-record/WOS:000398948400032
 
-RNA Hairpin Folding in the Crowded Cell	https://www.webofscience.com/wos/woscc/full-record/WOS:000370656200049
+Thermal evaluation of the Local Climate Zone scheme in Belgium	https://www.webofscience.com/wos/woscc/full-record/WOS:000406006100027
 
-Accurate Determination of the RNA Junctions via Single-Molecule High-Precision FRET Measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000375142200492
+Optimizing mixed spectra generation for regression-based unmixing of land cover in urban areas	https://www.webofscience.com/wos/woscc/full-record/WOS:000406006100025
 
-In vitro repair of a defective EGFP transcript and translation into a functional protein	https://www.webofscience.com/wos/woscc/full-record/WOS:000379432600013
+Optical trait indicators for remote sensing of plant species composition: Predictive power and seasonal variability	https://www.webofscience.com/wos/woscc/full-record/WOS:000398334400081
 
-Preparation of trinucleotide synthons for the synthesis of gene libraries	https://www.webofscience.com/wos/woscc/full-record/WOS:000375960700004
+Use of multispectral satellite imagery and hyperspectral endmember libraries for urban land cover mapping at the metropolitan scale	https://www.webofscience.com/wos/woscc/full-record/WOS:000391362900017
 
-Thirty-five years of research into ribozymes and nucleic acid catalysis: where do we stand today?	https://www.webofscience.com/wos/medline/full-record/MEDLINE:27408700
+Spectral unmixing of urban land cover using a generic library approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000391362900018
 
-Hairpin ribozyme mediated RNA recombination	https://www.webofscience.com/wos/woscc/full-record/WOS:000372176500025
+ON THE USE OF COLLABORATIVE SPARSE REGRESSION IN HYPERSPECTRAL UNMIXING CHAINS	https://www.webofscience.com/wos/woscc/full-record/WOS:000428980100029
 
-Landmarks in the Evolution of (t)-RNAs from the Origin of Life up to Their Present Role in Human Cognition	https://www.webofscience.com/wos/medline/full-record/MEDLINE:26703740
+Monitoring Natural Ecosystem and Ecological Gradients: Perspectives with EnMAP	https://www.webofscience.com/wos/woscc/full-record/WOS:000364328600022
 
-Sequence-controlled RNA self-processing: computational design, biochemical analysis, and visualization by AFM	https://www.webofscience.com/wos/woscc/full-record/WOS:000357354000004
+The EnMAP-Box-A Toolbox and Application Programming Interface for EnMAP Data Processing	https://www.webofscience.com/wos/woscc/full-record/WOS:000362511400012
 
-Engineering of ribozymes with useful activities in the ancient RNA world	https://www.webofscience.com/wos/woscc/full-record/WOS:000353112000007
+Using Class Probabilities to Map Gradual Transitions in Shrub Vegetation from Simulated EnMAP Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000360818800054
 
-RNA circularization strategies in vivo and in vitro	https://www.webofscience.com/wos/woscc/full-record/WOS:000351876500045
+The EnMAP Spaceborne Imaging Spectroscopy Mission for Earth Observation	https://www.webofscience.com/wos/woscc/full-record/WOS:000360919900026
 
-Ribozymes that can be regulated by external stimuli	https://www.webofscience.com/wos/woscc/full-record/WOS:000348960200006
+Mapping beta diversity from space: Sparse Generalised Dissimilarity Modelling (SGDM) for analysing high-dimensional data	https://www.webofscience.com/wos/woscc/full-record/WOS:000358083200003
 
-Synthesis of a bifunctional cytidine derivative and its conjugation to RNA for in vitro selection of a cytidine deaminase ribozyme	https://www.webofscience.com/wos/woscc/full-record/WOS:000340629700001
+Analyzing Hyperspectral and Hypertemporal Data by Decoupling Feature Redundancy and Feature Relevance	https://www.webofscience.com/wos/woscc/full-record/WOS:000351412200013
 
-Design and Characterization of a Twin Ribozyme for Potential Repair of a Deletion Mutation within the Oncogenic CTNNB1 -ΔS45 mRNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000341623300023
+Extending the vegetation-impervious-soil model using simulated EnMAP data and machine learning	https://www.webofscience.com/wos/woscc/full-record/WOS:000348879100006
 
-Preparation of modified long-mer RNAs and analysis of FMN binding to the ypaA aptamer from B. subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000341517200018
+Mapping land cover in complex Mediterranean landscapes using Landsat: Improved classification accuracies from integrating multi-seasonal and synthetic imagery	https://www.webofscience.com/wos/woscc/full-record/WOS:000347579900043
 
-RNA Aminoacylation Mediated by Sequential Action of Two Ribozymes and a Nonactivated Amino Acid	https://www.webofscience.com/wos/woscc/full-record/WOS:000337582200019
+Time Series Analyses in a New Era of Optical Satellite Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000375103900003
 
-Generation and selection of ribozyme variants with potential application in protein engineering and synthetic biology	https://www.webofscience.com/wos/woscc/full-record/WOS:000334171100002
+A Comparison of Advanced Regression Algorithms for Quantifying Urban Land Cover	https://www.webofscience.com/wos/woscc/full-record/WOS:000340038700020
 
-RNA Ligation	https://www.webofscience.com/wos/woscc/full-record/WOS:000357533800004
+Import Vector Machines for Quantitative Analysis of Hyperspectral Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000332181200015
 
-Synthesis of Site-Specifically Modified Long-mer RNAs	https://www.webofscience.com/wos/woscc/full-record/WOS:000340097800027
+Support vector regression and synthetically mixed training data for quantifying urban land cover	https://www.webofscience.com/wos/woscc/full-record/WOS:000324156600016
+
+Mapping Rubber Plantations and Natural Forests in Xishuangbanna (Southwest China) Using Multi-Spectral Phenological Metrics from MODIS Time Series	https://www.webofscience.com/wos/woscc/full-record/WOS:000320771100011
+
+A Pixel-Based Landsat Compositing Algorithm for Large Area Land Cover Mapping	https://www.webofscience.com/wos/woscc/full-record/WOS:000325757300003
+
+Using MODIS time series and random forests classification for mapping land use in South-East Asia	https://www.webofscience.com/wos/woscc/full-record/WOS:000313189406176
 

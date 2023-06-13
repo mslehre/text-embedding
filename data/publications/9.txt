@@ -1,102 +1,102 @@
-Björn Philipp Lehmann,620344;
+Christian von Savigny,209287;
 
-Scientists' warning on climate change and insects	https://www.webofscience.com/wos/woscc/full-record/WOS:000879374800001
+Retrieval of mesospheric sodium from OSIRIS nightglow measurements and comparison to ground-based Lidar measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000634837500004
 
-Microclimatic variation affects developmental phenology, synchrony and voltinism in an insect population	https://www.webofscience.com/wos/woscc/full-record/WOS:000866263800001
+Retrieval of stratospheric aerosol size distribution parameters using satellite solar occultation measurements at three wavelengths	https://www.webofscience.com/wos/woscc/full-record/WOS:000635417000002
 
-Intrapopulation variance in ecophysiological responses to water limitation in a butterfly metapopulation suggests adaptive resilience to environmental variability	https://www.webofscience.com/wos/woscc/full-record/WOS:000871359400001
+Evidence for the predictability of changes in the stratospheric aerosol size following volcanic eruptions of diverse magnitudes using space-based instruments	https://www.webofscience.com/wos/woscc/full-record/WOS:000613907400005
 
-Time- and temperature-dependent dynamics of prothoracicotropic hormone and ecdysone sensitivity co-regulate pupal diapause in the green-veined white butterfly Pieris napi	https://www.webofscience.com/wos/woscc/full-record/WOS:000862895300002
+Particle aging and aerosol-radiation interaction affect volcanic plume dispersion: evidence from the Raikoke 2019 eruption	https://www.webofscience.com/wos/woscc/full-record/WOS:000598102600005
 
-The evolution of predator avoidance in cephalopods: A case of brain over brawn?	https://www.webofscience.com/wos/woscc/full-record/WOS:000874010900001
+Overview: Estimating and reporting uncertainties in remotely sensed atmospheric composition and temperature	https://www.webofscience.com/wos/woscc/full-record/WOS:000562955400002
 
-Longer and warmer prewinter periods reduce post-winter fitness in a diapausing insect	https://www.webofscience.com/wos/woscc/full-record/WOS:000776484500001
+A Method for Retrieving Stratospheric Aerosol Extinction and Particle Size from Ground-Based Rayleigh-Mie-Raman Lidar Observations	https://www.webofscience.com/wos/woscc/full-record/WOS:000564724300001
 
-Extensive transcriptomic profiling of pupal diapause in a butterfly reveals a dynamic phenotype	https://www.webofscience.com/wos/woscc/full-record/WOS:000729417400001
+Issues related to the retrieval of stratospheric-aerosol particle size information based on optical measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000527607200001
 
-Chronic Background Radiation Correlates With Sperm Swimming Endurance in Bank Voles From Chernobyl	https://www.webofscience.com/wos/woscc/full-record/WOS:000745183500001
+The Research Unit VolImpact: Revisiting the volcanic impact on atmosphere and climate - preparations for the next big volcanic eruption	https://www.webofscience.com/wos/woscc/full-record/WOS:000521636200001
 
-Sequence variation and regulatory variation in acetylcholinesterase genes contribute to insecticide resistance in different populations of Leptinotarsa decemlineata	https://www.webofscience.com/wos/woscc/full-record/WOS:000713514000001
+Photochemical modeling of molecular and atomic oxygen based on multiple nightglow emissions measured in situ during the Energy Transfer in the Oxygen Nightglow rocket campaign	https://www.webofscience.com/wos/woscc/full-record/WOS:000518134300008
 
-Unraveling the World's Longest Non-stop Migration: The Indian Ocean Crossing of the Globe Skimmer Dragonfly	https://www.webofscience.com/wos/woscc/full-record/WOS:000692780000001
+Response of middle atmospheric temperature to the 27 d solar cycle: an analysis of 13 years of microwave limb sounder data	https://www.webofscience.com/wos/woscc/full-record/WOS:000514157100001
 
-Thermal performance under constant temperatures can accurately predict insect development times across naturally variable microclimates	https://www.webofscience.com/wos/woscc/full-record/WOS:000654115300001
+Multiple Airglow Chemistry approach for atomic oxygen retrievals on the basis of in situ nightglow emissions	https://www.webofscience.com/wos/woscc/full-record/WOS:000491303700005
 
-Using mu CT in live larvae of a large wood-boring beetle to study tracheal oxygen supply during development	https://www.webofscience.com/wos/woscc/full-record/WOS:000641044400005
+Year-round stratospheric aerosol backscatter ratios calculated from lidar measurements above northern Norway	https://www.webofscience.com/wos/woscc/full-record/WOS:000476891100001
 
-Metabolic responses to starvation and feeding contribute to the invasiveness of an emerging pest insect	https://www.webofscience.com/wos/woscc/full-record/WOS:000605762300002
+Indications for a potential synchronization between the phase evolution of the Madden-Julian oscillation and the solar 27-day cycle	https://www.webofscience.com/wos/woscc/full-record/WOS:000463364000005
 
-The effect of chronic low-dose environmental radiation on organ mass of bank voles in the Chernobyl exclusion zone	https://www.webofscience.com/wos/woscc/full-record/WOS:000552577000001
+Solar 27-day signatures in standard phase height measurements above central Europe	https://www.webofscience.com/wos/woscc/full-record/WOS:000458888400001
 
-New records of the Paleotropical migrant Hemianax ephippiger in the Caribbean and a review of its status in the Neotropics	https://www.webofscience.com/wos/woscc/full-record/WOS:000552538200001
+Model results of OH airglow considering four different wavelength regions to derive night-time atomic oxygen and atomic hydrogen in the mesopause region	https://www.webofscience.com/wos/woscc/full-record/WOS:000458362200001
 
-The Diapause Lipidomes of Three Closely Related Beetle Species Reveal Mechanisms for Tolerating Energetic and Cold Stress in High-Latitude Seasonal Environments	https://www.webofscience.com/wos/woscc/full-record/WOS:000576704800001
+Observation of a 27-day solar signature in noctilucent cloud altitude	https://www.webofscience.com/wos/woscc/full-record/WOS:000431938700004
 
-Variation in butterfly diapause duration in relation to voltinism suggests adaptation to autumn warmth, not winter cold	https://www.webofscience.com/wos/woscc/full-record/WOS:000512443900001
+The lunar semidiurnal tide at the polar summer mesopause observed by SOFIE	https://www.webofscience.com/wos/woscc/full-record/WOS:000424724100014
 
-Regulatory Roles of Drosophila Insulin-Like Peptide 1 (DILP1) in Metabolism Differ in Pupal and Adult Stages	https://www.webofscience.com/wos/woscc/full-record/WOS:000531641700001
+First results on the retrieval of noctilucent cloud albedo and occurrence rate from SCIAMACHY/Envisat satellite nadir measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000438003500004
 
-Complex responses of global insect pests to climate warming	https://www.webofscience.com/wos/woscc/full-record/WOS:000510585900001
+Sensitivity of equatorial atomic oxygen in the MLT region to the 11-year and 27-day solar cycles	https://www.webofscience.com/wos/woscc/full-record/WOS:000412036500013
 
-A transposable element insertion is associated with an alternative life history strategy	https://www.webofscience.com/wos/woscc/full-record/WOS:000503009700005
+First identification of lunar tides in satellite observations of noctilucent clouds	https://www.webofscience.com/wos/woscc/full-record/WOS:000412036500011
 
-The Effect of Oxygen Limitation on a Xylophagous Insect's Heat Tolerance Is Influenced by Life-Stage Through Variation in Aerobic Scope and Respiratory Anatomy	https://www.webofscience.com/wos/woscc/full-record/WOS:000501237200001
+Solar-induced 27-day variations of polar mesospheric clouds from the AIM SOFIE and CIPS experiments	https://www.webofscience.com/wos/woscc/full-record/WOS:000412036500012
 
-Sublethal Pyrethroid Insecticide Exposure Carries Positive Fitness Effects Over Generations in a Pest Insect	https://www.webofscience.com/wos/woscc/full-record/WOS:000478743700032
+Comparison of global datasets of sodium densities in the mesosphere and lower thermosphere from GOMOS, SCIAMACHY and OSIRIS measurements and WACCM model simulations from 2008 to 2012	https://www.webofscience.com/wos/woscc/full-record/WOS:000408029700001
 
-Factors affecting the degree of vertical stratification of fatty acids in grey seal blubber	https://www.webofscience.com/wos/woscc/full-record/WOS:000475657500009
+Variability of OH(3-1) and OH(6-2) emission altitude and volume emission rate from 2003 to 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000408298200004
 
-Developmental plasticity in metabolism but not in energy reserve accumulation in a seasonally polyphenic butterfly	https://www.webofscience.com/wos/woscc/full-record/WOS:000475480100018
+Airglow in the Earth atmosphere: basic characteristics and excitation mechanisms	https://www.webofscience.com/wos/woscc/full-record/WOS:000418274600004
 
-Diapause decision in the small tortoiseshell butterfly, Aglais urticae	https://www.webofscience.com/wos/woscc/full-record/WOS:000474290300006
+First mesopause Na retrievals from satellite Na D-line nightglow observations	https://www.webofscience.com/wos/woscc/full-record/WOS:000392741900041
 
-Termination of pupal diapause in the pine processionary moth Thaumetopoea pityocampa	https://www.webofscience.com/wos/woscc/full-record/WOS:000457737500006
+Retrieval of sodium number density profiles in the mesosphere and lower thermosphere from SCIAMACHY limb emission measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000375610500020
 
-Oxygen limitation is not the cause of death during lethal heat exposure in an insect	https://www.webofscience.com/wos/woscc/full-record/WOS:000456789800011
+Global tropospheric ozone variations from 2003 to 2011 as seen by SCIAMACHY	https://www.webofscience.com/wos/woscc/full-record/WOS:000371284000001
 
-Effects of a glyphosate-based herbicide on survival and oxidative status of a non-target herbivore, the Colorado potato beetle (Leptinotarsa decenilineata)	https://www.webofscience.com/wos/woscc/full-record/WOS:000452584300007
+Global cloud top height retrieval using SCIAMACHY limb spectra: model studies and first results	https://www.webofscience.com/wos/woscc/full-record/WOS:000375612000030
 
-Prepupal diapause synchronizes adult emergence in the pine processionary moth Thaumetopoea pityocampa (Lepidoptera: Notodontidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000446159200013
+Solar-induced 27-day variations of mesospheric temperature and water vapor from the AIM SOFIE experiment: Drivers of polar mesospheric cloud variability	https://www.webofscience.com/wos/woscc/full-record/WOS:000364257700007
 
-The scales of experience: Introduction to the special issue Experiencing the global environment Introduction	https://www.webofscience.com/wos/woscc/full-record/WOS:000443662100001
+Lunar semidiurnal tide in the terrestrial airglow	https://www.webofscience.com/wos/woscc/full-record/WOS:000355878300061
 
-Average rainfall and the play of colors:Colonial experience and global climate data	https://www.webofscience.com/wos/woscc/full-record/WOS:000443662100005
+Variability of OH(3–1) emission altitude from 2003 to 2011: Long-term stability and universality of the emission rate–altitude relationship	https://www.webofscience.com/wos/woscc/full-record/WOS:000355708700016
 
-Physiological differences between female limited, alternative life history strategies: The Alba phenotype in the butterfly Colias croceus	https://www.webofscience.com/wos/woscc/full-record/WOS:000434751100031
+Atomic oxygen retrievals in the MLT region from SCIAMACHY nightglow limb measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000352158300002
 
-Metabolome dynamics of diapause in the butterfly Pieris napi: distinguishing maintenance, termination and post-diapause phases	https://www.webofscience.com/wos/woscc/full-record/WOS:000424076300016
+Global investigation of the Mg atom and ion layers using SCIAMACHY/Envisat observations between 70 and 150km altitude and WACCM-Mg model results	https://www.webofscience.com/wos/woscc/full-record/WOS:000347958200016
 
-Timing of diapause termination in relation to variation in winter climate	https://www.webofscience.com/wos/woscc/full-record/WOS:000409281600005
+Improved stratospheric aerosol extinction profiles from SCIAMACHY: validation and sample results	https://www.webofscience.com/wos/woscc/full-record/WOS:000367384600013
 
-Idiosyncratic development of sensory structures in brains of diapausing butterfly pupae: implications for information processing	https://www.webofscience.com/wos/woscc/full-record/WOS:000405958600021
+The fractal perimeter dimension of noctilucent clouds: Sensitivity analysis of the area-perimeter method and results on the seasonal and hemispheric dependence of the fractal dimension	https://www.webofscience.com/wos/woscc/full-record/WOS:000355708700008
 
-A key malaria metabolite modulates vector blood seeking, feeding, and susceptibility to infection	https://www.webofscience.com/wos/woscc/full-record/WOS:000396348900045
+Traveling planetary wave activity from mesopause region airglow temperatures determined by the Network for the Detection of Mesospheric Change (NDMC)	https://www.webofscience.com/wos/woscc/full-record/WOS:000342890100008
 
-Germany in Green: An ambivalent Success Story	https://www.webofscience.com/wos/woscc/full-record/WOS:000399811500020
+On the impact of the temporal variability of the collisional quenching process on the mesospheric OH emission layer: a study based on SD-WACCM4 and SABER	https://www.webofscience.com/wos/woscc/full-record/WOS:000344165600003
 
-Utopia	https://www.webofscience.com/wos/woscc/full-record/WOS:000543941200097
+Past changes in the vertical distribution of ozone - Part 1: Measurement techniques, uncertainties and availability	https://www.webofscience.com/wos/woscc/full-record/WOS:000336740700016
 
-Do respiratory limitations affect metabolism of insect larvae before moulting? An empirical test at the individual level	https://www.webofscience.com/wos/woscc/full-record/WOS:000385956100018
+Tropospheric column amount of ozone retrieved from SCIAMACHY limb-nadir-matching observations	https://www.webofscience.com/wos/woscc/full-record/WOS:000339937200013
 
-Energy and lipid metabolism during direct and diapause development in a pierid butterfly	https://www.webofscience.com/wos/woscc/full-record/WOS:000385956100017
+Chemical ozone loss and ozone mini-hole event during the Arctic winter 2010/2011 as observed by SCIAMACHY and GOME-2	https://www.webofscience.com/wos/woscc/full-record/WOS:000334608400006
 
-Inheritance patterns of photoperiodic diapause induction in Leptinotarsa decemlineata	https://www.webofscience.com/wos/woscc/full-record/WOS:000386940600005
+Retrieval algorithm for densities of mesospheric and lower thermospheric metal atom and ion species from satellite-borne limb emission signals	https://www.webofscience.com/wos/woscc/full-record/WOS:000330945400003
 
-Is a legally distinct subsidiary an "establishment" under Article 97(1) of the Community Trade Mark Regulation?	https://www.webofscience.com/wos/woscc/full-record/WOS:000403091600008
+On the relationship between atomic oxygen and vertical shifts between OH Meinel bands originating from different vibrational levels	https://www.webofscience.com/wos/woscc/full-record/WOS:000327810800046
 
-Fitness costs of increased cataract frequency and cumulative radiation dose in natural mammalian populations from Chernobyl	https://www.webofscience.com/wos/woscc/full-record/WOS:000368670800001
+Chemical ozone losses in Arctic and Antarctic polar winter/spring season derived from SCIAMACHY limb measurements 2002-2009	https://www.webofscience.com/wos/woscc/full-record/WOS:000315406600008
 
-Fail-safe Power Supply for x-by-wire Systems in ag and Construction Machines	https://www.webofscience.com/wos/woscc/full-record/WOS:000391769400016
+Harmonized dataset of ozone profiles from satellite limb and occultation measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000209415500011
 
-Effect of winter cold duration on spring phenology of the orange tip butterfly, Anthocharis cardamines	https://www.webofscience.com/wos/woscc/full-record/WOS:000367433000007
+Error budget analysis of SCIAMACHY limb ozone profile retrievals using the SCIATRAN model	https://www.webofscience.com/wos/woscc/full-record/WOS:000326547100019
 
-Is a change in juvenile hormone sensitivity involved in range expansion in an invasive beetle?	https://www.webofscience.com/wos/woscc/full-record/WOS:000361097600001
+OSIRIS A Decade of Scattered Light	https://www.webofscience.com/wos/woscc/full-record/WOS:000312441200007
 
-Heading which way? Y-maze chemical assays: not all crustaceans are alike	https://www.webofscience.com/wos/woscc/full-record/WOS:000360082300006
+Impacts of the January 2005 solar particle event on noctilucent clouds and water at the polar summer mesopause	https://www.webofscience.com/wos/woscc/full-record/WOS:000305835900020
 
-Responses in metabolic rate to changes in temperature in diapausing Colorado potato beetle Leptinotarsa decemlineata from three European populations	https://www.webofscience.com/wos/woscc/full-record/WOS:000354131800003
+Global and long-term comparison of SCIAMACHY limb ozone profiles with correlative satellite data (2002-2008)	https://www.webofscience.com/wos/woscc/full-record/WOS:000304056200006
 
-Comparative Ecophysiology of Cold-Tolerance-Related Traits: Assessing Range Expansion Potential for an Invasive Insect at High Latitude	https://www.webofscience.com/wos/woscc/full-record/WOS:000352794300003
+Sensitivity of equatorial mesopause temperatures to the 27-day solar cycle	https://www.webofscience.com/wos/woscc/full-record/WOS:000310691000005
 
-Latitudinal differences in diapause related photoperiodic responses of European Colorado potato beetles (Leptinotarsa decemlineata)	https://www.webofscience.com/wos/woscc/full-record/WOS:000349964700005
+On the dependence of the OH* Meinel emission altitude on vibrational level: SCIAMACHY observations and model simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000309424300032
 

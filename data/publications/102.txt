@@ -1,36 +1,102 @@
-Reinhard Lampe,10462691;
+Roland Pulch,29340731;
 
-The lithostratigraphic formations of the coastal Holocene in NE Germany - a synthesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000892789600001
+The Helmholtz equation with uncertainties in the wavenumber	https://www.webofscience.com/wos/pprn/full-record/PPRN:46939127
 
-Characterization of (paleo)lacustrine landforms using sedimentological and portable OSL investigations at Schweriner See, north-eastern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000714092700001
+Image analysis for patterns in solutions of reaction-diffusion equations	https://www.webofscience.com/wos/woscc/full-record/WOS:000811831800015
 
-A Holocene relative sea-level database for the Baltic Sea	https://www.webofscience.com/wos/woscc/full-record/WOS:000694899400010
+Delay Differential Equations for Epidemic Models with Temporary Immunity	https://www.webofscience.com/wos/woscc/full-record/WOS:000930654200014
 
-The role of sea-level changes in the evolution of coastal barriers - An example from the southwestern Baltic Sea	https://www.webofscience.com/wos/woscc/full-record/WOS:000637143900001
+Poly-Sinc Solution of Stochastic Elliptic Differential Equations	https://www.webofscience.com/wos/woscc/full-record/WOS:000645916100001
 
-Evolution of a large Baltic beach ridge plain (Neudarss, NE Germany): A continuous record of sea-level and wind-field variation since the Homeric Minimum	https://www.webofscience.com/wos/woscc/full-record/WOS:000451857900005
+Sensitivity analysis of random linear differential-algebraic equations using system norms	https://www.webofscience.com/wos/woscc/full-record/WOS:000661869500018
 
-Effects of spring warming and mixing duration on diatom deposition in deep Tiefer See, NE Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000392073600003
+Sensitivity analysis of random linear dynamical systems using quadratic outputs	https://www.webofscience.com/wos/woscc/full-record/WOS:000614702800007
 
-Lithosphere and upper-mantle structure of the southern Baltic Sea estimated from modelling relative sea-level data with glacial isostatic adjustment	https://www.webofscience.com/wos/woscc/full-record/WOS:000337218200029
+Machine Learning for Initial Value Problems of Parameter-Dependent Dynamical Systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000787298700026
 
-Bronze Age tin rings from the Tollense valley in northeastern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000310493500002
+Model order reduction for random nonlinear dynamical systems and low-dimensional representations for their quantities of interest	https://www.webofscience.com/wos/woscc/full-record/WOS:000483333300005
 
-A Bronze Age battlefield? Weapons and trauma in the Tollense Valley, north-eastern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000292615300007
+Frequency domain integrals for stability preservation in Galerkin-type projection-based model order reduction	https://www.webofscience.com/wos/woscc/full-record/WOS:000487872700001
 
-Holocene Evolution of the Southern Baltic Sea Coast and Interplay of Sea-Level Variation, Isostasy, Accommodation and Sediment Supply	https://www.webofscience.com/wos/woscc/full-record/WOS:000292846900012
+Stability-preserving model order reduction for linear stochastic Galerkin systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000484933500001
 
-Sediment budget calculation to estimate Holocene coastal changes on the southwest Baltic Sea (Germany)	https://www.webofscience.com/wos/woscc/full-record/WOS:000249479300009
+STABILITY PRESERVATION IN GALERKIN-TYPE PROJECTION-BASED MODEL ORDER REDUCTION	https://www.webofscience.com/wos/woscc/full-record/WOS:000447600900003
 
-The Baltic Sea coast-A model of interrelations among geosphere, climate, and anthroposphere	https://www.webofscience.com/wos/woscc/full-record/WOS:000272080100009
+Sparse Representations for Uncertainty Quantification of a Coupled Field-Circuit Problem	https://www.webofscience.com/wos/woscc/full-record/WOS:000625869000002
 
-The Baltic Sea - A model ocean to study interrelations of geosphere, ecosphere, and anthroposphere in the coastal zone	https://www.webofscience.com/wos/woscc/full-record/WOS:000229408900005
+BALANCED TRUNCATION FOR MODEL ORDER REDUCTION OF LINEAR DYNAMICAL SYSTEMS WITH QUADRATIC OUTPUTS	https://www.webofscience.com/wos/woscc/full-record/WOS:000483924100009
 
-Lateglacial and Holocene water-level variations along the NE German Baltic Sea coast: review and new results	https://www.webofscience.com/wos/woscc/full-record/WOS:000227576900010
+Stability Preservation in Stochastic Galerkin Projections of Dynamical Systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000473215300010
 
-Postglacial evolution of coastal barriers along the West Pomeranian coast, NE Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000227576900005
+Nanoelectronic COupled Problems Solutions: uncertainty quantification for analysis and optimization of an RFIC interference problem	https://www.webofscience.com/wos/woscc/full-record/WOS:000450855500001
 
-Cross-shore distribution of longshore sediment transport rates on a barred non-tidal beach	https://www.webofscience.com/wos/woscc/full-record/WOS:000188745200004
+Index-analysis for a method of lines discretising multirate partial differential algebraic equations	https://www.webofscience.com/wos/woscc/full-record/WOS:000432508200003
 
-Reestablishing naturally functioning dunes on developed coasts	https://www.webofscience.com/wos/woscc/full-record/WOS:000083975000004
+Model order reduction and low-dimensional representations for random linear dynamical systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000413370400001
+
+Quadrature Methods and Model Order Reduction for Sparse Approximations in Random Linear Dynamical Systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000451226800019
+
+Robust Optimization of an RFIC Isolation Problem Under Uncertainties	https://www.webofscience.com/wos/woscc/full-record/WOS:000451226800017
+
+Numerical Methods for Derivative-Based Global Sensitivity Analysis in High Dimensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000451226800015
+
+TIME AND FREQUENCY DOMAIN METHODS FOR BASIS SELECTION IN RANDOM LINEAR DYNAMICAL SYSTEMS	https://www.webofscience.com/wos/woscc/full-record/WOS:000451109500002
+
+Robust Optimal Control of Fishing in a Three Competing Species Model	https://www.webofscience.com/wos/woscc/full-record/WOS:000435693000003
+
+Index-analysis for a method of lines discretising multirate partial differential algebraic equations	https://www.webofscience.com/wos/pprn/full-record/PPRN:19306938
+
+Sample selection based on sensitivity analysis in parameterized model order reduction	https://www.webofscience.com/wos/woscc/full-record/WOS:000392784600030
+
+A Hankel norm for quadrature rules solving random linear dynamical systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000392784600025
+
+Multi-objective topology optimization of a permanent magnet machine to reduce electromagnetic losses and cogging torque	https://www.webofscience.com/wos/woscc/full-record/WOS:000396838100006
+
+Shape and topology optimization of a permanent-magnet machine under uncertainties	https://www.webofscience.com/wos/woscc/full-record/WOS:000387427900002
+
+Nanoelectronic COupled problems solutions - nanoCOPS: modelling, multirate, model order reduction, uncertainty quantification, fast fault simulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000383002100001
+
+Model order reduction using singularly perturbed systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000371361600004
+
+Uncertainty Quantification for Robust Topology Optimization of Power Transistor Devices	https://www.webofscience.com/wos/woscc/full-record/WOS:000372254000005
+
+FAST AND ACCURATE MODEL REDUCTION FOR SPECTRAL METHODS IN UNCERTAINTY QUANTIFICATION	https://www.webofscience.com/wos/woscc/full-record/WOS:000386561000005
+
+Robust Topology Optimization of a Permanent Magnet Synchronous Machine Using Multi-Level Set and Stochastic Collocation Methods	https://www.webofscience.com/wos/woscc/full-record/WOS:000385788900023
+
+Model Order Reduction for Stochastic Expansions of Electric Circuits	https://www.webofscience.com/wos/woscc/full-record/WOS:000385788900022
+
+Simulation of Thermomechanical Behavior Subjected to Induction Hardening	https://www.webofscience.com/wos/woscc/full-record/WOS:000385788900014
+
+Shape optimization of a Power MOS device under uncertainties	https://www.webofscience.com/wos/woscc/full-record/WOS:000382679200060
+
+Fast Time-Domain Simulation for Reliable Fault Detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000382679200057
+
+Existence and uniqueness of optimal solutions for multirate partial differential algebraic equations	https://www.webofscience.com/wos/woscc/full-record/WOS:000362057700005
+
+Sensitivity analysis and model order reduction for random linear dynamical systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000353854500006
+
+THE NANOCOPS PROJECT ON ALGORITHMS FOR NANOELECTRONIC COUPLED PROBLEMS SOLUTIONS	https://www.webofscience.com/wos/woscc/full-record/WOS:000380588500093
+
+Uncertainty Quantification in Electro-Thermal Coupled Problems based on a Power Transistor Device	https://www.webofscience.com/wos/woscc/full-record/WOS:000375800100213
+
+STOCHASTIC GALERKIN METHODS AND MODEL ORDER REDUCTION FOR LINEAR DYNAMICAL SYSTEMS	https://www.webofscience.com/wos/woscc/full-record/WOS:000359996000004
+
+Stochastic collocation and stochastic Galerkin methods for linear differential algebraic equations	https://www.webofscience.com/wos/woscc/full-record/WOS:000332050200025
+
+Robust and Efficient Uncertainty Quantification and Validation of RFIC Isolation	https://www.webofscience.com/wos/woscc/full-record/WOS:000334729600004
+
+Influence of Measurement Errors on Transformer Inrush Currents Using Different Material Models	https://www.webofscience.com/wos/woscc/full-record/WOS:000332471700118
+
+POLYNOMIAL CHAOS FOR SEMIEXPLICIT DIFFERENTIAL ALGEBRAIC EQUATIONS OF INDEX 1	https://www.webofscience.com/wos/woscc/full-record/WOS:000343414300001
+
+Stochastic Galerkin Methods for Analyzing Equilibria of Random Dynamical Systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000213796800019
+
+Polynomial chaos for boundary value problems of dynamical systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000308685700018
+
+Generalised Polynomial Chaos for a Class of Linear Conservation Laws	https://www.webofscience.com/wos/woscc/full-record/WOS:000302259900003
+
+Modelling and Simulation of Forced Oscillators with Random Periods	https://www.webofscience.com/wos/woscc/full-record/WOS:000335745600033
+
+Modelling and simulation of autonomous oscillators with random parameters	https://www.webofscience.com/wos/woscc/full-record/WOS:000287983300003
 

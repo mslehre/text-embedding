@@ -1,20 +1,64 @@
-Jan Zeller,1933480;
+Joscha Diehl,16726735;
 
-Attitudes on languages, identities and politics at the Ukrainian Black Sea coast in 2020/21	https://www.webofscience.com/wos/woscc/full-record/WOS:000854406100001
+Shuffle Algebras and Non-Commutative Probability for Pairs of Faces	https://www.webofscience.com/wos/woscc/full-record/WOS:000963584700001
 
-Kazdyj den' turist *otdoxnul na pljaze. An event-related potentials study on the processing of aspectual violation in Russian iterative sentences	https://www.webofscience.com/wos/woscc/full-record/WOS:000583022200004
+GENERALIZED ITERATED-SUMS SIGNATURES	https://www.webofscience.com/wos/pprn/full-record/PPRN:22930774
 
-Code-Switching Does Not Equal Code-Switching. An Event-Related Potentials Study on Switching From L2 German to L1 Russian at Prepositions and Nouns	https://www.webofscience.com/wos/woscc/full-record/WOS:000548652300001
+Two-parameter sums signatures and corresponding quasisymmetric functions	https://www.webofscience.com/wos/pprn/full-record/PPRN:22173054
 
-The Russian language in Belarus and Ukraine	https://www.webofscience.com/wos/woscc/full-record/WOS:000544936700010
+Graph counting signatures and bicommutative Hopf algebras	https://www.webofscience.com/wos/pprn/full-record/PPRN:12220909
 
-How L2-learners' brains react to code-switches: An ERP study with Russian learners of German	https://www.webofscience.com/wos/woscc/full-record/WOS:000372320700003
+The Moving-Frame Method for the Iterated-Integrals Signature: Orthogonal Invariants	https://www.webofscience.com/wos/woscc/full-record/WOS:000804505100001
 
-Opinions and Attitudes for Languages and Codes in central Regions of Ukraine	https://www.webofscience.com/wos/woscc/full-record/WOS:000391260000005
+Shuffle Algebras and Non-Commutative Probability for Pairs of Faces	https://www.webofscience.com/wos/pprn/full-record/PPRN:36057382
 
-Sound Substitutions in the lexical Borrowings from German into Polish	https://www.webofscience.com/wos/woscc/full-record/WOS:000388312500011
+A quadratic identity in the shuffle algebra and an alternative proof for de Bruijn's formula	https://www.webofscience.com/wos/woscc/full-record/WOS:000703568300012
 
-Belarusians' pronunciation: Belarusian or Russian? Evidence from Belarusian-Russian mixed speech	https://www.webofscience.com/wos/woscc/full-record/WOS:000339390800005
+The expected signature of Brownian motion stopped on the boundary of a circle has finite radius of convergence	https://www.webofscience.com/wos/woscc/full-record/WOS:000583520400001
 
-Vowel variation in the Belarusian vernacular. Comments on T. R. Ramza [2011] and an instrumental-phonetic study on the Belarusian 'jakanne'	https://www.webofscience.com/wos/woscc/full-record/WOS:000322703900005
+Tropical time series, iterated-sums signatures and quasisymmetric functions	https://www.webofscience.com/wos/pprn/full-record/PPRN:12115149
+
+Time-Warping Invariants of Multidimensional Time Series	https://www.webofscience.com/wos/woscc/full-record/WOS:000532867700001
+
+Time-warping invariants of multidimensional time series	https://www.webofscience.com/wos/pprn/full-record/PPRN:15650392
+
+The expected signature of Brownian motion stopped on the boundary of a circle has finite radius of convergence	https://www.webofscience.com/wos/pprn/full-record/PPRN:14764189
+
+Invariants of Multidimensional Time Series Based on Their Iterated-Integral Signature	https://www.webofscience.com/wos/woscc/full-record/WOS:000494042000005
+
+The parabolic Anderson model on Riemann surfaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000467147700008
+
+Invariants of multidimensional time series based on their iterated-integral signature	https://www.webofscience.com/wos/pprn/full-record/PPRN:12858688
+
+The Kardar-Parisi-Zhang Equation as Scaling Limit of Weakly Asymmetric Interacting Brownian Motions	https://www.webofscience.com/wos/woscc/full-record/WOS:000403717700004
+
+Backward stochastic differential equations with Young drift	https://www.webofscience.com/wos/woscc/full-record/WOS:000413369800001
+
+Stochastic control with rough paths	https://www.webofscience.com/wos/woscc/full-record/WOS:000396813600006
+
+The parabolic Anderson model on Riemann surfaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:12345582
+
+Backward stochastic differential equations with Young drift	https://www.webofscience.com/wos/pprn/full-record/PPRN:12222235
+
+Pathwise stability of likelihood estimators for diffusions via rough paths	https://www.webofscience.com/wos/pprn/full-record/PPRN:22518590
+
+PATHWISE STABILITY OF LIKELIHOOD ESTIMATORS FOR DIFFUSIONS VIA ROUGH PATHS	https://www.webofscience.com/wos/woscc/full-record/WOS:000383411200007
+
+The Kardar-Parisi-Zhang equation as scaling limit of weakly asymmetric interacting Brownian motions	https://www.webofscience.com/wos/pprn/full-record/PPRN:12701190
+
+A Levy area between Brownian motion and rough paths with applications to robust nonlinear filtering and rough partial differential equations	https://www.webofscience.com/wos/woscc/full-record/WOS:000345731500006
+
+Stochastic partial differential equations: a rough path view	https://www.webofscience.com/wos/pprn/full-record/PPRN:12917933
+
+Robustness in Stochastic Filtering and Maximum Likelihood Estimation for SDEs	https://www.webofscience.com/wos/woscc/full-record/WOS:000357402100009
+
+Rotation invariants of two dimensional curves based on iterated integrals	https://www.webofscience.com/wos/pprn/full-record/PPRN:11638268
+
+Stochastic control with rough paths	https://www.webofscience.com/wos/pprn/full-record/PPRN:22643762
+
+BACKWARD STOCHASTIC DIFFERENTIAL EQUATIONS WITH ROUGH DRIVERS	https://www.webofscience.com/wos/woscc/full-record/WOS:000306825000008
+
+Parabolic comparison revisited and applications	https://www.webofscience.com/wos/pprn/full-record/PPRN:22500693
+
+Backward stochastic differential equations with rough drivers	https://www.webofscience.com/wos/pprn/full-record/PPRN:10913334
 

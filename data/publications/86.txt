@@ -1,102 +1,68 @@
-Konrad Waldorf,17218814;
+Mareike Fischer,15236651;
 
-Lie 2-groups from loop group extensions	https://www.webofscience.com/wos/pprn/full-record/PPRN:47295502
+Computer Vision for Detection of Body Posture and Behavior of Red Foxes	https://www.webofscience.com/wos/woscc/full-record/WOS:000755614900001
 
-Geometric T-duality: Buscher rules in general topology	https://www.webofscience.com/wos/pprn/full-record/PPRN:11418942
+Measuring tree balance using symmetry nodes - A new balance index and its extremal properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000710581500006
 
-A representation of the string 2-group	https://www.webofscience.com/wos/pprn/full-record/PPRN:12321742
+Application of YOLOv4 for Detection and Motion Monitoring of Red Foxes	https://www.webofscience.com/wos/woscc/full-record/WOS:000665400000001
 
-Fusion of implementers for spinors on the circle	https://www.webofscience.com/wos/woscc/full-record/WOS:000793475900019
+Extremal Values of the Sackin Tree Balance Index	https://www.webofscience.com/wos/woscc/full-record/WOS:000655800900001
 
-Categorical symmetries of T-duality	https://www.webofscience.com/wos/pprn/full-record/PPRN:12068360
+Unrooted non-binary tree-based phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000674744600002
 
-Fusion of implementers for spinors on the circle	https://www.webofscience.com/wos/pprn/full-record/PPRN:12092746
+How tree-based is my network? Proximity measures for unrooted phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000543301700008
 
-2-vector bundles	https://www.webofscience.com/wos/pprn/full-record/PPRN:14155077
+Classes of tree-based networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000705833000001
 
-Smooth functorial field theories from B-fields and D-branes	https://www.webofscience.com/wos/woscc/full-record/WOS:000610468800001
+On the uniqueness of the maximum parsimony tree for data with up to two substitutions: An extension of the classic Buneman theorem in phylogenetics	https://www.webofscience.com/wos/woscc/full-record/WOS:000472499000011
 
-Transgression of D-branes	https://www.webofscience.com/wos/woscc/full-record/WOS:000820285500001
+Statistical Inconsistency of Maximum Parsimony for k-Tuple-Site Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000460046900009
 
-Connes fusion of spinors on loop space	https://www.webofscience.com/wos/pprn/full-record/PPRN:15025223
+On the Shapley Value of Unrooted Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000456407300013
 
-Pontrjagin duality on multiplicative Gerbes	https://www.webofscience.com/wos/pprn/full-record/PPRN:14769994
+LVQ-KNN: Composition-based DNA/RNA binning of short nucleotide sequences utilizing a prototype-based k-nearest neighbor approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000450382600007
 
-Observation of multi-skyrmion objects created by size and density control in Ta/CoFeB/MgO films	https://www.webofscience.com/wos/pprn/full-record/PPRN:12936922
+On the information content of discrete phylogenetic characters	https://www.webofscience.com/wos/woscc/full-record/WOS:000443369200001
 
-Smooth Fock bundles, and spinor bundles on loop space	https://www.webofscience.com/wos/pprn/full-record/PPRN:22854922
+Phylogenetic diversity and biodiversity indices on phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000430034700007
 
-Higher Geometry for Non-geometric T-Duals	https://www.webofscience.com/wos/woscc/full-record/WOS:000518631400010
+On the Accuracy of Ancestral Sequence Reconstruction for Ultrametric Trees with Parsimony	https://www.webofscience.com/wos/woscc/full-record/WOS:000428067300007
 
-Smooth Functorial Field Theories from B-Fields and D-Branes	https://www.webofscience.com/wos/pprn/full-record/PPRN:11942376
+Automatic classification of farms and traders in the pig production chain	https://www.webofscience.com/wos/woscc/full-record/WOS:000426027300011
 
-Higher geometry for non-geometric T-duals	https://www.webofscience.com/wos/pprn/full-record/PPRN:12092885
+Defining objective clusters for rabies virus sequences using affinity propagation clustering	https://www.webofscience.com/wos/woscc/full-record/WOS:000424022700044
 
-Transgression of D-branes	https://www.webofscience.com/wos/pprn/full-record/PPRN:12888155
+Ancestral Sequence Reconstruction with Maximum Parsimony	https://www.webofscience.com/wos/woscc/full-record/WOS:000416819300005
 
-Non-abelian gerbes and some applications in string theory	https://www.webofscience.com/wos/pprn/full-record/PPRN:22699621
+On the Complexity of Computing MP Distance Between Binary Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000414908200007
 
-A global perspective to connections on principal 2-bundles	https://www.webofscience.com/wos/woscc/full-record/WOS:000437914900002
+Comparing the rankings obtained from two biodiversity indices: the Fair Proportion Index and the Shapley Value	https://www.webofscience.com/wos/woscc/full-record/WOS:000408401800021
 
-Local theory for 2-functors on path 2-groupoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000408700500004
+On the quirks of maximum parsimony and likelihood on phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000396640900010
 
-Transgressive loop group extensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000401004700011
+A Linear Bound on the Number of States in Optimal Convex Characters for Maximum Parsimony Distance	https://www.webofscience.com/wos/woscc/full-record/WOS:000399013500025
 
-A global perspective to connections on principal 2-bundles	https://www.webofscience.com/wos/pprn/full-record/PPRN:12935236
+Reduction rules for the maximum parsimony distance on phylogenetic trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000383822900001
 
-Parallel transport in principal 2-bundles	https://www.webofscience.com/wos/pprn/full-record/PPRN:22687847
+On the Maximum Parsimony Distance Between Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000370802900006
 
-Transgressive loop group extensions	https://www.webofscience.com/wos/pprn/full-record/PPRN:12340205
+ON COMPUTING THE MAXIMUM PARSIMONY SCORE OF A PHYLOGENETIC NETWORK	https://www.webofscience.com/wos/woscc/full-record/WOS:000352224600035
 
-Spin structures on loop spaces that characterize string manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000377810800002
+The most parsimonious tree for random data	https://www.webofscience.com/wos/woscc/full-record/WOS:000343742200017
 
-TRANSGRESSION TO LOOP SPACES AND ITS INVERSE, II GERBES AND FUSION BUNDLES WITH CONNECTION	https://www.webofscience.com/wos/woscc/full-record/WOS:000371002800004
+Mathematical Aspects of Phylogenetic Groves	https://www.webofscience.com/wos/woscc/full-record/WOS:000319359000003
 
-String geometry vs. spin geometry on loop spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000361401800017
+On the group theoretical background of assigning stepwise mutations onto phylogenies	https://www.webofscience.com/wos/woscc/full-record/WOS:000314209900001
 
-String geometry vs. spin geometry on loop spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:18915352
+Non-hereditary Maximum Parsimony trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000306067000004
 
-A Loop Space Formulation for Geometric Lifting Problems	https://www.webofscience.com/wos/pprn/full-record/PPRN:22783685
+Revisiting an Equivalence Between Maximum Parsimony and Maximum Likelihood Methods in Phylogenetics	https://www.webofscience.com/wos/woscc/full-record/WOS:000273481000009
 
-Parallel Transport and Functors	https://www.webofscience.com/wos/pprn/full-record/PPRN:11943257
+Maximum parsimony on subsets of taxa	https://www.webofscience.com/wos/woscc/full-record/WOS:000274798300012
 
-STRING CONNECTIONS AND CHERN-SIMONS THEORY	https://www.webofscience.com/wos/woscc/full-record/WOS:000326588800016
+Sequence length bounds for resolving a deep phylogenetic divergence	https://www.webofscience.com/wos/woscc/full-record/WOS:000262842700010
 
-FOUR EQUIVALENT VERSIONS OF NONABELIAN GERBES	https://www.webofscience.com/wos/woscc/full-record/WOS:000322867800004
+Expected Anomalies in the Fossil Record	https://www.webofscience.com/wos/woscc/full-record/WOS:000264677700007
 
-Lifting problems and transgression for non-abelian gerbes	https://www.webofscience.com/wos/woscc/full-record/WOS:000319782400002
-
-Four Equivalent Versions of Non-Abelian Gerbes	https://www.webofscience.com/wos/pprn/full-record/PPRN:22620524
-
-THE GAUGING OF TWO-DIMENSIONAL BOSONIC SIGMA MODELS ON WORLD-SHEETS WITH DEFECTS	https://www.webofscience.com/wos/woscc/full-record/WOS:000321427300002
-
-Lifting Problems and Transgression for Non-Abelian Gerbes	https://www.webofscience.com/wos/pprn/full-record/PPRN:22641700
-
-Local Theory for 2-Functors on Path 2-Groupoids	https://www.webofscience.com/wos/pprn/full-record/PPRN:12339653
-
-Transgression to Loop Spaces and its Inverse, I: Diffeological Bundles and Fusion Maps	https://www.webofscience.com/wos/pprn/full-record/PPRN:11606728
-
-Spin structures on loop spaces that characterize string manifolds	https://www.webofscience.com/wos/pprn/full-record/PPRN:13599985
-
-Transgression to Loop Spaces and its Inverse, II: Gerbes and Fusion Bundles with Connection	https://www.webofscience.com/wos/pprn/full-record/PPRN:11605393
-
-String Connections and Chern-Simons Theory	https://www.webofscience.com/wos/pprn/full-record/PPRN:13566670
-
-CONNECTIONS ON NON-ABELIAN GERBES AND THEIR HOLONOMY	https://www.webofscience.com/wos/woscc/full-record/WOS:000330224400005
-
-Transgression to loop spaces and its inverse, III: Gerbes and thin fusion bundles	https://www.webofscience.com/wos/woscc/full-record/WOS:000310096900015
-
-Transgression to Loop Spaces and its Inverse, III: Gerbes and Thin Fusion Bundles	https://www.webofscience.com/wos/pprn/full-record/PPRN:11439981
-
-A Construction of String 2-Group Models using a Transgression-Regression Technique	https://www.webofscience.com/wos/pprn/full-record/PPRN:18862496
-
-The gauging of two-dimensional bosonic sigma models on world-sheets with defects	https://www.webofscience.com/wos/pprn/full-record/PPRN:11153586
-
-A construction of string 2-group models using a transgression-regression technique	https://www.webofscience.com/wos/woscc/full-record/WOS:000313596900006
-
-Smooth Functors vs. Differential Forms	https://www.webofscience.com/wos/pprn/full-record/PPRN:22671454
-
-Bundle gerbes for orientifold sigma models	https://www.webofscience.com/wos/woscc/full-record/WOS:000305189500001
-
-Global Gauge Anomalies in Two-Dimensional Bosonic Sigma Models	https://www.webofscience.com/wos/woscc/full-record/WOS:000287096500008
+Perfectly Misleading Distances from Ternary Characters	https://www.webofscience.com/wos/woscc/full-record/WOS:000263702800001
 

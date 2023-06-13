@@ -1,78 +1,36 @@
-Marc Ebner,1911881;
+Maria-Theresia Schafmeister,14569009;
 
-Are Image Patches Beneficial for Initializing Convolutional Neural Network Models?	https://www.webofscience.com/wos/woscc/full-record/WOS:000661288200034
+A dual-continuum model (TOUGH2) for characterizing flow and discharge in a mechanically disrupted sandstone overburden	https://www.webofscience.com/wos/woscc/full-record/WOS:000819900300001
 
-Collision Detection for a Mobile Robot using Logistic Regression	https://www.webofscience.com/wos/woscc/full-record/WOS:000571072100016
+Synthesis of Hydroxy-Sodalite/Cancrinite Zeolites from Calcite-Bearing Kaolin for the Removal of Heavy Metal Ions in Aqueous Media	https://www.webofscience.com/wos/woscc/full-record/WOS:000482981400032
 
-Acceleration based Collision Detection with a Mobile Robot	https://www.webofscience.com/wos/woscc/full-record/WOS:000465234300079
+Thou shalt never ask me ...	https://www.webofscience.com/wos/woscc/full-record/WOS:000341709300001
 
-Distributed storage and recall of sentences	https://www.webofscience.com/wos/woscc/full-record/WOS:000453253500005
+Hydrogeology. Introduction to General and Applied Hydrogeology	https://www.webofscience.com/wos/woscc/full-record/WOS:000348588100008
 
-Evolving Game State Features from Raw Pixels	https://www.webofscience.com/wos/woscc/full-record/WOS:000413012200004
+Fracking - The Role of Hydrogeology	https://www.webofscience.com/wos/woscc/full-record/WOS:000323659100001
 
-Is depth information and optical flow helpful for visual control?	https://www.webofscience.com/wos/woscc/full-record/WOS:000453250400002
+Untitled	https://www.webofscience.com/wos/woscc/full-record/WOS:000308440600001
 
-A GP-based Video Game Player	https://www.webofscience.com/wos/woscc/full-record/WOS:000358795700131
+Potential Change in Groundwater Discharge as Response to Varying Climatic Conditions - An Experimental Model Study at Catchment Scale	https://www.webofscience.com/wos/woscc/full-record/WOS:000292846900019
 
-A Strongly Typed GP-based Video Game Player	https://www.webofscience.com/wos/woscc/full-record/WOS:000376490300035
+Importance of the nugget effect in variography on modeling zinc leaching from a contaminated site using simulated annealing	https://www.webofscience.com/wos/woscc/full-record/WOS:000280452500007
 
-Single-image shadow detection and removal using local colour constancy computation	https://www.webofscience.com/wos/woscc/full-record/WOS:000349533500004
+An ArcGIS((R)) Approach to Include Tectonic Structures in Point Data Regionalization	https://www.webofscience.com/wos/woscc/full-record/WOS:000267700200022
 
-Depth map color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000453242900001
+Relative sea-level curve for SE Rugen and Usedom Island (SW Baltic Sea coast, Germany) using decompacted profiles	https://www.webofscience.com/wos/woscc/full-record/WOS:000265135100005
 
-A COMPUTATIONAL MODEL FOR COLOR PERCEPTION	https://www.webofscience.com/wos/woscc/full-record/WOS:000453240900005
+Interaction among sedimentation, compaction, and groundwater flow in coastal settings	https://www.webofscience.com/wos/woscc/full-record/WOS:000272080100005
 
-Evolving concepts using gene duplication	https://www.webofscience.com/wos/woscc/full-record/WOS:000327984900012
+Hydrogeology education in Germany: what are we missing?	https://www.webofscience.com/wos/woscc/full-record/WOS:000171831900001
 
-Lateral Information Processing by Spiking Neurons: A Theoretical Model of the Neural Correlate of Consciousness	https://www.webofscience.com/wos/woscc/full-record/WOS:000208906100007
+Some current methods to represent the heterogeneity of natural media in hydrogeology	https://www.webofscience.com/wos/woscc/full-record/WOS:000079765800011
 
-Computational Modeling of Robust Figure/Ground Separation	https://www.webofscience.com/wos/woscc/full-record/WOS:000394239700012
+Parameter estimation for groundwater models by indicator kriging	https://www.webofscience.com/wos/woscc/full-record/WOS:A1997BJ67S00014
 
-A COMPUTATIONAL MODEL FOR CONSCIOUS VISUAL PERCEPTION AND FIGURE/GROUND SEPARATION	https://www.webofscience.com/wos/woscc/full-record/WOS:000308513700021
+KNOWLEDGE-BASED SYSTEMS FOR RISK ASSESSMENT OF THE SUBSURFACE OF CONTAMINATED SITES	https://www.webofscience.com/wos/woscc/full-record/WOS:A1994PF99500006
 
-On the effect of scene motion on color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000300095600004
+REGIONALIZATION OF SOME HYDROGEOLOGICAL PROCESSES AND PARAMETERS BY MEANS OF GEOSTATISTICAL METHODS - CURRENT STATUS AND FUTURE REQUIREMENTS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1994BA03E00042
 
-Towards Automated Learning of Object Detectors	https://www.webofscience.com/wos/woscc/full-record/WOS:000279390200024
-
-Coevolutionary Dynamics of Interacting Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000279390200001
-
-Evolutionary parameter optimization of a fuzzy controller which is used to control a sewage treatment plant	https://www.webofscience.com/wos/woscc/full-record/WOS:000273806100007
-
-Evolving Object Detectors with a GPU Accelerated Vision System	https://www.webofscience.com/wos/woscc/full-record/WOS:000286407000010
-
-Color constancy based on local space average color	https://www.webofscience.com/wos/woscc/full-record/WOS:000266926400002
-
-Engineering of Computer Vision Algorithms Using Evolutionary Algorithms	https://www.webofscience.com/wos/woscc/full-record/WOS:000279102300034
-
-A Real-Time Evolutionary Object Recognition System	https://www.webofscience.com/wos/woscc/full-record/WOS:000265597500023
-
-Color constancy from image transformations in JPEG and JPEG2000	https://www.webofscience.com/wos/woscc/full-record/WOS:000255196800099
-
-An Adaptive On-Line Evolutionary Visual System	https://www.webofscience.com/wos/woscc/full-record/WOS:000273016800015
-
-A genetic programming approach to deriving the spectral sensitivity of an optical system	https://www.webofscience.com/wos/woscc/full-record/WOS:000254506700006
-
-Estimating the Spectral Sensitivity of a Digital Sensor using Calibration Targets	https://www.webofscience.com/wos/woscc/full-record/WOS:000268226900126
-
-Integrating color constancy into JPEG2000	https://www.webofscience.com/wos/woscc/full-record/WOS:000250241500007
-
-Estimating the color of the illuminant using anisotropic diffusion	https://www.webofscience.com/wos/woscc/full-record/WOS:000249585600055
-
-How does the brain arrive at a color constant descriptor?	https://www.webofscience.com/wos/woscc/full-record/WOS:000250716000009
-
-Evolving color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000238279200008
-
-Evolution of vertex and pixel shaders	https://www.webofscience.com/wos/woscc/full-record/WOS:000229209800023
-
-On determining the color of the illuminant using the dichromatic reflection model	https://www.webofscience.com/wos/woscc/full-record/WOS:000232246500001
-
-A parallel algorithm for color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000188063800007
-
-Color constancy using local color shifts	https://www.webofscience.com/wos/woscc/full-record/WOS:000221569700022
-
-Combining white-patch retinex and the gray world assumption to achieve color constancy for multiple illuminants	https://www.webofscience.com/wos/woscc/full-record/WOS:000187294800009
-
-Evolution and growth of virtual plants	https://www.webofscience.com/wos/woscc/full-record/WOS:000187009400025
-
-Evolutionary design of objects using scene graphs	https://www.webofscience.com/wos/woscc/full-record/WOS:000184814100005
+SPATIAL STRUCTURE OF HYDRAULIC CONDUCTIVITY IN VARIOUS POROUS-MEDIA - PROBLEMS AND EXPERIENCES	https://www.webofscience.com/wos/woscc/full-record/WOS:A1993BY18R00058
 

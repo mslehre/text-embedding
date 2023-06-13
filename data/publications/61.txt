@@ -1,78 +1,66 @@
-Sebastian Domsch,7011797;
+Theresa Heyd,35075334;
 
-Functional MRI of neuro-electro-magnetic oscillations: Statistical processing in the presence of system imperfections	https://www.webofscience.com/wos/woscc/full-record/WOS:000672635300033
+First names and sociolinguistic enregisterment: Digital tropes of linguistic mobility	https://www.webofscience.com/wos/woscc/full-record/WOS:000873114200002
 
-Drawing on the Victorians: The Palimpsest of Victorian and Neo-Victorian Graphic Texts	https://www.webofscience.com/wos/woscc/full-record/WOS:000472594800009
+Anglophone Practices in Berlin: From Historical Evidence to Transnational Communities	https://www.webofscience.com/wos/woscc/full-record/WOS:000640516500009
 
-Oxygen extraction fraction mapping at 3 Tesla using an artificial neural network: A feasibility study	https://www.webofscience.com/wos/woscc/full-record/WOS:000419134600029
+The sociolinguistics of late modern publics	https://www.webofscience.com/wos/woscc/full-record/WOS:000486538100001
 
-Thomas Love Peacock: Crotchet Castle	https://www.webofscience.com/wos/woscc/full-record/WOS:000459232600032
+The sociolinguistic economy of Berlin: cosmopolitan perspectives on language, diversity and social space	https://www.webofscience.com/wos/woscc/full-record/WOS:000629746100001
 
-Thomas Love Peacock: Nightmare Abbey	https://www.webofscience.com/wos/woscc/full-record/WOS:000459232600031
+Hashtagging and functional shift: Adaptation and appropriation of the #	https://www.webofscience.com/wos/woscc/full-record/WOS:000404699100005
 
-Diffusion parameter mapping with the combined intravoxel incoherent motion and kurtosis model using artificial neural networks at 3 T	https://www.webofscience.com/wos/woscc/full-record/WOS:000418202200009
+Global varieties of English gone digital: Orthographic and semantic variation in digital Nigerian Pidgin	https://www.webofscience.com/wos/woscc/full-record/WOS:000435924600005
 
-1D and 2D diffusion pore imaging on a preclinical MR system using adaptive rephasing: Feasibility and pulse sequence comparison	https://www.webofscience.com/wos/woscc/full-record/WOS:000400723900005
+Phonetic Transcription as folk linguistic Sign Practice in public Space	https://www.webofscience.com/wos/woscc/full-record/WOS:000425480800005
 
-Gaussian signal relaxation around spin echoes: Implications for precise reversible transverse relaxation quantification of pulmonary tissue at 1.5 and 3 Tesla	https://www.webofscience.com/wos/woscc/full-record/WOS:000399666400020
+; Narratives of Belonging in the Digital Diaspora: Corpus Approaches to a Cultural Concept	https://www.webofscience.com/wos/woscc/full-record/WOS:000397102300006
 
-Futures of the American Novel	https://www.webofscience.com/wos/woscc/full-record/WOS:000480757600009
+The metacommunicative lexicon of Nigerian Pidgin	https://www.webofscience.com/wos/woscc/full-record/WOS:000365430000009
 
-Optimized protocol for high resolution functional magnetic resonance imaging at 3 T using single-shot echo planar imaging	https://www.webofscience.com/wos/woscc/full-record/WOS:000347664400019
+From Natio to Chitown: The New African Diaspora and digital representations of place	https://www.webofscience.com/wos/woscc/full-record/WOS:000367407800003
 
-Staging Icons, Performing Storyworlds - From Mystery Play to Cosplay	https://www.webofscience.com/wos/woscc/full-record/WOS:000421411100006
+Folk-linguistic landscapes: The visual semiotics of digital enregisterment	https://www.webofscience.com/wos/woscc/full-record/WOS:000344363900001
 
-Emergence of Literary Criticism in 18th-Century Britain: Discourse between Attacks and Authority	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200014
+Doing race and ethnicity in a digital community: Lexical labels and narratives of belonging in a Nigerian web forum	https://www.webofscience.com/wos/woscc/full-record/WOS:000364353500005
 
-Distance and Democracy	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200013
+Dude, Alter! A tale of two vocatives	https://www.webofscience.com/wos/woscc/full-record/WOS:000342729900005
 
-Institutionalizing Authority: Academies and Reviews	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200012
+Unreliability The Pragmatic Perspective Revisited	https://www.webofscience.com/wos/woscc/full-record/WOS:000214468800002
 
-Authority and the Marketplace	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200011
+HOW YOU GUYS DOIN'? STAGED ORALITY AND EMERGING PLURAL ADDRESS IN THE TELEVISION SERIES FRIENDS	https://www.webofscience.com/wos/woscc/full-record/WOS:000278119500002
 
-Name-Authority: The Critic as Institution	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200010
+Email Hoaxes: Form, Function, Genre Ecology	https://www.webofscience.com/wos/woscc/full-record/WOS:000304208900008
 
-Taste and the Critic	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200009
+A genre study of EHs	https://www.webofscience.com/wos/woscc/full-record/WOS:000304208900007
 
-Rules and the Critic	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200008
+Narrativity in EHs	https://www.webofscience.com/wos/woscc/full-record/WOS:000304208900006
 
-Learning: Knowledge between Authority and Pedantry	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200007
+The pragmatics of EHs	https://www.webofscience.com/wos/woscc/full-record/WOS:000304208900005
 
-The Authority of Poetic Genius	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200006
+The dynamics of EH transmission Chronological aspects	https://www.webofscience.com/wos/woscc/full-record/WOS:000304208900004
 
-The Authority of Seniority: Ancient and Modern Criticism	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200005
+Formal aspects of EHs A microlinguistic analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000304208900003
 
-Aristocratic Authority	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200004
+Email Hoaxes Form, function, genre ecology Introducing the data	https://www.webofscience.com/wos/woscc/full-record/WOS:000304208900002
 
-Critical Authority	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200003
+Email Hoaxes Form, function, genre ecology Introduction	https://www.webofscience.com/wos/woscc/full-record/WOS:000304208900001
 
-Contemporary Discussions of Criticism and the Critic	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200002
+Understanding and handling unreliable narratives: A pragmatic model and method	https://www.webofscience.com/wos/woscc/full-record/WOS:000242336700007
 
-Sebastian Domsch The Emergence of Literary Criticism in 18th-Century Britain Discourse between Attacks and Authority Introduction	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200001
+The intemperate rainforest: Nature, culture, and power on Canada's west coast.	https://www.webofscience.com/wos/woscc/full-record/WOS:000222139500006
 
-Non-invasive multiparametric qBOLD approach for robust mapping of the oxygen extraction fraction	https://www.webofscience.com/wos/woscc/full-record/WOS:000341283600007
+Biodiversity and democracy: Rethinking society and nature.	https://www.webofscience.com/wos/woscc/full-record/WOS:000176036900010
 
-Increased BOLD sensitivity in the orbitofrontal cortex using slice-dependent echo times at 3 T	https://www.webofscience.com/wos/woscc/full-record/WOS:000314440900005
+Sacred ecology: Traditional knowledge and resource management.	https://www.webofscience.com/wos/woscc/full-record/WOS:000165204500006
 
-A novel temporal filtering strategy for functional MRI using UNFOLD	https://www.webofscience.com/wos/woscc/full-record/WOS:000305859300007
+The real and the hyperreal: Dance and simulacra	https://www.webofscience.com/wos/woscc/full-record/WOS:000175268900003
 
-"Kill Switch: The Ethics of Simulation" (25th November 2011)	https://www.webofscience.com/wos/woscc/full-record/WOS:000320970100012
+John Locke: A descriptive bibliography.	https://www.webofscience.com/wos/woscc/full-record/WOS:000078246800019
 
-Language and the edges of humanity: Orang-utans and wild girls in Monboddo and Peacock (Lord Monboddo, Thomas Love Peacock)	https://www.webofscience.com/wos/woscc/full-record/WOS:000256226700002
+Crazy mountains: Learning from wilderness to weigh technology.	https://www.webofscience.com/wos/woscc/full-record/WOS:000082109500007
 
-'Kalte Herberge'	https://www.webofscience.com/wos/woscc/full-record/WOS:000223051800019
+Reclamation art - Robert Morris' Untitled: Johnson Pit #30 reclaimed an industrially blasted landscape without forgiving it.	https://www.webofscience.com/wos/woscc/full-record/WOS:000080246300011
 
-'Roman von Montag bis Freitag'	https://www.webofscience.com/wos/woscc/full-record/WOS:000222004400029
-
-Der 'Weg nach Xanadu'	https://www.webofscience.com/wos/woscc/full-record/WOS:000186740400022
-
-'"Aufgeklappt"'	https://www.webofscience.com/wos/woscc/full-record/WOS:000184274500050
-
-'Hungrige Tage'	https://www.webofscience.com/wos/woscc/full-record/WOS:000183332900024
-
-'Yquem'	https://www.webofscience.com/wos/woscc/full-record/WOS:000181799900021
-
-Swimmer in the desert. In search of the Zarzura Oasis	https://www.webofscience.com/wos/woscc/full-record/WOS:000179940000025
-
-'Almasy'	https://www.webofscience.com/wos/woscc/full-record/WOS:000179940000024
+Earth summit ethics: Toward a reconstructive postmodern philosophy of environmental education - Callicott,JB, daRocha,FJR	https://www.webofscience.com/wos/woscc/full-record/WOS:A1997YF01300008
 

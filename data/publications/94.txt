@@ -1,102 +1,102 @@
-Matthias Eschrig,394932;
+Michael Lalk,1182517;
 
-FeSe and the Missing Electron Pocket Problem	https://www.webofscience.com/wos/woscc/full-record/WOS:000800548500001
+Genomic analysis of the international high-risk clonal lineage Klebsiella pneumoniae sequence type 395	https://www.webofscience.com/wos/woscc/full-record/WOS:000932067900001
 
-Anomalous inverse proximity effect in unconventional superconductor junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000726609400001
+Structural Insights into (Tere)phthalate-Ester Hydrolysis by a Carboxylesterase and Its Role in Promoting PET Depolymerization	https://www.webofscience.com/wos/woscc/full-record/WOS:000898569200001
 
-Non-local d(xy) nematicity and the missing electron pocket in FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000656948700002
+Systemic Bile Acids Affect the Severity of Acute Pancreatitis in Mice Depending on Their Hydrophobicity and the Disease Pathogenesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000884050700001
 
-Tunable Pure Spin Supercurrents and the Demonstration of Their Gateability in a Spin-Wave Device	https://www.webofscience.com/wos/woscc/full-record/WOS:000552610700001
+The conserved protein WhiA influences branched-chain fatty acid precursors in Bacillus subtilis	https://www.webofscience.com/wos/pprn/full-record/PPRN:22471949
 
-k(z) Selective Scattering within Quasiparticle Interference Measurements of FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000498887900011
+Morphology, microbiota, and metabolome along the intestinal tract of female turkeys	https://www.webofscience.com/wos/woscc/full-record/WOS:000861197400022
 
-Magnetic skyrmion lattice by the Fourier transform method	https://www.webofscience.com/wos/woscc/full-record/WOS:000466384800003
+Clostridioides difficile Modifies its Aromatic Compound Metabolism in Response to Amidochelocardin-Induced Membrane Stress	https://www.webofscience.com/wos/woscc/full-record/WOS:000842915000001
 
-Tuning of Magnetic Activity in Spin-Filter Josephson Junctions Towards Spin-Triplet Transport	https://www.webofscience.com/wos/woscc/full-record/WOS:000457706700025
+Hydroxylation and dimerization of para-dihydroxylated aromatic compounds mediated by cold atmospheric-pressure plasma in comparison with chemically catalyzed reactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000838160600001
 
-Effect of Meissner Screening and Trapped Magnetic Flux on Magnetization Dynamics in Thick Nb/Ni80Fe20/Nb Trilayers	https://www.webofscience.com/wos/woscc/full-record/WOS:000457141300002
+Antimicrobial volatiles emitted by members of the nest microbiome of social spiders	https://www.webofscience.com/wos/woscc/full-record/WOS:000867888800001
 
-Exchange-field enhancement of superconducting spin pumping	https://www.webofscience.com/wos/woscc/full-record/WOS:000455821400006
+Novel Effective Fluorinated Benzothiophene-Indole Hybrid Antibacterials against S. aureus and MRSA Strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000856790100001
 
-Phase-Sensitive Interface and Proximity Effects in Superconducting Spintronics	https://www.webofscience.com/wos/woscc/full-record/WOS:000576730400018
+Investigation on the colonisation of Campylobacter strains in the pig intestine depending on available metabolites	https://www.webofscience.com/wos/woscc/full-record/WOS:000878499500001
 
-Scaling of the superconducting gap with orbital character in FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000450139100002
+Re-expression of tafazzin isoforms in TAZ-deficient C6 glioma cells restores cardiolipin composition but not proliferation rate and alterations in gene expression (vol 13, 931017, 2022)	https://www.webofscience.com/wos/woscc/full-record/WOS:000874630000001
 
-Generation of pure superconducting spin current in magnetic heterostructures via nonlocally induced magnetism due to Landau Fermi liquid effects	https://www.webofscience.com/wos/woscc/full-record/WOS:000445722700007
+Connecting Algal Polysaccharide Degradation to Formaldehyde Detoxification	https://www.webofscience.com/wos/woscc/full-record/WOS:000814837100001
 
-Theory of Andreev bound states in S-F-S junctions and S-F proximity devices	https://www.webofscience.com/wos/woscc/full-record/WOS:000436125200005
+Bioactive lipid screening during respiratory tract infections with bacterial and viral pathogens in mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000809348100001
 
-Enhanced spin pumping into superconductors provides evidence for superconducting pure spin currents	https://www.webofscience.com/wos/woscc/full-record/WOS:000432928300012
+BILE ACIDS MODULATE THE SEVERITY OF ACUTE PANCREATITIS DEPENDING ON THEIR HYDROPHOBICITY AND BY INTERACTING WITH CCK1 RECEPTOR	https://www.webofscience.com/wos/woscc/full-record/WOS:000826446203415
 
-Superconducting spin valves controlled by spiral re-orientation in B20-family magnets	https://www.webofscience.com/wos/woscc/full-record/WOS:000413294800030
+Pathogenesis of vaccine-induced immune thrombotic thrombocytopenia (VITT)	https://www.webofscience.com/wos/woscc/full-record/WOS:000799051900007
 
-Charge Density Waves in Graphite: Towards the Magnetic Ultraquantum Limit	https://www.webofscience.com/wos/woscc/full-record/WOS:000411769700009
+Metabolite Profiling of the Social Spider Stegodyphus dumicola Along a Climate Gradient	https://www.webofscience.com/wos/woscc/full-record/WOS:000791356400001
 
-Triplet Cooper pairs induced in diffusive s-wave superconductors interfaced with strongly spin-polarized magnetic insulators or half-metallic ferromagnets	https://www.webofscience.com/wos/woscc/full-record/WOS:000401406700007
+Synergistic effect of plasma-activated medium and novel indirubin derivatives on human skin cancer cells by activation of the AhR pathway (vol 12, 2528, 2022)	https://www.webofscience.com/wos/woscc/full-record/WOS:000769065000038
 
-Strongly enhanced temperature dependence of the chemical potential in FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000401229000002
+Synergistic effect of plasma-activated medium and novel indirubin derivatives on human skin cancer cells by activation of the AhR pathway	https://www.webofscience.com/wos/woscc/full-record/WOS:000756701900016
 
-Theory of surface spectroscopy for noncentrosymmetric superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000400371800006
+Air Ambulance: Antimicrobial Power of Bacterial Volatiles	https://www.webofscience.com/wos/woscc/full-record/WOS:000747276900001
 
-Spectroscopic evidence of odd frequency superconducting order	https://www.webofscience.com/wos/woscc/full-record/WOS:000392343900001
+Novel Small-Molecule Hybrid-Antibacterial Agents against S. aureus and MRSA Strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000741200700001
 
-Evidence for unidirectional nematic bond ordering in FeSe	https://www.webofscience.com/wos/woscc/full-record/WOS:000387538600001
+Preparation, Characterization and Antimicrobial Properties of Nanosized Silver-Containing Carbon/Silica Composites from Rice Husk Waste	https://www.webofscience.com/wos/woscc/full-record/WOS:000735199900012
 
-Theory of a weak-link superconductor-ferromagnet Josephson structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000383231600011
+Insights in ChAdOx1 nCoV-19 vaccine-induced immune thrombotic thrombocytopenia	https://www.webofscience.com/wos/woscc/full-record/WOS:000730824000013
 
-Remotely induced magnetism in a normal metal using a superconducting spin-valve	https://www.webofscience.com/wos/woscc/full-record/WOS:000367835400020
+Bronchial Epithelial Cells Accumulate Citrate Intracellularly in Response to Pneumococcal Hydrogen Peroxide	https://www.webofscience.com/wos/woscc/full-record/WOS:000719871200005
 
-Irreversible magnetization switching at the onset of superconductivity in a superconductor ferromagnet hybrid	https://www.webofscience.com/wos/woscc/full-record/WOS:000368442300028
+Influenza A H1N1 Induced Disturbance of the Respiratory and Fecal Microbiome of German Landrace Pigs - a Multi-Omics Characterization	https://www.webofscience.com/wos/woscc/full-record/WOS:000728629300016
 
-Spin-polarized supercurrents for spintronics: a review of current progress	https://www.webofscience.com/wos/woscc/full-record/WOS:000363041800002
+Ethanol inactivation of orthonairoviruses in ixodid ticks	https://www.webofscience.com/wos/woscc/full-record/WOS:000698127200001
 
-General boundary conditions for quasiclassical theory of superconductivity in the diffusive limit: application to strongly spin-polarized systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000360956600005
+An Innovative Protocol for Metaproteomic Analyses of Microbial Pathogens in Cystic Fibrosis Sputum	https://www.webofscience.com/wos/woscc/full-record/WOS:000698797500001
 
-Odd-frequency superconducting states with different types of Meissner response: Problem of coexistence	https://www.webofscience.com/wos/woscc/full-record/WOS:000353680800005
+Antimicrobial Compounds in the Volatilome of Social Spider Communities	https://www.webofscience.com/wos/woscc/full-record/WOS:000695871800001
 
-Controlled suppression of superconductivity by the generation of polarized Cooper pairs in spin-valve structures	https://www.webofscience.com/wos/woscc/full-record/WOS:000348873100001
+Biotransformation of bisphenol a analogues by the biphenyl-degrading bacterium Cupriavidus basilensis - a structure-biotransformation relationship (vol 104, pg 3569, 2020)	https://www.webofscience.com/wos/woscc/full-record/WOS:000673871800002
 
-Giant thermoelectric effects in a proximity-coupled superconductor-ferromagnet device	https://www.webofscience.com/wos/woscc/full-record/WOS:000339235500002
+The novel impact of hydrophobic bile acids in acute pancreatitis and its mechanism	https://www.webofscience.com/wos/woscc/full-record/WOS:000688499100032
 
-Comment on "Unified Formalism of Andreev Reflection at a Ferromagnet/Superconductor Interface"	https://www.webofscience.com/wos/woscc/full-record/WOS:000324762300022
+Gas Plasma Technology Augments Ovalbumin Immunogenicity and OT-II T Cell Activation Conferring Tumor Protection in Mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000626161400001
 
-Andreev spectroscopy of CrO2 thin films on TiO2 and Al2O3	https://www.webofscience.com/wos/woscc/full-record/WOS:000326280200025
+Carbon Source-Dependent Reprogramming of Anaerobic Metabolism in Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000631851200007
 
-Inverse proximity effect and influence of disorder on triplet supercurrents in strongly spin-polarized ferromagnets	https://www.webofscience.com/wos/woscc/full-record/WOS:000322795300005
+Cell morphology maintenance in Bacillus subtilis through balanced peptidoglycan synthesis and hydrolysis (vol 10, 17910, 2020)	https://www.webofscience.com/wos/woscc/full-record/WOS:000629631300004
 
-Nonlocal Thermoelectric Effects and Nonlocal Onsager relations in a Three-Terminal Proximity-Coupled Superconductor-Ferromagnet Device	https://www.webofscience.com/wos/woscc/full-record/WOS:000313952000015
+Primary and Secondary Gliosarcoma: Differences in Treatment and Outcome	https://www.webofscience.com/wos/woscc/full-record/WOS:000614795700001
 
-Effect of spin fluctuations on the electronic structure in iron-based superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000308128000004
+Crystal Structure and Pathophysiological Role of the Pneumococcal Nucleoside-binding Protein PnrA	https://www.webofscience.com/wos/woscc/full-record/WOS:000606810600007
 
-Tailoring the Fulde-Ferrell-Larkin-Ovchinnikov state	https://www.webofscience.com/wos/woscc/full-record/WOS:000301772400008
+From Proteomics to Personalized Medicine: The Importance of Isoflavone Dose and Estrogen Receptor Status in Breast Cancer Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000602214200001
 
-Properties of Interfaces and Surfaces in Non-centrosymmetric Superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000305683200012
+On the Liquid Chemistry of the Reactive Nitrogen Species Peroxynitrite and Nitrogen Dioxide Generated by Physical Plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000601730500001
 
-A Numerical Study of the Superconducting Proximity Effect in Topological Surface States	https://www.webofscience.com/wos/woscc/full-record/WOS:000314761400149
+A Multi-Omics Protocol for Swine Feces to Elucidate Longitudinal Dynamics in Microbiome Structure and Function	https://www.webofscience.com/wos/woscc/full-record/WOS:000602479000001
 
-Spin polarization of (Ga,Mn)As measured by Andreev spectroscopy: The role of spin-active scattering	https://www.webofscience.com/wos/woscc/full-record/WOS:000287367200002
+Self-assembled mono- and bilayers on gold electrodes to assess antioxidants-a comparative study	https://www.webofscience.com/wos/woscc/full-record/WOS:000545044600001
 
-Electronic Dispersion Anomalies in Iron Pnictide Superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000286736000018
+Cell morphology maintenance in Bacillus subtilis through balanced peptidoglycan synthesis and hydrolysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000585147800016
 
-Spin-polarized supercurrents for spintronics	https://www.webofscience.com/wos/woscc/full-record/WOS:000286041800018
+Novel effective antibacterial small-molecules against Staphylococcus and Enterococcus strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000613275500003
 
-Is CrO2 Fully Spin Polarized? Analysis of Andreev Spectra and Excess Current	https://www.webofscience.com/wos/woscc/full-record/WOS:000284052700012
+Prothrombotic and Proinflammatory Activities of the beta-Hemolytic Group B Streptococcal Pigment	https://www.webofscience.com/wos/woscc/full-record/WOS:000546426200003
 
-Nonlocal conductance via overlapping Andreev bound states in ferromagnet-superconductor heterostructures	https://www.webofscience.com/wos/woscc/full-record/WOS:000283709000001
+Exploring metabolic adaptation of Streptococcus pneumoniae to antibiotics	https://www.webofscience.com/wos/woscc/full-record/WOS:000521525500002
 
-Signature of odd-frequency pairing correlations induced by a magnetic interface	https://www.webofscience.com/wos/woscc/full-record/WOS:000278386700007
+Ring-Closure Mechanisms Mediated by Laccase to Synthesize Phenothiazines, Phenoxazines, and Phenazines	https://www.webofscience.com/wos/woscc/full-record/WOS:000543740600015
 
-Theory of superconductor-ferromagnet point-contact spectra: The case of strong spin polarization (vol 81, 094508, 2010)	https://www.webofscience.com/wos/woscc/full-record/WOS:000276207300122
+Analyses of competent and non-competent subpopulations of Bacillus subtilis reveal yhfW, yhxC and ncRNAs as novel players in competence	https://www.webofscience.com/wos/woscc/full-record/WOS:000525776400001
 
-Theory of superconductor-ferromagnet point-contact spectra: The case of strong spin polarization	https://www.webofscience.com/wos/woscc/full-record/WOS:000276207300097
+Biotransformation of bisphenol A analogues by the biphenyl-degrading bacterium Cupriavidusbasilensis - a structure-biotransformation relationship	https://www.webofscience.com/wos/woscc/full-record/WOS:000518077800004
 
-Scattering problem in nonequilibrium quasiclassical theory of metals and superconductors: General boundary conditions and applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000271351300090
+On a heavy path - determining cold plasma-derived short-lived species chemistry using isotopic labelling	https://www.webofscience.com/wos/woscc/full-record/WOS:000526930200008
 
-Charge dynamics of vortex cores in layered chiral triplet superconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000268177400003
+16HBE Cell Lipid Mediator Responses to Mono and Co-Infections with Respiratory Pathogens	https://www.webofscience.com/wos/woscc/full-record/WOS:000523660800002
 
-Vortices in chiral, spin-triplet superconductors and superfluids	https://www.webofscience.com/wos/woscc/full-record/WOS:000268177400002
+Proteomic and Membrane Lipid Correlates of Re-duced Host Defense Peptide Susceptibility in a snoD Mutant of Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000506678800014
 
-Spin-Dependent Cooper Pair Phase and Pure Spin Supercurrents in Strongly Polarized Ferromagnets	https://www.webofscience.com/wos/woscc/full-record/WOS:000266685400050
+Novel Small-molecule Antibacterials against Gram-positive Pathogens of Staphylococcus and Enterococcus Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000506678800054
 
-Coherent conductors at a distance	https://www.webofscience.com/wos/woscc/full-record/WOS:000266544800011
+Antibacterial Evaluation of Novel Substituted Cycloheptaindoles in Staphylococcus and Enterococcus Strains	https://www.webofscience.com/wos/woscc/full-record/WOS:000497706100001
 

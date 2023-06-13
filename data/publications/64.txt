@@ -1,38 +1,102 @@
-Ulrike Jekutsch,24163668;
+Ralf Schneider,14270230;
 
-In memoriam Gerhard Giesemann (14.7.1937-21.4.2021)	https://www.webofscience.com/wos/woscc/full-record/WOS:000717446400008
+Simplified Optimization of the Magnetic Configuration of HEMP-Thrusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000957891900001
 
-Adam Naruszewicz's Oda do sprawiedliwosci in the Context of political Thought and the Occasional Poetry of the Enlightenment	https://www.webofscience.com/wos/woscc/full-record/WOS:000717446400006
+Seeking turbulence optimized configurations for the Wendelstein 7-X stellarator: ion temperature gradient and electron temperature gradient turbulence	https://www.webofscience.com/wos/woscc/full-record/WOS:000854923200001
 
-Terror and Pity. Alekandr Sumarokov and the Theater of Power in Elizabethan Russia	https://www.webofscience.com/wos/woscc/full-record/WOS:000482565600013
+Improved modeling for design optimization of cusped field thrusters with support of kinetic analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000787994900006
 
-VASILII PETROV AND GRIGORII A. POTEMKIN: ON THE RELATIONS BETWEEN POET AND PATRON	https://www.webofscience.com/wos/woscc/full-record/WOS:000338603300010
+PIC Simulations of the MS4 Thruster	https://www.webofscience.com/wos/woscc/full-record/WOS:000767763000001
 
-Mikhail Vasilyevich Lomonosov in the history of Russian words	https://www.webofscience.com/wos/woscc/full-record/WOS:000320636400007
+Miniaturization perspectives of electrostatic propulsion for small spacecraft platforms	https://www.webofscience.com/wos/woscc/full-record/WOS:000682966600003
 
-Fiction staged for show: the fabrication of Polish early history in Slowacki ' s tragedies '' Balladyna '' and '' Lilla Weneda ''	https://www.webofscience.com/wos/woscc/full-record/WOS:000268608300005
+Multiobjective Optimization and Particle-In-Cell Simulation of Cusped Field Thrusters for Microsatellite Platforms	https://www.webofscience.com/wos/woscc/full-record/WOS:000537062000016
 
-Stanislaw Lem - Person, thinker, author: Articles from a German-Polish Conference in the year 2000 in Greifswald and Szczecin.	https://www.webofscience.com/wos/woscc/full-record/WOS:000244543700021
+Similarity scaling-application and limits for high-efficiency-multistage-plasma-thruster particle-in-cell modelling	https://www.webofscience.com/wos/woscc/full-record/WOS:000522767400001
 
-Translation and the discovery of European literatures: Russian writers in translation	https://www.webofscience.com/wos/woscc/full-record/WOS:000277274100060
+Development of a Three Dimensional Plasma Fluid Code Using a Lagrange-Monte-Carlo Scheme	https://www.webofscience.com/wos/woscc/full-record/WOS:000532447400001
 
-The city as a "people's house": The Petrograd-Leningrad of the 1920s with the eyes of Nikolaj Zabolockij	https://www.webofscience.com/wos/woscc/full-record/WOS:000239749800004
+Particle-in-cell simulation of an optimized high-efficiency multistage plasma thruster	https://www.webofscience.com/wos/woscc/full-record/WOS:000480799800001
 
-Isaak Babel's "Konarmija" in Germany in the 1920s	https://www.webofscience.com/wos/woscc/full-record/WOS:000232740600001
+Rotating spoke instabilities in a wall-less Hall thruster: experiments	https://www.webofscience.com/wos/woscc/full-record/WOS:000468948100001
 
-Pope, Popovskij and the popes: On the origin history of the Russian translation of the 'Essay on Man' from 1757.	https://www.webofscience.com/wos/woscc/full-record/WOS:000231022800010
+Rotating spoke instabilities in a wall-less Hall thruster: simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000465983700001
 
-The translation of the verse in the drama.	https://www.webofscience.com/wos/woscc/full-record/WOS:000277261600102
+Multi-model quantification of defects in irradiated lithium titanate	https://www.webofscience.com/wos/woscc/full-record/WOS:000461408800012
 
-"It almost sounded like your songs ...". The Russian adaptation of Goethe's "West-ostlichem Divan"	https://www.webofscience.com/wos/woscc/full-record/WOS:000224189600011
+Statistical Analysis of Table-Tennis Ball Trajectories	https://www.webofscience.com/wos/woscc/full-record/WOS:000455145000263
 
-The awarding of the 2003 Herder Prize to the Hungarian folklore researcher Karoly Manherz	https://www.webofscience.com/wos/woscc/full-record/WOS:000186028000007
+Breathing modes in HEMP thrusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000454267900001
 
-The concept of "South" in Nikolai A. Zabolotskii	https://www.webofscience.com/wos/woscc/full-record/WOS:000184839200003
+Development of a Lagrange-Monte Carlo scheme for fluid modelling of SOL/divertor plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000443937100036
 
-From the infantile to the sublime: The development of Nikolai Zabolotskii's concept of nature 1926-1937	https://www.webofscience.com/wos/woscc/full-record/WOS:000168464200001
+PIC simulations of capacitively coupled oxygen rf discharges	https://www.webofscience.com/wos/woscc/full-record/WOS:000434039500004
 
-Vasilii Andreevich Zhukovskii's translations of Kotzebue and Scribe	https://www.webofscience.com/wos/woscc/full-record/WOS:000084584500006
+Plasma flow around and charge distribution of a dust cluster in a rf discharge	https://www.webofscience.com/wos/woscc/full-record/WOS:000431142200094
 
-PUSHKIN,A.S. 'SUDLICHEN POEME - THEIR RELATIONSHIP TO BYRON 'ORIENTAL TALES' - GERMAN - HERDMANN,U	https://www.webofscience.com/wos/woscc/full-record/WOS:A1986C676100044
+Particle-in-cell simulation of the cathodic arc thruster	https://www.webofscience.com/wos/woscc/full-record/WOS:000424021700128
+
+Ion angular distribution simulation of the Highly Efficient Multistage Plasma Thruster	https://www.webofscience.com/wos/woscc/full-record/WOS:000396123100009
+
+Studies of the Influence of Ball Size and Net Height on Table Tennis Trajectory Distributions	https://www.webofscience.com/wos/woscc/full-record/WOS:000428762500006
+
+Modelling of Medium-Term (Decadal) Coastal Foredune Morphodynamics-Historical Hindcast and Future Scenarios of the Swina Gate Barrier Coast (Southern Baltic Sea)	https://www.webofscience.com/wos/woscc/full-record/WOS:000428323000007
+
+The Dynamic Equilibrium Shore Model for the Reconstruction and Future Projection of Coastal Morphodynamics	https://www.webofscience.com/wos/woscc/full-record/WOS:000428323000006
+
+Electrostatic particle-in-cell simulation of heat flux mitigation using magnetic fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000390383400004
+
+Effects of Classical and Neo-classical Cross-field Transport of Tungsten Impurity in Realistic Tokamak Geometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000383363900026
+
+Statistical study of defects caused by primary knock-on atoms in fcc Cu and bcc W using molecular dynamics	https://www.webofscience.com/wos/woscc/full-record/WOS:000365602800054
+
+Sputtering of mixed materials of beryllium and tungsten by hydrogen and helium	https://www.webofscience.com/wos/woscc/full-record/WOS:000365602800048
+
+Effects of background plasma characteristics on tungsten impurity transport in the SOL/divertor region using IMPGYRO code	https://www.webofscience.com/wos/woscc/full-record/WOS:000358467200128
+
+Land-sea interaction and morphogenesis of coastal foredunes - A modeling case study from the southern Baltic Sea coast	https://www.webofscience.com/wos/woscc/full-record/WOS:000355043300014
+
+From Field Emission to Vacuum Arc Ignition: A New Tool for Simulating Copper Vacuum Arcs	https://www.webofscience.com/wos/woscc/full-record/WOS:000354200300003
+
+MONTE-CARLO RE-DEPOSITION MODEL DURING TERRESTRIAL MEASUREMENTS OF ION THRUSTERS	https://www.webofscience.com/wos/woscc/full-record/WOS:000433698200002
+
+Iterative Implicit Methods for Solving Nonlinear Dynamical Systems: Application of the Levitron	https://www.webofscience.com/wos/woscc/full-record/WOS:000364326600019
+
+Self-Force in 1D Electrostatic Particle-in-Cell Codes for Non-Equidistant Grids	https://www.webofscience.com/wos/woscc/full-record/WOS:000341707500002
+
+Systematic Study of Tungsten Impurity Transport in Representative Regimes of Divertor Plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000338020000018
+
+Levitron: multi-scale analysis of stability	https://www.webofscience.com/wos/woscc/full-record/WOS:000334724700004
+
+Electrostatic Ion Thrusters - Towards Predictive Modeling	https://www.webofscience.com/wos/woscc/full-record/WOS:000331954300014
+
+Holocene morphogenesis at the southern Baltic Sea: Simulation of multi-scale processes and their interactions for the Darss-Zingst peninsula	https://www.webofscience.com/wos/woscc/full-record/WOS:000329881600002
+
+A numerical approach for approximating the historical morphology of wave-dominated coasts-A case study of the Pomeranian Bight, southern Baltic Sea	https://www.webofscience.com/wos/woscc/full-record/WOS:000328234200033
+
+Mechanisms of layer growth in microwave-PECVD silan plasmas - Experiment and simulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000327921500036
+
+Operational limit of a planar DC magnetron cluster source due to target erosion	https://www.webofscience.com/wos/woscc/full-record/WOS:000327921500002
+
+Particle-In-Cell simulation of laser photodetachment in capacitively coupled radio frequency oxygen discharges	https://www.webofscience.com/wos/woscc/full-record/WOS:000328323800064
+
+Observation of Omega mode electron heating in dusty argon radio frequency discharges	https://www.webofscience.com/wos/woscc/full-record/WOS:000323946800121
+
+Comparison of kinetic and fluid models for tungsten impurity transport using IMPGYRO and SOLPS	https://www.webofscience.com/wos/woscc/full-record/WOS:000330795300129
+
+Infinitesimal Analytical Approach for the Backscattering Problem	https://www.webofscience.com/wos/woscc/full-record/WOS:000316433200023
+
+A coupled modeling scheme for longshore sediment transport of wave-dominated coasts-A case study from the southern Baltic Sea	https://www.webofscience.com/wos/woscc/full-record/WOS:000314489900003
+
+Towards Systematic Investigations of Space-Charge Phenomena in Multi-Reflection Ion Traps	https://www.webofscience.com/wos/woscc/full-record/WOS:000317068200006
+
+Plasma grid shape and size effects on the extraction of negative ions	https://www.webofscience.com/wos/woscc/full-record/WOS:000317013500001
+
+Study of interaction of C+ ion beam with a Si pitch grating on a macro-scale level	https://www.webofscience.com/wos/woscc/full-record/WOS:000313384900003
+
+Modeling of altered layer formation during reactive ion etching of GaAs	https://www.webofscience.com/wos/woscc/full-record/WOS:000311217500099
+
+Modeling of hydrogen isotope exchange from porous graphite	https://www.webofscience.com/wos/woscc/full-record/WOS:000312040300010
+
+Dynamics and Electronegativity of Oxygen RF Plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000310986500010
 

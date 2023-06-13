@@ -1,102 +1,102 @@
-Michael Höhle,1683686;
+Oliver von Bohlen und Halbach,759114;
 
-Epitweetr: Early warning of public health threats using Twitter data	https://www.webofscience.com/wos/woscc/full-record/WOS:000870702900005
+Deficiency in FTSJ1 Affects Neuronal Plasticity in the Hippocampal Formation of Mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000831631000001
 
-Comment "On the role of data, statistics and decisions in a pandemic" by Jahn et al	https://www.webofscience.com/wos/woscc/full-record/WOS:000812618300001
+Localization and expression of the Mas-related G-protein coupled receptor member D (MrgD) in the mouse brain	https://www.webofscience.com/wos/woscc/full-record/WOS:000723227100004
 
-Real-time monitoring of COVID-19 dynamics using automated trend fitting and anomaly detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000658592500005
+Structural and functional consequences in the amygdala of leptin-deficient mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000559434000001
 
-Analysis of the early COVID-19 epidemic curve in Germany by regression models with change points	https://www.webofscience.com/wos/woscc/full-record/WOS:000629562500001
+Identification of Brain-Specific Treatment Effects in NPC1 Disease by Focusing on Cellular and Molecular Changes of Sphingosine-1-Phosphate Metabolism	https://www.webofscience.com/wos/woscc/full-record/WOS:000549416500001
 
-Nowcasting the COVID-19 pandemic in Bavaria	https://www.webofscience.com/wos/woscc/full-record/WOS:000594347400001
+Obesity Impairs Mobility and Adult Hippocampal Neurogenesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000490983200001
 
-Parallelized calculation of permutation tests	https://www.webofscience.com/wos/woscc/full-record/WOS:000661074700018
+A mouse model for intellectual disability caused by mutations in the X-linked 2 '-O-methyltransferase Ftsj1 gene	https://www.webofscience.com/wos/woscc/full-record/WOS:000476965200001
 
-Model selection and parameter estimation for dynamic epidemic models via iterated filtering: application to rotavirus in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000607778500003
+Expression of Slc35f1 in the murine brain	https://www.webofscience.com/wos/woscc/full-record/WOS:000475960900004
 
-Prospective Detection of Outbreaks	https://www.webofscience.com/wos/woscc/full-record/WOS:000526939800021
+A patient-specific induced pluripotent stem cell model for West syndrome caused by ST3GAL3 deficiency	https://www.webofscience.com/wos/woscc/full-record/WOS:000450614800007
 
-Evaluating quality of hospital care using time-to-event endpoints based on patient follow-up data	https://www.webofscience.com/wos/woscc/full-record/WOS:000494473300001
+ATP6AP2 over-expression causes morphological alterations in the hippocampus and in hippocampus-related behaviour	https://www.webofscience.com/wos/woscc/full-record/WOS:000433110800015
 
-Identifying the source of food-borne disease outbreaks: An application of Bayesian variable selection	https://www.webofscience.com/wos/woscc/full-record/WOS:000463234000010
+BDNF effects on dendritic spine morphology and hippocampal function	https://www.webofscience.com/wos/woscc/full-record/WOS:000442991600014
 
-An unconditional space-time scan statistic for ZIP-distributed data	https://www.webofscience.com/wos/woscc/full-record/WOS:000458557100007
+Recent advances in hippocampal structure and function	https://www.webofscience.com/wos/woscc/full-record/WOS:000442991600001
 
-Spatio-Temporal Analysis of Epidemic Phenomena Using the R Package surveillance	https://www.webofscience.com/wos/woscc/full-record/WOS:000401086600001
+Roles and functions of Atp6ap2 in the brain	https://www.webofscience.com/wos/woscc/full-record/WOS:000450276000002
 
-A statistician's perspective on digital epidemiology	https://www.webofscience.com/wos/woscc/full-record/WOS:000468817600017
+Forebrain-specific, conditional silencing of Staufen2 alters synaptic plasticity, learning, and memory in rats	https://www.webofscience.com/wos/woscc/full-record/WOS:000415579100001
 
-Are People Living Near Modern Swine Production Facilities at Increased Risk of Influenza Virus Infection?	https://www.webofscience.com/wos/woscc/full-record/WOS:000392716100004
+Effects of p75NTR deficiency on cholinergic innervation of the amygdala and anxiety-like behavior	https://www.webofscience.com/wos/woscc/full-record/WOS:000399654500013
 
-Monitoring Count Time Series in R: Aberration Detection in Public Health Surveillance	https://www.webofscience.com/wos/woscc/full-record/WOS:000384912500001
+Alterations in the cholinergic system of p75NTR knockout mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000395770300244
 
-A system for automated outbreak detection of communicable diseases in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000373268600007
+Lack of P-glycoprotein Results in Impairment of Removal of Beta-Amyloid and Increased Intraparenchymal Cerebral Amyloid Angiopathy after Active Immunization in a Transgenic Mouse Model of Alzheimer's Disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000402473200010
 
-Infectious Disease Modelling	https://www.webofscience.com/wos/woscc/full-record/WOS:000414705200027
+Morphological and behavioral characterization of adult mice deficient for SrGAP3	https://www.webofscience.com/wos/woscc/full-record/WOS:000385139100001
 
-Bayesian outbreak detection in the presence of reporting delays	https://www.webofscience.com/wos/woscc/full-record/WOS:000363419700008
+Editorial: Frontiers in Synaptic Plasticity: Dendritic Spines, Circuitries and Behavior	https://www.webofscience.com/wos/woscc/full-record/WOS:000378035500001
 
-Bayesian Nowcasting during the STEC O104:H4 Outbreak in Germany, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000346827500023
+FGF-2 deficiency causes dysregulation of Arhgef6 and downstream targets in the cerebral cortex accompanied by altered neurite outgrowth and dendritic spine morphology	https://www.webofscience.com/wos/woscc/full-record/WOS:000374716500007
 
-Modelling the epidemiological impact of rotavirus vaccination in Germany - A Bayesian approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000342269800016
+Growth/differentiation factor-15 deficiency compromises dopaminergic neuron survival and microglial response in the 6-hydroxydopamine mouse model of Parkinson's disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000370909100001
 
-OutbreakTools: A new platform for disease outbreak analysis using the R software	https://www.webofscience.com/wos/woscc/full-record/WOS:000338704900005
+A possible role for the immune system in adult neurogenesis: new insights from an invertebrate model	https://www.webofscience.com/wos/woscc/full-record/WOS:000374364700009
 
-Bayesian parameter inference for dynamic infectious disease modelling: rotavirus in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000333744000010
+A novel form of capsaicin-modified amygdala LTD mediated by TRPM1	https://www.webofscience.com/wos/woscc/full-record/WOS:000389560000001
 
-Estimating the under-reporting of norovirus illness in Germany utilizing enhanced awareness of diarrhoea during a large outbreak of Shiga toxin-producing E. coli O104: H4 in 2011-a time series analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000332630600002
+Deletion of p75NTR enhances the cholinergic innervation pattern of the visual cortex	https://www.webofscience.com/wos/woscc/full-record/WOS:000389715400012
 
-Large multistate outbreak of norovirus gastroenteritis associated with frozen strawberries, Germany, 2012	https://www.webofscience.com/wos/woscc/full-record/WOS:000332376900003
+SrGAP3 knockout mice display enlarged lateral ventricles and specific cilia disturbances of ependymal cells in the third ventricle	https://www.webofscience.com/wos/woscc/full-record/WOS:000359265400019
 
-Shiga Toxin-Producing Escherichia coli O157 Is More Likely to Lead to Hospitalization and Death than Non-O157 Serogroups - Except O104	https://www.webofscience.com/wos/woscc/full-record/WOS:000327143800006
+Impact of a deletion of the full-length and short isoform of p75NTR on cholinergic innervation and the population of postmitotic doublecortin positive cells in the dentate gyrus	https://www.webofscience.com/wos/woscc/full-record/WOS:000356822400001
 
-Associations of Age and Sex With the Clinical Outcome and Incubation Period of Shiga toxin-producing Escherichia coli O104:H4 Infections, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000325150600021
+The Wnt adaptor protein ATP6AP2 regulates multiple stages of adult hippocampal neurogenesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000362554200372
 
-Bayesian outbreak detection algorithm for monitoring reported cases of campylobacteriosis in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000325887000004
+Implications of p75NTR for dentate gyrus morphology and hippocampus-related behavior revisited	https://www.webofscience.com/wos/woscc/full-record/WOS:000353515200015
 
-Clinical aspects and self-reported symptoms of sequelae of Yersinia enterocolitica infections in a population-based study, Germany 2009-2010	https://www.webofscience.com/wos/woscc/full-record/WOS:000319747100001
+Immunocytochemical Identification of Mammalian Differentiating Neurons in the Process of Adult Neurogenesis in the Hippocampal Dentate Gyrus	https://www.webofscience.com/wos/woscc/full-record/WOS:000372202500008
 
-RE: "THE 'CASE-CHAOS STUDY' AS AN ADJUNCT OR ALTERNATIVE TO CONVENTIONAL CASE-CONTROL STUDY METHODOLOGY"	https://www.webofscience.com/wos/woscc/full-record/WOS:000318576300022
+Accumulation of murine amyloid-beta mimics early Alzheimer's disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000360578700031
 
-Boosting Structured Additive Quantile Regression for Longitudinal Childhood Obesity Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000329433300001
+Distribution of PCP4 protein in the forebrain of adult mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000341478400009
 
-Duration of Fecal Shedding of Shiga Toxin-Producing Escherichia coli O104:H4 in Patients Infected During the 2011 Outbreak in Germany: A Multicenter Study	https://www.webofscience.com/wos/woscc/full-record/WOS:000316700100015
+Post-mortem magnetic resonance microscopy (MRM) of the murine brain at 7 Tesla results in a gain of resolution as compared to in vivo MRM	https://www.webofscience.com/wos/woscc/full-record/WOS:000339054700001
 
-More reasons to dread rain on vacation? Dengue fever in 42 German and United Kingdom Madeira tourists during autumn 2012	https://www.webofscience.com/wos/woscc/full-record/WOS:000317095400003
+Growth/differentiation factor 15 promotes EGFR signalling, and regulates proliferation and migration in the hippocampus of neonatal and young adult mice	https://www.webofscience.com/wos/woscc/full-record/WOS:000331460900005
 
-Carrier Prevalence, Secondary Household Transmission, and Long-Term Shedding in 2 Districts During the Escherichia coli O104:H4 Outbreak in Germany, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000313216300010
+Effects of the angiotensin-(1–7) receptor Mas on cell proliferation and on the population of doublecortin positive cells within the dentate gyrus and the piriform cortex	https://www.webofscience.com/wos/woscc/full-record/WOS:000331680100013
 
-Determining high-risk zones for unexploded World War II bombs by using point process methodology	https://www.webofscience.com/wos/woscc/full-record/WOS:000315332600003
+Role of Transient Receptor Potential Channel 1 (TRPC1) in Glutamate-Induced Cell Death in the Hippocampal Cell Line HT22	https://www.webofscience.com/wos/woscc/full-record/WOS:000331699700013
 
-Hepatitis E Virus Seroprevalence among Adults, Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000328172500018
+Differentiation of cerebral representation of occlusion and swallowing with fMRI	https://www.webofscience.com/wos/woscc/full-record/WOS:000318968100001
 
-Risk factors for sporadic Yersinia enterocolitica infections, Germany 2009-2010	https://www.webofscience.com/wos/woscc/full-record/WOS:000308845100002
+Neuronal Expression of Glucosylceramide Synthase in Central Nervous System Regulates Body Weight and Energy Homeostasis	https://www.webofscience.com/wos/woscc/full-record/WOS:000316794600007
 
-Ecological analysis of social risk factors for Rotavirus infections in Berlin, Germany, 2007-2009	https://www.webofscience.com/wos/woscc/full-record/WOS:000312994500001
+Analysis of morphological changes as a key method in studying psychiatric animal models	https://www.webofscience.com/wos/woscc/full-record/WOS:000325103500004
 
-A Space-Time Conditional Intensity Model for Invasive Meningococcal Disease Occurrence	https://www.webofscience.com/wos/woscc/full-record/WOS:000305691900030
+The (pro)renin receptor / ATP6ap2 is expressed in the murine hippocampus by adult and newly generated neurons	https://www.webofscience.com/wos/woscc/full-record/WOS:000316613700011
 
-German Outbreak of Escherichia coli O104:H4 Associated with Sprouts	https://www.webofscience.com/wos/woscc/full-record/WOS:000296762800005
+Hippocampal Lipocalin 2: an emotional link between neurons and glia	https://www.webofscience.com/wos/woscc/full-record/WOS:000323415400001
 
-Assessment of varicella vaccine effectiveness in Germany: a time-series approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000296428300009
+Srgap3(-/-) mice present a neurodevelopmental disorder with schizophrenia-related intermediate phenotypes	https://www.webofscience.com/wos/woscc/full-record/WOS:000310574200006
 
-Prevalence of Antibodies to 2009 Pandemic Influenza A (H1N1) Virus in German Adult Population in Pre- and Post-Pandemic Period	https://www.webofscience.com/wos/woscc/full-record/WOS:000291983800043
+Neurogenesis within the adult hippocampus under physiological conditions and in depression	https://www.webofscience.com/wos/woscc/full-record/WOS:000303777700013
 
-Update on the ongoing outbreak of haemolytic uraemic syndrome due to Shiga toxin-producing Escherichia coli (STEC) serotype O104, Germany, May 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000291430300001
+Immunohistochemical localization of the angiotensin-(1–7) receptor Mas in the murine forebrain	https://www.webofscience.com/wos/woscc/full-record/WOS:000302324800002
 
-Large and ongoing outbreak of haemolytic uraemic syndrome, Germany, May 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000291055700001
+Mitochondrial DNA polymorphisms specifically modify cerebral beta-amyloid proteostasis	https://www.webofscience.com/wos/woscc/full-record/WOS:000306586600004
 
-Online Change-Point Detection in Categorical Time Series	https://www.webofscience.com/wos/woscc/full-record/WOS:000275129600020
+Fibroblast growth factor-2 deficiency causes defects in adult hippocampal neurogenesis, which are not rescued by exogenous fibroblast growth factor-2	https://www.webofscience.com/wos/woscc/full-record/WOS:000294589400009
 
-Additive-Multiplicative Regression Models for Spatio-Temporal Epidemics	https://www.webofscience.com/wos/woscc/full-record/WOS:000273507600006
+Immunohistological markers for proliferative events, gliogenesis, and neurogenesis within the adult hippocampus	https://www.webofscience.com/wos/woscc/full-record/WOS:000293400300001
 
-Statistical approaches to the monitoring and surveillance of infectious diseases for veterinary public health	https://www.webofscience.com/wos/woscc/full-record/WOS:000269033900002
+Regulation of GDF-15, a distant TGF-beta superfamily member, in a mouse model of cerebral ischemia	https://www.webofscience.com/wos/woscc/full-record/WOS:000286829000011
 
-Accuracy assessment of digital elevation models by means of robust statistical methods	https://www.webofscience.com/wos/woscc/full-record/WOS:000268650200007
+Capsaicin-Induced Changes in LTP in the Lateral Amygdala Are Mediated by TRPV1	https://www.webofscience.com/wos/woscc/full-record/WOS:000286515000020
 
-Prevalence of spotted fever group rickettsiae in Ixodes ricinus (Acari : Ixodidae) in southern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000259099000018
+Roles of exogenous and endogenous FGF-2 in animal models of depression	https://www.webofscience.com/wos/woscc/full-record/WOS:000292262500002
 
-Anaplasma phagocytophilum infection in Ixodes ricinus, Bavaria, Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000256465100022
+How to judge a book by its cover? How useful are bibliometric indices for the evaluation of "scientific quality" or "scientific productivity"?	https://www.webofscience.com/wos/woscc/full-record/WOS:000292432900004
 
-Modelling the spread in space and time of an airborne plant disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000255663200001
+Dendritic spine abnormalities in mental retardation	https://www.webofscience.com/wos/woscc/full-record/WOS:000284956700001
 

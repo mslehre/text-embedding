@@ -1,98 +1,100 @@
-Sandra Klein,10342075;
+Steffen Harzsch,1301247;
 
-Development and Characterization of Celecoxib Solid Self-nanoemulsifying Drug Delivery Systems (S-SNEDDS) Prepared Using Novel Cellulose-Based Microparticles as Adsorptive Carriers	https://www.webofscience.com/wos/woscc/full-record/WOS:000836270700002
+Neurochemical diversity in the central olfactory pathway of the crustacean Parhyale hawaiensis (Amphipoda): evolutionary implications	https://www.webofscience.com/wos/woscc/full-record/WOS:000963010700001
 
-A Toolbox for Mimicking Gastrointestinal Conditions in Children: Simulated Paediatric Breakfast Media (SPBM) for Addressing the Variability of Gastric Contents After Typical Paediatric Breakfasts	https://www.webofscience.com/wos/woscc/full-record/WOS:000756192800007
+Local olfactory interneurons provide the basis for neurochemical regionalization of olfactory glomeruli in crustaceans	https://www.webofscience.com/wos/woscc/full-record/WOS:000730386800001
 
-A systematic approach for assessing the suitability of enteral feeding tubes for the administration of controlled-release pellet formulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000740095900003
+Quantifying the portfolio of larval responses to salinity and temperature in a coastal-marine invertebrate: a cross population study along the European coast	https://www.webofscience.com/wos/woscc/full-record/WOS:000799806800001
 
-A Customized Screening Tool Approach for the Development of a Self-Nanoemulsifying Drug Delivery System (SNEDDS)	https://www.webofscience.com/wos/woscc/full-record/WOS:000734779100002
+Methods to study organogenesis in decapod crustacean larvae II: analysing cells and tissues	https://www.webofscience.com/wos/woscc/full-record/WOS:000657443800002
 
-Prediction of subcutaneous drug absorption-do we have reliable data to design a simulated interstitial fluid?	https://www.webofscience.com/wos/woscc/full-record/WOS:000718964500006
+Methods to study organogenesis in decapod crustacean larvae. I. larval rearing, preparation, and fixation	https://www.webofscience.com/wos/woscc/full-record/WOS:000657443800001
 
-Path towards efficient paediatric formulation development based on partnering with clinical pharmacologists and clinicians, a conect4children expert group white paper	https://www.webofscience.com/wos/woscc/full-record/WOS:000684835700001
+Genealogical relationships of mushroom bodies, hemiellipsoid bodies, and their afferent pathways in the brains of Pancrustacea: Recent progress and open questions	https://www.webofscience.com/wos/woscc/full-record/WOS:000719651100006
 
-Pediatric formulation development-Challenges of today and strategies for tomorrow: Summary report from M-CERSI workshop 2019	https://www.webofscience.com/wos/woscc/full-record/WOS:000653027300006
+Contrasting offspring responses to variation in salinity and temperature among populations of a coastal crab: A maladaptive ecological surprise?	https://www.webofscience.com/wos/woscc/full-record/WOS:000713846700004
 
-Dissolution testing of modified release products with biorelevant media: An OrBiTo ring study using the USP apparatus III and IV	https://www.webofscience.com/wos/woscc/full-record/WOS:000579862000004
+Physiological basis of interactive responses to temperature and salinity in coastal marine invertebrate: Implications for responses to warming	https://www.webofscience.com/wos/woscc/full-record/WOS:000645912500001
 
-Safe, swallowable and palatable paediatric mini-tablet formulations for a WHO model list of essential medicines for children compound - A promising starting point for future PUMA applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000579862000002
+Crustaceans in a changing world	https://www.webofscience.com/wos/woscc/full-record/WOS:000658669800004
 
-Expression of in vivo biotinylated recombinant antigens SAG1 and SAG2A fromToxoplasma gondiifor improved seroepidemiological bead-based multiplex assays	https://www.webofscience.com/wos/woscc/full-record/WOS:000575408900001
+The Neurobiology of Ocean Change - insights from decapod crustaceans	https://www.webofscience.com/wos/woscc/full-record/WOS:000618101800006
 
-Age-appropriate solid oral formulations for pediatric applications with a focus on multiparticulates and minitablets: Summary of September 2019 EuPFI workshop	https://www.webofscience.com/wos/woscc/full-record/WOS:000548590600020
+More than one way to smell ashore-Evolution of the olfactory pathway in terrestrial malacostracan crustaceans	https://www.webofscience.com/wos/woscc/full-record/WOS:000623901600001
 
-Workshop Report: USP Workshop on Advancements in In Vitro Performance Testing of Drug Products	https://www.webofscience.com/wos/woscc/full-record/WOS:000537870900006
+Exploring larval phenology as predictor for range expansion in an invasive species	https://www.webofscience.com/wos/woscc/full-record/WOS:000548417100001
 
-Impact of gastrointestinal physiology on drug absorption in special populations??An UNGAP review	https://www.webofscience.com/wos/woscc/full-record/WOS:000529363900005
+Visual pathways in the brain of the jumping spider Marpissa muscosa	https://www.webofscience.com/wos/woscc/full-record/WOS:000512815000001
 
-Rectal Dosage Forms	https://www.webofscience.com/wos/woscc/full-record/WOS:000632011000010
+Masters of communication: The brain of the banded cleaner shrimp Stenopus hispidus (Olivier, 1811) with an emphasis on sensory processing areas	https://www.webofscience.com/wos/woscc/full-record/WOS:000503875200001
 
-Vaginal and Intrauterine Delivery Systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000632011000009
+Functional morphology of the primary olfactory centers in the brain of the hermit crab Coenobita clypeatus (Anomala, Coenobitidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000523100300002
 
-In Vitro Drug Release Testing of Special Dosage Forms Preface	https://www.webofscience.com/wos/woscc/full-record/WOS:000632011000002
+Immunolocalization of Neurotransmitters and Neuromodulators in the Developing Crayfish Brain	https://www.webofscience.com/wos/woscc/full-record/WOS:000544488900016
 
-In Vitro Methods for Evaluating Drug Release of Vaginal Ring Formulations-A Critical Review	https://www.webofscience.com/wos/woscc/full-record/WOS:000498392300051
+Obesity Impairs Mobility and Adult Hippocampal Neurogenesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000490983200001
 
-Advancements in Dissolution Testing of Oral and Non-oral Formulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000477563600002
+Neuroanatomy of a hydrothermal vent shrimp provides insights into the evolution of crustacean integrative brain centers	https://www.webofscience.com/wos/woscc/full-record/WOS:000479088600001
 
-A review of GI conditions critical to oral drug absorption in malnourished children	https://www.webofscience.com/wos/woscc/full-record/WOS:000463304000002
+Unmasking intraspecific variation in offspring responses to multiple environmental drivers	https://www.webofscience.com/wos/woscc/full-record/WOS:000477581500001
 
-Evidence of high exposure to Toxoplasma gondii in free-ranging and captive African carnivores	https://www.webofscience.com/wos/woscc/full-record/WOS:000462495200016
+The "amphi"-brains of amphipods: new insights from the neuroanatomy of Parhyale hawaiensis (Dana, 1853)	https://www.webofscience.com/wos/woscc/full-record/WOS:000477623400001
 
-Individualized in vitro and in silico methods for predicting in vivo performance of enteric-coated tablets containing a narrow therapeutic index drug	https://www.webofscience.com/wos/woscc/full-record/WOS:000494481200002
+Acetoin is a key odor for resource location in the giant robber crab Birgus latro	https://www.webofscience.com/wos/woscc/full-record/WOS:000473216700013
 
-Biorelevant in vitro assessment of dissolution and compatibility properties of a novel paediatric hydrocortisone drug product following exposure of the drug product to child-appropriate administration fluids	https://www.webofscience.com/wos/woscc/full-record/WOS:000451489400030
+Chaetognatha	https://www.webofscience.com/wos/woscc/full-record/WOS:000544036800008
 
-Predicting local drug availability of locally acting lozenges: From method design to a linear level A IVIVC	https://www.webofscience.com/wos/woscc/full-record/WOS:000451489400029
+An atlas of larval organogenesis in the European shore crab Carcinus maenas L. (Decapoda, Brachyura, Portunidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000437949100001
 
-Simulated Genital Tract Fluids and Their Applicability in Drug Release/Dissolution Testing of Vaginal Dosage Forms	https://www.webofscience.com/wos/woscc/full-record/WOS:000443468900004
+ATP6AP2 over-expression causes morphological alterations in the hippocampus and in hippocampus-related behaviour	https://www.webofscience.com/wos/woscc/full-record/WOS:000433110800015
 
-A Biopredictive In Vitro Comparison of Oral Locally Acting Mesalazine Formulations by a Novel Dissolution Model for Assessing Intraluminal Drug Release in Individual Subjects	https://www.webofscience.com/wos/woscc/full-record/WOS:000441014200024
+Crustacean olfactory systems: A comparative review and a crustacean perspective on olfaction in insects	https://www.webofscience.com/wos/woscc/full-record/WOS:000427343500002
 
-Results of an industry survey to understand current practice in bridging for paediatric formulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000426460500047
+Adult Neurogenesis in the Central Olfactory Pathway of Dendrobranchiate and Caridean Shrimps: New Insights into the Evolution of the Deutocerebral Proliferative System in Reptant Decapods	https://www.webofscience.com/wos/woscc/full-record/WOS:000441858800001
 
-Simulating different dosing scenarios for a paediatric valproic acid ER formulation in a new paediatric multistage dissolution model	https://www.webofscience.com/wos/woscc/full-record/WOS:000426460500046
+The NOVA project - maximizing beam time efficiency through synergistic analyses of SR mu CT data	https://www.webofscience.com/wos/woscc/full-record/WOS:000425426100021
 
-Biorelevant dissolution and compatibility of hydrocortisone granules following exposure to water, breast-, whole- and artificial (formula) milk	https://www.webofscience.com/wos/woscc/full-record/WOS:000426460500045
+The synganglion of the jumping spider Marpissa muscosa (Arachnida: Salticidae): Insights from histology, immunohistochemistry and microCT analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000398868700002
 
-Oral Biopharmateutics Tools: What is New and What Coming? APV/FIP Joint-Workshop in Nuremberg	https://www.webofscience.com/wos/woscc/full-record/WOS:000416133600008
+Brain architecture of the Pacific White Shrimp Penaeus vannamei Boone, 1931 (Malacostraca, Dendrobranchiata): correspondence of brain structure and sensory input?	https://www.webofscience.com/wos/woscc/full-record/WOS:000407435900002
 
-Marfan syndrome human induced pluripotent stem cell line with a heterozygous FBN1 c. 4082GN>A mutation, ISMMSi002-B, for disease modeling	https://www.webofscience.com/wos/woscc/full-record/WOS:000410958100009
+On the sighted ancestry of blindness - exceptionally preserved eyes of Mesozoic polychelidan lobsters	https://www.webofscience.com/wos/woscc/full-record/WOS:000381675500001
 
-DISSOLUTION AND COMPATIBILITY OF HYDROCORTISONE GRANULES FOLLOWING EXPOSURE TO COMMON PAEDIATRIC ADMINISTRATION FLUIDS AND FOOD MATRICES	https://www.webofscience.com/wos/woscc/full-record/WOS:000412595401121
+A possible role for the immune system in adult neurogenesis: new insights from an invertebrate model	https://www.webofscience.com/wos/woscc/full-record/WOS:000374364700009
 
-Designing biorelevant media to simulate postprandial gastric conditions in infants	https://www.webofscience.com/wos/woscc/full-record/WOS:000383810500067
+What nymphal morphology can tell us about parental investment - a group of cockroach hatchlings in Baltic amber documented by a multi-method approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000369508400002
 
-Evaluating new biorelevant media for simulating postprandial gastric conditions in infants	https://www.webofscience.com/wos/woscc/full-record/WOS:000383810500052
+Neuroanatomy of the optic ganglia and central brain of the water flea Daphnia magna (Crustacea, Cladocera)	https://www.webofscience.com/wos/woscc/full-record/WOS:000370954400006
 
-Evaluation of the need for and criteria within a paediatric biopharmaceutics classification system: Results of a survey	https://www.webofscience.com/wos/woscc/full-record/WOS:000383810500049
+Notes on the Foraging Strategies of the Giant Robber Crab Birgus latro (Anomala) on Christmas Island: Evidence for Active Predation on Red Crabs Gecarcoidea natalis (Brachyura)	https://www.webofscience.com/wos/woscc/full-record/WOS:000399617200006
 
-Protein-protein interaction studies provide evidence for electron transfer from ferredoxin to lipoic acid synthase in Toxoplasma gondii	https://www.webofscience.com/wos/woscc/full-record/WOS:000346577700005
+Comparative analyses of olfactory systems in terrestrial crabs (Brachyura): evidence for aerial olfaction?	https://www.webofscience.com/wos/woscc/full-record/WOS:000367155400001
 
-Therapy Resistance in Prostate Cancer: A Stem Cell Perspective	https://www.webofscience.com/wos/woscc/full-record/WOS:000329756900013
+Heading which way? Y-maze chemical assays: not all crustaceans are alike	https://www.webofscience.com/wos/woscc/full-record/WOS:000360082300006
 
-Untitled	https://www.webofscience.com/wos/woscc/full-record/WOS:000314016300001
+Central projections of antennular chemosensory and mechanosensory afferents in the brain of the terrestrial hermit crab (Coenobita clypeatus; Coenobitidae, Anomura)	https://www.webofscience.com/wos/woscc/full-record/WOS:000360430900001
 
-No Evidence for XMRV in German CFS and MS Patients with Fatigue Despite the Ability of the Virus to Infect Human Blood Cells In Vitro	https://www.webofscience.com/wos/woscc/full-record/WOS:000285578000041
+Immunolocalization of histamine in the optic neuropils of Scutigera coleoptrata (Myriapoda: Chilopoda) reveals the basal organization of visual systems in Mandibulata	https://www.webofscience.com/wos/woscc/full-record/WOS:000353750200021
 
-Genetic analysis of elbow angles and their relationship to elbow dysplasia in the Rottweiler dog	https://www.webofscience.com/wos/woscc/full-record/WOS:000280507300002
+Histochemistry on vibratome sections of fish tissue: a comparison of fixation and embedding methods	https://www.webofscience.com/wos/woscc/full-record/WOS:000353913500006
 
-Acute glial activation by stab injuries does not lead to overt damage or motor neuron degeneration in the G93A mutant SOD1 rat model of amyotrophic lateral sclerosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000274560800009
+Potential and Limitations of X-Ray Micro-Computed Tomography in Arthropod Neuroanatomy: A Methodological and Comparative Survey	https://www.webofscience.com/wos/woscc/full-record/WOS:000352559700009
 
-CD127(low/-) and FoxP3(+) Expression Levels Characterize Different Regulatory T-Cell Populations in Human Peripheral Blood	https://www.webofscience.com/wos/woscc/full-record/WOS:000273841300025
+A Systematic Nomenclature for the Insect Brain	https://www.webofscience.com/wos/woscc/full-record/WOS:000331464400007
 
-Dissolution Testing to Forecast the In Vivo Performance of MR Formulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000356717800014
+The Chaetognatha : An anarchistic taxon between Protostomia and Deuterostomia	https://www.webofscience.com/wos/woscc/full-record/WOS:000341382500004
 
-Building new drug delivery systems: in vitro and in vivo studies of drug-hydroxybutenyl cyclodextrin complexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000280866400003
+Immunohistochemical and ultrastructural studies on ciliary sense organs of arrow worms (Chaetognatha)	https://www.webofscience.com/wos/woscc/full-record/WOS:000336051700005
 
-A new self-emulsifying drug delivery system (SEDDS) for poorly soluble drugs: Characterization, dissolution, in vitro digestion and incorporation into solid pellets	https://www.webofscience.com/wos/woscc/full-record/WOS:000261760100010
+A developmental study of serotonin-immunoreactive neurons in the embryonic brain of the Marbled Crayfish and the Migratory Locust: Evidence for a homologous protocerebral group of neurons	https://www.webofscience.com/wos/woscc/full-record/WOS:000328872800007
 
-Simplified biorelevant media for screening dissolution performance of poorly soluble drugs (vol 14, pg 8, 2007)	https://www.webofscience.com/wos/woscc/full-record/WOS:000253887700006
+Brain anatomy of the marine isopod Saduria entomon Linnaeus, 1758 (Valvifera, Isopoda) with special emphasis on the olfactory pathway	https://www.webofscience.com/wos/woscc/full-record/WOS:000326348900001
 
-Lesion-Induced Increase in Survival and Migration of Human Neural Progenitor Cells Releasing GDNF	https://www.webofscience.com/wos/woscc/full-record/WOS:000260863800003
+Serotonin-immunoreactive neurons in the ventral nerve cord of Remipedia (Crustacea): support for a sister group relationship of Remipedia and Hexapoda?	https://www.webofscience.com/wos/woscc/full-record/WOS:000320618500001
 
-CELL 123-Polysaccharides in oral drug delivery: Recent applications and future perspectives	https://www.webofscience.com/wos/woscc/full-record/WOS:000207722800597
+The Malacostraca (Crustacea) from a neurophylogenetic perspective: New insights from brain architecture in Nebalia herbstii Leach, 1814 (Leptostraca, Phyllocarida)	https://www.webofscience.com/wos/woscc/full-record/WOS:000321727500005
 
-Monitoring of in vitro fat digestion by electron paramagnetic resonance spectroscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000240310700008
+Neurogenesis in an Early Protostome Relative: Progenitor Cells in the Ventral Nerve Center of Chaetognath Hatchlings Are Arranged in a Highly Organized Geometrical Pattern	https://www.webofscience.com/wos/woscc/full-record/WOS:000317524800005
+
+Giant Robber Crabs Monitored from Space: GPS-Based Telemetric Studies on Christmas Island (Indian Ocean)	https://www.webofscience.com/wos/woscc/full-record/WOS:000311151900196
 

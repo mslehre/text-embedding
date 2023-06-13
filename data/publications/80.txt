@@ -1,80 +1,102 @@
-Ines Kath,38352705;
+Jan-Peter Hildebrandt,28934358;
 
-Lattices in the Four-Dimensional Hyperbolic Oscillator Group	https://www.webofscience.com/wos/woscc/full-record/WOS:000897568200012
+Target Mechanisms of the Cyanotoxin Cylindrospermopsin in Immortalized Human Airway Epithelial Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000895619200001
 
-A new example of a compact ERP G2-structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000668292200001
+Make it double: identification and characterization of a Tandem-Hirudin from the Asian medicinal leech Hirudinaria manillensis	https://www.webofscience.com/wos/woscc/full-record/WOS:000844486500001
 
-Existence of Cocompact Lattices in Lie Groups With a Bi-invariant Metric of Index 2	https://www.webofscience.com/wos/woscc/full-record/WOS:000731074000015
+Differences in the expression of soluble proteins in freshwater and brackish-water ecotypes of the snail Theodoxus fluviatilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000842558000001
 
-Skew Killing spinors in four dimensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000625601800001
+Staphylococcus aureus Alpha-Toxin in Deep Tracheal Aspirates-Preliminary Evidence for Its Presence in the Lungs of Sepsis Patients	https://www.webofscience.com/wos/woscc/full-record/WOS:000831469600001
 
-Spectra of Compact Quotients of the Oscillator Group	https://www.webofscience.com/wos/woscc/full-record/WOS:000658208300001
+Life without blood: Molecular and functional analysis of hirudins and hirudin-like factors of the Asian non-hematophagous leech Whitmania pigra	https://www.webofscience.com/wos/woscc/full-record/WOS:000802811500001
 
-Lattices in the four-dimensional split oscillator group	https://www.webofscience.com/wos/pprn/full-record/PPRN:11498384
+The cyanotoxin cylindrospermopsin slows down cell cycle progression and extends metaphase duration in immortalised human airway epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000807716000005
 
-HOLONOMY GROUPS OF G(2)(*)-MANIFOLDS	https://www.webofscience.com/wos/woscc/full-record/WOS:000469491900009
+Expression levels and activities of energy-yielding ATPases in the oligohaline neritid snail Theodoxus fluviatilis under changing environmental salinities	https://www.webofscience.com/wos/woscc/full-record/WOS:000763258200005
 
-Local Type I Metrics with Holonomy in ${m G}_{2}^*$	https://www.webofscience.com/wos/pprn/full-record/PPRN:22599435
+Short tail stories: the hirudin-like factors HLF6 and HLF7 of the Asian medicinal leech, Hirudinaria manillensis	https://www.webofscience.com/wos/woscc/full-record/WOS:000702602400002
 
-Local Type I Metrics with Holonomy in G(2)*	https://www.webofscience.com/wos/woscc/full-record/WOS:000440858100001
+Major Determinants of Airway Epithelial Cell Sensitivity to S. aureus Alpha-Toxin: Disposal of Toxin Heptamers by Extracellular Vesicle Formation and Lysosomal Degradation	https://www.webofscience.com/wos/woscc/full-record/WOS:000634212600001
 
-Holonomy groups of $G_2^*$-manifolds	https://www.webofscience.com/wos/pprn/full-record/PPRN:12118172
+Cell-free synthesis of the hirudin variant 1 of the blood-sucking leech Hirudo medicinalis	https://www.webofscience.com/wos/woscc/full-record/WOS:000594649000002
 
-Compact quotients of Cahen-Wallach spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:19147234
+S. aureus alpha-toxin monomer binding and heptamer formation in host cell membranes - Do they determine sensitivity of airway epithelial cells toward the toxin?	https://www.webofscience.com/wos/woscc/full-record/WOS:000537552800195
 
-SPECTRA OF SUB-DIRAC OPERATORS ON CERTAIN NILMANIFOLDS	https://www.webofscience.com/wos/woscc/full-record/WOS:000363494800003
+Impact of Salinity on the Gastrointestinal Bacterial Community of Theodoxus fluviatilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000536863600001
 
-Indefinite symmetric spaces with G(2(2))-structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000320453000012
+The hirudin-like factors HLF3 and HLF4-hidden hirudins of European medicinal leeches	https://www.webofscience.com/wos/woscc/full-record/WOS:000530187500002
 
-Indefinite extrinsic symmetric spaces II	https://www.webofscience.com/wos/woscc/full-record/WOS:000310725100003
+Hirudin or hirudin-like factor - that is the question: insights from the analyses of natural and synthetic HLF variants	https://www.webofscience.com/wos/woscc/full-record/WOS:000499291600001
 
-A SPLITTING THEOREM FOR HIGHER ORDER PARALLEL IMMERSIONS	https://www.webofscience.com/wos/woscc/full-record/WOS:000306387400029
+Adherence, multimerization and internalization of the pore-forming alpha toxin of Staphylococcus aureus in human airway epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000487978200215
 
-Semisimplicity of indefinite extrinsic symmetric spaces and mean curvature	https://www.webofscience.com/wos/woscc/full-record/WOS:000304158400005
+Hirudins of the Asian medicinal leech, Hirudinaria manillensis: samesame, but different	https://www.webofscience.com/wos/woscc/full-record/WOS:000474422000020
 
-Indefinite symmetric spaces with $G_{2(2)}$-structure	https://www.webofscience.com/wos/pprn/full-record/PPRN:22583546
+HIRUDIN AND DECORSINS OF THE NORTH AMERICAN MEDICINAL LEECH MACROBDELLA DECORA: GENE STRUCTURE REVEALS HOMOLOGY TO HIRUDINS AND HIRUDIN-LIKE FACTORS OF EURASIAN MEDICINAL LEECHES	https://www.webofscience.com/wos/woscc/full-record/WOS:000473672100007
 
-Indefinite extrinsic symmetric spaces I	https://www.webofscience.com/wos/woscc/full-record/WOS:000291342000004
+Effects of cylindrospermopsin on cultured immortalized human airway epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000458591200068
 
-Classification results for pseudo-Riemannian symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000324344600022
+Sphingomyelin Depletion from Plasma Membranes of Human Airway Epithelial Cells Completely Abrogates the Deleterious Actions of S. aureus Alpha-Toxin	https://www.webofscience.com/wos/woscc/full-record/WOS:000460801500068
 
-ON THE STRUCTURE OF PSEUDO-RIEMANNIAN SYMMETRIC SPACES	https://www.webofscience.com/wos/woscc/full-record/WOS:000272870400006
+Alanine, proline and urea are major organic osmolytes in the snail Theodoxus fluviatilis under hyperosmotic stress	https://www.webofscience.com/wos/woscc/full-record/WOS:000458814600024
 
-The classification problem for pseudo-Riemannian symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000268749200001
+Phenotypic Plasticity in Animals Exposed to Osmotic Stress - Is it Always Adaptive?	https://www.webofscience.com/wos/woscc/full-record/WOS:000447835900005
 
-New examples of indefinite hyper-Kahler symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000246597900007
+Staphylococcus aureus alpha-Toxin Induces Actin Filament Remodeling in Human Airway Epithelial Model Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000429246200010
 
-Nilpotent metric Lie algebras of small dimension	https://www.webofscience.com/wos/woscc/full-record/WOS:000244494300003
+Potential modes of range shifts in euryhaline snails from the Baltic Sea and fresh water lakes in northern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000427080900025
 
-Metric Lie algebras and quadratic extensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000236108600006
+Disruption of the epithelial barrier function in human airway model epithelia by the pore-forming alpha-toxin of Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000395770300120
 
-New examples of indefinite hyper-Kaehler symmetric spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:22836777
+Hirudins and hirudin-like factors in Hirudinidae: implications for function and phylogenetic relationships	https://www.webofscience.com/wos/woscc/full-record/WOS:000390568500033
 
-Metric Lie algebras with maximal isotropic centre	https://www.webofscience.com/wos/woscc/full-record/WOS:000187291700003
+ATP Release from Human Airway Epithelial Cells Exposed to Staphylococcus aureus Alpha-Toxin	https://www.webofscience.com/wos/woscc/full-record/WOS:000389342000019
 
-Doubly extended Lie groups - curvature, holonomy and parallel spinors	https://www.webofscience.com/wos/woscc/full-record/WOS:000186288300001
+Staphylococcus aureus alpha-toxin-mediated cation entry depolarizes membrane potential and activates p38 MAP kinase in airway epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000384974700014
 
-Curvature estimates in asymptotically flat manifolds of positive scalar curvature	https://www.webofscience.com/wos/woscc/full-record/WOS:000183580000006
+Be ready at any time: postprandial synthesis of salivary proteins in salivary gland cells of the haematophagous leech Hirudo verbana	https://www.webofscience.com/wos/woscc/full-record/WOS:000374958100011
 
-Parallel pure spinors on pseudo-Riemannian manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000172650900008
+More than just one: multiplicity of Hirudins and Hirudin-like Factors in the Medicinal Leech, Hirudo medicinalis	https://www.webofscience.com/wos/woscc/full-record/WOS:000369008300018
 
-Pseudo-Riemannian T-duals of compact Riemannian homogeneous spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000087670200004
+A Multi-Omics Approach Identifies Key Hubs Associated with Cell Type-Specific Responses of Airway Epithelial Cells to Staphylococcal Alpha-Toxin	https://www.webofscience.com/wos/woscc/full-record/WOS:000352133600143
 
-Parallel spinors and holonomy groups on pseudo-Riemannian spin manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000078754600001
+Staphylococcus aureus Hemolysin A Disrupts Cell-Matrix Adhesions in Human Airway Epithelial Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000347420300002
 
-G(2(2)(*))-Structures on pseudo-Riemannian manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000076008300001
+Pore-forming virulence factors of Staphylococcus aureus destabilize epithelial barriers-effects of alpha-toxin in the early phases of airway infection	https://www.webofscience.com/wos/woscc/full-record/WOS:000215290400002
 
-On nearly parallel G(2)-structures	https://www.webofscience.com/wos/woscc/full-record/WOS:000070984000006
+A second look at leptin and adiponectin actions on the growth of primary porcine myoblasts under serum-free conditions	https://www.webofscience.com/wos/woscc/full-record/WOS:000344994500003
 
-Normally hyperbolic operators, the Huygens property and conformal geometry	https://www.webofscience.com/wos/woscc/full-record/WOS:A1996VU19600001
+Staphylococcus aureus Alpha-Toxin Mediates General and Cell Type-Specific Changes in Metabolite Concentrations of Immortalized Human Airway Epithelial Cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000336970400112
 
-RIEMANNIAN-MANIFOLDS OF DIMENSION 7 WITH ONE REAL KILLING SPINOR	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EE99800015
+May Salivary Gland Secretory Proteins from Hematophagous Leeches (Hirudo verbana) Reach Pharmacologically Relevant Concentrations in the Vertebrate Host?	https://www.webofscience.com/wos/woscc/full-record/WOS:000324695900022
 
-7-DIMENSIONAL COMPACT RIEMANNIAN-MANIFOLDS WITH KILLING SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EJ17200005
+S.aureus haemolysin A-induced IL-8 and IL-6 release from human airway epithelial cells is mediated by activation of p38-and Erk-MAP kinases and additional, cell type-specific signalling mechanisms	https://www.webofscience.com/wos/woscc/full-record/WOS:000320394800014
 
-COMPACT 5-DIMENSIONAL RIEMANNIAN-MANIFOLDS WITH PARALLEL SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EA96500017
+Partial hepatectomy in rats results in immediate down-regulation of p27Kip1 in residual liver tissue by transcriptional and post-translational processes	https://www.webofscience.com/wos/woscc/full-record/WOS:000346774000137
 
-EINSTEIN MANIFOLDS OF DIMENSION-5 WITH SMALL 1ST EIGENVALUE OF THE DIRAC OPERATOR	https://www.webofscience.com/wos/woscc/full-record/WOS:A1989T512700003
+Detection of PrPSc in peripheral tissues of clinically affected cattle after oral challenge with bovine spongiform encephalopathy	https://www.webofscience.com/wos/woscc/full-record/WOS:000313027500024
 
-7-DIMENSIONAL COMPACT RIEMANNIAN-MANIFOLDS ADMITTING KILLING SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1988R490700008
+Small bite, large impact-saliva and salivary molecules in the medicinal leech, Hirudo medicinalis	https://www.webofscience.com/wos/woscc/full-record/WOS:000297547700001
+
+Streptococcus pneumoniae Infection of Host Epithelial Cells via Polymeric Immunoglobulin Receptor Transiently Induces Calcium Release from Intracellular Stores	https://www.webofscience.com/wos/woscc/full-record/WOS:000290585200049
+
+Effects of secretory products of Staphylococcus aureus on cell layer integrity in human airway epithelial cells (S9, 16HBE14o-, A549)	https://www.webofscience.com/wos/woscc/full-record/WOS:000276163000057
+
+Differences in osmotolerance in freshwater and brackish water populations of Theodoxus fluviatilis (Gastropoda: Neritidae) are associated with differential protein expression	https://www.webofscience.com/wos/woscc/full-record/WOS:000274457300003
+
+Effect of PspC-polymeric immunoglobulin receptor mediated pneumococcal infection on calcium signaling in host epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000269650700249
+
+Effects of secretory products of Staphylococcus aureus on Erk-type MAP kinase activation, c-fos induction and changes in cell layer integrity in human airway epithelial (S9) cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000264865700139
+
+Partial hepatectomy in the rat induces transient downregulation of p27Kip1 in hepatocytes	https://www.webofscience.com/wos/woscc/full-record/WOS:000264865700131
+
+Virulence factors of Staphylococcus aureus induce Erk-MAP kinase activation and c-Fos expression in S9 and 16HBE14o-human airway epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000263723800022
+
+Effects of Staphylococcus aureus-hemolysin A on calcium signalling in immortalized human airway epithelial cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000263744700007
+
+Novel mammalian cell lines expressing reporter genes for the detection of environmental chemicals activating endogenous aryl hydrocarbon receptors (ArhR) or estrogen receptors (ER)	https://www.webofscience.com/wos/woscc/full-record/WOS:000261583800017
+
+Activation of Erk-type MAP kinases and induction of the immediate early gene c-fos in immortalized human airway epithelial (S9) cells by secretory products of Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000255316100076
+
+Staphylococcus aureus-hemolysin A modulates calcium signaling in immortalized human airway epithelial (S9) cells	https://www.webofscience.com/wos/woscc/full-record/WOS:000255316100072
 
