@@ -36,6 +36,6 @@ directory = 'data/examination_regulations'
 
 for filename in os.listdir(directory):
     f = os.path.join(directory, filename)
-    # checking if it is a file and if it is '.pdf' at the end
+    # checking if it is a file and if it ends with '.pdf'
     if os.path.isfile(f) and f[-4:] == '.pdf':
         pdfToTxt(f)
