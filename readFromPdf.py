@@ -13,14 +13,16 @@ def pdfToTxt(pdfname):
     # creating a pdf reader object
     pdfReader = PyPDF2.PdfReader(pdfFileObj)
 
-    # printing number of pages in pdf file
-    #print(pdfReader.numPages)
+    # get total pages of pdf
+    totalPages = len(pdfReader.pages)
+    fileText = ''
 
-    # creating a page object
-    pageObj = pdfReader.pages[0]
+    for i in range(totalPages):
+        # creating a page object
+        pageObj = pdfReader.pages[i]
 
-    # extracting text from page
-    fileText = pageObj.extract_text()
+        # extracting text from page
+        fileText += pageObj.extract_text()
 
     # closing the pdf file object
     pdfFileObj.close()

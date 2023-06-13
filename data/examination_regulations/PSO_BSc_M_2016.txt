@@ -38,4 +38,2096 @@ RPT Regelprüfungstermin (Semester)
 RV Referat  mit Verschriftlichung  
 ÜS  Übungsschein  
 / oder 
+  2  § 1* 
+Geltungsbereich  
+ 
+Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das Prüfungsverfahren im Bachelorstudiengang Mathematik der Ernst -Moritz -Arndt - 
+Universität Greifswald. Für alle in der  vorliegenden Ordnung nicht geregelten 
+Prüfungsangelegenheiten gilt die Rahmenprüfungsordnung der Ernst -Moritz -Arndt - 
+Universität Greifswald (RPO) vom 31. Januar 2012 in der jeweils geltenden Fassung unmittelbar.  
   
+§ 2 
+Ziele und Aufbau des Studiums  
+ (1) Der Bachelorstudiengang ist grundlagen - und methodenorientiert. Er schafft die 
+Voraussetzungen für spätere Vertiefungen und Schwerpunktsetzungen und bereitet damit auf das Masterstudium vor. Die Studierenden  erwerben  
+- fundierte Fachkenntnisse und Fertigkeiten, die sie befähigen, nach wissenschaft -
+lichen Methoden zu arbeiten,  
+- Abstraktionsvermögen und das Erkennen von Analogien und Grundmustern,  
+- Die Fähigkeit zum Einordnen, Erkennen, Formulieren und Lösen von mathema-tischen Problemen, Verständnis für die Bedeutung mathematischer Modellierung 
+und Problemlösungsstrategien  
+- Kommunikationsfertigkeiten und die Befähigung zur  Teamarbeit,  
+- Grundkenntnisse rechnergestützter Simulation, mathematischer Software und Programmierung.  
+Durch die Bachelorprüfung soll festgestellt werden, ob der Kandidat diese  
+Fähigkeiten und Fertigkeiten erworben hat. 
+ (2) Die Zeit, in der in der Regel das Studium mit dem Grad Bachelor of Science 
+abgeschlossen werden kann (Regelstudienzeit), beträgt sechs  Semester.  
+ (3) Der zeitliche Gesamtumfang, der für den erfolgreichen Abschluss des Studiums 
+erforderlichen regelmäßigen Arbeitslast (workload), beträgt 5400 Stunden. Es sind insgesamt  180 Leistungspunkte (LP) zu erwerben.  Je nach  Wahl  der Module kann 
+der workload zum Abschluss des Studiums auch mehr als 5400 Stunden (180 LP) 
+betragen.  
+ (4) Ein erfolgreiches  Studium  setzt  die Teilnahme  an den in den Modulen 
+angebotenen Lehrveranstaltungen voraus. Die Studierenden haben die entsprechende Kontaktzeit eigenverantwortlich durch ein angemessenes 
+Selbststudium zu ergänzen. Die jeweiligen Lehrkräfte geben hierzu für jedes Modul rechtzeitig Studienhinweise, insbesondere Literaturlisten heraus, die sich an den Qualifikationszielen und an der Arbeitsbelastung des Moduls  orientieren.  
+ (5) Unbeschadet der Freiheit der Studierenden, den zeitlichen und organisatorischen Verlauf seines Studiums selbstverantwortlich zu planen, wird der Musterstudienplan (Anlage A) als zweckmäßig empfohlen. Für die qualitativen und quantitativen Beziehungen zwischen der Dauer der Module und der Leistungspunkteverteilung 
+                                                
+* Alle Personen-  und Funktionsbezeichnungen in dieser Ordnung beziehen sich in gleicher Weise auf 
+alle Personen bzw. Funktionsträger. Unabhängig von ihrem Geschlecht.  3  einerseits sowie den Lehrveranstaltungsarten und Semesterwochenstunden 
+andererseits wird ebenfalls auf den Musterstudienplan verwiesen.  
+  
+§ 3 
+Veranstaltungsarten  
+ Die S tudieninhalte werden in Form von Vorlesungen, Seminaren und Übungen 
+angeboten.  
+ 
+1. Vorlesungen dienen der systematischen Darstellung eines Stoffgebietes,  
+der Vortragscharakter  überwiegt.  
+ 
+2. Seminare sind Lehrveranstaltungen,  in denen  die Studierenden durch  
+eigene mündliche und schriftliche Beiträge sowie Diskussionen in das 
+selbständige wissenschaftliche Arbeiten eingeführt  werden.  
+ 3. Übungen fördern die selbständige Anwendung erworbener Kenntnisse auf konkrete Fragestellungen.  
+  
+§ 4 
+Studienaufnahme  
+ Das Studium im Bachelorstudiengang Mathematik kann nur im Wintersemester aufgenommen werden.  
+  
+§ 5 
+Module  
+ (1) Das Studium umfasst Module im Umfang von insgesamt 180 LP. Diese sind vier 
+Bereichen zugeordnet: einem Pflicht -, einem Aufbau -, einem Seminar - und einem 
+Nebenfachbereich.  
+ 
+(2) Alle Module des Pflichtbereiches  müssen belegt  werden.  Der Pflichtbereich  
+besteht aus folgenden Modulen:  
+ 
+ Modul  D AB LP PL und PA  RPT 
+P1 Analysis  2 540 18 2 ÜS  
+1 mP/K  1. und 
+2. 2. 
+P2 Lineare Algebra und analytische 
+Geometrie  2 540 18 2 ÜS  
+1 mP/K  1. und 
+2. 2. 
+P3 Algorithmen und Programmierung/ 
+Computeralgebra  2 330 11 2 ÜS  
+1 K/mP  1. und 
+2. 1. 
+P4 Optimierung  1 270 9 1 mP/K  6. 4  P5 Stochastik  1 270 9 1 ÜS  
+1 mP  5. 
+5. 
+P6 Gewöhnliche 
+Differentialgleichungen  1 150 5 1 ÜS  
+1 mP  3. 
+3. 
+P7 Algebra I  1 270 9 1 ÜS  
+1 mP/K  5. 
+5. 
+P8 Numerik I  1 270 9 1 ÜS  
+1 mP/K  6. 
+6. 
+P9 Maß- und Integrationstheorie  1 270 9 1 ÜS  
+1 mP/K  5. 
+5. 
+BA Bachelorarbeit  1 360 12  6. 
+ 
+(3) Der Aufbaubereich besteht aus folgenden Modulen, aus denen Module im  
+Umfang von mindestens 30 LP auszuwählen  sind:  
+ 
+ Modul  D AB LP PL und PA  
+A1 Algebra II  1 270 9 1 ÜS  
+1 mP/K  
+A2 Numerik Grundpraktikum  1 180 6 1 ÜS  
+1 mP/K  
+A3 Optimale Steuerung / Variationsrechnung  1 180 6 1 mP/K  
+A4 Differentialgeometrie  1 180 6 1 mP/K  
+A5 Finanz - und Versicherungsmathematik  1 180 6 1 mP/K  
+A6 Fourieranalyse / Distributionentheorie  1 180 6 1 mP/K  
+A7 Funktionalanalysis  1 270 9 1 ÜS  
+1 mP/K  
+A8 Funktionentheorie  1 180 6 1 mP/K  
+A9 Mathematische Logik  1 180 6 1 mP/K  
+A10 Multivariate Statistik  1 270 9 1 mP/K  
+A11 Nichtlineare Optimierung  1 180 6 1 mP/K  
+A12 Numerik II  1 270 9 1 ÜS  
+1 mP/K  
+A13 Partielle Differentialgleichungen  1 180 6 1 mP/K  
+A14 Statistik  1 270 9 1 ÜS  
+1 mP  
+A15 Spieltheorie  1 180 6 1 mP/K  
+A16 Spezialvorlesung I  1 90 3 1 mP/K  
+A17 Spezialvorlesung II  1 180 6 1 mP/K  5  Die Module A16 und A17 können mehrfach belegt werden.  
+ 
+(4) Der Seminarbereich besteht  aus folgenden  Modulen,  aus denen  Module im 
+Umfang von mindestens  8 LP und höchstens  17 LP auszuwählen sind.  Die 
+Seminarmodule S2 und S3 können mehrfach belegt  werden.  
+ 
+ Modul  D AB LP PL und PA  
+S1 Proseminar  1 60 2 1 R 
+S2 Seminar  1 90 3 1 R 
+S3 Seminar mit Ausarbeitung  1 180 6 1 RV  
+ 
+(5) Jeder Studierende wählt eines der nachfolgend angegebenen Nebenfächer. In 
+diesem Nebenfach sind aus dem nachfolgend angegebenen Angebot Module im 
+Umfang von mindestens 24 LP auszuwählen. Zulässige Nebenfächer und deren Module sind:  
+ 
+1.) Nebenfach Theoretis che Physik  
+ 
+ Modul  D AB LP PL und PA  
+T1 Theoretische Physik 1: Klassische 
+Mechanik  1 270 9 1 ÜS  
+1 K (120 
+Min.)/mP 
+T2 Theoretische Physik 2: Elektrodynamik  1 270 9 1 ÜS  
+1 K (120 
+Min.)/mP 
+T3 Theoretische Physik 3: Quantenmechanik  1 270 9 1 ÜS 
+1 K (120 
+Min.)/mP 
+T4 Theoretische Physik 4: Thermodynamik und 
+Statistische Physik  1 270 9 1 ÜS  
+1 K (120 
+Min.)/mP 
+ 
+2.) Nebenfach Experimentalphysik  
+ 
+ Modul  D AB LP PL und PA  
+E1 Experimentalphysik 1: Mechanik / Wärme  1 240 8 1 ÜS  
+1 mP/K  
+E2 Experimentalphysik 2: Elektrizität / Optik  1 240 8 1 ÜS  
+1 mP/K  
+E3 Experimentalphysik 3: Atome / Moleküle  1 240 8 1 ÜS  
+1 mP/K  
+E4 Experimentalphysik 4: Festkörper  1 210 7 1 ÜS  
+1 mP/K  6  3.) Nebenfach Informatik  
+ 
+ Modul  D AB LP PL und PA  
+I1 Theoretische Informatik  1 270 9 1 mP/K  
+I2 Praxis des Programmierens  1 270 9 1 ÜS  
+I3 Datenstrukturen und effiziente Algorithmen  1 270 9 1 ÜS  
+1 mP  
+I4 Praktikum Softwaretechnik  1 180 6 1 ÜS  
+I5 Computergrafik I  1 180 6 1 mP/K  
+I6 Datenbanken  1 180 6 1 mP  
+I7 Randomisierte Algorithmen  1 180 6 1 mP 
+ 
+4.) Betriebswirtschaftslehre  
+ 
+ Modul  D AB LP PL und PA  
+B1 Einführung in die Betriebswirtschaftslehre  1 150 5 1 K (120 M in.) 
+B2 Technik des betrieblichen Rechnungswesens 
+(Buchhaltung)  1 150 5 1 K (120 M in.) 
+B3 Güterwirtschaftliche Prozesse (Grundzüge der 
+BWL I)  2 450 15 1 K (120 M in.) 
+B4 Betriebliche Entscheidungsprozesse 
+(Allgemeine BWL)  1 180 6 1 K (120 M in.) 
+ 
+5.) Volkswirtschaftslehre  
+ 
+ Modul  D AB LP PL und PA  
+V1 Einführung in die Volkswirtschaftslehre  1 150 5 1 K (120 M in.) 
+V2 Mikroökonomik  1 210 7 1 K (120 M in.) 
+V3 Makroökonomik  1 210 7 1 K (120 M in.) 
+V4 Makroökonomische Steuerungsprozesse 
+(Allgemeine VWL)  1 180 6 1 K (120 M in.) 
+V5 Soziale Marktwirtschaft (Allgemeine VWL)  1 180 6 1 K (120 M in.) 
+V6 Umwelt - und Ressourcenökonomik 
+(Allgemeine VWL)  1 180 6 2 K (60 M in.) 
+ 
+Aus den Modulen V4 makroökonomische Steuerungsprozesse, V5 soziale 
+Marktwirtschaft und V6 Umwelt - und Ressourcenökonomik sind zwei Module zu 
+wählen.  
+ 7  (6) In begründeten Ausnahmefällen kann beim Zentralen Prüfungsamt die Zulassung  
+eines weiteren Nebenfaches beantragt werden. Über die Zulassung entscheidet der 
+Vorsitzende des Prüfungsausschusses. Der Antrag muss spätestens in der zweiten Woche der Vorlesungszeit desjenigen Semesters vorliegen, in dem das erste Modul 
+des beantragten Nebenfaches belegt wird.  
+ 
+(7) Nach  Wahl  des Dozenten können  Lehrveranstaltungen auch  in englischer  
+Sprache angeboten werden.  
+ 
+ 
+§ 6 
+Prüfungen 
+ 
+(1) In Absprache  zwischen  Prüfer  und Studierendem  kann  eine Modulprüfung  auch 
+auf Englisch  stattfinden.  
+ (2) Besteht eine Modulprüfung aus mehreren Prüfungsleistungen, muss jede 
+einzelne mindestens mit „ausreichend“ (4,0) oder als „bestanden“ bewertet werden. Nicht bestandene Teilprüfungen lassen bestandene Teilprüfungen unberührt.  
+ (3) Falls in § 5 nicht anders angegeben, ist der Regelprüfungstermin jedes Moduls 
+dasjenige Semester, in dem die letzte Veranstaltung des Moduls belegt wurde. Dabei muss der Regelprüfungstermin innerhalb der Regelstudienzeit  liegen.  
+ (4) Klausuren verblei ben nach der Begutachtung beim  Prüfer.  
+ 
+(5) Die Modulprüfungen werden gemäß § 5 in folgender Form  abgelegt:  
+• einer mündlichen Prüfung (30 Minuten,  benotet),  
+• einer Klausur (90 Minuten, falls in § 5 nicht anders angegeben,  benotet)  
+• eines Referats (60 Minuten für S1, 90 Minuten für S2, jeweils  unbenotet)  
+• eines Referats (90 Minuten, unbenotet) mit Verschriftlichung (10- 15 
+Seiten,  unbenotet),  
+• eines Übungsscheins  (unbenotet).  
+ 
+(6) Die Kriterien für den Erhalt eines Übungsscheines legt der Dozent in der ersten 
+Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50% der Übungsaufgaben erfolgreich zu bearbeiten.  
+ (7) Soweit  eine Wahl  zwischen  zwei Prüfungsformen (mündliche Prüfung  oder 
+Klausur) besteht, wird sie vom Prüfer in der ersten Vorlesungswoche getroffen. Wird die Prüfungsform nicht innerhalb der Frist festgelegt, gilt die in § 5 zuerst genannte Prüfungsform.  
+ (8) Vor mündlichen Prüfungen ist dem Studierenden die Gelegenheit zur 
+Konsultation einzuräumen.  
+ (9) Studierende, die beabsichtigen, nach Ablauf eines Semesters die Universität zu 
+verlassen, können beantragen, dass sie am Ende des Semesters eine Prüfung ablegen, die sich auf die bereits absolvierten Teile des Moduls  bezieht.  
+  8  § 7 
+Bachelorarbeit  
+ 
+(1) Hat der Studierende mindestens 120 LP  erworben, kann er die Ausgabe eines 
+Themas für die Bachelorarbeit beantragen. Das Thema der Bachelorarbeit muss 
+spätestens sechs Monate nach Beendigung der letzten Modulprüfung ausgegeben 
+werden. Beantragt der Studierende das Thema später oder nicht, verk ürzt sich die 
+Bearbeitungszeit entsprechend. Der Antrag auf Ausgabe des Themas der Arbeit soll spätestens 14 Tage vor dem Beginn der Bearbeitungszeit im Zentralen Prüfungsamt 
+vorliegen (§ 28 Absatz 2 RPO).  
+ (2) Die Bearbeitungszeit für die Bachelorarbeit beträgt 360 Stunden (12 LP) im 
+Verlauf von sechs Monaten.
+ 
+ (3) Eine elektronische Fassung  ist der Arbeit  beizufügen.  Zugleich  hat der 
+Studierende schriftlich zu erklären, dass von der Arbeit eine elektronische Kopie gefertigt und gespeichert werden darf, um  eine Überprüfung mittels einer 
+Plagiatserkennungssoftware zu ermöglichen.  
+  
+§ 8 
+Bildung der Gesamtnote und Zeugnis  
+ (1) Die Gesamtnote errechnet sich entsprechend § 33 RPO aus den Noten aller 
+belegten benoteten Module sowie der Bachelorarbeit. Die Note des schlechtesten Pflichtmoduls im Umfang von 9 LP (Optimierung, Stochastik, Algebra I, Numerik I oder 
+Maß- und Integrationstheorie) geht nicht in die Gesamtnote  ein. 
+ (2) Die Noten aller nach § 8 Absatz 1 zu berücksichtigen Module gehen mit dem auf 
+den jeweiligen relativen Anteil an in § 5 ausgewiesenen Leistungspunkten bezogenen Gewicht ein, die Note für die Bachelorarbeit wird dabei mit dem 2- fachen 
+relativen Anteil  gewichtet.  
+ (3) Auf dem Zeugnis  werden der Titel und die Note  der Bachelorarbeit  sowie  die 
+Namen der Gutachter und die Gesamtnote  ausgewiesen.  
+ 
+ 
+§ 9 
+Akademischer Grad  
+ 
+Aufgrund der bestandenen Bachelorprüfung wird der akademische Grad eines Bachelor of Science (abgekürzt: B. Sc.) vergeben.  
+  
+§ 10 
+Inkrafttreten  
+ (1) Die Prüfungs - und Studienordnung tritt am Tag nach ihrer hochschulöffentlichen 
+Bekanntmachung in Kraft.  
+ (2) Die Prüfungsordnung gilt erstmals für die Studierenden, die zum Wintersemester 9  2016/17 im Studiengang Bachelor Mathematik immatrikuliert   wurden.  
+ 
+ Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats vom 
+31. Januar 2018, der mit Beschluss des Senats vom 30 . März 2016 gemäß § 81 
+Absatz 7 LHG M -V und § 20 Absatz 1 Satz 2 Grundordnung die Befugnis zur 
+Beschlussfassung verliehen wurde, sowie der Genehmigung der Rektorin vom 12. Februar 2018.  
+ 
+Greifswald, den 12.02.2018  
+ 
+  
+Die Rektorin  
+der Ernst -Mori tz-Arndt -Universität Greifswald  
+Universitätsprofessorin Dr. Johanna Eleonore  Weber  
+ 
+ 
+Veröffentlichungsvermerk: Hochschulöffentlich bekannt gemacht am 30.04.2018  Musterstudienplan Bachelor Mathematik
+VÜS
+P1 Analysis I 4 2 2 ÜS 9
+P2 Lineare Algebra und analytische Geometrie I 4 2 2 ÜS 9
+P3 Algorithmen und Programmierung 4 2 2 K/mP 9
+P1 Analysis II 4 2 2 ÜS, mP/K 9
+P2 Lineare Algebra und analytische Geometrie II 4 2 2 ÜS, mP/K 9
+T1 Theoretische Physik 1: Klassische Mechanik 4 2 1 ÜS, K(120 min)/mP 9
+P3 Computeralgebrasysteme 2 2 ÜS 2
+P6 Gewöhnliche Differentialgleichungen 2 1 1 ÜS, mP 5
+P9 Maß- und Integrationstheorie 4 2 1 ÜS, mP/K 9
+T2 Theoretische Physik 2: Elektrodynamik 4 2 1 ÜS, K(120 min)/mP 9
+P7 Algebra I 4 2 1 ÜS, mP/K 9
+P8 Numerik I 4 2 1 ÜS, mP/K 9
+P4 Optimierung 4 2 1 mP/K 9
+S1 Proseminar 2 1 R (60 min) 2
+A7 Funktionalanalysis 4 2 1 ÜS, mP/K 9
+P5 Stochastik 4 2 1 ÜS, mP 9
+A2 Numerik Grundpraktikum 2 2 1 ÜS, mP/K 6
+A11 Nichtlineare Optimierung 4 1 mP/K 6
+A13 Partielle Differentialgleichungen 3 1 1 mP/K 6
+S2 Seminar 2 1 R (90 min) 3
+A14 Statistik 4 2 1 ÜS, mP 9
+S2 Seminar 2 1 R (90 min) 3
+T3 Theoretische Physik 3: Quantenmechanik 4 2 1 ÜS, K(120 min)/mP 9
+BA Bachelorarbeit 1 12
+Summe 180
+Legende:
+V: Vorlesung (Umfang in SWS)
+Ü: Übung (Umfang in SWS)
+S: Seminar (Umfang in SWS)
+mP: mündliche Prüfung (30 min), benotet
+K: Klausur (90 min, falls nicht anders angegeben), benotet
+ÜS: Übungsschein, unbenotet
+R: Referat, unbenotet
+RV: Referat mit Verschriftlichung, unbenotet
+LP: Leistungspunkte
+D: Dauer in Semestern4
+29
+5
+30
+6
+331
+27
+2
+29
+3
+32Mathematik
+Semester VeranstaltungArtD Prüfungsart LPERNST-MORITZ-ARNDT-UNIVERSITÄT GREIFSWALD
+MATHEMATISCH-NATURWISSENSCHAFTLICHE FAKULTÄT
+Institut für Mathematik und Informatik
+Musterstudienplan
+Bachelor of ScienceMusterstudienplan Bachelor Mathematik
+VÜS
+P1 Analysis I 4 2 2 ÜS 9
+P2 Lineare Algebra und analytische Geometrie I 4 2 2 ÜS 9
+P3 Algorithmen und Programmierung 4 2 2 K/mP 9
+P1 Analysis II 4 2 2 ÜS, mP/K 9
+P2 Lineare Algebra und analytische Geometrie II 4 2 2 ÜS, mP/K 9
+T1 Theoretische Physik 1: Klassische Mechanik 4 2 1 ÜS, K(120 min)/mP 9
+P3 Computeralgebrasysteme 2 2 ÜS 2
+P6 Gewöhnliche Differentialgleichungen 2 1 1 ÜS, mP 5
+P5 Stochastik 4 2 1 ÜS, mP 9
+T2 Theoretische Physik 2: Elektrodynamik 4 2 1 ÜS, K(120 min)/mP 9
+P7 Algebra I 4 2 1 ÜS, mP/K 9
+P8 Numerik I 4 2 1 ÜS, mP/K 9
+P4 Optimierung 4 2 1 mP/K 9
+S1 Proseminar 2 1 R (60 min) 2
+T3 Theoretische Physik 3: Quantenmechanik 4 2 1 ÜS, K(120 min)/mP 9
+P9 Maß- und Integrationstheorie 4 2 1 ÜS, mP/K 9
+A8 Funktionenentheorie 3 1 1 mP/K 6
+A15 Spieltheorie 3 1 1 mP/K 6
+A13 Partielle Differentialgleichungen 3 1 1 mP/K 6
+S2 Seminar 2 1 R (90 min) 3
+A1 Algebra II 4 2 1 ÜS, mP/K 9
+A4 Differentialgeometrie 3 1 1 mP/K 6
+S3 Seminar mit Ausarbeitung 2 1 RV (90 min) 6
+BA Bachelorarbeit 1 12
+Summe 180
+Legende:
+V: Vorlesung (Umfang in SWS)
+Ü: Übung (Umfang in SWS)
+S: Seminar (Umfang in SWS)
+mP: mündliche Prüfung (30 min), benotet
+K: Klausur (90 min, falls nicht anders angegeben), benotet
+ÜS: Übungsschein, unbenotet
+R: Referat, unbenotet
+RV: Referat mit Verschriftlichung, unbenotet
+LP: Leistungspunkte
+D: Dauer in Semestern4
+29
+5
+30
+6
+331
+27
+2
+29
+3
+32Mathematik
+Semester VeranstaltungArtD Prüfungsart LPERNST-MORITZ-ARNDT-UNIVERSITÄT GREIFSWALD
+MATHEMATISCH-NATURWISSENSCHAFTLICHE FAKULTÄT
+Institut für Mathematik und Informatik
+Musterstudienplan
+Bachelor of ScienceERNST -MORITZ -ARNDT -UNIVERSIT ¨ATGREIFSWALD
+MATHEMATISCH -NATURWISSENSCHAFTLICHE FAKULT ¨AT
+Institut f ¨ur Mathematik und Informatik
+Modulkatalog
+Bachelor of Science
+MathematikInhaltsverzeichnis
+Pﬂichtmodule 4
+P1: Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 5
+P2: Lineare Algebra und Analytische Geometrie . . . . . . . . . . . . . . . . 6
+P3: Algorithmen und Programmierung / Computeralgebra . . . . . . . . . . . 8
+P4: Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 10
+P5: Stochastik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+P6: Gew ¨ohnliche Differentialgleichungen . . . . . . . . . . . . . . . . . . . . 12
+P7: Algebra I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+P8: Numerik I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+P9: Maß- und Integrationstheorie . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Bachelorarbeit 16
+BA: Bachelorarbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 17
+Wahlmodule 18
+A1: Algebra II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19
+A2: Numerik Grundpraktikum . . . . . . . . . . . . . . . . . . . . . . . . . . . 20
+A3: Optimale Steuerung / Varitionsrechnung . . . . . . . . . . . . . . . . . . 21
+A4: Differentialgeometrie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22
+A5: Finanz- und Versicherungsmathematik . . . . . . . . . . . . . . . . . . . 23
+A6: Fourieranalysis / Distributionentheorie . . . . . . . . . . . . . . . . . . . . 24
+A7: Funktionalanalysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 25
+A8: Funktionentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+A9: Mathematische Logik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+A10: Multivariate Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+A11: Nichtlineare Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+A12: Numerik II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+A13: Partielle Differentialgleichungen . . . . . . . . . . . . . . . . . . . . . . . 31
+A14: Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 32
+A15: Spieltheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+A16: Spezialvorlesung I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+A17: Spezialvorlesung II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Seminare 36
+S1: Proseminar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+S2: Seminar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+S3: Seminar mit Ausarbeitung . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Theoretische Physik 40
+2T1: Theoretische Physik 1: Klassische Mechanik . . . . . . . . . . . . . . . . 41
+T2: Theoretische Physik 2: Elektrodynamik . . . . . . . . . . . . . . . . . . . 42
+T3: Theoretische Physik 3: Quantenmechanik . . . . . . . . . . . . . . . . . . 43
+T4: Theoretische Physik 4: Thermodynamik und Statistische Physik . . . . . 44
+Experimentalphysik 45
+E1: Experimentalphysik 1: Mechanik / W ¨arme . . . . . . . . . . . . . . . . . . 46
+E2: Experimentalphysik 2: Elektrizit ¨at / Optik . . . . . . . . . . . . . . . . . . 47
+E3: Experimentalphysik 3: Atome / Molek ¨ule . . . . . . . . . . . . . . . . . . 48
+E4: Experimentalphysik 4: Festk ¨orper . . . . . . . . . . . . . . . . . . . . . . 49
+Nebenfach Informatik 50
+I1: Theoretische Informatik . . . . . . . . . . . . . . . . . . . . . . . . . . . . 51
+I2: Praxis des Programmierens . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+I3: Datenstrukturen und efﬁziente Algorithmen . . . . . . . . . . . . . . . . . 53
+I4: Praktikum Softwaretechnik . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+I5: Computergraﬁk I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 55
+I6: Datenbanken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+I7: Randomisierte Algorithmen . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+Betriebswirtschaftslehre 58
+B1: Einf ¨uhrung in die Betriebswirtschaftslehre . . . . . . . . . . . . . . . . . . 59
+B2: Technik des betrieblichen Rechnungswesens (Buchhaltung) . . . . . . . 60
+B3: G ¨uterwirtschaftliche Prozesse . . . . . . . . . . . . . . . . . . . . . . . . 61
+B4: Betriebliche Entscheidungsprozesse . . . . . . . . . . . . . . . . . . . . . 62
+Volkswirtschaftslehre 63
+V1: Einf ¨uhrung in die Volkswirtschaftslehre . . . . . . . . . . . . . . . . . . . 64
+V2: Mikro ¨okonomik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 65
+V3: Makro ¨okonomik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+V4: Makro ¨okonomische Steuerungsprozesse . . . . . . . . . . . . . . . . . . 67
+V5: Soziale Marktwirtschaft . . . . . . . . . . . . . . . . . . . . . . . . . . . . 68
+V6: Umwelt- und Ressourcen ¨okonomik . . . . . . . . . . . . . . . . . . . . . 69
+3Pﬂichtmodule
+4Modul P1: Analysis
+Verantwortlicher Professur Analysis
+Lehrformen Vorlesung (8 SWS) und ¨Ubung (4 SWS)
+Dauer/Turnus 2 Sem., jeweils 4+2 SWS im WS und SoSe, beginnend
+j¨ahrlich im WS
+Qualiﬁkationsziele
+•Beherrschung der Grundbegriffe der Analysis einer und mehrerer Ver ¨anderlicher
+als Fundament f ¨ur die weiteren fachwissenschaftlichen Studien, insbesondere
+Bef¨ahigung zur sicheren Differentiation, zur Berechnung einfacher mehrdimen-
+sionaler Integrale sowie einfacher Kurven- und Fl ¨achenintegrale,
+•Beherrschung mathematischer Arbeitsweisen (Entwickeln von mathematischer
+Intuition und deren formale Begr ¨undung, mathematische Begriffsbildung, sichere
+Beherrschung verschiedener Beweistechniken),
+•grundlegendes Verst ¨andnis f ¨ur die praktische Relevanz von mathematischen Mo-
+dellen,
+•Bef¨ahigung zur Vermittlung elementarer mathematischer Sachverhalte sowie
+Schulung der Team- und Kommunikationsf ¨ahigkeit durch die ¨Ubungen.
+Inhalt
+•Axiomatik der reellen Zahlen und elementaren Funktionen
+•Konvergenz von Folgen und Reihen
+•Metrische R ¨aume, Banachscher Fixpunktsatz
+•Differential- und Integralrechnung von Funktionen in einer oder mehreren Varia-
+blen
+•Grundbegriffe der Vektoranalysis, Integrale ¨uber Kurven und Fl ¨achen, Satz von
+Stokes
+•analytische Behandlung von einfachen Modellen f ¨ur physikalische und biologi-
+sche Prozesse
+Vorkenntnisse keine
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb von zwei unbenoteten ¨Ubungsscheinen.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 540 (Vorlesung: 120, ¨Ubung: 60, Selbststudium: 360)
+Leistungspunkte 18
+Modulart Pﬂichtmodul
+5Modul P2: Lineare Algebra und Analytische Geometrie
+Verantwortlicher Professur Algebra und funktionalanalytische Anwendungen,
+Professur Algebraische Methoden der Analysis
+Lehrformen Vorlesung (8 SWS) und ¨Ubung (4 SWS)
+Dauer/Turnus 2 Sem., jeweils 4+2 SWS im WS und SoSe, beginnend
+j¨ahrlich im WS
+Qualiﬁkationsziele
+•Kenntnis und Beherrschung grundlegender Prinzipien algebraischer Strukturen
+und deren Anwendung auf einfache mathematische Fragestellungen,
+•Beherrschung von mathematischem Basiswissen als Grundlage des gesamten
+weiteren Studiums,
+•Bef¨ahigung zu mathematischen Arbeitsweisen (Entwicklung mathematischer In-
+tuition, Aneignung der F ¨ahigkeit, formal und verst ¨andlich zu begr ¨unden, Schulung
+des Abstraktionsverm ¨ogens, Einsicht in den axiomatischen Aufbau mathemati-
+scher Fachgebiete anhand durchsichtiger Strukturen),
+•Kenntnisse ¨uber den strukturellen Aufbau der Mathematik,
+•Bef¨ahigung zur Erkennung der Zusammenh ¨ange zwischen abstrakten mathema-
+tischen Theorien und konkreten Beispielen,
+•Bef¨ahigung zur Anwendung des Erlernten f ¨ur praktische Fragestellungen,
+•Bereitschaft zur Diskussion und zum gemeinsamen Erarbeiten von Ergebnissen
+und Kommunikationsf ¨ahigkeit durch freie Rede vor einem Publikum.
+Inhalt
+•Gruppen und K ¨orper, Vektorr ¨aume, lineare Abbildungen, Matrizen, lineare Glei-
+chungssysteme, Gauß-Algorithmus, Basis und Dimension, Determinanten, Ska-
+larprodukte, euklidische und unit ¨are Vektorr ¨aume, L ¨ange von Vektoren, Winkel,
+Orthogonalit ¨at, Diagonalisierbarkeit, charakteristisches Polynom, Minimalpoly-
+nom, Eigenwerte, symmetrische und hermitesche Matrizen, Satz von der Haupt-
+achsentransformation, nilpotente Matrizen, Jordansche Normalform, normale
+Matrizen, Normalform orthogonaler Matrizen, Exponential einer Matrix, Anwen-
+dungen Markov-Ketten, lineare Differentialgleichungen, afﬁne Geometrie, afﬁne
+und euklidische Punktr ¨aume, Kegelschnitte, Tensorprodukte von Vektorr ¨aumen,
+Kodierungstheorie, Satz von Perron-Frobenius
+Vorkenntnisse keine
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb von zwei unbenoteten ¨Ubungsscheinen.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 540 (Vorlesung: 120, ¨Ubung: 60, Selbststudium: 360)
+Leistungspunkte 18
+6Modulart Pﬂichtmodul
+7Modul P3: Algorithmen und Programmierung / Computeralgebra
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (4 SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich, Vorlesung/ ¨Ubung Algorithmen und Pro-
+grammierung im WS, ¨Ubung Computeralgebrasysteme im
+SoSe
+Qualiﬁkationsziele
+Algorithmen und Programmierung:
+•grundlegendes Verst ¨andnis f ¨ur den Begriff des Algorithmus,
+•Kompetenzen in der Bewertung von Algorithmen hinsichtlich Ihrer Leis-
+tungsf ¨ahigkeit,
+•Bef¨ahigung zum Entwurf einfacher Algorithmen,
+•Bef¨ahigung zur Erstellung einfacher Programme in JAVA.
+Computeralgebrasysteme:
+•Bef¨ahigung zur L ¨osung von Standardaufgaben (Faktorisierung, Nullstellenbe-
+rechnung, Termvereinfachung, Differentiation/Integration) mit Hilfe von Compu-
+teralgebrasystemen,
+•Bef¨ahigung zur Erstellung von einfachen Programmen in Computeralgebrasyste-
+men,
+•Bef¨ahigung zur Analyse und Bearbeitung komplexer, praktischer Aufgabenstel-
+lungen.
+Inhalt
+Algorithmen und Programmierung:
+•grundlegende algorithmische Probleme (Suchen, Sortieren)
+•elementare Datenstrukturen (Listen, Stacks, Queues, Suchb ¨aume)
+•Entwurfstrategien f ¨ur Algorithmen (Teile und Herrsche, Greedy)
+•Analyse von Algorithmen (O-Notation, Laufzeit, Speicherbedarf)
+•grundlegende Aspekte der objektorientierten Programmierung in JAVA
+Compmuteralgebrasysteme:
+•Nutzung von Computeralgebrasystemen zur L ¨osung von Standardaufgaben
+wie: Faktorisierung, Nullstellenbestimmung, Termvereinfachung, Differenzie-
+ren/Integrieren
+•Erstellung einfacher Programme in einem Computeralgebrasystem
+Vorkenntnisse Algorithmen und Programmierung: Abitur
+Computeralgebrasysteme: Analysis, Lineare Algebra und
+analytische Geometrie
+8Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (90 min)
+oder einer m ¨undlichen Pr ¨ufung (30 min) nach Maßga-
+be des Dozenten zum Stoff der Vorlesung Algorithmen
+und Programmierung und dem Erwerb von zwei unbeno-
+teten ¨Ubungsscheinen. Die Kriterien f ¨ur den Erhalt eines
+¨Ubungsscheines zu Computeralgebrasystemen legt der Do-
+zent in der ersten Vorlesungswoche fest. Erfolgt keine Fest-
+legung, so sind 50 % der ¨Ubungsaufgaben erfolgreich zu be-
+arbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 330 (Vorlesung: 60, ¨Ubung: 60, Selbststudium: 210)
+Leistungspunkte 11
+Modulart Pﬂichtmodul
+9Modul P4: Optimierung
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Qualiﬁkationsziele
+•Kenntnisse ¨uber die Bedeutung und Herkunft linearer Optimierungsprobleme,
+•Kompetenzen zur L ¨osung linearer Optimierungsprobleme,
+•Bef¨ahigung zur konkreten Umsetzung der entsprechenden L ¨osungsmethoden,
+•Bef¨ahigung zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse,
+•Kompetenzen zur mathematischen Modellierung von komplexen Prozessen.
+Inhalt
+•Grundlagen der linearen Optimierung
+•Dualit ¨atstheorie
+•Simplexverfahren
+•duales Simplexverfahren
+•Innere-Punkte-Methoden
+•Anwendungprobleme: Transportprobleme, Zuordnungsprobleme
+Vorkenntnisse Analysis I, II; Lineare Algebra I, II
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Pﬂichtmodul
+10Modul P5: Stochastik
+Verantwortlicher Juniorprofessur Stochastik/Statistik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•grundlegendes sicheres Verst ¨andnis f ¨ur stochastische Konzepte und Fragestel-
+lungen,
+•Bef¨ahigung zur Einordnung und ad ¨aquaten L ¨osung von einfachen stochastischen
+Problemen,
+•Verst ¨andnis f ¨ur grundlegende Fakten und Zusammenh ¨ange der Stochastik,
+•Bef¨ahigung zur Formulierung stochastischer Modelle und zu deren Anwendung
+in vielf ¨altigen, auch gesellschaftlichen, Zusammenh ¨angen,
+•Beherrschung der Grundlagen f ¨ur die Module Statistik und Randomisierte Algo-
+rithmen sowie f ¨ur verschiedene Wahlpﬂichtmodule (Finanz- und Versicherungs-
+mathematik, Spieltheorie, multivariate Statistik).
+Inhalt
+Grundlegende Konzepte und Denkweisen der Stochastik:
+•Wahrscheinlichkeitsraum, Ereignisse und Zufallsgr ¨oßen
+•Verteilung, Verteilungsfunktion und Dichtefunktion, Erwartungswert und Streu-
+ung, Quantile
+•bedingte Wahrscheinlichkeit, Unabh ¨angigkeit, Korrelation, Regression
+•Gesetz der großen Zahlen, Binomial-, Normal- und Poissonverteilung
+Weiterf ¨uhrende Fragestellungen:
+•Faltung von Zufallsgr ¨oßen, Zentraler Grenzwertsatz, Einf ¨uhrung in Markov-
+Ketten, Grundideen der Statistik, Poisson-Prozess
+Vorkenntnisse Analysis I, Lineare Algebra I
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Pﬂichtmodul
+11Modul P6: Gew ¨ohnliche Differentialgleichungen
+Verantwortlicher Professur Analysis
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Kenntnisse ¨uber die L ¨osbarkeit gew ¨ohnlicher Differentialgleichungen,
+•Bef¨ahigung zur L ¨osung spezieller Typen von Differentialgleichungen,
+•Beherrschung von einfachen Problemen aus der Physik, Biologie und Technik,
+die sich durch gew ¨ohnliche Differentialgleichungen beschreiben lassen,
+•Bef¨ahigung zur Analyse von dynamischen Prozessen und Verst ¨andnis f ¨ur deren
+praktische Bedeutung,
+•Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Inhalt
+•Grundbegriffe, Deﬁnition, Anfangswertproblem, autonome Differentialgleichun-
+gen
+•L¨osungstheorie: Existenz- und Eindeutigkeit einer L ¨osung, Abh ¨angigkeit von den
+Anfangsbedingungen
+•lineare Differentialgleichungssysteme: Grundlagen, Beziehung zwischen ho-
+mogener und inhomogener Gleichung, Exponential von Matrizen, Wronski-
+Determinante
+•Differentialgleichungs-Modelle von dynamischen Prozessen aus Physik und Bio-
+logie
+Vorkenntnisse Analysis, Lineare Algebra
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 150 (Vorlesung: 30, ¨Ubung: 15, Selbststudium: 105)
+Leistungspunkte 5
+Modulart Pﬂichtmodul
+12Modul P7: Algebra I
+Verantwortlicher Professur Algebra und funktionalanalytische Anwendungen,
+Professur Algebraische Methoden der Analysis
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Verst ¨andnis grundlegender Prinzipien algebraischer Strukturen,
+•Verst ¨andnis f ¨ur die Anwendbarkeit und den Nutzen algebraischer Strukturen in
+vielen Bereichen der Mathematik,
+•vertieftes Verst ¨andnis und Bef ¨ahigung zur Verwendung der algebraischen Kon-
+zepte Gruppen, Ringe, K ¨orper und der Begriffe wie Faktorisierung und Teilbarkeit
+im abstrakten Kontext,
+•Beherrschung von Methoden des axiomatischen Vorgehens,
+•Bef¨ahigung zu mathematischen Arbeitsweisen und Beweistechniken in der Alge-
+bra (z. B. Klassiﬁkation, Diagramme, universelle Eigenschaften, Darstellungen),
+•Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Inhalt
+•Gruppen: Satz von Lagrange, Normalteiler und Faktorgruppen, Isomorphies ¨atze,
+zyklische Gruppen, endliche abelsche Gruppen, Permutationsgruppen, Sylow-
+sche S ¨atze
+•Ringe : Ideale und Faktorringe, Polynomringe, euklidische Ringe, Hauptidealrin-
+ge, Teilbarkeit, Quotientenk ¨orper, faktorielle Ringe
+•K¨orper: K ¨orpererweiterungen
+Vorkenntnisse Lineare Algebra I, II
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Pﬂichtmodul
+13Modul P8: Numerik I
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Qualiﬁkationsziele
+•Kenntnisse zur Interpretation numerischer Resultate,
+•Kenntnisse zur Anwendbarkeit numerischer Approximationsverfahren,
+•Kompetenzen beim Einsatz numerischer Software,
+•Kompetenzen bei der Entwicklung numerischer Software,
+•Bef¨ahigung zur L ¨osung spezieller Grundaufgaben der Numerik,
+•Bef¨ahigung zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse.
+Inhalt
+•Grundlagen der Gleitpunktarithmetik
+•Fehleranalyse
+•Verfahren zur L ¨osung von linearen und nichtlinearen Gleichungssystemen und
+Ausgleichsproblemen
+•Interpolation (Polynome und Splines) und Quadratur (Newton-Cotes und Gauß)
+Vorkenntnisse Analysis I, II, Lineare Algebra I, II
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Pﬂichtmodul
+14Modul P9: Maß- und Integrationstheorie
+Verantwortlicher Professur Analysis, Professur Biomathematik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Kenntnis der St ¨arken und Anwendungen eines abstrakten Maß- und Integrati-
+onsbegriffs als Grundlage f ¨ur ein fortgeschrittenes Studium der Stochastik und
+Analysis,
+•Beherrschung der typischen analytischen und stochastischen Begriffsbildungen
+und Verst ¨andnis ihrer Zusammenh ¨ange,
+•Beherrschung fortgeschrittener Beweistechniken,
+•Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Inhalt
+Grundlagen der Maß- und Integrationstheorie:
+•Konstruktion von Maßen
+•Lebesguesche Integrationstheorie
+•Produktmaße, Satz von Fubini
+•Darstellungss ¨atze (Riesz, Radon-Nikodym)
+•Lp-R¨aume
+Weiterf ¨uhrende Themen, z.B.
+•Lebesgue-Integral auf Untermannigfaltigkeiten des Rn, Differentialformen und
+der Satz von Stokes
+•Desintegration und bedingte Erwartungswerte
+Vorkenntnisse Analysis I, II
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Pﬂichtmodul
+15Bachelorarbeit
+16Modul BA: Bachelorarbeit
+Verantwortlicher Betreuender Hochschullehrer
+Lehrformen Schriftliche Abschlussarbeit
+Dauer/Turnus 6 Monate, jederzeit
+Qualiﬁkationsziele
+•Bef¨ahigung zur Bearbeitung einer mathematischen, forschungsorientierten Fra-
+gestellung unter Anleitung durch einen Hochschullehrer in begrenzter Zeit
+•Kompetenzen zur Niederschrift der erzielten Ergebnisse in Form einer wissen-
+schaftlichen Arbeit
+Inhalt
+•je nach Themenstellung
+Vorkenntnisse je nach Themenstellung
+Pr¨ ufung Schriftliche Arbeit mit Begutachtung
+Note Gemittelte Note der Gutachter
+Aufwand in h 360 (Selbststudium: 360)
+Leistungspunkte 12
+Modulart Pﬂichtmodul
+17Wahlmodule
+18Modul A1: Algebra II
+Verantwortlicher Professur Analysis, Professur Algebra und funktionalanalyti-
+sche Anwendungen
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Qualiﬁkationsziele
+•Kenntnis der Algebraisierung eines fundamentalen Symmetriebegriffes,
+•Kenntnis ¨uber das Zusammenwirken geometrischer und algebraischer Metho-
+den,
+•Beherrschung des grundlegenden Begriffs der Darstellung und seiner Anwen-
+dungen in vielen Gebieten der Mathematik und Naturwissenschaften (Algebra,
+Operatoralgebren, Physik, Chemie),
+•F¨ahigkeit zur eigenst ¨andigen Entwicklung komplexer mathematischer Modelle,
+•souver ¨ane Beherrschung mathematischer Arbeitsweisen (mathematisch ein-
+wandfreie Formulierung von eigenen Resultaten, axiomatischer Aufbau einer
+Theorie),
+•Kommunikationsf ¨ahigkeit in wissenschaftlicher Diskussion ( ¨Ubung).
+Inhalt
+•Lie-Algebren: Nilpotente und auﬂ ¨osbare Lie-Algebren, Satz von Engel, Satz von
+Lie, Kriterium von Cartan, Halbeinfache Lie-Gruppen, Kriterium f ¨ur Halbeinfach-
+heit, Klassiﬁkation und Darstellungstheorie halbeinfacher Lie-Algebren
+oder
+•Darstellungstheorie: Darstellungstheorie endlicher Gruppen, vollst ¨andige Redu-
+zibilit ¨at; Schursches Lemma, Charaktere, irreduzible Darstellungen der symme-
+trischen Gruppen, Y oung-Tableaux, Darstellungstheorie der klassischen Matrix-
+Gruppen, Klassische Gruppen, irreduzible Darstellungen der klassischen Grup-
+pen
+Vorkenntnisse Analysis I, II, Algebra I
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Wahlmodul
+19Modul A2: Numerik Grundpraktikum
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Kenntnisse zum Anwendungsbereich der gew ¨ohnlichen Differentialgleichungen,
+•Bef¨ahigung zur kritischen Bewertung numerischer Ergebnisse,
+•Kompetenzen bei der Auswahl geeigneter L ¨osungsmethoden,
+•Kompetenzen zur Entwicklung numerischer Software f ¨ur Anfangswertaufgaben,
+•Kompetenzen zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse.
+Inhalt
+•Methoden zur numerischen L ¨osung von Anfangswertproblemen bei
+gew¨ohnlichen Differentialgleichungen
+•efﬁziente Einschrittverfahren (Runge-Kutta Verfahren) mit Schrittweitensteuerung
+•efﬁziente Mehrschrittverfahren mit Schrittweiten- und Ordnungssteuerung
+•Konvergenztheorie
+•implizite Methoden f ¨ur steife Probleme
+Vorkenntnisse Analysis I, II; Lineare Algebra I, II; Numerik I
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+20Modul A3: Optimale Steuerung / Varitionsrechnung
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Qualiﬁkationsziele
+•Beherrschung der grundlegenden Methoden der Variationsrechnung in einem
+systematischen Aufbau,
+•Kenntnis der notwendigen Bedingungen im Falle von Nebenbedingungen,
+•Beherrschung der numerischen Verfahren zur L ¨osung der resultierenden Rand-
+wertprobleme,
+•Verst ¨andnis der ¨Ubereinstimmungen mit und Unterschiede zu Optimierungspro-
+blemen im endlich-dimensionalen Raum,
+•Bef¨ahigung zur Bearbeitung anwendungsorientierter Fragestellungen mit ent-
+sprechender Software,
+•Bef¨ahigung zur m ¨undlichen Kommunikation und fachlichen Diskussion.
+Inhalt
+•Variationsprobleme ohne Nebenbedingungen - Notwendige Bedingungen 1. Ord-
+nung
+•Nebenbedingungen in Integralform, in Form von Differentialgleichungen und in
+Form von Ungleichungen
+•Optimalsteuerungsprobleme und L ¨osung von Mehrpunkt-Randwertproblemen
+•Notwendige Bedingungen 2. Ordnung
+•Hinreichende Bedingung von Weierstraß.
+Vorkenntnisse Analysis I, II
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+21Modul A4: Differentialgeometrie
+Verantwortlicher Professur Analysis
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Qualiﬁkationsziele
+•Kenntnisse ¨uber Mannigfaltigkeiten und Untermannigfaltigkeiten,
+•Kompetenzen im analytischen Umgang mit gekr ¨ummten Objekten,
+•Bef¨ahigung zur koordinatenfreien Erfassung und Beschreibung von mathemati-
+schen Eigenschaften von Mannigfaltigkeiten,
+•Kenntnisse ¨uber den Zusammenhang geometrischer Extremaleigenschaften mit
+physikalischen Variationsprinzipien,
+•Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Inhalt
+•Klassische Kurven- und Fl ¨achentheorie, Theorema egregium
+•Differenzierbare Mannigfaltigkeiten, Vektorb ¨undel, Tensorkalk ¨ul
+•(Pseudo-)Riemannsche Mannigfaltigkeiten
+•Zusammenh ¨ange auf Vektorb ¨undeln, Levi-Civita-Zusammenhang, Torsion und
+Kr¨ummung
+•physikalische Anwendungen der Differentialgeometrie, z. B. in spezieller oder all-
+gemeiner Relativit ¨atstheorie
+Vorkenntnisse Analysis, Lineare Algebra
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+22Modul A5: Finanz- und Versicherungsmathematik
+Verantwortlicher Juniorprofessur Stochastik/Statistik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WS ungerade Jahre
+Qualiﬁkationsziele
+•Verst ¨andnis f ¨ur die mathematische Modellierung ¨okonomischer Probleme und f ¨ur
+ﬁnanzpolitische Fragen,
+•Kompetenzen zur selbst ¨andigen und sicheren Bew ¨altigung von Problemen der
+Finanzmathematik,
+•Beherrschung der Prinzipien der Lebens- und Sachversicherung und der zu-
+geh¨origen Konzepte der Stochastik.
+Inhalt
+•Grundlegende Konzepte der Finanzmathematik: Zins, Barwert, Kurse, Renten,
+Kredite, Effektivzins
+•Lebensversicherung: ¨Aquivalenzprinzip, Bev ¨olkerungsstatistik und Sterbetafeln,
+Deckungskapital
+•Sachversicherung und Risikomanagement: Risiko-Parameter, Portfolios, indivi-
+duelles und kollektives Modell, Gesetz der großen Zahlen und Satz von Wald,
+Schadenszahl- und Schadensh ¨ohe-Verteilungen
+•Risikoprozess und Ruin-Problem, Satz von Lundberg
+•Kapitalmarkt: Marktpreise, Hedging, Finanzderivate
+Vorkenntnisse Analysis I,II, Lineare Algebra I, Stochastik, Statistik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+23Modul A6: Fourieranalysis / Distributionentheorie
+Verantwortlicher Professur Analysis
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Qualiﬁkationsziele
+•fundierte Kenntnisse ¨uber die Fouriertransformation und Sicherheit im Umgang
+mit dem Distributionenkalk ¨ul,
+•Kompetenz in den f ¨ur zahlreiche Anwendungen grundlegenden Techniken der
+Harmonischen Analysis,
+•Bef¨ahigung zur Beschreibung von Ph ¨anomenen im Zeit- und Frequenzbereich,
+•Kenntnisse ¨uber Querverbindungen und den Erfolg des Zusammenwirkens von
+Methoden aus unterschiedlichen Bereichen (etwa der Analysis, Funktionentheo-
+rie und Funktionalanalysis).
+Inhalt
+•Konvergenz von Fourierreihen
+•Faltungsprodukte
+•Fourierinversionsformel, Satz von Plancherel
+•Testfunktionenr ¨aume und Distributionen
+•Schwartzraum, temperierte Distributionen und deren Fouriertransformation
+•Sobolevr ¨aume, das Konzept schwacher Ableitungen, Einbettungss ¨atze, Hilbert-
+raummethoden
+•Anwendungen der Theorie auf partielle Differentialgleichungen, insbesondere
+solcher aus der mathematischen Physik, Fundamentall ¨osungen
+•Anwendungen in der Variationsrechnung, Formulierung von Randwertproblemen
+Vorkenntnisse Analysis I, II; Maß- und Integrationstheorie
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+24Modul A7: Funktionalanalysis
+Verantwortlicher Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Qualiﬁkationsziele
+•fundierte Kenntnisse der typischen Probleme der unendlich dimensionalen Theo-
+rie und deren Anwendungen,
+•Wissen ¨uber die enge Verzahnung von Reiner und Angewandter Mathematik
+(mathematische Physik, Signaltheorie),
+•Einsicht in die funktionalanalytischen Prinzipien, Zusammenf ¨uhrung von Metho-
+den der Analysis und der Algebra,
+•Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Inhalt
+•Banachr ¨aume, Folgenr ¨aume, Dualr ¨aume, Hilbertr ¨aume
+•Prinzipien der Funktionalanalysis
+•kompakte Operatoren
+•Spektraltheorie beschr ¨ankter Operatoren
+•Resolventen
+•symmetrische Operatoren
+•Funktionalkalk ¨ul
+•unbeschr ¨ankte Operatoren
+Vorkenntnisse Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+II
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Wahlmodul
+25Modul A8: Funktionentheorie
+Verantwortlicher Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WS gerade Jahre
+Qualiﬁkationsziele
+•Beherrschung einer eleganten mathematischen Theorie,
+•Kenntnisse ¨uber die Anwendung komplex-analytischer Methoden zur L ¨osung von
+Problemen der reellen Analysis,
+•vertieftes Verst ¨andnis f ¨ur die elementaren Funktionen durch die Sicht der kom-
+plexen Analysis,
+•erweitertes Verst ¨andnis f ¨ur den Aufbau und die Methodik der Mathematik, an-
+hand der geschichtlichen Entwicklung dieses mathematischen Gebietes,
+•Beherrschung mathematischer Arbeitsweisen (Entwicklung mathematischer In-
+tuition und deren formale Begr ¨undung, Schulung des Abstraktionsverm ¨ogens,
+Beweisf ¨uhrung),
+•Bef¨ahigung zur m ¨undlichen Kommunikation und wissenschaftlichen Diskussion.
+Inhalt
+•Komplexe Differenzierbarkeit, Cauchy-Riemannsche Differentialgleichungen, ho-
+lomorphe Funktionen
+•Potenzreihen, analytische Funktionen
+•komplexe Kurvenintegrale, Cauchyscher Integralsatz, Cauchysche Integralformel
+•Potenzreihenentwicklung, Singularit ¨aten, Laurententwicklung, meromorphe
+Funktionen
+•Residuensatz und seine Anwendungen
+•Weierstraßscher Produktsatz, Satz von Mittag-Lefﬂer
+•elliptische Funktionen
+Vorkenntnisse Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+II
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+26Modul A9: Mathematische Logik
+Verantwortlicher Leiter der AG Berechenbarkeitstheorie ¨uber algebraischen
+Strukturen
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WS ungerade Jahre
+Qualiﬁkationsziele
+•vertieftes Verst ¨andnis f ¨ur die mathematischen Grundlagen des logischen Den-
+kens und Schließens,
+•vertieftes Verst ¨andnis f ¨ur die Unterscheidung zwischen der inhaltlichen Bedeu-
+tung von S ¨atzen einer Satzmenge und ihrer syntaktischen Herleitbarkeit,
+•Bef¨ahigung zur Anwendung formaler Sprachen, insbesondere Bef ¨ahigung zur
+Pr¨azisierung von Begriffen, zur Formalisierung von Problemen und zum F ¨uhren
+von formalen Beweisen,
+•Verst ¨andnis f ¨ur die Grenzen der Ausdrucksm ¨oglichkeit formaler Konzepte
+und Bef ¨ahigung zur kritischen Auseinandersetzung mit den Anwendungs-
+m¨oglichkeiten formaler Werkzeuge.
+Inhalt
+•Grundlagen der Aussagenlogik und der Pr ¨adikatenlogik erster Stufe
+•Logische Deduktionssysteme und Semantik pr ¨adikatenlogischer Sprachen
+•Kompaktheitssatz
+•G¨odelscher Vollst ¨andigkeitssatz
+Weiterf ¨uhrende Themen (z.B.)
+•Resolutionsmethode und logische Programmierung
+•Axiomatische Mengenlehre (ZFC, Ordinalzahlen und Kardinalzahlen)
+•Pr¨adikatenlogik zweiter Stufe und Henkin-Interpretation
+Vorkenntnisse Analysis, Lineare Algebra und analytische Geometrie
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+27Modul A10: Multivariate Statistik
+Verantwortlicher Professur Biomathematik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WS ungerade Jahre
+Qualiﬁkationsziele
+•umfassende Kenntnisse zu Modellen und Methoden der Multivariaten Statik,
+•Kompetenzen zur selbstst ¨andigen Auswahl von ad ¨aquaten Modellen und Metho-
+den f ¨ur reale Daten und Bef ¨ahigung zur Interpretation der Ergebnisse,
+•erweiterte F ¨ahigkeiten in der Datenanalyse ( ¨Ubung).
+Inhalt
+Grundlagen der Multivariaten Statistik:
+•Allgemeine Lineare Modelle
+•Generalisierte Lineare Modelle
+•Hauptkomponentenanalyse
+•Latentstrukturanalyse
+•Diskriminanzanalyse
+•Clusteranalyse
+•Multidimensionale Skalierung
+Vorkenntnisse Stochastik, Statistik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Wahlmodul
+28Modul A11: Nichtlineare Optimierung
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•grundlegende Kenntnisse der Optimierungstheorie,
+•F¨ahigkeiten zur numerischen L ¨osung von Optimierungsproblemen,
+•Verst ¨andnis f ¨ur die Relevanz von Optimierungsaufgaben f ¨ur zahlreiche prakti-
+sche Fragestellungen,
+•Kompetenzen in der Klassiﬁkation konkreter Aufgaben und der geeigneten Me-
+thodenwahl.
+Inhalt
+•Notwendige und hinreichende Bedingungen zur L ¨osung von unbeschr ¨ankten und
+beschr ¨ankten, nichtlinearen Optimierungsproblemen (Karush-Kuhn-Tucker Theo-
+rie)
+•Methoden zur numerischen L ¨osung von entsprechenden, glatten Problemen
+•Abstiegsverfahren
+•Trust-Region-Verfahren
+•Penalty-Verfahren
+•Aktive-Mengen-Strategie und SQP-Verfahren
+Vorkenntnisse Analysis I, II; Lineare Algebra I, II; Optimierung
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+29Modul A12: Numerik II
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Beherrschung der grundlegenden Methoden zur numerischen L ¨osung von parti-
+ellen Differentialgleichungen,
+•Kompetenzen in der Auswahl geeigneter Verfahren f ¨ur konkrete Aufgabenstellun-
+gen,
+•Beherrschung der Konvergenztheorie und der Methoden der Fehlerkontrolle,
+•Kompetenz in der Umsetzung von numerischen Verfahren in efﬁziente Software
+(große Gleichungssysteme),
+•Kenntnis der Querverbindungen zu anderen Bereichen wie Analysis, Algebra,
+Geometrie u.v.m.,
+•Beherrschung der wichtigsten Methoden zur Berechnung von Eigenwerten,
+•Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und wissenschaft-
+liche Diskussion ( ¨Ubungen).
+Inhalt
+•Numerik partieller Differentialgleichungen
+•Methoden f ¨ur elliptische, parabolische und hyperbolische Probleme
+•Iterative L ¨osung großer Gleichungssysteme
+•Numerik von Eigenwertaufgaben
+Vorkenntnisse Numerik I
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Wahlmodul
+30Modul A13: Partielle Differentialgleichungen
+Verantwortlicher Professur Analysis
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Kenntnisse ¨uber die fundamentalen Typen von Differentialgleichungen (Laplace-
+gleichung, W ¨armeleitungsgleichung, Wellengleichung),
+•Bef¨ahigung, Probleme mathematisch mit Hilfe partieller Differentialgleichungen
+zu formulieren,
+•Beherrschung analytischer L ¨osungsmethoden,
+•Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Inhalt
+Partielle Differentialgleichungen 1. Ordnung:
+•Charakteristikenmethode
+•Vollst ¨andiges Integral
+•Hamilton-Jacobi-Theorie
+Partielle Differentialgleichungen 2. Ordnung:
+•Laplace-Gleichung (Fundamentall ¨osung, Darstellungsformeln, Greensche Funk-
+tion, Dirichlet-Problem f ¨ur die Kugel, Maximumprinzip)
+•W¨armeleitungsgleichung (Fundamentall ¨osung, Anfangs-Randwertproblem, Ma-
+ximumprinzip)
+•Wellengleichung (Anfangswertproblem, Duhamelsches Prinzip)
+•Hilbertraummethoden bei elliptischen Randwertproblemen (Einf ¨uhrung)
+Vorkenntnisse Analysis, Gew ¨ohnliche Differentialgleichungen
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+31Modul A14: Statistik
+Verantwortlicher Professur Biomathematik, Professur Algebra und funk-
+tionalanalytische Anwendungen, Juniorprofessur Stochas-
+tik/Statistik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Qualiﬁkationsziele
+•Verst ¨andnis f ¨ur die grundlegenden Fragestellungen der Statistik,
+•Bef¨ahigung zur systematischen Formulierung, Einordnung und ad ¨aquaten
+L¨osung von einfachen statistischen Problemen,
+•Beherrschung von Standardsch ¨atz- und Testverfahren und deren Anwendung
+mithilfe von Statistik-Software,
+•Verst ¨andnis f ¨ur die Breite der statistischen Verfahren,
+•Kompetenz zur sicheren Beurteilung der Ergebnisse statistischer Standardme-
+thoden,
+•Beherrschung des n ¨otigen Grundwissens f ¨ur fortgeschrittene Lehrveranstaltun-
+gen aus dem Bereich Statistik.
+Inhalt
+•Grundlegende Fragestellungen der deskriptiven und der schließenden Statistik
+•Statistische Modellierung und Verteilungsannahmen
+•Punktsch ¨atzer, Konﬁdenzbereiche, statistische Tests
+•Einfache G ¨utekriterien f ¨ur Sch ¨atzer und Tests
+•Weiterf ¨uhrende Fragestellungen: Varianzanalyse, multiples Testen, robuste Ver-
+fahren, nichtparametrische Verfahren, Bootstrap
+•Verwendung von Statistik-Software ( ¨Ubungen)
+Vorkenntnisse Analysis I, II, Lineare Algebra I, Stochastik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Wahlmodul
+32Modul A15: Spieltheorie
+Verantwortlicher Professur Diskrete Biomathematik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WS gerade Jahre
+Qualiﬁkationsziele
+•Bef¨ahigung zu strategischem Denken und zur Formulierung von Gegens ¨atzen
+von Interessen,
+•Beherrschung der L ¨osungsans ¨atze,
+•Verst ¨andnis f ¨ur die Struktur von Konﬂiktsituationen und deren mathematische
+Modellierung anhand von Problemen aus Politik, Wirtschaft und Alltag,
+•Kenntnis der neueren Ans ¨atze der evolution ¨aren und dynamischen Spieltheorie
+im Zusammenhang und Gegensatz mit klassischen L ¨osungskonzepten,
+•Verst ¨andnis f ¨ur die Komplexit ¨at und Vielf ¨altigkeit der Varianten bei Mehrperso-
+nenspielen,
+•Beherrschung einfacher Ans ¨atze wie Kern und Shapley-Index,
+•Vertiefte Kenntnisse in Stochastik, Analysis und Optimierung durch neue Anwen-
+dungen.
+Inhalt
+•L¨osung kombinatorischer Spiele
+•Klassische Zwei-Personen Matrix-Spiele, reine und gemischte Strategien
+•Minimax-L ¨osung und Nash-Gleichgewicht, Existenzs ¨atze
+•Evolution ¨are Spieltheorie, evolution ¨ar stabile Gleichgewichte
+•Dynamische Modellierung von Spielen
+•Mehrpersonenspiele, Koalitionsbildung, Kern, Shapley-Indizes
+Vorkenntnisse Analysis, Lineare Algebra, Stochastik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+33Modul A16: Spezialvorlesung I
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Professu-
+ren Informatik, Professur Algebra und funktionalanalytische
+Anwendungen, Professur Algebraische Methoden der Ana-
+lysis, Professur Diskrete Biomathematik
+Lehrformen Vorlesung (2 SWS) und Vorlesung (2 SWS)
+Dauer/Turnus 1 Sem., nach Bedarf
+Qualiﬁkationsziele
+Grundlegende Kenntnisse und fundierte Kompetenzen in zwei ausgew ¨ahlten Spezial-
+gebieten.
+Inhalt
+•Spezielle Themen aus der Mathematik
+Vorkenntnisse nach Bedarf
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte 3
+Modulart Wahlmodul
+34Modul A17: Spezialvorlesung II
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Professu-
+ren Informatik, Professur Algebra und funktionalanalytische
+Anwendungen, Professur Algebraische Methoden der Ana-
+lysis, Professur Diskrete Biomathematik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., nach Bedarf
+Qualiﬁkationsziele
+Grundlegende Kenntnisse und fundierte Kompetenzen in einem ausgew ¨ahlten Spezi-
+algebiet.
+Inhalt
+•Spezielle Themen aus der Mathematik
+Vorkenntnisse nach Bedarf
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Wahlmodul
+35Seminare
+36Modul S1: Proseminar
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Professu-
+ren Informatik, Professur Algebra und funktionalanalytische
+Anwendungen, Professur Algebraische Methoden der Ana-
+lysis, Professur Diskrete Biomathematik
+Lehrformen Proseminar (2 SWS)
+Dauer/Turnus 1 Sem., Proseminar: j ¨ahrlich im SoSe
+Qualiﬁkationsziele
+•Bef¨ahigung, mathematische Inhalte insbesondere durch Literaturstudium ei-
+genst ¨andig zu erwerben und zu vertiefen,
+•Bef¨ahigung, einen strukturierten, efﬁzienten und auf die Kompetenzen des Publi-
+kums zugeschnittenen Vortrag zu halten,
+•Kompetenzen in der Diskussionsf ¨uhrung.
+Inhalt
+•erg¨anzende Themen aus der Analysis und der linearen Algebra, aufbauend auf
+den Vorlesungen Analysis I und II und Lineare Algebra
+Vorkenntnisse Analysis, Lineare Algebra
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einem Referat (60 min) zu ei-
+nem vereinbarten Thema. Außerdem wird eine aktive und
+regelm ¨aßige Teilnahme an Proseminar erwartet.
+Note keine
+Aufwand in h 60 (Proseminar: 30, Selbststudium: 30)
+Leistungspunkte 2
+Modulart Seminarmodul
+37Modul S2: Seminar
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Professu-
+ren Informatik, Professur Algebra und funktionalanalytische
+Anwendungen, Professur Algebraische Methoden der Ana-
+lysis, Professur Diskrete Biomathematik
+Lehrformen Seminar (2 SWS)
+Dauer/Turnus 1 Sem., jedes Semester
+Qualiﬁkationsziele
+•F¨ahigung zur Literaturrecherche, zum Lesen, Verstehen, Einordnen und Bewer-
+ten von mathematischer Literatur,
+•Erweiterung der F ¨ahigkeiten zur didaktischen Aufbereitung und Pr ¨asentation im
+Rahmen eines Seminarvortrags,
+•Kompetenzen in der Diskussionsf ¨uhrung,
+•F¨ahigkeit zur schriftlichen Ausarbeitung eines mathematischen Themas.
+Inhalt
+•erg¨anzende Themen aus dem Bereich Analysis/Optimierung, aus dem Be-
+reich Diskrete Mathematik/Algorithmik/Algebra oder aus dem Bereich Stochas-
+tik/Statistik
+Vorkenntnisse Analysis, Lineare Algebra
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einem Referat (90 min) zu ei-
+nem vereinbarten Thema. Außerdem wird eine aktive und
+regelm ¨aßige Teilnahme am Seminar erwartet.
+Note keine
+Aufwand in h 90 (Seminar: 30, Selbststudium: 60)
+Leistungspunkte 3
+Modulart Seminarmodul
+38Modul S3: Seminar mit Ausarbeitung
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Professu-
+ren Informatik, Professur Algebra und funktionalanalytische
+Anwendungen, Professur Algebraische Methoden der Ana-
+lysis, Professur Diskrete Biomathematik
+Lehrformen Seminar (2 SWS)
+Dauer/Turnus 1 Sem., jedes Semester
+Qualiﬁkationsziele
+•F¨ahigung zur Literaturrecherche, zum Lesen, Verstehen, Einordnen und Bewer-
+ten von mathematischer Literatur,
+•Erweiterung der F ¨ahigkeiten zur didaktischen Aufbereitung und Pr ¨asentation im
+Rahmen eines Seminarvortrags,
+•Kompetenzen in der Diskussionsf ¨uhrung,
+•F¨ahigkeit zur schriftlichen Ausarbeitung eines mathematischen Themas.
+Inhalt
+•erg¨anzende Themen aus dem Bereich Analysis/Optimierung, aus dem Be-
+reich Diskrete Mathematik/Algorithmik/Algebra oder aus dem Bereich Stochas-
+tik/Statistik
+Vorkenntnisse Analysis, Lineare Algebra
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einem Referat (90 min) zu ei-
+nem vereinbarten Thema und einer schriftlichen Ausarbei-
+tung (10-15 Seiten) dieses Referates. Außerdem wird eine
+aktive und regelm ¨aßige Teilnahme am Seminar erwartet.
+Note keine
+Aufwand in h 180 (Seminar: 30, Ausarbeitung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Seminarmodul
+39Theoretische Physik
+40Modul T1: Theoretische Physik 1: Klassische Mechanik
+Verantwortlicher Professur Theorie dichter Plasmen
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SS
+Qualiﬁkationsziele
+•Vertrautheit mit den Grundbegriffen der Klassischen Mechanik als geschlossene
+Physikalische Theorie
+•F¨ahigkeit, Probleme der klassischen theoretischen Mechanik selbst ¨andig zu
+l¨osen
+Inhalt
+•Newtonsche Mechanik mit Anwendungen (z. B. Bewegung im Zentralkraftfeld),
+Extremalprinzipien, Langrange-Mechanik mit Anwendungen (z.B. Zwangskr ¨afte,
+Normalschwingungen, Bewegung in Nichtinertialsystemen, starrer K ¨orper)
+•Hamiltonsche Mechanik, (inﬁnitesimale) Kanonische Transformation, Symmetri-
+en und Erhaltungss ¨atze, Hamilton-Jacobi Theorie, Phasenraumbeschreibung in-
+tegrabler Systeme
+•Mathematische Erg ¨anzungen
+•Je nach Dozent: deterministisches Chaos, nichtlineare Dynamik, Kontinuumsme-
+chanik
+Vorkenntnisse keine
+Pr¨ ufung unbenoteter ¨Ubungsschein, Klausur (120 Minuten) oder
+m¨undliche Pr ¨ufung (30 Minuten) nach Maßgabe des Dozen-
+ten
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Nebenfachmodul
+41Modul T2: Theoretische Physik 2: Elektrodynamik
+Verantwortlicher Professur Theorie dichter Plasmen
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Vertrautheit mit dem Feldbegriff
+•Intuitives Verst ¨andnis des Elektromagnetismus
+•F¨ahigkeit, Probleme der Elektrodynamik selbst ¨andig zu l ¨osen
+Inhalt
+•Spezielle Relativit ¨atstheorie und relativistische Mechanik, geladenes Teilchen
+im elektromagnetischen Feld, Wirkungsintegral, Erhaltungss ¨atze und Invarian-
+ten, Maxwellsche Gleichungen, Elektrostatik und Magnetfeld station ¨arer Str ¨ome,
+Elektromagnetische Wellen und Strahlung, Elektrodynamik der Kontinua, Plas-
+men
+•Mathematische Erg ¨anzungen
+Vorkenntnisse keine
+Pr¨ ufung unbenoteter ¨Ubungsschein, Klausur (120 Minuten) oder
+m¨undliche Pr ¨ufung (30 Minuten) nach Maßgabe des Dozen-
+ten
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Nebenfachmodul
+42Modul T3: Theoretische Physik 3: Quantenmechanik
+Verantwortlicher Professur Komplexe Quantensysteme
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SS
+Qualiﬁkationsziele
+•Vertrautheit mit den Konzepten und dem Formalismus der Quantentheorie
+•Verst ¨andnis elementarer quantenmechanischer Systeme
+•F¨ahigkeit, Probleme der Quantenmechanik selbst ¨andig zu l ¨osen
+Inhalt
+•Physikalische Grundlagen und axiomatischer Aufbau der Quantentheorie, Mess-
+prozess, Quantendynamik (Bilder), harmonischer Oszillator (Besetzungszahldar-
+stellung), Teilchen im elektromagnetischen Feld (Eichtransformation), Quanten-
+theorie des Drehimpulses (Spin), Wasserstoffatom, N ¨aherungsverfahren, Golde-
+ne Regel
+•Mathematische Erg ¨anzungen
+Vorkenntnisse keine
+Pr¨ ufung unbenoteter ¨Ubungsschein, Klausur (120 Minuten) oder
+m¨undliche Pr ¨ufung (30 Minuten) nach Maßgabe des Dozen-
+ten
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Nebenfachmodul
+43Modul T4: Theoretische Physik 4: Thermodynamik und Statistische Physik
+Verantwortlicher Professur Theorie kondensierter Materie
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Verst ¨andnis der Konzepte der Thermodynamik
+•Verst ¨andnis der Begr ¨undung der Thermodynamik in der Statistischen Physik
+•Vertrautheit mit einfachen Anwendungen im Gleichgewicht und Nichtgleichge-
+wicht
+•F¨ahigkeit, Probleme der Thermodynamik und Statistischen Physik selbst ¨andig zu
+l¨osen
+Inhalt
+•Grundlagen der Statistik und Wahrscheinlichkeitsrechnung, Gleichgewicht-
+sensembles mit Anwendungen (Gittergas, Liouville-Theorem, statistischer
+Operator, Maxwell-Boltzmann-Verteilung, Besetzungszahldarstellung), ideales
+Bose/Fermi-Gas, Spinsysteme, Strahlungsfeld, Elemente der Thermodynamik
+(Haupts ¨atze, Zustandsgleichungen), Reale Gase,
+•Phasen ¨uberg ¨ange, Ising-Modell, Nichtgleichgewichtsph ¨anomene (Brownsche
+Bewegung, Boltzmann-Gleichung, H-Theorem und Irreversiblit ¨at),
+•Mathematische Erg ¨anzungen
+Vorkenntnisse keine
+Pr¨ ufung unbenoteter ¨Ubungsschein, Klausur (120 Minuten) oder
+m¨undliche Pr ¨ufung (30 Minuten) nach Maßgabe des Dozen-
+ten
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Nebenfachmodul
+44Experimentalphysik
+45Modul E1: Experimentalphysik 1: Mechanik / W ¨arme
+Verantwortlicher Professur Niedertemperaturplasmaphysik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Kenntnis der grundlegenden Begriffe, Ph ¨anomene und Methoden der klassischen
+Mechanik und der W ¨armelehre
+•F¨ahigkeit, Aufgaben der Mechanik und W ¨armelehre selbst ¨andig zu l ¨osen
+Inhalt
+•Physikalische Gr ¨oßen/Grundgr ¨oßen und Gleichungen, Kinematik des Masse-
+punktes, Dynamik des Massepunktes (Kr ¨afte, Inertialsysteme und beschleunigte
+Bezugssysteme), Arbeit, Leistung, Energie, Mechanische Schwingungen, Impuls
+und Drehimpuls, Drehbewegung starrer K ¨orper, Erhaltungss ¨atze, Elastische Ei-
+genschaften fester K ¨orper, Hydrostatik und Hydrodynamik
+•Physikalische Gr ¨oßen der W ¨armelehre, Thermische Ausdehnung und Tempe-
+raturskala, W ¨arme, W ¨armetransport, Ideale und reale Gase, Haupts ¨atze der
+W¨armelehre, Kreisprozesse, Aggregatzust ¨ande und Phasenumwandlungen, Ki-
+netische W ¨armetheorie (Boltzmann-Theorem, mikroskopische Analyse des Gas-
+drucks, Boltzmannscher Gleichverteilungssatz)
+Vorkenntnisse keine
+Pr¨ ufung unbenoteter ¨Ubungsschein, m ¨undliche Pr ¨ufung (30 Minuten)
+oder Klausur (90 Minuten) nach Maßgabe des Dozenten
+Note Note der Modulpr ¨ufung
+Aufwand in h 240 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 150)
+Leistungspunkte 8
+Modulart Nebenfachmodul
+46Modul E2: Experimentalphysik 2: Elektrizit ¨at / Optik
+Verantwortlicher Professur Niedertemperaturplasmaphysik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SS
+Qualiﬁkationsziele
+•Kenntnis der grundlegenden Begriffe, Ph ¨anomene und Methoden der klassischen
+Elektrizit ¨atslehre und der Wellenphysik/Wellenoptik und geometrischen Optik
+•F¨ahigkeit, Aufgaben der Elektrizit ¨atslehre und der Wellenphysik/Wellenoptik und
+geometrischen Optik selbst ¨andig zu l ¨osen
+Inhalt
+•Eigenschaften elektrischer Ladungen und elektrostatischer Felder, Coulomb-
+sches Gesetz, Inﬂuenz, Feld der elektrischen Verschiebung, Kondensator, Nicht-
+leiter im elektrischen Feld, Energie und Kraftwirkungen elektrischer Felder, stati-
+on¨arer Strom, Leitf ¨ahigkeit, Eigenschaften des Magnetfeldes station ¨arer Str ¨ome,
+Magnetischer Fluss, Lorentzkraft, Induktionsgesetz und Lenzsche Regel, Ma-
+gnetfelder in Materie, Energie und Kraftwirkungen magnetischer Felder, Wech-
+selstrom und elektrische Schwingungen, Maxwell-Gleichungen
+•allgemeine Wellenlehre (Wellengleichung, ebene harmonische Welle, Wellenei-
+genschaften), Interferenzen von Wellen (Beugung von Licht) Phasen- und Grup-
+pengeschwindigkeit, Absorption und Polarisation, Ausbreitung des Lichtes, Satz
+von Fermat, Abbildung durch Reﬂexion und Brechung, optische Instrumente
+Vorkenntnisse keine
+Pr¨ ufung unbenoteter ¨Ubungsschein, m ¨undliche Pr ¨ufung (30 Minuten)
+oder Klausur (90 Minuten) nach Maßgabe des Dozenten
+Note Note der Modulpr ¨ufung
+Aufwand in h 240 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 150)
+Leistungspunkte 8
+Modulart Nebenfachmodul
+47Modul E3: Experimentalphysik 3: Atome / Molek ¨ ule
+Verantwortlicher Professur Grenz- und Oberﬂ ¨achenphysik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Kenntnis der grundlegenden Begriffe, Ph ¨anomene und Methoden der Atom- und
+Molek ¨ulphysik
+•F¨ahigkeit, Aufgaben der Atom- und Molek ¨ulphysik selbst ¨andig zu l ¨osen
+Inhalt
+•Grenzen der klassischen Physik: Photoelektrischer Effekt, Schwarzer Strahler
+und Strahlungsgesetze, R ¨ontgenstrahlung, Radioaktivit ¨at, Bohrsches Atommo-
+dell, Welle-Teilchen-Dualismus, Compton-Streuung
+•Quantenmechanische Beschreibung des Wasserstoffatoms, Wellenfunktion
+(Radial- und Kugelﬂ ¨achenfunktionen), Quantisierung der Energie, Bahn-
+Drehimpuls, Magnetisches Moment, Spin des Elektrons, Spin-Bahn-Kopplung,
+Zeeman-Effekt, g- Faktor, Feinstruktur des Wasserstoffspektrums mit Auswahl-
+regeln, Lamb-Verschiebung, Pauliprinzip, Periodensystem der Elemente, Hund-
+sche Regeln, Funktionsprinzip des Lasers, Chemische Bindungen, Wasserstoff-
+Molek ¨ul und -ion, Molek ¨ulorbitale, Elektronische Zust ¨ande, Rotation, Schwin-
+gung, ¨Uberg ¨ange und Auswahlregeln
+Vorkenntnisse keine
+Pr¨ ufung unbenoteter ¨Ubungsschein, m ¨undliche Pr ¨ufung (30 Minuten)
+oder Klausur (90 Minuten) nach Maßgabe des Dozenten
+Note Note der Modulpr ¨ufung
+Aufwand in h 240 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 150)
+Leistungspunkte 8
+Modulart Nebenfachmodul
+48Modul E4: Experimentalphysik 4: Festk ¨orper
+Verantwortlicher Professur Grenz- und Oberﬂ ¨achenphysik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SS
+Qualiﬁkationsziele
+•Kenntnis der grundlegenden Begriffe, Ph ¨anomene und Methoden der
+Festk ¨orperphysik
+•F¨ahigkeit, Aufgaben der Festk ¨orperphysik selbst ¨andig zu l ¨osen
+Inhalt
+•Bindungskr ¨afte im Festk ¨orper (van der Waals, ionisch, kovalent, metallisch), Kris-
+tallstrukturen (Bravais- Gitter, primitive Einheitszelle, Wigner-Seitz-Zelle, Miller-
+Indizes, reziprokes Gitter), Messmethoden, Elastische Eigenschaften von Kris-
+tallen, akustische und optische Phononen, Dispersionsrelationen, Speziﬁsche
+W¨arme, Anharmonische Effekte
+•Freies Elektronengas in Metallen, Fast-freie Elektronen im Kristall (Blochsches
+Theorem, Energiel ¨ucken, Fermi-Oberﬂ ¨achen und Brillouin- Zonen, ¨Ubergang zu
+Halbleitern und Isolatoren), Bandstrukturen, Ladungstr ¨agerstatistik, Dotierung,
+pn-¨Ubergang, Dielektrische Eigenschaften, Optische Anregungen in Metallen
+und Halbleitern, Plasmonen und Polaritonen, Magnetisierung, Dia-, Para-, Ferro-
+und Antiferromagnetismus, Supraleitung (Meißner- Effekt, London-Gleichung),
+Cooper-Paare, Flussquantisierung, Josephson-Effekt
+Vorkenntnisse keine
+Pr¨ ufung unbenoteter ¨Ubungsschein, m ¨undliche Pr ¨ufung (30 Minuten)
+oder Klausur (90 Minuten) nach Maßgabe des Dozenten
+Note Note der Modulpr ¨ufung
+Aufwand in h 210 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 150)
+Leistungspunkte 7
+Modulart Nebenfachmodul
+49Nebenfach Informatik
+50Modul I1: Theoretische Informatik
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Qualiﬁkationsziele
+•Kenntnis der grundlegenden Eigenschaften und Grenzen der Berechenbarkeit,
+•Verst ¨andnis der Bedeutung der Berechenbarkeit f ¨ur die Informatik,
+•Verst ¨andnis f ¨ur mathematische Modelle informationsverarbeitender Systeme und
+deren Anwendung,
+•Bef¨ahigung zum Vergleich von Typen formaler Sprachen und zugeh ¨origer Akzep-
+tortypen bez ¨uglich ihrer Leistungsverm ¨ogen,
+•Verst ¨andnis und Beherrschung des Wechselspiels zwischen mathematischer In-
+tuition und ihrer Pr ¨azisierung durch formale Systeme,
+•Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion in
+den ¨Ubungen.
+Inhalt
+•Grundlagen der Berechenbarkeits- und Algorithmentheorie: Intuitiver
+Algorithmus-Begriff und mathematische Pr ¨azisierungen der Berechenbarkeit
+(goto-, while-, aber auch loop-Programme, Turingmaschinen u.a.), Church-
+Turing-Hypothese, universelle Funktionen und unl ¨osbare Probleme
+•Endliche Automaten und sequentielle Wortfunktionen, Boolesche Funktionen,
+Schaltalgebra
+•Formale Sprachen, die Klassen der Chomsky-Hierarchie und ihre Akzeptortypen
+Vorkenntnisse Lineare Algebra, Analysis, Algorithmen und Programmierung
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Nebenfachmodul
+51Modul I2: Praxis des Programmierens
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•Bef¨ahigung zur selbst ¨andigen Planung komplexerer Anwendungen einschließlich
+graphischer Benutzerschnittstelle,
+•Beherrschung der Implementierung in einer objektorientierten Programmierspra-
+che (Java oder C++),
+•Kenntnisse ¨uber g ¨angige Werkzeuge zur Softwareentwicklung und deren Anwen-
+dung,
+•F¨ahigkeit, sich selbst ¨andig in neue Werkzeuge und Sprachen einzuarbeiten.
+Inhalt
+•aktuelle Werkzeuge zur Erstellung und Verwaltung komplexerer Softwareprojekte
+(integrierte Entwicklungsumgebungen, Versionsverwaltung und Programmieren
+im Team, Debugging, Proﬁling)
+•weiterf ¨uhrende Themen der Programmierung in einer objektorientierten Pro-
+grammiersprache (GUI, Exceptions, Threads, Typvariablen)
+Vorkenntnisse Einf¨uhrung in die EDV, Algorithmen und Programmierung
+Pr¨ ufung Die Modulpr ¨ufung besteht aus dem Erwerb eines unbeno-
+teten ¨Ubungsscheines. Die Kriterien f ¨ur den Erhalt eines
+¨Ubungsscheines legt der Dozent in der ersten Vorlesungs-
+woche fest. Erfolgt keine Festlegung, so sind 50 % der
+¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note unbenotet
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Nebenfachmodul
+52Modul I3: Datenstrukturen und efﬁziente Algorithmen
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WS
+Qualiﬁkationsziele
+•¨Uberblick ¨uber wichtige komplexere algorithmische Probleme und Datenstruktu-
+ren,
+•F¨ahigkeit zur Analyse ihrer Leistungsf ¨ahigkeit,
+•Verst ¨andnis f ¨ur die grunds ¨atzlichen Schwierigkeiten beim Entwurf von Algorith-
+men f ¨ur NP-schwere Probleme,
+•Kompetenz zum selbst ¨andigen Entwurf und der Analyse von Algorithmen f ¨ur sol-
+che Probleme,
+•F¨ahigkeit zum Verwenden von online verf ¨ugbaren Quelltextbibliotheken.
+Inhalt
+•komplexere Datenstrukturen und deren Analyse (Hashing, Heaps,
+h¨ohenbalancierte Suchb ¨aume)
+•Algorithmen zur Suche in Strings
+•fortgeschrittene Analysetechniken (amortisierte Analyse)
+•Probleme der kombinatorischen Optimierung (k ¨urzeste Wege in Netzwerken, mi-
+nimale Spannb ¨aume, Matchings, Netzwerkﬂuss)
+•Strategien zur L ¨osung NP-schwerer Probleme (Approximationsalgorithmen, pa-
+rametrisierte Algorithmen)
+•Implementation einzelner Datenstrukturen und Algorithmen
+Vorkenntnisse Algorithmen und Programmierung, Theoretische Informatik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) und dem Erwerb eines unbenoteten ¨Ubungsscheines.
+Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Modulart Nebenfachmodul
+53Modul I4: Praktikum Softwaretechnik
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (1 SWS) und Praktikum (3 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Qualiﬁkationsziele
+•Kenntnis der wesentlichen Phasen des Prozesses der Erstellung komplexer Soft-
+ware,
+•F¨ahigkeiten in der Absch ¨atzung und Planung der notwendigen Ressourcen zur
+Umsetzung eines Projekts,
+•Kompetenz zur ¨Ubernahme von Verantwortung f ¨ur einen wesentlichen Teil der
+Entwicklungsarbeit an einem Projekt im Team,
+•F¨ahigkeiten zur Pr ¨asentation der M ¨oglichkeiten und Grenzen der erstellten Soft-
+ware.
+Inhalt
+•Werkzeuge und Methoden zur Entwicklung und Wartung umfangreicher
+Software-Systeme
+•Projektplanung
+•Entwurf und Implementierung
+•Dokumentation, Testen und Qualit ¨atssicherung
+Vorkenntnisse Praxis des Programmierens
+Pr¨ ufung Die Modulpr ¨ufung besteht aus dem Erwerb eines unbeno-
+teten ¨Ubungsscheines. Die Kriterien f ¨ur den Erhalt eines
+¨Ubungsscheines legt der Dozent in der ersten Vorlesungs-
+woche fest. Erfolgt keine Festlegung, so sind 50 % der
+¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note unbenotet
+Aufwand in h 180 (Vorlesung: 15, ¨Ubung: 45, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Nebenfachmodul
+54Modul I5: Computergraﬁk I
+Verantwortlicher Professur Informatik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WS gerade Jahre
+Qualiﬁkationsziele
+•Verst ¨andnis f ¨ur die im Kontext der graﬁschen Darstellung auftretenden Problem-
+stellungen,
+•Bef¨ahigung zur L ¨osung entsprechender Probleme mit aktuellen Bibliotheken,
+•vertiefte praktische Kompetenzen in der Bearbeitung von Programmieraufgaben
+und Verwendung von u.a. OpenGL.
+Inhalt
+•Mathematische Grundlagen der Computergraﬁk
+•menschliche Farbwahrnehmung
+•Theorie der Bildentstehung
+•OpenGL
+•objektorientierten Graﬁkprogrammierung
+•Dateiformate
+•OpenGLSL
+Vorkenntnisse Algorithmen und Programmierung, Lineare Algebra und ana-
+lytische Geometrie, Praxis des Programmierens
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+ten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Nebenfachmodul
+55Modul I6: Datenbanken
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WS
+Qualiﬁkationsziele
+•Bef¨ahigung zum Entwurf eines relationalen Datenbankschemas,
+•Kompetenz zur Bewertung eines solchen anhand von objektiven Kriterien wie
+funktionellen Abh ¨angigkeiten,
+•Kompetenz zur Formulierung von Datenbankabfragen, auch bei Verkn ¨upfung
+mehrerer Tabellen,
+•Kenntnis der Datenstrukturen und Methoden, mit denen eine Datenbank intern
+die Daten organisiert, unter Ber ¨ucksichtigung von Datensicherheit beim Ausfall
+von Hardware,
+•Kompetenz zur Implementierung von Datenbankanwendungen in wenigstens ei-
+ner Programmiersprache.
+Inhalt
+•Datenbankarchitektur
+•relationales Datenmodell
+•Datenbankabfragesprache SQL
+•Entity-Relationship-Modell
+•Normalformen
+•Dateiorganisation und Indizes
+•XML
+•Datenbankanwendungen
+Vorkenntnisse Algorithmen und Programmierung
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Nebenfachmodul
+56Modul I7: Randomisierte Algorithmen
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im geraden SoSe
+Qualiﬁkationsziele
+•F¨ahigkeit zur Analyse und zum Entwurf von randomisierten Algorithmen,
+•Verst ¨andnis f ¨ur die grundlegenden Probleme, die bei der Analyse und dem Ent-
+wurf auftreten,
+•Beherrschung einer Palette von Werkzeugen und Techniken, mit deren Hilfe diese
+Probleme gel ¨ost werden k ¨onnen.
+Inhalt
+•Grundlegende Begriffe und Techniken (Typen von randomisierten Algorithmen,
+Laufzeit als Erwartungswert, Chernoff-Schranken, probabilistische Methode,
+Random Walks)
+•Randomisierte Datenstrukturen
+•Randomisierte Algorithmen f ¨ur Probleme auf Graphen
+•Randomisierte Algorithmen f ¨ur Probleme aus der Zahlentheorie
+•Randomisierte Approximationsalgorithmen
+Vorkenntnisse Algorithmen und Programmierung, Stochastik, Theoretische
+Informatik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer m ¨undlichen Pr ¨ufung (30
+min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Nebenfachmodul
+57Betriebswirtschaftslehre
+58Modul B1: Einf ¨ uhrung in die Betriebswirtschaftslehre
+Verantwortlicher Professur Allgemeine Betriebswirtschaftslehre, insbesonde-
+re Marketing
+Lehrformen Vorlesung/ ¨Ubung (3 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Wintersemester
+Qualiﬁkationsziele
+Die Studierenden haben einen ¨Uberblick ¨uber das Fach Betriebswirtschaftslehre ge-
+wonnen. Sie sind in der Lage, weiterf ¨uhrende Lehrveranstaltungen zu besuchen.
+Inhalt
+•Gegenstand, Problemstellungen und Methoden der Betriebswirtschaftslehre,
+¨Uberblick ¨uber die gesamte Breite des Fachs
+•vertieftes Wissen in den Bereichen Investition und Finanzierung, Produktion und
+Absatz, Organisation und Rechnungswesen
+•¨okonomische Denkweise, betriebswirtschaftliche Fachsprache und -methodik
+Lehrveranstaltungen:
+•Einf¨uhrung in die Betriebswirtschaftslehre f ¨ur Nicht-BWL (V/ ¨U)
+Vorkenntnisse keine formellen Teilnahmevoraussetzungen
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 150 (Vorlesung/ ¨Ubung: 45, Selbststudium: 105)
+Leistungspunkte 5
+Modulart Nebenfachmodul
+59Modul B2: Technik des betrieblichen Rechnungswesens (Buchhaltung)
+Verantwortlicher Professur f ¨ur Allgemeine Betriebswirtschaftslehre sowie Un-
+ternehmenspr ¨ufung und -besteuerung
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Wintersemester
+Qualiﬁkationsziele
+Die Studierenden haben einen ¨Uberblick ¨uber das System der doppelten Buchf ¨uhrung
+und der Jahresabschlusserstellung gewonnen.
+Inhalt
+•Finanzbuchhaltung
+•Betriebsabrechnung
+•Grundlagen der Bilanzierung und Bewertung
+Lehrveranstaltungen:
+•Technik des betrieblichen Rechnungswesens (V/ ¨U)
+Vorkenntnisse keine formellen Teilnahmevoraussetzungen
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 150 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 90)
+Leistungspunkte 5
+Modulart Nebenfachmodul
+60Modul B3: G¨ uterwirtschaftliche Prozesse
+Verantwortlicher Professur Allgemeine Betriebswirtschaftslehre, insbesonde-
+re Marketing; Professur Allgemeine Betriebswirtschaftslehre
+und Produktionswirtschaft; Professur Allgemeine Betriebs-
+wirtschaftslehre sowie Organisation, Personalwirtschaft und
+Innovationsmanagement
+Lehrformen Vorlesungen/ ¨Ubungen (9 SWS)
+Dauer/Turnus 2 Sem., die Lehrveranstaltungen dieses Moduls werden ein-
+mal pro Jahr angeboten, in jedem Semester mindestens ei-
+ne.
+Qualiﬁkationsziele
+Die Studierenden sind in die Lage versetzt, Begriff und Denkkonzepte des Marketings
+zu beschreiben, zu beurteilen und hinsichtlich unternehmerischer Ziele ad ¨aquat aus-
+zugestalten. Sie besitzen einen ¨Uberblick ¨uber die zentralen organisatorischen Ge-
+staltungsalternativen und die wichtigsten personalpolitischen Instrumente und sind in
+der Lage zu beurteilen, welche Instrumente f ¨ur verschiedene betriebliche Kontextsitua-
+tionen geeignet sind. Die Studierenden haben Kenntnisse ¨uber grundlegende Frage-
+stellungen der Planung und Steuerung produktionswirtschaftlicher Prozesse sowie der
+Produktions- und Kostentheorie.
+Inhalt
+•Grundlagen des Marketing-Mix
+•Grundlagen der marktorientierten Unternehmensf ¨uhrung
+•Grundlagen der Marketingstrategien
+•Grundz ¨uge der Struktur- und Prozessorganisation
+•Reorganisation
+•Personalwirtschaftliche Gestaltungsfelder
+•Grundlagen der Produktions- und Kostentheorie
+•Grundlagen der Produktionsplanung und -steuerung (Produktionsprogrammpla-
+nung; Produktionsfaktorplanung; Produktionsprozessplanung)
+Lehrveranstaltungen:
+•Einf¨uhrung in das Marketing (V/ ¨U)
+•Personal und Organisation (V/ ¨U)
+•Produktionswirtschaft (V/ ¨U)
+Vorkenntnisse Grundlagenkenntnisse der BWL
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 450 (Vorlesung/ ¨Ubung: 135, Selbststudium: 315)
+Leistungspunkte 15
+Modulart Nebenfachmodul
+61Modul B4: Betriebliche Entscheidungsprozesse
+Verantwortlicher Professur Lehrstuhl f ¨ur Allgemeine Betriebswirtschaftslehre
+und Gesundheitsmanagement
+Lehrformen Vorlesungen (4 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Wintersemester
+Qualiﬁkationsziele
+Die Studierenden besitzen vertiefte Kenntnisse ¨uber Methoden der Entscheidungsvor-
+bereitung und Entscheidungsﬁndung in betrieblichen Entscheidungsfeldern, insbeson-
+dere logistischer g ¨uterwirtschaftlicher Entscheidungen.
+Inhalt
+•deskriptive und pr ¨askriptive Entscheidungstheorie; Entscheidungsﬁndung unter
+Sicherheit, Risiko und Unsicherheit; kollektive Entscheidungsﬁndung
+•Beschaffungs-, Produktions-, Distributions- und Entsorgungslogistik sowie
+Grundz ¨uge der Metalogistik
+Lehrveranstaltungen:
+•Entscheidungstheorie (V)
+•Logistik (V)
+Vorkenntnisse Grundlagen der BWL und g ¨uterwirtschaftlicher Prozesse
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung/ ¨Ubung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Nebenfachmodul
+62Volkswirtschaftslehre
+63Modul V1: Einf ¨ uhrung in die Volkswirtschaftslehre
+Verantwortlicher Professur Allgemeine Volkswirtschaftslehre sowie Wachs-
+tum, Strukturwandel und Handel
+Lehrformen Vorlesung/ ¨Ubung (3 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Sommersemester
+Qualiﬁkationsziele
+Die Studierenden erwerben grundlegendes Verst ¨andnis f ¨ur volkswirtschaftliche Kon-
+zepte und Fragestellungen und sind mit volkswirtschaftlichen Prinzipien und Rahmen-
+bedingungen sowie deren Einﬂ ¨ussen auf das t ¨agliche Leben vertraut.
+Inhalt
+•Begrifﬂiche Grundlagen
+•Grundlagen der Mikro ¨okonomik
+•Grundlagen der Makro ¨okonomik
+•Grundlagen der Modellanalyse
+•Grundlagen von M ¨arkten und Preisbildung
+•gesamtwirtschaftliches Produktionsergebnis (Wirtschaftskreislaufanalyse, Volks-
+wirtschaftliche Gesamtrechnung)
+•Grundlagen wirtschaftlicher Dynamik
+•wirtschaftspolitische Ziele
+•volkswirtschaftliche Indikatoren
+•Grundlagen der offenen Volkswirtschaft
+Lehrveranstaltungen:
+•Einf¨uhrung in die Volkswirtschaftslehre (V/ ¨U)
+Vorkenntnisse keine formellen Teilnahmevoraussetzungen
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 150 (Vorlesung/ ¨Ubung: 45, Selbststudium: 105)
+Leistungspunkte 5
+Modulart Nebenfachmodul
+64Modul V2: Mikro ¨okonomik
+Verantwortlicher Professur Allgemeine Volkswirtschaftslehre, insbesondere
+Geld und W ¨ahrung
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Wintersemester
+Qualiﬁkationsziele
+Die Studierenden haben Kenntnisse ¨uber grundlegende mikro ¨okonomische Zusam-
+menh ¨ange und deren Anwendbarkeit an Hand praktischer und theoretischer Einsich-
+ten zu wirtschaftlichen Problemstellungen.
+Inhalt
+•Haushaltstheorie
+•Unternehmenstheorie
+•M¨arkte und Preisbildung
+•Theorie des Allgemeinen Gleichgewichts
+•Externe Effekte und ¨Offentliche G ¨uter
+Lehrveranstaltungen:
+•Mikro ¨okonomische Theorie (V/ ¨U)
+Vorkenntnisse keine formellen Teilnahmevoraussetzungen; wirtschaftswis-
+senschaftliche Grundkenntnisse werden erwartet
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 210 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 7
+Modulart Nebenfachmodul
+65Modul V3: Makro ¨okonomik
+Verantwortlicher Professur Allgemeine Volkswirtschaftslehre, insbesondere
+Geld und W ¨ahrung
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Sommersemester
+Qualiﬁkationsziele
+Die Studierenden haben Kenntnisse ¨uber grundlegende gesamtwirtschaftliche Zusam-
+menh ¨ange und deren Anwendbarkeit an Hand praktischer und theoretischer Einsichten
+zu wirtschaftlichen Problemstellungen.
+Inhalt
+•Ex-ante-Analyse
+•G¨utermarkt
+•Geldmarkt
+•Arbeitsmarkt
+•Modell der offenen Volkswirtschaft
+•Aggregierte Nachfrage, aggregiertes Angebot
+•vollst ¨andiges Makromodell
+•Modellvergleich: Keynes - Klassik
+•Makro ¨okonomische Kontroversen: Phillips-Kurven-Diskussion, Monetarismus vs.
+Keynesianismus
+Lehrveranstaltungen:
+•Makro ¨okonomische Theorie (V/ ¨U)
+Vorkenntnisse keine formellen Teilnahmevoraussetzungen
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 210 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 7
+Modulart Nebenfachmodul
+66Modul V4: Makro ¨okonomische Steuerungsprozesse
+Verantwortlicher Professur Allgemeine Volkswirtschaftslehre sowie Wachs-
+tum, Strukturwandel und Handel
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Wintersemester
+Qualiﬁkationsziele
+Die Studierenden sind bef ¨ahigt, makro ¨okonomische Handlungsoptionen im jeweiligen
+gesamtwirtschaftlichen Kontext auf ihre Vorteilhaftigkeit zu beurteilen.
+Inhalt
+•Grundlagen der Geldwirtschaft [Mikrofundierung des Geldes, Geldnachfrage,
+Geldangebot], Grundlagen der Geldpolitik, Geldpolitik der EZB bzw. des Euro-
+systems (Geld und Kredit)
+•Konjunktur- und Wachstumstheorie (Konjunktur und Wachstum)
+Lehrveranstaltungen:
+•Geld und Kredit (V)
+•Konjunktur und Wachstum (V)
+Vorkenntnisse Grundlagenkenntnisse der VWL, Mikro ¨okonomik und Ma-
+kro¨okonomik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Nebenfachmodul
+67Modul V5: Soziale Marktwirtschaft
+Verantwortlicher Professur Allgemeine Volkswirtschaftslehre sowie Wachs-
+tum, Strukturwandel und Handel
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Sommersemester
+Qualiﬁkationsziele
+Die Studierenden sind bef ¨ahigt, grundlegende Prinzipien und Steuerungsm ¨oglich-
+keiten der sozialen Marktwirtschaft auf ihre Vorteilhaftigkeit zu beurteilen.
+Inhalt
+•Grundz ¨uge der Allgemeinen Steuerlehre, ¨offentliche G ¨uter (Einf ¨uhrung in die Fi-
+nanzwissenschaft)
+•Wettbewerbstheorie und -politik (Wettbewerb)
+Lehrveranstaltungen:
+•Einf¨uhrung in die Finanzwissenschaft (V)
+•Wettbewerb (V)
+Vorkenntnisse Grundlagenkenntnisse der VWL, Mikro ¨okonomik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus einer Klausur (120 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Nebenfachmodul
+68Modul V6: Umwelt- und Ressourcen ¨okonomik
+Verantwortlicher Professur Allgemeine Volkswirtschaftslehre sowie Wachs-
+tum, Strukturwandel und Handel
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich, i. d. R. im Sommersemester
+Qualiﬁkationsziele
+Die Studierenden sind bef ¨ahigt, umwelt ¨okonomische Probleme zu erkennen und zu
+erkl¨aren, umweltpolitische Maßnahmen zu beurteilen und die M ¨oglichkeit zu nachhal-
+tigem Wachstum bei Einsatz begrenzter Ressourcen einzusch ¨atzen.
+Inhalt
+•Theorie ¨offentlicher und privater G ¨uter, Theorie externer Effekte; sustainable
+development; ¨okologische ¨Okonomie; ¨okonomische Wirkungen des Umwelthaf-
+tungsrechts (Umwelt ¨okonomie)
+•endogene Wachstumstheorie, Konzepte der Nachhaltigkeit, Wachstum bei be-
+schr¨ankt vorhandenen und bei erneuerbaren Ressourcen (endogenes Wachstum
+und Nachhaltigkeit)
+Lehrveranstaltungen:
+•Umwelt ¨okonomie (V)
+•Endogenes Wachstum und Nachhaltigkeit(V)
+Vorkenntnisse Grundlagenkenntnisse der VWL, Mikro ¨okonomik
+Pr¨ ufung Die Modulpr ¨ufung besteht aus zwei Klausuren (je 60 min).
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Modulart Nebenfachmodul
+69

@@ -40,4 +40,2815 @@ Prüfungs - und Studienordnung als Satzung:
 § 8 Module  
 § 9 Modulprüfungen  
 § 10 Masterarbeit  
-§ 11 Ersatz biologischer Module  
+§ 11 Ersatz biologischer Module  Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 2 § 12 Bildung der Gesamtnote 
+§ 13 Akademischer Grad  
+§ 14 Inkrafttreten, Übergangsregelungen 
+ 
+ Anlage A: Musterstudienpläne  
+Anlage B: Modulkatalog Anlage C: Diploma  Supplement (deutsche und englische Version)  
+   
+§ 1 
+Geltungsbereich
+* 
+ Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das Prüfungs -
+verfahren im Masterstudiengang Biomathematik der Ernst -Moritz -Arndt -Universität 
+Greifswald. Im Übrigen gilt f ür alle weiteren Studien-  und Prüfungsangelegenheiten 
+die Rahmenprüfungsordnung der Ernst -Moritz -Arndt -Universität Greifswald (RPO) 
+vom 31.Januar 2012 (Mittl.bl. BM M -V 2012 S. 394) in der jeweils geltenden Fassung 
+unmittelbar.  
+ 
+ 
+§ 2 
+Zugangsvoraussetzungen 
+ 
+(1) Der Zugang zum Masterstudiengang Biomathematik ist gemäß § 4 
+Rahmenprüfungsordnung an den Nachweis eines ersten berufsqualifizierenden 
+Hochschulabschlusses gebunden. Der Zugang zum Studium setzt zusätzlich voraus:  
+ 
+a) den Erwerb von mindestens 180 Leistungspunkten (LP) in einem 
+biomathematischen Studiengang oder  
+ 
+b) den erfolgreichen Abschluss eines ersten berufsqualifizierenden 
+mathematisch- orientierten  Studienganges und den Erwerb von mindestens 15 
+LP im Bereich Biologie oder  
+ 
+c) den erfolgreichen A bschluss eines ersten berufsqualifizierenden 
+Studienganges im Fach Biologie und den Erwerb von mindestens 30 LP  im 
+Bereich Mathematik und Informatik.  
+ Über Zweifelsfälle hinsichtlich einer hinreichend mathematischen Orientierung 
+entscheidet der Prüfungsaus schuss. Aus wichtigen Gründen, die der Bewerber 
+schriftlich darzulegen hat, kann der Prüfungsausschuss auf Antrag von der in Satz 2 
+genannten Voraussetzung befreien. Die Befreiung kann von der Erfüllung von 
+Auflagen abhängig gemacht werden. Fehlende Leistungspunkte nach Satz 2, b) und 
+c), können grundsätzlich während der ersten zwei Semester des 
+Masters tudienganges nachgeholt werden.  
+ 
+                                    
+* Soweit für Funktionsbezeichnungen ausschließlich die männliche oder die weibliche Form verwendet 
+wird, gilt diese jeweils auch für das andere Geschlecht.  Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 3 (2) Die Befreiung nach Absatz 1 Satz 4 soll  nur dann versagt werden, wenn ein 
+erfolgreicher Abschluss des Masterstudiums nic ht zu erwarten ist. Dabei gilt die 
+Vermutung, dass ein erfolgreicher Abschluss des Masterstudiums nicht zu erwarten 
+ist, wenn keines der Kriterien unter Absatz  1, Satz 2 erfüllt ist, und der Bewerber 
+keine weiteren Nachweise für die fach-  und studiengangss pezifische Qualifikation 
+erbracht hat, aus denen sich unter Würdigung des Gesamtbildes eine positive Erfolgsprognose ableiten lässt. Der Prüfungsausschuss kann die Einladung des Bewerbers zu einem klärenden Gespräch beschließen. Auch kann eine Zulassung unter Vorbehalt erfolgen.  
+ 
+ 
+§ 3 
+Ziele und Aufbau des Studiums  
+ 
+(1) Durch die Masterprüfung soll festgestellt werden, ob der Kandidat selbständig und 
+vertieft mathematische Probleme, auch in ihren Wissenschaftsdisziplinen übergreifenden Bezügen, erörtern und lösen kann und ob er wissenschaftliche Kenntnisse und Lösungen mit praktischen Anforderungen zu verbinden vermag.  
+ (2) Ziel der Ausbildung ist, den künftigen Master of Science in Biomathematik mit solchen Kenntnissen, Fähigkeiten und Fertigkeiten zu versehen, dass er im Bereich der biologischen und medizinischen Forschung, der Planung, Entwicklung und Organisation in der Biotechnologie, der Pharmaindustrie oder im Umweltschutz flexibel einsetzbar ist. Gemäß dem Ausbildungsprofil sind dem Absolventen darüber  
+hinaus auch Einsatzfelder des Masters of Sc ience in Mathematik zugänglich.  
+ (3) Die Studierenden sollen durch den Mas terstudiengang befähigt werden,  
+a) Mathematische Konzepte, Methoden und Theorien umfassend und in ihrer 
+ganzen Breite kritisch, in einem T eilbereich detailliert, zu vers tehen und 
+anzuwenden.  
+b) Die eigenverantwortliche Bildung und Weiterentwicklung adäquater mathemati -
+scher Modelle für unterschiedlichste komplexe und neuartige Probleme in den Lebenswissenschaften in einem interdiszi plinären Umfeld zu beherrschen.  
+c) Modellanalyse und Problemlösung mit einer großen Breite an mathematischen 
+Mitteln, insbesondere unter effizientem Einsatz modernster computerges tützter 
+Methoden, zu betreiben.  
+Der Studiengang ist forschungsorientiert.  
+ (4) Die Zei t, in der in der Regel das Studium mit dem Master of Science- Grad 
+(„M.Sc.“) abgeschlossen werden kann (Regelstudienzeit), beträgt vier Semester.  
+ (5) Der zeitliche Gesamtumfang, der für den erfolgreichen Abschluss des Studiums erforderlichen regelmäßigen A rbeitslast (workload), beträgt 3600 Stunden. Es sind 
+insgesamt 120 Leistungspunkte (LP) zu erwerben.  
+ (6) Ein erfolgreiches Studium setzt den Besuch der in den Modulen angebotenen Lehrveranstaltungen voraus. Die Studierenden haben die entsprechende Kontakt zeit 
+eigenverantwortlich durch ein angemessenes Selbststudium zu ergänzen. Die jeweiligen Lehrkräfte geben hierzu für jedes Modul rechtzeitig Studienhinweise, insbesondere Literaturlisten heraus, die sich an den Qualifikationszielen und an der Arbeitsbelas tung des Moduls orientieren.  Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 4 (7) Unbeschadet der Freiheit der Studierenden, den zeitlichen und organisatorischen 
+Verlauf seines Studiums selbstverantwortlich zu planen, werden die 
+Musterstudienpläne (Anlage A) als zweckmäßig empfohlen. Für die qualitativen und quantitativen Beziehungen zwischen der Dauer der Module und der Leistungspunkteverteilung einerseits sowie den Lehrveranstaltungsarten und Semesterwochenstunden andererseits wird ebenfalls auf die Musterstudienpläne verwiesen.  
+ (8) Lehrveranstaltunge n können auch in englischer Sprache gehalten werden.  
+  
+§ 4 
+Veranstaltungsarten  
+ Die Studieninhalte werden insbesondere in Vorlesungen, Seminaren und Übungen angeboten. Zur Ergänzung können Veranstaltungsarten wie Kolloquien und Tutorien sowie Exkursionen angeboten werden.  
+1. Vorlesungen dienen der systematischen Darstellung eines Stoffgebietes, d er 
+Vortragscharakter überwiegt.  
+2. Seminare sind Lehrveranstaltungen, in denen die Studierenden durch eigene mündliche und schriftliche Beiträge sowie Diskussionen in das selbständige wissenschaftli che Arbeiten eingeführt werden.  
+3. Übungen führen die Studierenden in die praktische wissenschaftliche Tätigkeit bei intensiver Betreuung durch Lehrpersonen ein. Sie vermitteln grundlegende Methoden des wissenschaftlichen Arbeitens in den relevanten Fachgebieten und 
+fördern die Anwendung und Vertiefung der Lehrinhalte.  
+4. Praktika sind durch die eigenständige Anwendung wissenschaftlicher Methoden auf wissenschaftliche Fragestellungen gekennzeichnet. Sie dienen der Einübung und Vertiefung praktischer Fähigkeiten und fördern das selbständige Bearbeiten wissenschaftlicher Aufgaben.  
+  
+§ 5 
+Studienaufnahme  
+ Das Studium im Masterstudiengang Biomathematik kann im Winter - und im 
+Sommersemester aufgenommen werden.  
+  
+§ 6 
+Teilprüfungen 
+ (1) Studierende, die nach Ablauf eines Semesters beabsichtigen, die Universität zu verlassen, und die Lehrveranstaltungen eines semesterübergreifenden Moduls besuchen, können gemäß § 8 Absatz 1 RPO beantragen, am Ende des Semesters eine Prüfung abzulegen,  die sich auf die bereits absolvierten Teile des Moduls 
+bezieht. Der Antrag ist spätestens vier Wochen nach Ende der Vorlesungszeit an den Prüfungsausschussvorsitzenden zu richten und im Zentralen Prüfungsamt einzureichen.  
+ Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 5 (2) Studierende, denen nach § 43 RPO erbrachte Leistungsnachweise angerechnet 
+werden, die sich nur auf einen Teil einer Modulprüfung beziehen, können über den 
+fehlenden Teil des Moduls eine Teilprüfung ablegen.  
+  
+§ 7 
+Praktikum, Mobilitätsfenster  
+ (1) Während des Studiums kann in der vorl esungsfreien Zeit der Semester 1,  2 und 3 
+ein selbstständig zu organisierendes 4- wöchiges berufsbezogenes Praktikum 
+absolviert werden. Hierfür werden 6 LP vergeben. Das berufsbezogene Praktikum kann einmalig alternativ zum Modul  „Spezialvorlesung II“ gemäß  § 8 Absatz 2 
+erbracht werden.  
+ (2) Auf Antrag des Studierenden entscheidet der Prüfungsausschussvorsitzende rechtzeitig vor Beginn des berufsbezogenen Praktikums über die Eignung der Praktikumsstelle. Der Antrag ist schriftlich an den Vorsitzenden des Prüfungsausschusses zu richten und beim Zentralen Prüfungsamt einzureichen.  
+ (3) Der Vorsitzende des Prüfungsausschusses steht als Ansprechpartner und Betreuer für das berufsbezogene Praktikum zur Verfügung.  
+ (4) Als Prüfungsleistung ist eine 3- seitige schrif tliche Darstellung der 
+Praktikumstätigkeit (Protokoll/Bericht) anzufertigen. Diese wird von dem Vorsitzenden des Prüfungsausschusses nach Absatz 2 als „bestanden“ o der „nicht 
+bestanden“ bewertet.  
+ (5) Nach den Semestern 1, 2 und 3 besteht die Möglichkeit, ein Auslandssemester (Mobilitätsfenster) zu absolvieren.  
+ (6) Bereits vor dem Studium abgeleistete Praktika können auf Antrag des Studierenden vom Vorsitzenden des Prüfungsausschusses anerkannt werden, wenn sie in direktem Bezug zum Studium stehen und deren Abschluss zum Zeitpunkt der Immatrikulation nicht mehr als ein Jahr zurückliegt. Der Antrag ist schriftlich an den 
+Prüfungsausschussvorsitzenden zu richten und im Zentralen Prüfungsamt einzureichen.  Absatz 4 gilt entsprechend.  
+  
+§ 8 
+Module  
+ (1) Im Masterstudiengang Biomathematik werden Module aus den folgenden 
+Teilgebieten studiert:  
+1. Analysis / Optimierung  
+2. Diskrete Mathematik / Algorithmik / Algebra  
+3. Stochastik / Statistik  
+4. Seminarmodule  
+5. Ökologie 6. Molekularbiologie  
+7. Funktionelle Zellbiolog ie und Physiologie 
+ Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 6 Diese Module müssen nach folgenden Regeln belegt werden:  
+1. Insgesamt sind 60 LP aus den Modulen der mathematischen Teilgebiete 
+(Nummer 1. bis 4.) zu erwerben.  
+2. Ein Seminarmodul ist obligatorisch.  
+3. Die Module „Spezialvorlesung“ und die Seminarmodule können mehrfach 
+gewählt werden, dabei können in den Seminarmodulen maximal 24 LP 
+erworben werden.  
+4. Darüber hinaus sind 30 LP aus einem der biologischen Teilgebiete (Nummer 
+5. bis 7.) zu erwerben. Dabei muss in diesem Gebiet, falls vorhanden, das 
+Pflichtmodul (P) belegt werden.  
+5. 30 LP sind aus der Masterarbeit zu erwerben.  
+ (2) Es werden folgende mathematische Module angeboten:  
+ Legende:
+ 
+AB   Arbeitsbelastung in Stunden 
+LP   Leistungspunkte 
+PL   Prüfungsleistungen (Umfang nach § 8, Absa tz 2) 
+Kl 60    Klausur, Dauer 60 Minuten  
+Kl 90    Klausur, Dauer 90 Minuten  
+mP   mündliche Prüfung  
+mP/Kl 60   mündliche Prüfung oder Klausur 60 Minuten  
+mP/Kl 90   mündliche Prüfung oder Klausur 90 Minuten  
+mP+Üs/Kl 60+Üs  mündliche Prüfung und Übungsschein oder alternativ Klausur 60 Minuten und 
+Übungsschein  
+mP+Üs/Kl 90+Üs  mündliche Prüfung und Übungsschein oder alternativ Klausur 90 Minuten und 
+Übungsschein  
+Üs   Übungsschein  
+SV   Seminarvortrag  
+Pr   Protokolle  
+*   Prüfungsleistung ist unbenotet  
+MZ   Modulzyklus:  A = jährlich im Wintersemester  
+B = jährlich im Sommersemester  
+C = zweijährlich im Wintersemester gerade Jahre  
+D = zweijährlich im Sommersemester ungerade Jahre  
+E = zweijährlich im Wintersemester ungerade Jahre  
+F = zweijährlich im Sommersemester gerade Jahr e 
+G = jedes Semester  
+ 
+1. Modulbereich Analysis/Optimierung 
+ 
+Modul  Dauer 
+(Semester)  AB LP PL MZ 
+Approximation  1 180 6 mP F 
+Bild-und Signalanalyse  1 180 6 mP B 
+Differentialgleichungen  in der 
+Biologie  1 180 6 mP A 
+Dynamische Systeme  1 180 6 mP C 
+Fouriera nalysis/Distributionen -
+Theorie  1 180 6 mP/Kl 90  D 
+Funktionalanalysis  1 270 9 mP+Üs*/  
+Kl 90+Üs*  F 
+Funktionentheorie  1 180 6 mP/Kl 90  C Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 7 Maß- und Integrationstheorie  1 270 9 mP+Üs*/  
+Kl 90+Üs*  A 
+Nichtlineare Optimierung  1 180 6 mP/Kl 90  A 
+Numerik II  1 270 9 mP+Üs*/  
+Kl 90+Üs*  A 
+Numerik Grundpraktikum  1 180 6 mP+Üs*/  
+Kl 90+Üs*  A 
+Optimale Steuerung/  
+Variationsrechnung  1 180 6 mP/Kl 90  D 
+Partielle Differentialgleichungen  1 180 6 mP/Kl 90  A 
+Spezialvorlesung  I 
+Analysis/Optimierung  1 90 3 mP/Kl 90   
+Spezialvo rlesung  II 
+Analysis/Optimierung  
+oder alternativ  
+berufsbezogenes Praktikum (§ 6)  1 
+ 
+ 
+4 W 180 6 
+ 
+ 
+6 mP/Kl 90  
+ 
+ 
+Praktikums -
+bericht* (3  S.)  
+Theoretische Ökologie  1 180 6 mP/Kl 90  F 
+ 
+2. Modulbereich Diskrete Mathematik/Algorithmik  
+ 
+Modul  Dauer 
+(Semester)  AB 
+ LP PL MZ 
+Algebra I  1 270 9 mP+Üs*/  
+Kl 90+Üs*  A 
+Algebra II  1 270 9 mP+Üs*/  
+Kl 90+Üs*  D 
+Algorithmik/Komplexitätstheorie  1 180 6 mP C 
+Berechenbarkeitstheorie  1 180 6 mP D 
+Bioinformatik  1 180 6 mP B 
+Codierungstheorie  1 180 6 mP/Kl 90  E 
+Computergrafik  1 180 6 mP/Kl 90  C 
+Datenbanken  1 180 6 mP E 
+Datenstrukturen und effiziente 
+Algorithmen  1 270 9 mP+Üs*  A 
+Diskrete Modellierung in der 
+Biologie  1 180 6 mP/Kl 90  D 
+Diskrete Optimierung  1 180 6 mP/Kl 90  E 
+Graphentheorie  1 180 6 mP/Kl 90  E 
+Kombinatorik  1 180 6 mP/Kl 90  D 
+Mathematische Logik  1 180 6 mP F 
+Molekulare Evolution  1 180 6 mP E Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 8 Praktikum Softwaretechnik  1 180 6 Üs* F 
+Randomisierte Algorithmen  1 180 6 mP F 
+Spezialvorlesung  I Diskrete 
+Mathematik/Algorithmik  1 90 3 mP/Kl 90   
+Spezialvorlesung  II Diskrete  
+Mathematik/Algorithmik  
+oder alternativ  
+berufsbezogenes Praktikum (§ 6)  1 
+ 
+ 4 W 180 6 
+  6 mP/Kl 90  
+  
+Praktikums -
+bericht* (3  S.)  
+ 
+Theoretische Informatik  1 270 9 mP/Kl 90  B 
+ 
+3. Modulbereich Stochastik/Statistik  
+ 
+Modul  Dauer 
+(Semester)  AB LP PL MZ 
+Finanz - und Versicherungs -
+mathematik  1 180 6 mP/Kl 90  E 
+Mathematische Statistik  1 180 6 mP D 
+Multivariate Statistik  1 270 9 mP/Kl 90  E 
+Räumliche Statistik  1 180 6 mP F 
+Spezialvorlesung  I 
+Stochastik/Statistik  1 90 3 mP/Kl 90   
+Spezialvorlesung  II 
+Stochastik/Statistik  
+oder alternativ  
+berufsbezogenes Praktikum (§ 6)  1 
+  4 W 180 6 
+  6 mP/Kl 90  
+ 
+ 
+Praktikums -
+bericht* (3  S.)  
+Spieltheorie  1 180 6 mP/Kl 90  C 
+Stochastische  Modelle  der 
+Biologie  1 180 6 mP/Kl 90  C 
+Stochastische Prozesse  1 180 6 mP F 
+Wahrsche inlichkeitstheorie  1 270 9 mP+Üs*  E 
+Zeitreihenanalyse  1 180 6 mP B 
+ 
+4. Seminarmodule A und B  
+ 
+Modul  Dauer 
+(Semester)  AB 
+(Stunden)  LP PL MZ 
+Seminarmodul A  2 180 6 2 Seminarvorträge 
+ohne schriftliche  
+Ausarbeitung*  G 
+Seminarmodul B  1 180 6 1 Seminarvortra g mit 
+schriftlicher 
+Ausarbeitung*  G 
+ Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 9 5. Modulbereich Ökologie  
+ 
+Modul  Dauer 
+(Semester)  AB LP PL MZ 
+Tierökologie  2 300 10 1 Kl 60  
+1 SV* 
+1 Pr*  AB 
+Pflanzenökologie  2 300 10 2 Kl 60  
+1 SV* AB 
+Mikrobielle Ökologie  2 300 10 2 Kl 60 AB 
+Plant Reproductive Biolo gy 2 300 10 1 Kl 60  
+1 Pr*  CD 
+ 
+6. Modulbereich Molekularbiologie  
+ 
+Modul  Dauer 
+(Semester)  AB LP PL MZ 
+Allgemeine Molekularbiologie (P)  1 300 10 2 Kl 60  
+1 Pr* A 
+Spezielle Molekularbiologie I  1 300 10 1 Kl 60  
+1 Pr*  A 
+Spezielle Molekularbiologie II  2 300 10 1 Kl 9 0 AB 
+Spezielle Molekularbiologie III  2 300 10 1 Kl 60 AB 
+Molekulare Phylogenetik  2 300 10 1 Kl 60  
+1 SV* 
+1 Pr* AB 
+ 
+7. Modulbereich Funktionelle Zellbiologie und Physiologie  
+ 
+Modul  Dauer 
+(Semester)  AB LP PL MZ 
+Tier- und Zellphysiologie (P)  2 300 10 1 Kl 60  
+1 SV* 
+1 Pr*  AB 
+Spezielle Physiologie I  1 300 10 2 Kl 60  
+1 Pr*  A 
+Spezielle Physiologie II  2 300 10 1 Kl 90  
+1 SV* 
+1 Pr*  AB 
+Spezielle Physiologie III  2 300 10 1 Kl 90  
+1 SV* 
+1 Pr*  AB 
+ 
+(3) Die Qualifikationsziele der einzelnen Module ergeben sich aus der Anlage B 
+(Modulkatalog) . 
+ (4) Regelprüfungstermin aller Module (außer der Masterarbeit) ist das Fachsemester, in dem das betreffende Modul angeboten wird.  
+  Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 10 § 9 
+Modulprüfungen  
+ 
+(1) Mit Zustimmung von Prüfer und Prüfling kann eine Modulprüfung auch auf 
+Englisch stattfinden.  
+ (2) Die Modulprüfungen werden in Form einer 30- minütigen mündlichen 
+Prüfungsleistung, einer 60 - oder 90- minütigen Klausur, eines 60- minütigen Vortrages 
+(Seminare) oder in Form von unbenoteten Versuchsprotokollen über eigenständig  
+durchgeführte Experimente in Übungen bzw. Praktika in einem angemessenen Umfang  abgelegt. Für das Seminarmodul B ist weiter eine schriftliche Form des 
+Vortrages zu erstellen. Die Kriterien für den Erhalt eines Übungsscheines legt der Dozent in der ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % 
+der Übungsaufgaben erfolgreich zu bearbeiten.  
+ (3) Besteht eine Modulprüfung aus mehreren Prüfungsleistungen, muss jede 
+mindestens bestanden werden. Nicht bestandene Prüfungsleistungen lassen bestanden e Prüfungsleistungen unberührt.  
+ (4) Soweit eine Wahl zwischen zwei Prüfungsleistungen (mündliche Prüfung oder Klausur) besteht, wird sie vom Prüfer in der ersten Vorlesungswoche getroffen . 
+Erfolgt die Festlegung nicht oder nicht innerhalb der Frist,  gilt die in § 7 zuerst 
+genannte Prüfungsform.  
+ (5) Vor mündlichen Prüfungen ist dem Studierenden die Gelegenheit zur Konsultation einzuräumen.  
+ (6) Klausuren werden nach der Begutachtung an die Studierenden zurückgegeben.  
+ (7) Es liegt in der Freiheit des  Studierenden, aus den Teilbereichen 1 bis 4 (§ 8  
+Absatz 1 Satz 1) Module von mehr als 60 LP zu absolvieren. Insgesamt gehen die 
+bestbewerteten Module aus diesen Bereichen in Höhe von 60 LP in die Gesamtnote ein. Alle darüber hinausgehend absolvierten Module aus diesen Bereichen gelten als Zusatzfächer. Die Zusatzfächer werden ins Zeugnis aufgenommen.  
+ (8) In den Modulprüfungen wird geprüft, ob und inwieweit der Studierende die Qualifikationsziele erreicht hat. Schriftliche Prüfungsleistungen werden von ein em 
+Prüfer bewertet; wenn es sich um den letzten Wiederholungsversuch handelt, ist ein zweiter Prüfer heranzuziehen (§ 20 Absatz 2 RPO). Mündliche Prüfungen werden vor einem Prüfer in Gegenwart eines sachkundigen Beisitzers erbracht.  
+  
+§ 10 
+Masterarbeit  
+ (1) Hat der Studierende mindestens 60 LP erworben, kann er die Ausgabe eines Themas für die Masterarbeit beantragen.  Das Thema der Masterarbeit soll 
+spätestens sechs Monate nach Beendigung der letzten Modulprüfung ausgegeben werden. Beantragt der Studierende das Thema später oder nicht, verkürzt sich die Bearbeitungszeit entsprechend. Der Antrag auf Ausgabe des Themas der Arbeit soll Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 11 spätestens 14 Tage vor dem Beginn der Bearbeitungszeit im Zentralen Prüfungsamt 
+vorliegen (§ 28 Absatz 2 RPO).  
+ (2) Die Masterarbeit wird verteidigt. Für die Masterarbeit sowie deren Verteidigung werden insgesamt 30 LP vergeben. Für die Arbeit werden 28 LP, für die Verteidigung 
+werden 2 LP vergeben. Die Verteidigung besteht aus einem Vortrag von 20 Minuten zu wesentlichen Inhalten der Masterarbeit und einer Diskussion der Ergebnisse und Schlussfolgerungen. Die Verteidigung soll nicht länger als 45 Minuten dauern. Bei Nichtbestehen der Verteidigung kann diese innerhalb von vier Wochen einmal wiederholt werden. Wird die Wiederholung der Verteidigung erneut nicht bestanden, muss auch die Masterarbeit wiederholt werden.  
+ (3) Die Bearbeitungszeit für die Masterarbeit betr ägt 840 Stunden (28 LP) im Verlauf 
+von neun Monaten.  
+ (4) Eine elektronische Fassung ist der Arbeit beizufügen. Zugleich hat der Studierende schriftlich zu erklären, dass von der Arbeit eine elektronische Kopie gefertigt und gespeichert werden darf, um ein e Überprüfung mittels einer 
+Plagiatssoftware zu ermöglichen.  
+  
+§ 11 
+Ersatz biologischer Module  
+ Auf Antrag des Studierenden kann der Prüfungsausschuss genehmigen, dass der 
+Studierende ein biologisches Modul bzw. Teilleistungen eines biologischen Modules 
+im Umfang von bis zu 10 LP durch ein anderes, umfangsgleiches Modul bzw. 
+entsprechende Teilleistungen aus den Bachelorstudiengängen Biologie oder 
+Humanbiologie oder den Masterstudiengängen Biodiversität und Ökologie, Humanbiologie oder Molekularbiologie und Physiologie  ersetzt. Der Antrag ist 
+spätestens bis zur Anmeldung der Masterarbeit an den Vorsitzenden des Prüfungsausschuss es zu richten und beim Zentralen Prüfungsamt einzureichen.  
+  
+§ 12 
+Bildung der Gesamtnote  
+ Für die Masterprüfung wird eine Gesamtnote gebildet. Die Gesamtnote errechnet sich entsprechend § 33 RPO aus den Noten der Modulprüfungen und der Note für 
+die Masterarbeit (inkl. Verteidigung). Aus den Teilbereichen gemäß § 8 Absatz 1 Satz 
+1 Nr. 1 bis 4 gehen gemäß § 9 Absatz 7 lediglich die bestbewerteten Module in Höhe 
+von 60 LP in die Gesamtnote ein. Aus den Teilbereichen gemäß § 8  Absatz 1 Satz 1 
+Nr. 5 bis 7  gehen die Noten aller Module in die Gesamtnote ein. Die Noten für die 
+Modulprüfungen gehen mit dem auf den jeweiligen relativen Anteil an Leistungspunkten bezogenen Gewicht ein, die Note für die Masterarbeit wird dabei 
+mit dem 2 -fachen relativen Anteil gewichtet.
+ 
+  Nichtamtliche Lesefas sung der Prüfungs - und Studienordnung M.Sc. Biomathematik  
+ 12 § 12 
+Akademischer Grad  
+ 
+Aufgrund der bestandenen Masterprüfung wird der akademische Grad eines Master of Science (abgekürzt: „M. Sc.”) vergeben.
+ 
+  
+§ 13 
+Inkrafttreten, Übergangsregelungen  
+ (1) Die Prüfungs - und Studienordnung tritt am Tag nach ihrer hochschulöffent lichen 
+Bekanntmachung in Kraft.  
+ (2) Die Prüfungs - und Studienordnung  gilt erstmals für die Studierenden, die zum 
+Sommer semester 2014 im Masterstudiengang Biomathematik immatrikuliert werden.  
+ (3) Für vor diesem Zeitpunkt immatrikulierte Kandidaten findet sie Anwendung, wenn der Kandidat dieses beantragt. Der Antrag ist schriftlich und bis zum 31.03.2015 beim Zentralen Prüf ungsamt einzureichen und an den Vorsitzenden des 
+Prüfungsausschusses zu richten. Der Antrag ist unwiderruflich.  
+ (4) Die Prüfungsordnung vom 18.05.2011 ( Mittl.bl. BM M -V 2011 S. 445) und  die 
+Studienordnung vom 18.05.2011 (hochschulöffentlich bekannt gemacht am 30.06.2011)  treten zum 30.09.2017 außer Kraft.  
+  Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats vom 
+7. März 2014,  der mit B eschluss des Senats vom 18.  April 2012 gemäß §§ 81 
+Absatz  7 LHG und 20 Absatz 1 Satz 2 der Grundordnung die Befugnis zur 
+Beschlussfassung verliehen wurde, und der Genehm igung der Rektorin vom 28. 
+März 2014.  
+ Greifswald, den 28.03.2014  
+   
+Die Rektorin  
+der Ernst -Moritz -Arndt -Universität Greifswald  
+Universitätsprofessorin Dr. Johanna Eleonore Weber  
+ 
+Veröffentli chungsvermerk: Hochschulöffentlich bekannt gemacht am 02.04.2014  
+ Studienbeginn: gerades Wintersemester, z.B. Wintersemester 2014/2015
+VÜS
+Algorithmik/Komplexitätstheorie 2 4 1mP 6
+Stochastische Modelle in der Biologie 3 22 1mP/Kl90 6
+Computergrafik 2 22 1mP/Kl90 6
+Allgemeine Molekularbiologie 6 43 12 Kl60, Pr* 10
+Molekulare Phylogenetik beginnt 6 11 2Kl60 3
+Kombinatorik 2 4 1mP/Kl90 6
+Bioinformatik 2 22 1mP 6
+Seminar A beginnt 4 22Sems* 3
+Molekulare Phylogenetik endet 6 522Pr*, Sems* 7
+Spezielle Molekularbiologie II beginnt 6 5 2Kl90 7
+Datenbanken 2 22 1mP 6
+Graphentheorie 2 31 1mP/Kl90 6
+Seminar A endet 4 22Sems* 3
+Diskrete Optimierung 2 4 1mP/Kl90 6
+Spezielle Molekularbiologie II endet 6 2 2 3
+Masterarbeit beginnt 2 6
+Randomisierte Algorithmen 2 4 1mP 6
+Masterarbeit abgeschlossen  2 24
+Summe 120
+Legende:
+Teilgebiet 1: Analysis/Optimierung
+Teilgebiet 2: Diskrete Mathematik/Algorithmik/Algebra
+Teilgebiet 3: Stochastik/Statistik
+Art V: Vorlesung (Umfang in SWS)Art Ü: Übung (Umfang in SWS)
+Art S: Seminar (Umfang in SWS)
+Prüfungsart mP/Kl: mündliche Prüfung oder KlausurPrüfungsart mP+Üs/Kl+Üs: mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
+Prüfungsart mP: mündliche Prüfung
+Prüfungsart Sems: SeminarscheinPrüfungsart Ps: Praktikumsschein
+Prüfungsart Pr: Protokolle
+* Prüfungsleistung ist unbenotet
+LP: ECTS-Leistungspunkte
+D: Dauer des zugehörigen Moduls in Semestern
+Biomathematik
+4
+31 29 30 30Prüfungsart LP
+1
+2
+3ArtSemester Veranstaltung Teilgebiet DInstitut für Mathematik und InformatikMATHEMATISCH-NATURWISSENSCHAFTLICHE FAKULTÄTERNST-MORITZ-ARNDT-UNIVERSITÄT GREIFSWALD
+Musterstudienpläne 
+Master of Science
+Musterstudienplan Master Biomathematik
+(Schwerpunkt Diskrete Mathematik/Algorithmik und Molekularbiologie)Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung (mP), einer 60- oder 90-minütigen 
+Klausur (Kl60 bzw. Kl90),  eines 60-minütigen Vortrages (Seminare) (Sems) oder in Form von unbenoteten 
+Versuchsprotokollen (Pr) über eigenständig durchgeführte Experimente in Übungen bzw. Praktika in einem angemessenen 
+Umfang  abgelegt. Für das Seminarmodul B ist weiter eine schriftliche Form des Vortrages zu erstellen. Die Kriterien für den Studienbeginn: gerades Sommersemester, z.B. Sommersemester 2014
+VÜS
+Bild- und Signalanalyse 1 4 1mP 6
+Approximation 1 31 1mP 6
+Theoretische Ökologie 1 4 1mP/Kl90 6
+Praktikum Softwaretechnik 2 13 1Üs* 6
+Tierökologie beginnt 5 25 2Kl60,Pr* 7
+Differentialgleichungen in der Biologie 1 31 1mP 6
+Tierökologie endet 5 1 22Sems* 3
+Pflanzenökologie 5 6 222 Kl60, Sems* 10
+Plant Reproductive Biology 5 45 2Kl60, Pr* 10
+Dynamische Systeme 1 31 1mP 6
+Optimale Steuerung 1 31 1mP/Kl90 6
+Seminar B 4 21Sems*, Ausarb.* 6
+Zeitreihenanalyse 3 22 1mP 6
+Masterarbeit beginnt 2 6
+Nichtlineare Optimierung 1 4 1mP/Kl90 6
+Masterarbeit abgeschlossen  2 24
+Summe 120
+Studienbeginn: ungerades Sommersemester, z.B. Sommersemester 2015
+VÜS
+Zeitreihenanalyse 3 22 1mP 6
+Mathematische Statistik 3 31 1mp 6
+Bild- und Signalanalyse 1 4 1mP 6
+Kombinatorik 2 4 1mP/Kl90 6
+Spezielle Physiologie II beginnt 7 35 2Kl90, Pr* 8
+Multivariate Statistik 3 42 1mP/Kl90 9
+Spezielle Physiologie II endet 7 22Sems* 2
+Spezielle Physiologie I 7 32 12 Kl60, Pr* 10
+Tier- und Zellphysiologie beginnt 7 23 2Kl60,Pr* 7
+Seminar B 4 21Sems*, Ausarb.* 6
+Stochastische Prozesse 3 4 1mP 6
+Funktionalanalysis 1 42 1mP/Kl90, Üs* 9
+Tier- und Zellphysiologie endet 7 22Sems* 3
+Masterarbeit beginnt  2 6
+Stochastische Modelle in der Biologie 3 22 1mP/Kl90 6
+Masterarbeit abgeschlossen 2 24
+Summe 120LP D
+1
+31
+2
+29Semester Veranstaltung TeilgebietArtPrüfungsart
+30
+4
+30
+3
+30DPrüfungsart3Musterstudienplan Master Biomathematik
+(Schwerpunkt Analysis/Optimierung und Ökologie)
+Musterstudienplan Master Biomathematik
+(Schwerpunkt Stochastik/Statistik und Physiologie)
+4
+30LP
+1
+32
+2
+28Semester Veranstaltung TeilgebietArtStudienbeginn: ungerades Wintersemester, z.B. Wintersemester 2015/2016
+VÜS
+Allgemeine Molekularbiologie 6 43 12 Kl60, Pr* 10
+Molekulare Phylogenetik beginnt 6 11 2Kl60 3
+Multivariate Statistik 3 42 1mP/Kl90 9
+Molekulare Evolution 2 22 1mP 6
+Seminar A beginnt 4 22Sems* 3
+Molekulare Phylogenetik endet 6 522Pr*, Sems* 7
+Spezielle Molekularbiologie II beginnt 6 55 2Kl90 7
+Seminar A endet 4 22Sems* 3
+Räumliche Statistik 3 22 1mP 6
+Theoretische Ökologie 1 4 1mP/Kl90 6
+Spezielle Molekularbiologie II endet 6 2 2 3
+Stochastische Modelle in der Biologie 3 22 1mP/Kl90 6
+Spieltheorie 3 31 1mP/Kl90 6
+Datenstrukturen und eff. Algorithmen 2 42 1mP, Üs* 9
+Masterarbeit beginnt 2 6
+Mathematische Statistik 3 31 1mP 6
+Masterarbeit abgeschlossen  2 24
+Summe 1203
+30
+4
+30LP
+1
+31
+2
+29Semester Veranstaltung TeilgebietArtPrüfungsartDMusterstudienplan Master Biomathematik
+(Schwerpunkt Stochastik/Statistik und Molekularbiologie)ERNST -MORITZ -ARNDT -UNIVERSIT ¨ATGREIFSWALD
+MATHEMATISCH -NATURWISSENSCHAFTLICHE FAKULT ¨AT
+Institut f ¨ur Mathematik und Informatik
+Modulkatalog
+Master of Science
+BiomathematikInhaltsverzeichnis
+Analysis / Optimierung 5
+Approximation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 6
+Bild- und Signalanalyse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 7
+Differentialgleichungen in der Biologie . . . . . . . . . . . . . . . . . . . . . . 8
+Dynamische Systeme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 9
+Fourieranalysis / Distributionentheorie . . . . . . . . . . . . . . . . . . . . . . 10
+Funktionalanalysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 11
+Funktionentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 12
+Maß- und Integrationstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . 13
+Nichtlineare Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14
+Numerik II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 15
+Numerik Grundpraktikum . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16
+Optimale Steuerung / Variationsrechnung . . . . . . . . . . . . . . . . . . . . 17
+Partielle Differentialgleichungen . . . . . . . . . . . . . . . . . . . . . . . . . . 18
+Spezialvorlesung I Analysis/Optimierung . . . . . . . . . . . . . . . . . . . . . 19
+Spezialvorlesung II Analysis/Optimierung . . . . . . . . . . . . . . . . . . . . 20
+Theoretische ¨Okologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 21
+Diskrete Mathematik / Algorithmik 22
+Algebra I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 23
+Algebra II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 24
+Algorithmik und Komplexit ¨atstheorie . . . . . . . . . . . . . . . . . . . . . . . 25
+Berechenbarkeitstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 26
+Bioinformatik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 27
+Codierungstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 28
+Computergraﬁk . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 29
+Datenbanken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 30
+Datenstrukturen und efﬁziente Algorithmen . . . . . . . . . . . . . . . . . . . 31
+Diskrete Modellierung in der Biologie . . . . . . . . . . . . . . . . . . . . . . . 32
+Diskrete Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 33
+Graphentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 34
+Kombinatorik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 35
+Mathematische Logik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 36
+Molekulare Evolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 37
+Praktikum Softwaretechnik . . . . . . . . . . . . . . . . . . . . . . . . . . . . 38
+Randomisierte Algorithmen . . . . . . . . . . . . . . . . . . . . . . . . . . . . 39
+Spezialvorlesung I Diskrete Mathematik/Algorithmik . . . . . . . . . . . . . . 40
+Spezialvorlesung II Diskrete Mathematik/Algorithmik . . . . . . . . . . . . . . 41
+Theoretische Informatik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 42
+2Stochastik / Statistik 43
+Finanz- und Versicherungsmathematik . . . . . . . . . . . . . . . . . . . . . . 44
+Mathematische Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 45
+Multivariate Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 46
+R¨aumliche Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 47
+Spezialvorlesung I Stochastik/Statistik . . . . . . . . . . . . . . . . . . . . . . 48
+Spezialvorlesung II Stochastik/Statistik . . . . . . . . . . . . . . . . . . . . . . 49
+Spieltheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 50
+Stochastische Modelle der Biologie . . . . . . . . . . . . . . . . . . . . . . . . 51
+Stochastische Prozesse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 52
+Wahrscheinlichkeitstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . 53
+Zeitreihenanalyse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 54
+Seminarmodule 55
+Seminarmodul A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 56
+Seminarmodul B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 57
+¨Okologie 58
+Tier¨okologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 59
+Pﬂanzen ¨okologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 61
+Mikrobielle ¨Okologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 63
+Plant Reproductive Biology . . . . . . . . . . . . . . . . . . . . . . . . . . . . 66
+Molekularbiologie 68
+Allgemeine Molekularbiologie . . . . . . . . . . . . . . . . . . . . . . . . . . . 69
+Spezielle Molekularbiologie I . . . . . . . . . . . . . . . . . . . . . . . . . . . 71
+Spezielle Molekularbiologie II . . . . . . . . . . . . . . . . . . . . . . . . . . . 73
+Spezielle Molekularbiologie III . . . . . . . . . . . . . . . . . . . . . . . . . . . 75
+Molekulare Phylogenetik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 77
+Funktionelle Zellbiologie und Physiologie 79
+Tier- und Zellphysiologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 80
+Spezielle Physiologie I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 82
+Spezielle Physiologie II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 84
+Spezielle Physiologie III . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 86
+Praktikum / Masterarbeit 88
+Berufsbezogenes Praktikum . . . . . . . . . . . . . . . . . . . . . . . . . . . . 89
+Masterarbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 90
+3Die Modulpr ¨ufungen werden in Form einer 30-min ¨utigen m ¨undlichen Pr ¨ufungsleistung,
+einer 60- oder 90-min ¨utigen Klausur oder eines 60-min ¨utigen Vortrages (Seminare)
+abgelegt. F ¨ur das Seminarmodul B ist weiter eine schriftliche Form des Vortrages zu
+erstellen. Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der Dozent in der ers-
+ten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der ¨Ubungsaufgaben
+erfolgreich zu bearbeiten. ¨Ubungsscheine, Seminarscheine und Protokolle zu ¨Ubungen
+bzw. zu Praktika sind unbenotete Pr ¨ufungsleistungen.
+4Analysis / OptimierungModul Approximation
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Inhalt
+Approximation in normierten R ¨aumen
+stetige und diskrete Approximation
+Interpolation und Splines
+Parameterbestimmung
+Qualiﬁkationsziele
+Kenntnis der grundlegenden Aufgaben der Approximationstheorie,
+Kenntnis der wichtigen Resultate in Hilbertr ¨aumen,
+Beherrschung der Methoden zur Bestimmung von besten Approximationen,
+F¨ahigkeiten zur Bestimmung der Approximationsg ¨ute,
+Kompetenzen in der Anwendung geeigneter Methoden in der Praxis.
+Vorkenntnisse Analysis I,II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die aktive Teilnahme an den ¨Ubungen
+wird erwartet. Die Inhalte von Vorlesung und ¨Ubung sind
+Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15 Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+6Modul Bild- und Signalanalyse
+Verantwortlicher Professur Biomathematik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Inhalt
+Schnelle Fouriertransformation
+Fourierreihen
+Fouriertransformation
+Wavelets
+Mathematische Morphologie
+Qualiﬁkationsziele
+umfassende Kenntnisse der grundlegenden mathematischen Eigenschaften der
+verschiedenen Transformationen,
+sichere Auswahl der unterschiedlichen Transformationen gem ¨aß ihres Anwen-
+dungsfeldes,
+Beherrschung der grundlegenden mathematischen Strukturen zur numerischen
+Umsetzung der Transformationen.
+Vorkenntnisse Analysis I, II, Gew ¨ohnliche Differentialgleichungen, Lineare
+Algebra I,II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+7Modul Differentialgleichungen in der Biologie
+Verantwortlicher Professur Biomathematik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Stabilit ¨at f¨ur gew ¨ohnliche Differentialgleichungen
+Bifurkationstheorie gew ¨ohnlicher Differentialgleichungen
+Beispiele f ¨ur Bifurkationen
+Verz ¨ogerte Differentialgleichungen
+Reaktions-Diffusionsgleichungen
+Qualiﬁkationsziele
+sicheres Anwenden der unterschiedlichen Stabilit ¨atskriterien,
+Unterscheidung der grundlegenden Bifurkationstypen gew ¨ohnlicher Differential-
+gleichungen sowie ihre Einordnung gem ¨aß ihrer Bedeutung f ¨ur die Modellierung,
+Durchf ¨uhrung komplexer Stabilit ¨ats- und Bifurkationsanalysen f ¨ur gew ¨ohnliche,
+verz¨ogerte und partielle Differentialgleichungen, auch in Gruppen.
+Vorkenntnisse Analysis I, II, Gew ¨ohnliche Differentialgleichungen, Lineare
+Algebra I,II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die aktive Teilnahme an den ¨Ubungen
+wird erwartet. Die Inhalte von Vorlesung und ¨Ubung sind
+Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+8Modul Dynamische Systeme
+Verantwortlicher Professur Stochastik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Inhalt
+Grundlagen der Dynamischen Systeme:
+Iteration reeller und komplexer Abbildungen, Bahnen, periodische Punk-
+te,Grenzverhalten
+Abbildungen auf metrischen R ¨aumen, Fixpunktsatz, Attraktoren
+maßerhaltende Abbildungen, Rekurrenz, Ergodens ¨atze
+Lineare und nichtlineare Differenzialgleichungen
+Verhalten an kritischen Punkten, Bifurkationen
+chaotische Systeme und ihre Charakteristika
+Qualiﬁkationsziele
+Kenntnis einer ¨ubergreifenden Theorie, die verschiedene Gebiete der Stochastik
+und Analysis verbindet,
+Vertiefte und erweiterte Kenntnisse aus den Gebieten Analysis, lineare Algebra,
+Stochastik und Differenzialgleichungen und Kenntnis der Querverbindungen,
+Grundlegende Kenntnisse f ¨ur m ¨ogliche weitere Module wie stochastische Pro-
+zesse und Zeitreihenanalyse und Beherrschung unterschiedlicher Sichtweisen,
+Beherrschung der abstrakten geometrischen Sprache und Denkweise, die kom-
+plexe Systeme auf ihre wesentlichen Eigenschaften reduziert,
+Bef¨ahigung, die praktische und gesellschaftliche Relevanz von dynamischen Pro-
+zessen zu beurteilen,
+Bef¨ahigung zur Erkundung komplexer Systeme durch Computerexperimente in
+den ¨Ubungen.
+Vorkenntnisse Analysis I, II, Stochastik, gew ¨ohnliche Differentialgleichun-
+gen, Mathematische Biologie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die aktive Teilnahme an den ¨Ubungen
+wird erwartet. Die Inhalte von Vorlesung und ¨Ubung sind
+Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+9Modul Fourieranalysis / Distributionentheorie
+Verantwortlicher Professur Analysis
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Inhalt
+Konvergenz von Fourierreihen
+Faltungsprodukte
+Fourierinversionsformel, Satz von Plancherel
+Testfunktionenr ¨aume und Distributionen
+Schwartzraum, temperierte Distributionen und deren Fouriertransformation
+Sobolevr ¨aume, das Konzept schwacher Ableitungen, Einbettungss ¨atze, Hilber-
+traummethoden
+Anwendungen der Theorie auf partielle Differentialgleichungen, insbesondere
+solcher aus der mathematischen Physik, Fundamentall ¨osungen
+Anwendungen in der Variationsrechnung, Formulierung von Randwertproblemen
+Qualiﬁkationsziele
+fundierte Kenntnisse ¨uber die Fouriertransformation und Sicherheit im Umgang
+mit dem Distributionenkalk ¨ul,
+Kompetenz in den wesentlichen Beweistechniken und L ¨osungsstrategien der
+Fourieranalysis,
+Bef¨ahigung zur Abstraktion und zur Verwendung mathematischer Arbeitsweisen
+wie das Umsetzen mathematischer Intuition in formale Begr ¨undungen und die
+mathematische Modellierung physikalischer Probleme,
+Bef¨ahigung zum Studium von Forschungsliteratur ¨uber partielle Differentialglei-
+chungen und harmonische Analysis,
+Kenntnisse ¨uber Querverbindungen und den Erfolg des Zusammenwirkens von
+Methoden aus unterschiedlichen Bereichen (etwa der Analysis, Funktionentheo-
+rie und Funktionalanalysis).
+Vorkenntnisse Analysis I, II; Maß- und Integrationstheorie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+10Modul Funktionalanalysis
+Verantwortlicher Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Inhalt
+Banachr ¨aume, Folgenr ¨aume, Dualr ¨aume, Hilbertr ¨aume
+Prinzipien der Funktionalanalysis
+kompakte Operatoren
+Spektraltheorie beschr ¨ankter Operatoren
+Resolventen
+symmetrische Operatoren
+Funktionalkalk ¨ul
+unbeschr ¨ankte Operatoren
+Qualiﬁkationsziele
+fundierte Kenntnisse der typischen Probleme der unendlich dimensionalen Theo-
+rie und deren Anwendungen,
+Wissen ¨uber die enge Verzahnung von Reiner und Angewandter Mathematik
+(mathematische Physik, Signaltheorie),
+Bef¨ahigung zu mathematischen Arbeitsweisen (Entwicklung mathematischer In-
+tuition und deren formale Begr ¨undung, Schulung des Abstraktionsverm ¨ogens,
+Beweisf ¨uhrung),
+Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Vorkenntnisse Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die Kriterien
+f¨ur den Erhalt eines ¨Ubungsscheines legt der Dozent in der
+ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+sind 50 % der ¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+11Modul Funktionentheorie
+Verantwortlicher Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe gerade Jahre
+Inhalt
+Komplexe Differenzierbarkeit, Cauchy-Riemannsche Differentialgleichungen, ho-
+lomorphe Funktionen
+Potenzreihen, analytische Funktionen
+komplexe Kurvenintegrale, Cauchyscher Integralsatz, Cauchysche Integralformel
+Potenzreihenentwicklung, Singularit ¨aten, Laurententwicklung, meromorphe
+Funktionen
+Residuensatz und seine Anwendungen
+Weierstraßscher Produktsatz, Satz von Mittag-Lefﬂer
+elliptische Funktionen
+Qualiﬁkationsziele
+Beherrschung einer eleganten mathematischen Theorie,
+Kenntnisse ¨uber die Anwendung komplex-analytischer Methoden zur L ¨osung von
+Problemen der reellen Analysis,
+vertieftes Verst ¨andnis f ¨ur die elementaren Funktionen durch die Sicht der kom-
+plexen Analysis,
+erweitertes Verst ¨andnis f ¨ur den Aufbau und die Methodik der Mathematik, an-
+hand der geschichtlichen Entwicklung dieses mathematischen Gebietes,
+Beherrschung mathematischer Arbeitsweisen (Entwicklung mathematischer In-
+tuition und deren formale Begr ¨undung, Schulung des Abstraktionsverm ¨ogens,
+Beweisf ¨uhrung),
+Bef¨ahigung zur m ¨undlichen Kommunikation und wissenschaftlichen Diskussion.
+Vorkenntnisse Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+12Modul Maß- und Integrationstheorie
+Verantwortlicher Professur Analysis, Professur Biomathematik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Grundlagen der Maß- und Integrationstheorie:
+Konstruktion von Maßen
+Lebesguesche Integrationstheorie
+Produktmaße, Satz von Fubini
+Darstellungss ¨atze (Riesz, Radon-Nikodym)
+Lp-R¨aume
+Weiterf ¨uhrende Themen, z.B.
+Lebesgue-Integral auf Untermannigfaltigkeiten des Rn, Differentialformen und
+der Satz von Stokes
+Desintegration und bedingte Erwartungswerte
+Qualiﬁkationsziele
+Kenntnis der St ¨arken und Anwendungen eines abstrakten Maß- und Integrati-
+onsbegriffs als Grundlage f ¨ur ein fortgeschrittenes Studium der Stochastik und
+Analysis,
+Beherrschung der typischen analytischen und stochastischen Begriffsbildungen
+und Verst ¨andnis ihrer Zusammenh ¨ange,
+Beherrschung fortgeschrittener Beweistechniken,
+Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Vorkenntnisse Analysis I, II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die Kriterien
+f¨ur den Erhalt eines ¨Ubungsscheines legt der Dozent in der
+ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+sind 50 % der ¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+13Modul Nichtlineare Optimierung
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Notwendige und hinreichende Bedingungen zur L ¨osung von unbeschr ¨ankten und
+beschr ¨ankten, nichtlinearen Optimierungsproblemen (Karush-Kuhn-Tucker Theo-
+rie)
+Methoden zur numerischen L ¨osung von entsprechenden, glatten Problemen
+Abstiegsverfahren
+Trust-Region-Verfahren
+Penalty-Verfahren
+Aktive-Mengen-Strategie und SQP-Verfahren
+Qualiﬁkationsziele
+grundlegende Kenntnisse der Optimierungstheorie,
+F¨ahigkeiten zur numerischen L ¨osung von Optimierungsproblemen,
+Verst ¨andnis f ¨ur die Relevanz von Optimierungsaufgaben f ¨ur zahlreiche prakti-
+sche Fragestellungen,
+Kompetenzen in der Klassiﬁkation konkreter Aufgaben und der geeigneten Me-
+thodenwahl.
+Vorkenntnisse Analysis I, II; Lineare Algebra I, II; Optimierung
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+14Modul Numerik II
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Numerik partieller Differentialgleichungen
+Methoden f ¨ur elliptische, parabolische und hyperbolische Probleme
+Iterative L ¨osung großer Gleichungssysteme
+Numerik von Eigenwertaufgaben
+Qualiﬁkationsziele
+Beherrschung der grundlegenden Methoden zur numerischen L ¨osung von parti-
+ellen Differentialgleichungen,
+Kompetenzen in der Auswahl geeigneter Verfahren f ¨ur konkrete Aufgabenstellun-
+gen,
+Beherrschung der Konvergenztheorie und der Methoden der Fehlerkontrolle,
+Kompetenz in der Umsetzung von numerischen Verfahren in efﬁziente Software
+(große Gleichungssysteme),
+Kenntnis der Querverbindungen zu anderen Bereichen wie Analysis, Algebra,
+Geometrie u.v.m.,
+Beherrschung der wichtigsten Methoden zur Berechnung von Eigenwerten,
+Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und wissenschaft-
+liche Diskussion ( ¨Ubungen).
+Vorkenntnisse Numerik I
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die Kriterien
+f¨ur den Erhalt eines ¨Ubungsscheines legt der Dozent in der
+ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+sind 50 % der ¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+15Modul Numerik Grundpraktikum
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Methoden zur numerischen L ¨osung von Anfangswertproblemen bei
+gew¨ohnlichen Differentialgleichungen
+efﬁziente Einschrittverfahren (Runge-Kutta Verfahren) mit Schrittweitensteuerung
+efﬁziente Mehrschrittverfahren mit Schrittweiten- und Ordnungssteuerung
+Konvergenztheorie
+implizite Methoden f ¨ur steife Probleme
+Qualiﬁkationsziele
+Kenntnisse zum Anwendungsbereich der gew ¨ohnlichen Differentialgleichungen,
+Bef¨ahigung zur kritischen Bewertung numerischer Ergebnisse,
+Kompetenzen bei der Auswahl geeigneter L ¨osungsmethoden,
+Kompetenzen zur Entwicklung numerischer Software f ¨ur Anfangswertaufgaben,
+Kompetenzen zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse.
+Vorkenntnisse Analysis I, II; Lineare Algebra I, II; Numerik I
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die Kriterien
+f¨ur den Erhalt eines ¨Ubungsscheines legt der Dozent in der
+ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+sind 50 % der ¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+16Modul Optimale Steuerung / Variationsrechnung
+Verantwortlicher Professur Angewandte Mathematik, Professur Numerische
+Mathematik und Optimierung
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Inhalt
+Variationsprobleme ohne Nebenbedingungen - Notwendige Bedingungen 1. Ord-
+nung
+Nebenbedingungen in Integralform, in Form von Differentialgleichungen und in
+Form von Ungleichungen
+Optimalsteuerungsprobleme und L ¨osung von Mehrpunkt-Randwertproblemen
+Notwendige Bedingungen 2. Ordnung
+Hinreichende Bedingung von Weierstraß.
+Qualiﬁkationsziele
+Beherrschung der grundlegenden Methoden der Variationsrechnung in einem
+systematischen Aufbau,
+Kenntnis der notwendigen Bedingungen im Falle von Nebenbedingungen,
+Beherrschung der numerischen Verfahren zur L ¨osung der resultierenden Rand-
+wertprobleme,
+Verst ¨andnis der ¨Ubereinstimmungen mit und Unterschiede zu Optimierungspro-
+blemen im endlich-dimensionalen Raum,
+Bef¨ahigung zur Bearbeitung anwendungsorientierter Fragestellungen mit ent-
+sprechender Software,
+Bef¨ahigung zur m ¨undlichen Kommunikation und fachlichen Diskussion.
+Vorkenntnisse Analysis I, II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+17Modul Partielle Differentialgleichungen
+Verantwortlicher Professur Analysis
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Partielle Differentialgleichungen 1. Ordnung:
+Charakteristikenmethode
+Vollst ¨andiges Integral
+Hamilton-Jacobi-Theorie
+Partielle Differentialgleichungen 2. Ordnung:
+Laplace-Gleichung (Fundamentall ¨osung, Darstellungsformeln, Greensche Funk-
+tion, Dirichlet-Problem f ¨ur die Kugel, Maximumprinzip)
+W¨armeleitungsgleichung (Fundamentall ¨osung, Anfangs-Randwertproblem, Ma-
+ximumprinzip)
+Wellengleichung (Anfangswertproblem, Duhamelsches Prinzip)
+Hilbertraummethoden bei elliptischen Randwertproblemen (Einf ¨uhrung)
+Qualiﬁkationsziele
+Kenntnisse ¨uber die fundamentalen Typen von Differentialgleichungen (Laplace-
+gleichung, W ¨armeleitungsgleichung, Wellengleichung),
+Bef¨ahigung, Probleme mathematisch mit Hilfe partieller Differentialgleichungen
+zu formulieren,
+Beherrschung analytischer L ¨osungsmethoden,
+Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Vorkenntnisse Analysis, Gew ¨ohnliche Differentialgleichungen
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+18Modul Spezialvorlesung I Analysis/Optimierung
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Professur
+Algebraische Methoden der Analysis
+Lehrformen Vorlesung (2 SWS)
+Dauer/Turnus 1 Sem., nach Bedarf
+Inhalt
+Spezielle Themen aus Analysis / Optimierung
+Qualiﬁkationsziele
+Vertiefte Kenntnisse und erweiterte Kompetenzen in einem ausgew ¨ahlten Spezialge-
+biet.
+Vorkenntnisse Analysis, Lineare Algebra und analytische Geometrie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte 3
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+19Modul Spezialvorlesung II Analysis/Optimierung
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Professur
+Algebraische Methoden der Analysis
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., nach Bedarf
+Inhalt
+Spezielle Themen aus Analysis / Optimierung
+Qualiﬁkationsziele
+Umfangreiche, vertiefte Kenntnisse und umfassende Kompetenzen in einem aus-
+gew¨ahlten Spezialgebiet.
+Vorkenntnisse Analysis, Lineare Algebra und analytische Geometrie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+20Modul Theoretische ¨Okologie
+Verantwortlicher Professur Biomathematik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Inhalt
+Modellierungsprinzipien, Wachstumsraten
+Modelltypen und ihre Anwendungsbereiche
+Wachstum einer Population, logistisches Wachstum, Fischfang- und Ernteszena-
+rien als Optimierungsprobleme
+Konkurrenz, R ¨auber-Beute und Symbiose-Modelle
+Metapopulationen
+Qualiﬁkationsziele
+umfassende Kenntnisse zu Modellen in der Populations ¨okologie,
+erweiterte F ¨ahigkeiten in der Analyse von Differentialgleichungs- und stochasti-
+schen Modellen
+Kompetenzen zur selbstst ¨andigen Auswahl von ad ¨aquaten Modellen und
+Bef¨ahigung zur Interpretation der Ergebnisse,
+Vorkenntnisse Mathematische Biologie, Differentialgleichungen in der Bio-
+logie, Stochastische Modelle in der Biologie
+Pr ¨ ufung 90-min ¨utige Klausur oder 30-min ¨utige m ¨undliche Pr ¨ufung
+nach Vorgabe des Dozenten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+21Diskrete Mathematik / AlgorithmikModul Algebra I
+Verantwortlicher Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Gruppen: Satz von Lagrange, Normalteiler und Faktorgruppen, Isomorphies ¨atze,
+zyklische Gruppen, endliche abelsche Gruppen, Permutationsgruppen, Sylow-
+sche S ¨atze
+Ringe : Ideale und Faktorringe, Polynomringe, euklidische Ringe, Hauptidealrin-
+ge, Teilbarkeit, Quotientenk ¨orper, faktorielle Ringe
+K¨orper: K ¨orpererweiterungen
+Qualiﬁkationsziele
+Verst ¨andnis grundlegender Prinzipien algebraischer Strukturen,
+Verst ¨andnis f ¨ur die Anwendbarkeit und den Nutzen algebraischer Strukturen in
+vielen Bereichen der Mathematik,
+vertieftes Verst ¨andnis und Bef ¨ahigung zur Verwendung der algebraischen Kon-
+zepte Gruppen, Ringe, K ¨orper und der Begriffe wie Faktorisierung und Teilbarkeit
+im abstrakten Kontext,
+Beherrschung von Methoden des axiomatischen Vorgehens,
+Bef¨ahigung zu mathematischen Arbeitsweisen (Entwickeln mathematischer Intui-
+tion und deren formale Begr ¨undung, Schulung des Abstraktionsverm ¨ogens),
+Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion
+(¨Ubungen).
+Vorkenntnisse Lineare Algebra I, II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die Kriterien
+f¨ur den Erhalt eines ¨Ubungsscheines legt der Dozent in der
+ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+sind 50 % der ¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+23Modul Algebra II
+Verantwortlicher Professur Analysis, Professur Algebra und funktionalanalyti-
+sche Anwendungen
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Inhalt
+Lie-Algebren: Nilpotente und auﬂ ¨osbare Lie-Algebren, Satz von Engel, Satz von
+Lie, Kriterium von Cartan, Halbeinfache Lie-Gruppen, Kriterium f ¨ur Halbeinfach-
+heit, Klassiﬁkation und Darstellungstheorie halbeinfacher Lie-Algebren
+oder
+Darstellungstheorie: Darstellungstheorie endlicher Gruppen, vollst ¨andige Redu-
+zibilit ¨at; Schursches Lemma, Charaktere, irreduzible Darstellungen der symme-
+trischen Gruppen, Y oung-Tableaux, Darstellungstheorie der klassischen Matrix-
+Gruppen, Klassische Gruppen, irreduzible Darstellungen der klassischen Grup-
+pen
+Qualiﬁkationsziele
+Kenntnis der Algebraisierung eines fundamentalen Symmetriebegriffes,
+Kenntnis ¨uber das Zusammenwirken geometrischer und algebraischer Metho-
+den,
+Beherrschung des grundlegenden Begriffs der Darstellung und seiner Anwen-
+dungen in vielen Gebieten der Mathematik und Naturwissenschaften (Algebra,
+Operatoralgebren, Physik, Chemie),
+F¨ahigkeit zur eigenst ¨andigen Entwicklung komplexer mathematischer Modelle,
+souver ¨ane Beherrschung mathematischer Arbeitsweisen (Entwicklung mathe-
+matischer Intuition und deren formale Begr ¨undung, Schulung des Abstraktions-
+verm ¨ogens, Beweisf ¨uhrung),
+Kommunikationsf ¨ahigkeit in wissenschaftlicher Diskussion ( ¨Ubung).
+Vorkenntnisse Analysis I, II, Algebra I
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die Kriterien
+f¨ur den Erhalt eines ¨Ubungsscheines legt der Dozent in der
+ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+sind 50 % der ¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+24Modul Algorithmik und Komplexit ¨atstheorie
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe gerade Jahre
+Inhalt
+Motivation und Praxisrelevanz der Thematik
+Komplexit ¨atsklassen, Hierarchie- und Separationss ¨atze
+nichtdeterministische Maschinen und Komplexit ¨atsklassen
+D-ND-Resultate bez ¨uglich der Raumkomplexit ¨at
+Reduzierbarkeitsrelationen und vollst ¨andige Probleme
+NP-vollst ¨andige Probleme und die P-NP-Problematik
+vollst ¨andige Probleme f ¨ur andere Komplexit ¨atsklassen
+weitere Themen der strukturellen Komplexit ¨atstheorie
+Anwendungen auf Optimierungs- und DV-Probleme
+Qualiﬁkationsziele
+Kenntnis der grundlegenden Ergebnisse der strukturellen Komplexit ¨atstheorie,
+Beherrschung der wesentlichen Techniken der Komplexit ¨atstheorie,
+Kompetenz in Entwurf und Analyse von Algorithmen,
+F¨ahigkeiten in der Anwendung der Konzepte der theoretischen Informatik auf ma-
+thematische und informatische Probleme.
+Vorkenntnisse Vorlesungen ”Theoretische Informatik” und ”Datenstrukturen
+und efﬁziente Algorithmen”
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+25Modul Berechenbarkeitstheorie
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Qualiﬁkationsziele
+Kompetenz in der Einordnung und Anwendung von Ergebnisse und Techniken
+der Berechenbarkeitstheorie im ¨Uberschneidungsgebiet von mathematischer Lo-
+gik und theoretischer Informatik,
+Kompetenz in der Beurteilung der G ¨odelschen Ergebnisse,
+Beherrschung des sicheren Umgangs mit Fragen der Effektivit ¨at und Formalisier-
+barkeit.
+Inhalt
+Berechenbarkeit: grundlegende Eigenschaften und Beziehungen
+Nummerierungen, insbesondere G ¨odelnummerierungen
+Reduzierbarkeit von Entscheidungsproblemen durch Abbildungen
+Turing-Reduzierbarkeit und Arithmetische Hierarchie
+Anwendungen in Logik und Grundlagen der Mathematik, insbesondere
+G¨odelscher Unvollst ¨andigkeitssatz
+Analytische Hierarchie und Berechenbarkeit h ¨oherer Stufe
+Weitere Ausblicke und Anwendungen
+Vorkenntnisse Vorlesungen zur theoretischen Informatik und Grundvorle-
+sungen zur Analysis und Algebra.
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+26Modul Bioinformatik
+Verantwortlicher Professur Bioinformatik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Inhalt
+Probabilistische Modelle der Bioinformatik (CRFs, HMMs, graphische Modelle)
+Parametersch ¨atzung (Baum-Welch und EM-Algorithmus)
+Strukturbioinformatik (3D-Struktur, Interface, Docking)
+Quantiﬁzierung von Transkripten und Expressionsanalyse (RNA-Seq)
+Methoden zur Evaluierung von Vorhersagen und Klassiﬁkationen (ROC-Analyse,
+Kreuzvalidierung)
+Qualiﬁkationsziele
+F¨ahigkeit, eigene Modelle zu neuen biologischen Problemen aufzustellen, ihre
+Parameter zu sch ¨atzen und ihre Efﬁzienz auf Testdaten zu evaluieren.
+Bef¨ahigung, Expressionsanalysen auf in der Praxis typischen Daten durch-
+zuf¨uhren.
+Beherrschung des Umgangs mit aktuellen Bioinformatik-Tools.
+Vorkenntnisse Genomanalyse, Bioinformatisches Praktikum, Stochastik
+Pr ¨ ufung Die Modulpr ¨ufung ist eine 30-min ¨utige m ¨undliche Pr ¨ufung
+des Stoffes der Vorlesung und ¨Ubung. Die aktive Teilnahme
+an den ¨Ubungen wird erwartet.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+27Modul Codierungstheorie
+Verantwortlicher Professur Algebra und funktionalanalytische Anwendungen,
+Professur Biomathematik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe ungerade Jahre
+Inhalt
+Lineare Codes, zyklische Codes, quadratische Reste-Codes
+Codierung und Decodierung
+Fehlerkorrigierende und -erkennende Codes
+Geometrische Codierung, doppelperiodische Funktionen
+Elemente der Kryptographie, assymetrische Codierung
+Qualiﬁkationsziele
+fundiertes Verst ¨andnis f ¨ur die grundlegenden Prinzipien der Codierung,
+Kenntnisse ¨uber die Anwendung von Algebra (z. B. Galois-Felder) und Analysis
+(z. B. p-Funktion von Weierstraß) in der Codierung.
+Vorkenntnisse Algebra, Funktionentheorie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+28Modul Computergraﬁk
+Verantwortlicher Professur Informatik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe gerade Jahre
+Inhalt
+Mathematische Grundlagen der Computergraﬁk,
+menschliche Farbwahrnehmung,
+Theorie der Bildentstehung,
+OpenGL,
+objektorientierten Graﬁkprogrammierung,
+Dateiformate,
+OpenGLSL
+Qualiﬁkationsziele
+Verst ¨andnis f ¨ur die im Kontext der graﬁschen Darstellung auftretenden Problem-
+stellungen,
+Bef¨ahigung zur L ¨osung entsprechender Probleme mit aktuellen Bibliotheken,
+vertiefte praktische Kompetenzen in der Bearbeitung von Programmieraufgaben
+und Verwendung von u.a. OpenGL.
+Vorkenntnisse Algorithmen und Programmierung, Lineare Algebra und ana-
+lytische Geometrie, Praxis des Programmierens
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+29Modul Datenbanken
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe ungerade Jahre
+Inhalt
+Datenbankarchitektur
+relationales Datenmodell
+Datenbankabfragesprache SQL
+Entity-Relationship-Modell
+Normalformen
+Dateiorganisation und Indizes
+XML
+Datenbankanwendungen
+Qualiﬁkationsziele
+Bef¨ahigung zum Entwurf eines relationalen Datenbankschemas,
+Kompetenz zur Bewertung eines solchen anhand von objektiven Kriterien wie
+funktionellen Abh ¨angigkeiten,
+Kompetenz zur Formulierung von Datenbankabfragen, auch bei Verkn ¨upfung
+mehrerer Tabellen,
+Kenntnis der Datenstrukturen und Methoden, mit denen eine Datenbank intern
+die Daten organisiert, unter Ber ¨ucksichtigung von Datensicherheit beim Ausfall
+von Hardware,
+Kompetenz zur Implementierung von Datenbankanwendungen in wenigstens ei-
+ner Programmiersprache.
+Vorkenntnisse Einf¨uhrung in die EDV, Algorithmen und Programmierung
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die aktive Teilnahme an den ¨Ubungen
+wird erwartet. Die Inhalte von Vorlesung und ¨Ubung sind
+Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Spezialvorlesung Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+30Modul Datenstrukturen und efﬁziente Algorithmen
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+komplexere Datenstrukturen und deren Analyse (Hashing, Heaps,
+h¨ohenbalancierte Suchb ¨aume)
+Algorithmen zur Suche in Strings
+fortgeschrittene Analysetechniken (amortisierte Analyse)
+Probleme der kombinatorischen Optimierung (k ¨urzeste Wege in Netzwerken, mi-
+nimale Spannb ¨aume, Matchings, Netzwerkﬂuss)
+Strategien zur L ¨osung NP-schwerer Probleme (Approximationsalgorithmen, pa-
+rametrisierte Algorithmen)
+Implementation einzelner Datenstrukturen und Algorithmen
+Qualiﬁkationsziele
+¨Uberblick ¨uber wichtige komplexere algorithmische Probleme und Datenstruktu-
+ren,
+F¨ahigkeit zur Analyse ihrer Leistungsf ¨ahigkeit,
+Verst ¨andnis f ¨ur die grunds ¨atzlichen Schwierigkeiten beim Entwurf von Algorith-
+men f ¨ur NP-schwere Probleme,
+Kompetenz zum selbst ¨andigen Entwurf und der Analyse von Algorithmen f ¨ur sol-
+che Probleme,
+F¨ahigkeit zum Verwenden von online verf ¨ugbaren Quelltextbibliotheken.
+Vorkenntnisse Algorithmen und Programmierung, Theoretische Informatik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die Kriterien f ¨ur den Erhalt eines
+¨Ubungsscheines legt der Dozent in der ersten Vorlesungs-
+woche fest. Erfolgt keine Festlegung, so sind 50 % der
+¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+31Modul Diskrete Modellierung in der Biologie
+Verantwortlicher Professur Diskrete Biomathematik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Inhalt
+Yule B ¨aume und Coalescent B ¨aume
+Genbaum-Speziesbaum-Konﬂikte
+Phylogenetische Netzwerke
+Algebraische Eigenschaften von Markovprozessen auf B ¨aumen
+Neuronale Netze
+Qualiﬁkationsziele
+Vertrautheit mit den grundlegenden Konzepten der diskreten Modellierung verschiede-
+ner biologischer Sachverhalte mit den St ¨arken und Schw ¨achen der jeweiligen Modelle.
+Vorkenntnisse keine
+Pr ¨ ufung 90-min ¨utige Klausur oder 30-min ¨utige m ¨undliche Pr ¨ufung
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+32Modul Diskrete Optimierung
+Verantwortlicher Professur Biomathematik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe ungerade Jahre
+Inhalt
+B¨aume, Wege, Fl ¨usse, Paarungen, Stabile Mengen in Graphen
+Approximationsalgorithmen
+LP-artige Probleme
+Ganzzahlige LP-Probleme
+Schnittebenenverfahren
+Branch and Bound
+Qualiﬁkationsziele
+Vertiefte Kenntnisse zu modernen L ¨osungsalgorithmen f ¨ur Probleme der Diskre-
+ten Optimierung,
+Kenntnis exemplarischer Ans ¨atze zur approximativen L ¨osung schwieriger Proble-
+me der Diskreten Optimierung.
+Vorkenntnisse Optimierung
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+33Modul Graphentheorie
+Verantwortlicher Professur Stochastik, Professur Diskrete Biomathematik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe ungerade Jahre
+Inhalt
+Grundlegende graphentheoretische Konzepte und Eigenschaften von Graphen:
+Beispiele und Fragen zu ungerichteten und gerichteten Graphen
+B¨aume, K ¨urzeste Wege, aufspannende B ¨aume
+Eulersche und Hamiltonsche Graphen
+F¨arbungen von Graphen
+Matchings und bipartite Graphen
+Weiterf ¨uhrende Themen, z.B.
+Planare Graphen, Vierfarbenproblem, Eulersche Formel
+Fl¨usse in Netzwerken
+Beispiele und Probleme komplexer Netzwerke
+Qualiﬁkationsziele
+Kenntnis der grundlegenden Begriffe der Graphentheorie,
+Beherrschung der prinzipiellen Techniken (Algorithmen) zum Z ¨ahlen, zur Para-
+meterbestimmung und zur Optimierung graphentheoretischer Strukturen,
+Beherrschung verschiedener kombinatorische Beweistechniken,
+grundlegende Kenntnisse in der Topologie von Fl ¨achen.
+Vorkenntnisse Elementare Kombinatorik, Lineare Algebra, Algorithmik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+34Modul Kombinatorik
+Verantwortlicher Professur Stochastik, Professur Biomathematik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Inhalt
+W¨orter, Auswahlen, Teilmengen, Z ¨ahlprinzipien
+Abz¨ahlprobleme f ¨ur Permutationen
+Rekursionen
+Summationen, Erzeugende Funktionen
+Differenzenrechnungen, Diskrete Intergration, Inversionen
+Muster, Abz ¨ahlung von Mustern
+Orthogonale lateinische Quadrate, Blockpl ¨ane, afﬁne Geometrien
+Qualiﬁkationsziele
+fundiertes Verst ¨andnis f ¨ur die grundlegenden Prinzipien der Kombinatorik,
+Beherrschung von algebraischen Methoden zum Zwecke der L ¨osung kombinato-
+rischer Probleme.
+Vorkenntnisse Algebra
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+35Modul Mathematische Logik
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Inhalt
+Syntax, Semantik und Beweiskalk ¨ule der Aussagenlogik und der Pr ¨adikatenlogik
+erster Stufe
+Vollst ¨andigkeitss ¨atze, insbesondere G ¨odelscher Vollst ¨andigkeitssatz
+Kompaktheitss ¨atze und Anwendungen/Folgerungen
+elementare und nichtelementare Theorien und Modellklassen
+Motivationen aus und Anwendungen in der Mathematik
+Qualiﬁkationsziele
+Kenntnis und Beherrschung grundlegender Pr ¨azisierungstechniken f ¨ur die Syn-
+tax und Semantik logischer Systeme,
+vertiefte Beherrschung der mathematischen Fachsprache,
+Kompetenzen bei der Bewertung mathematischer Beweismethoden,
+erweitertes Verst ¨andnis f ¨ur das Wechselspiel zwischen mathematischer Intuition
+und ihrer Pr ¨azisierung durch formale Systeme,
+Verst ¨andnis f ¨ur die Bedeutung grundlegender Erkenntnisse der mathematischen
+Logik (Kompaktheit, Vollst ¨andigkeit, Unvollst ¨andigkeit) f ¨ur die Mathematik.
+Vorkenntnisse Analysis, Lineare Algebra und analytische Geometrie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+36Modul Molekulare Evolution
+Verantwortlicher Professur Diskrete Biomathematik, Professur Bioinformatik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Grundlagen und Grundbegriffe der Evolution (Homologie, Rekombination,
+Wright-Fisher-Modell
+Stochastische Modelle in der Evoluton (Markovketten in stetiger Zeit, Jukes-
+Cantor-Modell, GTR-Modell, Rates-across-Sites, Selektion)
+Stammbaumrekonstruktionsverfahren
+–distanzbasierte Verfahren (Clustering)
+–Character-basierte Verfahren (Parsimony, Likelihood, Bayes)
+Samplingmethoden im Tree Space (tree moves (NNI, SPR, TBR), Metropolis-
+Hastings-Algorithmus)
+Qualiﬁkationsziele
+Verst ¨andnis der von phylogenetischen Methoden getroffenen Modellannahmen,
+Verst ¨andnis von Vor- und Nachteilen verschiedener Ans ¨atze zur Stammbaumre-
+konstruktion,
+Kenntnis der Prinzipien und allgemeinen Parameter, die aktuellen Phylogeniepro-
+grammen unterliegen.
+Vorkenntnisse Genomanalyse, Stochastik
+Pr ¨ ufung 30-min ¨utige m ¨undliche Pr ¨ufung
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+37Modul Praktikum Softwaretechnik
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (1 SWS) und Praktikum (3 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Inhalt
+Werkzeuge und Methoden zur Entwicklung und Wartung umfangreicher
+Software-Systeme
+Projektplanung
+Entwurf und Implementierung
+Dokumentation, Testen und Qualit ¨atssicherung
+Qualiﬁkationsziele
+Kenntnis der wesentlichen Phasen des Prozesses der Erstellung komplexer Soft-
+ware,
+F¨ahigkeiten in der Absch ¨atzung und Planung der notwendigen Ressourcen zur
+Umsetzung eines Projekts,
+Kompetenz zur ¨Ubernahme von Verantwortung f ¨ur einen wesentlichen Teil der
+Entwicklungsarbeit an einem Projekt im Team,
+F¨ahigkeiten zur Pr ¨asentation der M ¨oglichkeiten und Grenzen der erstellten Soft-
+ware.
+Vorkenntnisse Praxis des Programmierens
+Pr ¨ ufung Die Kriterien f ¨ur den Erhalt eines ¨Ubungsscheines legt der
+Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+Festlegung, so sind 50 % der ¨Ubungsaufgaben erfolgreich
+zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 15, ¨Ubung: 45, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+38Modul Randomisierte Algorithmen
+Verantwortlicher Professuren Informatik
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im geraden SoSe
+Inhalt
+Grundlegende Begriffe und Techniken (Typen von randomisierten Algorithmen,
+Laufzeit als Erwartungswert, Chernoff-Schranken, probabilistische Methode,
+Random Walks)
+Randomisierte Datenstrukturen
+Randomisierte Algorithmen f ¨ur Probleme auf Graphen
+Randomisierte Algorithmen f ¨ur Probleme aus der Zahlentheorie
+Randomisierte Approximationsalgorithmen
+Qualiﬁkationsziele
+F¨ahigkeit zur Analyse und zum Entwurf von randomisierten Algorithmen,
+Verst ¨andnis f ¨ur die grundlegenden Probleme, die bei der Analyse und dem Ent-
+wurf auftreten,
+Beherrschung einer Palette von Werkzeugen und Techniken, mit deren Hilfe diese
+Probleme gel ¨ost werden k ¨onnen.
+Vorkenntnisse Algorithmen und Programmierung, Stochastik, Theoretische
+Informatik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+39Modul Spezialvorlesung I Diskrete Mathematik/Algorithmik
+Verantwortlicher Professuren Informatik, Professur Algebra und funktional-
+analytische Anwendungen, Professur Algebraische Metho-
+den der Analysis
+Lehrformen Vorlesung (2 SWS)
+Dauer/Turnus 1 Sem., nach Bedarf
+Inhalt
+Spezielle Themen aus Diskrete Mathematik, Algorithmik oder Algebra
+Qualiﬁkationsziele
+Vertiefte Kenntnisse und erweiterte Kompetenzen in einem ausgew ¨ahlten Spezialge-
+biet.
+Vorkenntnisse Analysis, Lineare Algebra und analytische Geometrie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte 3
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+40Modul Spezialvorlesung II Diskrete Mathematik/Algorithmik
+Verantwortlicher Professuren Informatik, Professur Algebra und funktional-
+analytische Anwendungen, Professur Algebraische Metho-
+den der Analysis
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., nach Bedarf
+Inhalt
+Spezielle Themen aus Diskrete Mathematik, Algorithmik oder Algebra
+Qualiﬁkationsziele
+Umfangreiche, vertiefte Kenntnisse und umfassende Kompetenzen in einem aus-
+gew¨ahlten Spezialgebiet.
+Vorkenntnisse Analysis, Lineare Algebra und analytische Geometrie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+41Modul Theoretische Informatik
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Inhalt
+Grundlagen der Berechenbarkeits- und Algorithmentheorie: Intuitiver
+Algorithmus-Begriff und mathematische Pr ¨azisierungen der Berechenbarkeit
+(goto-, while-, aber auch loop-Programme, Turingmaschinen u.a.), Church-
+Turing-Hypothese, universelle Funktionen und unl ¨osbare Probleme.
+Endliche Automaten und sequentielle Wortfunktionen, Boolesche Funktionen,
+Schaltalgebra.
+Formale Sprachen, die Klassen der Chomsky-Hierarchie und ihre Akzeptortypen.
+Qualiﬁkationsziele
+Kenntnis der grundlegenden Eigenschaften und Grenzen der Berechenbarkeit,
+Verst ¨andnis der Bedeutung der Berechenbarkeit f ¨ur die Informatik,
+Verst ¨andnis f ¨ur mathematische Modelle informationsverarbeitender Systeme und
+deren Anwendung,
+Bef¨ahigung zum Vergleich von Typen formaler Sprachen und zugeh ¨origer Akzep-
+tortypen bez ¨uglich ihrer Leistungsverm ¨ogen,
+Verst ¨andnis und Beherrschung des Wechselspiels zwischen mathematischer In-
+tuition und ihrer Pr ¨azisierung durch formale Systeme,
+Bef¨ahigung zur m ¨undlichen Kommunikation durch freie Rede und Diskussion in
+den ¨Ubungen.
+Vorkenntnisse Lineare Algebra, Analysis, Algorithmen und Programmierung
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Diskrete Mathematik/Algorithmik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+42Stochastik / StatistikModul Finanz- und Versicherungsmathematik
+Verantwortlicher Professur Stochastik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe ungerade Jahre
+Inhalt
+Grundlegende Konzepte der Finanzmathematik: Zins, Barwert, Kurse, Renten,
+Kredite, Effektivzins
+Lebensversicherung: ¨Aquivalenzprinzip, Bev ¨olkerungsstatistik und Sterbetafeln,
+Deckungskapital
+Sachversicherung und Risikomanagement: Risiko-Parameter, Portfolios, indivi-
+duelles und kollektives Modell, Gesetz der großen Zahlen und Satz von Wald,
+Schadenszahl- und Schadensh ¨ohe-Verteilungen
+Risikoprozess und Ruin-Problem, Satz von Lundberg
+Kapitalmarkt: Marktpreise, Hedging, Finanzderivate
+Qualiﬁkationsziele
+Verst ¨andnis f ¨ur die mathematische Modellierung ¨okonomischer Probleme und f ¨ur
+ﬁnanzpolitische Fragen,
+Kompetenzen zur selbst ¨andigen und sicheren Bew ¨altigung von Problemen der
+Finanzmathematik,
+Beherrschung der Prinzipien der Lebens- und Sachversicherung und der zu-
+geh¨origen Konzepte der Stochastik.
+Vorkenntnisse Analysis I,II, Lineare Algebra I, Stochastik, Statistik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+44Modul Mathematische Statistik
+Verantwortlicher Professur Biomathematik, Professur Statistik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe ungerade Jahre
+Inhalt
+Statistische Modelle, parametrische Verteilungsannahmen
+Dominierte Klassen von Verteilungen, Exponentialfamilien
+Sufﬁzienz
+Punktsch ¨atzer, Konﬁdenzbereiche, Tests
+G¨utekriterien und Optimalit ¨at f¨ur Sch ¨atzer und Tests
+Likelihood-Methoden
+Bayes-Methoden
+Statistische Entscheidungstheorie
+Asymptotische Statistik
+Nichtparametrische Modelle
+Resampling-Methoden
+Qualiﬁkationsziele
+fundierte Beherrschung der mathematischen Grundlagen der Statistik,
+solide Kenntnisse der zentralen Ergebnisse der Mathematischen Statistik,
+F¨ahigkeit zur fundierten Beurteilung statistischer Verfahren,
+Bef¨ahigung zur Weiterentwicklung statistischer Methoden in Hinblick auf neuarti-
+ge Problemstellungen,
+Kenntnisse ¨uber die Vielfalt der Ans ¨atze und den aktuellen Stand der Mathema-
+tischen Statistik,
+Bef¨ahigung zur Lekt ¨ure von wissenschaftlichen Arbeiten aus dem Gebiet der Ma-
+thematischen Statistik,
+Bef¨ahigung zur selbst ¨andigen wissenschaftlichen Arbeiten in der Statistik.
+Vorkenntnisse Statistik, Wahrscheinlichkeitstheorie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die aktive Teilnahme an den ¨Ubungen
+wird erwartet. Die Inhalte von Vorlesung und ¨Ubung sind
+Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+45Modul Multivariate Statistik
+Verantwortlicher Professur Stochastik, Professur Biomathematik
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe ungerade Jahre
+Inhalt
+Grundlagen der Multivariaten Statistik:
+Allgemeine Lineare Modelle
+Generalisierte Lineare Modelle
+Hauptkomponentenanalyse
+Latentstrukturanalyse
+Diskriminanzanalyse
+Clusteranalyse
+Multidimensionale Skalierung
+Qualiﬁkationsziele
+umfassende Kenntnisse zu Modellen und Methoden der Multivariaten Statik,
+Kompetenzen zur selbstst ¨andigen Auswahl von ad ¨aquaten Modellen und Metho-
+den f ¨ur reale Daten und Bef ¨ahigung zur Interpretation der Ergebnisse,
+erweiterte F ¨ahigkeiten in der Datenanalyse ( ¨Ubung).
+Vorkenntnisse Stochastik, Statistik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an der ¨Ubung wird erwartet. Die Inhalte von Vorle-
+sung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+46Modul R ¨aumliche Statistik
+Verantwortlicher Professur Biomathematik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Inhalt
+Zufallsfelder in stetigem Raum und stetiger Zeit: Mittelwert und Covariogramm-
+Sch¨atzung
+Punktprozesse und Charakteristiken: Poissonprozess, K- und L-Funktion, Mo-
+mentenmaße, Sch ¨atzung und Inferenz
+Zuf¨allige Mengen und Maße, Boolsches Modell
+Anwendungsbeispiele
+Qualiﬁkationsziele
+Kenntnis der grundlegenden Modelle verallgemeinert station ¨arer r ¨aumlicher und
+r¨aumlich-zeitlicher Prozesse und der grundlegenden Methoden zur Sch ¨atzung
+ihrer Charakteristika,
+Kenntnis der grundlegenden Modelle f ¨ur Punktprozesse und der grundlegenden
+Methoden zur Sch ¨atzung ihrer Charakteristika,
+Beherrschung der Auswahl, Bewertung und praktischen Anwendung statistischer
+Methoden auf r ¨aumlich und r ¨aumlich-zeitliche Datens ¨atze.
+Vorkenntnisse Stochastik I, Lineare Algebra I, II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die aktive Teilnahme an der ¨Ubung
+wird erwartet. Die Inhalte von Vorlesung und ¨Ubung sind
+Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+47Modul Spezialvorlesung I Stochastik/Statistik
+Verantwortlicher Professur Stochastik, Professur Statistik
+Lehrformen Vorlesung (2 SWS)
+Dauer/Turnus 1 Sem., nach Bedarf
+Inhalt
+Spezielle Themen aus Stochastik / Statistik
+Qualiﬁkationsziele
+Vertiefte Kenntnisse und erweiterte Kompetenzen in einem ausgew ¨ahlten Spezialge-
+biet.
+Vorkenntnisse Stochastik, Statistik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte 3
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+48Modul Spezialvorlesung II Stochastik/Statistik
+Verantwortlicher Professur Stochastik, Professur Statistik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., nach Bedarf
+Inhalt
+Spezielle Themen aus Stochastik / Statistik
+Qualiﬁkationsziele
+Umfangreiche, vertiefte Kenntnisse und umfassende Kompetenzen in einem aus-
+gew¨ahlten Spezialgebiet.
+Vorkenntnisse Stochastik, Statistik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+49Modul Spieltheorie
+Verantwortlicher Professur Stochastik, Professur Biomathematik
+Lehrformen Vorlesung (3 SWS) und ¨Ubung (1 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe gerade Jahre
+Inhalt
+L¨osung kombinatorischer Spiele
+Klassische Zwei-Personen Matrix-Spiele, reine und gemischte Strategien
+Minimax-L ¨osung und Nash-Gleichgewicht, Existenzs ¨atze
+Evolution ¨are Spieltheorie, evolution ¨ar stabile Gleichgewichte
+Dynamische Modellierung von Spielen
+Mehrpersonenspiele, Koalitionsbildung, Kern, Shapley-Indizes
+Qualiﬁkationsziele
+Bef¨ahigung zu strategischem Denken und zur Formulierung von Gegens ¨atzen
+von Interessen,
+Beherrschung der L ¨osungsans ¨atze,
+Verst ¨andnis f ¨ur die Struktur von Konﬂiktsituationen und deren mathematische
+Modellierung anhand von Problemen aus Politik, Wirtschaft und Alltag,
+Kenntnis der neueren Ans ¨atze der evolution ¨aren und dynamischen Spieltheorie
+im Zusammenhang und Gegensatz mit klassischen L ¨osungskonzepten,
+Verst ¨andnis f ¨ur die Komplexit ¨at und Vielf ¨altigkeit der Varianten bei Mehrperso-
+nenspielen,
+Beherrschung einfacher Ans ¨atze wie Kern und Shapley-Index,
+Vertiefte Kenntnisse in Stochastik, Analysis und Optimierung durch neue Anwen-
+dungen.
+Vorkenntnisse Analysis, Lineare Algebra, Stochastik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 45, ¨Ubung: 15, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+50Modul Stochastische Modelle der Biologie
+Verantwortlicher Professur Stochastik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe gerade Jahre
+Inhalt
+Grundlagen der Markov-Prozesse und biologische Anwendungen:
+Markov-Ketten, Strukturbestimmung, Mittelwertregeln f ¨ur absorbierende Ketten
+und Grenzverhalten f ¨ur irreduzible Ketten
+Galton-Watson Verzweigungsprozesse
+Stochastische Modelle in der Populationsgenetik
+Markov-Prozesse in stetiger Zeit
+Qualiﬁkationsziele
+Beherrschung der Theorie endlicher homogener Markov-Ketten und ihrer Anwen-
+dung als einfaches Modellierungswerkzeug,
+Kenntnis einer Reihe von grundlegenden Modellen in der Biologie,
+Gefestigte und erweiterte Kenntnisse aus Stochastik, Lineare Algebra und Dis-
+krete Strukturen,
+Beherrschung von Grundkonzepten und motivierenden Beispielen f ¨ur wei-
+terf¨uhrende Module (Stochastische Prozesse, Molekulare Evolution, Spieltheorie,
+Dynamische Systeme).
+Vorkenntnisse Analysis, Lineare Algebra, Stochastik, Differentialgleichun-
+gen
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 90-min ¨utigen Klausur
+oder einer 30-min ¨utigen m ¨undlichen Pr ¨ufung. Die aktive Teil-
+nahme an den ¨Ubungen wird erwartet. Die Inhalte von Vor-
+lesung und ¨Ubung sind Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+51Modul Stochastische Prozesse
+Verantwortlicher Professur Stochastik, Professur Biomathematik, Professur
+Algebra und funktionalanalytische Anwendungen
+Lehrformen Vorlesung (4 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im SoSe gerade Jahre
+Inhalt
+Grundbegriffe, Filtrationen, Stoppzeiten
+Markovprozesse in diskreter und kontinuierlicher Zeit
+Brownsche Bewegung (Wiener-Prozess)
+Martingale
+Stochastische Integration, stochastische Differentialgleichungen
+Qualiﬁkationsziele
+Kenntnis der grundlegenden Modelle zeitlicher Prozesse und ihrer Eigenschaf-
+ten,
+Kenntnis der grundlegenden Charakteristika der Brownschen Bewegung und Be-
+urteilung ihrer Bedeutung f ¨ur die Modellbildung.
+Vorkenntnisse Stochastik I, Analysis I, II, Gew ¨ohnliche Differentialgleichun-
+gen, Lineare Algebra I, II
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+52Modul Wahrscheinlichkeitstheorie
+Verantwortlicher Professur Stochastik, Professur Statistik, Professur Algebra
+und funktionalanalytische Anwendungen
+Lehrformen Vorlesung (4 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., zweij ¨ahrlich im WiSe ungerade Jahre
+Inhalt
+Maßtheoretische Grundlegung der Wahrscheinlichkeitstheorie
+Konvergenzbegriffe f ¨ur Zufallsvariablen, schwache Konvergenz von Wahrschein-
+lichkeitsmaßen
+Bedingte Erwartungswerte
+Wahrscheinlichkeitsmaße in Produktr ¨aumen
+Null-Eins-Gesetze
+Gesetze der großen Zahlen
+Charakteristische Funktionen, zentraler Grenzwertsatz
+Weiterf ¨uhrende Fragestellungen: z. B. Martingale in diskreter Zeit, Theorie großer
+Abweichungen, Ergodensatz, unbegrenzt teilbare Verteilungen
+Qualiﬁkationsziele
+Beherrschung der mathematischen Grundlagen der modernen Wahrscheinlich-
+keitstheorie,
+Bef¨ahigung zur Formulierung, systematischen Einordnung und L ¨osung von sto-
+chastischen Problemstellungen in der Sprache der Wahrscheinlichkeitstheorie,
+¨Uberblick ¨uber die Vielfalt stochastischer Methoden,
+Kompetenz zur selbst ¨andigen Besch ¨aftigung mit wissenschaftlichen Arbeiten aus
+dem Gebiet der Wahrscheinlichkeitstheorie,
+Kompetenz zum selbst ¨andigen wissenschaftlichen Arbeiten.
+Vorkenntnisse Analysis I, II, Stochastik, Maßtheorie
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die Kriterien f ¨ur den Erhalt eines
+¨Ubungsscheines legt der Dozent in der ersten Vorlesungs-
+woche fest. Erfolgt keine Festlegung, so sind 50 % der
+¨Ubungsaufgaben erfolgreich zu bearbeiten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 270 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 180)
+Leistungspunkte 9
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+53Modul Zeitreihenanalyse
+Verantwortlicher Professur Stochastik, Professur Biomathematik
+Lehrformen Vorlesung (2 SWS) und ¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im SoSe
+Inhalt
+Methoden und Anwendungen der Zeitreihenanalyse:
+Elementares Zeitreihenmodell, Trends, periodische und zuf ¨allige Komponenten
+ARMA-Prozesse und ihre Stationarit ¨at
+Autokorrelation und Kreuzkorrelation, Probleme der Sch ¨atzung
+Spektrum und Periodogramm
+Lineare Filter und ihre ¨Ubertragungsfunktion
+Multivariate Zeitreihen, data mining und Visualisierung
+Weiterf ¨uhrende Themen, z.B.
+Nichtlineare Zeitreihenanalyse, mehrdimensionale Verteilungen, Entropien
+Zeitreihenmodelle der Finanzmathematik
+VAR-Modelle und Granger-Kausalit ¨at
+Qualiﬁkationsziele
+Beherrschung der grundlegenden Modelle und statistischen Verfahren f ¨ur Zeitrei-
+hen, sowohl konzeptionell wie auch in der interaktiven Arbeit mit Daten
+Kenntnis weiterf ¨uhrender Methoden, Fragestellungen und Ans ¨atze
+Sammlung von praktischen Erfahrungen in der Bearbeitung großer und komple-
+xer Datenstrukturen
+Verst ¨andnis f ¨ur die Speziﬁk von Zeitreihen (z.B. aus ¨Okonomie, Finanzmarkt, Me-
+dizin, Sprache und Musik)
+Erwerb einer angewandten Sichtweise als Erg ¨anzung f ¨ur die Module Differential-
+gleichungen, stochastische Prozesse, dynamische Systeme
+Beherrschung der abstrakten geometrischen Sprache und Denkweise, die kom-
+plexe Systeme auf ihre wesentlichen Eigenschaften reduziert,
+Bef¨ahigung zur Erkundung komplexer Systeme durch Computerexperimente in
+den ¨Ubungen.
+Vorkenntnisse Analysis, Lineare Algebra, Stochastik, Statistik, Differential-
+gleichungen
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einer 30-min ¨utigen
+m¨undlichen Pr ¨ufung. Die aktive Teilnahme an den ¨Ubungen
+wird erwartet. Die Inhalte von Vorlesung und ¨Ubung sind
+Thema der Pr ¨ufung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 180 (Vorlesung: 30, ¨Ubung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Stochastik/Statistik
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+54SeminarmoduleModul Seminarmodul A
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Profes-
+suren Informatik, Professur Algebra und funktionalanalyti-
+sche Anwendungen, Professur Stochastik, Professur Statis-
+tik, Professur Algebraische Methoden der Analysis
+Lehrformen Seminar (2 x 2 SWS)
+Dauer/Turnus 2 Sem., jedes Semester
+Inhalt
+erg¨anzende Themen aus dem Bereich Analysis/Optimierung, aus dem Be-
+reich Diskrete Mathematik/Algorithmik/Algebra oder aus dem Bereich Stochas-
+tik/Statistik
+Qualiﬁkationsziele
+Bef¨ahigung zur selbst ¨andigen Besch ¨aftigung mit einem mathematischen Thema,
+Bef¨ahigung, einen strukturierten, efﬁzienten und auf die Kompetenzen des Publi-
+kums zugeschnittenen Vortrag zu halten,
+Kompetenzen in der Diskussionsf ¨uhrung.
+Vorkenntnisse Analysis, Lineare Algebra, Stochastik, Statistik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus zwei 60-min ¨utigen Vortr ¨agen
+zu vereinbarten Themen (Seminarschein).
+Note keine
+Aufwand in h 180 (Seminar: 60, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+56Modul Seminarmodul B
+Verantwortlicher Professur Analysis, Professur Numerische Mathematik und
+Optimierung, Professur Angewandte Mathematik, Profes-
+suren Informatik, Professur Algebra und funktionalanalyti-
+sche Anwendungen, Professur Stochastik, Professur Statis-
+tik, Professur Algebraische Methoden der Analysis
+Lehrformen Seminar (2 SWS)
+Dauer/Turnus 1 Sem., jedes Semester
+Inhalt
+erg¨anzende Themen aus dem Bereich Analysis/Optimierung, aus dem Be-
+reich Diskrete Mathematik/Algorithmik/Algebra oder aus dem Bereich Stochas-
+tik/Statistik
+Qualiﬁkationsziele
+Bef¨ahigung zur selbst ¨andigen Besch ¨aftigung mit einem mathematischen Thema,
+Bef¨ahigung, einen strukturierten, efﬁzienten und auf die Kompetenzen des Publi-
+kums zugeschnittenen Vortrag zu halten,
+Kompetenzen in der Diskussionsf ¨uhrung,
+Kompetenzen zur Erstellung wissenschaftlicher Arbeiten.
+Vorkenntnisse Analysis, Lineare Algebra, Stochastik, Statistik
+Pr ¨ ufung Die Modulpr ¨ufung besteht aus einem 60-min ¨utigen Vortrag
+(Seminarschein) und einer schriftlichen Ausarbeitung im Um-
+fang von 10 bis 20 Seiten zu einem vereinbarten Thema.
+Note keine
+Aufwand in h 180 (Seminar: 30, Ausarbeitung: 30, Selbststudium: 120)
+Leistungspunkte 6
+Teilgebiet Analysis/Optimierung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+57¨OkologieModul Tier ¨okologie
+Verantwortlicher Professur f ¨ur Tier ¨okologie
+Lehrformen Populations ¨okologie der Tiere, Vorlesung (2 SWS),
+Syn¨okologie und ¨Okosysteme, Vorlesung (1 SWS),
+Großpraktikum Tier ¨okologie, Praktikum (5 SWS),
+Zoologie und Tier ¨okologie, Seminar (2 SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich im WiSe und SoSe
+Inhalt
+Vorlesung Populations ¨okologie der Tiere :
+Zentrale Begriffe
+Demographie / Lebenstafeln
+Populationsgenetik
+Verteilung und Dispersion im Raum
+Intraspeziﬁsche Konkurrenz, Territorialit ¨at
+Interspeziﬁsche Konkurrenz, Konkurrenzausschluss
+Pr¨adation und R ¨auber-Beute-Systeme
+Populationsdynamik der Pr ¨adation, Selbstregulation
+Lebenszyklen
+Abundanz in Raum und Zeit
+Anthropogene Einﬂ ¨usse auf H ¨auﬁgkeiten
+Organismen als Lebensraum
+Angewandte Populations ¨okologie
+Vorlesung Syn¨okologie und ¨Okosystemtheorie :
+Beschreibung von Lebensgemeinschaften
+R¨aumliche und zeitliche Dynamik von Lebensgemeinschaften
+¨Okosysteme als Interaktionsr ¨aume
+Insel-Biogeographie
+Konstanz und Stabilit ¨at von Lebensgemeinschaften
+Muster und Gradienten des Artenreichtums
+Fallstudien zu ausgesuchten ¨Okosystemen
+Großpraktikum Tier¨okologie :
+Vermittlung freiland ¨okologischer Methoden
+Durchf ¨uhrung von Erfassungsprojekten
+Populationsgr ¨oßensch ¨atzungen
+Seminar Zoologie und Tier ¨okologie :
+Literaturrecherche und -auswertung zu wissenschaftlichen Themen zur ¨Okologie
+der Tiere
+Versuchsdesign, Methoden der Datenerhebung, Datenauswertung und Doku-
+mentation
+Projekt- und Daten-Pr ¨asentation, Diskussion der Inhalte und der
+Pr¨asentationsform
+59Qualiﬁkationsziele
+Vermittlung grunds ¨atzlicher Konzepte der Populations- und Syn ¨okologie
+Erlernen unterschiedlicher tier ¨okologischer Nachweis- und Erfassungsmethoden
+Vertiefte Auseinandersetzung mit Spezialthemen im Seminar
+Vorkenntnisse Grundkenntnisse der ¨Okologie
+Pr ¨ ufung 60-min ¨utige Klausur zu den Inhalten der Vorlesung Populati-
+ons¨okologie der Tiere, Praktikumsprotokolle, Seminarschein.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 45, Praktikum: 75, Seminar: 30, Selbst-
+studium: 150)
+Leistungspunkte 10
+Teilgebiet ¨Okologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+60Modul Pﬂanzen ¨okologie
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen ¨Okologie der Pﬂanzen, Seminar (2 SWS),
+Vegetation der Erde, Vorlesung (2 SWS),
+Vegetation Europas, Vorlesung (2 SWS),
+Terrestrische Pﬂanzen ¨okologie, Vorlesung (2 SWS), oder
+Prim ¨arproduktion in aquatischen Lebensr ¨aumen, Vorlesung
+(2 SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich im WiSe und SoSe
+Inhalt
+Seminar ¨Okologie der Pﬂanzen :
+Klassische und moderne Themen der Pﬂanzen ¨okologie
+Durchf ¨uhrung von Literaturrecherchen
+Erarbeitung schriftlicher Zusammenfassungen
+M¨undliche Pr ¨asentation, Vortragstechniken
+Funktion der Diskussionsleitung
+Vorlesung Vegetation der Erde :
+Grundlegende Gliederung der Vegetationszonen der Erde und ihres Zustandekom-
+mens:
+Einf¨uhrung
+Tropische Regenwaldzone
+Tropische Sommerregenzone
+Halbw ¨usten- und W ¨ustenzone
+Steppenzone
+Hartlaubvegetation der Winterregengebiete
+Warmtemperierte Feucht- und Lorbeerw ¨alder
+Sommergr ¨une Laubwaldzone
+Boreale Nadelwaldzone und Arktische Tundrenzone
+Vorlesung Vegetation Europas :
+Naturr ¨aumliche Einf ¨uhrung
+Kennenlernen der landschaftspr ¨agenden Vegetations- bzw. Nutzungstypen Eu-
+ropas
+Standort ¨okologische Grundlagen und ¨Okosystemdynamik
+Historische und aktuelle Einﬂ ¨usse des Menschen
+Differenzierung und Klassiﬁzierung von Pﬂanzengesellschaften
+Inhalt
+61Vorlesung Terrestrische Pﬂanzen ¨okologie :
+Anpassungsmerkmale und Trade-offs bei terrestrischen Pﬂanzen
+Limitationen der Photosynthese
+Beziehungen zwischen Photosynthese und Wachstum
+Funktionelle Wachstumsanalyse
+Strategien der Ressourcenallokation
+Strahlungs- und Energiebilanzen
+Charakterisierung und Bilanzierung des Kohlenstoffumsatzes
+Charakterisierung und Bilanzierung des N ¨ahrstoffumsatzes
+¨Okologische Bedeutung von Wuchsformen und Lebenszyklen
+Modelle pﬂanzlicher Strategien
+Pﬂanzen ¨okologische Messmethoden
+Vorlesung Prim ¨arproduktion in aquatischen Lebensr ¨aumen :
+Grundformen aquatischer Prim ¨arproduktion
+Erdgeschichtliche Bedeutung der aquatischen Prim ¨arproduktion
+Biologische, physikalische und chemische Grundlagen
+Methoden der Messung aquatischer Prim ¨arproduktion
+Modellierung aquatischer Prim ¨arproduktion
+Prim ¨arproduktion in marinen Lebensr ¨aumen
+Prim ¨arproduktion in limnischen Lebensr ¨aumen
+Hot spots aquatischer Prim ¨arproduktion
+Aquatische Prim ¨arproduktion im ¨okosystemaren Kontext
+Aquatische Prim ¨arproduktion und Klimawandel
+Qualiﬁkationsziele
+Verst ¨andnis der speziﬁschen Lebensbedingungen und Anpassungen von Pﬂan-
+zen in aquatischen und terrestrischen Lebensr ¨aumen
+Selbst ¨andige Erarbeitung und Pr ¨asentation spezieller Themen der Pﬂan-
+zen¨okologie
+Vorkenntnisse Grundkenntnisse der ¨Okologie
+Pr ¨ ufung Eine 60-min ¨utigen Klausur zur Vorlesung Vegetation der Er-
+de oder zur Vorlesung Vegatation Europas, eine 60-min ¨utige
+Klausur zur gew ¨ahlten Wahlvorlesung, ein Seminarschein.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 90, Seminar: 30, Selbststudium: 180)
+Leistungspunkte 10
+Teilgebiet ¨Okologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+62Modul Mikrobielle ¨Okologie
+Verantwortlicher Professur f ¨ur Mikrobielle ¨Okologie
+Lehrformen ¨Okologie der Mikroorganismen II – Energieﬂ ¨usse und Stoff-
+kreisl ¨aufe, Vorlesung (4 SWS),
+Einf¨uhrung in die molekulare ¨Okologie der Mikroorganismen,
+Vorlesung (2 SWS),
+Molekulare Grundlagen mikrobieller Interaktionen, Vorle-
+sung (2 SWS),
+Moderne mikroskalige Methoden in der mikrobiellen
+¨Okologie, Vorlesung (2 SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich im SW und SoSe
+Inhalt
+Vorlesung ¨Okologie der Mikroorganismen II – Energieﬂ ¨ usse und Stoffkreisl ¨aufe:
+Mikrobielle Energiegewinnung und -umwandlungen
+–Photo- und Chemotrophie
+–Energieausbeuten spezifscher Reaktionen
+–Interaktionen
+Stoffkreisl ¨aufe (C-, N-, S-, P-, Fe-, Mn-Kreisl ¨aufe, deren Wechselwirkungen und
+Entwicklung; Kreisl ¨aufe ausgew ¨ahlter Spurenelemente)
+–Zellul ¨are Ebene: Mikroorganismen und mikrobielle Physiologie
+–Mikrobielle Lebensgemeinschaften und Interaktionen
+–Quantitative Auspr ¨agung in speziﬁschen Lebensr ¨aumen (Boden, Meer usw.)
+–Biotechnologische Nutzung (z.B.: Kl ¨arwerk, Boden- und Grundwasser-
+Sanierung, usw. )
+–Biogeochemische Aspekte
+–Globale Aspekte mikrobieller Energietransformationen und Stoffkreisl ¨aufe
+Vorlesung Einf ¨ uhrung in die molekulare ¨Okologie der Mikroorganismen :
+Struktur prokaryotischer & eukaryotischer Genome
+Biochemie von DNA und RNA
+Isolierung informativer Molek ¨ule aus Umweltproben
+Molekulare Methoden zur Analyse mikrobieller Diversit ¨at in der Umwelt
+Probleme der bakteriellen Systematik & Taxonomie vor dem Hintergrund der
+Identiﬁkation von Mikroorganismen in nat ¨urlichen Proben
+Nachweis mikrobieller Aktivit ¨aten in der Umwelt
+Inhalt
+63Vorlesung Molekulare Grundlagen mikrobieller Interaktionen :
+Deﬁnition der Formen intra- und interspeziﬁscher mikrobieller Interaktionen
+Ausgew ¨ahlte Beispiele mikrobieller Interaktionen:
+Intraspeziﬁsche Interaktionen (Bacteria, Archaea)
+Interspeziﬁsche Interaktionen:
+–Bacteria / Bacteria
+–Bacteria / Archaea
+–Prokaryonten / Pilze, Pﬂanzen
+–Prokaryonten / Tiere
+–Algen / Tiere
+–Pilze / Pﬂanzen, Tiere
+Antibiose
+Vorlesung Moderne mikroskalige Methoden in der mikrobiellen ¨Okologie :
+Deﬁnition von Mikrohabitaten (marine Aggregate, Bioﬁlme, Grenzﬂ ¨achen)
+Mikrosensoren in der mikrobiellen ¨Okologie
+Mikroelektroden
+–Grundlegende elektrochemische Prozesse
+–Clark-type Sauerstoffmikroelektroden
+–Schwefelwasserstoffmikroelektroden
+–pH- und Redoxpotentialmikroelektroden
+Mikrooptoden und planare Optoden
+Applikation von Mikrosensoren
+–Interpretation und Modellierung von Sauerstoffmikroproﬁlen
+–Kleinr ¨aumige Verteilung mikrobieller photosynthetischer und respiratori-
+scher
+–Prozesse
+–In-situ Messungen
+–State of the Art
+Biosensoren
+–Zell- und Enzymsensoren
+–Mikrobielle Biosensoren f ¨ur die Messung ¨okosystemrelevanter
+–Parameter
+–Respirationsbasierte Biosensoren
+Mikroskalige Techniken zur Bestimmung mikrobieller Abundanz und Diversit ¨at
+Qualiﬁkationsziele
+Kenntnisse und Anwendung grundlegender Konzepte und Methoden der mikro-
+biellen ¨Okologie
+Vorkenntnisse Grundkenntnisse der ¨Okologie
+Pr ¨ ufung Zwei 60-min ¨utige Klausuren zu zwei Vorlesungen, darunter
+¨Okologie der Mikroorganismen II.
+Note Note der Modulpr ¨ufung
+64Aufwand in h 300 (Vorlesungen: 150, Selbststudium: 150)
+Leistungspunkte 10
+Teilgebiet ¨Okologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+65Modul Plant Reproductive Biology
+Verantwortlicher Professur f ¨ur Allgemeine und Spezielle Botanik
+Lehrformen Aus dem Angebot sind 2 Vorlesungen und ein Praktikum
+auszuw ¨ahlen:
+Population Biology of Plants, Vorlesung (2 SWS),
+Population Biology of Plants, Praktikum (5 SWS),
+Population Genetics of Plants, Vorlesung (2 SWS),
+Population Genetics of Plants, Praktikum (5 SWS),
+Plant Breeding Systems, Vorlesung (2 SWS)
+Dauer/Turnus 2 Sem., zweij ¨ahrlich im WiSe gerade Jahre und zweij ¨ahrlich
+im SoSe ungerade Jahre
+Inhalt
+Vorlesung Biology of Plants :
+Lebensstrategien und Wuchsformen bei Pﬂanzen
+Samenbanken, Keimung und Etablierung
+Ausbreitungsmechanismen bei Pﬂanzen
+Selbstausd ¨unnung
+Modelle zur Populationsdynamik bei Pﬂanzen
+Konkurrenz zwischen Pﬂanzenarten
+Pr¨adation, Herbivorie
+Demographie pﬂanzlicher Populationen: Lebenstafeln, Matrixmodelle; R ¨aumliche
+Muster pﬂanzlicher Populationen und deren Analyse
+Metapopulationsmodelle
+Methoden zur Datenerhebung f ¨ur Pﬂanzen
+Praktikum Biology of Plants :
+Praktische Arbeiten zur Demographie heimischer Pﬂanzenarten
+F¨ahigkeit zur wissenschaftlichen Hypothesenpr ¨ufung
+Versuchsdesign und Konzeption eines wissenschaftlichen Experimentes sowie
+dessen eigenst ¨andige Durchf ¨uhrung
+Vorlesung Plant Breeding Systems :
+Generationswechsel h ¨oherer Pﬂanzen, sexuelle und asexuelle Vermehrung bei
+Pﬂanzen und die Konsequenzen f ¨ur die genetische Struktur von Populatio-
+nen, Ressourcenallokation in sexuelle Funktionen, Geschlechtsbestimmung bei
+Pﬂanzen, SI-Systeme, Gynodi ¨ozie, Heterodichogamie, Di ¨ozie und M ¨on¨ozie,
+Best ¨aubung und Genﬂuss, Evolution der Reproduktionssysteme bei Pﬂanzen.
+Praktikum Population Genetics of Plants :
+Stufenweiser Aufbau eines Simulationsmodels zu nat ¨urlicher Selektion, Drift,
+Bottleneck in einer Population in Microsoft Excel, Vorstellung und Arbeit mit den
+Programmpaketen Genealex und Populus, Auswerteprogramme f ¨ur ﬁngerprint-
+Methoden (Gene Analyzer, TPGMA).
+Inhalt
+66Vorlesung Population Genetics of Plants :
+Grundlagen genetischer und ph ¨anotypischer Variabilit ¨at, Vererbungsmuster,
+Hardy-Weinberg-Gleichgewicht, genetische Drift, nat ¨urliche Selektion, Inzucht
+und Inzuchtdepression, Genﬂuss in fragmentierten Populationen, effektive Popu-
+lationsgr ¨oße, Artbildung und Populationsgenetik, Molekulargenetische Methoden
+und Auswertung der entsprechenden Daten.
+Qualiﬁkationsziele
+Verst ¨andnis der Reproduktionssysteme h ¨oherer Pﬂanzen, der Populationsgene-
+tik und ihrer Konsequenzen f ¨ur den Artenschutz bei Pﬂanzen
+Aufbau entsprechender Modelle
+Vorkenntnisse keine
+Pr ¨ ufung 60-min ¨utige Klausur zu einer Vorlesung, dazu Protokolle zu
+einem Praktikum.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 60, Praktikum: 75, Selbststudium: 165)
+Leistungspunkte 10
+Teilgebiet ¨Okologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+67MolekularbiologieModul Allgemeine Molekularbiologie
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Molekulargenetik der Prokaryoten, Vorlesung (2 SWS),
+Molekulargenetik der Eukaryoten, Vorlesung (2 SWS),
+Molekularbiologische ¨Ubungen, ¨Ubung (2,5 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Vorlesung Molekulargenetik der Prokaryoten :
+Organisation des bakteriellen Genoms
+DNA-Replikation bei Bakterien
+Plasmid-Replikation und Inkompatibilit ¨at
+IS-Elemente und Transposons
+Restriktions-/Modiﬁkationssysteme
+Rekombinationsprozesse bei Bakterien
+Konjugation, DNA-Transfer und Transduktion
+Mutation, Suppression und DNA-Reparatur
+Vorlesung Molekulargenetik der Eukaryoten :
+Vektorsysteme der Hefe
+Allgemeine Genomorganisation der Hefe
+Transkription und RNA-Prozessierung in Eukaryoten
+Translation in Eukaryoten
+Molekularbiologie des Zellzyklus
+DNA-Replikation und DNA-Reparatur in Eukaryoten
+Mitochondriengenetik
+¨Ubung Molekularbiologische ¨Ubungen :
+Klonierung eines DNA-Fragments
+DNA-Sequenzierung und -Analyse
+Transduktion
+Genisolierung durch Mutantenkomplementation
+Regulierte Genexpression
+DNA-Ampliﬁkation durch PCR
+Qualiﬁkationsziele
+Vertrautheit mit grundlegenden Konzepten der pro- und eukaryotischen Molekularge-
+netik in Theorie und einfacher Praxis
+Vorkenntnisse Grundkenntnisse der Genetik
+Pr ¨ ufung Zwei 60-min ¨utige Klausuren zu den Vorlesungen und Proto-
+kolle zur ¨Ubung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 60, ¨Ubung: 40, Selbststudium: 200)
+Leistungspunkte 10
+69Teilgebiet Molekularbiologie - Pﬂichtmodul
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+70Modul Spezielle Molekularbiologie I
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Einf¨uhrung in die Funktionelle Genomforschung, Vorlesung
+(2 SWS),
+Funktionelle Genomforschung – Molekulare Genetik, ¨Ubung
+(2 SWS),
+Molekular- und Zellbiologie, Vorlesung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Vorlesung Einf ¨ uhrung in die Funktionelle Genomforschung :
+Methoden der Genomforschung (Genomsequenzierung, Mutagenese, Mutati-
+onsanalyse, Transkriptomics, Proteomics, Metabolomics)
+Bioinformatische und Systembiologische Ans ¨atze zu Datenauswertung und Mo-
+dellierung
+Modellorganismen der Funktionellen Genomanalyse (Hefe, Nematoden, Droso-
+phila, Maus, Arabidopsis)
+Anwendungsbeispiele aus Biotechnologie, Pharmazie und Molekularer Medizin
+Funktionelle Genomforschung und Ethik
+¨Ubung Funktionelle Genomforschung – Molekulare Genetik :
+Grundz ¨uge der Genomanalyse
+DNA-Array- bzw. RT -PCR basierte Transkriptonsmessungen
+Gel-basierte und Gel-freie Proteomanalysen
+Vorlesung Molekular- und Zellbiologie :
+Nukleus, Transkription, Genregulation, Transkiptionsverfahren, Zellzyklus; Ribo-
+somen, Translation; Endoplasmatisches Retikulum, Golgi; Exozytose, Endozy-
+tose, Trafﬁcking; Signaling; Zytoskelett; Zellkontakte, Extrazellul ¨are Matrix, Zell-
+verb¨ande
+Qualiﬁkationsziele
+Vertieftes Verst ¨andnis f ¨ur die Konzepte der Genetik
+Kenntnisse der Funktionellen Genomforschung und Einsch ¨atzung der
+M¨oglichkeiten und Grenzen der experimentellen Ans ¨atze
+¨Ubung der F ¨ahigkeit zur Pr ¨asentation, Wertung und Diskussion von aktuellen
+Ergebnissen des Themengebietes
+Vermittlung von Fertigkeiten zur Durchf ¨uhrung einfacher Experimente im Bereich
+der Funktionellen Genomanalyse
+Vorkenntnisse Grundkenntnisse der Genetik
+Pr ¨ ufung 60-min ¨utige Klausur zur Vorlesung Einf ¨uhrung in die Funk-
+tionelle Genomforschung und Protokolle zur ¨Ubung.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesung: 60, ¨Ubung: 30, Selbststudium: 210)
+Leistungspunkte 10
+71Teilgebiet Molekularbiologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+72Modul Spezielle Molekularbiologie II
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Mechanismen der prokaryotischen Genregulation, Vorle-
+sung (2 SWS),
+Mechanismen der eukaryotischen Genregulation Vorlesung
+(2 SWS),
+Molekulare Physiologie der Mikroorganismen, Vorlesung (2
+SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich im WiSe und SoSe
+Inhalt
+Vorlesung Mechanismen der prokaryotischen Genregulation :
+Organisation der DNA
+Transkription und Regulation der Transkription
+posttranskriptionelle Regulation
+Translation und Regulation der Translation
+posttranslationale Kontrolle
+Organisation des regulatorischen Netzwerkes von Prokaryoten
+Komponenten des regulatorischen Netzwerkes und ihre Vernetzung
+Exemplarische Vorstellung ausgew ¨ahlter Beispiele (z. B. Adaptation an ter-
+minale Elektronenakzeptoren, Adaptation an oxidativen Stress, Anpassung an
+N¨ahrstoffmangel, Adaptation an wechselnde Osmolarit ¨at)
+Vorlesung Mechanismen der eukaryotischen Genregulation :
+Prozesse der Genomdynamik und ihre Bedeutung f ¨ur die Genexpression
+Chromatin und Chromatindynamik bei der Aktivierung bzw. Repression eukaryo-
+tischer Gene
+Transkription und Transkriptionsfaktoren
+Funktionelle Anatomie eukaryotischer Aktivatorproteine
+Mechanismen der transkriptionalen Aktivierung und Repression
+Regulation der RNA-Prozessierung
+Regulierte RNA-Degradation (u. a. RNA-Interferenz)
+Mechanismen der translationalen Kontrolle
+Vorlesung Molekulare Physiologie der Mikroorganismen :
+Detaillierte Kenntnisse der Signaltransduktionsprozesse bei Mikroorganismen
+Rolle der Proteinkinasen bei der Signaltransduktion
+Zwei-Komponentensysteme
+Quorum-Sensing und Pathogenit ¨at
+Molekulare Mechanismen und Pathogenit ¨at von Bakterien
+Protein-Targeting und Proteinsekretion
+Molekulare Physiologie und Genomforschung (Metabolomic)
+Qualiﬁkationsziele
+73Fortgeschrittenes Verst ¨andnis molekularbiologischer Konzepte in den Bereichen
+Genregulation, Molekulare Biotechnologie und/oder Molekulare Zellbiologie
+Vorkenntnisse Grundkenntnisse der Genetik
+Pr ¨ ufung 90-min ¨utige Klausur zu einer der Vorlesungen.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 90, Selbststudium: 210)
+Leistungspunkte 10
+Teilgebiet Molekularbiologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+74Modul Spezielle Molekularbiologie III
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Biotechnologie, Vorlesung (2 SWS),
+Molekulare Biotechnologie der Prokaryoten, Vorlesung (1
+SWS),
+Molekulare Biotechnologie der Eukaryoten, Vorlesung (2
+SWS),
+Molekulare Humangenetik, Vorlesung (2 SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich im WiSe und SoSe
+Inhalt
+Vorlesung Biotechnologie :
+Anwendung diverser G ¨arungen in der Lebensmittel-Biotechnologie (Wein, Bier,
+Milch- und Fleischprodukte, Silagen)
+Industrielle Biotechnologie des Prim ¨ar- und Sekund ¨armetabolismus
+Biotechnologie biologischer Makromolek ¨ule (Pharmaproteine, technische Enzy-
+me)
+Biotranformation
+Molekulare Biotechnologie der Bakterien, Hefe/Pilze, Pﬂanzen und Tiere
+Vorlesung Molekulare Biotechnologie der Prokaryoten :
+Biotechnologie extremophiler Bakterien (thermophile, psychrophile, halophile,
+strahlungsresistente und magnetotaktische Bakterien)
+Metagenomics, Klonierungsstrategien, Genbanken
+Heterologe Genexpression und Expressionssysteme (E. coli, B. subtilis und wei-
+tere industrielle Wirte)
+Optimierung der Genexpression (Fusionsproteine, Translation, Proteinstabilit ¨at,
+Sekretion) und Fermentationsstrategien
+Gentechnische ver ¨anderte Prokaryoten in der Landwirtschaft (Mikrobielle Insek-
+tizide), Lebensmittelindustrie und Medizin Gentechnikgesetz und Patentierung
+Vorlesung Molekulare Biotechnologie der Eukaryoten :
+Methodischer ¨Uberblick zur molekularen Biotechnologie
+Molekulare Biotechnologie der Hefen (Vektorsysteme; Proteinpoduktion und me-
+tabolische Umprogrammierung)
+Molekulare Biotechnologie ﬁlament ¨oser Pilze
+Molekulare Biotechnologie der Pﬂanzen (Methoden des DNA-Transfers zur Er-
+zeugung transgener Pﬂanzen; Resistenz gegen Insekten, Pilze, Viren und Herbi-
+zide; neue bzw. modiﬁzierte Biosynthesewege)
+Molekulare Biotechnologie der Tiere (Zellkulturen; Vektorsysteme; Transfektions-
+methoden; transgene Tiere als lebende Bioreaktoren)
+Inhalt
+75Vorlesung Molekulare Humangenetik :
+Struktur des humanen Genoms, Chromosomenstruktur, Mutationen
+Zytogenetische Diagnostik
+Direkte und indirekte molekulargenetische Diagnostik
+Konsequenzen der X-Chromosomeninaktivierung
+Pleiotropie und Heterogenie in der Humangenetik
+Dynamische Mutationen
+Zwillingsforschung
+Multifaktorielle (komplexe) Erkrankungen
+Behandlung genetisch bedingter Erkrankungen
+Qualiﬁkationsziele
+Fortgeschrittenes Verst ¨andnis molekularbiologischer Konzepte in den Bereichen
+Genregulation, Molekulare Biotechnologie und/oder Molekulare Zellbiologie
+Verst ¨andnis biotechnologischer Prozesse bei der Lebensmittelveredlung und der
+Gewinnung von Metaboliten des Prim ¨ar- und Sekund ¨arstoffwechsels
+Vorkenntnisse Grundkenntnisse der Genetik, Biochemie und Zellbiologie
+Pr ¨ ufung 60-min ¨utige Klausur zur Vorlesung Molekulare Biotechnolo-
+gie der Eukaryoten.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 105, Selbststudium: 195)
+Leistungspunkte 10
+Teilgebiet Molekularbiologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+76Modul Molekulare Phylogenetik
+Verantwortlicher Leiter der Vogelwarte Hiddensee, AG Allgemeine und Syste-
+matische Zoologie
+Lehrformen Molekulare Phylogenetik, Vorlesung und ¨Ubung (2 SWS),
+Molekulare Phylogenetik, Seminar (2 SWS),
+Molekulare Phylogenetik, Praktikum (6 SWS)
+Dauer/Turnus 2 Sem., Vorlesung und Analysemethoden Block im M ¨arz;
+Seminar semesterbegleitend im Sommer; Labormethoden
+Block im September)
+Inhalt
+Vorlesung und ¨Ubung Molekulare Phylogenetik :
+Biochemische Grundlagen
+Alignment von DNA-Sequenzen
+Methoden der Phylogenetischen Rekonstruktion (Maximum Parsimony, Distan-
+zen, Maximum Likelihood, Bayes’sche Analyse, Netzwerke)
+Probleme (z.B. Long branch attraction, Molekulare Uhr, Einzelgen- vs. Multigen-
+analysen)
+Seminar Molekulare Phylogenetik :
+Diskussion aktueller Probleme
+Vertiefung von Methoden
+Pr¨asentation von Arbeiten verschiedener Arbeitsgruppen
+Praktikum Molekulare Phylogenetik :
+DNA-Isolierung
+PCR, Primerdesign
+Sequenzierung
+Sequenzeditierung
+Alignment
+Einf¨uhrung in Stammbaumrekonstruktionen
+Qualiﬁkationsziele
+Erstellung von DNA-Sequenzdaten von der DNA-Isolierung ¨uber die PCR bis hin
+zur Sequenzierung
+Kenntnis der phylogenetischen Analyse von Sequenzdaten in Theorie und Praxis
+(Computer)
+Vorkenntnisse
+Pr ¨ ufung 60-min ¨utige Klausur zum Inhalt der Vorlesung und ¨Ubung,
+Seminarschein, Protokoll zum Praktikum
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesung und ¨Ubung: 30, Seminar: 30, Praktikum: 90,
+Selbststudium: 150)
+Leistungspunkte 10
+77Teilgebiet Molekularbiologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+78Funktionelle Zellbiologie und
+PhysiologieModul Tier- und Zellphysiologie
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Vegetative Physiologie, Vorlesung (2 SWS),
+Tier- und Zellphysiologie, Seminar (2 SWS),
+Tierphysiologische ¨Ubungen, ¨Ubung (2,5 SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich im WiSe und SoSe
+Inhalt
+Vorlesung Vegetative Physiologie :
+Gastrointestinaltrakt (Mundwerkzeuge, Magen, Darm, Verdauung, Resorption)
+Atmung (Diffusion, Ventilation, Konvektion, Sauerstoffangebot, Atemmedien,
+Gaswechselorgane, Regulation der Atmung)
+Herz- und Kreislaufsystem (Blut und H ¨amolymphe, respiratorische Pigmente, of-
+fene und geschlossene Systeme, Austauschprozesse mit dem Gewebe, neuro-
+gene und myogene Herzen, Erregungsleitung im Herzmuskel)
+Salz/Wasser-Haushalt (Fließgleichgewichte, Konzentrationsgradienten, Trans-
+portproteine, St ¨orungen, Regulation, regulatorische Organe)
+Thermoregulation (Temperaturtoleranz und -adaptation, Winterschlaf, Torpor, Ek-
+tothermie, Endothermie)
+Hormone (Systematik, Regelkreise, Hormondr ¨usen, Rezeptormechanismen, in-
+trazellul ¨are Signal ¨ubermittlung, Hormonwirkung)
+Seminar Tier- und Zellphysiologie :
+Literaturrecherche und -auswertung zu wissenschaftlichen Themen zur Funktion
+von Zellen, Organen und Organismen
+Vorbereitung und Pr ¨asentation im Rahmen eines Seminars, Diskussion der In-
+halte und der Pr ¨asentationsform
+Praktikum Tierphysiologische ¨Ubungen :
+Einf¨uhrung in die Bezeichnung und Handhabung von Laborger ¨aten
+Exkretion
+Ern¨ahrung und Verdauung
+Herz und Kreislauf
+K¨orperﬂ ¨ussigkeiten
+Atmung
+Somatosensorik und Ph ¨anomene der Wahrnehmung
+Chemorezeption
+Ohr und Vestibularapparat
+Sehen
+Computersimulation physiologischer Prozesse und Experimente
+Qualiﬁkationsziele
+80Erwerb von vertieften Kenntnissen zu Zell-, Organ- und lebenserhaltenden
+K¨orperfunktionen von Tieren und Mensch
+Erwerb von vertieften Kenntnissen der Tier- und Zellphysiologie
+Erwerb von vertieften Kenntnissen zu Molek ¨ulen und metabolischen Abl ¨aufen bei
+verschiedenen Tierarten
+Erwerb von grundlegenden Kenntnissen zur Funktion von tierischen Zellen, Or-
+ganen und Organismen, Erwerb von grundlegenden F ¨ahigkeiten zu eigener ex-
+perimenteller Arbeit
+Erwerb von Grund- und speziellen Kenntnissen zu Parasiten bei Tier und
+Mensch, Erwerb von Anschauungserfahrung zu parasitischer Lebensweise und
+Funktion und zur Dokumentation von Parasit/Wirt-Beziehungen
+Vorkenntnisse Erfolgreicher Besuch der Vorlesung Einf ¨uhrung in die Phy-
+siologie der Tiere und des Menschen
+Pr ¨ ufung 60-min ¨utige Klausur zur Vorlesung, Seminarschein, Prakti-
+kumsprotokolle.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 30, ¨Ubung: 40, Seminar: 30, Selbststudi-
+um: 200)
+Leistungspunkte 10
+Teilgebiet Funktionelle Zellbiologie und Physiologie - Pﬂichtmodul
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+81Modul Spezielle Physiologie I
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Vergleichende Biochemie der Tiere, Vorlesung (2 SWS),
+Parasitologie/Humanparasitologie, Vorlesung (1 SWS),
+¨Ubung (2 SWS)
+Dauer/Turnus 1 Sem., j ¨ahrlich im WiSe
+Inhalt
+Vorlesung Vergleichende Biochemie der Tiere :
+Protein-Stoffwechsel
+Molekulare Evolution
+L¨osliche Proteine in tierischen K ¨orperﬂ ¨ussigkeiten
+Respiratorische Proteine
+Regulatorische Proteine und Peptide
+Membran-assoziierte und integrale Membranmolek ¨ule
+Extrazellul ¨are strukturelle und sekretorische Molek ¨ule
+Stickstoff-Metabolismus
+Energie-Metabolismus
+Toxine
+Vorlesung und ¨Ubung Parasitologie/Humanparasitologie :
+Vorlesung:
+Allgemeine Parasitologie (Parasit-Wirt-Wechselbeziehungen, ¨Ubertragungswege
+und -mechanismen, Abwehrreaktionen der Wirte)
+Spezielle Parasitologie (Intrazellul ¨are Parasiten, Parasiten des Blutes und der
+Lymphgef ¨aße, Parasiten des (subcutanen) Bindegewebes, Parasiten des Dar-
+mes, Parasiten der Leber, Parasiten der Muskulatur, Parasiten des Gehirns, Pa-
+rasiten anderer innerer Organe, Parasiten der Haut, Ektoparasiten)
+Vorstellung ausgew ¨ahlter und typischer Vertreter (Epidemiologie, Symptome der
+Parasitose, Entwicklungszyklus, Pathogenit ¨atsmechanismen, Schutz und Thera-
+pie, Vorkommen)
+¨Ubungen:
+Nachweis von Krankheitserregern in Zecken
+Hirudo medicinalis : Blutmahlzeit am Menschen
+Anlegen einer elektronischen Bilddatenbank nach Dauerpr ¨aparaten von Parasi-
+ten
+Besuch eines Schlachthofes unter Nutztier-parasitologischen Gesichtspunkten
+Bestimmung des Antik ¨orpertiters gegen Toxoplasma gondii
+Qualiﬁkationsziele
+82Erwerb von vertieften Kenntnissen zu Zell-, Organ- und lebenserhaltenden
+K¨orperfunktionen von Tieren und Mensch
+Erwerb von vertieften Kenntnissen der Tier- und Zellphysiologie
+Erwerb von vertieften Kenntnissen zu Molek ¨ulen und metabolischen Abl ¨aufen bei
+verschiedenen Tierarten
+Erwerb von grundlegenden Kenntnissen zur Funktion von tierischen Zellen, Or-
+ganen und Organismen, Erwerb von grundlegenden F ¨ahigkeiten zu eigener ex-
+perimenteller Arbeit
+Erwerb von Grund- und speziellen Kenntnissen zu Parasiten bei Tier und
+Mensch, Erwerb von Anschauungserfahrung zu parasitischer Lebensweise und
+Funktion und zur Dokumentation von Parasit/Wirt-Beziehungen
+Vorkenntnisse Erfolgreicher Besuch der Vorlesung Einf ¨uhrung in die Phy-
+siologie der Tiere und des Menschen
+Pr ¨ ufung Zwei 60-min ¨utige Klausuren zu den Vorlesungen und Prakti-
+kumsprotokolle.
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 45, ¨Ubung: 30, Selbststudium: 225)
+Leistungspunkte 10
+Teilgebiet Funktionelle Zellbiologie und Physiologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+83Modul Spezielle Physiologie II
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Physiologie des Menschen, Vorlesung (3 SWS),
+Molecular Mechanisms of Physiological Processes, Seminar
+(2 SWS),
+Salz/Wasserhaushalt bei Tier und Mensch, ¨Ubung (5 SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich im WiSe und SoSe
+Inhalt
+Physiologie des Menschen :
+Bedeutung des Blutes; Zusammensetzung, Aufgaben von Blutzellen und Plas-
+maproteinen, Stammzellen und Erythropoese, Blutgerinnung
+Kreislauf; Funktionselemente und H ¨amodynamik, Mikrozirkulation, Stoffaus-
+tausch, Kreislaufregulation, lokale Durchblutungsregulation, Lungenkreislauf
+Funktion der Nieren; Aufbau des Nephrons, glomerul ¨are Filtration, Resorption,
+Harnkonzentrierung und Diurese, hormonelle Regulation
+Atmung; Atemvolumina und Spirometrie, Atemmechanik, Gasaustausch in der
+Lunge, Atemgastransport im Blut, Atemregulation
+Funktionsweise des Herzens; Herz-Mechanik, Reizleitungssystem, Aktionspo-
+tenziale, Elektrokardiogramm, vegetative Regulation
+Erregungsprozesse; Ruhepotenzial, Aktionspotenzial, erregbare Zellen, Erre-
+gungsausbreitung, synaptische ¨Ubertragung
+Muskel; molekularer Mechanismus der Kontraktion (Skelettmuskel), Kopplung
+von Erregung und Kontraktion, Muskelmechanik, Innervation, glatte Muskulatur
+Sensorisches System; mechanische Sinne, optischer Sinn
+Sensomotorisches System; ¨Ubermittlung sensorischer Information an das ZNS,
+Zielmotorik, motorisches Lernen
+”H¨ohere” Funktionen des ZNS; Methdoen der Hirnforschung, Aufbau des Ge-
+hirns, Triebe, Belohnung, Verhalten, Lernen, Ged ¨achtnis, Bewusstsein
+Seminar Molecular Mechanisms of Physiological Processes :
+Literaturrecherche und -auswertung zu molekularen Mechanismen physiologi-
+scher Prozesse bei Mensch und Tier
+Vorbereitung und englischsprachige Pr ¨asentation im Rahmen eines Seminars
+Diskussion der Inhalte und der Pr ¨asentationsform
+¨Ubung Salz/Wasserhaushalt bei Tier und Mensch :
+Eigenes Experimentieren zu Fragestellungen zur Osmo- und Volumenregulation
+und zur Exkretion bei Tier und Mensch
+Qualiﬁkationsziele
+Erwerb von Grundkenntnissen der funktionellen Anatomie und Physiologie des
+Menschen
+84Vorkenntnisse Erfolgreicher Besuch der Vorlesung Einf ¨uhrung in die Phy-
+siologie der Tiere und des Menschen
+Pr ¨ ufung 90-min ¨utige Klausur zur Vorlesung, Seminarschein, Prakti-
+kumsprotokolle
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 45, ¨Ubung: 75, Seminar: 30, Selbststudi-
+um: 150)
+Leistungspunkte 10
+Teilgebiet Funktionelle Zellbiologie und Physiologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+85Modul Spezielle Physiologie III
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Mechanismen der eukaryotischen Genregulation, Vorlesung
+(2 SWS),
+Signaltransduktion, Seminar (2 SWS),
+Zellphysiologie, Praktikum (5 SWS)
+Dauer/Turnus 2 Sem., j ¨ahrlich im WiSe und SoSe
+Inhalt
+Vorlesung Mechanismen der eukaryotischen Genregulation :
+Prozesse der Genomdynamik und ihre Bedeutung f ¨ur die Genexpression
+Chromatin und Chromatindynamik bei der Aktivierung bzw. Repression eukaryo-
+tischer Gene
+Transkription und Transkriptionsfaktoren
+Funktionelle Anatomie eukaryotischer Aktivatorproteine
+Mechanismen der transkriptionalen Aktivierung und Repression
+Regulation der RNA-Prozessierung
+Regulierte RNA-Degradation (u. a. RNA-Interferenz)
+Mechanismen der translationalen Kontrolle
+Seminar Signaltransduktion :
+Selbst ¨andige Erarbeitung von ausgesuchten Themen anhand wissenschaftlicher
+Literatur und Pr ¨asentation der Ergebnisse (Vortr ¨age m ¨oglichst in englischer Spra-
+che)
+Praktikum Zellphysiologie :
+Wissenschaftliche Hypothesenpr ¨ufung mit Hilfe ausgew ¨ahlter Experimente zur
+Zellfunktion
+Versuchsdesign, Konzeption und Durchf ¨uhrung eines wissenschaftlichen Experi-
+mentes
+Qualiﬁkationsziele
+Vertiefte theoretische Kenntnisse in der Tier- und Zellphysiologie
+F¨ahigkeit zur Pr ¨ufung wissenschaftlicher Hypothesen, eigenst ¨andige Konzeption
+und Durchf ¨uhrung von Experimenten
+Erfahrungen in der fortgeschrittenen Literaturrecherche
+Vertiefte praktisch-methodische Kenntnisse
+Vorkenntnisse Erfolgreicher Besuch der Vorlesung Einf ¨uhrung in die Phy-
+siologie der Tiere und des Menschen
+Pr ¨ ufung 90-min ¨utige Klausur zur Vorlesung, Seminarschein (Vortrag
+in englischer Sprache), je ein Gruppenprotokoll zu jedem
+Versuch im Praktikum
+Note Note der Modulpr ¨ufung
+Aufwand in h 300 (Vorlesungen: 30, Seminar: 30, Praktikum: 75, Selbst-
+studium: 165)
+86Leistungspunkte 10
+Teilgebiet Funktionelle Zellbiologie und Physiologie
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+87Praktikum / MasterarbeitModul Berufsbezogenes Praktikum
+Verantwortlicher Vorsitzender des Pr ¨ufungsausschusses
+Lehrformen Praktikum
+Dauer/Turnus 4 Wochen, in der vorlesungsfreien Zeit
+Inhalt
+Praktikum in einem Betrieb mit Mathematik- bzw. Informatik-nahen Aufgabenstel-
+lungen
+Qualiﬁkationsziele
+Vertiefte Einsichten in die beruﬂiche Praxis einer/eines Mathematike-
+rin/Mathematikers oder einer/eines Informatikerin/Informatikers,
+Weitreichende Erfahrungen bei der Anwendung spezieller fachlicher Kenntnisse
+in einem unternehmerischen Umfeld,
+Kompetenzen in projektbezogener und forschungsorientierter Teamarbeit und
+Kommunikation.
+Vorkenntnisse Vertiefte Kenntnis in anwendungsorientierten Teilgebieten
+der Mathematik und Informatik
+Pr ¨ ufung Als Pr ¨ufungsleistung ist ein 3-seitiger Bericht ¨uber das Prak-
+tikum zu erstellen.
+Note unbenotet
+Aufwand in h 160
+Leistungspunkte 6
+Teilgebiet keine Zuordnung
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+89Modul Masterarbeit
+Verantwortlicher Betreuender Hochschullehrer
+Lehrformen Schriftliche Abschlussarbeit
+Dauer/Turnus 9 Monate, jederzeit
+Inhalt
+je nach Themenstellung
+Qualiﬁkationsziele
+Bef¨ahigung zur selbst ¨andigen Bearbeitung einer komplexen, forschungsorientier-
+ten Fragestellung in begrenzter Zeit
+Kompetenzen zur Niederschrift der erzielten Ergebnisse in Form einer wissen-
+schaftlichen Arbeit
+Vorkenntnisse je nach Themenstellung
+Pr ¨ ufung Schriftliche Arbeit mit Begutachtung
+Note Gemittelte Note der Gutachter
+Aufwand in h 900 (Selbststudium: 900)
+Leistungspunkte 30
+Regelpr ¨ ufungstermin Semester, in dem das Modul angeboten wird.
+90
