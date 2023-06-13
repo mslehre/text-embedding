@@ -1,0 +1,138 @@
+id	lastname	firstname	institute	faculty	title	WoSID
+0	Link 	Andreas	Institut für Pharmazie	MNF	Prof. Dr. rer. nat.	1152429
+1	Frosch	Christian	Caspar-David-Friedrich-Institut	CDFI	Prof.	
+2	Wacker	Alexander	Zoologisches Institut und Museum	MNF	Prof. Dr.	1070397
+3	Tamminga	Allard	Institut für Philosophie	PHIL	Prof. Dr.	16382291
+4	Kuß	Andreas	Interfakultäres Institut für Genetik und Funktionelle Genomforschung	MNF	Prof. Dr.	28784297
+5	Melzer	Andre	Institut für Physik	MNF	Prof. Dr.	528741
+6	Sosna	Anette	Institut für Deutsche Philologie	PHIL	Prof. Dr.	
+7	Lehmann	Björn Philipp	Zoologisches Institut und Museum	MNF	Prof. Dr.	620344
+8	Helm	Christiane	Institut für Physik	MNF	Prof. Dr.	1633393
+9	von Savigny	Christian	Institut für Physik	MNF	Prof. Dr.	209287
+10	Linde	Cornelia	Historisches Institut	MNF	Prof. Dr.	10996438
+11	Schiller	Daniel	Institut für Geographie und Geologie	MNF	Prof. Dr.	832193
+12	Siegel	Daniel	Institut für Physik	MNF	Prof. Dr.	29122867
+13	Jahn	Detlef	Institut für Politik- und Kommunikationswissenschaft	PHIL	Prof. Dr.	9033334
+14	North	Michael	Historisches Institut	PHIL	Prof. Dr. Dr.	40896787
+15	Weilandt	Gerhard Christian	Caspar-David-Friedrich-Institut	CDFI	Prof. Dr.	17912705
+16	zur Nieden	Gesa	Institut für Kirchenmusik und Musikwissenschaft	PHIL	Prof. Dr.	18551932
+17	Fehske	Holger	Institut für Physik	MNF	Prof. Dr.	7491794
+18	Classen	Claus Dieter	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. iur.	43934982
+19	Zeller	Jan	Institut für Slawistik	PHIL	Prof. Dr.	1933480
+20	Pechtl	Hans	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr.	13135515
+21	Diehl	Joscha	Institut für Mathematik und Informatik	MNF	Prof. Dr.	16726735
+22	Beater	Axel	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	
+23	Schinkels	Boris	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	14030208
+24	Fahl	Christian	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	
+25	Lang	Heinrich	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur. Dipl. Sozialpäd.	
+26	Merkel	Grischa	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	12002066
+27	Eckert	Hans-Werner	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	
+28	Lege	Joachim	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	
+29	Rodi	Michael	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	
+30	Schlacke	Sabine	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	27809429
+31	Habermeier	Stefan	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	
+32	Weber	Ralph	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur. utr.	
+33	Kischel	Uwe	Fachbereich Rechtswissenschaften	RSF	Prof. Dr. jur.	23415830
+34	Heck	Kilian Peter	Caspar-David-Friedrich-Institut	CSFI	Prof. Dr.	8456107
+35	Beck	Klaus	Institut für Politik- und Kommunikationswissenschaft	PHIL	Prof. Dr.	
+36	Kempen	Leander	Institut für Mathematik und Informatik	MNF	Prof. Dr.	23161498
+37	Schweikhard	Lutz	Institut für Physik	MNF	Prof. Dr.	2360917
+38	Münzenberg	Markus	Institut für Physik	MNF	Prof. Dr.	38874770
+39	Schneider	Matthias	Institut für Kirchenmusik und Musikwissenschaft	PHIL	Prof. Dr.	34436052
+40	Höhle	Michael	Institut für Mathematik und Informatik	MNF	Prof. Dr.	1683686
+41	Delcea	Mihaela	Institut für Biochemie	MNF	Prof. Dr.	1690610
+42	von Bohlen und Halbach	Oliver	Institut für Anatomie und Zellbiologie	MNF	Prof. Dr.	759114
+43	Helander	Per	Max-Planck-Institut für Plasmaphysik	MNF	Prof. Dr.	22341702
+44	Lindqvist	Christer	Institut für Fennistik und Skandinavistik	PHIL	Prof. Dr. phil.	11278775
+45	Heß	Cordelia	Historisches Institut	PHIL	Prof. Dr. phil.	22009360
+46	Schumacher	Eckhard	Institut für Deutsche Philologie	PHIL	Prof. Dr. phil.	27978917
+47	Lutz	Hartmut	Institut für Anglistik und Amerikanistik	PHIL	Prof. Dr. phil.	24618944
+48	Klüter	Helmut	Institut für Geographie und Geologie	MNF	Prof. Dr. phil.	
+49	Buchstein	Hubertus	Institut für Politik- und Kommunikationswissenschaft	PHIL	Prof. Dr. phil.	5548040
+50	Schiewe	Jürgen	Institut für Deutsche Philologie	PHIL	Prof. Dr. phil.	27932947
+51	Spieß	Karl-Heinz	Historisches Institut	PHIL	Prof. Dr. phil.	16251703
+52	Marx	Konstanze	Institut für Deutsche Philologie	PHIL	Prof. Dr. phil.	11581584
+53	Niemeyer	Manfred	Institut für Slawistik	PHIL	Prof. Dr. phil.	
+54	Niendorf	Mathias	Historisches Institut	PHIL	Prof. Dr. phil.	26232743
+55	Werner	Micha Holm	Institut für Philosophie	PHIL	Prof. Dr. phil.	15091152
+56	Unzeitig	Monika	Institut für Deutsche Philologie	PHIL	Prof. Dr. phil.	29940551
+57	Reisenzein	Rainer	Institut für Psychologie	MNF	Prof. Dr. phil.	35093486
+58	Bach	Reinhard	Institut für Romanistik	PHIL	Prof. Dr. phil.	4998395
+59	Domsch	Sebastian	Institut für Anglistik und Amerikanistik	PHIL	Prof. Dr. phil.	7011797
+60	Jahr	Silke	Institut für Deutsche Philologie	PHIL	Prof. Dr. phil.	
+61	Heyd	Theresa	Institut für Anglistik und Amerikanistik	PHIL	Prof. Dr. phil.	35075334
+62	Jekutsch	Ulrike	Institut für Slawistik	PHIL	Prof. Dr. phil.	24163668
+63	Westermann	Rainer	Institut für Psychologie	MNF	Prof. Dr.l
+64	Schneider	Ralf	Institut für Physik	MNF	Prof. Dr.	14270230
+65	Banning	Andre	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. nat.
+66	Kugelmann	Bernd	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	24007801
+67	Schulzke	Carola	Institut für Biochemie	MNF	Prof. Dr. rer. nat.	2332504
+68	Gliesche	Christian	Institut für Mikrobiologie	MNF	Prof. Dr. rer. nat.
+69	Bandt	Christoph	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	4574333
+70	Ritter	Christoph	Institut für Pharmazie	MNF	Prof. Dr. rer. nat.	14014797
+71	Becher	Dörte	Institut für Mikrobiologie	MNF	Prof. Dr. rer. nat.	1847103
+72	Scholz	Fritz	Institut für Biochemie	MNF	Prof. Dr. rer. nat.	27775648
+73	Uhl	Gabriele	Zoologisches Institut und Museum	MNF	Prof. Dr. rer. nat.	30620207
+74	Kerth	Gerald	Zoologisches Institut und Museum	MNF	Prof. Dr. rer. nat.	23754437
+75	Schüller	Hans-Joachim	Interfakultäres Institut für Genetik und Funktionelle Genomforschung	MNF	Prof. Dr. rer. nat.
+76	Liebscher	Hans Volkmar	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	2829
+77	Krist	Horst	Institut für Psychologie	MNF	Prof. Dr. rer. nat.	32321
+78	Kath	Ines	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	38352705
+79	Hinz-Schallreuter	Ingelore	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. nat.	22382262
+80	Hildebrandt	Jan-Peter	Zoologisches Institut und Museum	MNF	Prof. Dr. rer. nat.	28934358
+81	Joosten	Johannes			Prof. Dr. rer. nat.	
+82	Kreyling	Jürgen	Institut für Botanik und Landschaftsökologie	MNF	Prof. Dr. rer. nat.	1033084
+83	Weisz	Klaus	Institut für Biochemie	MNF	Prof. Dr. rer. nat.	4831300
+84	Waldorf	Konrad	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	17218814
+85	Ebner	Marc	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	1911881
+86	Fischer	Mareike	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	15236651
+87	Schafmeister	Maria-Theresia	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. nat.	14569009
+88	Stanke	Mario	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	1177820
+89	Meschede	Martin	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. nat.	11828568
+90	Schnittler	Martin	Institut für Botanik und Landschaftsökologie	MNF	Prof. Dr. rer. nat.	1421103
+91	Wilmking	Martin	Institut für Botanik und Landschaftsökologie	MNF	Prof. Dr. rer. nat.	2053866
+92	Eschrig	Matthias	Institut für Physik	MNF	Prof. Dr. rer. nat.	394932
+93	Hecker	Michael	Institut für Mikrobiologie	MNF	Prof. Dr. rer. nat.	
+94	Lalk	Michael	Institut für Biochemie	MNF	Prof. Dr. rer. nat.	1182517
+95	Lammers	Michael	Institut für Biochemie	MNF	Prof. Dr. rer. nat.	2064064
+96	Schürmann	Michael	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	39224456
+97	Siemens	Nikolai	Interfakultäres Institut für Genetik und Funktionelle Genomforschung	MNF	Prof. Dr. rer. nat.	16065697
+98	Bednarski	Patrick	Institut für Pharmazie	MNF	Prof. Dr. rer. nat.	2041566
+99	Manz	Peter	Institut für Physik	MNF	Prof. Dr. rer. nat.	1833895
+100	Lampe	Reinhard	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. nat.	10462691
+101	Zölitz	Reinhard	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. nat.	
+102	Pulch	Roland	Institut für Mathematik und Informatik	MNF	Prof. Dr. rer. nat.	29340731
+103	Müller	Sabine	Institut für Biochemie	MNF	Prof. Dr. rer. nat.	653208
+104	Klein	Sandra	Institut für Pharmazie	MNF	Prof. Dr. rer. nat.	10342075
+105	van der Linden	Sebastian	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. nat.	840206
+106	Harzsch	Steffen	Zoologisches Institut und Museum	MNF	Prof. Dr. rer. nat.	1301247
+107	Hammerschmidt	Sven	Interfakultäres Institut für Genetik und Funktionelle Genomforschung	MNF	Prof. Dr. rer. nat.	827774
+108	Jira	Thomas	Institut für Pharmazie	MNF	Prof. Dr. rer. nat.	16021920
+109	Schweder	Thomas	Institut für Pharmazie	MNF	Prof. Dr. rer. nat.	30245214
+110	Haberzettl	Torsten	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. nat.	2349887
+111	Bornscheuer	Uwe	Institut für Biochemie	MNF	Prof. Dr. rer. nat.	321742
+112	Rohde	Armin	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol.	
+113	Körnert	Jan	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol. habil	
+114	Kloyer	Martin	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol. habil	15268051
+115	Rollberg	Roland	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol. habil	27417070
+116	Steinrücke	Martin	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol.	
+117	Fleßa	Steffen	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol.	1245996
+118	Soretz	Susanne	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol.	1584822
+119	Mindermann	Torsten	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol.	26062928
+120	Ried	Walter	Fachbereich Wirtschaftswissenschaften	RSF	Prof. Dr. rer. pol.	13991934
+121	Steingrube	Wilhelm	Institut für Geographie und Geologie	MNF	Prof. Dr. rer. pol.	15681668
+122	Bussemer	Sixten	Institut für Geographie und Geologie	MNF	Prof. Dr.	19750317
+123	Averbeck-Lietz	Stefanie	Institut für Politik- und Kommunikationswissenschaft	PHIL	Prof. Dr.	19663629
+124	Kessler	Stephan	Institut für Baltistik	PHIL	Prof. Dr.	
+125	Schnell	Susanne	Institut für Physik	MNF	Prof. Dr.	707958
+126	Stoll-Kleemann	Susanne	Institut für Geographie und Geologie	MNF	Prof. Dr.	4439661
+127	Böttrich	Christfried	Theologische Fakultät	THEO	Prof. Dr. theol.	5827238
+128	Assel	Heinrich	Theologische Fakultät	THEO	Prof. Dr. theol.	4786401
+129	Herbst	Michael	Theologische Fakultät	THEO	Prof. Dr. theol.	
+130	Rosenstock	Roland	Theologische Fakultät	THEO	Prof. Dr. theol.	13797766
+131	Beyerle	Stefan	Theologische Fakultät	THEO	Prof. Dr. theol.	5038091
+132	Kuhn	Thomas	Theologische Fakultät	THEO	Prof. Dr. theol.	
+133	Braune-Krickau	Tobias	Theologische Fakultät	THEO	Prof. Dr.	5781747
+134	Fried	Torsten	Historisches Institut	PHIL	Prof. Dr.	
+135	Soltau	Michael	Caspar-David-Friedrich-Institut	CDFI	Prof.	
+136	Warr	Laurence	Institut für Geographie und Geologie	MNF	Prof. PhD	16185175
