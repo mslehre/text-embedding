@@ -3,11 +3,8 @@ def prompt(
     chunks: dict,
 ) -> str:
 
-    #okay just that works fine
-    #now to add the dictionary values... smth like this
-    #basically, you know the total number of tokens? letters? you can have
-    #calculate how much the rest is so how much is left for the chunks
-    #add as many as can fit
+#key relevant or not? docs will probably all start with the name of the scientist so could leave key out
+#left to do: add upper limit for prompt length -> not too many tokens
     context=""
     for key in chunks:
         context+= key + ": " + chunks[key] + "\n"
