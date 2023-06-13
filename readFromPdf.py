@@ -1,6 +1,7 @@
 # importing required modules
 import PyPDF2
 import os
+import re
 
 def pdfToTxt(pdfname):
     #creating a txt output file
@@ -17,12 +18,36 @@ def pdfToTxt(pdfname):
     totalPages = len(pdfReader.pages)
     fileText = ''
 
+    #get document info
+    info = pdfReader.metadata
+
+    #test got metadata
+    #print(info.author)
+    #print(info.creator)
+    #print(info.producer)
+    #print(info.subject)
+    #print(info.title)
+    #print('==================================')
+
     for i in range(totalPages):
         # creating a page object
         pageObj = pdfReader.pages[i]
 
         # extracting text from page
-        fileText += pageObj.extract_text()
+        pageText = pageObj.extract_text()
+        fileText += pageText
+
+        #create test string to find distinguish features of header
+        #without newlines to be able to check it with regex
+        fileTextRegex = pageText.replace('\n', '_')
+
+        #print(fileTextRegex)
+
+        #search pattern Nichtamtliche ... 20xx
+        x = re.search("^Nichtamtliche.*20[0-9][0-9]", fileTextRegex)
+
+        if x:
+            print('Header with "Nichtamliche ... 20xx" found ')
 
     # closing the pdf file object
     pdfFileObj.close()
