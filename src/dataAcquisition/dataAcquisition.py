@@ -46,7 +46,7 @@ def navigateToWebsite(driver, URL: str,
         driver.get(URL)
     except:
         with open(logPath,'a') as file:
-            file.write("["+dtstr+"]\tError: Page \""+URL
+            file.write("[" + dtstr + "]\tError: Page \"" + URL
                        + "\" could not be loaded.]"
                        + type(Exception).__name_+"\n")
         return driver
