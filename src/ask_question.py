@@ -1,20 +1,7 @@
-#Questions to work through:
-# - settings (temperature etc) correct for us?
-# - add testing function? need example vectors for this...
-
 #example question: What are common interests for these two scientists, give documents: first list, second list....
 #set key with export OPENAI_API_KEY="..."
 
-#add argument list of indices, read in eg 1.txt, 5.txt and 7.txt from directory
-
-#first test without that though, make a directory with some testfiles, ask a test question see if it works
-#read up and understand what that vectorstore even is and how chroma gets it
-
-#here: https://blog.langchain.dev/langchain-chroma/ and github link in that will help
-
 #https://platform.openai.com/docs/guides/gpt/chat-completions-api
-#look up how to most basically ask openai questions, use that
-
 
 import os
 import openai
