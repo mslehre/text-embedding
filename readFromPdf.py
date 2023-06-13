@@ -1,10 +1,11 @@
 # importing required modules
 import PyPDF2
+import os
 
 def pdfToTxt(pdfname):
     #creating a txt output file
-    txtname=pdfname[:-4]
-    txtname+=".txt"
+    txtname = pdfname[:-4]
+    txtname += ".txt"
 
     # creating a pdf file object
     pdfFileObj = open(pdfname, 'rb')
@@ -28,7 +29,11 @@ def pdfToTxt(pdfname):
     output = open(txtname, 'w')
     output.write(fileText)
 
-#test variables
-pdfTestName = input('Enter the pdf file name: ') #'examination_regulations/GPO-BMS_Lesefassung_AendS-2021-2.pdf'
+#convert pdf files in a dictionary into txt files
+directory = 'data/examination_regulations'
 
-pdfToTxt(pdfTestName)
+for filename in os.listdir(directory):
+    f = os.path.join(directory, filename)
+    # checking if it is a file and if it is '.pdf' at the end
+    if os.path.isfile(f) and f[-4:] == '.pdf':
+        pdfToTxt(f)
