@@ -1,0 +1,80 @@
+Ines Kath,38352705;
+
+Lattices in the Four-Dimensional Hyperbolic Oscillator Group	https://www.webofscience.com/wos/woscc/full-record/WOS:000897568200012
+
+A new example of a compact ERP G2-structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000668292200001
+
+Existence of Cocompact Lattices in Lie Groups With a Bi-invariant Metric of Index 2	https://www.webofscience.com/wos/woscc/full-record/WOS:000731074000015
+
+Skew Killing spinors in four dimensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000625601800001
+
+Spectra of Compact Quotients of the Oscillator Group	https://www.webofscience.com/wos/woscc/full-record/WOS:000658208300001
+
+Lattices in the four-dimensional split oscillator group	https://www.webofscience.com/wos/pprn/full-record/PPRN:11498384
+
+HOLONOMY GROUPS OF G(2)(*)-MANIFOLDS	https://www.webofscience.com/wos/woscc/full-record/WOS:000469491900009
+
+Local Type I Metrics with Holonomy in ${m G}_{2}^*$	https://www.webofscience.com/wos/pprn/full-record/PPRN:22599435
+
+Local Type I Metrics with Holonomy in G(2)*	https://www.webofscience.com/wos/woscc/full-record/WOS:000440858100001
+
+Holonomy groups of $G_2^*$-manifolds	https://www.webofscience.com/wos/pprn/full-record/PPRN:12118172
+
+Compact quotients of Cahen-Wallach spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:19147234
+
+SPECTRA OF SUB-DIRAC OPERATORS ON CERTAIN NILMANIFOLDS	https://www.webofscience.com/wos/woscc/full-record/WOS:000363494800003
+
+Indefinite symmetric spaces with G(2(2))-structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000320453000012
+
+Indefinite extrinsic symmetric spaces II	https://www.webofscience.com/wos/woscc/full-record/WOS:000310725100003
+
+A SPLITTING THEOREM FOR HIGHER ORDER PARALLEL IMMERSIONS	https://www.webofscience.com/wos/woscc/full-record/WOS:000306387400029
+
+Semisimplicity of indefinite extrinsic symmetric spaces and mean curvature	https://www.webofscience.com/wos/woscc/full-record/WOS:000304158400005
+
+Indefinite symmetric spaces with $G_{2(2)}$-structure	https://www.webofscience.com/wos/pprn/full-record/PPRN:22583546
+
+Indefinite extrinsic symmetric spaces I	https://www.webofscience.com/wos/woscc/full-record/WOS:000291342000004
+
+Classification results for pseudo-Riemannian symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000324344600022
+
+ON THE STRUCTURE OF PSEUDO-RIEMANNIAN SYMMETRIC SPACES	https://www.webofscience.com/wos/woscc/full-record/WOS:000272870400006
+
+The classification problem for pseudo-Riemannian symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000268749200001
+
+New examples of indefinite hyper-Kahler symmetric spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000246597900007
+
+Nilpotent metric Lie algebras of small dimension	https://www.webofscience.com/wos/woscc/full-record/WOS:000244494300003
+
+Metric Lie algebras and quadratic extensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000236108600006
+
+New examples of indefinite hyper-Kaehler symmetric spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:22836777
+
+Metric Lie algebras with maximal isotropic centre	https://www.webofscience.com/wos/woscc/full-record/WOS:000187291700003
+
+Doubly extended Lie groups - curvature, holonomy and parallel spinors	https://www.webofscience.com/wos/woscc/full-record/WOS:000186288300001
+
+Curvature estimates in asymptotically flat manifolds of positive scalar curvature	https://www.webofscience.com/wos/woscc/full-record/WOS:000183580000006
+
+Parallel pure spinors on pseudo-Riemannian manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000172650900008
+
+Pseudo-Riemannian T-duals of compact Riemannian homogeneous spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000087670200004
+
+Parallel spinors and holonomy groups on pseudo-Riemannian spin manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000078754600001
+
+G(2(2)(*))-Structures on pseudo-Riemannian manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000076008300001
+
+On nearly parallel G(2)-structures	https://www.webofscience.com/wos/woscc/full-record/WOS:000070984000006
+
+Normally hyperbolic operators, the Huygens property and conformal geometry	https://www.webofscience.com/wos/woscc/full-record/WOS:A1996VU19600001
+
+RIEMANNIAN-MANIFOLDS OF DIMENSION 7 WITH ONE REAL KILLING SPINOR	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EE99800015
+
+7-DIMENSIONAL COMPACT RIEMANNIAN-MANIFOLDS WITH KILLING SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EJ17200005
+
+COMPACT 5-DIMENSIONAL RIEMANNIAN-MANIFOLDS WITH PARALLEL SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EA96500017
+
+EINSTEIN MANIFOLDS OF DIMENSION-5 WITH SMALL 1ST EIGENVALUE OF THE DIRAC OPERATOR	https://www.webofscience.com/wos/woscc/full-record/WOS:A1989T512700003
+
+7-DIMENSIONAL COMPACT RIEMANNIAN-MANIFOLDS ADMITTING KILLING SPINORS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1988R490700008
+
