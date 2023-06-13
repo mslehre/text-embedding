@@ -47,8 +47,8 @@ def navigateToWebsite(driver, URL: str,
     except:
         with open(logPath,'a') as file:
             file.write("["+dtstr+"]\tError: Page \""+URL
-                       +"\" could not be loaded.]"
-                       +type(Exception).__name_+"\n")
+                       + "\" could not be loaded.]"
+                       + type(Exception).__name_+"\n")
         return driver
     delay = 15 #timeout delay
     try:
@@ -56,15 +56,17 @@ def navigateToWebsite(driver, URL: str,
         myElem = WebDriverWait(driver, delay).until(
                   EC.presence_of_element_located((By.ID, elementToWaitFor)))
         with open(logPath,'a') as file:
-            file.write("["+dtstr+"]\tPage \""+URL+"\" loaded successfully.\n")
+            file.write("[" + dtstr + "]\tPage \"" +URL
+                       + "\" loaded successfully.\n")
     except TimeoutException:
         with open(logPath,'a') as file:
-            file.write("["+dtstr+"]\tError: Page \""+URL
-                       +"\" loading timeout.\n")
+            file.write("[" + dtstr + "]\tError: Page \"" + URL
+                       + "\" loading timeout.\n")
     except:
         with open(logPath,'a') as file:
-            file.write("["+dtstr+"]\tError: Element \""+elementToWaitFor
-                       +"\" could not be loaded."+type(Exception).__name_+"\n")
+            file.write("[" + dtstr + "]\tError: Element \"" + elementToWaitFor
+                       + "\" could not be loaded."
+                       + type(Exception).__name_ + "\n")
     finally:    
         return driver
 
@@ -78,16 +80,17 @@ def exejscode(driver, jscode: str):
         result = driver.execute_script(jscode)
     except:
         with open(logPath,'a') as file:
-            file.write("["+dtstr+"]\tError while executing script. "
-                       +type(Exception).__name_+"\n")
+            file.write("[" + dtstr + "]\tError while executing script. "
+                       + type(Exception).__name_ + "\n")
     finally:
         with open(logPath,'a') as file:
-            file.write("["+dtstr+"]\tExtracted "+str(len(result))+" links.\n")
+            file.write("[" + dtstr + "]\tExtracted " + str(len(result)) 
+                       + " links.\n")
         return result
 
 #extract names and ID from spreadsheet and create data frame with URLs
 def getNamesAndURLs(df: pandas.DataFrame) -> pandas.DataFrame:
-    names_IDs_URLs = df[["Vorname","Nachname","ID"]]
+    names_IDs_URLs = df[["firstname","lastname","WoSID","id"]]
     return names_IDs_URLs
 
 #function to filter for relevant links and return new list of links
@@ -99,15 +102,15 @@ def filterForRelevantLinks(linklist: list) -> list:
         if "full-record" in link[1]:
             newLinklist.append(link)
     with open(logPath,'a') as file:
-            file.write("["+dtstr+"]\tFiltered to "
-                       +str(len(newLinklist))+" links.\n")
+            file.write("[" + dtstr + "]\tFiltered to "
+                       + str(len(newLinklist)) + " links.\n")
     return newLinklist
 
 #main function for testing
 def main():
     #js code to be converted
     linkgrabber = getJsCode("js_scripts/linkgrabber.js")
-    spreadsheet = pandas.read_csv("../../data/ProfsGW-proflist.csv")
+    spreadsheet = pandas.read_table("../../data/prof.tbl")
     sub_df = getNamesAndURLs(spreadsheet)
     #geckodriver location can differ
     driver = launchFirefox('/snap/bin/firefox.geckodriver')
@@ -125,30 +128,29 @@ def main():
     6. Wait until program is finished and you regain control over shell
     """
     time.sleep(120)
-    #i is index of the spreadsheet
-    i = 1
-    for ID in sub_df["ID"]:
-        i = i+1
-        if str(ID) == "nan":
+    for ID in sub_df["id"]:
+        WOSID = sub_df.loc[sub_df.id == ID,"WoSID"].values[0]
+        if str(WOSID) == "nan":
             continue
-        if exists("../../data/publications/"+str(i)+".txt"):
+        if exists("../../data/publications/" + str(ID) + ".txt"):
             continue
         #somehow the entries in the column are read as float, hence the cast
-        URL = "https://www.webofscience.com/wos/author/record/"+str(int(ID))
+        URL = "https://www.webofscience.com/wos/author/record/"
+        + str(int(WOSID))
         driver = navigateToWebsite(driver, URL, 'snProfilesPublicationsBottom')
         linklist = exejscode(driver, linkgrabber)
         linklist = filterForRelevantLinks(linklist)
         #write header
-        with open(str(i)+'.txt','a') as file:
+        with open(str(ID) + '.txt','a') as file:
             #sub_df.loc[...] returns "Vorname", "Nachname" from that row
             #where "ID" matches current ID in loop
-            file.write(sub_df.loc[sub_df.ID == ID, "Vorname"].values[0]
-                       +" "
-                       +sub_df.loc[sub_df.ID == ID, "Nachname"].values[0]
-                       +","+str(int(ID))+";\n\n")
+            file.write(sub_df.loc[sub_df.id == ID, "firstname"].values[0]
+                       + " "
+                       + sub_df.loc[sub_df.id == ID, "lastname"].values[0]
+                       + "," + str(int(WOSID)) + ";\n\n")
             #write links
             for link in linklist:
-                file.write(link[0]+"\t"+link[1]+"\n\n")
+                file.write(link[0] + "\t" + link[1] + "\n\n")
     driver.quit()
     return 0
 
