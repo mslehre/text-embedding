@@ -39,7 +39,7 @@ def read_file(filename_in: str, filename_out: str) -> None:
             else:
                 # Store the content of the file in the list texts.
                 file = open(path_texts + lines[i][j], "r")
-                texts[j] = file.read()
+                texts.append(file.read())
                 file.close()
         if (len(texts) == 4):
             # Compute the cosine similarity of the texts.
@@ -48,9 +48,9 @@ def read_file(filename_in: str, filename_out: str) -> None:
             if (similarity_1 == -2.0 or similarity_2 == -2.0):
                 with open('../data/' + filename_out, "a") as file_out:
                     file_out.write("The embedding for one of the files in " \
-                        "line", i + 1, "in", filename_in, "could not be " \
-                        "computed. Maybe the openai api key is not valid or " \
-                        " was not set as environment variable.\n")
+                        "line" + str(i + 1) + " in " + filename_in + " could " \
+                        "not be computed. Maybe the openai api key is not " \
+                        "valid or was not set as environment variable.\n")
                     file_out.close()
             else:
                 if ((similarity_1 < similarity_2) == int(lines[i][4].strip())):
