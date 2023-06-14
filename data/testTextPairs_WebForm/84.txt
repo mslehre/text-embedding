@@ -1,0 +1,101 @@
+Konrad Waldorf,17218814;
+
+Lie 2-groups from loop group extensions	https://www.webofscience.com/wos/pprn/full-record/PPRN:47295502
+
+Geometric T-duality: Buscher rules in general topology	https://www.webofscience.com/wos/pprn/full-record/PPRN:11418942
+
+A representation of the string 2-group	https://www.webofscience.com/wos/pprn/full-record/PPRN:12321742
+
+Fusion of implementers for spinors on the circle	https://www.webofscience.com/wos/woscc/full-record/WOS:000793475900019
+
+Categorical symmetries of T-duality	https://www.webofscience.com/wos/pprn/full-record/PPRN:12068360
+
+Fusion of implementers for spinors on the circle	https://www.webofscience.com/wos/pprn/full-record/PPRN:12092746
+
+2-vector bundles	https://www.webofscience.com/wos/pprn/full-record/PPRN:14155077
+
+Smooth functorial field theories from B-fields and D-branes	https://www.webofscience.com/wos/woscc/full-record/WOS:000610468800001
+
+Transgression of D-branes	https://www.webofscience.com/wos/woscc/full-record/WOS:000820285500001
+
+Connes fusion of spinors on loop space	https://www.webofscience.com/wos/pprn/full-record/PPRN:15025223
+
+Pontrjagin duality on multiplicative Gerbes	https://www.webofscience.com/wos/pprn/full-record/PPRN:14769994
+
+Observation of multi-skyrmion objects created by size and density control in Ta/CoFeB/MgO films	https://www.webofscience.com/wos/pprn/full-record/PPRN:12936922
+
+Smooth Fock bundles, and spinor bundles on loop space	https://www.webofscience.com/wos/pprn/full-record/PPRN:22854922
+
+Higher Geometry for Non-geometric T-Duals	https://www.webofscience.com/wos/woscc/full-record/WOS:000518631400010
+
+Smooth Functorial Field Theories from B-Fields and D-Branes	https://www.webofscience.com/wos/pprn/full-record/PPRN:11942376
+
+Higher geometry for non-geometric T-duals	https://www.webofscience.com/wos/pprn/full-record/PPRN:12092885
+
+Transgression of D-branes	https://www.webofscience.com/wos/pprn/full-record/PPRN:12888155
+
+Non-abelian gerbes and some applications in string theory	https://www.webofscience.com/wos/pprn/full-record/PPRN:22699621
+
+A global perspective to connections on principal 2-bundles	https://www.webofscience.com/wos/woscc/full-record/WOS:000437914900002
+
+Local theory for 2-functors on path 2-groupoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000408700500004
+
+Transgressive loop group extensions	https://www.webofscience.com/wos/woscc/full-record/WOS:000401004700011
+
+A global perspective to connections on principal 2-bundles	https://www.webofscience.com/wos/pprn/full-record/PPRN:12935236
+
+Parallel transport in principal 2-bundles	https://www.webofscience.com/wos/pprn/full-record/PPRN:22687847
+
+Transgressive loop group extensions	https://www.webofscience.com/wos/pprn/full-record/PPRN:12340205
+
+Spin structures on loop spaces that characterize string manifolds	https://www.webofscience.com/wos/woscc/full-record/WOS:000377810800002
+
+TRANSGRESSION TO LOOP SPACES AND ITS INVERSE, II GERBES AND FUSION BUNDLES WITH CONNECTION	https://www.webofscience.com/wos/woscc/full-record/WOS:000371002800004
+
+String geometry vs. spin geometry on loop spaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000361401800017
+
+String geometry vs. spin geometry on loop spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:18915352
+
+A Loop Space Formulation for Geometric Lifting Problems	https://www.webofscience.com/wos/pprn/full-record/PPRN:22783685
+
+Parallel Transport and Functors	https://www.webofscience.com/wos/pprn/full-record/PPRN:11943257
+
+STRING CONNECTIONS AND CHERN-SIMONS THEORY	https://www.webofscience.com/wos/woscc/full-record/WOS:000326588800016
+
+FOUR EQUIVALENT VERSIONS OF NONABELIAN GERBES	https://www.webofscience.com/wos/woscc/full-record/WOS:000322867800004
+
+Lifting problems and transgression for non-abelian gerbes	https://www.webofscience.com/wos/woscc/full-record/WOS:000319782400002
+
+Four Equivalent Versions of Non-Abelian Gerbes	https://www.webofscience.com/wos/pprn/full-record/PPRN:22620524
+
+THE GAUGING OF TWO-DIMENSIONAL BOSONIC SIGMA MODELS ON WORLD-SHEETS WITH DEFECTS	https://www.webofscience.com/wos/woscc/full-record/WOS:000321427300002
+
+Lifting Problems and Transgression for Non-Abelian Gerbes	https://www.webofscience.com/wos/pprn/full-record/PPRN:22641700
+
+Local Theory for 2-Functors on Path 2-Groupoids	https://www.webofscience.com/wos/pprn/full-record/PPRN:12339653
+
+Transgression to Loop Spaces and its Inverse, I: Diffeological Bundles and Fusion Maps	https://www.webofscience.com/wos/pprn/full-record/PPRN:11606728
+
+Spin structures on loop spaces that characterize string manifolds	https://www.webofscience.com/wos/pprn/full-record/PPRN:13599985
+
+Transgression to Loop Spaces and its Inverse, II: Gerbes and Fusion Bundles with Connection	https://www.webofscience.com/wos/pprn/full-record/PPRN:11605393
+
+String Connections and Chern-Simons Theory	https://www.webofscience.com/wos/pprn/full-record/PPRN:13566670
+
+CONNECTIONS ON NON-ABELIAN GERBES AND THEIR HOLONOMY	https://www.webofscience.com/wos/woscc/full-record/WOS:000330224400005
+
+Transgression to loop spaces and its inverse, III: Gerbes and thin fusion bundles	https://www.webofscience.com/wos/woscc/full-record/WOS:000310096900015
+
+Transgression to Loop Spaces and its Inverse, III: Gerbes and Thin Fusion Bundles	https://www.webofscience.com/wos/pprn/full-record/PPRN:11439981
+
+A Construction of String 2-Group Models using a Transgression-Regression Technique	https://www.webofscience.com/wos/pprn/full-record/PPRN:18862496
+
+The gauging of two-dimensional bosonic sigma models on world-sheets with defects	https://www.webofscience.com/wos/pprn/full-record/PPRN:11153586
+
+A construction of string 2-group models using a transgression-regression technique	https://www.webofscience.com/wos/woscc/full-record/WOS:000313596900006
+
+Smooth Functors vs. Differential Forms	https://www.webofscience.com/wos/pprn/full-record/PPRN:22671454
+
+Bundle gerbes for orientifold sigma models	https://www.webofscience.com/wos/woscc/full-record/WOS:000305189500001
+
+Global Gauge Anomalies in Two-Dimensional Bosonic Sigma Models	https://www.webofscience.com/wos/woscc/full-record/WOS:000287096500008
