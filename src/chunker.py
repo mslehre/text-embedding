@@ -50,7 +50,7 @@ def get_indices_for_chunks(chunk_size: int,
 def text_to_chunks(indices: list[tuple[int]],
                    text: str) -> list[str]:
     """
-    Get chunks from text by indices
+    Cut text into chunks at indices
 
     Args:
         indices (list[tuple[int]]): A list of index tuples
@@ -82,7 +82,7 @@ def write_chunks_to_files(chunks: list[str],
     for i, chunk in zip(range(len(chunks)), chunks):
         file_path = dir_path + file_stem + '.' + str(i) + '.txt'  
         with  open(file_path, 'w') as f_out:
-            f_out.write(chunk)  # add \n at end of file????
+            f_out.write(chunk)
 
 def main():
     parser = argparse.ArgumentParser(description = 'Cut text files into '
@@ -94,14 +94,14 @@ def main():
     parser.add_argument('-s', '--chunk_size', type = int, required = True,
                         help = 'Number of characters per chunk.')
     parser.add_argument('-o', '--overlap', type = int, default = 10,
-                        help = 'Number of characters each chunk should overlap'
-                        + ' with the next one.')
+                        help = 'Number of characters the chunks should '
+                        + 'overlap.')
     parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
                         default = './',
                         help = 'Directory in which to save dirs and chunks.')
     args = parser.parse_args()
 
-    dir_path = os.path.join(args.dir_path, '')  # add '/' at end of path 
+    dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
     for file in args.files:
 
         # read file
@@ -115,7 +115,7 @@ def main():
 
         # output dir
         file_stem = Path(file).stem
-        outdir = dir_path + file_stem + '/' # dir + file stem as output dir
+        outdir = dir_path + file_stem + '/'  # dir + file stem as output dir
         os.makedirs(outdir, exist_ok = True)  # create dir if it doesnt exist
 
         # create file with meta data
@@ -126,7 +126,7 @@ def main():
             f_out.write(meta_data)
 
         # write chunks to files
-        write_chunks_to_files(chunks, outdir, file_stem)  # write
+        write_chunks_to_files(chunks, outdir, file_stem)
 
     exit(0)
 
