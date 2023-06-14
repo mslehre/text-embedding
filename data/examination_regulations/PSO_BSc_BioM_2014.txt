@@ -1,4 +1,4 @@
-Nichtamtliche Lesefassung der Prüfungs - und Studienordnung des B.Sc. Biomathematik  
+
 1 Prüfungs - und Studienordnung  
 des Bachelorstudiengangs Biomathematik 
 an der Ernst -Moritz -Arndt -Universität Greifswald  
@@ -42,7 +42,7 @@ ordnung als Satzung:
 § 13 Inkrafttreten, Übergangsregelungen 
  Anlage A: Musterstudienplan  
 Anlage B:  Modulkatalog 
-Anlage C: Diploma Supplement (deutsche und englische Version)Nichtamtliche Lesefassung der Prüfungs - und Studienordnung des B.Sc. Biomathematik  
+Anlage C: Diploma Supplement (deutsche und englische Version)
 2 § 1* 
 Geltungsbereich  
  
@@ -79,7 +79,7 @@ des Moduls orientieren.
  
                                     
 * Alle Personen-  und Funktionsbezeichnungen in dieser Ordnung beziehen sich in gleicher Weise auf alle Personen bzw. Funktionstr ä-
-ger, unabhängig von ihrem Geschlecht.  Nichtamtliche Lesefassung der Prüfungs - und Studienordnung des B.Sc. Biomathematik  
+ger, unabhängig von ihrem Geschlecht.  
 3 (7) Nach den Semestern 2, 3 und 4 besteht die Möglichkeit, ein Auslandssemester (Mobil i-
 tätsfenster) zu absolvieren.  
  
@@ -118,7 +118,7 @@ Teil des Moduls eine Teilprüfung ablegen.
 § 6 
 Module  
  
-(1) Im Bachel orstudiengang werden folgende Module studiert:  Nichtamtliche Lesefassung der Prüfungs - und Studienordnung des B.Sc. Biomathematik  
+(1) Im Bachel orstudiengang werden folgende Module studiert:  
 4  
 Legende:  
 AB Arbeitsbelastung in Stunden 
@@ -184,7 +184,7 @@ Numerik I  1 270 9 1 Üs*
 1 mP/Kl 90  6. 
 6. 
 Optimierung  1 270 9 1 mP/Kl 90  6. 
-Allgemeine Biologie  2 180 6 Kl 90/Kl 60  1. und 2. Nichtamtliche Lesefassung der Prüfungs - und Studienordnung des B.Sc. Biomathematik  
+Allgemeine Biologie  2 180 6 Kl 90/Kl 60  1. und 2. 
 5 Biochemische Grundl a-
 gen 2 330 11 2 mP/Kl 90  
 1 Üs*  3. und 4. 
@@ -222,7 +222,7 @@ zuräumen.
 onsziele erreicht hat. Schriftliche Prüfungsleistungen werden von einem Prüfer bewer tet; 
 wenn es sich um den let zten Wiederholungsversuch handelt, ist ein zweiter Prüfer heran-
 zuziehen (§ 20 Absatz 2 RPO). Mündliche Prüfungen werden vor einem Prüfer in Gegen-wart eines sachkundigen Beisitzers abgelegt . 
-  Nichtamtliche Lesefassung der Prüfungs - und Studienordnung des B.Sc. Biomathematik  
+  
 6 § 8 
 Bachelorarbeit  
  
@@ -260,7 +260,7 @@ gen. Die Noten dieser Modulprüfungen gehen mit dem auf den jeweiligen relativen
 an Leistungspunkten bezogenen Gewicht ein, die Note für die Bachelorarbeit wird dabei 
 mit dem zweifachen relativen Anteil gewichtet.
  
- Nichtamtliche Lesefassung der Prüfungs - und Studienordnung des B.Sc. Biomathematik  
+ 
 7 (2) Die Noten der Module  
  Algorithmen und Programmierung /Computeralgebra -Systeme  
  Diskrete Strukturen in der Biologie  
@@ -301,7 +301,7 @@ zum 30.09.2018 außer  Kraft.
   Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats vom 7.  März 
 2014,  der mit B eschluss des Senats vom 18.  April 2012 gemäß §§ 81 Absatz  7 LHG und 
 20 Absatz 1 Satz 2 der Grundordnung die Befugnis zur Beschlussfassung verliehen wur-de, und der Genehmigung der Rektorin vom 7. April 2014.  
- Nichtamtliche Lesefassung der Prüfungs - und Studienordnung des B.Sc. Biomathematik  
+ 
 8 Greifswald, den 7. April 2014 
  
  

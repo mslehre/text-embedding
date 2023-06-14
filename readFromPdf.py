@@ -35,7 +35,6 @@ def pdfToTxt(pdfname):
 
         # extracting text from page
         pageText = pageObj.extract_text()
-        fileText += pageText
 
         #create test string to find distinguish features of header
         #without newlines to be able to check it with regex
@@ -44,10 +43,19 @@ def pdfToTxt(pdfname):
         #print(fileTextRegex)
 
         #search pattern Nichtamtliche ... 20xx
-        x = re.search("^Nichtamtliche.*20[0-9][0-9]", fileTextRegex)
+        #x = re.search("^Nichtamtliche.*20[0-9][0-9]", fileTextRegex)
+        y = re.search("^Nichtamtliche Lesefassung.*", pageText)
 
-        if x:
-            print('Header with "Nichtamliche ... 20xx" found ')
+        #if x:
+        #    print('Header with "Nichtamliche ... 20xx" found ')
+
+        if y:
+            #print(y[0])
+            pageText = re.sub(y[0], '', pageText)
+
+        #write the filtered text into a txt file
+        fileText += pageText
+
 
     # closing the pdf file object
     pdfFileObj.close()

@@ -1,4 +1,4 @@
-Nichtamtliche Lesefassung der G PO BMS  
+
  1 Gemeinsame Prüfungsordnung für  
 Bachelor - und Master -Studiengänge  
 an der Universität Greifswald  
@@ -41,7 +41,7 @@ Kraft getreten.
 Rahmenprüfungsordnung 2021 vom 21.  Juli 2021 tritt am 01.  Oktober 2021 in 
 Kraft.  
  Aufgrund von § 2 Abs. 1 in Verbindung mit § 38 Abs. 1 des Gesetzes über die Hoc h-
-schulen des Landes Mecklenburg -Vorpommern (Landeshochschulgesetz -  LHG M -V) Nichtamtliche Lesefassung der G PO BMS  
+schulen des Landes Mecklenburg -Vorpommern (Landeshochschulgesetz -  LHG M -V) 
  2 vom 5. Juli 2002 (GVOBl. M -V S. 398)*, zuletzt geändert durch Artikel 19 des G esetzes 
 vom 10. Juli 2006 (GVOBl. M -V S. 539), erlässt die Universität Greifswald folgen de 
 Gemeinsame Prüfungsordnung für Bachelor - und Master -Studiengänge:  
@@ -86,7 +86,7 @@ Inhaltsverzeichnis
 § 31 Verfahren bei belastenden Entscheidungen  
  
                                     
-*Mittl.bl. BM M -V S. 511  Nichtamtliche Lesefassung der G PO BMS  
+*Mittl.bl. BM M -V S. 511  
  3 5. Abschnitt: Institutionelle Regeln  
  
 § 32 Prüfungsausschuss  
@@ -129,7 +129,7 @@ Zugangs - und Zulassungsvoraussetzungen
  (1) Der Zugang zu einem Masterstudiengang setzt einen ersten berufsqualifizierenden Hochschulabschluss voraus, der in einem Bachelorstudiengang mit einem dem Master-
                                     
 * Soweit für Funktionsbezeichnungen ausschließlich die männliche oder die weibliche Form verwendet 
-wird, gilt diese jeweils auch für das andere Geschlecht.  Nichtamtliche Lesefassung der G PO BMS  
+wird, gilt diese jeweils auch für das andere Geschlecht.  
  4 studiengang entsprechenden Fach oder in einem Studiengang mit einer mindestens 
 vergleichbaren Qualifikation erworben wurde. Über Zweifelsfälle entscheidet der Pr ü-
 fungsausschuss in Abstimmung mit den Inst ituten.  
@@ -164,7 +164,7 @@ fang diese Kenntnisse studienbegleitend oder in einem Propädeutikum erworben we
  (3) Der zeitliche Gesamtumfang für den erfolgreichen Abschluss des Studiums b eträgt 
 bei Bachelorst udiengängen 5400 Stunden, bei Masterstudiengängen im Sinne von A b-
 satz 1 Satz 1 3600 Stunden Arbeitszeit (workload). Im Übrigen gilt Absatz 1 Satz 2 ent-sprechend.  
- Nichtamtliche Lesefassung der G PO BMS  
+ 
  5 (4) Das Studium gliedert sich in Module gemäß der jeweiligen Fachprüfungsordnung. 
 Die Studiendauer der Module ist grundsätzlich auf zwei Semester b eschränkt.  
  (5) Wird das Studienziel „Bachelor of Arts“ angestrebt, werden zwei Teilst udiengänge 
@@ -197,7 +197,7 @@ ben. Für die Vergabe von Leistungspunkten genügt  Bestehen.
  (3) Die Zahl der Leistungspunkte für ein Modul (einschließlich eines Praktikums oder eines Auslandsaufenthalts) wird durch den auf die regelmäßige Arbeitsbelastung von 900 Stunden bezogenen proportionalen Anteil der Arbeitsstunden bestimmt, die  ein 
 durchschnittlich begabter Studierender in Bezug auf das entsprechende Modul für A n-
 wesenheit, Vor - und Nachbereitung aufwen den muss. Die Zahl der Leistungspunkte für 
-ein Modul nach Satz 1 errechnet sich d aher nach der Formel:  Nichtamtliche Lesefassung der G PO BMS  
+ein Modul nach Satz 1 errechnet sich d aher nach der Formel:  
  6 Leistungspunkte für das einzelne Modul :  Summe der für das Modul anzusetzenden 
 Arbeitsstunden = 30 Leistungspunkte : 900 Arbeitsstunden. Das E rgebnis wird auf eine 
 ganze Zahl gerundet.  
@@ -230,7 +230,7 @@ Nachweis des Auslandsaufenthaltes, regeln die Fachprüfungsordnun gen be ziehung
 weise die Prüfungsordnung für das Modul „General Studies“. Auf Antrag können bereits abgeleistete Praktika vom Fachvertreter anerkannt werden, die in direktem Bezug zum Studium st ehen. 
  (6) Die Fachprüfungs - beziehungsweise Fachstudienordnungen können in den Studien-
 gang integrierte Exkursionen vorsehen.  
-  Nichtamtliche Lesefassung der G PO BMS  
+  
  7 2. Abschnitt: Prüfungen und B ewertungen  
  
 § 7 
@@ -269,7 +269,7 @@ zuständige Prüfungsausschuss auf Antrag der Studierenden unter Berücksichtigu
  (8) Das Prüfungsverfahren zwischen letzter Prüfung und Beginn der Abschlus sarbeit 
 darf durch ein Urlaubssemester a ußer in den Fällen  
  
-1. von Krankheit, die ein ordnungsgemäßes Studium unmöglich macht  Nichtamtliche Lesefassung der G PO BMS  
+1. von Krankheit, die ein ordnungsgemäßes Studium unmöglich macht  
  8 2. Schwangerschaft, Mutterschutz und Betreuung eines Kindes in Zeiten, in denen 
 bei B estehen eines Arbeitsverhältnisses Anspruch auf  Elternzeit bestünde, 
 Pflege eines erkrankten oder sonst hilfsbedürftigen nahen Angehörigen  
@@ -306,7 +306,7 @@ dass er in begrenzter Zeit und mit begrenzten Hilfsmitteln mit den gängigen Met
 seines Faches ein Problem erkennen und Wege zu einer Lösung fi nden kann. Die 
 Klausur dauert nach Maßgabe der Fachprüfungsordnung pro Modul mindestens 60 und höchstens 180 Minuten.  
  (2) Klausuren in Modulprüfungen sind in der Regel, zumindest aber im Falle einer  Wie-
-derholungsprüfung, von zwei Prüfern zu bewerten. Die Bewertung ist in geeigneter Weise zu begründen.  Das Bewertungsverfahren dauert höchstens vier Wochen pro Prü-Nichtamtliche Lesefassung der G PO BMS  
+derholungsprüfung, von zwei Prüfern zu bewerten. Die Bewertung ist in geeigneter Weise zu begründen.  Das Bewertungsverfahren dauert höchstens vier Wochen pro Prü-
  9 fer; in begründeten Ausnahmefällen kann  eine Verlängerung der Frist durch das Zentra-
 le Prüf ungsamt gewährt werden. Unbeschadet der Möglichkeit einer vorherigen unver-
 bindlichen Bekanntgabe durch die Prüfer erfolgt die verbindliche Bekanntgabe des Er-
@@ -344,7 +344,7 @@ teiligen kann. Nach Maßgabe der Fachprüfungsordnung kann außerdem – vor ode
 nach dem Vortrag –  die Vorlage einer entsprechenden Seminararbeit verlangt wer den. 
 In diesem Fall wird eine einheitliche Note für die gesamte Seminarleistung festg esetzt. 
 Die Dauer des Vortrags, gegebenenfalls die Länge des Seminarreferates sowie wei tere 
-Einzelheiten werden in der Fachprüfungsordnung geregelt. § 9 Abs. 3 Satz 5 gilt ent-sprechend.  Nichtamtliche Lesefassung der G PO BMS  
+Einzelheiten werden in der Fachprüfungsordnung geregelt. § 9 Abs. 3 Satz 5 gilt ent-sprechend.  
  10 (3) In den Praktika soll der Studierende nachweisen, dass er die ihm gestellten, insb e-
 sondere experimentellen Aufgaben mit den gängigen Methoden seines Faches bearbei-
 ten, auswerten und zusammenhängend in Protokollen darstellen kann. Die Prak tika 
@@ -383,7 +383,7 @@ rungen entspricht;
 3,7; 4,0  = ausreichend  = eine Leistung, die trotz ihrer Mängel noch den 
 Anforderungen genügt;  
 5,0 = nicht ausre ichend  = eine Leistung, die wegen erheblicher Mä ngel 
-den Anforderungen nicht mehr genügt.  Nichtamtliche Lesefassung der G PO BMS  
+den Anforderungen nicht mehr genügt.  
  11  
 Die Noten 1,7, 2,3, 2,7, 3,3 und 3,7 dienen der differenzierten Bewertung der Prüfung s-
 leistungen.  
@@ -422,7 +422,7 @@ beit Vorschläge zu m achen.
 auch in Form einer Gruppenarbeit zugelassen werden, wenn der als Prüfungslei stung 
 zu bewertende Beitrag des einzelnen Kandidaten aufgrund der Angabe von Abschni t-
 ten, Seitenzahlen oder anderen objektiven Kriterien, die eine eindeutige Abgren zung 
-ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderun gen nach Nichtamtliche Lesefassung der G PO BMS  
+ermöglichen, deutlich unterscheidbar und bewertbar ist und die Anforderun gen nach 
  12 Absatz 1 erfüllt. Der von Kandidaten gemeinsam gestellte Antrag ist schrif tlich an den 
 Vorsitzenden des Prüfungsaussa uschusses zu richten und beim Zentralen Prüfung samt 
 einzureichen. Der Prüfungsausschuss entscheidet innerhalb von zwei W ochen; das 
@@ -456,7 +456,7 @@ ben werden. Vor Abgabe der Abschlussarbeit kann das Thema auf Antrag des Studie-
 Prüfungsausschusses abgeändert werden. Die Bearbeitungszeit der Abschluss -arbeit 
 bleibt davon unberührt. Der Vorsitzende des Prüfungsausschusses hat innerhalb von drei Werktagen zu entscheiden.  
  (5) Der Abgabetermin der Arbeit kann vom Prüfung sausschuss bei Vorliegen eines 
-wichtigen Grundes auf Antrag des Studierenden, dessen Genehmigung dem Zen tralen Nichtamtliche Lesefassung der G PO BMS  
+wichtigen Grundes auf Antrag des Studierenden, dessen Genehmigung dem Zen tralen 
  13 Prüfungsamt spätestens am Tage der Abgabe vorliegen muss, beim B achelor um 
 höchs tens drei Wochen, beim Master um höchstens zwei Monate verschoben wer den; 
 die Fachprüfungsordnung kann auch eine andere Frist bestimmen. Eine darüberhi n-
@@ -501,7 +501,7 @@ schlussarbeit dem Kandidaten mitz uteilen.
 dat diese nicht in zwei  gebundenen (Klebe-  oder Therm obindung) Exemplaren in M a-
 schinenschrift fristgerecht abliefert. Dasselbe gilt, wenn er die in § 13 Abs. 5 gefor derte 
 Zusammenfassung nicht gleichzeitig mit der Abschlussarbeit ei nreicht.  
-  Nichtamtliche Lesefassung der G PO BMS  
+  
  14 § 16 
 Verteidigung  
  
@@ -540,7 +540,7 @@ sen Fächern werden bei der Festsetzung der Gesamtnote nicht be rücksi chtigt.
 Abschlussarbeit (§ 14 Abs. 2) zulässig. Er ist schriftlich beim Zentralen Prüfungsamt der Universität Greifswald einz ureichen.  
  (3) Eine nicht bestandene Prüfung  in einem Zusatzfach kann gemäß § 25 wiederholt 
 werden.  
- Nichtamtliche Lesefassung der G PO BMS  
+ 
  15 (4) Als Zusatzfächer können nur Prüfungs - und Studienleistungen berücksichtigt wer-
 den, die an der Universität Greifswald erbracht wurden.  
  
@@ -579,7 +579,7 @@ ausschusses zu unte rzeichnen.
  
 A  die besten 10 %  
 B  die nächsten 25 %  
-C  die nächsten 30 %  Nichtamtliche Lesefassung der G PO BMS  
+C  die nächsten 30 %  
  16 D  die nächsten 25 %  
 E  die nächsten 10 %.  
  
@@ -617,7 +617,7 @@ sich aus den Fachprüfungsordnungen. § 10 bleibt unb erührt.
 schluss an die Vorlesungszeit angeboten. Prüfungen müssen bis zum Ende des jeweil i-
 gen Prüfungszei traums abgelegt werden. Prüfungen, die nach dem Ende des jeweiligen 
 Semesters abgelegt werden, bedürfen der Genehmigung des Zentralen Prüfungsamtes Der A ntrag ist schriftlich beim Zentralen Prüfungsamt einzurei chen. Jedoch muss der 
-Studierende die Prüfung spätestens vor Beginn des folgenden Meldetermins abgelegt Nichtamtliche Lesefassung der G PO BMS  
+Studierende die Prüfung spätestens vor Beginn des folgenden Meldetermins abgelegt 
  17 haben; anderenfalls wird die nicht abgelegte Teilprüfung mit „nicht ausrei chend“ (5,0) 
 bewertet .  
  
@@ -657,7 +657,7 @@ Studiums wird insbesondere angenommen, wenn aufgrund der eigenen Erkran kung
 oder der Pflege mehr als ein Viertel der im Semester regelmäßig vorgesehe nen 
 Vera nstaltungen nicht besucht werden kann,  
 2. Schwangerschaft, Mutterschutz oder Betreuung eines Kindes in Zeiten, in de nen in 
-entsprechender Anwendung der Landesverordnung über die Elternzeit für die Beam-ten und Richter im Land Mecklenburg -Vorpommern (E lternzeit -Landesverordnung – Nichtamtliche Lesefassung der G PO BMS  
+entsprechender Anwendung der Landesverordnung über die Elternzeit für die Beam-ten und Richter im Land Mecklenburg -Vorpommern (E lternzeit -Landesverordnung – 
  18 EltZLVO M -V) vom 22. Februar 2002 (GVOBl. M -V S. 134) Anspruch auf Elt ernzeit 
 bestünde,  
 3. studiengangsbezogener Auslandsaufenthalt,  
@@ -689,7 +689,7 @@ sprechende Leistungsnachweise, die den Studienverlauf  und Studien stand in
 beiden Studiengängen zeigen.  
  (6) Der Antrag auf Verlängerung des Studiums bei Über schreitung der Meldefristen, in 
 dem die Hinderungsgründe glaubhaft gemacht werden müssen, ist unverzüglich, spä-testens bis zum Ende der Meldefrist des in der Prüfungsordnung festgelegten Termins, schriftlich beim Zentralen Prüfungsamt anzuzeigen und einz ureichen.  
-  Nichtamtliche Lesefassung der G PO BMS  
+  
  19 § 24 
 Freiversuch  
  
@@ -726,7 +726,7 @@ gleich als endgültig nicht bestanden.
  (3) Eine Abschlussarbeit, die schlechter als mit „ausreichend" (4,0) bewertet wor den ist, 
 kann nur einmal mit neuem Thema wiederholt werden. Die Wiederholung einer mit w e-
 nigstens „ausreichend" (4,0) bewerteten Abschlussarbeit ist nicht zulässig. Bei der Wi e-
-derholung einer Abschlussarbeit muss die erneute Bearbeitungszeit spätestens sechs Nichtamtliche Lesefassung der G PO BMS  
+derholung einer Abschlussarbeit muss die erneute Bearbeitungszeit spätestens sechs 
  20 Monate nach der Begutachtung der nicht bestandenen Abschlussarbeit beginnen. Zei-
 ten der Beurlaubung bleiben dabei außer im Fall des § 24 Abs. 3 unberüc ksichtigt.  
  (4) Die erste und gegebenenfalls die zweite Wiederholungsprüfung sollten im Rahmen 
@@ -760,7 +760,7 @@ befindet oder
  (3) Studierende müssen sich zu j edem Versuch einer Prüfung melden. Die Meldung für 
 die Prüfungen ist nur innerhalb der rechtzeitig zu Beginn des Semesters bekannt zu gebenden fünfwöchigen Meldefrist (Ausschlussfrist) zulässig. Die Meldung erfolgt in elektronischer Form nach den von der U niversität vorgehaltenen Verfahren, im Aus-
 nahmefall auch schriftlich beim Zentralen Prüfungsamt. Studierende gelten als zu den Prüfungen gemeldet, wenn der Antrag auf Zulassung zur Prüfung beim Zentralen Prü-fungsamt eingegangen ist. Die Zulassung gilt als erteilt, wenn das Zentrale Prüfungsamt nicht innerhalb von vier Wochen ab Ende der Meldefrist die Zulassung schriftlich und unter Angabe von Gründen gemäß Absatz 1 und Absatz 2 versagt. Zur Abschlussarbeit gelten nur diejenigen als gemeldet, die die Zuweis ung eines Themas für diese Arbeit 
-beantragt haben.  Nichtamtliche Lesefassung der G PO BMS  
+beantragt haben.  
  21 (4) Die Zulassung zu einer Abschlussprüfung wird nur erteilt, wenn alle studienbeglei-
 tenden Modulprüfungen erfolgreich abgelegt sind. Der Zulassungsbescheid ist vom Studierenden im Zentralen Prüfungsamt a bzuholen und dem Prüfer vorzulegen. O hne 
 Vorlage des Zulassungsbescheides darf die Prüfung nicht abgenommen werden. Zw i-
@@ -797,7 +797,7 @@ enzeiten, Studien-  und Prüfungslei stungen sowie Leistungspunkten, die außerh
 Deutschlands erbracht wurden, sind die von der KMK gebilligten Äquiv alenzvereinba-
 rungen sowie Absprachen im Rahmen von Hochschulpartner schaften zu berücksichti-
 gen. 
- Nichtamtliche Lesefassung der G PO BMS  
+ 
  22 (4) Außerhalb des Hochschulwesens erworbene K enntnisse und Fähigkeiten sind anzu-
 rechnen, wenn sie nach Inhalt und Niveau dem Teil des Studiums gleichwertig sind, der 
 ersetzt werden soll. Insgesamt dürfen nicht mehr als 50 Prozent des Studiums ersetzt werden. Die Kriterien für die Anrechnung nach Satz  1 regeln die Fachprüfungsordnun-
@@ -833,7 +833,7 @@ eines von i hm überwiegend allein zu versorgenden Kindes gleich. Werden die Gr�
 anerkannt, so wird vom Prüfungsamt in Absprache mit dem Prüfer ein neuer Termin 
 anberaumt. Die bereits vorliegenden Prüfungsergebnisse werden in diesem Fall ange-
 rechnet. 
- Nichtamtliche Lesefassung der G PO BMS  
+ 
  23 (4) Versucht ein Kandidat, das Ergebnis seiner Prüfungsleistungen durch Täu schung 
 oder Benutzung nicht zugelassener Hilfsmittel zu beeinflussen, gilt die betreffende Pr ü-
 fungsleistung als mit „nicht ausreichend" (5,0) bewertet. Stellt bei der Bewer tung einer 
@@ -871,7 +871,7 @@ Jahren ab dem Datum des Zeug nisses ausgeschlossen.
 Einsicht in die Prüfungsakten, Prüf ungsunterlagen  
  (1) Innerhalb eines Jahres nach Abschluss des Prüfungsverfahrens wird dem Studi e-
 renden auf Antrag in angemessener Frist Einsicht in die Gutachten der Prüfer und in die Prüfungsprotokolle gewährt. In einzelne Protokolle wird innerhalb eines  Monats nach 
-der Bekanntgabe der jeweiligen Prüfungsergebnisse Einsicht gewährt. Der Antrag ist an das Zentrale Prüfungsamt zu stel len. Nichtamtliche Lesefassung der G PO BMS  
+der Bekanntgabe der jeweiligen Prüfungsergebnisse Einsicht gewährt. Der Antrag ist an das Zentrale Prüfungsamt zu stel len. 
  24 (2) Prüfungsunterlagen, die nicht nach § 9 Abs. 5 an den Studierenden zurückzugeben 
 sind, verbleiben auch nach der Beendigung des Studi ums bei der Universität Greifs-
 wald, es sei denn, dass die Fachprüfungsordnungen etwas an deres regeln.  
@@ -908,7 +908,7 @@ se ihr Amt angetreten haben. Scheidet ein Mitglied vor Ablauf seiner Amtsperi od
 ist für die verbleibende Zeit ein Nachfolger zu bestellen.  
  (4) Die Mitglieder des Prüfungsausschusses und deren Stellvertreter unterli egen der 
 Amtsverschwiegenheit. Sofern sie nicht Angehörige des öffentlichen Dienstes sind, sind sie durch den Vorsitzenden zur Verschwiegenheit zu ver pflichten.  
- Nichtamtliche Lesefassung der G PO BMS  
+ 
  25 (5) Dem  Prüfungsausschuss der Philosophischen Fakultät gehören drei Vertreter der 
 Hochschullehrer, ein Vertreter der akademischen Mitarbeiter und ein Vertreter der St u-
 dierenden an. Der Fakultätsrat der Philosophischen Fakultät bestellt die Mitglieder. 
@@ -946,7 +946,7 @@ möglich ist. Der Vorsitzende unterrichtet den Prüfungsausschuss spätestens in
 die Bestellung von Prüfer n und Beisitzern sowie die Ausgabe von Themen für die A b-
 schlussarbeit kann der Prüfungsausschuss dem Vorsitzenden übertr agen. 
  
- Nichtamtliche Lesefassung der G PO BMS  
+ 
  26 § 34  
 Zentrales Prüfungsamt  
  
@@ -988,7 +988,7 @@ dierenden durch hochschulöffentlichen Aushang
 9. Kontrolle der Einhaltung der Prüfungst ermine 
 10. Überwachung der Bewertungsfristen  
  
-(4) Ferner hat das Zentrale Prüfungsamt folgende Aufgaben:  Nichtamtliche Lesefassung der G PO BMS  
+(4) Ferner hat das Zentrale Prüfungsamt folgende Aufgaben:  
  27 1. Entgegennahme der fertiggestellten Abschlussarbeit und Kontrolle der Abgabe-
 frist 
 2. Benachrichtigung der Kandidaten über das Prüfungsergebnis  
@@ -1023,7 +1023,7 @@ Beisitzer. Absatz 2 Satz 2 Satz gilt entsprechend. D er Prüfungsaus schuss kann
 Einsatz der Beisitzer Maßgaben beschließen.  
  (6) Für Prüfer und Beisitzer gilt § 32 Abs. 6 entsprechend.  
  
- Nichtamtliche Lesefassung der G PO BMS  
+ 
  28 § 36 
 Einheitlichkeit der Anwendung des Prüfungsrechts  
  

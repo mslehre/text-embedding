@@ -1,4 +1,4 @@
-Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+
 1 Prüfungs - und Studienordnung  
 des Bachelor studiengangs  Mathematik mit Informatik  
 an der Ernst -Moritz -Arndt -Universität Greifswald  
@@ -42,7 +42,7 @@ eltungsbereich
 Anl
 age A:  Musterstudienplan  
 Anlage B:  Modulkatalog  
-Anlage C:  Diploma Supplement (deutsche und englische Version)  Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+Anlage C:  Diploma Supplement (deutsche und englische Version)  
  
  2 § 1 
 Geltungsbereich1 
@@ -87,7 +87,7 @@ einerseits sowie den Lehrveranstaltungsarten und Semesterwochenstunden
 andererseits wird ebenfalls auf den M usterstudienplan verwiesen.  
                                     
 1 Soweit für Funktionsbezeichnungen ausschließlich die männliche oder die weibliche Form verwendet wird, gilt diese jeweils auch 
-für das andere Geschlecht.  Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+für das andere Geschlecht.  
  
  3 § 3 
 Veranstaltungsarten  
@@ -130,7 +130,7 @@ werden. Hierfür werden 6 LP vergeben.  Das berufsbezogene Praktikum stellt eine
 Wahlmodule gemäß §  7 Absatz 2 dar.  
  (2) Auf Antrag des Studierenden entscheidet der Prüfungsausschuss vorsitzende  
 rechtzeitig vor Beginn des berufsbezogenen Praktikums über die Eignung der 
-Praktikumsstelle. Der Antrag ist schriftlich an den Vorsitzenden des Prüfungsausschusses zu richten und beim Z entralen Prüfungsamt einzureichen.  Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+Praktikumsstelle. Der Antrag ist schriftlich an den Vorsitzenden des Prüfungsausschusses zu richten und beim Z entralen Prüfungsamt einzureichen.  
  
  4  
 (3) Der Vorsitzende des Prüfungsaus schusses steht als Ansprechpartner und Betreuer 
@@ -187,7 +187,7 @@ Stochastik  1 270 9 1 mP
 1 Üs * 3. 
 3. 
 Praxis des  
-Programmierens  1 270 9 1 Üs * 3. Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+Programmierens  1 270 9 1 Üs * 3. 
  
  5 Gewöhnliche Differential - 
 gleichungen/Proseminar  2 210 7 1 Üs * 
@@ -244,7 +244,7 @@ Berufsbezogenes
 Praktikum  4 W 180 6 Praktikums -
 bericht * 
 (3 S.) 
- Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+ 
  
  6 Zu Typ 2 gehören:  
  
@@ -293,7 +293,7 @@ Modulprüfungen
 (1) In Absprache mit dem Studierenden kann eine Modulprüfung auch auf Englisch 
 stattfinden.  
  (2) Die Modulprüfungen werden in Form einer  30-minütigen mündlichen 
-Prüfungsleistung, einer 9 0-minütigen Klausur oder eines 60- minütigen Vort rages Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+Prüfungsleistung, einer 9 0-minütigen Klausur oder eines 60- minütigen Vort rages 
  
  7 (Seminare) abgelegt. Die Kriterien für den Erhalt eines Übungsscheines legt der Dozent 
 in der ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.  
@@ -323,7 +323,7 @@ von sechs Monaten.
   
 (3) Eine elektronische Fassung ist der Arbeit beizufügen.  Zugleich hat der  Studierende 
 schriftlich zu erklären, dass von der Arbeit eine elektronische Kopie gefertigt und gespeichert werden darf, um eine Überprüfung mittels einer Plagiatssoftware zu ermöglichen.  
-  Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+  
  
  8 § 10 
 Bildung der Gesamtnote  
@@ -365,7 +365,7 @@ Bekanntmachung in Kraft.
 Zentralen Prüfungsamt einzureic hen und an den Vorsitzenden des 
 Prüfungsausschusses zu richten. Der Antrag ist unwiderruflich.  
  (4) Die P rüfungsordnung vom 24. Januar 2012 t ritt zum 31.03.2017 außer Kraft.  
-  Nichtamtliche Lesefassung der PSO B.Sc. Mathematik mit Informatik  
+  
  
  9 Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats der Ernst -
 Moritz -Arndt -Universität Greifswald vom 8 . Oktober  2013 der mit Beschluss des Senats 
