@@ -23,17 +23,17 @@ def read_file(filename_in: str, filename_out: str) -> None:
         # Split each line at the space character to get the filenames.
         lines[i] = lines[i].split(" ")
         texts = []  # Content of the files is stored in this list.
-        for j in range(0, len(lines[i] - 1)):
+        for j in range(0, len(lines[i]) - 1):
             lines[i][j] = lines[i][j].strip()
             # Test if a file with the filename specified in the input file 
             # exists. If not write it to the output file and continue with the 
             # next line in the input file.
-            if not (path.exists(path_texts + lines[i][j])):
+            if not (os.path.exists(path_texts + lines[i][j])):
                 with open('../data/' + filename_out, "a") as file_out:
-                    file_out.write("File", lines[i][j], "does not exist in " \
-                        "text-embedding/data/testTextPairs_WebForm/. " \
-                        "Therefore, nothing will be computed for line", i + 1, \
-                        " in", filename_in, ".\n")
+                    file_out.write("File " + lines[i][j] + " does not exist " \
+                        "in text-embedding/data/testTextPairs_WebForm/. " \
+                        "Therefore, nothing will be computed for line " + 
+                        str(i + 1) + " in " + filename_in + ".\n")
                     file_out.close()
                 break
             else:
@@ -60,3 +60,9 @@ def read_file(filename_in: str, filename_out: str) -> None:
                             "the label is", lines[i][4].strip(), ".\n")
                         file_out.close()
 
+def main():
+    read_file('testfiles.txt', 'output.txt')
+    exit(0)
+
+if __name__ == "__main__":
+    main()

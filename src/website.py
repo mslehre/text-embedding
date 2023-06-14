@@ -11,12 +11,12 @@ app = Flask(__name__)
 def home():
     return '''<form>
     <label for="fname">Enter first file text: </label><br>
-  <textarea name="file1" id="file1text" rows="10" cols="30"></textarea>
+  <textarea name="file1" id="text1" rows="10" cols="30"></textarea>
   </form>
   
   <form>
   <label for="lname">Enter second file text:</label><br>
-  <textarea name="file1" id="file2text" rows="10" cols="30"></textarea>
+  <textarea name="file1" id="text2" rows="10" cols="30"></textarea>
   </form>
 
     <button onclick="myFunction()"> Compute similarity of the files content\
@@ -27,8 +27,8 @@ def home():
 
     <script>
         function myFunction() {
-            let f1 = document.getElementById("file1text").value;
-            let f2 = document.getElementById("file2text").value;
+            let f1 = document.getElementById("text1").value;
+            let f2 = document.getElementById("text2").value;
             let actualUrl = window.location.href;
 
             document.getElementById("url").innerHTML="";
@@ -37,19 +37,19 @@ def home():
                 document.getElementById("demo").innerHTML="";
                 alert("The file name can not be empty!");
             } else {
-                document.getElementById("file1a2").value=f1+f2;
-                window.open(actualUrl+"/file1/file2");
+                document.getElementById("result").value=f1+f2;
+                window.open(actualUrl+"/text1/text2");
             }
         }
     </script>
 
     <form>
-    <textarea name="file1" id=file1a2 rows="10" cols="30">
+    <textarea name="result" id=result rows="10" cols="30">
     </textarea>
 
     </form>'''
 
-@app.route('/file1/file2') 
+@app.route('/text1/text2') 
 def compute_similarity_of_files(text1: str, text2: str) -> str:
     """This function computes the cosine similarity of two embeddings of the 
     specified two texts. If a text is too large because its string is encoded 
@@ -75,6 +75,7 @@ def compute_similarity_of_files(text1: str, text2: str) -> str:
             computed, there is a message that the openai api key was probably 
             not set or is not valid.     
     """
+    print ("text1: ", text1, "text2: ", text2)
     # Compute cosine similarity of texts.
     similarity = compute_similarity_of_texts(text1, text2)
         
