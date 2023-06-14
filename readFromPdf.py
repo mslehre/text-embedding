@@ -18,17 +18,6 @@ def pdfToTxt(pdfname):
     totalPages = len(pdfReader.pages)
     fileText = ''
 
-    #get document info
-    info = pdfReader.metadata
-
-    #test got metadata
-    #print(info.author)
-    #print(info.creator)
-    #print(info.producer)
-    #print(info.subject)
-    #print(info.title)
-    #print('==================================')
-
     for i in range(totalPages):
         # creating a page object
         pageObj = pdfReader.pages[i]
@@ -36,26 +25,11 @@ def pdfToTxt(pdfname):
         # extracting text from page
         pageText = pageObj.extract_text()
 
-        #create test string to find distinguish features of header
-        #without newlines to be able to check it with regex
-        fileTextRegex = pageText.replace('\n', '_')
-
-        #print(fileTextRegex)
-
-        #search pattern Nichtamtliche ... 20xx
-        #x = re.search("^Nichtamtliche.*20[0-9][0-9]", fileTextRegex)
-        y = re.search("^Nichtamtliche Lesefassung.*", pageText)
-
-        #if x:
-        #    print('Header with "Nichtamliche ... 20xx" found ')
-
-        if y:
-            #print(y[0])
-            pageText = re.sub(y[0], '', pageText)
-
+        #filter the junk text
+        pageText = filterPageText(pageText) 
+        
         #write the filtered text into a txt file
         fileText += pageText
-
 
     # closing the pdf file object
     pdfFileObj.close()
@@ -63,6 +37,32 @@ def pdfToTxt(pdfname):
     #write the text from pdf to txt file
     output = open(txtname, 'w')
     output.write(fileText)
+
+def filterPageText(pageText):
+    #header
+    x = re.search("^[nN]ichtamtliche Lesefassung.*", pageText)
+
+    if x:
+        #remove the found text
+        pageText = re.sub(x[0], '', pageText)
+
+    #TODO
+    #filter the footer - common footer not found
+    #filter the page number
+    #filter the table of contents?
+    #title and date at the firt page
+
+    #filter out the page numbers
+    #still at work
+    y = re.search("^\s[0-9]", pageText)
+        
+    if y:
+        #print('Possible page number found')
+        #print(y[0])
+        pageText = re.sub(y[0], '', pageText)
+
+    return pageText
+
 
 #convert pdf files in a dictionary into txt files
 directory = 'data/examination_regulations'

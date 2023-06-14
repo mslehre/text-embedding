@@ -1,5 +1,4 @@
-
-1 Prüfungs - und Studienordnung  
+ Prüfungs - und Studienordnung  
 des Bachelorstudiengangs Biomathematik 
 an der Ernst -Moritz -Arndt -Universität Greifswald  
  
@@ -42,8 +41,7 @@ ordnung als Satzung:
 § 13 Inkrafttreten, Übergangsregelungen 
  Anlage A: Musterstudienplan  
 Anlage B:  Modulkatalog 
-Anlage C: Diploma Supplement (deutsche und englische Version)
-2 § 1* 
+Anlage C: Diploma Supplement (deutsche und englische Version) § 1* 
 Geltungsbereich  
  
 Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das  Prüfungsverfa h-
@@ -79,8 +77,7 @@ des Moduls orientieren.
  
                                     
 * Alle Personen-  und Funktionsbezeichnungen in dieser Ordnung beziehen sich in gleicher Weise auf alle Personen bzw. Funktionstr ä-
-ger, unabhängig von ihrem Geschlecht.  
-3 (7) Nach den Semestern 2, 3 und 4 besteht die Möglichkeit, ein Auslandssemester (Mobil i-
+ger, unabhängig von ihrem Geschlecht.   (7) Nach den Semestern 2, 3 und 4 besteht die Möglichkeit, ein Auslandssemester (Mobil i-
 tätsfenster) zu absolvieren.  
  
  
@@ -93,8 +90,7 @@ kursionen angeboten werden.
 1. Vorlesungen dienen der systematischen Darstellung eines Stoffgebietes, d er 
 Vortragscharakter überwiegt.  
 2. Seminare sind Lehrveranstaltungen, in denen die Studierenden durch eig ene mündliche 
-und schriftliche Beiträge sowie Diskussionen in das selbständige wissenschaftliche Arbeiten eingeführt werden.  
-3. Übungen führen die Studierenden in die praktische wissenschaftliche Tätigkeit bei 
+und schriftliche Beiträge sowie Diskussionen in das selbständige wissenschaftliche Arbeiten eingeführt werden.  . Übungen führen die Studierenden in die praktische wissenschaftliche Tätigkeit bei 
 intensiver Betreuung durch Lehrpersonen ein. S ie vermitteln grundlegende Methoden 
 des wissenschaftlichen Arbeitens in den relevanten Fachgebieten und fördern die Anwendung und Vertiefung der Lehrinhalte.  
 4. Praktika sind durch die eigenständige Anwendung wissenschaftlicher Methoden auf 
@@ -118,8 +114,7 @@ Teil des Moduls eine Teilprüfung ablegen.
 § 6 
 Module  
  
-(1) Im Bachel orstudiengang werden folgende Module studiert:  
-4  
+(1) Im Bachel orstudiengang werden folgende Module studiert:    
 Legende:  
 AB Arbeitsbelastung in Stunden 
 LP Leistungspunkte 
@@ -158,19 +153,16 @@ Gewöhnliche Differential -
 gleichungen/Proseminar  1 210 7 1 Üs*  
 1 mP 
 1 SV* 3. 
-3. 
-4. 
+3. . 
 Stochastik  1 270 9 1 Üs*  
 1 mP  3. 
 3. 
 Genomanalyse/ Bioi n-
 formatisches Praktikum  2 300 10 1 Kl 90, 1 Üs*  
-1 Üs*  3. 
-4. 
+1 Üs*  3. . 
 Mathematische Biologie  1 180 6 1 mP/Kl  4. 
 Statistik  1 270 9 1 Üs*  
-1 mP  4. 
-4. 
+1 mP  4. . 
 Biometrie  1 180 6 1 Üs*  
 1 mP/Kl 90  5. 
 5. 
@@ -184,8 +176,7 @@ Numerik I  1 270 9 1 Üs*
 1 mP/Kl 90  6. 
 6. 
 Optimierung  1 270 9 1 mP/Kl 90  6. 
-Allgemeine Biologie  2 180 6 Kl 90/Kl 60  1. und 2. 
-5 Biochemische Grundl a-
+Allgemeine Biologie  2 180 6 Kl 90/Kl 60  1. und 2.  Biochemische Grundl a-
 gen 2 330 11 2 mP/Kl 90  
 1 Üs*  3. und 4. 
 4. 
@@ -222,8 +213,7 @@ zuräumen.
 onsziele erreicht hat. Schriftliche Prüfungsleistungen werden von einem Prüfer bewer tet; 
 wenn es sich um den let zten Wiederholungsversuch handelt, ist ein zweiter Prüfer heran-
 zuziehen (§ 20 Absatz 2 RPO). Mündliche Prüfungen werden vor einem Prüfer in Gegen-wart eines sachkundigen Beisitzers abgelegt . 
-  
-6 § 8 
+   § 8 
 Bachelorarbeit  
  
 (1) Hat der Studierende mindestens 120 LP erworben, kann er die Ausgabe eines Th emas 
@@ -260,8 +250,7 @@ gen. Die Noten dieser Modulprüfungen gehen mit dem auf den jeweiligen relativen
 an Leistungspunkten bezogenen Gewicht ein, die Note für die Bachelorarbeit wird dabei 
 mit dem zweifachen relativen Anteil gewichtet.
  
- 
-7 (2) Die Noten der Module  
+  (2) Die Noten der Module  
  Algorithmen und Programmierung /Computeralgebra -Systeme  
  Diskrete Strukturen in der Biologie  
  Gewöhnliche Differentialgleichungen/Proseminar  
@@ -301,8 +290,7 @@ zum 30.09.2018 außer  Kraft.
   Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats vom 7.  März 
 2014,  der mit B eschluss des Senats vom 18.  April 2012 gemäß §§ 81 Absatz  7 LHG und 
 20 Absatz 1 Satz 2 der Grundordnung die Befugnis zur Beschlussfassung verliehen wur-de, und der Genehmigung der Rektorin vom 7. April 2014.  
- 
-8 Greifswald, den 7. April 2014 
+  Greifswald, den 7. April 2014 
  
  
  

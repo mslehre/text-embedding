@@ -1,4 +1,4 @@
-nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+
  1 Prüfungs - und Studienordnung  
 des Masterstudiengangs Mathematik  
 an der Ernst -Moritz -Arndt -Universität Greifswald  
@@ -41,7 +41,7 @@ Inhaltsverzeichnis
 § 13 Inkrafttreten, Übergangsregelungen, Außerkrafttreten  
   Anlage A:  Musterstudienplä ne 
 Anlage B:  Modul katalog  
-Anlage C:  Diploma Supplement (deutsche und englische Version)  nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+Anlage C:  Diploma Supplement (deutsche und englische Version)  
  2 § 1* 
 Geltungsbereich  
  
@@ -86,7 +86,7 @@ abgeschlossen werden kann (Regelstudienzeit), beträgt  vier Semester.
 insgesamt  120 Leistungspunkte (LP) zu erwerben.  
                                     
 * Soweit für Funktionsbezeichnungen ausschließlich die männliche oder die weibliche Form verwendet 
-wird, gilt diese jeweils auch für das andere Geschlecht.  nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+wird, gilt diese jeweils auch für das andere Geschlecht.  
  3  
 (4) Ein erfolgreiches Studium setzt den Besuch der in den Modulen angebotenen Lehrveranstaltungen voraus. Die Studierenden haben die entsprechende Kontaktzeit eigenverantwortlich durch ein angemessenes Selbststudium zu ergänzen. Die jeweiligen Lehrkräfte geben hierzu für jedes Modul rechtzeitig Studienhinweise, insbesondere Literaturlisten heraus, die sich an den Qualifikationszielen und an der Arbeitsbel astung des Moduls orientieren.  
  (5) Unbeschadet der Freiheit der Studierenden, den zeitlichen und organisatorischen Verlauf seines Studiums selbstverantwortlich zu planen, werden Musterstudienpläne (Anlage A) als zweckmäßig empfohlen. Für die qualitativen und quantitativen Beziehungen zwischen der Dauer der Module und der Leistungspunkteverteilung einerseits sowie den Lehrveranstaltungsarten und Semesterwochenstunden andererseits wird ebenfalls auf die Musterstudienpläne verwiesen.  
@@ -116,7 +116,7 @@ Teilprüfungen
 Prüfung abzulegen, die sich auf die bereits absolvierten Teile des Moduls bezieht.  Der 
 Antrag ist spätestens vier Wochen nach Ende der Vorlesungszeit an den 
 Prüfungsausschussvorsitzenden zu richten und im Zentralen Prüfungsamt einzureichen.  
- nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+ 
  4 (2) Studierende, denen nach § 43 RPO erbrachte Leistungsnachweise angerechnet 
 werden, die sich nur auf einen Teil einer Modulprüfung beziehen, können über den 
 fehlenden Teil des Moduls eine Teilprüfung ablegen.  
@@ -157,7 +157,7 @@ sowie Seminarmodule studiert.
  2. Seminarmodul A muss belegt werden.  
  3. Darüber hinaus sind 30 Leistungspunke aus dem Modul  Masterarbeit zu  
 erwerben.  
-4. Die Mo dule „Spezialvorlesung“ und die Seminarmodule können mehrfac h nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+4. Die Mo dule „Spezialvorlesung“ und die Seminarmodule können mehrfac h 
  5 gewählt werden. Absatz 5 Satz 1 gilt entsprechend.  
  
 (2) Es werden folgende Module angeboten:  
@@ -209,7 +209,7 @@ oder alternativ  1
  
  mP/Kl 
  
-  nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+  
  6 berufsbezogenes Praktikum (§ 7 ) 4 W 6 Praktikumsbericht * 
 (3 S.) 
  
@@ -260,7 +260,7 @@ oder alternativ  1
  
  mP/Kl 
  
-  nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+  
  7 berufsbezogenes Praktikum (§ 6 ) 4 W 6 Praktikumsbericht * 
 (3 S.) 
 Spieltheorie  1 180 6 mP/Kl C 
@@ -300,7 +300,7 @@ stattfinden .
  (2) Die Modulprüfungen werden in Form einer 30- minütigen mündlichen 
 Prüfungsleistung, einer 90 -minütigen Klausur oder eines 60 -minü tigen Vortrages 
 (Seminare) abgelegt. Für das Seminarmodul B ist weiter eine schriftliche Form des 
-Vortrages zu erstellen. Die Kriterien für den Erhalt eines Übungsscheines legt der nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+Vortrages zu erstellen. Die Kriterien für den Erhalt eines Übungsscheines legt der 
  8 Dozent in der ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der 
 Übungsaufgaben erfolgreich zu bearbeiten.  
  (3) Besteht eine Modulprüfung aus mehreren Prüfungsleistungen, muss jede bestanden werden. Nicht bestandene Prüfungsleistungen lassen bestandene Prüfungsleistungen unberührt.  
@@ -328,7 +328,7 @@ werden. Wird die Wiederholung der Verteidigung erneut nicht bestanden, muss auch
  (3) Die Bearbeitungszeit für die Masterarbeit beträgt 840 Stunden ( 28 LP) im Verlauf 
 von neun Monaten.  
  (4) Eine elektronische Fassung ist der Arbeit beizufügen.  Zugleich hat der Studierende 
-schriftlich zu erklären, dass von der Arbeit eine elektronische Kopie gefertigt und gespeichert werden darf, um eine Überprüfung mittels einer Plagiatssoftware zu ermöglichen.  nichtamtliche Lesefassung der Prüfungs - und Studienordnung M.Sc. M athematik  
+schriftlich zu erklären, dass von der Arbeit eine elektronische Kopie gefertigt und gespeichert werden darf, um eine Überprüfung mittels einer Plagiatssoftware zu ermöglichen.  
  9 § 11 
 Bildung der Gesamtnote  
  
