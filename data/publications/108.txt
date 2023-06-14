@@ -1,0 +1,86 @@
+Thomas Jira,16021920;
+
+Development and validation of a rapid stability indicating HPLC-method using monolithic stationary phase and two spectrophotometric methods for determination of antihistaminic acrivastine in capsules	https://www.webofscience.com/wos/woscc/full-record/WOS:000338806800062
+
+Multifactorial design principles applied for the simultaneous separation of local anesthetics using chromatography modeling software	https://www.webofscience.com/wos/woscc/full-record/WOS:000340981600012
+
+Chromatography Modeling Software Applicability for Non-Conventional Columns: a Case Study of Calixarene- and Resorcinarene-Bonded Stationary Phases	https://www.webofscience.com/wos/woscc/full-record/WOS:000341659000008
+
+Evaluation of (S)- and (R)-Misonidazole as GPX Inhibitors: Synthesis, Characterization Including Circular Dichroism and In Vitro Testing on Bovine GPx-1	https://www.webofscience.com/wos/woscc/full-record/WOS:000332331800001
+
+Isolation of farnesylhydroquinones from the basidiomycete Ganoderma pfeifferi	https://www.webofscience.com/wos/woscc/full-record/WOS:000216561700003
+
+Intergroup cross-comparison for the evaluation of data-interchangeability from various chromatographic tests	https://www.webofscience.com/wos/woscc/full-record/WOS:000320821900017
+
+Analytical power of LLE-HPLC-PDA-MS/MS in drug metabolism studies: Identification of new nabumetone metabolites	https://www.webofscience.com/wos/woscc/full-record/WOS:000318748900021
+
+Evaluation of the Chromatographic Performance of Conventional, Polar-Endcapped and Calixarene-Bonded Stationary Phases for the Separation of Water-Soluble Vitamins	https://www.webofscience.com/wos/woscc/full-record/WOS:000318168100002
+
+Complexation of Achiral Calixarenes with Chiral Pharmaceutical Substances: A Circular Dichroism Study	https://www.webofscience.com/wos/woscc/full-record/WOS:000314226900015
+
+Spectrophotometric and Stability-Indicating High-Performance Liquid Chromatographic Determinations of Terbutaline Sulfate	https://www.webofscience.com/wos/woscc/full-record/WOS:000310652300020
+
+Effect of chromatographic conditions on liquid chromatographic chiral separation of terbutaline and salbutamol on Chirobiotic V column	https://www.webofscience.com/wos/woscc/full-record/WOS:000295432700019
+
+Selectivity of calixarene-bonded silica phases in HPLC: Description of special characteristics with a multiple term linear equation at different methanol concentrations	https://www.webofscience.com/wos/woscc/full-record/WOS:000283201900005
+
+Characterization of calixarene-bonded stationary phases	https://www.webofscience.com/wos/woscc/full-record/WOS:000283201900004
+
+Chromatographic Application on Calixarene Bonded Stationary Phases: A Stability Indicating LC-Method for Determination of Celecoxib in Tablet Formulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000273352500012
+
+Description of retention characteristics of calixarene-bonded stationary phases in dependence of the methanol content in the mobile phase	https://www.webofscience.com/wos/woscc/full-record/WOS:000269372200004
+
+Selectivity of calixarene-bonded silica-phases in HPLC: Description of special characteristics with a multiple term linear equation at two different pH-values	https://www.webofscience.com/wos/woscc/full-record/WOS:000259584800015
+
+The effect of achiral calixarenes on chiral separation of propranolol-HCl and brompheniramine maleate in capillary electrophoresis using cyclodextrin as chiral selector	https://www.webofscience.com/wos/woscc/full-record/WOS:000254779800002
+
+Comparison of the chromatographic behavior of tricyclic neuroleptics on calixarene-bonded, monolithic and conventional RP-HPLC columns	https://www.webofscience.com/wos/woscc/full-record/WOS:000249546100010
+
+Achiral and chiral high-performance liquid chromatographic determination of flubendazole and its metabolites in biomatrices using UV photodiode-array and mass spectrometric detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000246701600013
+
+Calixarene HPLC phases - Applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000244996900005
+
+Effect of chaotropic mobile phase additives on retention behaviour of beta-blockers on various reversed-phase high-performance liquid chromatography columns	https://www.webofscience.com/wos/woscc/full-record/WOS:000241772800009
+
+Retention behaviour of beta-blockers in HPLC using a monolithic column	https://www.webofscience.com/wos/woscc/full-record/WOS:000237786800008
+
+Use of chiral liquid chromatography for the evaluation of stereospecificity in the carbonyl reduction of potential benzo[c]fluorene antineoplastics benfluron and dimefluron in various species	https://www.webofscience.com/wos/woscc/full-record/WOS:000229599200031
+
+Peak shape improvement of basic analytes in capillary liquid chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000227397400012
+
+Chromatographic applications on monolithic columns: Determination of triamcinolone, prednisolone and dexamethasone in pharmaceutical tablet formulations using a solid phase extraction and a monolithic column	https://www.webofscience.com/wos/woscc/full-record/WOS:000227123900006
+
+Evaluation of packed capillary liquid chromatography columns and comparison with conventional-size columns	https://www.webofscience.com/wos/woscc/full-record/WOS:000189217300021
+
+Extracolumn band broadening in capillary liquid chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000185689900001
+
+Investigation of the retention behaviour of steroids with calixarene-based stationary phases by modern NMR spectroscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000185163400006
+
+Separation of (Z)- and (E)-isomers of thioxanthene and dibenz[b,e]oxepin derivatives with calixarenes and resorcinarenes as additives in nonaqueous capillary electrophoresis	https://www.webofscience.com/wos/woscc/full-record/WOS:000183242700019
+
+Separation of cis- and trans-isomers of thioxanthene and dibenz[b,e]oxepin derivatives on calixarene- and resorcinarene-bonded high-performance liquid chromatography stationary phases	https://www.webofscience.com/wos/woscc/full-record/WOS:000174491700031
+
+Chiral separation of amino acid esters by micellar electrokinetic chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000171365800024
+
+Chiral separations of 1,3,4-thia- and 1,3,4-selenadiazine derivatives by use of non-aqueous capillary electrophoresis	https://www.webofscience.com/wos/woscc/full-record/WOS:000168918700006
+
+New calixarene-bonded stationary phases in high-performance liquid chromatography: comparative studies on the retention behavior and on influences of the eluent	https://www.webofscience.com/wos/woscc/full-record/WOS:000165200600004
+
+Chiral separation of unmodified amino acids with non-aqueous capillary electrophoresis based on the ligand-exchange principle	https://www.webofscience.com/wos/woscc/full-record/WOS:000086544000013
+
+Nonaqueous capillary electrophoresis: Application possibilities and suitability of various solvents for the separation of basic analytes	https://www.webofscience.com/wos/woscc/full-record/WOS:000085044700011
+
+Use of chiral and achiral ion-pairing reagents in combination with cyclodextrins in capillary electrophoresis	https://www.webofscience.com/wos/woscc/full-record/WOS:000072695800033
+
+Use of cationic cyclodextrin for enantioseparation by capillary electrophoresis	https://www.webofscience.com/wos/woscc/full-record/WOS:000072695800032
+
+Circular dichroism of axially chiral methaqualone, 3-aryl-2-mercapto- and 3-aryl-2-alkylthio-4(3H)-quinazolinones: Conformational dependence of CD and assignment of absolute configuration	https://www.webofscience.com/wos/woscc/full-record/WOS:000072218500008
+
+Capillary electrophoretic chiral resolution of vicinal diols by complexation with borate and cyclodextrin: Comparative studies on different cyclodextrin derivatives	https://www.webofscience.com/wos/woscc/full-record/WOS:A1997WW05200014
+
+Influence of different types of cyclodextrins on the racemization of scopolamine-N-butylbromide	https://www.webofscience.com/wos/woscc/full-record/WOS:A1996UH42600046
+
+Enantioselective influence of cyclodextrins on cleavage of chiralic esters	https://www.webofscience.com/wos/woscc/full-record/WOS:A1995TK55500010
+
+ALTERATIONS OF PURINE METABOLISM IN MONONUCLEAR CELL-POPULATIONS OF 1ST DEGREE RELATIVES OF INSULIN-DEPENDENT DIABETIC INDIVIDUALS WITH DISTURBED GLUCOSE-TOLERANCE	https://www.webofscience.com/wos/woscc/full-record/WOS:A1992JQ45600001
+

@@ -1,0 +1,102 @@
+Peter Manz,1833895;
+
+Edge transport and fuelling studies via gas puff modulation in ASDEX Upgrade L-mode plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000784124000001
+
+Progress from ASDEX Upgrade experiments in preparing the physics basis of ITER operation and DEMO scenario development	https://www.webofscience.com/wos/woscc/full-record/WOS:000769721300001
+
+High-heat flux ball-pen probe head in ASDEX-Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000760756500001
+
+Linearized spectrum correlation analysis for thermal helium beam diagnostics	https://www.webofscience.com/wos/woscc/full-record/WOS:000702519500003
+
+Gyrofluid simulation of an I-mode pedestal relaxation event	https://www.webofscience.com/wos/woscc/full-record/WOS:000710772300002
+
+The separatrix operational space of ASDEX Upgrade due to interchange-drift-Alfven turbulence	https://www.webofscience.com/wos/woscc/full-record/WOS:000674463700001
+
+Numerical modelling of an enhanced perpendicular transport regime in the scrape-off layer of ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000655320200001
+
+Quiescent regions below the X-point in ASDEX upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000642199300001
+
+Outwards transport of angular momentum in a shallow water accretion disk experiment	https://www.webofscience.com/wos/woscc/full-record/WOS:000652862200003
+
+Turbulent energy transfer into zonal flows from the weak to the strong flow shear regime in the stellarator TJ-K	https://www.webofscience.com/wos/woscc/full-record/WOS:000646351900004
+
+Electric field and turbulence in global Braginskii simulations across the ASDEX Upgrade edge and scrape-off layer	https://www.webofscience.com/wos/woscc/full-record/WOS:000618336200001
+
+Approaching detachment in I-mode-response of core confinement and the edge pedestal in the ASDEX Upgrade tokamak	https://www.webofscience.com/wos/woscc/full-record/WOS:000619561900001
+
+Advective-acoustic cycle in a shallow water standing accretion shock experiment	https://www.webofscience.com/wos/woscc/full-record/WOS:000600286100011
+
+Experimental observation of resonance manifold shrinking under zonal flow shear	https://www.webofscience.com/wos/woscc/full-record/WOS:000595699900008
+
+I-mode pedestal relaxation events at ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000578452700001
+
+Continuous observation of filaments from the confined region to the far scrape-off layer	https://www.webofscience.com/wos/woscc/full-record/WOS:000600734700057
+
+Physical mechanism behind and access to the I-mode confinement regime in tokamaks	https://www.webofscience.com/wos/woscc/full-record/WOS:000560073400001
+
+Self-sustained divertor oscillations in ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000548344900001
+
+Thermal dynamics in the flux-coordinate independent turbulence code GRILLIX	https://www.webofscience.com/wos/woscc/full-record/WOS:000504228800001
+
+The influence of magnetic field curvature on intermittency in drift-wave turbulence in the stellarator TJ-K	https://www.webofscience.com/wos/woscc/full-record/WOS:000536602800001
+
+Turbulence driven widening of the near-SOL power width in ASDEX Upgrade H-Mode discharges	https://www.webofscience.com/wos/woscc/full-record/WOS:000528529200001
+
+The importance of realistic plasma filament waveforms for the study of resonant wave-filament interactions in tokamak edge plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000533907500001
+
+Nonlinear dynamics of energetic-particle driven geodesic acoustic modes in ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000528529400001
+
+The diffusion limit of ballistic transport in the scrape-off layer	https://www.webofscience.com/wos/woscc/full-record/WOS:000518030000002
+
+Overview of physics studies on ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000490603100002
+
+Synthetic conventional reflectometry probing of edge and scrape-off layer plasma turbulence	https://www.webofscience.com/wos/woscc/full-record/WOS:000501797800043
+
+Validation of the edge density profiles from the ICRF antenna reflectometer on ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000501797800014
+
+On the nature of blob propagation and generation in the large plasma device: Global GRILLIX studies	https://www.webofscience.com/wos/woscc/full-record/WOS:000505980600026
+
+High frequency edge coherent modes studied with the ultra-fast swept reflectometer on ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000507472300001
+
+Dependence on plasma shape and plasma fueling for small edge-localized mode regimes in TCV and ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000473079500003
+
+Blob distortion by radio-frequency induced sheared flow	https://www.webofscience.com/wos/woscc/full-record/WOS:000470808000001
+
+Global turbulence simulations of the tokamak edge region with GRILLIX	https://www.webofscience.com/wos/woscc/full-record/WOS:000470877600037
+
+Stationarity of I-mode operation and I-mode divertor heat fluxes on the ASDEX Upgrade tokamak	https://www.webofscience.com/wos/woscc/full-record/WOS:000460107500028
+
+A locked mode indicator for disruption prediction on JET and ASDEX upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000457663100032
+
+Characterization of low-frequency inter-ELM modes of H-mode discharges at ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000446354600007
+
+Parameter dependences of small edge localized modes (ELMs)	https://www.webofscience.com/wos/woscc/full-record/WOS:000445960100001
+
+On the role of filaments in perpendicular heat transport at the scrape-off layer	https://www.webofscience.com/wos/woscc/full-record/WOS:000438371700001
+
+On the phase velocity in between weak and strong plasma edge turbulence	https://www.webofscience.com/wos/woscc/full-record/WOS:000434973700002
+
+Magnetic configuration effects on the Reynolds stress in the plasma edge	https://www.webofscience.com/wos/woscc/full-record/WOS:000440589100043
+
+Characterization of edge turbulence in different states of divertor detachment using reflectometry in the ASDEX Upgrade tokamak	https://www.webofscience.com/wos/woscc/full-record/WOS:000428859900002
+
+Small amplitude oscillations before the L-H transition in EAST	https://www.webofscience.com/wos/woscc/full-record/WOS:000424261800001
+
+Nonlinear coupling induced toroidal structure of edge localized modes	https://www.webofscience.com/wos/woscc/full-record/WOS:000418664300002
+
+Estimation of the plasma blob occurrence rate	https://www.webofscience.com/wos/woscc/full-record/WOS:000424021700058
+
+Linear gyrokinetic investigation of the geodesic acoustic modes in realistic tokamak configurations	https://www.webofscience.com/wos/woscc/full-record/WOS:000418957200019
+
+The collisionality dependence of intermittency level in drift-wave turbulence in the stellarator TJ-K	https://www.webofscience.com/wos/woscc/full-record/WOS:000416643500031
+
+Overview of ASDEX Upgrade results	https://www.webofscience.com/wos/woscc/full-record/WOS:000404620600004
+
+Stability and propagation of the high field side high density front in the fluctuating state of detachment in ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000417293300190
+
+A study on the density shoulder formation in the SOL of H-mode plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000417293300196
+
+Turbulence characteristics of the I-mode confinement regime in ASDEX Upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000405555600002
+
+Spatio-temporal structure of turbulent Reynolds stress zonal flow drive in 3D magnetic configuration	https://www.webofscience.com/wos/woscc/full-record/WOS:000401608000003
+
