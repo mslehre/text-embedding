@@ -31,10 +31,10 @@ def get_indices_for_chunks(chunk_size: int,
         text_len (int): Length of text that is to be cut in chunks
     
     Returns:
-        chunks (list[tuple[int]]): Aa list of index tuples, each index tuple 
-            represents a chunk. The second index of each tuple is +1 so that
-            when cutting the text it does not need to be adjusted (i.e. 
-            chunk_size = 3: index tuple (2,5) -> text[2:5] chunk of length 3).
+        chunks (list[tuple[int]]): A list of index tuples, where each index 
+            tuple represents a chunk. The index tuples are half-open intervals 
+            [start, end), i.e. the start position is included and the end 
+            position is excluded. The indexing is 0-based.
     """
     i = 0  # index of chunk start
     indices = []
