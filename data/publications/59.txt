@@ -1,78 +1,25 @@
 Sebastian Domsch,7011797;
 
-Functional MRI of neuro-electro-magnetic oscillations: Statistical processing in the presence of system imperfections	https://www.webofscience.com/wos/woscc/full-record/WOS:000672635300033
+Esi Edugyan.
 
-Drawing on the Victorians: The Palimpsest of Victorian and Neo-Victorian Graphic Texts	https://www.webofscience.com/wos/woscc/full-record/WOS:000472594800009
+Sustainability and Narrative: Is Equilibrium Tellable?
 
-Oxygen extraction fraction mapping at 3 Tesla using an artificial neural network: A feasibility study	https://www.webofscience.com/wos/woscc/full-record/WOS:000419134600029
+Strategies against Structure: Video Game Terrorism as the Ultimate American Agency Narrative. 
 
-Thomas Love Peacock: Crotchet Castle	https://www.webofscience.com/wos/woscc/full-record/WOS:000459232600032
+Space and Narrative in Computer Games.
 
-Thomas Love Peacock: Nightmare Abbey	https://www.webofscience.com/wos/woscc/full-record/WOS:000459232600031
+Narrating Random Probes: The Ideal of 'Slice-of-Life'. 
 
-Diffusion parameter mapping with the combined intravoxel incoherent motion and kurtosis model using artificial neural networks at 3 T	https://www.webofscience.com/wos/woscc/full-record/WOS:000418202200009
+Staging Absence: A Poetics of the Empty Page. 
 
-1D and 2D diffusion pore imaging on a preclinical MR system using adaptive rephasing: Feasibility and pulse sequence comparison	https://www.webofscience.com/wos/woscc/full-record/WOS:000400723900005
+Wordsworth & Coleridge: Lyrical Ballads.
 
-Gaussian signal relaxation around spin echoes: Implications for precise reversible transverse relaxation quantification of pulmonary tissue at 1.5 and 3 Tesla	https://www.webofscience.com/wos/woscc/full-record/WOS:000399666400020
+Dialogue in Video Games. 
 
-Futures of the American Novel	https://www.webofscience.com/wos/woscc/full-record/WOS:000480757600009
+Futures of the American Novel. 
 
-Optimized protocol for high resolution functional magnetic resonance imaging at 3 T using single-shot echo planar imaging	https://www.webofscience.com/wos/woscc/full-record/WOS:000347664400019
+Ethics and Agency: The Limits and Necessity of Ethical Criticism. 
 
-Staging Icons, Performing Storyworlds - From Mystery Play to Cosplay	https://www.webofscience.com/wos/woscc/full-record/WOS:000421411100006
+Selbstreflexive Implikationen des animierten Dokumentarfilms: Ari Folmans Waltz with Bashir. 
 
-Emergence of Literary Criticism in 18th-Century Britain: Discourse between Attacks and Authority	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200014
-
-Distance and Democracy	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200013
-
-Institutionalizing Authority: Academies and Reviews	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200012
-
-Authority and the Marketplace	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200011
-
-Name-Authority: The Critic as Institution	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200010
-
-Taste and the Critic	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200009
-
-Rules and the Critic	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200008
-
-Learning: Knowledge between Authority and Pedantry	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200007
-
-The Authority of Poetic Genius	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200006
-
-The Authority of Seniority: Ancient and Modern Criticism	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200005
-
-Aristocratic Authority	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200004
-
-Critical Authority	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200003
-
-Contemporary Discussions of Criticism and the Critic	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200002
-
-Sebastian Domsch The Emergence of Literary Criticism in 18th-Century Britain Discourse between Attacks and Authority Introduction	https://www.webofscience.com/wos/woscc/full-record/WOS:000356966200001
-
-Non-invasive multiparametric qBOLD approach for robust mapping of the oxygen extraction fraction	https://www.webofscience.com/wos/woscc/full-record/WOS:000341283600007
-
-Increased BOLD sensitivity in the orbitofrontal cortex using slice-dependent echo times at 3 T	https://www.webofscience.com/wos/woscc/full-record/WOS:000314440900005
-
-A novel temporal filtering strategy for functional MRI using UNFOLD	https://www.webofscience.com/wos/woscc/full-record/WOS:000305859300007
-
-"Kill Switch: The Ethics of Simulation" (25th November 2011)	https://www.webofscience.com/wos/woscc/full-record/WOS:000320970100012
-
-Language and the edges of humanity: Orang-utans and wild girls in Monboddo and Peacock (Lord Monboddo, Thomas Love Peacock)	https://www.webofscience.com/wos/woscc/full-record/WOS:000256226700002
-
-'Kalte Herberge'	https://www.webofscience.com/wos/woscc/full-record/WOS:000223051800019
-
-'Roman von Montag bis Freitag'	https://www.webofscience.com/wos/woscc/full-record/WOS:000222004400029
-
-Der 'Weg nach Xanadu'	https://www.webofscience.com/wos/woscc/full-record/WOS:000186740400022
-
-'"Aufgeklappt"'	https://www.webofscience.com/wos/woscc/full-record/WOS:000184274500050
-
-'Hungrige Tage'	https://www.webofscience.com/wos/woscc/full-record/WOS:000183332900024
-
-'Yquem'	https://www.webofscience.com/wos/woscc/full-record/WOS:000181799900021
-
-Swimmer in the desert. In search of the Zarzura Oasis	https://www.webofscience.com/wos/woscc/full-record/WOS:000179940000025
-
-'Almasy'	https://www.webofscience.com/wos/woscc/full-record/WOS:000179940000024
-
+Hearing Storyworlds – How Videogames use Sound to Convey Narrative.
