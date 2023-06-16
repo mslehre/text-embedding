@@ -1,0 +1,102 @@
+Gerald Kerth,23754437;
+
+BatNet: a deep learning-based tool for automated bat species identification from camera trap images	https://www.webofscience.com/wos/woscc/full-record/WOS:000983893000001
+
+Counting in the dark: estimating population size and trends of bat assemblages at hibernacula using infrared light barriers	https://www.webofscience.com/wos/woscc/full-record/WOS:000932637600001
+
+Long-term field study reveals that warmer summers lead to larger and longer-lived females only in northern populations of Natterer's bats	https://www.webofscience.com/wos/woscc/full-record/WOS:000930259400001
+
+The risk faced by the early bat: individual plasticity and mortality costs of the timing of spring departure after hibernation	https://www.webofscience.com/wos/woscc/full-record/WOS:000907551100001
+
+Global warming leads to larger bats with a faster life history pace in the long-lived Bechstein's bat (Myotis bechsteinii)	https://www.webofscience.com/wos/woscc/full-record/WOS:000822515100005
+
+Long-term field studies in bat research: importance for basic and applied research questions in animal behavior	https://www.webofscience.com/wos/woscc/full-record/WOS:000805569200001
+
+Data-driven modelling of group formation in the fission-fusion dynamics of Bechstein's bats	https://www.webofscience.com/wos/woscc/full-record/WOS:000793457500001
+
+Precipitation during two weeks in spring influences reproductive success of first-year females in the long-lived Natterer's bat	https://www.webofscience.com/wos/woscc/full-record/WOS:000755515500008
+
+Long-term individualized monitoring of sympatric bat species reveals distinct species- and demographic differences in hibernation phenology	https://www.webofscience.com/wos/woscc/full-record/WOS:000748247600001
+
+Population genetics as a tool to elucidate pathogen reservoirs: Lessons from Pseudogymnoascus destructans, the causative agent of White-Nose disease in bats	https://www.webofscience.com/wos/woscc/full-record/WOS:000717882800001
+
+Genetic diversity in a long-lived mammal is explained by the past's demographic shadow and current connectivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000692265900001
+
+Long-term study shows that increasing body size in response to warmer summers is associated with a higher mortality risk in a long-lived bat species	https://www.webofscience.com/wos/woscc/full-record/WOS:000659139600004
+
+Are echo-reflective cues effective to attract bats to newly placed artificial roosts?	https://www.webofscience.com/wos/woscc/full-record/WOS:000672720100016
+
+Quantifying individual influence in leading-following behavior of Bechstein's bats	https://www.webofscience.com/wos/woscc/full-record/WOS:000616809300011
+
+Slight increase in bat activity after human hibernation count monitoring of a bunker complex in northern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000625441600012
+
+Consequences of fragmentation for Neotropical bats: The importance of the matrix	https://www.webofscience.com/wos/woscc/full-record/WOS:000599921200016
+
+Analysis of astrovirus transmission pathways in a free-ranging fission-fusion colony of Natterer's bats (Myotis nattereri)	https://www.webofscience.com/wos/woscc/full-record/WOS:000590313800001
+
+No evidence for memory retention of a learned association between a cue and roost quality after hibernation in free-ranging bats	https://www.webofscience.com/wos/woscc/full-record/WOS:000527256700001
+
+Social structure and relatedness in the fringe-lipped bat (Trachops cirrhosus)	https://www.webofscience.com/wos/woscc/full-record/WOS:000527775000015
+
+Free-ranging bats combine three different cognitive processes for roost localization	https://www.webofscience.com/wos/woscc/full-record/WOS:000522710800001
+
+Quantifying individual influence in leading-following behavior of Bechstein's bats	https://www.webofscience.com/wos/pprn/full-record/PPRN:10606666
+
+Data-driven modeling of leading-following behavior in Bechstein's bats	https://www.webofscience.com/wos/pprn/full-record/PPRN:10180414
+
+Range expansion is associated with increased survival and fecundity in a long-lived bat species	https://www.webofscience.com/wos/woscc/full-record/WOS:000475797600001
+
+Differences in seasonal survival suggest species-specific reactions to climate change in two sympatric bat species	https://www.webofscience.com/wos/woscc/full-record/WOS:000473998500001
+
+Testing the adaptive value of gastropod shell morphology to flow: a multidisciplinary approach based on morphometrics, computational fluid dynamics and a flow tank experiment	https://www.webofscience.com/wos/woscc/full-record/WOS:000462401700001
+
+Kinship, association, and social complexity in bats	https://www.webofscience.com/wos/woscc/full-record/WOS:000456143400007
+
+Using Approximate Bayesian Computation to infer sex ratios from acoustic data	https://www.webofscience.com/wos/woscc/full-record/WOS:000435802500088
+
+Male-biased dispersal and the potential impact of human-induced habitat modifications on the Neotropical bat Trachops cirrhosus	https://www.webofscience.com/wos/woscc/full-record/WOS:000436799100008
+
+Long-term roosting data reveal a unimodular social network in large fission-fusion society of the colony-living Natterer's bat (Myotis nattereri)	https://www.webofscience.com/wos/woscc/full-record/WOS:000433996400001
+
+Comparative phylogeography of a vulnerable bat and its ectoparasite reveals dispersal of a non-mobile parasite among distinct evolutionarily significant units of the host	https://www.webofscience.com/wos/woscc/full-record/WOS:000428053700018
+
+Growing old, yet staying young: The role of telomeres in bats' exceptional longevity	https://www.webofscience.com/wos/woscc/full-record/WOS:000426845500014
+
+How do young bats find suitable swarming and hibernation sites? Assessing the plausibility of the maternal guidance hypothesis using genetic maternity assignment for two European bat species	https://www.webofscience.com/wos/woscc/full-record/WOS:000423030100008
+
+Handle with care: enlarged pads improve the ability of Hardwicke's woolly bat, Kerivoula hardwickii (Chiroptera: Vespertilionidae), to roost in a carnivorous pitcher plant	https://www.webofscience.com/wos/woscc/full-record/WOS:000417321300013
+
+Stabilization of a bat-pitcher plant mutualism	https://www.webofscience.com/wos/woscc/full-record/WOS:000412956900060
+
+Coprophagous features in carnivorous Nepenthes plants: a task for ureases	https://www.webofscience.com/wos/woscc/full-record/WOS:000410740300002
+
+PRINCIPLES AND PATTERNS OF BAT MOVEMENTS: FROM AERODYNAMICS TO ECOLOGY	https://www.webofscience.com/wos/woscc/full-record/WOS:000408309200002
+
+Rare catastrophic events drive population dynamics in a bat species with negligible senescence	https://www.webofscience.com/wos/woscc/full-record/WOS:000406981000001
+
+Ecological outsourcing: a pitcher plant benefits from transferring pre-digestion of prey to a bat mutualist	https://www.webofscience.com/wos/woscc/full-record/WOS:000394587000011
+
+Host social organization and mating system shape parasite transmission opportunities in three European bat species	https://www.webofscience.com/wos/woscc/full-record/WOS:000392637900016
+
+Evidence for genetic variation in Natterer's bats (Myotis nattereri) across three regions in Germany but no evidence for co-variation with their associated astroviruses	https://www.webofscience.com/wos/woscc/full-record/WOS:000391316000001
+
+The complete mitochondrial genome of the Bechstein's bat, Myotis bechsteinii (Chiroptera, Vespertilionidae)	https://www.webofscience.com/wos/woscc/full-record/WOS:000402042700042
+
+Conspecific and heterospecific social groups affect each other's resource use: a study on roost sharing among bat colonies	https://www.webofscience.com/wos/woscc/full-record/WOS:000391840900035
+
+Bats attend to plant structures to identify roosting sites	https://www.webofscience.com/wos/woscc/full-record/WOS:000389350200010
+
+Phylogeographic-based conservation implications for the New Zealand long-tailed bat, (Chalinolobus tuberculatus): identification of a single ESU and a candidate population for genetic rescue	https://www.webofscience.com/wos/woscc/full-record/WOS:000382934400007
+
+Nest-boxes for Common Swifts Apus apus as compensatory measures in the context of building renovation: efficacy and predictors of occupancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000376297400004
+
+Nightly clustering in communal roosts and the regular presence of adult females at night provide thermal benefits for juvenile Bechstein's bats	https://www.webofscience.com/wos/woscc/full-record/WOS:000372379500012
+
+Genetic diversity is maintained in the endangered New Zealand long-tailed bat (Chalinolobus tuberculatus) despite a closed social structure and regular population crashes	https://www.webofscience.com/wos/woscc/full-record/WOS:000368022900008
+
+Insectivorous bats carry host specific astroviruses and coronaviruses across different regions in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000368973600015
+
+Bats Are Acoustically Attracted to Mutualistic Carnivorous Plants	https://www.webofscience.com/wos/woscc/full-record/WOS:000358465600031
+
+Host and parasite life history interplay to yield divergent population genetic structures in two ectoparasites living on the same bat species	https://www.webofscience.com/wos/woscc/full-record/WOS:000353961500004
+

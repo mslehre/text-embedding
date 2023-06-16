@@ -1,0 +1,102 @@
+Uwe Bornscheuer,321742;
+
+Structure- and Data-Driven Protein Engineering of Transaminases for Improving Activity and Stereoselectivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000980652800001
+
+Discovery and Characterization of a Baeyer-Villiger Monooxygenase Using Sequence Similarity Network Analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000975625100001
+
+Synthesis of Modified Poly(vinyl Alcohol)s and Their Degradation Using an Enzymatic Cascade	https://www.webofscience.com/wos/woscc/full-record/WOS:000929373300001
+
+Unique alcohol dehydrogenases involved in algal sugar utilization by marine bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000946036300001
+
+AsiteDesign: a Semirational Algorithm for an Automated Enzyme Design	https://www.webofscience.com/wos/woscc/full-record/WOS:000955376400001
+
+Chemoenzymatic Cascade Reaction for the Valorization of the Lignin Depolymerization Product G-C2-Dioxolane Phenol	https://www.webofscience.com/wos/woscc/full-record/WOS:000961614400001
+
+Enlightening the Path to Protein Engineering: Chemoselective Turn-On Probes for High-Throughput Screening of Enzymatic Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000942745100001
+
+Urethanases for the Enzymatic Hydrolysis of Low Molecular Weight Carbamates and the Recycling of Polyurethanes	https://www.webofscience.com/wos/woscc/full-record/WOS:000917773700001
+
+Comparison of Four Immobilization Methods for Different Transaminases	https://www.webofscience.com/wos/woscc/full-record/WOS:000938430400001
+
+A growth selection system for the directed evolution of amine-forming or converting enzymes	https://www.webofscience.com/wos/woscc/full-record/WOS:000934496000001
+
+Shifting the pH Optima of (R)-Selective Transaminases by Protein Engineering	https://www.webofscience.com/wos/woscc/full-record/WOS:000896420300001
+
+Systemic Bile Acids Affect the Severity of Acute Pancreatitis in Mice Depending on Their Hydrophobicity and the Disease Pathogenesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000884050700001
+
+Structural insight and engineering of a plastic degrading hydrolase Ple629	https://www.webofscience.com/wos/woscc/full-record/WOS:000877162800015
+
+Cascades of Evolved Enzymes for the Synthesis of Complex Molecules	https://www.webofscience.com/wos/woscc/full-record/WOS:000844804300001
+
+Characterization of proteins from the 3N5M family reveals an operationally stable amine transaminase	https://www.webofscience.com/wos/woscc/full-record/WOS:000836755500001
+
+Recombinant l-Amino Acid Oxidase with Broad Substrate Spectrum for Co-substrate Recycling in (S)-Selective Transaminase-Catalyzed Kinetic Resolutions	https://www.webofscience.com/wos/woscc/full-record/WOS:000820804300001
+
+Connecting Algal Polysaccharide Degradation to Formaldehyde Detoxification	https://www.webofscience.com/wos/woscc/full-record/WOS:000814837100001
+
+Recovery of Hydroxytyrosol from Olive Mill Wastewater Using the Promiscuous Hydrolase/Acyltransferase PestE	https://www.webofscience.com/wos/woscc/full-record/WOS:000803658800001
+
+Enzyme Kits to Facilitate the Integration of Biocatalysis into Organic Chemistry - First Aid for Synthetic Chemists	https://www.webofscience.com/wos/woscc/full-record/WOS:000809645700001
+
+Discovery of Novel Tyrosine Ammonia Lyases for the Enzymatic Synthesis of p-Coumaric Acid	https://www.webofscience.com/wos/woscc/full-record/WOS:000778965400001
+
+The metabolic potential of plastics as biotechnological carbon sources-Review and targets for the future	https://www.webofscience.com/wos/woscc/full-record/WOS:000793785100004
+
+Engineering and evaluation of thermostable IsPETase variants for PET degradation	https://www.webofscience.com/wos/woscc/full-record/WOS:000723590500001
+
+Efficient Site-Selective Immobilization of Aldehyde-Tagged Peptides and Proteins by Knoevenagel Ligation	https://www.webofscience.com/wos/woscc/full-record/WOS:000728720100001
+
+Algorithm-aided engineering of aliphatic halogenase WelO5*for the asymmetric late-stage functionalization of soraphens	https://www.webofscience.com/wos/woscc/full-record/WOS:000744122300006
+
+Computer Modeling Explains the Structural Reasons for the Difference in Reactivity of Amine Transaminases Regarding Prochiral Methylketones	https://www.webofscience.com/wos/woscc/full-record/WOS:000758817900001
+
+Recent Insights and Future Perspectives on Promiscuous Hydrolases/Acyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000751835200022
+
+Pinene-Based Oxidative Synthetic Toolbox for Scalable Polyester Synthesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000730355700014
+
+Recent advances in (chemo)enzymatic cascades for upgrading bio-based resources	https://www.webofscience.com/wos/woscc/full-record/WOS:000700918400001
+
+Biocatalysis in the Recycling Landscape for Synthetic Polymers and Plastics towards Circular Textiles	https://www.webofscience.com/wos/woscc/full-record/WOS:000617214700001
+
+Fatty Acids and their Derivatives as Renewable Platform Molecules for the Chemical Industry	https://www.webofscience.com/wos/woscc/full-record/WOS:000645902400001
+
+Rational Design for Enhanced Acyltransferase Activity in Water Catalyzed by the Pyrobaculum calidifontis VA1 Esterase	https://www.webofscience.com/wos/woscc/full-record/WOS:000690967900001
+
+From Natural Methylation to Versatile Alkylations Using Halide Methyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000648680500001
+
+LuxAB-Based Microbial Cell Factories for the Sensing, Manufacturing and Transformation of Industrial Aldehydes	https://www.webofscience.com/wos/woscc/full-record/WOS:000688840000001
+
+Directed evolution of an amine transaminase for the synthesis of an Apremilast intermediate via kinetic resolution	https://www.webofscience.com/wos/woscc/full-record/WOS:000678339600007
+
+Recent trends in biocatalysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000663886900001
+
+Marine Polysaccharides: Occurrence, Enzymatic Degradation and Utilization	https://www.webofscience.com/wos/woscc/full-record/WOS:000650225700001
+
+Promiscuous Dehalogenase Activity of the Epoxide Hydrolase CorEH from Corynebacterium sp. C12	https://www.webofscience.com/wos/woscc/full-record/WOS:000656056200020
+
+An ADH toolbox for raspberry ketone production from natural resources via a biocatalytic cascade	https://www.webofscience.com/wos/woscc/full-record/WOS:000650536300002
+
+Kinetics Modeling of a Convergent Cascade Catalyzed by Monooxygenase-Alcohol Dehydrogenase Coupled Enzymes	https://www.webofscience.com/wos/woscc/full-record/WOS:000631441700008
+
+Efficient Acylation of Sugars and Oligosaccharides in Aqueous Environment Using Engineered Acyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000626844200034
+
+Discovery and Design of Family VIII Carboxylesterases as Highly Efficient Acyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000591343700001
+
+Directed Evolution of a Halide Methyltransferase Enables Biocatalytic Synthesis of Diverse SAM Analogs	https://www.webofscience.com/wos/woscc/full-record/WOS:000588400000001
+
+Biotechnological Production and Sensory Evaluation of omega 1-Unsaturated Aldehydes	https://www.webofscience.com/wos/woscc/full-record/WOS:000611076800033
+
+Biocatalysis: Enzymatic Synthesis for Industrial Applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000563953900001
+
+Repositioning microbial biotechnology against COVID-19: the case of microbial production of flavonoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000578714900001
+
+Possibilities and limitations of biotechnological plastic degradation and recycling	https://www.webofscience.com/wos/woscc/full-record/WOS:000577033300002
+
+Folding Assessment of Incorporation of Noncanonical Amino Acids Facilitates Expansion of Functional-Group Diversity for Enzyme Engineering	https://www.webofscience.com/wos/woscc/full-record/WOS:000565695000001
+
+A Biocatalytic Cascade Reaction to Access a Valuable Long-Chain omega-Hydroxy Fatty Acid	https://www.webofscience.com/wos/woscc/full-record/WOS:000543170900001
+
+Influence of Substrate Binding Residues on the Substrate Scope and Regioselectivity of a Plant O-Methyltransferase against Flavonoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000535798500001
+
+Protein Engineering for Enhanced Acyltransferase Activity, Substrate Scope, and Selectivity of the Mycobacterium smegmatis Acyltransferase MsAcT	https://www.webofscience.com/wos/woscc/full-record/WOS:000551549800012
+

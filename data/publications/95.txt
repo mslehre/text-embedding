@@ -1,0 +1,72 @@
+Michael Lammers,2064064;
+
+Structural and Biophysical Insights into SPINK1 Bound to Human Cationic Trypsin	https://www.webofscience.com/wos/woscc/full-record/WOS:000780494900001
+
+Post-translational lysine ac(et)ylation in health, ageing and disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000733957300001
+
+Diversification by CofC and Control by CofD Govern Biosynthesis and Evolution of Coenzyme F-420 and Its Derivative 3PG-F420	https://www.webofscience.com/wos/woscc/full-record/WOS:000766836200010
+
+Lysine acetylation regulates the interaction between proteins and membranes	https://www.webofscience.com/wos/woscc/full-record/WOS:000716589100007
+
+Genetic Code Expansion Tools to Study Lysine Acylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000712089400001
+
+Post-translational Lysine Ac(et)ylation in Bacteria: A Biochemical, Structural, and Synthetic Biological Perspective	https://www.webofscience.com/wos/woscc/full-record/WOS:000715224700001
+
+Promiscuous Dehalogenase Activity of the Epoxide Hydrolase CorEH from Corynebacterium sp. C12	https://www.webofscience.com/wos/woscc/full-record/WOS:000656056200020
+
+The development of genome editing tools as powerful techniques with versatile applications in biotechnology and medicine: CRISPR/Cas9, ZnF and TALE nucleases, RNA interference, and Cre/loxP	https://www.webofscience.com/wos/woscc/full-record/WOS:000591942100001
+
+The development of genome editing tools as powerful techniques with versatile applications in biotechnology and medicine: CRISPR/Cas9, ZnF- and TALE-nucleases, RNA interference and Cre/loxP (vol 7, 3, 2021)	https://www.webofscience.com/wos/woscc/full-record/WOS:000617520600001
+
+Discovery and Design of Family VIII Carboxylesterases as Highly Efficient Acyltransferases	https://www.webofscience.com/wos/woscc/full-record/WOS:000591343700001
+
+Autophagy lipidation machinery regulates axonal microtubule dynamics but is dispensable for survival of mammalian neurons	https://www.webofscience.com/wos/woscc/full-record/WOS:000530024600005
+
+An evolutionary approach to systematic discovery of novel deubiquitinases, applied to Legionella	https://www.webofscience.com/wos/woscc/full-record/WOS:000576834200010
+
+Sequence-Based Prediction of Promiscuous Acyltransferase Activity in Hydrolases	https://www.webofscience.com/wos/woscc/full-record/WOS:000531327000001
+
+Mechanism and chain specificity of RNF216/TRIAD3, the ubiquitin ligase mutated in Gordon Holmes syndrome	https://www.webofscience.com/wos/woscc/full-record/WOS:000493064600005
+
+Acetylation regulates ribonucleotide reductase activity and cancer cell growth	https://www.webofscience.com/wos/woscc/full-record/WOS:000476471300022
+
+Analysis of human acetylation stoichiometry defines mechanistic constraints on protein regulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000460402300014
+
+Comment on 'YcgC represents a new protein deacetylase family in prokaryotes'	https://www.webofscience.com/wos/woscc/full-record/WOS:000458157000001
+
+DNA Repair Network Analysis Reveals Shieldin as a Key Regulator of NHEJ and PARP Inhibitor Sensitivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000432471100018
+
+Expression and Purification of Site-Specifically Lysine-Acetylated and Natively-Folded Proteins for Biophysical Investigations	https://www.webofscience.com/wos/woscc/full-record/WOS:000434794700012
+
+Development of Substrate-Derived Sirtuin Inhibitors with Potential Anticancer Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000413329800006
+
+A KRAS GTPase K104Q Mutant Retains Downstream Signaling by Offsetting Defects in Regulation	https://www.webofscience.com/wos/woscc/full-record/WOS:000397585100006
+
+Insights into K-Ras 4B regulation by post-translational lysine acetylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000384647400011
+
+Insights into Lysine Deacetylation of Natively Folded Substrate Proteins by Sirtuins	https://www.webofscience.com/wos/woscc/full-record/WOS:000380366700022
+
+Novel Coronin7 interactions with Cdc42 and N-WASP regulate actin organization and Golgi morphology	https://www.webofscience.com/wos/woscc/full-record/WOS:000375443400001
+
+Structural and Mechanistic Insights into the Regulation of the Fundamental Rho Regulator RhoGDI by Lysine Acetylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000372551800004
+
+RhoGDI alpha Acetylation at K127 and K141 Affects Binding toward Nonprenylated RhoA	https://www.webofscience.com/wos/woscc/full-record/WOS:000368562100008
+
+Small GTP-binding protein Ran is regulated by posttranslational lysine acetylation	https://www.webofscience.com/wos/woscc/full-record/WOS:000357878700010
+
+Structural and Biochemical Basis for the Inhibitory Effect of Liprin-alpha 3 on Mouse Diaphanous 1 (mDia1) Function	https://www.webofscience.com/wos/woscc/full-record/WOS:000355754600005
+
+TRIM protein domain topology and implications for antiviral immunity	https://www.webofscience.com/wos/woscc/full-record/WOS:000519606300244
+
+Acetylation regulates Cyclophilin A catalysis, immunosuppression and HIV isomerization	https://www.webofscience.com/wos/woscc/full-record/WOS:000276823200011
+
+Active site remodeling switches HIV specificity of antiretroviral TRIMCyp	https://www.webofscience.com/wos/woscc/full-record/WOS:000270514200009
+
+Specificity of Interactions between mDia Isoforms and Rho Proteins	https://www.webofscience.com/wos/woscc/full-record/WOS:000261469100079
+
+The regulation of mDia1 by autoinhibition and its release by Rho center dot GTP	https://www.webofscience.com/wos/woscc/full-record/WOS:000234336400019
+
+Structural and mechanistic insights into the interaction between Rho and mammalian Dia	https://www.webofscience.com/wos/woscc/full-record/WOS:000229337800058
+
+The Bacillus megaterium comE locus encodes a functional DNA uptake protein	https://www.webofscience.com/wos/woscc/full-record/WOS:000225663700005
+

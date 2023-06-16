@@ -1,0 +1,102 @@
+Holger Fehske,7491794;
+
+Singular flat bands in the modified Haldane-Dice model	https://www.webofscience.com/wos/pprn/full-record/PPRN:53122072
+
+Tunable valley filtering in dynamically strained a-T-3 lattices	https://www.webofscience.com/wos/woscc/full-record/WOS:000909786700005
+
+Tunable valley filtering in dynamically strained alpha-T<sub>3</sub> lattices	https://www.webofscience.com/wos/pprn/full-record/PPRN:25043828
+
+Orthogonal layers of parallelism in large-scale eigenvalue computations	https://www.webofscience.com/wos/pprn/full-record/PPRN:13461930
+
+Photoinduced metallization of excitonic insulators	https://www.webofscience.com/wos/woscc/full-record/WOS:000823853600003
+
+Photoinduced metallization of excitonic insulators	https://www.webofscience.com/wos/pprn/full-record/PPRN:12186823
+
+Charge kinetics across a negatively biased semiconducting plasma-solid interface	https://www.webofscience.com/wos/woscc/full-record/WOS:000789290800002
+
+Invariant embedding approach to secondary electron emission from metals	https://www.webofscience.com/wos/woscc/full-record/WOS:000778812600013
+
+Scrutinizing the Debye plasma model: Rydberg excitons unravel the properties of low-density plasmas in semiconductors	https://www.webofscience.com/wos/woscc/full-record/WOS:000761168000004
+
+Nonequilibrium dynamics in pumped Mott insulators	https://www.webofscience.com/wos/woscc/full-record/WOS:000754676700003
+
+Charge kinetics across a negatively biased semiconducting plasma-solid interface	https://www.webofscience.com/wos/pprn/full-record/PPRN:12135295
+
+Dielectric response of electron-hole systems. Nondegenerate case and quantum corrections	https://www.webofscience.com/wos/woscc/full-record/WOS:000693767100001
+
+Scrutinizing the Debye plasma model: Rydberg excitons unravel the properties of low-density plasmas in semiconductors	https://www.webofscience.com/wos/pprn/full-record/PPRN:12096824
+
+Immutable quantized transport in Floquet chains	https://www.webofscience.com/wos/woscc/full-record/WOS:000717430000008
+
+Immutable quantized transport in Floquet chains	https://www.webofscience.com/wos/pprn/full-record/PPRN:11950998
+
+Charge measurement of SiO2 nanoparticles in an rf plasma by ir absorption	https://www.webofscience.com/wos/woscc/full-record/WOS:000710272900008
+
+Nonequilibrium dynamics in pumped Mott insulators	https://www.webofscience.com/wos/pprn/full-record/PPRN:12064781
+
+Dielectric response of electron-hole systems. Nondegenerate case and quantum corrections	https://www.webofscience.com/wos/pprn/full-record/PPRN:11920237
+
+Infrared spectroscopy of surface charges in plasma-facing dielectrics	https://www.webofscience.com/wos/woscc/full-record/WOS:000695714500011
+
+Spin-charge conversion and current vortex in spin-orbit coupled systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000657468600001
+
+Quantum many-body effects on Rydberg excitons in cuprous oxide	https://www.webofscience.com/wos/woscc/full-record/WOS:000641242500001
+
+Infrared spectroscopy of surface charges in plasma-facing dielectrics	https://www.webofscience.com/wos/pprn/full-record/PPRN:12237470
+
+Quantum many-body effects on Rydberg excitons in cuprous oxide	https://www.webofscience.com/wos/pprn/full-record/PPRN:11899942
+
+Valley filtering in strain-induced alpha-T-3 quantum dots	https://www.webofscience.com/wos/woscc/full-record/WOS:000647168500001
+
+Quantum criticality in dimerised anisotropic spin-1 chains	https://www.webofscience.com/wos/pprn/full-record/PPRN:11804798
+
+Quantum criticality in dimerised anisotropic spin-1 chains	https://www.webofscience.com/wos/woscc/full-record/WOS:000639761700002
+
+Generation of Current Vortex by Spin Current in Rashba Systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000652828100016
+
+Valley filtering in strain-induced alpha-T<sub>3</sub> quantum dots	https://www.webofscience.com/wos/pprn/full-record/PPRN:11626437
+
+Finite-temperature photoemission in the extended Falicov-Kiinball model: a case study for Ta2NiSe5	https://www.webofscience.com/wos/woscc/full-record/WOS:000670792500025
+
+Finite-temperature photoemission in the extended Falicov-Kimball model: a case study for Ta<sub>2</sub>NiSe<sub>5</sub>	https://www.webofscience.com/wos/pprn/full-record/PPRN:11958831
+
+Controlling the direction of topological transport in a non-Hermitian time-reversal symmetric Floquet ladder	https://www.webofscience.com/wos/woscc/full-record/WOS:000607184300001
+
+Generation of current vortex by spin current in Rashba systems	https://www.webofscience.com/wos/pprn/full-record/PPRN:11620258
+
+Electron microphysics at plasma-solid interfaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000593948800003
+
+Electron microphysics at plasma-solid interfaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:14927847
+
+A domain-specific language and matrix-free stencil code for investigating electronic properties of Dirac and topological materials	https://www.webofscience.com/wos/pprn/full-record/PPRN:13144254
+
+A domain-specific language and matrix-free stencil code for investigating electronic properties of Dirac and topological materials	https://www.webofscience.com/wos/woscc/full-record/WOS:000572650900001
+
+Electronic properties of alpha - (3) quantum dots in magnetic fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000569783900001
+
+Electronic Properties of $\alpha-\mathcal{T}_3$ Quantum Dots in Magnetic Fields	https://www.webofscience.com/wos/pprn/full-record/PPRN:13151961
+
+Real and imaginary edge states in stacked Floquet honeycomb lattices	https://www.webofscience.com/wos/pprn/full-record/PPRN:50632043
+
+Kinetic modeling of the electric double layer at a dielectric plasma-solid interface	https://www.webofscience.com/wos/woscc/full-record/WOS:000560694200010
+
+Real and imaginary edge states in stacked Floquet honeycomb lattices	https://www.webofscience.com/wos/woscc/full-record/WOS:000560355700004
+
+A Recursive Algebraic Coloring Technique for Hardware-efficient Symmetric Sparse Matrix-vector Multiplication	https://www.webofscience.com/wos/woscc/full-record/WOS:000583728900006
+
+Cutting off the non-Hermitian boundary from an anomalous Floquet topological insulator	https://www.webofscience.com/wos/woscc/full-record/WOS:000577015500006
+
+Cutting off the non-Hermitian boundary from an anomalous Floquet topological insulator	https://www.webofscience.com/wos/pprn/full-record/PPRN:50643780
+
+Photoinduced $\eta$-pairing at finite temperatures	https://www.webofscience.com/wos/pprn/full-record/PPRN:22650952
+
+Photoinduced eta-pairing at finite temperatures	https://www.webofscience.com/wos/woscc/full-record/WOS:000604138500001
+
+Topological origin of quantized transport in non-Hermitian Floquet chains	https://www.webofscience.com/wos/woscc/full-record/WOS:000603589800003
+
+Topological origin of quantized transport in non-Hermitian Floquet chains	https://www.webofscience.com/wos/pprn/full-record/PPRN:48268539
+
+Block-Lanczos Density-Matrix Renormalization-Group Approach to Spin Transport in Heisenberg Chains Coupled to Leads	https://www.webofscience.com/wos/woscc/full-record/WOS:000523328300017
+
+Kinetic modeling of the electric double layer at a dielectric plasma-solid interface	https://www.webofscience.com/wos/pprn/full-record/PPRN:13132675
+
