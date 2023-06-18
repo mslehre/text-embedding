@@ -1,13 +1,7 @@
+import os
+import argparse
+
 from chunker import try_to_write_dir
-
-#convert pdf files in a dictionary into txt files
-directory = 'data/examination_regulations_2'
-
-for filename in os.listdir(directory):
-    f = os.path.join(directory, filename)
-    # checking if it is a file and if it ends with '.pdf'
-    if os.path.isfile(f) and f[-4:] == '.pdf':
-        pdfToTxt(f)
 
 def main():
     parser = argparse.ArgumentParser(description = 'Translates all PDF files' +
@@ -21,11 +15,11 @@ def main():
     args = parser.parse_args()
 
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
-    for filename in os.listdir(directory):
+    for filename in os.listdir(dir_path):
         f = os.path.join(dir_path, filename)
         # checking if it is a file and if it ends with '.pdf'
         if os.path.isfile(f) and f[-4:] == '.pdf':
-            pdfToTxt(f)
+            print(filename)
 
     exit(0)
 
