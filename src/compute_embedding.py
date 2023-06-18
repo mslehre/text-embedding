@@ -2,7 +2,7 @@ import os
 
 import tiktoken
 import openai
-from openai.embeddings_utils import get_embedding
+from openai.embeddings_utils import get_embedding, cosine_similarity
 
 from tokenizer import get_token_from_string, get_string_from_tokens
 
@@ -105,8 +105,8 @@ def main():
              "er ist ich."]
     for t in text:
         print(t,"\nFirst five values of embedding for text:")
-        embeddings = embedding_from_string(t)
-        print(embeddings[0:5])
+        embedding = embedding_from_string(t)
+        print(embedding[0:5])
     exit(0)
 
 if __name__ == "__main__":
