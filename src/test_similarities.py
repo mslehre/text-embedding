@@ -4,11 +4,26 @@ from compute_embedding import compute_similarity_of_texts
 
 def read_file(filename_in: str, filename_out: str) -> None:
     """This function reads in a file line by line and splits each line into
-    a list. Each line shoul be split at the space character.
+    a list. Each line should be split at the space character and should contain
+    five strings. The first four strings are filenames of text files which have
+    to be stored in /data/testTextPairs_WebForm. The cosine similarity of the
+    texts in the first two files and the cosine similarity of the texts in the
+    last two files is computed. The similarities of the files are written to
+    filename_out. It is tested which cosine similarity is higher or rather the
+    content of which of the files is more similar. The result is written to
+    filename_out. The fifth string in each line is a boolean value which
+    indicates whether the first two files are more similar or the last two
+    files. A '1' indicates that the texts of the last two files are more
+    similar than the texts of the first two files.  
 
     Args:
+        filename_in (str): This parameter is the name of the file which is read.
+            The has to be in the directory /data.
+        filename_out (str): This parameter is the name of the file to which the
+            results are written. The file is created in the directory /data.
 
     Returns:
+        None: This function does not return a value.
     """
     # The files that the cosine similarity is computed for has to be in 
     # the directory testTextPais_WebForm.
@@ -18,6 +33,8 @@ def read_file(filename_in: str, filename_out: str) -> None:
     file = open('../data/' + filename_in, "r")
     lines = file.readlines()
     file.close()
+    # Count the number of wrong predictions in filename_in.
+    wrong_predictions = 0
 
     for i in range(0, len(lines)):
         # Split each line at the space character to get the filenames.
@@ -45,6 +62,8 @@ def read_file(filename_in: str, filename_out: str) -> None:
             # Compute the cosine similarity of the texts.
             similarity_1 = compute_similarity_of_texts(texts[0], texts[1])
             similarity_2 = compute_similarity_of_texts(texts[2], texts[3])
+            # Test if the cosine similarity or rather the embeddings of the 
+            # texts could be computed.
             if (similarity_1 == -2.0 or similarity_2 == -2.0):
                 with open('../data/' + filename_out, "a") as file_out:
                     file_out.write("The embedding for one of the files in " \
@@ -53,12 +72,44 @@ def read_file(filename_in: str, filename_out: str) -> None:
                         "valid or was not set as environment variable.\n")
                     file_out.close()
             else:
-                if ((similarity_1 < similarity_2) == int(lines[i][4].strip())):
-                    with open('../data/' + filename_out, "a") as file_out:
-                        file_out.write("The computed similarity for line", i + \
-                            1, "in", filename_in, "is", similarity_1, "and " \
-                            "the label is", lines[i][4].strip(), ".\n")
-                        file_out.close()
+                # Write the cosine similarities to the output file.
+                with open('../data/' + filename_out, "a") as file_out:
+                    file_out.write("The cosine similarity of the texts in " 
+                        + lines[i][0] + " and " + lines[i][1] + " is " 
+                        + str(similarity_1) + " and for the texts in " 
+                        + lines[i][2] + " and " + lines[i][3] + " it is "
+                        + str(similarity_2) + ". ")
+                    file_out.close()
+
+                order_of_texts = [0,2]
+                # Test which text pair has the higher cosine similarity this 
+                # means the texts are more similar and write the result to the
+                # output file.
+                if (similarity_1 < similarity_2):
+                    order_of_texts = [2, 0]  
+                with open('../data/' + filename_out, "a") as file_out:
+                    file_out.write("The texts in " + lines[i][order_of_texts[0]]
+                        + " and " + lines[i][order_of_texts[0] + 1] + " are " \
+                        "more similar than the texts in " 
+                        + lines[i][order_of_texts[1]] + " and " 
+                        + lines[i][order_of_texts[1] + 1] + ". ")
+
+                prediction_right = ""
+                # Test if the prediction in filename_in is right and write the
+                # result to the output file.
+                if not ((similarity_1 < similarity_2) 
+                         == int(lines[i][4].strip())):
+                    prediction_right = "not "
+                    wrong_predictions += 1
+                with open('../data/' + filename_out, "a") as file_out:
+                    file_out.write("The result is " + prediction_right 
+                        + "as expected.\n")
+                    file_out.close()
+    # Compute the percentage of wrong predictions.
+    error = wrong_predictions/len(lines) * 100
+    with open('../data/' + filename_out, "a") as file_out:
+        file_out.write("The error rate is " + str(error) + "%.\n")
+        file_out.close()
 
 def main():
     read_file('testfiles.txt', 'output.txt')
