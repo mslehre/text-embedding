@@ -1,7 +1,7 @@
 from os import path
 
 from flask import Flask
-from openai.embeddings_utils import cosine_similarity
+from openai.embeddings_utils import cosine_similarity, get_embedding
 
 from compute_embedding import embedding_from_string, compute_similarity_of_texts
 
@@ -38,7 +38,7 @@ def home():
                 alert("The file name can not be empty!");
             } else {
                 document.getElementById("result").value=f1+f2;
-                window.open(actualUrl+"/text1/text2");
+                window.open(actualUrl+"/text1/"+f1+"/text2/"+f2);
             }
         }
     </script>
@@ -49,7 +49,7 @@ def home():
 
     </form>'''
 
-@app.route('/text1/text2') 
+@app.route('/text1/<text1>/text2/<text2>')
 def compute_similarity_of_files(text1: str, text2: str) -> str:
     """This function computes the cosine similarity of two embeddings of the 
     specified two texts. If a text is too large because its string is encoded 
@@ -75,7 +75,6 @@ def compute_similarity_of_files(text1: str, text2: str) -> str:
             computed, there is a message that the openai api key was probably 
             not set or is not valid.     
     """
-    print ("text1: ", text1, "text2: ", text2)
     # Compute cosine similarity of texts.
     similarity = compute_similarity_of_texts(text1, text2)
         
@@ -88,7 +87,6 @@ def compute_similarity_of_files(text1: str, text2: str) -> str:
                 "similarity of the texts cannot be computed."
     else: 
         # Display cosine similarity since embeddings could be computed.
-        similarity = cosine_similarity(embeddings[0], embeddings[1])
         text += "The cosine similarity of the two texts you inserted is " + \
             str(similarity) + "."
     return '''
@@ -103,4 +101,3 @@ def compute_similarity_of_files(text1: str, text2: str) -> str:
 
 if __name__ == '__main__':
     app.run()
-
