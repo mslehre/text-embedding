@@ -1,5 +1,6 @@
 import os
 import argparse
+import subprocess
 
 from chunker import try_to_write_dir
 
@@ -19,7 +20,8 @@ def main():
         f = os.path.join(dir_path, filename)
         # checking if it is a file and if it ends with '.pdf'
         if os.path.isfile(f) and f[-4:] == '.pdf':
-            print(filename)
+            process = subprocess.Popen(["pdftotext", "-layout", f])
+
 
     exit(0)
 
