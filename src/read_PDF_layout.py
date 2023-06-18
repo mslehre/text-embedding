@@ -22,7 +22,6 @@ def main():
         if os.path.isfile(f) and f[-4:] == '.pdf':
             process = subprocess.Popen(["pdftotext", "-layout", f])
 
-
     exit(0)
 
 if __name__ == "__main__":
