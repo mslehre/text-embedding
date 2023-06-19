@@ -196,6 +196,10 @@ def main():
         print("ERROR: You need to specify argument '--num_authors' with "
               + "argument '--publications'!!!")
         exit(1)
+    # check if file to update exists
+    if args.update and not os.path.isfile(args.hdf5_file):
+        print("ERROR: File", args.hdf5_file, "does not exist!!! Please specify"
+            + " a HDF5 file to update!")
 
     # compute embeddings for publications in directory
     if args.publications:
