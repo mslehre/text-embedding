@@ -13,16 +13,8 @@ mP/Kl 90 mündliche Prüfung oder Klausur
 SV       Seminarvortrag
 TB       Teilnahmebestätigung
 *        Prüfungsleistung ist unbenotete
-Art V: Vorlesung (Umfang in SWS)
-Art Ü: Übung (Umfang in SWS)
-Art S: Seminar (Umfang in SWS)
-Prüfungsart mP/Kl: mündliche Prüfung oder Klausur
-Prüfungsart mP+Üs/Kl+Üs: mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
-Prüfungsart mP: mündliche Prüfung
-Prüfungsart Kl: Klausur
-Prüfungsart Üs: Übungsschein
-Prüfungsart TB: Teilnahmebestätigung
-Prüfungsart SV: Seminarvortrag
-* Prüfungsleistung ist unbenotet
-LP: ECTS-Leistungspunkte
-D: Dauer des zugehörigen Moduls in Semestern
+D        Dauer des zugehörigen Moduls in Semestern
+V        Vorlesung (Umfang in SWS)
+Ü        Übung (Umfang in SWS)
+S        Seminar (Umfang in SWS)
+

@@ -4,24 +4,17 @@ Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februa
 Legende:
 AB      Arbeitsbelastung in Stunden
 D       Dauer in Semestern
-K       Klausur
+K       Klausur (90 min, falls nicht anders angegeben), benotet
 LP      Leistungspunkte
-mP      mündliche Prüfung
+mP      mündliche Prüfung (30 min), benotet
 PA      Prüfungsart
 PL      Anzahl der Prüfungsleistungen
 PR      Praktikum
-R       Referat
+R       Referat, unbenotet
 RPT     Regelprüfungstermin (Semester)
-RV      Referat mit Verschriftlichung
-ÜS      Übungsschein
+RV      Referat mit Verschriftlichung, unbenotet
+ÜS      Übungsschein, unbenotet
 /       oder
-V: Vorlesung (Umfang in SWS)
-Ü: Übung (Umfang in SWS)
-S: Seminar (Umfang in SWS)
-mP: mündliche Prüfung (30 min), benotet
-K: Klausur (90 min, falls nicht anders angegeben), benotet
-ÜS: Übungsschein, unbenotet
-R: Referat, unbenotet
-RV: Referat mit Verschriftlichung, unbenotet
-LP: Leistungspunkte
-D: Dauer in Semestern
+V       Vorlesung (Umfang in SWS)
+Ü       Übung (Umfang in SWS)
+S       Seminar (Umfang in SWS)
