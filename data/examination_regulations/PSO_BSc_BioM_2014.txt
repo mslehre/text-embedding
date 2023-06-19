@@ -1,47 +1,5 @@
- Prüfungs - und Studienordnung  
-des Bachelorstudiengangs Biomathematik 
-an der Ernst -Moritz -Arndt -Universität Greifswald  
- 
-Vom 7. April 2014  
- 
-Fundstelle:  Hochschulöffentlich bekannt gemacht am 31.03.2015  
- Änderungen:  
-- § 6 Abs. 1, Musterstudienplan und Modulkatalog  geändert durch Artikel 1 der 1. Ä n-
-derungssatzung vom 18.  November 2015 (hochschulöffentlich bekannt gemacht am 
-24. November 2015)  
-- § 7 Abs. 8 aufgehoben durch Artikel 8 der Satzung zur Angleichung wesentlicher 
-Regelungen an die Neufassung der Rahmenprüfungsordnung 2021 vom 21.  Juli 
-2021 (hochschulöffentlich bekannt gemacht am 21.07.2021)  
- Hinweise:  
-- Die 1. Änderungssatzung vom 18.11.2015 ist am 25.11.2015 in Kraft getreten. Sie 
-gilt für alle Studierenden, die nach der Prüfungs - und Studienordnung vom 7.  April 
-2014 studieren, und das Modul „Allgemeine Biologie“ noch nicht absolviert haben.  
-- Die Satzung zur Angleichung wesentlicher Regelungen an die Neufassung der 
-Rahmenprüfungsordnung 2021 vom 21.  Juli 2021 tritt am 01.  Oktober 2021 in Kraft.  
- Aufgrund von § 2 Absatz 1 in Verbindung mit  § 38 Absatz 1 und § 39 Absatz 1 des Geset-
-zes über die Hochschulen des Landes Mecklenburg -Vorpommern (Landeshochschulg e-
-setz – LHG M -V) in der Fassung der Bekanntmachung vom 25. Januar 2011 (GVOBl. M -V 
-S. 18) , zuletzt geändert durch Artikel 6 des Gesetzes v om 22. Juni 2012 (GVOBl. M -V 
-S. 208, 211), erlässt die Ernst -Moritz -Arndt -Universität Greifswald für den Bachelor -
-studiengang Biomathematik (B. Sc. Biomathematik) die folgende Prüfungs - und Studi en-
-ordnung als Satzung:  
- Inhaltsverzeichnis:  
- § 1 Geltungsber eich 
-§ 2 Ziele und Aufbau des Studiums  
-§ 3 Veranstaltungsarten  
-§ 4 Studienaufnahme 
-§ 5 Teilprüfungen  
-§ 6 Module  
-§ 7 Modulprüfungen  
-§ 8 Bachelorarbeit  
-§ 9 Zusatzfächer  
-§ 10 Ersatz biologischer Module  
-§ 11 Bildung der Gesamtnote und Zeugnis  
-§ 12 Akademischer  Grad  
-§ 13 Inkrafttreten, Übergangsregelungen 
- Anlage A: Musterstudienplan  
-Anlage B:  Modulkatalog 
-Anlage C: Diploma Supplement (deutsche und englische Version) § 1* 
+
+2 § 1* 
 Geltungsbereich  
  
 Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das  Prüfungsverfa h-
@@ -77,7 +35,8 @@ des Moduls orientieren.
  
                                     
 * Alle Personen-  und Funktionsbezeichnungen in dieser Ordnung beziehen sich in gleicher Weise auf alle Personen bzw. Funktionstr ä-
-ger, unabhängig von ihrem Geschlecht.   (7) Nach den Semestern 2, 3 und 4 besteht die Möglichkeit, ein Auslandssemester (Mobil i-
+ger, unabhängig von ihrem Geschlecht.  
+3 (7) Nach den Semestern 2, 3 und 4 besteht die Möglichkeit, ein Auslandssemester (Mobil i-
 tätsfenster) zu absolvieren.  
  
  
@@ -90,7 +49,8 @@ kursionen angeboten werden.
 1. Vorlesungen dienen der systematischen Darstellung eines Stoffgebietes, d er 
 Vortragscharakter überwiegt.  
 2. Seminare sind Lehrveranstaltungen, in denen die Studierenden durch eig ene mündliche 
-und schriftliche Beiträge sowie Diskussionen in das selbständige wissenschaftliche Arbeiten eingeführt werden.  . Übungen führen die Studierenden in die praktische wissenschaftliche Tätigkeit bei 
+und schriftliche Beiträge sowie Diskussionen in das selbständige wissenschaftliche Arbeiten eingeführt werden.  
+3. Übungen führen die Studierenden in die praktische wissenschaftliche Tätigkeit bei 
 intensiver Betreuung durch Lehrpersonen ein. S ie vermitteln grundlegende Methoden 
 des wissenschaftlichen Arbeitens in den relevanten Fachgebieten und fördern die Anwendung und Vertiefung der Lehrinhalte.  
 4. Praktika sind durch die eigenständige Anwendung wissenschaftlicher Methoden auf 
@@ -114,7 +74,8 @@ Teil des Moduls eine Teilprüfung ablegen.
 § 6 
 Module  
  
-(1) Im Bachel orstudiengang werden folgende Module studiert:    
+(1) Im Bachel orstudiengang werden folgende Module studiert:  
+4  
 Legende:  
 AB Arbeitsbelastung in Stunden 
 LP Leistungspunkte 
@@ -153,16 +114,19 @@ Gewöhnliche Differential -
 gleichungen/Proseminar  1 210 7 1 Üs*  
 1 mP 
 1 SV* 3. 
-3. . 
+3. 
+4. 
 Stochastik  1 270 9 1 Üs*  
 1 mP  3. 
 3. 
 Genomanalyse/ Bioi n-
 formatisches Praktikum  2 300 10 1 Kl 90, 1 Üs*  
-1 Üs*  3. . 
+1 Üs*  3. 
+4. 
 Mathematische Biologie  1 180 6 1 mP/Kl  4. 
 Statistik  1 270 9 1 Üs*  
-1 mP  4. . 
+1 mP  4. 
+4. 
 Biometrie  1 180 6 1 Üs*  
 1 mP/Kl 90  5. 
 5. 
@@ -176,7 +140,8 @@ Numerik I  1 270 9 1 Üs*
 1 mP/Kl 90  6. 
 6. 
 Optimierung  1 270 9 1 mP/Kl 90  6. 
-Allgemeine Biologie  2 180 6 Kl 90/Kl 60  1. und 2.  Biochemische Grundl a-
+Allgemeine Biologie  2 180 6 Kl 90/Kl 60  1. und 2. 
+5 Biochemische Grundl a-
 gen 2 330 11 2 mP/Kl 90  
 1 Üs*  3. und 4. 
 4. 
@@ -213,7 +178,8 @@ zuräumen.
 onsziele erreicht hat. Schriftliche Prüfungsleistungen werden von einem Prüfer bewer tet; 
 wenn es sich um den let zten Wiederholungsversuch handelt, ist ein zweiter Prüfer heran-
 zuziehen (§ 20 Absatz 2 RPO). Mündliche Prüfungen werden vor einem Prüfer in Gegen-wart eines sachkundigen Beisitzers abgelegt . 
-   § 8 
+  
+6 § 8 
 Bachelorarbeit  
  
 (1) Hat der Studierende mindestens 120 LP erworben, kann er die Ausgabe eines Th emas 
@@ -250,7 +216,8 @@ gen. Die Noten dieser Modulprüfungen gehen mit dem auf den jeweiligen relativen
 an Leistungspunkten bezogenen Gewicht ein, die Note für die Bachelorarbeit wird dabei 
 mit dem zweifachen relativen Anteil gewichtet.
  
-  (2) Die Noten der Module  
+ 
+7 (2) Die Noten der Module  
  Algorithmen und Programmierung /Computeralgebra -Systeme  
  Diskrete Strukturen in der Biologie  
  Gewöhnliche Differentialgleichungen/Proseminar  
@@ -290,7 +257,8 @@ zum 30.09.2018 außer  Kraft.
   Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats vom 7.  März 
 2014,  der mit B eschluss des Senats vom 18.  April 2012 gemäß §§ 81 Absatz  7 LHG und 
 20 Absatz 1 Satz 2 der Grundordnung die Befugnis zur Beschlussfassung verliehen wur-de, und der Genehmigung der Rektorin vom 7. April 2014.  
-  Greifswald, den 7. April 2014 
+ 
+8 Greifswald, den 7. April 2014 
  
  
  
