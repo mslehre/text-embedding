@@ -2,7 +2,7 @@ import os
 
 from compute_embedding import compute_similarity_of_texts
 
-def read_file(filename_in: str, filename_out: str) -> None:
+def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
     """This function reads in a file line by line and splits each line into
     a list. Each line should be split at the space character and should contain
     five strings. The first four strings are filenames of text files which have
@@ -105,14 +105,13 @@ def read_file(filename_in: str, filename_out: str) -> None:
                     file_out.write("The result is " + prediction_right 
                         + "as expected.\n")
                     file_out.close()
-    # Compute the percentage of wrong predictions.
-    error = wrong_predictions/len(lines) * 100
     with open('../data/' + filename_out, "a") as file_out:
-        file_out.write("The error rate is " + str(error) + "%.\n")
+        file_out.write(str(wrong_predictions) + " of " + str(len(lines)) 
+            + " predictions are wrong.\n") 
         file_out.close()
 
 def main():
-    read_file('testfiles.txt', 'output.txt')
+    check_cosine_similarity('testfiles.txt', 'output.txt')
     exit(0)
 
 if __name__ == "__main__":
