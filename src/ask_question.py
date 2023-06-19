@@ -21,10 +21,10 @@ def get_answer(
     """
 
     #first read in the chunks given by the index_list from the given directory
-    docs = {}
+    docs = []
     for i in index_list:
-        this_chunk = open(text_dir + "/" + str(i) + ".txt", "r",encoding="UTF-8")
-        docs["chunk" + str(i)] = this_chunk.read()
+        this_chunk = open(text_dir + "/" + str(i) + ".txt", "r", encoding="UTF-8")
+        docs.append(this_chunk.read())
         this_chunk.close()
         
     #assemble the prompt
@@ -45,5 +45,5 @@ def test():
     testq = "What are common research interests of these scientists?"
     testdir = "data/example_pubs"
     testlist = [2,4]
-    testanswer = get_answer(query=testq,text_dir=testdir,index_list=testlist)
+    testanswer = get_answer(query=testq, text_dir=testdir, index_list=testlist)
     print(testanswer)
