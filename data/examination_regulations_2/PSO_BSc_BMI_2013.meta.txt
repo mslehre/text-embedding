@@ -1,2 +1,24 @@
 PSO_B.Sc._Mathematik_mit_Informatik_2013_Lesefassung_2021.pdf
 Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+
+Legende:
+AB      Arbeitsbelastung in Stunden
+LP      Leistungspunkte
+PL      Prüfungsleistungen (Umfang nach § 8, Absatz 2)
+RPT     Regelprüfungstermin
+mP      mündliche Prüfung
+Kl      Klausur
+mP/Kl   mündliche Prüfung oder Klausur
+Üs      Übungsschein
+Sems    Seminarschein
+*       Prüfungsleistung ist unbenotet
+Art V: Vorlesung (Umfang in SWS)
+Art Ü: Übung (Umfang in SWS)
+Art S: Seminar (Umfang in SWS)
+Prüfungsart mP/Kl: mündliche Prüfung oder Klausur
+Prüfungsart mP+Üs/Kl+Üs: mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
+Prüfungsart mP: mündliche Prüfung
+Prüfungsart Kl: Klausur
+Prüfungsart Sems: Seminarschein
+LP: ECTS-Leistungspunkte
+D: Dauer des zugehörigen Moduls in Semestern

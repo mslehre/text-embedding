@@ -1,2 +1,27 @@
 PSO_BSc_Mathematik_2016.pdf
 Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+
+Legende:
+AB      Arbeitsbelastung in Stunden
+D       Dauer in Semestern
+K       Klausur
+LP      Leistungspunkte
+mP      mündliche Prüfung
+PA      Prüfungsart
+PL      Anzahl der Prüfungsleistungen
+PR      Praktikum
+R       Referat
+RPT     Regelprüfungstermin (Semester)
+RV      Referat mit Verschriftlichung
+ÜS      Übungsschein
+/       oder
+V: Vorlesung (Umfang in SWS)
+Ü: Übung (Umfang in SWS)
+S: Seminar (Umfang in SWS)
+mP: mündliche Prüfung (30 min), benotet
+K: Klausur (90 min, falls nicht anders angegeben), benotet
+ÜS: Übungsschein, unbenotet
+R: Referat, unbenotet
+RV: Referat mit Verschriftlichung, unbenotet
+LP: Leistungspunkte
+D: Dauer in Semestern
