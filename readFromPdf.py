@@ -108,8 +108,6 @@ def filterPageText(pageText):
     if fakultaetHeader:
         pageText = re.sub(fakultaetHeader[0], '', pageText)
 
-
-
     return pageText
 
 def removeEmptyLine(string):
