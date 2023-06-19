@@ -15,7 +15,7 @@ def get_prompt(
     """
 
     #template changed after https://medium.com/@jeremyarancio/create-your-document-chatbot-with-gpt-3-and-langchain-8eeb66b98656
-    template=query_string="""You are a Bot assistant answering any questions about documents.
+    template="""You are a Bot assistant answering any questions about documents.
 You are given a question and a set of documents.
 If the user's question requires you to provide specific information from the documents, give your answer based only on the examples provided below. DON'T generate an answer that is NOT written in the provided examples.
 If you don't find the answer to the user's question with the examples provided to you below, answer that you didn't find the answer in the documentation and propose him to rephrase his query with more details.
