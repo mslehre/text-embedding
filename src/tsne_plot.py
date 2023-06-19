@@ -125,9 +125,11 @@ def tsne_plot(X: np.ndarray,
         hue = affiliation,
         hue_order = list(palette.keys()),
         palette = palette,
+        style=affiliation,
+        style_order = list(palette.keys()),
         legend = "full",
         alpha = 1,
-        s=75
+        s=200
     )
     
     plt.title("t-SNE Plot of Publication Lists", fontsize = 20)  # plot title
