@@ -1,41 +1,31 @@
-# importing required modules
-import PyPDF2
 import os
+import argparse
+import subprocess
 
-def pdfToTxt(pdfname):
-    #creating a txt output file
-    txtname = pdfname[:-4]
-    txtname += ".txt"
+from src.chunker import try_to_write_dir
 
-    # creating a pdf file object
-    pdfFileObj = open(pdfname, 'rb')
-    
-    # creating a pdf reader object
-    pdfReader = PyPDF2.PdfReader(pdfFileObj)
+def main():
+    """Main to translate all PDF files in a specific folder into txt files that
+    retain the layout, e.g. table
+    """
+    parser = argparse.ArgumentParser(description = 'Translates all PDF files' +
+                        ' from a given folder into text files while' +
+                        ' retaining the layout including table structures.' +
+                        ' The new text files will be located in the same' +
+                        '  directory as the PDF files.')
+    parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
+                        default = './',
+                        help = 'Directory in which all PDF files are saved.')
+    args = parser.parse_args()
 
-    # get total pages of pdf
-    totalPages = len(pdfReader.pages)
-    fileText = ''
+    dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
+    for filename in os.listdir(dir_path):
+        f = os.path.join(dir_path, filename)
+        # checking if it is a file and if it ends with '.pdf'
+        if os.path.isfile(f) and f[-4:] == '.pdf':
+            process = subprocess.Popen(["pdftotext", "-layout", f])
 
-    for i in range(totalPages):
-        # creating a page object
-        pageObj = pdfReader.pages[i]
+    exit(0)
 
-        # extracting text from page
-        fileText += pageObj.extract_text()
-
-    # closing the pdf file object
-    pdfFileObj.close()
-
-    #write the text from pdf to txt file
-    output = open(txtname, 'w')
-    output.write(fileText)
-
-#convert pdf files in a dictionary into txt files
-directory = 'data/examination_regulations'
-
-for filename in os.listdir(directory):
-    f = os.path.join(directory, filename)
-    # checking if it is a file and if it ends with '.pdf'
-    if os.path.isfile(f) and f[-4:] == '.pdf':
-        pdfToTxt(f)
+if __name__ == "__main__":
+    main()
