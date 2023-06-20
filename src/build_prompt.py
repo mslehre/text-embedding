@@ -33,7 +33,7 @@ DOCUMENTS:
     for i in chunks:
         context += i + "\n"
     
-    query_string=template.format(query=query, context=context)
+    query_string = template.format(query=query, context=context)
 
     #tokenize to make sure the prompt does not exceed the token limit, cut it off if it does
     prompt_tokens = get_token_from_string(query_string, encoding_name="p50k_base", max_token=3500, force_cut=True, verbose=True)
