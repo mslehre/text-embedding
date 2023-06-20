@@ -119,11 +119,33 @@ def removeEmptyLine(string):
 
     return newPageText
 
-#convert pdf files in a dictionary into txt files
-directory = 'data/examination_regulations'
+def filterJunkText(txtFile):
+    #helping file to get content of txt file
+    documentContent = open(txtFile, 'r')
 
+    #check in every line of the text if there is junk text there
+    for line in documentContent:
+        print(line)
+
+    #write filterd text into new directory
+
+    
+
+#convert pdf files in a dictionary into txt files
+directory = 'data/examination_regulations_2'
+
+#filtering out the junk text from the converted txt files
 for filename in os.listdir(directory):
     f = os.path.join(directory, filename)
-    # checking if it is a file and if it ends with '.pdf'
-    if os.path.isfile(f) and f[-4:] == '.pdf':
-        pdfToTxt(f)
+    #check if is a txt file
+    if os.path.isfile(f) and f[-4:] == '.txt':
+        filterJunkText(f)
+
+
+#for filename in os.listdir(directory):
+#    f = os.path.join(directory, filename)
+#    # checking if it is a file and if it ends with '.pdf'
+#    if os.path.isfile(f) and f[-4:] == '.pdf':
+        #in this line you change the pdt file to the txt file
+        #how do you convert them?
+#        pdfToTxt(f)
