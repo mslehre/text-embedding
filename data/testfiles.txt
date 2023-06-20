@@ -1,8 +1,8 @@
-2.txt   74.txt  2.txt   12.txt  0
-78.txt  76.txt  84.txt  78.txt  1
-76.txt  40.txt  40.txt  96.txt  0
-66.txt  36.txt  102.txt 66.txt  1
-84.txt  85.txt  88.txt  85.txt  1
-52.txt  50.txt  47.txt  50.txt  0
-33.txt  23.txt  23.txt  44.txt  0
-39.txt  0.txt   protein_biochemistry_Hoehne 0.txt   1
+2.txt	74.txt	2.txt	12.txt	0
+78.txt	76.txt	84.txt	78.txt	1
+76.txt	40.txt	40.txt	96.txt	0
+66.txt	36.txt	102.txt	66.txt	1
+84.txt	85.txt	88.txt	85.txt	1
+52.txt	50.txt	47.txt	50.txt	0
+33.txt	23.txt	23.txt	44.txt	0
+39.txt	0.txt	protein_biochemistry_Hoehne	0.txt	1
