@@ -42,7 +42,7 @@ def pdfToTxt(pdfname):
 #An ganze txt-Datei anwenden
 def filterPageText(pageText):
     #header
-    x = re.search("^\s?[nN]ichtamtliche Lesefassung.*", pageText)
+    x = re.search("\s?[nN]ichtamtliche Lesefassung.*", pageText)
 
     if x:
         #remove the found text
@@ -64,19 +64,20 @@ def filterPageText(pageText):
         #pageText = re.sub(y[0], '', pageText)
 
     #search title at the first page
-    z = re.search("[0-9]\sPrüfungs\s-\sund\sStudienordnung*", pageText)
+    z = re.search("\s[0-9]?\sPrüfungs\s-\sund\sStudienordnung*", pageText)
 
     if z:
-        pageText = re.sub(z[0], '', pageText)
-        pageText = removeEmptyLine(pageText)
+        #pageText = re.sub(z[0], '', pageText)
+        #pageText = removeEmptyLine(pageText)
+        pageText = ''
     
 
     
 
     #des Bachelorstudiengangs Biomathematik v
     #an der Ernst -Moritz -Arndt -Universität Greifswald (v)
-    # Promotionsordnung 
-    #der Mathematisch -Naturwissenschaftlichen Fakultät  
+    # Promotionsordnung v
+    #der Mathematisch -Naturwissenschaftlichen Fakultät v
     #der Ernst -Moritz -Arndt -Universität Greifswald  v
     #des Masterstudiengangs Mathematik v
     # Vom 12. Februar 2018  (v) 
@@ -84,29 +85,55 @@ def filterPageText(pageText):
 
 
     #Titel Bachelor line
-    bachelorLine = re.search("des\sBachelor*studiengangs*", pageText)
+    bachelorLine = re.search("\sdes\sBachelor*studiengangs*", pageText)
     if bachelorLine:
-        pageText = re.sub(bachelorLine[0], '??', pageText)
+        #pageText = re.sub(bachelorLine[0], '', pageText)
+        pageText = ''
 
-    masterLine = re.search("des\sMasterstudiengangs*", pageText)
+    masterLine = re.search("\sdes\sMasterstudiengangs*", pageText)
     if masterLine:
-        pageText = re.sub(masterLine[0], '', pageText)
+        #pageText = re.sub(masterLine[0], '', pageText)
+        pageText = ''
 
-    uniNameHeader = re.search("an\sder\sErnst*Greifswald", pageText)
+    uniNameHeader = re.search("\sder\sErnst-Moritz-Arndt-Universität\sGreifswald", pageText)
     if uniNameHeader:
-        pageText = re.sub(uniNameHeader[0], '', pageText)
+        #pageText = re.sub(uniNameHeader[0], '', pageText)
+        pageText = ''
 
-    dateHeader = re.search("^Vom.20[0-9][0-9]", pageText)
+    dateHeader = re.search("\s[vV]om", pageText)
     if dateHeader:
-        pageText = re.sub(dateHeader[0], '', pageText)
+        pageText = ''   #re.sub(dateHeader[0], '', pageText)
 
-    promotionHeader = re.search("Promotionsordnung", pageText)
+    promotionHeader = re.search("\sPromotionsordnung", pageText)
     if promotionHeader:
-        pageText = re.sub(promotionHeader[0], '', pageText)
+        #pageText = re.sub(promotionHeader[0], '', pageText)
+        pageText = ''
 
-    fakultaetHeader = re.search("der\sMathematisch.Fakultät", pageText)
+    fakultaetHeader = re.search("\sder\sMathematisch*\s*", pageText)
     if fakultaetHeader:
-        pageText = re.sub(fakultaetHeader[0], '', pageText)
+        #pageText = re.sub(fakultaetHeader[0], '', pageText)
+        pageText = ''
+
+    psoHeader = re.search("\sPrüfungs- und Studienordnung", pageText)
+    if psoHeader:
+        #pageText = re.sub(psoHeader[0], '', pageText)
+        pageText = ''
+
+    psoHeader1 = re.search("Gemeinsame\sPrüfungsordnung\sfür", pageText)
+    if psoHeader1:
+        pageText = ''
+
+    greifswaldHeader = re.search("\sder\sUniversität\sGreifswald", pageText)
+    if greifswaldHeader:
+        pageText = ''
+
+    rpoHeader = re.search("\sRahmenprüfungsordnung", pageText)
+    if rpoHeader:
+        pageText = ''
+
+    abPromoHeader = re.search("\sAusführungsbestimmungen\szum\sPromotionsverfahren", pageText)
+    if abPromoHeader:
+        pageText = ''
 
     return pageText
 
@@ -121,15 +148,22 @@ def removeEmptyLine(string):
 
 def filterJunkText(txtFile):
     #helping file to get content of txt file
+    filteredDocument = ''
     documentContent = open(txtFile, 'r')
 
     #check in every line of the text if there is junk text there
     for line in documentContent:
-        print(line)
+        line = filterPageText(line)
+        #print(line)
+        filteredDocument += line
 
     #write filterd text into new directory
-
-    
+    nameIndex = txtFile.rfind('/')
+    txtFile = txtFile[nameIndex+1:]
+    #print(txtFile)
+    f = open('filteredDocuments/' + txtFile, 'w')
+    f.write(filteredDocument)
+    f.close()
 
 #convert pdf files in a dictionary into txt files
 directory = 'data/examination_regulations_2'
