@@ -1,0 +1,20 @@
+PSO_BSc_Biomathematik_2014_Lesefassung_AEndS-2021.pdf
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+
+Legende:
+AB       Arbeitsbelastung in Stunden
+LP       Leistungspunkte
+PL       Prüfungsleistungen (Umfang nach § 7, Absatz 2)
+RPT      Regelprüfungstermin
+mP       mündliche Prüfung
+Kl 90    Klausur, Dauer 90 Minuten
+mP/Kl 90 mündliche Prüfung oder Klausur
+Üs       Übungsschein
+SV       Seminarvortrag
+TB       Teilnahmebestätigung
+*        Prüfungsleistung ist unbenotete
+D        Dauer des zugehörigen Moduls in Semestern
+V        Vorlesung (Umfang in SWS)
+Ü        Übung (Umfang in SWS)
+S        Seminar (Umfang in SWS)
+

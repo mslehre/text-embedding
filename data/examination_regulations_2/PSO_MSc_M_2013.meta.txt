@@ -1,0 +1,29 @@
+PSO_M.Sc._Mathematik_2013_Lesefassung_2021.pdf
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+
+Legende:
+AB            Arbeitsbelastung in Stunden
+LP            Leistungspunkte
+PL            Prüfungsleistungen (Umfang nach § 8, Absatz 2)
+Kl            Klausur
+mP            mündliche Prüfung
+mP/Kl         mündliche Prüfung oder Klausur
+mP+Üs/Kl+Üs   mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
+Üs            Übungsschein
+Sems          Seminarschein
+V                    Vorlesung (Umfang in SWS)
+Ü                    Übung (Umfang in SWS)
+S                    Seminar (Umfang in SWS)
+Ps                   Praktikumsschein
+*             Prüfungsleistung ist unbenotet
+MZ            Modulzyklus: A = jährlich im Wintersemester
+                           B = jährlich im Sommersemester
+                           C = zweijährlich im Wintersemester gerade Jahre
+                           D = zweijährlich im Sommersemester ungerade Jahre
+                           E = zweijährlich im Wintersemester ungerade Jahre
+                           F = zweijährlich im Sommersemester gerade Jahre
+                           G = jedes Semester
+D                    Dauer des zugehörigen Moduls in Semestern
+Teilgebiet 1         Analysis/Optimierung
+Teilgebiet 2         Diskrete Mathematik/Algorithmik/Algebra
+Teilgebiet 3         Stochastik/Statistik
