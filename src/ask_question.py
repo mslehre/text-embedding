@@ -32,10 +32,10 @@ def get_answer(
 
     #call openai to obtain a response
     response = openai.Completion.create(
-        model="text-davinci-003",
-        prompt=this_prompt,
-        temperature=0,
-        max_tokens=500,
+        model = "text-davinci-003",
+        prompt = this_prompt,
+        temperature = 0,
+        max_tokens = 500,
     )
 
     result = response['choices'][0]['text']
