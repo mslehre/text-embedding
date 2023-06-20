@@ -9,6 +9,7 @@ from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import seaborn  as sns
+from adjustText import adjust_text
 
 
 def try_to_read_file(file_path: str) -> str:
@@ -18,7 +19,7 @@ def try_to_read_file(file_path: str) -> str:
                                          + "exist or is not readable!")
     return file_path
 
-def get_affiliation_and_palette(authors: pd.DataFrame,
+def get_author_info_and_palette(authors: pd.DataFrame,
                                 author_ids: np.ndarray,
                                 affiliation_map: pd.DataFrame, 
                                 affiliation: str) -> tuple[list[str], dict]:
@@ -36,9 +37,13 @@ def get_affiliation_and_palette(authors: pd.DataFrame,
         affiliation (str): Which affiliation to use - "faculty" or "institute".
 
     Returns:
+        lnames (list[str]): List of authors last names.
         affil (list[str]): List of affiliations for author IDs.
         pal (dict): Color palette for the affiliations.
     """
+
+    # get last names of authors
+    lnames = authors.loc[authors['id'].isin(author_ids), 'lastname'].to_list()
 
     # get affiliations of authors by ID
     affil = authors.loc[authors['id'].isin(author_ids), affiliation].to_list()
@@ -57,8 +62,8 @@ def get_affiliation_and_palette(authors: pd.DataFrame,
     num_col = len(affil_uniq)  # number of colors
     colors = sns.color_palette("hls", num_col).as_hex()  # get colors
     pal = dict(zip(affil_uniq, colors))  # color palette for plot
-    
-    return affil, pal
+
+    return lnames, affil, pal
 
 
 def compute_tsne(X: np.ndarray, 
@@ -93,8 +98,10 @@ def compute_tsne(X: np.ndarray,
 
     return tsne_result
 
-def tsne_plot(X: np.ndarray, 
+def tsne_plot(X: np.ndarray,
+              lnames: list[str],
               affiliation: list[str],
+              legend_title: str,
               palette: dict):
     """
     Plot t-SNE 
@@ -104,6 +111,7 @@ def tsne_plot(X: np.ndarray,
         affiliation (list[str]): Containing the institutes or 
             faculties corresponding to the data points. This decides how to 
             color the points in the plot. 
+        legend_title (str): Title for the plot legend
         palette (dict): Color palette for the plot. Specifies which color to 
             use for which institute or faculty.
 
@@ -112,15 +120,32 @@ def tsne_plot(X: np.ndarray,
     """
 
     plt.figure(figsize=(15,15))
-    plot = sns.scatterplot(
+    ax = sns.scatterplot(
         x = X[:, 0], y = X[:, 1],
         hue = affiliation,
+        hue_order = list(palette.keys()),
         palette = palette,
+        style = affiliation,
+        style_order = list(palette.keys()),
         legend = "full",
-        alpha = 0.75
+        alpha = 1,
+        s=200
     )
     
-    return plot.get_figure()
+    plt.title("t-SNE Plot of Publication Lists", fontsize = 20)  # plot title
+    # adjust legend position and style
+    ax.legend(fancybox=True, ncol = 2, fontsize = 14, title = legend_title)
+    sns.move_legend(ax, "upper right", bbox_to_anchor=(-0.05, 1))
+    
+    # annotate dots with last names
+    text = []
+    # box style for labels
+    bbox_props = dict(boxstyle="round", fc="gray", alpha=0.1)
+    for i, label in enumerate(lnames):        
+        text += [ax.text(X[i, 0], X[i, 1], label, bbox=bbox_props)]
+    adjust_text(text)  # prevent labels from overlapping
+
+    return ax.get_figure()
 
 
 def main():
@@ -172,13 +197,16 @@ def main():
                                pca_components = pca_components, 
                                tsne_perplexity = k)
     
-    # get affiliations and color palette
-    affiliation, palette = get_affiliation_and_palette(authors, author_ids, 
-                                                       affiliation_map, 
-                                                       args.affiliation)
+    # get last names, affiliations, and color palette
+    lnames, affiliation, palette = get_author_info_and_palette(
+        authors, 
+        author_ids, 
+        affiliation_map, 
+        args.affiliation)
     # plot
-    fig = tsne_plot(tsne_result, affiliation, palette)  
-    fig.savefig(outfile, format = args.format)
+    fig = tsne_plot(tsne_result, lnames, affiliation, args.affiliation, 
+                    palette)  
+    fig.savefig(outfile, format = args.format, bbox_inches='tight')
     plt.show()
        
     exit(0)
