@@ -80,7 +80,7 @@ def compute_similarity_of_files(text1: str, text2: str) -> str:
         
     text = ""
     # Test if embeddings and cosine similarity could be computed.
-    if (similarity == -2.0):
+    if (similarity is None):
         text += "For at least one of your inserted texts no embedding " + \
                 "could be computed. Probably, the openai api key is not " + \
                 "valid or set as an environment variable. Therefore, the " + \
