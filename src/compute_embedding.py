@@ -67,17 +67,12 @@ def compute_similarity_of_texts(text1: str, text2: str) -> float:
     cosine similarity is returned.
 
     Args:
-        text1 (str): This parameter is the string of some sort of text for 
-            which the cosine similarity with the string of another text is 
-            computed.
-        text2 (str): This parameter is the second string of some sort of text 
-            for which the cosine similarity with the string of another text is 
-            computed.
+        text1 (str): the first string to compare
+        text2 (str): the second string to compare
 
     Returns: 
         float: The cosine similarity of the texts is returned as float. If the 
-            embedding for one of the texts cannot be computed, -2.0 is returned 
-            since the cosine similarity has to be in range [-1,1].    
+            embedding for one of the texts cannot be computed, None is returned.    
     """
     texts = [text1, text2]
     embeddings = []
@@ -88,7 +83,7 @@ def compute_similarity_of_texts(text1: str, text2: str) -> float:
     # Test if embeddings could be computed.
     for i in range(0,2):
         if (embeddings[i] == [None]):
-            return -2.0
+            return None
     return cosine_similarity(embeddings[0], embeddings[1])
    
 def main():
