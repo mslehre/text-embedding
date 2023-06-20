@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import os
+import sys
 from pathlib import Path
 import argparse
 import numpy as np
@@ -18,14 +19,14 @@ def try_to_read_dir(dir_path: str) -> str:
 def try_to_read_file(file_path: str) -> str:
     # a quick function for argparse to check if given arg is a readable file
     if not os.path.isfile(file_path) or not os.access(file_path, os.R_OK):
-        raise argparse.ArgumentTypeError("The file " + file_path + "does not "
+        raise argparse.ArgumentTypeError("The file " + file_path + " does not "
                                          + "exist or is not readable!")
     return file_path
 
 def try_to_write_file_if_exists(file_path: str) -> str:
     # a quick function for argparse to check if given arg is a writable file
     if os.path.isfile(file_path) and not os.access(file_path, os.W_OK):
-        raise argparse.ArgumentTypeError("The file " + file_path + "is not "
+        raise argparse.ArgumentTypeError("The file " + file_path + " is not "
                                          + "writable!")
     return file_path
 
@@ -141,9 +142,13 @@ def write_hdf5(hdf5_file: str,
             ids = f['author_ids']
             for id, embedding in zip(author_ids, embeddings):
                 # check if id is in dataset
-                index = np.where(ids[:] == id)[0]
-                if len(index) != 0:  # overwrite old embedding with the new one
-                    index = index[0]
+                matching_entries = np.asarray(ids[:] == id).nonzero()[0]
+                if len(matching_entries) > 1:
+                    print ("WARNING: There are multiple entries for author ", 
+                           id, file=sys.stderr)
+                if len(matching_entries) != 0:  
+                    # overwrite old embedding with the new one
+                    index = matching_entries[0]
                     pub_embeddings[index, :] = embedding
                 else:  # add new author
                     n = len(ids)
@@ -186,20 +191,19 @@ def main():
     args = parser.parse_args()
 
     # either compute new embedding or update existing embedding
-    if (not args.publications and not args.update) or \
-        (args.publications and args.update):
+    if args.publications == args.update:
         print("ERROR: You need to specifiy exactly one of the 2 arguments: " 
-              + "'--publications' or '--update'!!!")
+              + "'--publications' or '--update'.")
         exit(1)
     # arguments --publications and --num_authors need to be specified together
     if args.publications and not args.num_authors:
         print("ERROR: You need to specify argument '--num_authors' with "
-              + "argument '--publications'!!!")
+              + "argument '--publications'.")
         exit(1)
     # check if file to update exists
     if args.update and not os.path.isfile(args.hdf5_file):
-        print("ERROR: File", args.hdf5_file, "does not exist!!! Please specify"
-            + " a HDF5 file to update!")
+        print("ERROR: File", args.hdf5_file, "does not exist! Please specify"
+            + " a HDF5 file to update.")
 
     # compute embeddings for publications in directory
     if args.publications:
@@ -220,7 +224,7 @@ def main():
                 id = int(file_stem)
             except ValueError:
                 print("ERROR: The name of file \"", file_path, "\" does not " 
-                + "have format <author_id>.txt!!!")
+                + "have format <author_id>.txt!")
                 exit(1)
             # read if yes
             author_pubs = read_pub(file_path)
