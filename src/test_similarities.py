@@ -48,8 +48,8 @@ def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
             for j in range(0, len(files) - 1):
                 files[j] = files[j].strip()
                 # Test if a file with the filename specified in the input file 
-                # exists. If not write it to the output file and continue with the 
-                # next line in the input file.
+                # exists. If not write it to the output file and continue with 
+                # the next line in the input file.
                 if not (os.path.exists(path_texts + files[j])):
                     file_out.write("File " + files[j] + " does not exist " \
                         "in text-embedding/data/testTextPairs_WebForm/. " \
@@ -84,8 +84,8 @@ def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
 
                     order_of_texts = [0,2]
                     # Test which text pair has the higher cosine similarity this 
-                    # means the texts are more similar and write the result to the
-                    # output file.
+                    # means the texts are more similar and write the result to 
+                    # the output file.
                     if (similarity_1 < similarity_2):
                         order_of_texts = [2, 0]  
                     file_out.write("The texts in " + files[order_of_texts[0]]
@@ -95,8 +95,8 @@ def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
                         + files[order_of_texts[1] + 1] + ". ")
 
                     prediction_right = ""
-                    # Test if the prediction in filename_in is right and write the
-                    # result to the output file.
+                    # Test if the prediction in filename_in is right and write 
+                    # the result to the output file.
                     if not ((similarity_1 < similarity_2) 
                              == int(files[4].strip())):
                         prediction_right = "not "
