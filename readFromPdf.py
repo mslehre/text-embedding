@@ -48,42 +48,13 @@ def filterPageText(pageText):
         #remove the found text
         pageText = re.sub(x[0], '', pageText)
 
-    #TODO
-    #filter the footer - common footer not found
-    #filter the page number - remove the number at the beginning - dangerous
-    #filter the table of contents?
-    #title and date at the firt page
-
-    #filter out the page numbers
-    #still at work
-    #y = re.search("^\s[0-9]", pageText)
-        
-    #if y:
-        #print('Possible page number found')
-        #print(y[0])
-        #pageText = re.sub(y[0], '', pageText)
-
     #search title at the first page
     z = re.search("\s[0-9]?\sPrüfungs\s-\sund\sStudienordnung*", pageText)
 
     if z:
         #pageText = re.sub(z[0], '', pageText)
-        #pageText = removeEmptyLine(pageText)
         pageText = ''
     
-
-    
-
-    #des Bachelorstudiengangs Biomathematik v
-    #an der Ernst -Moritz -Arndt -Universität Greifswald (v)
-    # Promotionsordnung v
-    #der Mathematisch -Naturwissenschaftlichen Fakultät v
-    #der Ernst -Moritz -Arndt -Universität Greifswald  v
-    #des Masterstudiengangs Mathematik v
-    # Vom 12. Februar 2018  (v) 
-    #
-
-
     #Titel Bachelor line
     bachelorLine = re.search("\sdes\sBachelor*studiengangs*", pageText)
     if bachelorLine:
@@ -137,15 +108,6 @@ def filterPageText(pageText):
 
     return pageText
 
-def removeEmptyLine(string):
-    newPageText = ''
-
-    my_string = string.split('\n', 1)[0]
-    if my_string.strip():
-        newPageText += my_string
-
-    return newPageText
-
 def filterJunkText(txtFile):
     #helping file to get content of txt file
     filteredDocument = ''
@@ -174,12 +136,3 @@ for filename in os.listdir(directory):
     #check if is a txt file
     if os.path.isfile(f) and f[-4:] == '.txt':
         filterJunkText(f)
-
-
-#for filename in os.listdir(directory):
-#    f = os.path.join(directory, filename)
-#    # checking if it is a file and if it ends with '.pdf'
-#    if os.path.isfile(f) and f[-4:] == '.pdf':
-        #in this line you change the pdt file to the txt file
-        #how do you convert them?
-#        pdfToTxt(f)
