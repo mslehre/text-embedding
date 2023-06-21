@@ -9,8 +9,8 @@ The first four columns contain the name of the files for which the cosine
 similarity should be computed. The cosine similarity is computed of the first 
 two and the third and fourth file. The files for which the cosine similarity 
 should be computed have to be stored in `/data/testTextPairs`. The fifth 
-column contains a boolean value which is $$1$$ if you expect the third and 
-fourth file to be more similar than the first two files and $$0$$ otherwise.
+column contains a boolean value which is $1$ if you expect the third and 
+fourth file to be more similar than the first two files and $0$ otherwise.
 The result is written to an output file in `/data`.
 
 Example for an input file:
