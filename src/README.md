@@ -4,7 +4,7 @@ It may be necessary to download flask to run the application.
 To provide this type "pip install flask" in a prompt line.
 ## Test cosine similarity for files
 For testing whether two files are predicted to be more similar than other files
-you have to create a tab-separated text file in `/data` with 5 columns.
+you have to create a tab-separated text file in `/data` with $5$ columns.
 The first four columns contain the name of the files for which the cosine 
 similarity should be computed. The cosine similarity is computed of the first 
 two and the third and fourth file. The files for which the cosine similarity 
