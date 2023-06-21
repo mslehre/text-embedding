@@ -1,0 +1,1207 @@
+personID;lastname;forename;institution;faculty
+2;Philipp;Klaus-Peter;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+3;Below;Elke;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+4;Runge;Uwe;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+15;Preez;Helma;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+25;Schminke;Ulf;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+28;Freyberger;Harald;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+29;Gaida;Bernadette;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+31;Zinke;Andreas;Zentrum für Radiologie / Klinik und Poliklinik für Nuklearmedizin;Universitätsmedizin Greifswald
+52;Kirsch;Michael;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+59;Schulz;Katrin;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+61;Lehmann;Kathrin;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+62;Mentel;Renate;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+70;Hummel;Astrid;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+98;Gründling;Matthias;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+108;Kuhn;Sven-Olaf;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+132;Abel;Peter;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+201;Walther;Reinhard;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+208;Grunwald;Uwe;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+210;Bartels;Kirsten;Zentrum für Innere Medizin / Klinik für Innere Medizin B / Kardiologie;Universitätsmedizin Greifswald
+214;Bohl;Beathe;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+217;Müller;Hans-Peter;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+220;Lüdemann;Jan;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+223;Kramer;Axel;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+233;Warzok;Rolf;Institut für Pathologie;Universitätsmedizin Greifswald
+239;Vogelgesang;Silke;Institut für Pathologie;Universitätsmedizin Greifswald
+250;Ohlinger;Ralf;Brustzentrum;Universitätsmedizin Greifswald
+258;John;Ulrich;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+272;Mundt;Torsten;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+274;Bernhardt;Olaf;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+276;Steffen;Heike;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+285;Welk;Alexander;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+287;Otto;Sylke;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+299;Stenger;Rolf;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+304;Müller;Cornelia;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+305;Schmidt;Sebastian;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+316;Wanka;Heike;Institut für Physiologie;Universitätsmedizin Greifswald
+319;Klöting;Ingrid;Zentrale Service- und Forschungseinrichtung für Versuchstiere;Universitätsmedizin Greifswald
+326;Klinke;Thomas;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+336;Linnemann;Knud;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+342;Zimmermann;Uwe;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+344;Pechoel;Maik;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+362;Podmelle;Fred;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+366;Schroeder;Henry;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+368;Müller;Carsten;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinderchirurgie;Universitätsmedizin Greifswald
+379;Paul;Hartmut;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+384;Hinz;Peter;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+389;Müller;Jan-Uwe;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+390;Hoene;Andreas;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+395;Kleist-Welch Guerra;Waltraud;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+405;Patrzyk;Maciej;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+410;Meisel;Peter;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+413;Siegmund;Werner;Institut für Pharmakologie / Abt. Klinische Pharmakologie;Universitätsmedizin Greifswald
+419;Westphal;Kristin;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+424;Schröder;Winnie;Institut für Humangenetik;Universitätsmedizin Greifswald
+427;Wiesmann;Ulrich;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+428;Glitsch;Anne Susann;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+434;Ritter;Christoph;Institut für Pharmazie, AK Klinische Pharmazie (Leitung: Prof. Dr. Christoph Ritter);Mathematisch-Naturwissenschaftliche Fakultät
+439;Katsari;Elpiniki;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+449;Fanghänel;Jochen;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+450;Miehe;Bärbel;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+451;Giebel;Jürgen;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+461;Westphal;Susanne;Physiotherapie Neu;Universitätsmedizin Greifswald
+468;Bremert;Thomas;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+481;Koppe;Thomas;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+493;Felix;Stephan Burkhard;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+495;Söhnel;Andreas;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+500;Wegner;Mechthild;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+521;Weingärtner;Jens;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+545;Ekkernkamp;Axel;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+598;Kaduk;Wolfram;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+628;Thyrian;Jochen René;Institut für Community Medicine;Universitätsmedizin Greifswald
+629;Hannöver;Wolfgang;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+635;von Sarnowski;Bettina;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+646;Landsberger;Martin;Institut für Pathophysiologie;Universitätsmedizin Greifswald
+652;Belau;Antje Kristina;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+653;Schwahn;Christian;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+659;Selleng;Kathleen;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+663;Dressel;Alexander;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+673;Ratzmann;Anja;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+675;Saljé;Karen;Institut für Pharmakologie / Abt. Klinische Pharmakologie;Universitätsmedizin Greifswald
+713;Busemann;Alexandra;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+717;Dörr;Marcus;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+738;Lucas;Christian;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+740;Gonnermann;Ute;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+742;Angelow;Aniela;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+750;Beule;Achim G;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+752;Kaftan;Holger;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+765;Ewert;Ralf;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+784;Bien-Möller;Sandra;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+798;Sadewasser;Kornelia;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+799;Zeden;Jan-Philip;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+800;Usichenko;Taras;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+805;Hofer;Andre;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+806;Schmidt;Christian Andreas;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+822;Jedlitschky;Gabriele;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+828;Nauck;Matthias;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+840;Alte;Dietrich;ZV Dezernat Einkauf ;Universitätsmedizin Greifswald
+847;Vogelgesang;Antje;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+854;Arnold;Andreas;Klinik und Poliklinik für Hautkrankheiten;Universitätsmedizin Greifswald
+874;Friesecke;Sigrun;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+875;Empen;Klaus;Zentrum für Innere Medizin / Klinik für Innere Medizin B / Kardiologie;Universitätsmedizin Greifswald
+895;Grube;Markus;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+919;Weber;Eckhard;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+921;Mosyagin;Igor;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+929;Freyer-Adam;Jennis;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+930;Goeze;Christian;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+931;Buchhold;Britta;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+946;Knigge;Stephan;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+963;Meinke-Franze;Claudia;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+964;Appel;Katja;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+967;Siebert;Nikolai;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Pädiatrische Onkologie und Hämatologie;Universitätsmedizin Greifswald
+980;Adler;Frank;Zentrum für Radiologie / Klinik und Poliklinik für Strahlentherapie;Universitätsmedizin Greifswald
+987;Krüger;William;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+993;Lange;Anja;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+1005;Ulbricht;Sabina;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+1017;Beyersdorff;Anke;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+1018;Schmidt;Carsten Oliver;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1029;Venz;Simone;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+1035;Depke;Maren;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+1036;Grabarczyk;Piotr;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+1063;Baumeister;Sebastian Edgar;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1066;Weiß;Frank Ulrich;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+1068;Baldauf;Jörg;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+1084;Edinger;Hardy;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+1093;Biedenweg;Doreen;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1103;Steil;Leif;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1127;Wetzel;Bert;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+1128;Neumann;Thomas;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+1130;Kühn;Jens-Peter;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+1164;Scharf;Christian;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+1184;Hammer;Elke;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1189;Rosenberg;Christian;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+1195;Schiller;Thilo;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+1196;Langner;Inga;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+1198;Langner;Sönke;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+1206;Meyer zu Schwabedissen;Henriette;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+1208;Partecke;Lars Ivo;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+1213;Friedrich;Nele;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+1222;Keßler;Wolfram;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+1230;Steveling;Antje;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+1231;Könemann;Stephanie;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1236;Samietz;Stefanie;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+1246;Obst;Anne;Zentrum für Innere Medizin / Klinik für Innere Medizin B / Pulmologie;Universitätsmedizin Greifswald
+1251;Schmidt;Kerstin;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+1256;Schmidt-Howell;Sarah;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+1257;Weitmann;Kerstin;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+1264;Hübner;Nils-Olaf;Ärztliches Direktorat;Universitätsmedizin Greifswald
+1265;Dabers;Thomas;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+1271;Pickartz;Tilman;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+1274;Seidlitz;Günter;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+1282;Werner;Nicole;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1292;Domin;Martin;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+1313;Angermaier;Anselm;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+1317;Ottersbach;Caspar;Zentrale Verwaltung;Universitätsmedizin Greifswald
+1324;Gesell Salazar;Manuela;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1334;Großjohann;Rico;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+1339;Teumer;Alexander;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1345;Napp;Matthias;Zentrale Notaufnahme;Universitätsmedizin Greifswald
+1351;Homuth;Georg;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1354;Niggemeier;Maria;Klinik und Poliklinik für Hautkrankheiten;Universitätsmedizin Greifswald
+1355;Behrendt;Daniel;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+1357;Peters;Michele;Institut für Pathologie;Universitätsmedizin Greifswald
+1358;Weiß;Stefan;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1382;Endlich;Nicole;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+1384;van den Berg;Neeltje;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+1385;Menges;Pia;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+1389;Wegner;Danilo;Zentrum für Innere Medizin / Klinik für Innere Medizin B / Kardiologie;Universitätsmedizin Greifswald
+1391;Hildebrandt;Petra;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1392;Walschus;Uwe;Institut für Pathophysiologie;Universitätsmedizin Greifswald
+1405;Boesche;Michael;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1410;Bockholdt;Britta;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+1412;Ribback;Silvia;Institut für Pathologie;Universitätsmedizin Greifswald
+1418;Hegenscheid;Katrin;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+1423;Lutze;Stine;Klinik und Poliklinik für Hautkrankheiten;Universitätsmedizin Greifswald
+1432;Petersmann;Astrid;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+1436;Nordt;Claudia;Ärztliches Direktorat;Universitätsmedizin Greifswald
+1438;Aghdassi;Ali-Aser Alexander;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+1455;Tembulatow;Mowsar;Klinik und Poliklinik für Hautkrankheiten;Universitätsmedizin Greifswald
+1471;Rassudow;Peter;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+1480;Bahlmann;Hagen;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+1487;Beug;Daniel;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1501;Mäder;Ulrike;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1502;Ameling;Sabine;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1518;Domanska;Grazyna;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+1524;Selleng;Sixten;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+1535;Siewert-Markus;Ulrike;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+1538;Holtfreter;Silva;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+1562;Spassov;Alexander;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+1565;Diedrich;Stephan;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+1569;Stubbe;Beate;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1573;von Podewils;Felix;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+1575;Holtfreter;Birte;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+1576;Junker;Heike;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+1584;Schreiber;Andre;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+1590;Haring;Robin;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+1591;Evert;Matthias;Institut für Pathologie;Universitätsmedizin Greifswald
+1592;Schipf;Sabine;Institut für Community Medicine;Universitätsmedizin Greifswald
+1594;Franze;Marco;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+1611;Wesche;Jan;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+1616;Gläser;Sven;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1617;Ittermann;Till;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1626;Ostendorf;Kristin;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+1633;Block;Andrea;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+1638;Adler;Stefani;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+1643;Späth;Christian;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+1645;Päsler;Dennis;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+1648;Rönnau;Cindy;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+1651;Keiser;Markus Wolfdiedrich;Institut für Pharmakologie / Abt. Klinische Pharmakologie;Universitätsmedizin Greifswald
+1687;Henselin;Kristin;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1690;Lorbeer;Roberto;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1698;Radke;Dörte;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1702;Schäper;Christoph;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1703;Petsch;Thomas;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+1704;Busch;Mathias;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1722;Wegner;Annette;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+1728;Meyer-Moock;Sandra;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+1733;Bahlmann;Susanne;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+1743;Budde;Christoph;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+1749;Otto;Stephan;Zentrum für Radiologie / Klinik und Poliklinik für Strahlentherapie;Universitätsmedizin Greifswald
+1753;Friedel;Claudius;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+1761;Fredrich;Daniel;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+1764;Ruge;Sebastian;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+1777;Bettin;Hartmut;Institut für Ethik und Geschichte der Medizin;Universitätsmedizin Greifswald
+1778;Ostrzinski;Stefan;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+1782;Gloger;Oliver;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1783;Heine;Alexander;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+1808;Stracke;Sylvia;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+1816;Hartwig;Christoph;Zentrum für Radiologie / Klinik und Poliklinik für Strahlentherapie;Universitätsmedizin Greifswald
+1820;Calvisi;Diego Francesco;Institut für Pathologie;Universitätsmedizin Greifswald
+1826;Henke;Jörg Ulrich;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1841;Chilukoti;Ravi Kumar;Institut für Community Medicine;Universitätsmedizin Greifswald
+1842;Schröder;Sindy;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+1862;Schulze;Tobias;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+1868;Wolke;Carmen;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+1876;Brinkmann;Lars;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+1878;Hannemann;Anke;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+1879;Albers;Martin;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+1880;Delin;Martin;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Pädiatrische Onkologie und Hämatologie;Universitätsmedizin Greifswald
+1881;Matthes;Rutger;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+1884;Fiene;Michael;Zentrum für Innere Medizin / Klinik für Innere Medizin A / Diabetes & Ernährung;Universitätsmedizin Greifswald
+1890;Evert;Katja;Institut für Pathologie;Universitätsmedizin Greifswald
+1896;Huber;Stefanie;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+1916;Eckerle;Lars Gregor;Kaufmännisches Direktorat;Universitätsmedizin Greifswald
+1927;Grothe;Matthias;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+1956;Klann;Anja;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+1957;Hübner;Stephanie;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+1981;Scheer;Christian Samuel;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+2001;Lode;Holger;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+2006;Najm;Juliane;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+2017;Partyla;Tomasz Piotr;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+2026;Rüdebusch;Julia;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+2033;Ivanovska;Tetyana;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+2037;Keßler;Rebecca;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+2038;Jablonowski;Lukasz;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+2039;Burchardt;Martin;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+2047;Fuchs;Christian;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+2072;Köhler;Günter;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+2075;Steinbach;Antje;Institut für Physiologie;Universitätsmedizin Greifswald
+2085;Budde;Kathrin;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+2090;Gärtner;Simone;Zentrum für Innere Medizin / Klinik für Innere Medizin A / Diabetes & Ernährung;Universitätsmedizin Greifswald
+2092;Markus;Marcello Ricardo Paulista;Zentrum für Innere Medizin / Klinik für Innere Medizin B / Kardiologie;Universitätsmedizin Greifswald
+2098;Witte;Jeannine;Institut für Physiologie;Universitätsmedizin Greifswald
+2103;Plötz;Ulrike;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+2118;Benkhai;Hicham;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+2135;Brandt;Sven;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+2140;Bülow;Robin;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+2144;Stope;Matthias;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+2148;Aurich;Konstanze;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+2151;Baguhl;Romy;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+2170;Riad;Alexander;Zentrum für Innere Medizin / Klinik für Innere Medizin B / Kardiologie;Universitätsmedizin Greifswald
+2174;Beyer;Angelika;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+2184;Kordaß;Bernd;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+2193;Biffar;Reiner;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+2199;Meyer;Georg;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+2203;Hannich;Hans-Joachim;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+2206;Dölken;Gottfried;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+2212;Kessler;Christof;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+2215;Clemens;Stefan;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+2216;Tost;Frank;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+2217;Greinacher;Andreas;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+2223;Bröker;Barbara;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+2229;Hosten;Norbert;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+2232;Jünger;Michael;Klinik und Poliklinik für Hautkrankheiten;Universitätsmedizin Greifswald
+2234;Völker;Uwe;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+2235;Peters;Jörg;Institut für Physiologie;Universitätsmedizin Greifswald
+2236;Brinkmeier;Heinrich;Institut für Pathophysiologie;Universitätsmedizin Greifswald
+2237;Lerch;Markus;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+2238;Kohlmann;Thomas;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+2239;Hoffmann;Wolfgang;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+2243;Steinmetz;Ivo;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+2244;Splieth;Christian Heinz;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+2246;Endlich;Karl-Hans;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+2247;Lotze;Martin;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+2248;Dombrowski;Frank Stephan;Institut für Pathologie;Universitätsmedizin Greifswald
+2249;Lendeckel;Uwe;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+2250;von Bohlen und Halbach;Oliver;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+2251;Felbor;Ute;Institut für Humangenetik;Universitätsmedizin Greifswald
+2252;Otto;Markus;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+2276;John;Diana;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+2278;Kuß;Andreas Walter;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+2295;Kohler;Anne;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+2300;van den Brandt;Jens;Zentrale Service- und Forschungseinrichtung für Versuchstiere;Universitätsmedizin Greifswald
+2303;Sendler;Matthias;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+2309;Lehnert;Bernhard Konrad;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+2310;Brzoska;Tina;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+2313;Laqua;Rene;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+2314;Krüger;Paul-Christian;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+2317;Petri;Eckhard;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+2319;Kreimann;Martin;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+2320;Zygmunt;Marek Tadeusz;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+2321;Völzke;Henry;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+2324;Kock;Holger;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+2494;Wilke;Florian;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+2505;Schäfer;Christian;ZV Dezernat Finanzen;Universitätsmedizin Greifswald
+2506;Wegner;Christian;ZV Dezernat Finanzen;Universitätsmedizin Greifswald
+2558;Alkilzy;Mohammad;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+2764;Hingst;Heike;Pflegevorstand;Universitätsmedizin Greifswald
+2855;Denker;Kathrin;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+2869;Strobel;Ulrike;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+2910;Hanke;Monika;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+2990;Kenk;Heidrun;Institut für Pathophysiologie;Universitätsmedizin Greifswald
+2996;Meißner-Kellotat;Ramona;Institut für Ethik und Geschichte der Medizin;Universitätsmedizin Greifswald
+3056;Engel;Georg;Kaufmännisches Direktorat;Universitätsmedizin Greifswald
+3102;Schäfer;Silke;Physiotherapie Neu;Universitätsmedizin Greifswald
+3136;Raschke;Ricarda;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+3220;Alpen;Ulf;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+3238;Hadlich;Stefan;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+3293;Böhm;Susanne;Kaufmännisches Direktorat;Universitätsmedizin Greifswald
+3297;Westphal;Antje;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+3299;Ehrhardt;Jens;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+3312;Wiede;Claudia;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+3338;Neubauer;Susanne;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+3339;Peters;Sebastian;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+3352;Werner;André;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+3364;Deutsch;Arlette;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+3400;Darm;Katrin;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+3445;Rantzsch;Andrea;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+3539;Amlang;Alexandra;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+3569;Matthes;Marc;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+3577;Werner;Julia;Institut für Pathologie;Universitätsmedizin Greifswald
+3586;Piegsa;Jens;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+3587;Topfstedt;Eylin;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+3623;Wittfeld;Katharina Constanze;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+3633;van den Brandt;Cindy;Ärztliches Direktorat;Universitätsmedizin Greifswald
+10169;Fleßa;Steffen;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Gesundheitsmanagement;Rechts- und Staatswissenschaftliche Fakultät
+17971;Wenzel;Kristin;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+17977;Jensen;Lars Riff;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+17995;Bollmann;Stefan;ZV Dezernat Finanzen;Universitätsmedizin Greifswald
+17996;Lamp;Sophia;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+18426;Weißmann;Robert;Institut für Humangenetik;Universitätsmedizin Greifswald
+18430;Jensen;Corinna;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+18435;Staar;Doreen;Institut für Physiologie;Universitätsmedizin Greifswald
+19197;Winter;Benjamin;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+19199;van der Linde;Julia;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+19201;Kolata;Julia Beatrice;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+19203;Rathmann;Eiko;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+19571;Pasewald;Sandra;Abt. Fakultätscontrolling/DM-Management;Universitätsmedizin Greifswald
+19587;Adam;Madlen;Physiotherapie Neu;Universitätsmedizin Greifswald
+19594;Wudtke;Julia;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+19602;Geidel;Lars;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+19842;Bahls;Thomas;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+19845;Leutzow;Bianca;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+19847;Bröderdorf;Susanne;Institut für Pharmakologie;Universitätsmedizin Greifswald
+19849;Neik;Carolin;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+19850;Walk;Rene;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+19855;Müller;Janine;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+19859;Brünnert;Daniela;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+20395;Herzog;Susann;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+20402;Jenning;Carsten;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+20806;Schomerus;Georg;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+20980;Assel;Heinrich;Theologische Fakultät / LS für Systematische Theologie;Theologische Fakultät
+21384;Dziemba;Oliver;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+21389;Talarico;Giovanni;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+21390;Ruttloff;Katja;Zentrum für Radiologie / Klinik und Poliklinik für Nuklearmedizin;Universitätsmedizin Greifswald
+21391;Zehm;Nadine;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+21399;Lillig;Christopher;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+21761;Kröger;Nils;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+21763;Chenot;Jean-François;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+21764;Seebauer;Christian;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+21766;Daboul;Amro Amer;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+22226;Liebscher;Hans Volkmar;Institut für Mathematik und Informatik / AG Biomathematik;Mathematisch-Naturwissenschaftliche Fakultät
+23350;Grabe;Hans-Jörgen;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+23909;Berndt;Leona;Institut für Biochemie / AG Synthetische und Strukturelle Biochemie;Mathematisch-Naturwissenschaftliche Fakultät
+24941;Schmoeckel;Julian;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+24948;Kaczmarek;Piotr Maciej;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+24955;Heckmann;Matthias;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+24959;Heide;Johannes;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+24965;Bakchoul;Tamam;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+24970;Penndorf;Peter;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+24976;Zymara;Kathleen;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+25109;Kohler;Christian;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+25112;Stentzel;Ulrike;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+25114;Michalik;Stephan;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+25121;Kacprowski;Tim;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+25122;Fitzer;Kai;Core Unit - Datenintegrationszentrum;Universitätsmedizin Greifswald
+25335;Kluge;Sandra;Abt. Medizinisches Leistungsmanagement;Universitätsmedizin Greifswald
+25679;Trabhardt;Catja;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+25694;Tobschall;Stefanie;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+25722;Sprenger;Norma;Zentrale Verwaltung;Universitätsmedizin Greifswald
+25752;Reichel;Anna-Juliana;Ärztliches Direktorat;Universitätsmedizin Greifswald
+25765;Raetzell;Malte;Zentrale Verwaltung;Universitätsmedizin Greifswald
+25780;Gürtler;Diana;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+25784;Geßner;Stephan;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+25788;van Diepen;Laura-Kristina;Institut für Humangenetik;Universitätsmedizin Greifswald
+25790;Haase;Annekathrin;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+25794;Schaffer;Marc;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+25795;Jahn;Andrea;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+25798;Gött;Robert;Core Unit - Datenintegrationszentrum;Universitätsmedizin Greifswald
+25799;Kaczmarek;Sabine;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+25801;Szczotkowski;Daniel;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+25809;Lehnert;Kristin;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+25810;Bhardwaj;Gourav;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+26951;Groß;Stefan;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+26955;Winter;Theresa;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+26956;Radicke;Franziska;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+26958;Eisenschenk;Andreas;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+26968;Witt;Carl;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+27028;Sunny;Donna Elizabeth;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+27421;Marx;Sascha;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+27424;Santamaria Sanchez;Ruth;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+27622;Albuerne;Kerstin;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+27627;Wucherer;Diana;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+27656;Gellert;Manuela;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+27860;Reder;Alexander;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+27893;Kruschke;Sebastian;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+27895;Nassif;Ali;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+27896;Eger;Christin;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Pädiatrische Onkologie und Hämatologie;Universitätsmedizin Greifswald
+27911;Berg;Sabine;Zentrale Service- und Forschungseinrichtung für Versuchstiere;Universitätsmedizin Greifswald
+28025;Bialke;Martin;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+28032;Allenberg;Heike;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+29782;Bartels;Jan;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+29784;Schülein;Heinrich;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+29788;Sperling;Christian;Institut für Humangenetik;Universitätsmedizin Greifswald
+29789;Bergmann;Ariane;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+29792;Paul;Sebastian;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+29795;Metelmann;Camilla Luise;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+29796;Metelmann;Bibiana Sophie;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+29806;von Bohlen und Halbach;Viola;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+29814;Berlin;Sarah;Institut für Pharmakologie / Abt. Klinische Pharmakologie;Universitätsmedizin Greifswald
+29819;Plis;Andrzej;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+29824;Michalowsky;Bernhard;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+30556;Heidel;Florian H;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+30896;Müller;Anja;Kaufmännisches Direktorat;Universitätsmedizin Greifswald
+30901;Schmidt;Martina;Kaufmännisches Direktorat;Universitätsmedizin Greifswald
+30982;Werner;Kristin;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+30985;Rühl;Michael;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+31036;Blaurock;Markus;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+31130;Schneider;Anne-Christin;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+31197;Zimak;Carolin;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+31213;Dokter;Anne;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+31221;van der Auwera-Palitschka;Sandra;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+31331;Hackbarth;Christine;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+31334;Blumentritt;Arne;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+31343;Schulze;Juliane;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+31344;Süße;Marie;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+31345;Winkler;Annegret;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+31441;Eremenko;Michael;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+31449;Kliewe;Felix;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+31450;von Woedtke;Thomas;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+31454;Neumann;Nicola;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+31609;Dokter;Martin;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+31610;Benkner;Alexander;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+31626;Reimann;Melanie;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+31657;Ahrendt;Susanne;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+31661;Opolka;Michael;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+31667;Kim;Simon;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+31670;Gilberg;Eberhard;Institut für Humangenetik;Universitätsmedizin Greifswald
+31671;Kampe;Cornelia;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+31673;Wolff;Robert;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+31686;Wernecke;Kerstin;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+31944;Schweder;Thomas;Institut für Pharmazie / AG Pharmazeutische Biotechnologie;Mathematisch-Naturwissenschaftliche Fakultät
+31962;Manthey;Michael;Institut für Botanik und Landschaftsökologie / AG Landschaftsökologie und Ökosystemdynamik;Mathematisch-Naturwissenschaftliche Fakultät
+31983;Maaß;Sandra;Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics;Mathematisch-Naturwissenschaftliche Fakultät
+32033;Fehske;Holger;Institut für Physik / AG Komplexe Quantensysteme;Mathematisch-Naturwissenschaftliche Fakultät
+32039;Vass;Albert;Universitätsrechenzentrum (URZ);Interfakultär
+32055;Bandelow;Steffi;Institut für Physik / AG Kolloidale Plasmen;Mathematisch-Naturwissenschaftliche Fakultät
+32061;Wurster;Martina;Institut für Biochemie / AG Stoffwechselbiochemie / Metabolomics;Mathematisch-Naturwissenschaftliche Fakultät
+32063;Stoll-Kleemann;Susanne;Institut für Geographie und Geologie / AG Nachhaltigkeitswissenschaft und Angewandte Geographie;Mathematisch-Naturwissenschaftliche Fakultät
+32137;Michalik;Peter;Zoologisches Institut und Museum / Zoologisches Museum;Mathematisch-Naturwissenschaftliche Fakultät
+32249;Böttcher;Dominique;Institut für Biochemie / AG Biotechnologie & Enzymkatalyse;Mathematisch-Naturwissenschaftliche Fakultät
+32279;Bodtke;Anja;Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+32339;Sievers;Susanne;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+32360;Ziesemer;Sabine;Zoologisches Institut und Museum / AG Physiologie und Biochemie der Tiere;Mathematisch-Naturwissenschaftliche Fakultät
+32435;Becher;Dörte;Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics;Mathematisch-Naturwissenschaftliche Fakultät
+32505;Höhne;Matthias;Institut für Biochemie / AG Proteinbiochemie;Mathematisch-Naturwissenschaftliche Fakultät
+32602;Zühlke;Daniela;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+32657;Alvermann;Andreas;Institut für Physik / AG Komplexe Quantensysteme;Mathematisch-Naturwissenschaftliche Fakultät
+32692;Heiden;Stefan;Institut für Pharmazie / AG Pharmazeutische Biologie;Mathematisch-Naturwissenschaftliche Fakultät
+32702;Bronold;Franz;Institut für Physik / AG Komplexe Quantensysteme;Mathematisch-Naturwissenschaftliche Fakultät
+32711;Weitschies;Werner;Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Weitschies;Mathematisch-Naturwissenschaftliche Fakultät
+32737;Markert;Stephanie;Institut für Pharmazie / AG Pharmazeutische Biotechnologie;Mathematisch-Naturwissenschaftliche Fakultät
+32884;Gaßner;Christine;Institut für Mathematik und Informatik / AG Biomathematik;Mathematisch-Naturwissenschaftliche Fakultät
+32890;Hippler;Rainer;Institut für Physik / AG Grenz- und Oberflächenphysik;Mathematisch-Naturwissenschaftliche Fakultät
+32895;Lalk;Michael;Institut für Biochemie / AG Stoffwechselbiochemie / Metabolomics;Mathematisch-Naturwissenschaftliche Fakultät
+32908;Mikolasch;Annett;Institut für Mikrobiologie / Abteilung Bakterienphysiologie;Mathematisch-Naturwissenschaftliche Fakultät
+32921;Bornscheuer;Uwe;Institut für Biochemie / AG Biotechnologie & Enzymkatalyse;Mathematisch-Naturwissenschaftliche Fakultät
+33548;Melzer;Andre;Institut für Physik / AG Kolloidale Plasmen;Mathematisch-Naturwissenschaftliche Fakultät
+33549;Schweikhard;Lutz;Institut für Physik / AG Atom- und Molekülphysik;Mathematisch-Naturwissenschaftliche Fakultät
+33555;Kindermann;Markus;Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+33581;Hammerschmidt;Sven;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Genetik und Infektionsbiologie - Infektionsbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+33603;König;Stephan;Institut für Physik / AG Niedertemperaturplasmaphysik;Mathematisch-Naturwissenschaftliche Fakultät
+33666;Jahn;Detlef;Institut für Politik- und Kommunikationswissenschaft / LS für Vergleichende Regierungslehre;Philosophische Fakultät
+33733;Hildebrandt;Jan-Peter;Zoologisches Institut und Museum / AG Physiologie und Biochemie der Tiere;Mathematisch-Naturwissenschaftliche Fakultät
+33734;Müller;Christian;Zoologisches Institut und Museum / AG Physiologie und Biochemie der Tiere;Mathematisch-Naturwissenschaftliche Fakultät
+33808;Kugelmann;Bernd;Institut für Mathematik und Informatik / AG Numerische Mathematik, Optimale Steuerung, Optimierung;Mathematisch-Naturwissenschaftliche Fakultät
+33871;Bernhardt;Jörg;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+33872;Büttner;Knut;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+33912;Gerth;Ulf;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+34401;Lorenz;Sebastian;Institut für Geographie und Geologie / AG Physische Geographie;Mathematisch-Naturwissenschaftliche Fakultät
+34418;Albrecht;Dirk;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+34563;Nemschokmichal;Sebastian;Institut für Physik / AG Grenz- und Oberflächenphysik;Mathematisch-Naturwissenschaftliche Fakultät
+34589;Schneider;Matthias;Institut für Kirchenmusik und Musikwissenschaften / LS für Kirchenmusik/Orgel;Philosophische Fakultät
+34640;Kahlert;Heike;Institut für Biochemie / AG Analytische Chemie und Umweltchemie;Mathematisch-Naturwissenschaftliche Fakultät
+34676;Wichtmann;Wendelin;Fachbereich Wirtschaftswissenschaften / LS für AVWL und Landschaftsökonomie;Rechts- und Staatswissenschaftliche Fakultät
+34839;Dittmann;Silvia;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+34978;Link;Andreas;Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+34991;Burchhardt;Gerhard;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Genetik und Infektionsbiologie - Infektionsbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+35210;Schnittler;Martin;Institut für Botanik und Landschaftsökologie / AG Allgemeine und Spezielle Botanik;Mathematisch-Naturwissenschaftliche Fakultät
+35220;Bednarski;Patrick;Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+35337;Schüller;Hans-Joachim;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Genetik der Mikroorganismen - Genetik und Biotechnologie;Mathematisch-Naturwissenschaftliche Fakultät
+35662;Palm;Gottfried;Institut für Biochemie / AG Synthetische und Strukturelle Biochemie;Mathematisch-Naturwissenschaftliche Fakultät
+35709;Müller;Sabine;Institut für Biochemie / AG Bioorganische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+35747;Schafmeister;Maria-Theresia;Institut für Geographie und Geologie / AG Angewandte Geologie/Hydrogeologie;Mathematisch-Naturwissenschaftliche Fakultät
+35992;Methling;Karen;Institut für Biochemie / AG Stoffwechselbiochemie / Metabolomics;Mathematisch-Naturwissenschaftliche Fakultät
+36066;Matyash;Konstantin;Universitätsrechenzentrum (URZ);Interfakultär
+36303;Hartleib;Jörg;Institut für Geographie und Geologie / AG Kartographie und Geographische Informationssysteme (GIS);Mathematisch-Naturwissenschaftliche Fakultät
+36305;Blindow;Irmgard;Institut für Botanik und Landschaftsökologie;Mathematisch-Naturwissenschaftliche Fakultät
+36435;Hüneke;Heiko;Institut für Geographie und Geologie / AG Regionale und Strukturgeologie;Mathematisch-Naturwissenschaftliche Fakultät
+36522;Dahlke;Sven;Institut für Botanik und Landschaftsökologie;Mathematisch-Naturwissenschaftliche Fakultät
+36537;Meschede;Martin;Institut für Geographie und Geologie / AG Regionale und Strukturgeologie;Mathematisch-Naturwissenschaftliche Fakultät
+37237;Weltmann;Klaus-Dieter;Leibniz-Institut für Plasmaforschung und Technologie e.V. (INP);Mathematisch-Naturwissenschaftliche Fakultät
+37798;Appel;Bettina;Institut für Biochemie / AG Bioorganische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+38182;Scharnweber;Tobias;Institut für Botanik und Landschaftsökologie / AG Landschaftsökologie und Ökosystemdynamik;Mathematisch-Naturwissenschaftliche Fakultät
+38450;Weisz;Klaus;Institut für Biochemie / AG Analytische Biochemie;Mathematisch-Naturwissenschaftliche Fakultät
+38838;Köster;Marion;Institut für Mikrobiologie / Abteilung Mikrobielle Ökologie;Mathematisch-Naturwissenschaftliche Fakultät
+38959;Schlüter;Rabea;Institut für Mikrobiologie / Abteilung Bakterienphysiologie;Mathematisch-Naturwissenschaftliche Fakultät
+39235;Harzsch;Steffen;Zoologisches Institut und Museum / AG Cytologie und Evolutionsbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+39239;Müller;Carsten;Zoologisches Institut und Museum / AG Allgemeine und Systematische Zoologie;Mathematisch-Naturwissenschaftliche Fakultät
+39451;Klinger;Thomas;Teilinstitut MPG / AG Stellarator-Dynamik und -Transport;Mathematisch-Naturwissenschaftliche Fakultät
+39933;Helm;Christiane;Institut für Physik / AG Weiche Materie und Biophysik;Mathematisch-Naturwissenschaftliche Fakultät
+40370;Krieger;Jakob;Zoologisches Institut und Museum / AG Cytologie und Evolutionsbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+41524;Haase;Martin;Zoologisches Institut und Museum / AG Allgemeine und Systematische Zoologie;Mathematisch-Naturwissenschaftliche Fakultät
+41797;Uhl;Gabriele;Zoologisches Institut und Museum / AG Allgemeine und Systematische Zoologie;Mathematisch-Naturwissenschaftliche Fakultät
+43133;Meuche;Annette;Institut für Mikrobiologie / Abteilung Bakterienphysiologie;Mathematisch-Naturwissenschaftliche Fakultät
+44520;Meyer;Tammo;Institut für Geographie und Geologie / AG Angewandte Geologie/Hydrogeologie;Mathematisch-Naturwissenschaftliche Fakultät
+44895;Girbardt;Britta;Institut für Biochemie / AG Synthetische und Strukturelle Biochemie;Mathematisch-Naturwissenschaftliche Fakultät
+44897;Reinhard;Anne;Institut für Mikrobiologie / Abteilung Bakterienphysiologie;Mathematisch-Naturwissenschaftliche Fakultät
+44902;Hiemisch;Anette;Institut für Psychologie / AG Allgemeine Psychologie und Forschungsmethodik;Mathematisch-Naturwissenschaftliche Fakultät
+44912;Krist;Horst;Institut für Psychologie / AG Entwicklungspsychologie und Pädagogische Psychologie;Mathematisch-Naturwissenschaftliche Fakultät
+44928;Stöhr;Christine;Institut für Botanik und Landschaftsökologie / AG Pflanzenphysiologie;Mathematisch-Naturwissenschaftliche Fakultät
+44947;Wilmking;Martin;Institut für Botanik und Landschaftsökologie / AG Landschaftsökologie und Ökosystemdynamik;Mathematisch-Naturwissenschaftliche Fakultät
+44948;Meng;Stefan;Institut für Geographie und Geologie / AG Paläontologie und Historische Geologie;Mathematisch-Naturwissenschaftliche Fakultät
+44963;Warr;Laurence;Institut für Geographie und Geologie / AG Ökonomische Geologie/Geochemie;Mathematisch-Naturwissenschaftliche Fakultät
+44971;Schmidt-Schuchert;Silke;Institut für Psychologie / AG Gesundheit und Prävention;Mathematisch-Naturwissenschaftliche Fakultät
+44972;Beil;Ilka;Institut für Botanik und Landschaftsökologie / AG Experimentelle Pflanzenökologie;Mathematisch-Naturwissenschaftliche Fakultät
+44978;Kehl;Doris;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+44980;Mühlan-Rehmer;Holger;Institut für Psychologie / AG Gesundheit und Prävention;Mathematisch-Naturwissenschaftliche Fakultät
+44988;Schneider;Ralf;Institut für Physik / AG Computational Science;Mathematisch-Naturwissenschaftliche Fakultät
+44989;Klein;Sandra;Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Klein;Mathematisch-Naturwissenschaftliche Fakultät
+44997;Kohler;Thomas;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Genetik und Infektionsbiologie - Infektionsbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+45002;Geist;Norman;Institut für Biochemie / AG Nanostruktur;Mathematisch-Naturwissenschaftliche Fakultät
+45012;Stanke;Mario;Institut für Mathematik und Informatik / AG Bioinformatik;Mathematisch-Naturwissenschaftliche Fakultät
+45016;Hoff;Katharina;Institut für Mathematik und Informatik / AG Bioinformatik;Mathematisch-Naturwissenschaftliche Fakultät
+45018;Kerth;Gerald;Zoologisches Institut und Museum / AG Angewandte Zoologie und Naturschutz;Mathematisch-Naturwissenschaftliche Fakultät
+45027;Schüttler;Anne;Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+45035;Himpel;Michael;Institut für Physik / AG Kolloidale Plasmen;Mathematisch-Naturwissenschaftliche Fakultät
+45066;Bartel;Jürgen;Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics;Mathematisch-Naturwissenschaftliche Fakultät
+45086;Grathoff;Georg;Institut für Geographie und Geologie / AG Ökonomische Geologie/Geochemie;Mathematisch-Naturwissenschaftliche Fakultät
+45093;Riedel;Anna Katharina Maria;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+45094;Kenzler;Michael;Institut für Geographie und Geologie / AG Regionale und Strukturgeologie;Mathematisch-Naturwissenschaftliche Fakultät
+45128;Saafan;Hisham;Institut für Pharmazie, AK Klinische Pharmazie (Leitung: Prof. Dr. Christoph Ritter);Mathematisch-Naturwissenschaftliche Fakultät
+45138;Fischer;Mareike;Institut für Mathematik und Informatik / AG Stochastik-Fraktale;Mathematisch-Naturwissenschaftliche Fakultät
+45145;Dörr;Mark;Institut für Biochemie / AG Biotechnologie & Enzymkatalyse;Mathematisch-Naturwissenschaftliche Fakultät
+45147;von Savigny;Christian;Institut für Physik / AG Umweltphysik;Mathematisch-Naturwissenschaftliche Fakultät
+45166;Fischer;Christian;Institut für Biochemie / AG Bioanorganische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+45170;Schulzke;Carola;Institut für Biochemie / AG Bioanorganische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+45181;Knauer;Stefan;Institut für Physik;Mathematisch-Naturwissenschaftliche Fakultät
+45202;Mayer;Marius;Institut für Geographie und Geologie;Mathematisch-Naturwissenschaftliche Fakultät
+45203;Prager;Anja;Institut für Botanik und Landschaftsökologie / AG Moorkunde und Paläoökologie;Mathematisch-Naturwissenschaftliche Fakultät
+45221;Bandelow;Gunnar;Universitätsrechenzentrum (URZ);Interfakultär
+45223;Hahm;Stefanie;Institut für Psychologie / AG Gesundheit und Prävention;Mathematisch-Naturwissenschaftliche Fakultät
+45225;Pulch;Roland;Institut für Mathematik und Informatik / AG Angewandte Mathematik;Mathematisch-Naturwissenschaftliche Fakultät
+45232;Schulze;Christian;Institut für Pharmazie / AG Pharmazeutische Biologie;Mathematisch-Naturwissenschaftliche Fakultät
+45429;Henck;Vivien;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+45432;Schmidt;Stefanie;ZV Dezernat Einkauf ;Universitätsmedizin Greifswald
+45436;Leyh;Katrin;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+45440;Weidemann;Björn;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+45446;Bahls;Martin;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+45458;Pires;Ricardo;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+45898;Albrecht;Diana;Institut für Community-Medicine / SHIP Untersuchungszentrum;Universitätsmedizin Greifswald
+45900;Kühn;Anja;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+45902;Scholz;Maik;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+45910;Ehlert;Karoline;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Pädiatrische Onkologie und Hämatologie;Universitätsmedizin Greifswald
+45911;Maier-Weidmann;Michaela;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+45912;Jaax;Miriam;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+46021;Lutjanov;Elvira;Zoologisches Institut und Museum / AG Physiologie und Biochemie der Tiere;Mathematisch-Naturwissenschaftliche Fakultät
+46948;Classen;Claus Dieter;Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, Europa- und Völkerrecht;Rechts- und Staatswissenschaftliche Fakultät
+47136;Walowski;Jakob;Institut für Physik / AG Grenz- und Oberflächenphysik;Mathematisch-Naturwissenschaftliche Fakultät
+47137;Schultze;Nadin;Institut für Pharmazie / AG Pharmazeutische Biologie;Mathematisch-Naturwissenschaftliche Fakultät
+47234;Malsch;Carolin;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+47475;Partecke;Maud;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+47670;Schulz;Daniel;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+47677;Krey;Karl-Friedrich;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+47682;Muzzio;Damian Oscar;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+47692;Grimm;Michael;Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Weitschies;Mathematisch-Naturwissenschaftliche Fakultät
+48398;Turek;Anita;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+49061;Pehnke;Andreas;Institut für Erziehungswissenschaften / LS für Allgemeine Erziehungswissenschaft;Philosophische Fakultät
+49070;North;Michael;Historisches Institut / LS für Allgemeine Geschichte der Neuzeit;Philosophische Fakultät
+49077;Buchstein;Hubertus;Institut für Politik- und Kommunikationswissenschaft / LS für Politische Theorie und Ideengeschichte;Philosophische Fakultät
+49081;Hackmann;Jörg;Historisches Institut / LS für Osteuropäische Geschichte;Philosophische Fakultät
+49082;Lindqvist;Christer;Institut für Fennistik und Skandinavistik / LS für Skandinavistische Sprachwissenschaft;Philosophische Fakultät
+49084;Marggraff;Ute;Institut für Slawistik / LS für Slawische Literaturwissenschaft;Philosophische Fakultät
+49096;Kuty;Margitta;Institut für Anglistik/Amerikanistik;Philosophische Fakultät
+49100;Werlich;Ralf-Gunnar;Historisches Institut / LS für Allgemeine Geschichte des Mittelalters und Historische Hilfswissenschaften;Philosophische Fakultät
+49111;Klein;Liane;Institut für Baltistik / LS für Baltistik;Philosophische Fakultät
+49120;Förster;Gabriele;Institut für Erziehungswissenschaften / LS für Allgemeine Erziehungswissenschaft;Philosophische Fakultät
+49134;Pantermöller;Marko;Institut für Fennistik und Skandinavistik / LS für Fennistik;Philosophische Fakultät
+49143;Vollmer;Matthias;Institut für Deutsche Philologie;Philosophische Fakultät
+49145;Kessler;Stephan;Institut für Baltistik / LS für Baltistik;Philosophische Fakultät
+49148;Ewert;Stefan;Institut für Politik- und Kommunikationswissenschaft / Juniorprofessur für Politische Soziologie;Philosophische Fakultät
+49156;Arendt;Birte;Institut für Deutsche Philologie / LS für Germanistische Sprachwissenschaft;Philosophische Fakultät
+49160;Drost-Wollbrecht;Alexander;Historisches Institut / LS für Allgemeine Geschichte der Neuzeit;Philosophische Fakultät
+49169;Loeser;Martin;Institut für Kirchenmusik und Musikwissenschaften / LS für Musikwissenschaft;Philosophische Fakultät
+49180;Niendorf;Mathias;Historisches Institut / LS für Osteuropäische Geschichte;Philosophische Fakultät
+49194;Schumacher;Eckhard;Institut für Deutsche Philologie / LS für Neuere deutsche Literatur und Literaturtheorie (Schumacher);Philosophische Fakultät
+49198;Bussmann;Margit;Institut für Politik- und Kommunikationswissenschaft / LS für Internationale Beziehungen und Regionalstudien;Philosophische Fakultät
+49201;Schröder;Claudia;Phil-Dekanat;Philosophische Fakultät
+49210;Musäus;Thekla;Institut für Fennistik und Skandinavistik / LS für Fennistik;Philosophische Fakultät
+49228;van Nieuwenhuize;Hielke;Historisches Institut / LS für Allgemeine Geschichte der Neuzeit;Philosophische Fakultät
+49229;Mehlan;Henriette;Institut für Politik- und Kommunikationswissenschaft / LS für Kommunikationswissenschaft;Philosophische Fakultät
+49236;Heck;Kilian;Caspar-David-Friedrich Institut / LS für Kunstgeschichte;Philosophische Fakultät
+49237;Weilandt;Gerhard;Caspar-David-Friedrich Institut / LS für Kunstgeschichte;Philosophische Fakultät
+49244;Weber;Jörg;Institut für Anglistik/Amerikanistik / LS für Englische Sprachwissenschaften;Philosophische Fakultät
+49245;Sagert;Anke;Institut für Erziehungswissenschaften;Philosophische Fakultät
+49261;Volkening;Heide;Institut für Deutsche Philologie / LS für Neuere deutsche Literatur und Literaturtheorie (Schumacher);Philosophische Fakultät
+49266;Schäfer;Pavla;Institut für Deutsche Philologie / LS für Germanistische Sprachwissenschaft;Philosophische Fakultät
+49267;Domsch;Sebastian;Institut für Anglistik/Amerikanistik / LS für Anglophone Literaturwissenschaft;Philosophische Fakultät
+49275;Fialek;Marek;Institut für Slawistik / LS für Ost- und Westslawische Philologie;Philosophische Fakultät
+49277;Werner;Micha;Institut für Philosophie / LS für Philosophie mit dem Schwerpunkt Praktische Philosophie;Philosophische Fakultät
+49280;Buchsteiner;Martin;Historisches Institut / LS für Fachdidaktik Historie;Philosophische Fakultät
+49282;Bindrim;Yvonne;Institut für Fennistik und Skandinavistik / LS für Fennistik;Philosophische Fakultät
+49290;Brune;Jens Peter;Institut für Philosophie / LS für Philosophie mit dem Schwerpunkt Praktische Philosophie;Philosophische Fakultät
+49299;Kreuzmair;Elias;Institut für Deutsche Philologie / LS für Neuere deutsche Literatur und Literaturtheorie (Schumacher);Philosophische Fakultät
+49300;Schweder;Sabine;Institut für Erziehungswissenschaften / LS für Schulpädagogik;Philosophische Fakultät
+49302;Zieseler;Laura;Institut für Fennistik und Skandinavistik / LS für Skandinavistische Sprachwissenschaft;Philosophische Fakultät
+49305;Schmid;Florian;Institut für Deutsche Philologie / LS für Ältere Deutsche Sprache und Literatur;Philosophische Fakultät
+49672;Münzenberg;Markus;Institut für Physik / AG Grenz- und Oberflächenphysik;Mathematisch-Naturwissenschaftliche Fakultät
+49771;Herrmann;Andrea;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+49776;Rath;Matthias;Institut für Humangenetik;Universitätsmedizin Greifswald
+49792;Surmann;Kristin;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+49796;Hertel;Johannes;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+49807;Stübs;Gunthard;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+50361;Wilhelmi;Paula;Institut für Pathologie;Universitätsmedizin Greifswald
+50363;Henkel;Berthold Johannes;Zentrale Notaufnahme;Universitätsmedizin Greifswald
+50972;Flieger;Carolin;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+50974;Fischer;Heiko;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+50976;Schuldt;Ronny;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+50979;Doberschütz;Philine Henriette;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+51102;Pooch;Andrea;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+51235;Sponholz;Dana;Zoologisches Institut und Museum / AG Physiologie und Biochemie der Tiere;Mathematisch-Naturwissenschaftliche Fakultät
+51412;Kulakow;Stefan;Institut für Erziehungswissenschaften;Philosophische Fakultät
+51497;Linek;Jenny;Institut für Politik- und Kommunikationswissenschaft / LS für Politische Theorie und Ideengeschichte;Philosophische Fakultät
+51589;Ruwe;Andreas;Theologie / LS für Altes Testament und Sprachlektorat;Theologische Fakultät
+51636;Beck;Klaus;Institut für Politik- und Kommunikationswissenschaft / LS für Kommunikationswissenschaft;Philosophische Fakultät
+53185;Klepzig;Kai;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+53191;Neuhofs;Stefanie;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinderchirurgie;Universitätsmedizin Greifswald
+53197;Alwafai;Zaher;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+53208;Lange;Tim;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+53614;Rollberg;Roland;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Produktionswirtschaft;Rechts- und Staatswissenschaftliche Fakultät
+53643;Götz;Olav;Zentrale Verwaltung;Universitätsmedizin Greifswald
+53645;Körnert;Jan;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Internationales Finanzmanagement/Internationale Kapitalmärkte;Rechts- und Staatswissenschaftliche Fakultät
+53649;Ried;Walter;Fachbereich Wirtschaftswissenschaften / LS für AVWL und Finanzwissenschaft;Rechts- und Staatswissenschaftliche Fakultät
+53657;Soretz;Susanne;Fachbereich Wirtschaftswissenschaften / LS für AVWL sowie Wachstum, Strukturwandel und Handel;Rechts- und Staatswissenschaftliche Fakultät
+53658;Schinkels;Boris;Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht, Internationales und Europäisches Privatrecht, Rechtsvergleichung und Rechtsharmonisierung im Ostseeraum;Rechts- und Staatswissenschaftliche Fakultät
+53663;Mindermann;Torsten;Fachbereich Wirtschaftswissenschaften / LS für ABWL sowie Unternehmensprüfung und -besteuerung;Rechts- und Staatswissenschaftliche Fakultät
+53665;Grube;Klemens;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Internationales Finanzmanagement/Internationale Kapitalmärkte;Rechts- und Staatswissenschaftliche Fakultät
+53679;Beckmann;Volker;Fachbereich Wirtschaftswissenschaften / LS für AVWL und Landschaftsökonomie;Rechts- und Staatswissenschaftliche Fakultät
+53688;Hübner;Claudia;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Gesundheitsmanagement;Rechts- und Staatswissenschaftliche Fakultät
+53707;Kloyer;Martin;Fachbereich Wirtschaftswissenschaften / LS für ABWL sowie Organisation, Personalwirtschaft und Innovationsmanagement;Rechts- und Staatswissenschaftliche Fakultät
+53726;Krohn;Markus;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Gesundheitsmanagement;Rechts- und Staatswissenschaftliche Fakultät
+53740;Raths;Susan;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Gesundheitsmanagement;Rechts- und Staatswissenschaftliche Fakultät
+53747;Böttrich;Christfried;Theologie / LS für Neues Testament;Theologische Fakultät
+53750;Theißen;Henning;Theologische Fakultät / LS für Systematische Theologie;Theologische Fakultät
+53752;Beyerle;Stefan;Theologie / LS für Altes Testament und Sprachlektorat;Theologische Fakultät
+53902;Nell;Christopher;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+54656;Raus;Christina;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+55021;Rühs;Michael;Fachbereich Wirtschaftswissenschaften / LS für AVWL und Landschaftsökonomie;Rechts- und Staatswissenschaftliche Fakultät
+56497;Held;Jana;Universitätsrechenzentrum (URZ);Interfakultär
+56526;Lindner;Marko;Universitätsrechenzentrum (URZ);Interfakultär
+56584;Kemnitz;Stefan;Universitätsrechenzentrum (URZ);Interfakultär
+56644;Schulz;Stefan;ZV Dezernat Finanzen;Universitätsmedizin Greifswald
+56674;El Refaei;Ehab Ahmed Mohamed;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+56677;Bischoff;Marie;Institut für Psychologie / AG Gesundheit und Prävention;Mathematisch-Naturwissenschaftliche Fakultät
+56684;Kostiucenko;Anastasija;Institut für Slawistik;Philosophische Fakultät
+57023;Richter;Diana;Kaufmännisches Direktorat;Universitätsmedizin Greifswald
+57030;Hahnenkamp;Klaus;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+57277;Behrendt;Christoph;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+57281;Kreyling;Jürgen;Institut für Botanik und Landschaftsökologie / AG Experimentelle Pflanzenökologie;Mathematisch-Naturwissenschaftliche Fakultät
+57390;Peters;Kristin;Institut für Pathologie;Universitätsmedizin Greifswald
+57603;Juretzko;Annett;Institut für Physiologie;Universitätsmedizin Greifswald
+57609;Gibb;Sebastian;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+58248;Normann;Nicole;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+58249;Höhn;Johannes;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+59978;Leddig;Torsten;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+59981;Malyshev;Andrey;Institut für Botanik und Landschaftsökologie / AG Experimentelle Pflanzenökologie;Mathematisch-Naturwissenschaftliche Fakultät
+62348;Holbe;Christine;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+62351;Mksoud;Maria;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+62352;Sternberg;Juliane;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+62355;Schössow;Janka;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+62357;Vollmer;Marcus;Institut für Bioinformatik;Universitätsmedizin Greifswald
+63574;Janner;Henriette;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+63739;Kromrey;Marie-Luise;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+63814;Zumpe;Maxi;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Pädiatrische Onkologie und Hämatologie;Universitätsmedizin Greifswald
+63816;Tayar;Allam;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+64049;Stahl;Dana;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+64179;Voigt;Lisa;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+64237;Hochstein;Henning;Institut für Politik- und Kommunikationswissenschaft / LS für Politische Theorie und Ideengeschichte;Philosophische Fakultät
+64316;Pink;Christiane;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+64507;Struppe;Linda;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+64614;Knaak;Christine;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+64621;Schick;Philipp;Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Weitschies;Mathematisch-Naturwissenschaftliche Fakultät
+64755;Urich;Tim;Institut für Mikrobiologie / Abteilung Bakterienphysiologie;Mathematisch-Naturwissenschaftliche Fakultät
+64847;Zylla;Stephanie;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+64865;Schauer;Birgit;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+64940;Schönau;Mandy;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+64952;Preuß;Rebekka;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+64959;Kosanke;Anika;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+65013;Schneppe;Daniel;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+65024;von Au;Felix;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+65025;Haußmann-Vopel;Sebastian Frederik;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+65282;Kaderali;Lars;Institut für Bioinformatik;Universitätsmedizin Greifswald
+65288;Freiin von Rheinbaben;Sabrina;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+65344;Trimcev;Eno;Institut für Politik- und Kommunikationswissenschaft / LS für Politische Theorie und Ideengeschichte;Philosophische Fakultät
+65373;Grothe;Sascha;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+65384;Moritz;Eileen;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+65392;Voß;Franziska;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Genetik und Infektionsbiologie - Infektionsbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+65399;Trimcev;Rieke;Institut für Politik- und Kommunikationswissenschaft / LS für Politische Theorie und Ideengeschichte;Philosophische Fakultät
+65417;Schäfer;Eik;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+65737;Fischer;Rico;Institut für Psychologie / AG Allgemeine Psychologie und Forschungsmethodik;Mathematisch-Naturwissenschaftliche Fakultät
+65738;Kozlik;Julia;Institut für Psychologie / AG Allgemeine Psychologie und Forschungsmethodik;Mathematisch-Naturwissenschaftliche Fakultät
+65739;Mahlau;Kathrin;Institut für Erziehungswissenschaften;Philosophische Fakultät
+65741;Raufelder;Diana;Institut für Erziehungswissenschaften / LS für Schulpädagogik;Philosophische Fakultät
+65790;Hollandt;Maike;Institut für Psychologie;Mathematisch-Naturwissenschaftliche Fakultät
+65851;Troschke-Meurer;Sascha;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Pädiatrische Onkologie und Hämatologie;Universitätsmedizin Greifswald
+65852;Hahnenkamp;Anke;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+65867;Lisek;Grzegorz;Institut für Slawistik / LS für Slawische Sprachwissenschaft;Philosophische Fakultät
+66256;Kiel;Simone;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+66258;Forkel;Hannes;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+66264;Blankenburg;Sascha;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+67007;Müller;Jonas;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+67029;Nowak;Stephan;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+67710;Mielke;Stefan;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+67715;Rau;Henriette;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+67720;Koop;Sabrina;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+67721;Ruhnau;Johanna;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+68839;Runge;Kristin;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+69796;Nguyen Trung;Dung;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+69801;Storck;Kirsten;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+69802;Fouad;Dina Raafat Gouda;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+69811;Gauß;Karen Friederike;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+69896;Kleinke;Fabian;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+69900;Hoffmann;Christoph;Institut für Physik / AG Umweltphysik;Mathematisch-Naturwissenschaftliche Fakultät
+70054;Konschake;Wolfgang;Klinik und Poliklinik für Hautkrankheiten;Universitätsmedizin Greifswald
+70057;Ullrich;Antje;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+70060;Kleimeier;Dana;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+70063;Sicher;Claudia;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+70064;Decker;Christoph Martin;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+70070;Lenz;Franziska;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+70097;Henning;Ann-Kristin;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+70122;Lange;Ina;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+70133;Hufenbach;Miriam;Institut für Psychologie / AG Physiologische und Klinische Psychologie/Psychotherapie;Mathematisch-Naturwissenschaftliche Fakultät
+70161;Seifert;Ulrike;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+70195;Hoferichter;Frances;Institut für Erziehungswissenschaften / LS für Schulpädagogik;Philosophische Fakultät
+70222;Fenske;Benjamin;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+70241;Lange;Sandra;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+70248;Meyer-Bahlburg;Almut Freda;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+70273;Al Sholui;Fawaz;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+70274;Shoubash;Loay;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+70368;Feig;Martin;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+70454;Bossaller;Lukas;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+70546;Mishra;Neha;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+70641;Brinkrolf;Peter;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+70642;Pink;Daniel;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+70676;Schielke;Jan;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+71102;Cammann;Clemens;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+71139;Westphal;Thea;Klinik und Poliklinik für Hautkrankheiten;Universitätsmedizin Greifswald
+71153;Fregin;Bob;Institut für Physik / AG Niedertemperaturplasmaphysik;Mathematisch-Naturwissenschaftliche Fakultät
+71314;Otto;Oliver;Institut für Physik / AG Niedertemperaturplasmaphysik;Mathematisch-Naturwissenschaftliche Fakultät
+71315;Salminen;Jutta;Institut für Fennistik und Skandinavistik / LS für Fennistik;Philosophische Fakultät
+71447;Seidlein;Anna-Henrikje;Institut für Ethik und Geschichte der Medizin;Universitätsmedizin Greifswald
+71451;Dürwald;Alexandra;Institut für Pharmazie / AG Pharmazeutische Biotechnologie;Mathematisch-Naturwissenschaftliche Fakultät
+71853;Henning;Esther;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+71856;Bohnert;Jürgen;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+71865;Frost;Fabian;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+72096;Wirkner;Janine;Institut für Psychologie;Mathematisch-Naturwissenschaftliche Fakultät
+72227;Fischer;Paul;Institut für Physik / AG Atom- und Molekülphysik;Mathematisch-Naturwissenschaftliche Fakultät
+72281;Klinger-König;Johanna;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+72286;Kononenko;Irina;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+72293;Schütt;Stefan;Institut für Physik / AG Kolloidale Plasmen;Mathematisch-Naturwissenschaftliche Fakultät
+72395;Schindler;Maximilian;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+72523;Trautwein-Schult;Anke;Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics;Mathematisch-Naturwissenschaftliche Fakultät
+73139;Urban;Steffi;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+73154;Delcea;Mihaela;Institut für Biochemie / AG Nanostruktur;Mathematisch-Naturwissenschaftliche Fakultät
+73157;Gauckler;Charlotte;Institut für Philosophie / LS für Philosophie mit dem Schwerpunkt Praktische Philosophie;Philosophische Fakultät
+73469;Möhring;Anne;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+73470;Schöpfel;Juliane;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+73473;Zühlke;Marie-Katherin;Institut für Pharmazie / AG Pharmazeutische Biotechnologie;Mathematisch-Naturwissenschaftliche Fakultät
+73477;Bog;Manuela;Institut für Botanik und Landschaftsökologie;Mathematisch-Naturwissenschaftliche Fakultät
+74328;Gramenz;Jana;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+75007;Storch;Alexander;Deutsches Zentrum für Neurodegenerative Erkrankungen Teilstandort Rostock;Universitätsmedizin Greifswald
+75438;Dittmar;Denise;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+75439;Strauß;Sebastian;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+75450;Siemens;Nikolai;Fachrichtung Biologie;Mathematisch-Naturwissenschaftliche Fakultät
+75500;Litschko;Thomas;ZV Dezernat Finanzen;Universitätsmedizin Greifswald
+75714;Thiel;Franziska;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+75719;Krüger;Elke;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+75827;Walther;Thomas;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+75831;Hassel;Verena;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Gesundheitsmanagement;Rechts- und Staatswissenschaftliche Fakultät
+76008;Flöel;Agnes;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+76010;Wenzel;Anna;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+76012;Gierse;Laurin Christopher;Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+76030;Schulz;Juliane;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+76038;Froehlich;Susanne;Historisches Institut / LS für Allgemeine Geschichte des Mittelalters und Historische Hilfswissenschaften;Philosophische Fakultät
+76130;Fielitz;Jens;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+76134;Ladenbauer;Julia;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+76137;Richter;Adrian;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+76154;Thummes;Kerstin;Institut für Politik- und Kommunikationswissenschaft / LS für Kommunikationswissenschaft/Schwerpunkt Organisationskommunikation;Philosophische Fakultät
+76220;Steinbrückner;Madlen;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+76292;Rehner;Laura Kerstin;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+76324;Scheuch;Matthias;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+76327;Scholz;Veronika;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+76355;Stern;Ulrike;Institut für Deutsche Philologie;Philosophische Fakultät
+76654;Greffin;Klara;Institut für Psychologie / AG Gesundheit und Prävention;Mathematisch-Naturwissenschaftliche Fakultät
+77175;Biedenweg;Bianca;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+77226;Nowack;Anne;Beschaffung/Verbrauch;Universitätsmedizin Greifswald
+77227;Antonenko;Daria;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+77232;Nonnenberg;Dennis;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+77235;Atlas;Caroline;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+77290;Schmidt;Thomas;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+77292;Görig;Tillmann;Ärztliches Direktorat;Universitätsmedizin Greifswald
+77453;Fleischmann;Robert;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+77864;Monsees;Jessica;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+77866;Schumacher-Schönert;Fanny;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+78093;Dörmann;Niklas Helge;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+78094;Mourad;Mhd Said;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+78101;Schattschneider;Mario;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+78111;Riemann;Katja;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+78120;Wuntke;Lena;Institut für Erziehungswissenschaften;Philosophische Fakultät
+78139;Schmettau;Alexander;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Produktionswirtschaft;Rechts- und Staatswissenschaftliche Fakultät
+78430;Lucchese;Guglielmo;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+78435;Napierkowski;Martin;Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+78466;Darisipudi;Venkata Surya Narayana Mu;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+78474;Much;Christiane Dörte;Institut für Humangenetik;Universitätsmedizin Greifswald
+78478;Kuthning;Daniela;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+78489;Heyd;Theresa;Institut für Anglistik/Amerikanistik / LS für Englische Sprachwissenschaften;Philosophische Fakultät
+78492;Heß;Cordelia Irina;Historisches Institut / LS für Nordische Geschichte;Philosophische Fakultät
+78637;Krause;Elischa;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+78750;Rädke;Anika;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+78838;Bakir;Mustafa Sinan;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+78877;Mathias;Leonard;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+78878;Komaragiri;Yesaswini;Institut für Physik / AG Weiche Materie und Biophysik;Mathematisch-Naturwissenschaftliche Fakultät
+79476;Struckmann;Stephan;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+79561;Kraus-Spieckermann;Natascha;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+79946;Kleinwort;Annabel;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+79958;AlMenabbawy;Ahmed Mohamed Khaled;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+80129;Rühle;Samuel;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+80130;Gloystein;Simone;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+80258;Zwicker;Paula;Institut für Hygiene und Umweltmedizin;Universitätsmedizin Greifswald
+80259;Rosenberg;Britta;Institut für Community-Medicine / SHIP Untersuchungszentrum;Universitätsmedizin Greifswald
+80270;Gelbrich;Nadine;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+80278;Hentschker;Christian;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+80284;Roskoden;Frederick Charles;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+80290;Kuschnereit;Tobias Philipp;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+80294;Frenzel;Stefan;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+80414;Spitzenpfeil;Clemens;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+80415;Liutkus;Kerstin;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+80420;Jankowski;Alexander;Institut für Physik / AG Atom- und Molekülphysik;Mathematisch-Naturwissenschaftliche Fakultät
+80658;Pfeuffer;Nils;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+80670;Gag;Konrad;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+80677;Hörnig;Marie Kathrin;Zoologisches Institut und Museum / AG Cytologie und Evolutionsbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+80679;Mahesan;Devu;Institut für Psychologie / AG Allgemeine Psychologie und Forschungsmethodik;Mathematisch-Naturwissenschaftliche Fakultät
+81603;Sartori;Luiz Vinícius;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+81825;Skowronek;Dariush;Institut für Humangenetik;Universitätsmedizin Greifswald
+81827;Tzvetkov;Mladen Vassilev;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+81828;Baumgarten;Mina Carolina;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+82380;Vielhauer;Annina;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+82779;Rübsam;Marie-Luise;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+82806;Ohme;Andreas;Institut für Slawistik / LS für Slawische Literaturwissenschaft;Philosophische Fakultät
+82916;Pitchika;Anitha;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+82919;Lammers;Michael;Institut für Biochemie / AG Synthetische und Strukturelle Biochemie;Mathematisch-Naturwissenschaftliche Fakultät
+83003;Meyer-Tönnies;Marleen;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+83610;Klingel;Leah Bernadette;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+84015;Moon;Kilson;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+84484;Eördögh;Márton Árpád;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+84487;von Podewils;Viola Lara;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+84621;Laacke;Sebastian;Institut für Ethik und Geschichte der Medizin;Universitätsmedizin Greifswald
+84762;Weidemeier;Martin;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+84785;Wulff;Tino;Institut für Erziehungswissenschaften;Philosophische Fakultät
+84814;Käding;Christoph;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+85239;Garvert;Linda Christin;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+85241;Domsta;Vanessa;Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Weitschies;Mathematisch-Naturwissenschaftliche Fakultät
+85442;Tzvetkova;Ana Pavlova;Institut für Bioinformatik;Universitätsmedizin Greifswald
+85449;Birnstiel;Klaus;Institut für Deutsche Philologie / LS für Neuere deutsche Literatur und Literaturtheorie (Siebenpfeiffer);Philosophische Fakultät
+85514;Hampf;Christopher;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+85517;Wiese;Mats;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+85522;Günther;Sören;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+85525;Wolff;Ingmar;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+85790;Oergel;Tobias;Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+85796;Iost;Natalia;Institut für Politik- und Kommunikationswissenschaft / LS für Internationale Beziehungen und Regionalstudien;Philosophische Fakultät
+85873;Marschall;Luise;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+85934;Kuzmina;Anna;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+86049;Corleis;Juliane;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+86052;Papendorf;Jonas Johannes;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+86053;Kröber;Corinna;Institut für Politik- und Kommunikationswissenschaft / LS für Vergleichende Regierungslehre;Philosophische Fakultät
+86055;Lange;Sebastian;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+86104;Alzahar;Mostafa Magdy Abrahim;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+86106;Pilz;Robin Alexander;Institut für Humangenetik;Universitätsmedizin Greifswald
+86332;Hagenau;Lisa;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+86626;Dörfel;Dorothea;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+86631;Syperek;Annika;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+86632;Lüdtke;Lisa;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+86635;Bonk;Sarah;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+86641;Wassilew;Georgi Iwan;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+86646;Waltemath;Dagmar;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+86651;Eichner;Maximilian;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+86656;Becker;Felix;Institut für Mathematik und Informatik / AG Bioinformatik;Mathematisch-Naturwissenschaftliche Fakultät
+86958;Haralambiev;Lyubomir;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+87016;Stahl;Andreas;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+87017;Jahn;Kristin;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Genetik und Infektionsbiologie - Infektionsbiologie;Mathematisch-Naturwissenschaftliche Fakultät
+89114;Rump;Adrian;Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Weitschies;Mathematisch-Naturwissenschaftliche Fakultät
+89180;Schmiedeke;Frieder;Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie;Universitätsmedizin Greifswald
+89181;Schönborn;Linda;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+89541;Meinzer;Marcus Frank;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+89543;Ulm;Lena;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+89676;Schulze;Konrad;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+89678;Schmidt;Andreas;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+89682;Bründer;Marie-Christine;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+89684;Wacker;Alexander;Zoologisches Institut und Museum / AG Tierökologie;Mathematisch-Naturwissenschaftliche Fakultät
+89725;Schulig;Lukas;Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+89736;Haack;Kathleen;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+89740;Giri;Priyanka Voori;Zentrum für Innere Medizin / Klinik für Innere Medizin B / Kardiologie;Universitätsmedizin Greifswald
+89742;Pierdant;Guillermo;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+89805;Busch;Larissa Milena;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+89810;Marx;Konstanze;Institut für Deutsche Philologie / LS für Germanistische Sprachwissenschaft;Philosophische Fakultät
+89874;Hübner;Björn-Christian;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+89879;Truthmann;Julia;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+89881;Witzke;Katharina;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+89882;Krüger;Markus;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde;Universitätsmedizin Greifswald
+89888;Schulze;Brian;Zoologisches Institut und Museum / AG Tierökologie;Mathematisch-Naturwissenschaftliche Fakultät
+89889;Diehl;Joscha;Institut für Mathematik und Informatik / AG Junior-Professur Analysis;Mathematisch-Naturwissenschaftliche Fakultät
+89892;zur Nieden;Gesa;Institut für Kirchenmusik und Musikwissenschaften / LS für Musikwissenschaft;Philosophische Fakultät
+89895;Gochermann;Ulrike;Institut für Politik- und Kommunikationswissenschaft / LS für Kommunikationswissenschaft;Philosophische Fakultät
+89969;Banka;Andris;Institut für Politik- und Kommunikationswissenschaft / LS für Internationale Beziehungen und Regionalstudien;Philosophische Fakultät
+90932;Weihs;Antoine;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+91334;Grundel;Milena;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+91337;Grundel;Bastian;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+91341;Al Masri;Ahmad;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+91348;Simm;Stefan;Institut für Bioinformatik;Universitätsmedizin Greifswald
+91384;Jana;Jagannath;Institut für Biochemie / AG Analytische Biochemie;Mathematisch-Naturwissenschaftliche Fakultät
+91655;Bohorc;Manuela;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+91656;Platz;Thomas;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+91674;Ulbricht;Martin;Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Weitschies;Mathematisch-Naturwissenschaftliche Fakultät
+91677;Segelke;Arne;Historisches Institut / LS für Nordische Geschichte;Philosophische Fakultät
+91738;Peetz;Merete;Institut für Politik- und Kommunikationswissenschaft / LS für Politische Theorie und Ideengeschichte;Philosophische Fakultät
+91778;Lücker;Petra;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+91782;Correia;Jevy;Institut für Biochemie / AG Bioanorganische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+91864;Suchy;Bettina;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+91877;Potlitz;Felix;Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+91888;Boekholt;Melanie;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+91892;Orsson;Dorota;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+92028;Schmachtenberg;Tim;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+92169;Bhar;Anirban;Institut für Bioinformatik;Universitätsmedizin Greifswald
+92202;Fielitz;Britta;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+92234;Ferrero Bordera;Borja;Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics;Mathematisch-Naturwissenschaftliche Fakultät
+92293;Gholizadeh;Maryam;Institut für Bioinformatik;Universitätsmedizin Greifswald
+92338;Auerbach;Lisa;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+92446;Brakemeier;Eva-Lotta;Institut für Psychologie;Mathematisch-Naturwissenschaftliche Fakultät
+92482;Henkel;Ron;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+92489;Wurm;Susanne;Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin;Universitätsmedizin Greifswald
+92490;Gebhardt;Sebastian;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+92491;Stein;Alexandra;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+92494;Garscha;Ulrike;Institut für Pharmazie;Mathematisch-Naturwissenschaftliche Fakultät
+92495;Sperfeld;Erik;Zoologisches Institut und Museum / AG Tierökologie;Mathematisch-Naturwissenschaftliche Fakultät
+92496;König;Stefanie;Institut für Pharmazie;Mathematisch-Naturwissenschaftliche Fakultät
+92706;Zollner;Sebastian;Institut für Deutsche Philologie / LS für Germanistische Sprachwissenschaft;Philosophische Fakultät
+93263;Esefeld;Max;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+93268;Busch;Martin;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+93273;Vianney;Lie Yoanes Maria;Institut für Biochemie / AG Analytische Biochemie;Mathematisch-Naturwissenschaftliche Fakultät
+93400;Becker;Karsten;Friedrich Loeffler Institut für Medizinische Mikrobiologie;Universitätsmedizin Greifswald
+93763;Zeleke;Atinkut Alamirrew;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+93764;Kohlmann;Thomas;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+93883;Rodriguez;Francisca-Saveria;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+94548;Abdullah;Mohammed;Institut für Klinische Chemie und Laboratoriumsmedizin;Universitätsmedizin Greifswald
+94558;Römer;Sarah;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+94780;Baider;Mohamed Ali Mohamed;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+94787;Hashemi;Flora;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+95318;Chisci;Viola;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+95326;Wöller;Nico;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+95330;Beidler;Irena;Institut für Pharmazie / AG Pharmazeutische Biotechnologie;Mathematisch-Naturwissenschaftliche Fakultät
+95759;Siegerist;Florian;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+96801;Gollasch;Maik;Zentrum für Innere Medizin / Klinik und Poliklinik für Innere Medizin D - Geriatrie;Universitätsmedizin Greifswald
+96804;Riemann;Steffen;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+96811;Fokuhl;Ayleen;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+96906;Cardona;Maria;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+96911;Afrin;Dilshad;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+96912;Ross;Sabrina;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+97041;Robers;Gabriele;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+97492;Tamminga;Allard;Institut für Philosophie / LS für Philosophie mit dem Schwerpunkt Theoretische Philosophie;Philosophische Fakultät
+97497;Linde;Cornelia;Historisches Institut / LS für Allgemeine Geschichte des Mittelalters und Historische Hilfswissenschaften;Philosophische Fakultät
+97506;Brott;Stefan;Institut für Biochemie / AG Biotechnologie & Enzymkatalyse;Mathematisch-Naturwissenschaftliche Fakultät
+97517;Nicolai;Susanne;Institut für Geographie und Geologie / AG Nachhaltigkeitswissenschaft und Angewandte Geographie;Mathematisch-Naturwissenschaftliche Fakultät
+97523;Scheuerlein;Roland Alexander;Universitätsrechenzentrum (URZ);Interfakultär
+97745;Tomczyk;Samuel;Institut für Psychologie / AG Gesundheit und Prävention;Mathematisch-Naturwissenschaftliche Fakultät
+97747;Seeßelberg;Julia-Maria;Institut für Biochemie / AG Proteinbiochemie;Mathematisch-Naturwissenschaftliche Fakultät
+97748;Groß;Verena;Institut für Mikrobiologie / Abteilung Bakterienphysiologie;Mathematisch-Naturwissenschaftliche Fakultät
+97749;Schmidt;Louis;Institut für Pharmazie;Mathematisch-Naturwissenschaftliche Fakultät
+97870;Afi;Adel;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+97872;Hofbauer;Lena;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+98603;Nitsch;Andreas;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+98605;Zierke;Lukas;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+98611;Fiedler-Lacombe;Lizon Léonie;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+98618;Krolo;Filipa;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+98640;Tiede;Anika;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+98647;Mühler;Matthias;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+98648;Tischler;Luisa;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+98657;Bartsch;Luise;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+98659;Schoon;Janosch;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+98663;Bethmann;Jonas;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+98668;Inau;Esther Thea;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+98674;Lehmann;Sebastian;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+98703;Mühlichen;Franka;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+98706;Spiegler;Stefanie;Institut für Physik / AG Niedertemperaturplasmaphysik;Mathematisch-Naturwissenschaftliche Fakultät
+98825;Scharf;Annelie;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+98827;Platen;Moritz;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+99146;Krauß;Nikolas;Institut für Geographie und Geologie / AG Regionale und Strukturgeologie;Mathematisch-Naturwissenschaftliche Fakultät
+99507;Krause;Kristian;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+99516;Khabipov;Aydar;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+99544;Li;Ning;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+99545;Koppe;Thor-Magnus;Institut für Anatomie und Zellbiologie;Universitätsmedizin Greifswald
+99548;Troschke;Tabea;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+99659;Mohr;Wiebke;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+99904;Schlitte;Annika;Institut für Philosophie / LS für Philosophie mit den Schwerpunkten Ästhetik und Kulturphilosophie;Philosophische Fakultät
+100110;Bäcker;Daniel;Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+100122;Steinmetz;Anke;Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin;Universitätsmedizin Greifswald
+100191;Lampert;Fabio;Institut für Philosophie / LS für Philosophie mit dem Schwerpunkt Theoretische Philosophie;Philosophische Fakultät
+100280;Bergunder;Konstanze;Zoologisches Institut und Museum / AG Tierökologie;Mathematisch-Naturwissenschaftliche Fakultät
+100281;Wienhausen;Laura;Zoologisches Institut und Museum / AG Tierökologie;Mathematisch-Naturwissenschaftliche Fakultät
+100500;Horsfield;Philip Andrew;Abt. Fakultätscontrolling/DM-Management;Universitätsmedizin Greifswald
+100505;Stobbe;Franziska;Institut für Rechtsmedizin;Universitätsmedizin Greifswald
+100523;Cordeiro;Nithin;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+100528;Pfeil;Johanna;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald
+100552;Kaßmann;Mario;Zentrum für Innere Medizin / Klinik und Poliklinik für Innere Medizin D - Geriatrie;Universitätsmedizin Greifswald
+100557;Langheinrich;Melanie Camilla;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+100561;Abdin;Maria;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+100562;Kersting;Stephan;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+100576;Weber;Steffi;Ärztliches Direktorat;Universitätsmedizin Greifswald
+100848;Ziegert;Nadja;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+100975;Baecker;Justus;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+100986;Altindal;Reyhan;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+100988;Caetano Pinto;Pedro Miguel;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+101527;Eifert;Theresa;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+101530;Schnöder;Tina;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+101531;Anistan;Yoland Marie;Zentrum für Innere Medizin / Klinik und Poliklinik für Innere Medizin D - Geriatrie;Universitätsmedizin Greifswald
+101539;Kebede;Tewodros;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+102053;Beelich;Hilke;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+102062;Hsu;Chen-Jen;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+102063;Brinschwitz;Björn;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+102064;Theen;Sarah;Ärztliches Direktorat;Universitätsmedizin Greifswald
+102068;Rakow;Anastasia;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+102942;Schuffert;Louisa;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin;Universitätsmedizin Greifswald
+102948;Schwanz;Stefan;Zentrum für Innere Medizin / Klinik für Innere Medizin B / Kardiologie;Universitätsmedizin Greifswald
+102954;Bogaczyk;Victoria;Klinik und Poliklinik für Neurochirurgie;Universitätsmedizin Greifswald
+102958;Geisenhainer;Katharina;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+102967;Kirchner;Kevin;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+102972;Rau;Andrea;Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen;Universitätsmedizin Greifswald
+103153;Kahnfeld;Daniel;Institut für Physik / AG Computational Science;Mathematisch-Naturwissenschaftliche Fakultät
+103176;Ostrzinski;Anne;Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics;Mathematisch-Naturwissenschaftliche Fakultät
+103189;Mandalka;Markus;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+103308;Kruse;Judith;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+103310;Hirt;Carsten;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+103327;Ernst;Vanessa Sophie;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+103341;Kästner;Anika;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+105082;Tubío Santamaria;Nuria;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+105083;Zaninetti;Carlo;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+105089;Engeli;Stefan;Institut für Pharmakologie / Abt. Klinische Pharmakologie;Universitätsmedizin Greifswald
+105090;Busch;Chia-Jung;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+105097;Fakhr Eddin;Mohammad;Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie;Universitätsmedizin Greifswald
+105229;Hansen;Kerrin;Institut für Pathologie;Universitätsmedizin Greifswald
+105267;Schwabe;Michael;Institut für Pharmazie / AG Pharmazeutische Biologie;Mathematisch-Naturwissenschaftliche Fakultät
+105269;El Debuch;Khalil;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+105430;Reichert;Johannes Christian;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+105436;Goller;Katja;Ärztliches Direktorat;Universitätsmedizin Greifswald
+105616;Orsson;Jakub;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+105706;Kozlik;Julia;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+105864;Wietfeld;Anne;Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht und Arbeitsrecht;Rechts- und Staatswissenschaftliche Fakultät
+105866;Manz;Peter;Institut für Physik;Mathematisch-Naturwissenschaftliche Fakultät
+105877;Valentin;Heike;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+105918;Wittmann;Nico;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+105936;Elhadad;Mohamed;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+106004;Tanneberger;Franziska;Institut für Botanik und Landschaftsökologie / AG Landschaftsökologie und Ökosystemdynamik;Mathematisch-Naturwissenschaftliche Fakultät
+106007;Wang;Haitao;Institut für Mikrobiologie / Abteilung Bakterienphysiologie;Mathematisch-Naturwissenschaftliche Fakultät
+106020;Strenga;Gustavs;Historisches Institut / LS für Nordische Geschichte;Philosophische Fakultät
+106021;Schweitzer;Benjamin;Institut für Fennistik und Skandinavistik / LS für Fennistik;Philosophische Fakultät
+106024;Sudheer Kumar;Ritwick;Institut für Geographie und Geologie / AG Ökonomische Geologie/Geochemie;Mathematisch-Naturwissenschaftliche Fakultät
+106113;Moser;Frank-Michael;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+106586;Mousa;Mohammed;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+106981;Reuter;Uwe;Ärztliches Direktorat;Universitätsmedizin Greifswald
+107127;Robitzsch;Maximilian;Institut für Philosophie / LS für Philosophie mit dem Schwerpunkt Praktische Philosophie;Philosophische Fakultät
+107129;Baumann;Sophie;Institut für Community Medicine/ Abteilung für Methoden der Community Medicine;Universitätsmedizin Greifswald
+107137;Nonnenmacher;Lars;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+107259;Schaufler;Katharina;Institut für Pharmazie / AG Pharmazeutische Biologie;Mathematisch-Naturwissenschaftliche Fakultät
+107289;Brioli;Annamaria;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+107429;Otto-Rød;Sabine;Institut für Politik- und Kommunikationswissenschaft / LS für Internationale Beziehungen und Regionalstudien;Philosophische Fakultät
+107434;Staudt;Andreas;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+107438;Hartmann;Miriam;Institut für Physiologie;Universitätsmedizin Greifswald
+107450;Bergelt;Corinna;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+107497;Smiljanic;Marko;Institut für Botanik und Landschaftsökologie / AG Landschaftsökologie und Ökosystemdynamik;Mathematisch-Naturwissenschaftliche Fakultät
+107509;Sulzhytski;Ilya;Institut für Slawistik;Philosophische Fakultät
+107539;Shiferaw;Kirubel Biruk;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+107618;Anand;Disha;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+107740;Süss;Rebekka;Fachbereich Wirtschaftswissenschaften / LS für ABWL und Gesundheitsmanagement;Rechts- und Staatswissenschaftliche Fakultät
+108013;Schütt;Jacqueline;Zentrum für Innere Medizin / Klinik für Innere Medizin C;Universitätsmedizin Greifswald
+108439;Hansen;Mascha;Institut für Anglistik/Amerikanistik;Philosophische Fakultät
+108453;Troitzsch;Daniel;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+108487;Lewerentz;Lars;Institut für Physik / AG Computational Science;Mathematisch-Naturwissenschaftliche Fakultät
+108591;Gütebier;Lea Marie;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+108592;Freyer Martins Pereira;Julia;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+108596;Yasser;Mohd;Institut für Pathologie;Universitätsmedizin Greifswald
+108618;Reichert;Verena;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+108779;Michalke;Amelie;Institut für Geographie und Geologie / AG Nachhaltigkeitswissenschaft und Angewandte Geographie;Mathematisch-Naturwissenschaftliche Fakultät
+109231;Schlacke;Sabine;Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, insb. Verwaltungs- und Umweltrecht;Rechts- und Staatswissenschaftliche Fakultät
+109239;Westphal;Andrea;Institut für Erziehungswissenschaften;Philosophische Fakultät
+109240;Zeller;Jan;Institut für Slawistik / LS für Slawische Sprachwissenschaft;Philosophische Fakultät
+109266;Wang;Solveig Marie;Historisches Institut / LS für Nordische Geschichte;Philosophische Fakultät
+109271;Henzelmann;Martin;Institut für Slawistik;Philosophische Fakultät
+109274;Voigt;Anika;Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie;Mathematisch-Naturwissenschaftliche Fakultät
+109279;Thierjung;Eva-Maria;Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, insb. Verwaltungs- und Umweltrecht;Rechts- und Staatswissenschaftliche Fakultät
+109287;Wentzien;Helen;Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, insb. Verwaltungs- und Umweltrecht;Rechts- und Staatswissenschaftliche Fakultät
+109292;Kühn;Annemarie Luise;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+109295;Radke;Josefine;Institut für Pathologie;Universitätsmedizin Greifswald
+109310;Al Abdulla;Ruba;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+109315;Perner;Caroline;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+109394;Marino Coronado;Joany Valentina;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+109441;Gaugler;Tobias;Institut für Geographie und Geologie / AG Nachhaltigkeitswissenschaft und Angewandte Geographie;Mathematisch-Naturwissenschaftliche Fakultät
+109731;Boerkoel;Aletta;Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health;Universitätsmedizin Greifswald
+109732;von Dincklage;Falk Fokko;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+109740;Kasbohm;Elisa Anna;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+109745;Susemihl;Anne;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+109747;Bössel;Nicole;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+109762;Weber;Niklas;Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald;Universitätsmedizin Greifswald
+110018;Sierocinski;Elizabeth;Institut für Community Medicine / Abt. Allgemeinmedizin;Universitätsmedizin Greifswald
+111802;Steen;Alexander;Institut für Mathematik und Informatik / AG Junior-Professur Informatik;Mathematisch-Naturwissenschaftliche Fakultät
+111818;Qasem;Frederick;Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, insb. Verwaltungs- und Umweltrecht;Rechts- und Staatswissenschaftliche Fakultät
+111822;Lichtner;Gregor;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+111836;Drechsler;Chiara-Aimee;Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe;Universitätsmedizin Greifswald
+111851;Hoffmann;Richardt Karl;Klinik und Poliklinik für Urologie;Universitätsmedizin Greifswald
+112480;Köhler;Joachim;Institut für Erziehungswissenschaften;Philosophische Fakultät
+112500;Däbritz;Jan;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie;Universitätsmedizin Greifswald
+112509;Mazloum;Hala;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+112513;Möller;Sophie;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+112793;Hirschfeld;Claudia;Institut für Pharmakologie / Abt. Allgemeine Pharmakologie;Universitätsmedizin Greifswald
+113524;Tran;Quang Trung;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+115208;Hilkmann;Maximilian;Institut für Pharmazie / AG Pharmazeutische Biotechnologie;Mathematisch-Naturwissenschaftliche Fakultät
+115223;Plakhotnik;Olga;Institut für Slawistik;Philosophische Fakultät
+115233;Räthel;Clemens;Institut für Fennistik und Skandinavistik / LS für Neuere Skandinavische Literaturen;Philosophische Fakultät
+115243;Sosna;Anette;Institut für Deutsche Philologie / LS für Didaktik der Deutschen Sprache und Literatur;Philosophische Fakultät
+115245;Teune;Michelle;Institut für Biochemie / AG Biotechnologie & Enzymkatalyse;Mathematisch-Naturwissenschaftliche Fakultät
+115250;Meyer;Sabine;Institut für Fennistik und Skandinavistik / LS für Neuere Skandinavische Literaturen;Philosophische Fakultät
+115264;Stein;Lennart;Institut für Geographie und Geologie / AG Nachhaltigkeitswissenschaft und Angewandte Geographie;Mathematisch-Naturwissenschaftliche Fakultät
+115272;Kesselheim;Klaus Wolfgang;Institut für Deutsche Philologie / LS für Germanistische Sprachwissenschaft;Philosophische Fakultät
+115627;Roschka;Sybille;Core Unit - Datenintegrationszentrum;Universitätsmedizin Greifswald
+115642;Schellerer;Vera Simone Angela;Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinderchirurgie;Universitätsmedizin Greifswald
+115646;Perner;Florian;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+115655;Michaelis;Lea;Core Unit - Datenintegrationszentrum;Universitätsmedizin Greifswald
+115672;Kocher;Thomas;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+115675;Hok;Pavel;Klinik und Poliklinik für Neurologie;Universitätsmedizin Greifswald
+115677;Ihler;Friedrich Johannes;Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie;Universitätsmedizin Greifswald
+115707;Tsvetkov;Dmitry;Zentrum für Innere Medizin / Klinik und Poliklinik für Innere Medizin D - Geriatrie;Universitätsmedizin Greifswald
+115720;Giraldo Guzmán;Jader Alexander;Institut für Bioinformatik;Universitätsmedizin Greifswald
+115758;Lührs;Andreas Felix;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+115768;Freiesleben;Sherry;Core Unit - Datenintegrationszentrum;Universitätsmedizin Greifswald
+115772;Khole;Manasi Rajendra;"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";Universitätsmedizin Greifswald
+115780;Dunkel;Heiko;Institut für Bioinformatik;Universitätsmedizin Greifswald
+116043;Klier;Kristin;Klinik und Poliklinik für Psychiatrie und Psychotherapie;Universitätsmedizin Greifswald
+116044;Scholz;Carsten;Institut für Physiologie;Universitätsmedizin Greifswald
+116045;Töpfer;Philipp;Institut für Medizinische Psychologie;Universitätsmedizin Greifswald
+116203;Komleva;Yulia;Zentrum für Innere Medizin / Klinik und Poliklinik für Innere Medizin D - Geriatrie;Universitätsmedizin Greifswald
+116442;Friedrich;Monique;Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin;Universitätsmedizin Greifswald
+116630;Terrahe;Martina;Institut für Deutsche Philologie / LS für Ältere Deutsche Sprache und Literatur;Philosophische Fakultät
+116770;Menz;Jonas Theodor;Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie;Universitätsmedizin Greifswald
+116930;Wodke;Judith;Institut für Community Medicine / Abteilung Medizininformatik;Universitätsmedizin Greifswald
+116932;Wolff;Martina;Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin;Universitätsmedizin Greifswald
+117238;Schulze;Frank;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+117823;Steinberg;Olga;Institut für Erziehungswissenschaften;Philosophische Fakultät
+117911;Marx;Gerrit Henning;Institut für Kirchenmusik und Musikwissenschaften;Philosophische Fakultät
+117943;Hustig-Kittler;Veit;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+117961;Bartosik;Daniel;Institut für Pharmazie / AG Pharmazeutische Biotechnologie;Mathematisch-Naturwissenschaftliche Fakultät
+117996;Karimi;Farzaneh;Institut für Medizinische Biochemie und Molekularbiologie;Universitätsmedizin Greifswald
+118010;Naeem;Muhammad;Institut für Community Medicine / Abt. SHIP KEF;Universitätsmedizin Greifswald
+119737;Mellinger;Lara;Wissenschaftlicher Vorstand;Universitätsmedizin Greifswald
+119739;Glaubitz;Juliane;Zentrum für Innere Medizin / Klinik für Innere Medizin A;Universitätsmedizin Greifswald
+121156;Mankertz;Fiona;Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie;Universitätsmedizin Greifswald
+121167;Chamling;Bishwas;Zentrum für Innere Medizin / Klinik für Innere Medizin B;Universitätsmedizin Greifswald
+122203;Dhople;Vishnu Mukund;Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung;Universitätsmedizin Greifswald
+122206;Fischer;Maximilian;Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie;Universitätsmedizin Greifswald
+124165;Poschkamp;Broder;Klinik und Poliklinik für Augenheilkunde;Universitätsmedizin Greifswald

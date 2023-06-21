@@ -1,0 +1,305 @@
+"id";"fk_faculty";"name";"short_name"
+"2";"1";"Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin";"Unfall- und Wiederherstellungschirurgie"
+"3";"1";"Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie";"Allg. Chirurgie, Thorax und Gefäßchirurgie"
+"4";"1";"Zentrum für Innere Medizin / Klinik für Innere Medizin A";"Innere Medizin A"
+"5";"1";"Zentrum für Innere Medizin / Klinik für Innere Medizin A / Diabetes & Ernährung";"IMA Diabetes & Ernährung"
+"6";"1";"Zentrum für Innere Medizin / Klinik für Innere Medizin A / Notaufnahme";"IMA Notaufnahme"
+"7";"1";"Zentrum für Innere Medizin / Klinik für Innere Medizin B";"Innere Medizin B"
+"8";"1";"Zentrum für Innere Medizin / Klinik für Innere Medizin A / Abt. Rheumatologie";"Rheumatologie"
+"10";"1";"Zentrum für Innere Medizin / Klinik für Innere Medizin C";"Innere Medizin C"
+"11";"1";"KfH Dialyse";\0
+"12";"1";"Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe";"Frauenheilkunde und Geburtshilfe"
+"13";"1";"Brustzentrum";\0
+"14";"1";"Klinik und Poliklinik für Augenheilkunde";"Augenheilkunde"
+"15";"1";"Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie";"HNO, Kopf- und Halschirurgie"
+"16";"1";"Klinik und Poliklinik für Hautkrankheiten";"Hautkrankheiten"
+"18";"1";"Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie";"Allgemeine Pädiatrie"
+"20";"1";"Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Pädiatrische Onkologie und Hämatologie";"Pädiatrische Onkologie und Hämatologie"
+"21";"1";"Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Neonatologie und Pädiatrische Intensivmedizin";"Neonatologie und Pädiatrische Intensivmedizin"
+"22";"1";"Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie";"Orthopädie und Orthopädische Chirurgie"
+"23";"1";"Zentrum für Zahn-, Mund- und Kieferheilkunde";"ZZMK"
+"24";"1";"Zentrum für Zahn-, Mund- und Kieferheilkunde / Klinik und Poliklinik für Mund-Kiefer-Gesichtschirurgie/Plastische Operationen";"MKG-Chirurgie/Plastische Operationen"
+"25";"1";"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde";"Poliklinik für zahnärztliche Prothetik"
+"26";"1";"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie";"Kieferorthopädie"
+"27";"1";"Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde";"Zahnerhaltung"
+"28";"1";"Zentrum für Radiologie";"Zentrum für Radiologie"
+"29";"1";"Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie";\0
+"30";"1";"Zentrum für Radiologie / Klinik und Poliklinik für Strahlentherapie";\0
+"31";"1";"Zentrum für Radiologie / Klinik und Poliklinik für Nuklearmedizin";\0
+"32";"1";"Klinik und Poliklinik für Urologie";"Urologie"
+"33";"1";"Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin";"Anästhesie"
+"34";"1";"Klinik und Poliklinik für Neurologie";"Neurologie"
+"35";"1";"Klinik und Poliklinik für Psychiatrie und Psychotherapie";"Psychiatrie und Psychotherapie"
+"36";"1";"Klinik und Poliklinik für Neurochirurgie";"Neurochirurgie"
+"37";"1";"Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinderchirurgie";"Kinderchirurgie"
+"38";"1";"Institut für Hygiene und Umweltmedizin";"Hygiene und Umweltmedizin"
+"39";"1";"Institut für Bioinformatik";"Bioinformatik"
+"40";"1";"Institut für Anatomie und Zellbiologie";"Anatomie und Zellbiologie"
+"41";"1";"Institut für Rechtsmedizin";"Rechtsmedizin"
+"42";"1";"Institut für Pathologie";"Pathologie"
+"43";"1";"Institut für Physiologie";"Physiologie"
+"44";"1";"Institut für Medizinische Biochemie und Molekularbiologie";"Medizinische Biochemie und Molekularbiologie"
+"45";"1";"Institut für Pharmakologie";"Pharmakologie"
+"46";"1";"Institut für Pharmakologie / Abt. Allgemeine Pharmakologie";"Allgemeine Pharmakologie"
+"47";"1";"Institut für Pharmakologie / Abt. Klinische Pharmakologie";"Klinische Pharmakologie"
+"48";"1";"Friedrich Loeffler Institut für Medizinische Mikrobiologie";"Medizinische Mikrobiologie"
+"51";"1";"Institut für Immunologie und Transfusionsmedizin";\0
+"52";"1";"Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie";"Immunologie"
+"53";"1";"Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin";"Transfusionsmedizin"
+"54";"1";"Institut für Klinische Chemie und Laboratoriumsmedizin";"Klinische Chemie und Laboratoriumsmedizin"
+"55";"1";"Institut für Ethik und Geschichte der Medizin";"Ethik und Geschichte der Medizin"
+"56";"1";"Institut für Humangenetik";"Humangenetik"
+"57";"1";"Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin";"Sozialmedizin und Prävention"
+"58";"1";"Institut für Pathophysiologie";"Pathophysiologie"
+"59";"1";"Institut für Medizinische Psychologie";"Medizinische Psychologie"
+"61";"1";"Institut für Community Medicine";\0
+"62";"1";"Institut für Community Medicine/ Abteilung für Methoden der Community Medicine";"CM - Methoden der Community Medicine"
+"63";"1";"Institut für Community Medicine / Abt. Versorgungsepidemiologie und Community Health";"CM - Versorgungsepidemiologie und Community Health"
+"64";"1";"Institut für Community Medicine / Abt. SHIP KEF";"CM - SHIP KEF"
+"65";"1";"Institut für Community Medicine / Abt. Allgemeinmedizin";"CM - Allgemeinmedizin"
+"66";"1";"Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung";"Funktionelle Genomforschung"
+"67";"1";"Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock / Greifswald Teilstandort Greifswald";"DZNE/G"
+"68";"1";"Institut für Community-Medicine / SHIP Untersuchungszentrum";\0
+"72";"1";"Rheuma/Tumorzentrum";\0
+"81";"1";"Abt. für ambulante R";\0
+"82";"1";"Betriebsärztlicher Dienst";\0
+"84";"1";"Wissenschaftlicher Vorstand";\0
+"89";"1";"Verein zur Unterstützg krebskr. Kinder";\0
+"90";"1";"Ärztliches Direktorat";\0
+"94";"1";"Universitätsapotheke";\0
+"95";"1";"Lehrstuhl für Physiologie";\0
+"99";"1";"Physiotherapie Neu";\0
+"100";"1";"LZD Zentralarchiv";\0
+"105";"1";"LZD Zentrale Dienste";\0
+"117";"1";"Beschaffung/Verbrauch";\0
+"125";"1";"Weaning Ärzte B";\0
+"127";"1";"Pflegevorstand";\0
+"129";"1";"Zentrale Service- und Forschungseinrichtung für Versuchstiere";"ZSFV"
+"130";"1";"Institut für Bioinformatik / Abt. für Bioinformatik";\0
+"132";"1";"Zentrale Verwaltung";\0
+"133";"1";"ZV Dezernat Personalwesen";\0
+"134";"1";"ZV Dezernat Finanzen";\0
+"135";"1";"ZV Dezernat Einkauf ";\0
+"136";"1";"ZV Dezernat Technik";\0
+"137";"1";"Hochschule";\0
+"138";"1";"Abt. Fakultätscontrolling/DM-Management";\0
+"139";"1";"Kaufmännisches Direktorat";\0
+"141";"1";"Stabsstelle Controlling";\0
+"142";"1";"Abt. Medizinisches Leistungsmanagement";\0
+"143";"1";"Stabstelle Logistik und Zentrale Dienste";\0
+"150";"1";"BDH-Klinik";\0
+"151";"2";"Institut für Psychologie";\0
+"152";"2";"MathNat-Dekanat";\0
+"153";"2";"MathNat-Werkstätten";\0
+"154";"2";"Institut für Mathematik und Informatik";\0
+"155";"2";"Institut für Physik";\0
+"156";"2";"Institut für Biochemie";\0
+"157";"2";"Institut für Pharmazie";\0
+"158";"2";"Fachrichtung Biologie";\0
+"159";"2";"Institut für Mikrobiologie";\0
+"160";"2";"Zoologisches Institut und Museum";"ZIMG"
+"161";"2";"Institut für Botanik und Landschaftsökologie";\0
+"162";"2";"Institut für Geographie und Geologie";\0
+"163";"2";"Teilinstitut MPG";\0
+"164";"2";"Institut für Ostseeforschung";\0
+"165";"2";"Leibniz-Institut für Plasmaforschung und Technologie e.V. (INP)";\0
+"166";"3";"Phil-Dekanat";\0
+"167";"3";"Fremdsprachen- und Medienzentrum (FMZ)";\0
+"168";"3";"Institut für Philosophie";\0
+"169";"3";"Historisches Institut";\0
+"170";"3";"Fachbereich Altertumswissenschaft";\0
+"171";"3";"Institut für Deutsche Philologie";\0
+"172";"3";"Nordische Abteilung";\0
+"173";"3";"Institut für Anglistik/Amerikanistik";\0
+"174";"3";"Institut für Romanistik";\0
+"175";"3";"Institut für Slawistik";\0
+"176";"3";"Institut für Baltistik";\0
+"177";"3";"Institut für Erziehungswissenschaften";\0
+"178";"3";"Institut für Sportwissenschaften";\0
+"179";"3";"Institut für Politik- und Kommunikationswissenschaft";\0
+"180";"3";"Caspar-David-Friedrich Institut";\0
+"181";"3";"Institut für Kirchenmusik und Musikwissenschaften";\0
+"182";"4";"RSW-Dekanat";\0
+"183";"4";"Fachbereich Rechtswissenschaften";\0
+"184";"4";"Fachbereich Wirtschaftswissenschaften";\0
+"185";"5";"Theo-Dekanat";\0
+"189";"1";"Stabsstelle Revision & Compliance";\0
+"190";"6";"Interfakultäres Institut für Genetik und Funktionelle Genomforschung";\0
+"191";"2";"Institut für Psychologie / AG Entwicklungspsychologie und Pädagogische Psychologie";\0
+"192";"2";"Institut für Psychologie / AG Differentielle und Persönlichkeitspsychologie/Psychologische Diagnostik";\0
+"193";"2";"Institut für Psychologie / AG Physiologische und Klinische Psychologie/Psychotherapie";\0
+"194";"2";"Institut für Psychologie / AG Sozialpsychologie/Arbeits- und Organisationspsychologie";\0
+"195";"2";"Institut für Psychologie / AG Allgemeine Psychologie und Forschungsmethodik";\0
+"196";"2";"Institut für Psychologie / AG Allgemeine und Physiologische Psychologie";\0
+"197";"2";"Institut für Psychologie / AG Gesundheit und Prävention";\0
+"198";"2";"Institut für Psychologie / AG Kognitionspsychologie";\0
+"199";"2";"Institut für Mathematik und Informatik / AG Analysis";\0
+"200";"2";"Institut für Mathematik und Informatik / AG Algebra und funktionalanalytische Anwendungen";\0
+"201";"2";"Institut für Mathematik und Informatik / AG Biomathematik";\0
+"202";"2";"Institut für Mathematik und Informatik / AG Stochastik-Fraktale";\0
+"203";"2";"Institut für Mathematik und Informatik / AG Informatik";\0
+"204";"2";"Institut für Mathematik und Informatik / AG Bioinformatik";\0
+"205";"2";"Institut für Mathematik und Informatik / AG Mathematische Logik und Grundlagen der Mathematik";\0
+"206";"2";"Institut für Mathematik und Informatik / AG Numerische Mathematik, Optimale Steuerung, Optimierung";\0
+"207";"2";"Institut für Mathematik und Informatik / AG Angewandte Mathematik";\0
+"208";"2";"Institut für Mathematik und Informatik / AG Statistik";\0
+"209";"2";"Institut für Mathematik und Informatik / AG Junior-Professur Analysis";\0
+"210";"2";"Institut für Mathematik und Informatik / AG Junior-Professur Informatik";\0
+"211";"2";"Institut für Physik / AG Niedertemperaturplasmaphysik";\0
+"212";"2";"Institut für Physik / AG Kolloidale Plasmen";\0
+"213";"2";"Institut für Physik / AG Grenz- und Oberflächenphysik";\0
+"214";"2";"Institut für Physik / AG Atom- und Molekülphysik";\0
+"215";"2";"Institut für Physik / AG Kondensierte Materie";\0
+"216";"2";"Institut für Physik / AG Komplexe Quantensysteme";\0
+"217";"2";"Institut für Physik / AG Theorie Dichter Plasmen";\0
+"218";"2";"Institut für Physik / AG Weiche Materie und Biophysik";\0
+"219";"2";"Institut für Physik / AG Computational Science";\0
+"220";"2";"Institut für Physik / AG Junior-Professur Niedertemperaturplasmaphysik";\0
+"221";"2";"Institut für Physik / AG Umweltphysik";\0
+"222";"2";"Institut für Biochemie / AG Bioanorganische Chemie";\0
+"223";"2";"Institut für Biochemie / AG Synthetische und Strukturelle Biochemie";"Biochemie"
+"224";"2";"Institut für Biochemie / AG Bioorganische Chemie";\0
+"225";"2";"Institut für Biochemie / AG Biotechnologie & Enzymkatalyse";\0
+"226";"2";"Institut für Biochemie / AG Stoffwechselbiochemie / Metabolomics";\0
+"227";"2";"Institut für Biochemie / AG Analytische Biochemie";\0
+"228";"2";"Institut für Biochemie / AG Biophysikalische Chemie";\0
+"229";"2";"Institut für Biochemie / AG Analytische Chemie und Umweltchemie";\0
+"230";"2";"Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie";\0
+"231";"2";"Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie";\0
+"232";"2";"Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Weitschies";\0
+"233";"2";"Institut für Pharmazie / AG Biopharmazie und Pharmazeutische Technologie AK Klein";\0
+"234";"2";"Institut für Pharmazie / AG Pharmazeutische Biologie";\0
+"235";"2";"Institut für Pharmazie / AG Pharmazeutische Biotechnologie";\0
+"236";"2";"Institut für Pharmazie, AK Klinische Pharmazie (Leitung: Prof. Dr. Christoph Ritter)";\0
+"237";"2";"Institut für Mikrobiologie / Ehemalige Abteilung Mikrobenphysiologie & Molekularbiologie";\0
+"238";"2";"Institut für Mikrobiologie / Abteilung Bakterienphysiologie";\0
+"239";"2";"Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Genetik und Infektionsbiologie - Infektionsbiologie";"MGIB"
+"240";"2";"Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Genetik der Mikroorganismen - Genetik und Biotechnologie";\0
+"241";"2";"Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics";\0
+"242";"2";"Institut für Mikrobiologie / Abteilung Mikrobielle Ökologie";\0
+"243";"2";"Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie";\0
+"244";"2";"Imaging-Zentrum";\0
+"245";"2";"Zoologisches Institut und Museum / AG Allgemeine und Systematische Zoologie";\0
+"246";"2";"Zoologisches Institut und Museum / AG Physiologie und Biochemie der Tiere";\0
+"247";"2";"Zoologisches Institut und Museum / AG Tierökologie";\0
+"248";"2";"Zoologisches Institut und Museum / AG Angewandte Zoologie und Naturschutz";\0
+"249";"2";"Zoologisches Institut und Museum / AG Cytologie und Evolutionsbiologie";\0
+"250";"2";"Zoologisches Institut und Museum / Zoologisches Museum";\0
+"251";"2";"Institut für Botanik und Landschaftsökologie / Biologische Station Hiddensee";\0
+"252";"2";"Zoologisches Institut und Museum / Vogelwarte";\0
+"253";"2";"Institut für Botanik und Landschaftsökologie / AG Allgemeine und Spezielle Botanik";\0
+"254";"2";"Institut für Botanik und Landschaftsökologie / AG Landschaftsökologie und Ökosystemdynamik";\0
+"255";"2";"Institut für Botanik und Landschaftsökologie / AG Pflanzenphysiologie";\0
+"256";"2";"Institut für Botanik und Landschaftsökologie / AG Umweltethik";\0
+"257";"2";"Institut für Botanik und Landschaftsökologie / AG Vegetationsökologie";\0
+"258";"2";"Institut für Geographie und Geologie / AG Regionale und Strukturgeologie";\0
+"259";"2";"Institut für Geographie und Geologie / AG Angewandte Geologie/Hydrogeologie";\0
+"260";"2";"Institut für Geographie und Geologie / AG Paläontologie und Historische Geologie";\0
+"261";"2";"Institut für Geographie und Geologie / AG Quartärgeologie";\0
+"262";"2";"Institut für Geographie und Geologie / AG Ökonomische Geologie/Geochemie";\0
+"263";"2";"Institut für Geographie und Geologie / AG Nachhaltigkeitswissenschaft und Angewandte Geographie";\0
+"264";"2";"Institut für Geographie und Geologie / AG Physische Geographie";\0
+"265";"2";"Institut für Geographie und Geologie / AG Geoökologie und Bodengeographie";\0
+"266";"2";"Institut für Geographie und Geologie / AG Wirtschafts- und Sozialgeographie";\0
+"267";"2";"Institut für Geographie und Geologie / AG Regionale Geographie";\0
+"268";"2";"Institut für Geographie und Geologie / AG Kartographie und Geographische Informationssysteme (GIS)";\0
+"269";"2";"Teilinstitut MPG / AG Rand- und Divertorphysik";\0
+"270";"2";"Teilinstitut MPG / AG Stellarator-Dynamik und -Transport";\0
+"271";"2";"Teilinstitut MPG / AG Stellaratortheorie";\0
+"272";"2";"Teilinstitut MPG / AG Plasmadiagnostik ";\0
+"273";"2";"Institut für Ostseeforschung / AG Marine Geologie";\0
+"274";"2";"Institut für Ostseeforschung / AG Geochemie und Isotopengeochemie";\0
+"275";"3";"Institut für Philosophie / LS für Philosophie mit dem Schwerpunkt Praktische Philosophie";"LPPP"
+"276";"3";"Institut für Philosophie / LS für Philosophie mit dem Schwerpunkt Theoretische Philosophie";\0
+"277";"3";"Institut für Philosophie / LS für Philosophie mit den Schwerpunkten Ästhetik und Kulturphilosophie";\0
+"278";"3";"Historisches Institut / LS für Allgemeine Geschichte des Mittelalters und Historische Hilfswissenschaften";\0
+"279";"3";"Historisches Institut / LS für Allgemeine Geschichte der Neuzeit";\0
+"280";"3";"Historisches Institut / LS für Allgemeine Geschichte der Neuesten Zeit";\0
+"281";"3";"Historisches Institut / LS für Nordische Geschichte";"Nordische Geschichte"
+"282";"3";"Historisches Institut / LS für Ur- und Frühgeschichte";\0
+"283";"3";"Historisches Institut / LS für Osteuropäische Geschichte";\0
+"284";"3";"Historisches Institut / LS für Mittelalterliche Geschichte/Hansegeschichte";\0
+"285";"3";"Historisches Institut / LS für Fachdidaktik Historie";\0
+"286";"3";"Institut für Deutsche Philologie / LS für Ältere Deutsche Sprache und Literatur";\0
+"287";"3";"Institut für Deutsche Philologie / LS für Germanistische Sprachwissenschaft";\0
+"288";"3";"Institut für Deutsche Philologie / LS für Neuere deutsche Literatur und Literaturtheorie (Schumacher)";\0
+"289";"3";"Institut für Deutsche Philologie / LS für Didaktik der Deutschen Sprache und Literatur";\0
+"290";"3";"Institut für Deutsche Philologie / LS für Deutsch als Fremdsprache";\0
+"291";"3";"Institut für Deutsche Philologie / LS für Neuere deutsche Literatur und Literaturtheorie (Siebenpfeiffer)";\0
+"292";"3";"Institut für Fennistik und Skandinavistik / LS für Neuere Skandinavische Literaturen";\0
+"293";"3";"Institut für Fennistik und Skandinavistik / LS für Fennistik";"Fennistik"
+"294";"3";"Institut für Fennistik und Skandinavistik / LS für Skandinavistische Sprachwissenschaft";\0
+"295";"3";"Institut für Anglistik/Amerikanistik / LS für Englische Sprachwissenschaften";\0
+"296";"3";"Institut für Anglistik/Amerikanistik / LS für Anglophone Literaturwissenschaft";\0
+"299";"3";"Institut für Romanistik / LS für Französische Philologie";\0
+"300";"3";"Institut für Slawistik / LS für Slawische Sprachwissenschaft";\0
+"301";"3";"Institut für Slawistik / LS für Slawische Literaturwissenschaft";\0
+"302";"3";"Institut für Slawistik / LS für Ost- und Westslawische Philologie";\0
+"303";"3";"Institut für Baltistik / LS für Baltistik";\0
+"304";"3";"Institut für Erziehungswissenschaften / LS für Schulpädagogik";\0
+"305";"3";"Institut für Erziehungswissenschaften / LS für Allgemeine Erziehungswissenschaft";\0
+"306";"3";"Institut für Politik- und Kommunikationswissenschaft / LS für Vergleichende Regierungslehre";\0
+"307";"3";"Institut für Politik- und Kommunikationswissenschaft / LS für Internationale Beziehungen und Regionalstudien";\0
+"308";"3";"Institut für Politik- und Kommunikationswissenschaft / LS für Politische Theorie und Ideengeschichte";\0
+"309";"3";"Institut für Politik- und Kommunikationswissenschaft / LS für Kommunikationswissenschaft/Schwerpunkt Organisationskommunikation";\0
+"310";"3";"Institut für Politik- und Kommunikationswissenschaft / LS für Kommunikationswissenschaft";\0
+"311";"3";"Institut für Politik- und Kommunikationswissenschaft / Juniorprofessur für Politische Soziologie";\0
+"312";"3";"Caspar-David-Friedrich Institut / LS für Kunstgeschichte";\0
+"313";"3";"Caspar-David-Friedrich Institut / LS für Bildende Kunst/Theorie und Praxis";\0
+"314";"3";"Caspar-David-Friedrich Institut / LS für Kunstgeschichte";\0
+"315";"3";"Caspar-David-Friedrich Institut / LS für Bildende Kunst mit dem Schwerpunkt Angewandte Kunst";\0
+"316";"3";"Caspar-David-Friedrich Institut / LS für Bildende Kunst/Visuelle Medien und Didaktik";\0
+"317";"3";"Institut für Kirchenmusik und Musikwissenschaften / LS für Kirchenmusik";\0
+"318";"3";"Institut für Kirchenmusik und Musikwissenschaften / LS für Kirchenmusik/Orgel";\0
+"319";"3";"Institut für Kirchenmusik und Musikwissenschaften / LS für Musikwissenschaft";\0
+"320";"4";"Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht und Zivilprozessrecht";\0
+"321";"4";"Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht, Wirtschaftsrecht und Gesellschaftsrecht";\0
+"322";"4";"Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht, Internationales und Europäisches Privatrecht, Rechtsvergleichung und Rechtsharmonisierung im Ostseeraum";\0
+"323";"4";"Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht, Medizinrecht, Arbeitsrecht und Rechtsgeschichte";\0
+"324";"4";"Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht, Wirtschaftsrecht und Medienrecht";\0
+"325";"4";"Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, insb. Verwaltungs- und Umweltrecht";\0
+"326";"4";"Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, Europa- und Völkerrecht";\0
+"327";"4";"Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, Sozial- und Gesundheitsrecht";\0
+"328";"4";"Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, Europarecht und Rechtsvergleichung (Nordosteuropa)";\0
+"329";"4";"Fachbereich Rechtswissenschaften / LS für Öffentliches Recht, Verfassungsgeschichte, Rechts- und Staatsphilosophie";\0
+"330";"4";"Fachbereich Rechtswissenschaften / LS für Strafrecht und Strafverfahrensrecht";\0
+"331";"4";"Fachbereich Rechtswissenschaften / LS für Strafrecht, insbesondere Wirtschafts- und Steuerstrafrecht";\0
+"332";"4";"Fachbereich Rechtswissenschaften / LS für Kriminologie";\0
+"333";"4";"Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht und Arbeitsrecht";\0
+"334";"4";"Fachbereich Wirtschaftswissenschaften / LS für ABWL und Produktionswirtschaft";\0
+"335";"4";"Fachbereich Wirtschaftswissenschaften / LS für ABWL und Finanzwirtschaft, insbes. Unternehmensbewertung";\0
+"336";"4";"Fachbereich Wirtschaftswissenschaften / LS für ABWL, insbesondere Marketing";\0
+"337";"4";"Fachbereich Wirtschaftswissenschaften / LS für ABWL und Gesundheitsmanagement";\0
+"338";"4";"Fachbereich Wirtschaftswissenschaften / LS für ABWL sowie Organisation, Personalwirtschaft und Innovationsmanagement";\0
+"339";"4";"Fachbereich Wirtschaftswissenschaften / LS für ABWL sowie Unternehmensprüfung und -besteuerung";\0
+"340";"4";"Fachbereich Wirtschaftswissenschaften / LS für ABWL sowie Unternehmensgründung und -nachfolge";\0
+"341";"4";"Fachbereich Wirtschaftswissenschaften / LS für ABWL und Internationales Finanzmanagement/Internationale Kapitalmärkte";\0
+"342";"4";"Fachbereich Wirtschaftswissenschaften / LS für AVWL, insbesondere Geld und Währung";\0
+"343";"4";"Fachbereich Wirtschaftswissenschaften / LS für AVWL sowie Wachstum, Strukturwandel und Handel";\0
+"344";"4";"Fachbereich Wirtschaftswissenschaften / LS für AVWL und Finanzwissenschaft";\0
+"345";"4";"Fachbereich Wirtschaftswissenschaften / LS für AVWL und Landschaftsökonomie";\0
+"346";"5";"Theologie / LS für Altes Testament und Sprachlektorat";\0
+"347";"5";"Theologie / LS für Neues Testament";\0
+"348";"5";"Theologie / LS für Kirchengeschichte";\0
+"349";"5";"Theologische Fakultät / LS für Systematische Theologie";\0
+"350";"5";"Theologie / LS für Praktische Theologie";\0
+"351";"5";"Theologie / LS für Praktische Theologie / Religions- und Medienpädagogik";\0
+"352";"5";"Theologie / LS für Jüdische Literatur und Kultur";\0
+"353";"2";"Institut für Mathematik und Informatik / AG Berechenbarkeitstheorie über algebraischen Strukturen";\0
+"354";"1";"Deutsches Zentrum für Neurodegenerative Erkrankungen Teilstandort Rostock";"DZNE/R"
+"355";"2";"Institut für Botanik und Landschaftsökologie / AG Experimentelle Pflanzenökologie";\0
+"357";"2";"Institut für Botanik und Landschaftsökologie / AG Moorkunde und Paläoökologie";\0
+"358";"1";"Zentrum für Innere Medizin / Klinik für Innere Medizin B / Kardiologie";"IMB Kardiologie"
+"359";"1";"Zentrum für Innere Medizin / Klinik für Innere Medizin B / Pulmologie";"IMB Pulmologie"
+"360";"1";"Zentrum Unfallchirurgie/Orthopädie";"Unfallchirurgie/Orthopädie"
+"361";"2";"Institut für Biochemie / AG Proteinbiochemie";\0
+"362";"2";"Institut für Biochemie / AG Synthetische und Strukturelle Biochemie";\0
+"363";"2";"Institut für Biochemie / AG Nanostruktur";\0
+"364";"1";"Institut für Community Medicine / Abteilung Medizininformatik";"CM - MILA"
+"366";"1";"Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Humangenetik";"Molekulare Humangenetik"
+"367";"6";"Universitätsrechenzentrum (URZ)";\0
+"368";"1";"Zentrum für Innere Medizin / Klinik und Poliklinik für Innere Medizin D - Geriatrie";"Innere Medizin D"
+"369";"1";"Core Unit - Datenintegrationszentrum";"CU - DIZ"
+"370";"1";"Gleichstellungsbüro der Universitätsmedizin";\0
+"371";"1";"Zentrale Notaufnahme";"Zentrale Notaufnahme"
+"372";"1";"Institut für Pflegewissenschaft und Interprofessionelles Lernen";"Institut für PW und IL"
