@@ -2,7 +2,7 @@ import os
 
 import tiktoken
 import openai
-from openai.embeddings_utils import get_embedding
+from openai.embeddings_utils import get_embedding, cosine_similarity
 
 from tokenizer import get_token_from_string, get_string_from_tokens
 
@@ -56,6 +56,35 @@ def embedding_from_string(string: str,
     # string.
     string = get_string_from_tokens(tokens) 
     return get_embedding(string, engine=embedding_name)
+
+def compute_similarity_of_texts(text1: str, text2: str) -> float:
+    """This function computes two embeddings one for each text and then 
+    computes the cosine similarity of the two embeddings. If a text is too 
+    large because its string is encoded to more tokens than the maximum number 
+    of tokens for which an embedding is computed, the embedding for the string 
+    that is encoded to the first max_token tokens is computed where max_token 
+    is the maximum number of tokens for which an embedding is computed. The 
+    cosine similarity is returned.
+
+    Args:
+        text1 (str): the first string to compare
+        text2 (str): the second string to compare
+
+    Returns: 
+        float: The cosine similarity of the texts is returned as float. If the 
+            embedding for one of the texts cannot be computed, None is returned.    
+    """
+    texts = [text1, text2]
+    embeddings = []
+    # Compute embeddings for the texts.
+    for text in texts:
+        embeddings.append(embedding_from_string(text))
+        
+    # Test if embeddings could be computed.
+    for i in range(0,2):
+        if (embeddings[i] == [None]):
+            return None
+    return cosine_similarity(embeddings[0], embeddings[1])
    
 def main():
     """If this program is executed the embedding for
@@ -71,8 +100,8 @@ def main():
              "er ist ich."]
     for t in text:
         print(t,"\nFirst five values of embedding for text:")
-        embeddings = embedding_from_string(t)
-        print(embeddings[0:5])
+        embedding = embedding_from_string(t)
+        print(embedding[0:5])
     exit(0)
 
 if __name__ == "__main__":

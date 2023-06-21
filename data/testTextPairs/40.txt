@@ -1,0 +1,101 @@
+Michael Höhle,1683686;
+
+Epitweetr: Early warning of public health threats using Twitter data	https://www.webofscience.com/wos/woscc/full-record/WOS:000870702900005
+
+Comment "On the role of data, statistics and decisions in a pandemic" by Jahn et al	https://www.webofscience.com/wos/woscc/full-record/WOS:000812618300001
+
+Real-time monitoring of COVID-19 dynamics using automated trend fitting and anomaly detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000658592500005
+
+Analysis of the early COVID-19 epidemic curve in Germany by regression models with change points	https://www.webofscience.com/wos/woscc/full-record/WOS:000629562500001
+
+Nowcasting the COVID-19 pandemic in Bavaria	https://www.webofscience.com/wos/woscc/full-record/WOS:000594347400001
+
+Parallelized calculation of permutation tests	https://www.webofscience.com/wos/woscc/full-record/WOS:000661074700018
+
+Model selection and parameter estimation for dynamic epidemic models via iterated filtering: application to rotavirus in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000607778500003
+
+Prospective Detection of Outbreaks	https://www.webofscience.com/wos/woscc/full-record/WOS:000526939800021
+
+Evaluating quality of hospital care using time-to-event endpoints based on patient follow-up data	https://www.webofscience.com/wos/woscc/full-record/WOS:000494473300001
+
+Identifying the source of food-borne disease outbreaks: An application of Bayesian variable selection	https://www.webofscience.com/wos/woscc/full-record/WOS:000463234000010
+
+An unconditional space-time scan statistic for ZIP-distributed data	https://www.webofscience.com/wos/woscc/full-record/WOS:000458557100007
+
+Spatio-Temporal Analysis of Epidemic Phenomena Using the R Package surveillance	https://www.webofscience.com/wos/woscc/full-record/WOS:000401086600001
+
+A statistician's perspective on digital epidemiology	https://www.webofscience.com/wos/woscc/full-record/WOS:000468817600017
+
+Are People Living Near Modern Swine Production Facilities at Increased Risk of Influenza Virus Infection?	https://www.webofscience.com/wos/woscc/full-record/WOS:000392716100004
+
+Monitoring Count Time Series in R: Aberration Detection in Public Health Surveillance	https://www.webofscience.com/wos/woscc/full-record/WOS:000384912500001
+
+A system for automated outbreak detection of communicable diseases in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000373268600007
+
+Infectious Disease Modelling	https://www.webofscience.com/wos/woscc/full-record/WOS:000414705200027
+
+Bayesian outbreak detection in the presence of reporting delays	https://www.webofscience.com/wos/woscc/full-record/WOS:000363419700008
+
+Bayesian Nowcasting during the STEC O104:H4 Outbreak in Germany, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000346827500023
+
+Modelling the epidemiological impact of rotavirus vaccination in Germany - A Bayesian approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000342269800016
+
+OutbreakTools: A new platform for disease outbreak analysis using the R software	https://www.webofscience.com/wos/woscc/full-record/WOS:000338704900005
+
+Bayesian parameter inference for dynamic infectious disease modelling: rotavirus in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000333744000010
+
+Estimating the under-reporting of norovirus illness in Germany utilizing enhanced awareness of diarrhoea during a large outbreak of Shiga toxin-producing E. coli O104: H4 in 2011-a time series analysis	https://www.webofscience.com/wos/woscc/full-record/WOS:000332630600002
+
+Large multistate outbreak of norovirus gastroenteritis associated with frozen strawberries, Germany, 2012	https://www.webofscience.com/wos/woscc/full-record/WOS:000332376900003
+
+Shiga Toxin-Producing Escherichia coli O157 Is More Likely to Lead to Hospitalization and Death than Non-O157 Serogroups - Except O104	https://www.webofscience.com/wos/woscc/full-record/WOS:000327143800006
+
+Associations of Age and Sex With the Clinical Outcome and Incubation Period of Shiga toxin-producing Escherichia coli O104:H4 Infections, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000325150600021
+
+Bayesian outbreak detection algorithm for monitoring reported cases of campylobacteriosis in Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000325887000004
+
+Clinical aspects and self-reported symptoms of sequelae of Yersinia enterocolitica infections in a population-based study, Germany 2009-2010	https://www.webofscience.com/wos/woscc/full-record/WOS:000319747100001
+
+RE: "THE 'CASE-CHAOS STUDY' AS AN ADJUNCT OR ALTERNATIVE TO CONVENTIONAL CASE-CONTROL STUDY METHODOLOGY"	https://www.webofscience.com/wos/woscc/full-record/WOS:000318576300022
+
+Boosting Structured Additive Quantile Regression for Longitudinal Childhood Obesity Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000329433300001
+
+Duration of Fecal Shedding of Shiga Toxin-Producing Escherichia coli O104:H4 in Patients Infected During the 2011 Outbreak in Germany: A Multicenter Study	https://www.webofscience.com/wos/woscc/full-record/WOS:000316700100015
+
+More reasons to dread rain on vacation? Dengue fever in 42 German and United Kingdom Madeira tourists during autumn 2012	https://www.webofscience.com/wos/woscc/full-record/WOS:000317095400003
+
+Carrier Prevalence, Secondary Household Transmission, and Long-Term Shedding in 2 Districts During the Escherichia coli O104:H4 Outbreak in Germany, 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000313216300010
+
+Determining high-risk zones for unexploded World War II bombs by using point process methodology	https://www.webofscience.com/wos/woscc/full-record/WOS:000315332600003
+
+Hepatitis E Virus Seroprevalence among Adults, Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000328172500018
+
+Risk factors for sporadic Yersinia enterocolitica infections, Germany 2009-2010	https://www.webofscience.com/wos/woscc/full-record/WOS:000308845100002
+
+Ecological analysis of social risk factors for Rotavirus infections in Berlin, Germany, 2007-2009	https://www.webofscience.com/wos/woscc/full-record/WOS:000312994500001
+
+A Space-Time Conditional Intensity Model for Invasive Meningococcal Disease Occurrence	https://www.webofscience.com/wos/woscc/full-record/WOS:000305691900030
+
+German Outbreak of Escherichia coli O104:H4 Associated with Sprouts	https://www.webofscience.com/wos/woscc/full-record/WOS:000296762800005
+
+Assessment of varicella vaccine effectiveness in Germany: a time-series approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000296428300009
+
+Prevalence of Antibodies to 2009 Pandemic Influenza A (H1N1) Virus in German Adult Population in Pre- and Post-Pandemic Period	https://www.webofscience.com/wos/woscc/full-record/WOS:000291983800043
+
+Update on the ongoing outbreak of haemolytic uraemic syndrome due to Shiga toxin-producing Escherichia coli (STEC) serotype O104, Germany, May 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000291430300001
+
+Large and ongoing outbreak of haemolytic uraemic syndrome, Germany, May 2011	https://www.webofscience.com/wos/woscc/full-record/WOS:000291055700001
+
+Online Change-Point Detection in Categorical Time Series	https://www.webofscience.com/wos/woscc/full-record/WOS:000275129600020
+
+Additive-Multiplicative Regression Models for Spatio-Temporal Epidemics	https://www.webofscience.com/wos/woscc/full-record/WOS:000273507600006
+
+Statistical approaches to the monitoring and surveillance of infectious diseases for veterinary public health	https://www.webofscience.com/wos/woscc/full-record/WOS:000269033900002
+
+Accuracy assessment of digital elevation models by means of robust statistical methods	https://www.webofscience.com/wos/woscc/full-record/WOS:000268650200007
+
+Prevalence of spotted fever group rickettsiae in Ixodes ricinus (Acari : Ixodidae) in southern Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000259099000018
+
+Anaplasma phagocytophilum infection in Ixodes ricinus, Bavaria, Germany	https://www.webofscience.com/wos/woscc/full-record/WOS:000256465100022
+
+Modelling the spread in space and time of an airborne plant disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000255663200001
