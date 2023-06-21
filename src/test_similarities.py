@@ -68,7 +68,6 @@ def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
                 # Test if the cosine similarity or rather the embeddings of the 
                 # texts could be computed.
                 if (similarity_1 is None or similarity_2 is None):
-                    print("is None")
                     file_out.write("The embedding for one of the files in " \
                         "line" + str(i + 1) + " in " + filename_in + " could " \
                         "not be computed. Maybe the openai api key is not " \
