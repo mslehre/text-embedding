@@ -11,10 +11,7 @@ app = Flask(__name__)
 def home():
     return '''<form>
     <label for="fname">Enter first file text: </label><br>
-  <textarea name="file1" id="file1text" rows="10" cols="30"></textarea>
-  </form>
-  
-  <form>
+  <textarea name="file1" id="file1text" rows="10" cols="30"></textarea><br>
   <label for="lname">Enter second file text:</label><br>
   <textarea name="file1" id="file2text" rows="10" cols="30"></textarea>
   </form>
