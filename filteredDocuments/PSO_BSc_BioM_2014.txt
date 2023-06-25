@@ -1,22 +1,33 @@
        
 
 
+                          
+                      Biomathematik
+                   an
 
+                                      7. April 2014
 
 Fundstelle: Hochschulöffentlich bekannt gemacht am 31.03.2015
 
 Änderungen:
   - § 6 Abs. 1, Musterstudienplan und Modulkatalog geändert durch Artikel 1 der 1. Än-
+     derungssatzung 18. November 2015 (hochschulöffentlich bekannt gemacht am
      24. November 2015)
    -   § 7 Abs. 8 aufgehoben durch Artikel 8 der Satzung zur Angleichung wesentlicher
+       Regelungen an die Neufassung der 2021 21. Juli
        2021 (hochschulöffentlich bekannt gemacht am 21.07.2021)
 
 Hinweise:
+   - Die 1. Änderungssatzung 18.11.2015 ist am 25.11.2015 in Kraft getreten. Sie
+     gilt für alle Studierenden, die nach der
      2014 studieren, und das Modul „Allgemeine Biologie“ noch nicht absolviert haben.
    -   Die Satzung zur Angleichung wesentlicher Regelungen an die Neufassung der
+       2021 21. Juli 2021 tritt am 01. Oktober 2021 in Kraft.
 
 Aufgrund von § 2 Absatz 1 in Verbindung mit § 38 Absatz 1 und § 39 Absatz 1 des Geset-
 zes über die Hochschulen des Landes Mecklenburg-Vorpommern (Landeshochschulge-
+setz – LHG M-V) in der Fassung der Bekanntmachung 25. Januar 2011 (GVOBl. M-V
+S. 18), zuletzt geändert durch Artikel 6 des Gesetzes 22. Juni 2012 (GVOBl. M-V
 S. 208, 211), erlässt die Ernst-Moritz-Arndt-Universität Greifswald für den Bachelor-
 studiengang Biomathematik (B. Sc. Biomathematik) die folgende Prüfungs- und Studien-
 ordnung als Satzung:
@@ -49,7 +60,9 @@ Anlage C: Diploma Supplement (deutsche und englische Version)
                                                     Geltungsbereich
 
 Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das Prüfungsverfah-
+ren im Bachelorstudiengang Biomathematik.
 Im Übrigen gilt für alle weiteren Studien- und Prüfungsangelegenheiten die Rahmenprü-
+fungsordnung (RPO) 31. Januar 2012
 (Mittl.bl. BM M-V 2012 S. 394) in der jeweils geltenden Fassung unmittelbar.
 
 
@@ -242,6 +255,7 @@ bestanden werden. Nicht bestandene Prüfungsleistungen lassen bestandene Prüfun
 leistungen unberührt.
 
 (4) Soweit eine Wahl zwischen zwei Prüfungsleistungen (mündliche Prüfung oder Klausur)
+besteht, wird sie Prüfer in der ersten Vorlesungswoche getroffen. Erfolgt die Festle-
 gung nicht oder nicht innerhalb der Frist, gilt die in § 6 zuerst genannte Prüfungsform.
 
 (5) Vor mündlichen Prüfungen ist dem Studierenden die Gelegenheit zur Konsultation ein-
@@ -347,6 +361,7 @@ Science (abgekürzt: B. Sc.) vergeben.
                                             § 13
                            Inkrafttreten, Übergangsregelungen
 
+(1) Die
 kanntmachung in Kraft.
 
 (2) Die Prüfungsordnung gilt erstmals für die Studierenden, die zum Wintersemester
@@ -357,10 +372,15 @@ Kandidat dieses beantragt. Der Antrag ist schriftlich und bis zum 30.09.2015 bei
 len Prüfungsamt einzureichen und an den Vorsitzenden des Prüfungsausschusses zu rich-
 ten. Der Antrag ist unwiderruflich.
 
+(4) Die Prüfungsordnung 18.03.2009 (Mittl.bl. BM M-V 2009 S. 579) und die Studien-
+ordnung 18.03.2009 (hochschulöffentlich bekannt gemacht am17.04.2009) treten
 zum 30.09.2018 außer Kraft.
 
 
+Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats 7. März
+2014, der mit Beschluss des Senats 18. April 2012 gemäß §§ 81 Absatz 7 LHG und
 20 Absatz 1 Satz 2 der Grundordnung die Befugnis zur Beschlussfassung verliehen wur-
+de, und der Genehmigung der Rektorin 7. April 2014.
 
 
 
@@ -373,6 +393,7 @@ Greifswald, den 7. April 2014
 
 
                                       Die Rektorin
+                     
                    Universitätsprofessorin Dr. Johanna Eleonore Weber
 
 

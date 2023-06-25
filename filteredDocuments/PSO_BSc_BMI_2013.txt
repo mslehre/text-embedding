@@ -1,24 +1,33 @@
               
 
 
+                        
+               Mathematik mit Informatik
+                 an
 
+                                 8. November 2013
 
 
 Fundstelle: Hochschulöffentlich bekannt gemacht am 15.11.2013
 
 Änderungen:
   - § 8 Abs. 8 aufgehoben durch Artikel 13 der Satzung zur Angleichung
+     wesentlicher Regelungen an die Neufassung der 2021
+     21. Juli 2021 (hochschulöffentlich bekannt gemacht am 21.07.2021)
 
 Hinweise:
    - Die Satzung zur Angleichung wesentlicher Regelungen an die Neufassung der
+     2021 21. Juli 2021 tritt am 01. Oktober 2021 in
      Kraft.
 
 
 Aufgrund von § 2 Absatz 1 in Verbindung mit § 38 Absatz 1 und § 39 Absatz 1 des
 Gesetzes über die Hochschulen des Landes Mecklenburg-Vorpommern
+(Landeshochschulgesetz – LHG M-V) in der Fassung der Bekanntmachung
 25. Januar 2011 (GVOBl. M-V S. 18), zuletzt geändert durch Artikel 6 des Gesetzes
 vom 22. Juni 2012 (GVOBl. M-V S. 208, 211), erlässt die Ernst-Moritz-Arndt-Universität
 Greifswald für den Bachelorstudiengang Mathematik mit Informatik (B. Sc. Mathematik
+mit Informatik) die folgende
 
 
 Inhaltsverzeichnis
@@ -54,6 +63,8 @@ Anlage C:    Diploma Supplement (deutsche und englische Version)
 Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das
 Prüfungsverfahren im Bachelorstudiengang Mathematik mit Informatik der Ernst-Moritz-
 Arndt-Universität Greifswald. Im Übrigen gilt für alle weiteren Studien- und
+Prüfungsangelegenheiten die der Ernst-Moritz-Arndt-
+Universität Greifswald (RPO) 31.Januar 2012 (Mittl.bl. BM M-V 2012 S. 394) in der
 jeweils geltenden Fassung unmittelbar.
 
 
@@ -284,6 +295,7 @@ Multivariate Statistik       1            270       9           1 mP/Kl
 Numerik II                   1            270       9           1 Üs *
                                                                 1 mP/Kl
 
+Typ 3 besteht aus einer Veranstaltung Typ 1 zusammen mit einem Seminar:
 
 Modul                        Dauer        AB        LP          PL (Art und
                              (Semester)                         Umfang)
@@ -296,6 +308,7 @@ Modul                        Dauer        AB        LP          PL (Art und
                              (Semester)                         Umfang)
 Vertiefungsmodul             2            180       6           2 Sems *
 
+Es muss mindestens ein Modul Typ 3 oder Typ 4 gewählt werden. Typ 4 darf
 nur einmal belegt werden.
 
 Typ 5: Spezialvorlesungen
@@ -331,6 +344,7 @@ werden. Nicht bestandene Prüfungsleistungen lassen bestandene Prüfungsleistung
 unberührt.
 
 (4) Soweit eine Wahl zwischen zwei Prüfungsleistungen (mündliche Prüfung oder
+Klausur) besteht, wird sie Prüfer in der ersten Vorlesungswoche getroffen. Erfolgt
 die Festlegung nicht oder nicht innerhalb der Frist, gilt die in § 7 zuerst genannte
 Prüfungsform.
 
@@ -394,6 +408,7 @@ Bachelorarbeit wird dabei mit dem zweifachen relativen Anteil gewichtet.
       Numerik Grundpraktikum
       Datenstrukturen und effiziente Algorithmen
       Bachelorarbeit
+      und der Wahlmodule Typ 1, 2, 3 und 5
 gehen in die Gesamtnote ein.
 
 
@@ -407,6 +422,7 @@ of Science (abgekürzt: B. Sc.) vergeben.
                                       § 12
               Inkrafttreten, Übergangsregelungen, Außerkrafttreten
 
+(1) Die
 Bekanntmachung in Kraft.
 
 (2) Die Prüfungsordnung gilt erstmals für die Studierenden, die zum Wintersemester
@@ -417,6 +433,7 @@ der Kandidat dieses beantragt. Der Antrag ist schriftlich und bis zum 30.09.2014
 Zentralen    Prüfungsamt    einzureichen     und      an    den    Vorsitzenden   des
 Prüfungsausschusses zu richten. Der Antrag ist unwiderruflich.
 
+(4) Die Prüfungsordnung 24. Januar 2012 tritt zum 31.03.2017 außer Kraft.
 
 
 
@@ -426,7 +443,10 @@ Prüfungsausschusses zu richten. Der Antrag ist unwiderruflich.
 
 
 Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats der Ernst-
+Moritz-Arndt-Universität Greifswald 8. Oktober 2013 der mit Beschluss des Senats
 vom 18. April 2012 gemäß §§ 81 Absatz 7 LHG M-V und 20 Absatz 1 Satz 2 der
+Grundordnung die Befugnis zur
+Beschlussfassung verliehen wurde, und der Genehmigung der Rektorin
 8. November 2013.
 
 Greifswald, den 8. November 2013
@@ -434,6 +454,7 @@ Greifswald, den 8. November 2013
 
 
                                     Die Rektorin
+                   
                  Universitätsprofessorin Dr. Johanna Eleonore Weber
 
 

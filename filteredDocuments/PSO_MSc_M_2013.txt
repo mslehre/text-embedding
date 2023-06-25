@@ -1,22 +1,31 @@
            
 
 
+                           
+                         des Masterstudiengangs Mathematik
+                    an
 
+                                    8. November 2013
 
 Fundstelle: Hochschulöffentlich bekannt gemacht am 18.11.2013
 
 Änderungen:
+  - Einfügen eines neuen § 2 durch Artikel 1 der 1. Änderungssatzung
      24.06.2014 (hochschulöffentlich bekannt gemacht am 25.06.2014)
    -   § 9 Abs. 8 aufgehoben durch Artikel 20 der Satzung zur Angleichung wesentli-
+       cher Regelungen an die Neufassung der 2021
        21. Juli 2021 (hochschulöffentlich bekannt gemacht am 21.07.2021)
 
 Hinweis:
+   - Die 1. Änderungssatzung 24.06.2014 ist am 26.06.2014 in Kraft getreten.
    -   Die Satzung zur Angleichung wesentlicher Regelungen an die Neufassung der
+       2021 21. Juli 2021 tritt am 01. Oktober 2021 in
        Kraft.
 
 
 Aufgrund von § 2 Absatz 1 in Verbindung mit § 38 Absatz 1 und § 39 Absatz 1 des
 Gesetzes über die Hochschulen des Landes Mecklenburg-Vorpommern
+(Landeshochschulgesetz – LHG M-V) in der Fassung der Bekanntmachung
 25. Januar 2011 (GVOBl. M-V S. 18), zuletzt geändert durch Artikel 6 des Gesetzes
 vom 22. Juni 2012 (GVOBl. M-V S. 208, 211), erlässt die Ernst-Moritz-Arndt-Universität
 Greifswald für den Masterstudiengang Mathematik die folgende Prüfungs- und
@@ -53,6 +62,7 @@ Anlage C:      Diploma Supplement (deutsche und englische Version)
 Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das
 Prüfungsverfahren im Masterstudiengang Mathematik der Ernst-Moritz-Arndt-Universität
 Greifswald. Im Übrigen gilt für alle weiteren Studien- und Prüfungsangelegenheiten die
+Rahmenprüfungsordnung (RPO)
 31.Januar 2012 (Mittl.bl. BM M-V 2012 S. 394) in der jeweils geltenden Fassung
 unmittelbar.
 
@@ -378,6 +388,7 @@ werden. Nicht bestandene Prüfungsleistungen lassen bestandene Prüfungsleistung
 unberührt.
 
 (4) Soweit eine Wahl zwischen zwei Prüfungsleistungen (mündliche Prüfung oder
+Klausur) besteht, wird sie Prüfer in der ersten Vorlesungswoche getroffen. Erfolgt
 die Festlegung nicht oder nicht innerhalb der Frist, gilt die in § 8 zuerst genannte
 Prüfungsform.
 
@@ -446,6 +457,7 @@ Science (abgekürzt: „M. Sc.”) vergeben.
                                          § 12
                  Inkrafttreten, Übergangsregelungen, Außerkrafttreten
 
+(1) Die
 Bekanntmachung in Kraft.
 
 (2) Die Prüfungsordnung gilt erstmals für die Studierenden, die zum Wintersemester
@@ -456,16 +468,21 @@ der Kandidat dieses beantragt. Der Antrag ist schriftlich und bis zum 31.03.2014
 Zentralen    Prüfungsamt    einzureichen     und      an    den    Vorsitzenden   des
 Prüfungsausschusses zu richten. Der Antrag ist unwiderruflich.
 
+(4) Die Prüfungsordnung 8. März 2012 tritt zum 30.09.2016 außer Kraft.
 
 
 Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats der Ernst-
+Moritz-Arndt-Universität Greifswald 8. Oktober 2013 der mit Beschluss des Senats
 vom 18. April 2012 gemäß §§ 81 Absatz 7 LHG M-V und 20 Absatz 1 Satz 2 der
+Grundordnung die Befugnis zur
+Beschlussfassung verliehen wurde, und der Genehmigung der Rektorin
 8. November 2013.
 
 Greifswald, den 8. November 2013
 
 
                                     Die Rektorin
+                   
                  Universitätsprofessorin Dr. Johanna Eleonore Weber
 
 Veröffentlichungsvermerk: Hochschulöffentlich bekannt gemacht am 18.11.2013
@@ -2022,6 +2039,7 @@ Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
 Dauer/Zyklus         1 Sem., D: zweijährlich im SoSe ungerade Jahre
 Qualifikationsziele
    • fundierte Beherrschung der mathematischen Grundlagen der Statistik,
+   • solide Kenntnisse der zentralen Ergebnisseen Statistik,
    • Fähigkeit zur fundierten Beurteilung statistischer Verfahren,
    • Befähigung zur Weiterentwicklung statistischer Methoden in Hinblick auf neuarti-
      ge Problemstellungen,

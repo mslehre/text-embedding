@@ -1,10 +1,17 @@
                                
 
 
+                             
+               -Naturwissenschaftlichen Fakultät
+                          
 
+                                   16.06.2022
 
 
 Aufgrund von § 2 Abs. 1 in Verbindung mit § 43 Abs. 3 des Gesetzes über die Hochschulen
+des Landes Mecklenburg-Vorpommern (Landeshochschulgesetz – LHG M-V) 25.
+Januar 2011 (GVOBl. M – V S. 18) zuletzt geändert durch das Gesetz 21. Juni 2021
+(GVOBl. M-V S. 1018) erlässt die Universität Greifswald die folgende
 der Mathematisch-Naturwissenschaftlichen Fakultät als Satzung:
 
 Inhaltsverzeichnis:
@@ -17,6 +24,7 @@ Inhaltsverzeichnis:
 § 4b Monografie
 § 5 Einreichung der Dissertation
 § 6 Entscheidung über die Eröffnung des Promotionsverfahrens
+§ 7 Rücktritt Verfahren
 § 8 Promotionskommission, Gutachter*innen
 § 9 Beurteilung der Dissertation
 § 10 Ablehnung der Dissertation
@@ -40,6 +48,7 @@ Inhaltsverzeichnis:
                                        §1
                      Akademischer Grad und Prüfungsleistungen
 
+(1) Die Mathematisch-Naturwissenschaftliche Fakultät
 (Fakultät) verleiht den Akademischen Grad „Dr. rer. nat.“ (Doctor rerum naturalium).
 
 (2) Die Promotion setzt eine von dem*der Dekan*in angenommene, mit mindestens der
@@ -72,6 +81,7 @@ Absatzes 1 entscheidet der Fakultätsrat. Die Befreiung kann von der Erfüllung 
 Auflagen abhängig gemacht werden.
 
 (3) Doktorand*innen sind nach § 44 Abs. 1 LHG M-V verpflichtet, sich als
+Promotionsstudierende an einzuschreiben.
 
 
                                          §3
@@ -80,8 +90,10 @@ Auflagen abhängig gemacht werden.
 (1) Ein*e Doktorand*in wird in der Regel von einem Komitee aus mindestens zwei und
 höchstens vier Mitgliedern betreut, davon mindestens ein*e Professor*in bzw.
 Habilitierte*r. Betreuungsberechtigt sind Universitätsprofessor*innen, FH-Professor*innen,
+Juniorprofessor*innen, Habilitierte und Fakultätsrat zugelassene Promovierte; sie
 müssen nicht alle der MNF angehören.
   a. Das Betreuungskomitee wird von einem Mitglied der MNF geleitet (Erstbetreuer*in).
+  b. Hinreichend qualifizierte Promovierte können auf Antrag Fakultätsrat auch als
      Mitglied in dem Betreuungskomitee mit mindestens einem weiteren Mitglied
      zugelassen werden.
 
@@ -98,6 +110,7 @@ Das Betreuungskomitee wird von dem*der Dekan*in eingesetzt.
 schriftlich die Namen der Betreuer*innen und das voraussichtliche Thema der Dissertation,
 unterschriftlich bestätigt von den Betreuer*innen, mit.
 
+(3) Tritt der*die Doktorand*in Promotionsvorhaben zurück, informiert er*sie den*die
 Dekan*in. Ab dem neunten Fachsemester muss der*die Doktorand*in semesterweise eine
 Bescheinigung       des*der    Erstbetreuers*Erstbetreuerin   vorlegen,    dass    das
 Betreuungsverhältnis weiter besteht. Anderenfalls endet das Promotionsvorhaben.
@@ -283,7 +296,9 @@ entsprechend.
 
 
                                          §7
+                              Rücktritt Verfahren
 
+Der*Die Doktorand*in kann Promotionsverfahren durch schriftliche Erklärung
 gegenüber dem*der Dekan*in zurücktreten, solange ein ablehnendes Gutachten über die
 Dissertation nicht vorliegt und eine Täuschung über das Vorliegen von Voraussetzungen
 für die Eröffnung des Promotionsverfahrens nicht entdeckt ist. Mit zulässiger Ausübung
@@ -463,6 +478,8 @@ bedürfen der Genehmigung des*der Vorsitzenden der Promotionskommission, der*die
 zudem in jedem Fall die endgültige Fassung der Dissertation zu genehmigen hat.
 
 (2) Die finale Dissertation ist auf dem Titelblatt als „Inauguraldissertation zur Erlangung
+des akademischen Grades Dr. rer. nat.-Naturwissenschaftlichen
+Fakultät“ zu bezeichnen. Name, sowie Ort und Datum der
 Einreichung der Dissertation sind zusammen mit der Titelzeile entsprechend Satz 1, auf
 dem Titelblatt anzuordnen. Auf der Rückseite des Titelblattes sind die Namen des*der
                                                                                           9
@@ -479,7 +496,9 @@ besonderen Fällen kann der*die Dekan*in die Frist angemessen verlängern.
 Dissertation bezeichnen, wenn
    a. sie identisch mit den Pflichtexemplaren ist und der*die Doktorand*in dies schriftlich
       versichert,
+   b. die Universitätsbibliothek auch über diese elektronische
       Version verfügt und
+   c. er*sie, der Deutschen Nationalbibliothek und
       gegebenenfalls der DFG-Sondersammelgebietsbibliothek schriftlich das Recht, die
       elektronische Version in Datennetzen zu veröffentlichen, überträgt.
 
@@ -559,12 +578,14 @@ hervorzuheben sind.
          Gemeinsame Promotion mit einer ausländischen Universität oder
             wissenschaftlichen Hochschule (binationale Promotion)
 
+(1) Die Mathematisch-Naturwissenschaftliche Fakultät kann
 zusammen mit einer Universität oder wissenschaftlichen Hochschule des Auslands (im
 Folgenden Partnerinstitution genannt) in einem gemeinsam durchgeführten
 Promotionsverfahren den akademischen Grad „Doctor rerum naturalium“ (Dr. rer. nat.)
 verleihen.
 
 (2) Der*die Bewerber*in für eine binationale Promotion mit einer im Ausland gelegenen
+Universität muss sowohl die Anmeldevoraussetzungen an als
 auch die Anmeldevoraussetzungen der ausländischen Partnerinstitution erfüllen.
 
 (3) Ein gemeinsames Promotionsverfahren mit einer ausländischen Partnerinstitution
@@ -574,10 +595,13 @@ diesem Vertrag wird zum Zweck eines gemeinsamen Verfahrens zwischen der Universi
                                                                                          11
                                  
 Greifswald und der ausländischen Partnerinstitution eine Vereinbarung getroffen. Dieser
+Vertrag bedarf der vorherigen Zustimmung des*der Dekans*Dekanin-
 Naturwissenschaftlichen Fakultät und des Fakultätsrates. Er regelt ein gemeinsam von
+den zuständigen Organen der ausländischen Partnerinstitution und-
 Naturwissenschaftlichen     Fakultät   der      Universität    Greifswald     geleitetes
 Promotionsverfahren.
 
+(4) Der Vertrag kann Ausnahmen zu folgenden Vorschriften dieser
 vorsehen, soweit dies erforderlich ist, um Regelungen oder Traditionen der
 Partnerinstitution Rechnung tragen zu können:
    - Sprache der Dissertation,
@@ -590,6 +614,8 @@ Partnerinstitution Rechnung tragen zu können:
    - Ausfertigung der Urkunden,
    - vollständiger oder teilweiser Entzug des akademischen Grades.
 
+(5) Dem Betreuungskomitee gehören jeweils mindestens ein Mitglied-
+Naturwissenschaftlichen Fakultät gemäß § 3 Absatz 1 und eine
 betreuungsberechtigte Person der ausländischen Partnerinstitution an.
 
 (6) Die Pflicht zur Veröffentlichung der Dissertation und die Rechte an ihr richten sich nach
@@ -612,21 +638,29 @@ sind.
                                         § 19
                                Übergangsbestimmungen
 
+Diese findet auf alle Doktorand*innen Anwendung, deren Anmeldung
+als Doktorand*in der Fakultät nach Inkrafttreten dieser zugeht.
 
 
                                            § 20
                                        Inkrafttreten
 
+Die tritt am Tage nach ihrer hochschulöffentlichen Bekanntmachung
 
                                                                                             12
                                      
 in Kraft.
 
 
+Ausgefertigt aufgrund des Beschlusses des Fakultätsrates-
+Naturwissenschaftlichen Fakultät 23.03.2022, aufgrund
+des Beschlusses des Senats 15.06.2022 und mit
+Genehmigung der Rektorin 16.06.2022.
 
 
 
                                      Die Rektorin
+                              
                Universitätsprofessorin Prof. Dr. rer. nat. Katharina Riedel
 
 Veröffentlichungsvermerk: Hochschulöffentlich bekannt gemacht am: 30.06.2022

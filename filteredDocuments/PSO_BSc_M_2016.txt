@@ -1,8 +1,14 @@
+                       
+                    Mathematik
+                an
 
+                              12. Februar 2018
 
 
 Aufgrund von § 2 Absatz 1 in Verbindung mit § 38 Absatz 1 und § 39 Absatz 1 des
 Gesetzes über die Hochschulen des Landes Mecklenburg-Vorpommern
+(Landeshochschulgesetz – LHG M-V) in der Fassung der Bekanntmachung 25.
+Januar 2011 (GVOBl. M-V S. 18), zuletzt geändert durch Artikel 6 des Gesetzes
 22. Juni 2012 (GVOBl. M-V S. 208, 211), erlässt die Ernst-Moritz-Arndt-Universität
 Greifswald für den Studiengang Mathematik (B. Sc. Mathematik) die folgende
 Prüfungs- und Studienordnung als Satzung:
@@ -49,6 +55,8 @@ RV      Referat mit Verschriftlichung
 Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das
 Prüfungsverfahren im Bachelorstudiengang Mathematik der Ernst-Moritz-Arndt-
 Universität Greifswald. Für alle in der vorliegenden Ordnung nicht geregelten
+Prüfungsangelegenheiten gilt die der Ernst-Moritz-Arndt-
+Universität Greifswald (RPO) 31. Januar 2012 in der jeweils geltenden Fassung
 unmittelbar.
 
 
@@ -324,6 +332,7 @@ Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50% der Übungsaufgaben
 erfolgreich zu bearbeiten.
 
 (7) Soweit eine Wahl zwischen zwei Prüfungsformen (mündliche Prüfung oder
+Klausur) besteht, wird sie Prüfer in der ersten Vorlesungswoche getroffen. Wird
 die Prüfungsform nicht innerhalb der Frist festgelegt, gilt die in § 5 zuerst genannte
 Prüfungsform.
 
@@ -384,6 +393,7 @@ Bachelor of Science (abgekürzt: B. Sc.) vergeben.
                                        § 10
                                    Inkrafttreten
 
+(1) Die
 Bekanntmachung in Kraft.
 
 (2) Die Prüfungsordnung gilt erstmals für die Studierenden, die zum Wintersemester
@@ -392,7 +402,10 @@ Bekanntmachung in Kraft.
 2016/17 im Studiengang Bachelor Mathematik immatrikuliert wurden.
 
 
+Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats
+31. Januar 2018, der mit Beschluss des Senats 30. März 2016 gemäß § 81
 Absatz 7 LHG M-V und § 20 Absatz 1 Satz 2 Grundordnung die Befugnis zur
+Beschlussfassung verliehen wurde, sowie der Genehmigung der Rektorin
 12. Februar 2018.
 
 Greifswald, den 12.02.2018
@@ -400,6 +413,7 @@ Greifswald, den 12.02.2018
 
 
                                    Die Rektorin
+                  
                 Universitätsprofessorin Dr. Johanna Eleonore Weber
 
 

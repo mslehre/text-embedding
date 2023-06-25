@@ -1,25 +1,38 @@
       
 
 
+                        
+                     des Masterstudiengangs Biomathematik
+                 an
 
+                                   28. März 2014
 
 Fundstelle: Hochschulöffentlich bekannt gemacht am 02.04.2014
 
 Änderungen:
+  - Einfügen eines neuen § 2 durch Artikel 1 der 1. Änderungssatzung
      24.06.2014 (hochschulöffentlich bekannt gemacht am 25.06.2014)
    -   § 8 Abs. 2 und Modulbeschreibung „Spez. Molekularbiologie II“ geändert
+       durch Artikel 1 der 2. Änderungssatzung 18.11.2015 (hochschulöffentlich
        bekannt gemacht am 24.11.2015)
    -   § 9 Abs. 9 aufgehoben durch Artikel 17 der Satzung zur Angleichung
+       wesentlicher Regelungen an die Neufassung der
+       2021 21. Juli 2021 (hochschulöffentlich bekannt gemacht am 21.07.2021)
 
 Hinweis:
+   - Die 1. Änderungssatzung 24.06.2014 ist am 26.06.2014 in Kraft getreten.
+   -   Die 2. Änderungssatzung 18.11.2015 ist am 25.11.2015 in Kraft getreten.
+       Sie gilt für alle Studierenden, die nach der
        28. März 2014 studieren, und das Modul „Spezielle Molekularbiologie II“ noch
        nicht absolviert haben.
    -   Die Satzung zur Angleichung wesentlicher Regelungen an die Neufassung der
+       2021 21. Juli 2021 tritt am 01. Oktober 2021 in
        Kraft.
 
 
 Aufgrund von § 2 Absatz 1 in Verbindung mit § 38 Absatz 1 und § 39 Absatz 1 des
 Gesetzes über die Hochschulen des Landes Mecklenburg-Vorpommern
+(Landeshochschulgesetz – LHG M-V) in der Fassung der Bekanntmachung
 25. Januar 2011 (GVOBl. M-V S. 18), zuletzt geändert durch Artikel 6 des Gesetzes
 vom 22. Juni 2012 (GVOBl. M-V S. 208, 211), erlässt die Ernst-Moritz-Arndt-
 Universität Greifswald für den Masterstudiengang Biomathematik die folgende
@@ -59,6 +72,7 @@ Anlage C: Diploma Supplement (deutsche und englische Version)
 Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das Prüfungs-
 verfahren im Masterstudiengang Biomathematik der Ernst-Moritz-Arndt-Universität
 Greifswald. Im Übrigen gilt für alle weiteren Studien- und Prüfungsangelegenheiten
+die (RPO)
 vom 31.Januar 2012 (Mittl.bl. BM M-V 2012 S. 394) in der jeweils geltenden Fassung
 unmittelbar.
 
@@ -242,6 +256,7 @@ bestanden“ bewertet.
 (Mobilitätsfenster) zu absolvieren.
 
 (6) Bereits vor dem Studium abgeleistete Praktika können auf Antrag des
+Studierenden Vorsitzenden des Prüfungsausschusses anerkannt werden, wenn
 sie in direktem Bezug zum Studium stehen und deren Abschluss zum Zeitpunkt der
 Immatrikulation nicht mehr als ein Jahr zurückliegt. Der Antrag ist schriftlich an den
 Prüfungsausschussvorsitzenden zu richten und im Zentralen Prüfungsamt
@@ -498,6 +513,7 @@ mindestens bestanden werden. Nicht bestandene Prüfungsleistungen lassen
 bestandene Prüfungsleistungen unberührt.
 
 (4) Soweit eine Wahl zwischen zwei Prüfungsleistungen (mündliche Prüfung oder
+Klausur) besteht, wird sie Prüfer in der ersten Vorlesungswoche getroffen.
 Erfolgt die Festlegung nicht oder nicht innerhalb der Frist, gilt die in § 7 zuerst
 genannte Prüfungsform.
 
@@ -597,8 +613,10 @@ of Science (abgekürzt: „M. Sc.”) vergeben.
                                            § 13
                           Inkrafttreten, Übergangsregelungen
 
+(1) Die
 Bekanntmachung in Kraft.
 
+(2) Die
 Sommersemester 2014 im Masterstudiengang Biomathematik immatrikuliert werden.
 
 (3) Für vor diesem Zeitpunkt immatrikulierte Kandidaten findet sie Anwendung, wenn
@@ -606,10 +624,15 @@ der Kandidat dieses beantragt. Der Antrag ist schriftlich und bis zum 31.03.2015
 beim Zentralen Prüfungsamt einzureichen und an den Vorsitzenden des
 Prüfungsausschusses zu richten. Der Antrag ist unwiderruflich.
 
+(4) Die Prüfungsordnung 18.05.2011 (Mittl.bl. BM M-V 2011 S. 445) und die
+Studienordnung 18.05.2011 (hochschulöffentlich bekannt gemacht am
 30.06.2011) treten zum 30.09.2017 außer Kraft.
 
 
+Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats
+7. März 2014, der mit Beschluss des Senats 18. April 2012 gemäß §§ 81
 Absatz 7 LHG und 20 Absatz 1 Satz 2 der Grundordnung die Befugnis zur
+Beschlussfassung verliehen wurde, und der Genehmigung der Rektorin 28.
 März 2014.
 
 Greifswald, den 28.03.2014
@@ -617,6 +640,7 @@ Greifswald, den 28.03.2014
 
 
                                    Die Rektorin
+                  
                 Universitätsprofessorin Dr. Johanna Eleonore Weber
 
 Veröffentlichungsvermerk: Hochschulöffentlich bekannt gemacht am 02.04.2014
@@ -2318,6 +2342,7 @@ Inhalt
 
 Qualifikationsziele
   • fundierte Beherrschung der mathematischen Grundlagen der Statistik,
+  • solide Kenntnisse der zentralen Ergebnisseen Statistik,
   • Fähigkeit zur fundierten Beurteilung statistischer Verfahren,
   • Befähigung zur Weiterentwicklung statistischer Methoden in Hinblick auf neuarti-
      ge Problemstellungen,

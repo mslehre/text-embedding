@@ -1,31 +1,43 @@
                  
 
 
+                           
+                           
 
+                                18. März 2021
 
 
 Fundstelle: hochschulöffentlich bekannt gemacht am 15.04.2021
 
 Änderungen:
   - § 1 Abs. 2 und § 2 Nr. 2 geändert durch Artikel 1 der 1. Änderungssatzung
+     19. November 2021 (hochschulöffentlich bekannt gemacht am
      13.12.2021)
   - § 1 Abs. 5, § 2a Abs. 1 und 2, § 19 Abs. 6, § 20 Abs. 2, § 20a, § 22 Abs. 7 bis
      10, § 22a, §§ 26a bis e und § 55 geändert bzw. eingefügt durch Artikel 1 der
+     2. Änderungssatzung 18. März 2022 (hochschulöffentlich bekannt ge-
      macht am 26.04.2022)
 
 Hinweise:
+   - Die 1. Änderungssatzung 19.11.2021 ist am 14.12.2021 in Kraft getreten.
+   - Die 2. Änderungssatzung 18.03.2022 ist am 27.04.2022 in Kraft getreten.
      Zeitgleich ist die Satzung zur Durchführung von Online-Prüfungen zur Ergän-
+     zung der 17. Juni
      2021 (hochschulöffentlich bekannt gemacht am 06.07.2021) außer Kraft getre-
      ten.
 
 
 Aufgrund von § 2 Absatz 1 in Verbindung mit § 38 des Gesetzes über die Hochschu-
 len des Landes Mecklenburg-Vorpommern (Landeshochschulgesetz – LHG M-V) in
+der Fassung der Bekanntmachung 25. Januar 2011 (GVOBl. M-V S. 18), zuletzt
+geändert durch Gesetz 9. Dezember 2020 (GVOBl. M-V S. 1364, 1368), erlässt
+die Universität Greifswald die folgende als Satzung:
 
 Inhaltsverzeichnis
 
 1. Abschnitt: Anwendungsbereich
 §    1 Anwendungsbereich
+§    2 Abweichungen von der
 § 2a Durchführung von Prüfungen in Fällen höherer Gewalt
 
 2. Abschnitt: Vorschriften für Bachelor- und Masterstudiengänge
@@ -133,6 +145,9 @@ Inhaltsverzeichnis
                                      §1
                               Anwendungsbereich
 
+(1) Diese gilt nach Maßgabe der folgenden Vorschriften
+für die Studiengänge. Die Fachprüfungsordnungen werden
+auf der Grundlage dieser erlassen. Die Rahmenprüfungs-
 ordnung ist unmittelbar anzuwenden, soweit die Fachprüfungsordnungen keine eige-
 nen Vorschriften enthalten. Zugleich regelt sie bestimmte Fragen des Studienbe-
 triebs.
@@ -141,8 +156,10 @@ triebs.
 chelor (Bachelorstudiengänge) und Master (Masterstudiengänge) sowie für sonstige
 modularisierte Studiengänge sind die Verordnung zur Regelung der Studienakkredi-
 tierung des Landes Mecklenburg-Vorpommern (Studienakkreditierungslandesverord-
+nung – StudakkLVO M-V) 10. März 2020 (GVOBl. M-V 2020, S.96) und die von
 der Kultusministerkonferenz (KMK) beschlossenen Rahmen- und Strukturvorgaben
 zu beachten; auf diese Studiengänge finden die Abschnitte 1 und 2 sowie 4 bis 10
+dieser Anwendung.
 
 
 
@@ -156,6 +173,7 @@ staatlicher oder kirchlicher Ausbildungs- und Prüfungsregelungen sind, findet d
 Rahmenprüfungsordnung Anwendung, soweit in den staatlichen oder kirchlichen
 Ausbildungs- und Prüfungsordnungen und den einschlägigen Beschlüssen der Kul-
 tusministerkonferenz nichts Abweichendes geregelt ist. Satz 1 gilt entsprechend für
+alle sonstigen Studiengänge, die Art. 4 Abs. 3 des Güstrower Vertrages
 20.01.1994 (GVOBl. MV 1994, S. 559) unterfallen.
 
 (4) Bei Erlass der Fachprüfungsordnungen für bestehende Studiengänge mit dem
@@ -163,14 +181,21 @@ Abschluss Diplom (Diplomstudiengänge im Sinne von § 29 Abs. 3 Nummer 1 1. Alt.
 des Landeshochschulgesetzes) sind die von der KMK beschlossene Muster-
 Rahmenordnung für Diplomprüfungsordnungen an Universitäten und gleichgestellten
 Hochschulen zu beachten; auf diese Studiengänge finden die Abschnitte 1 und 3 bis
+10 dieser Anwendung.
 
 (5) § 2a gilt auch für die Studiengänge, die den folgenden Prüfungsordnungen unter-
 liegen:
+    -  Bachelor- und Master-Studiengänge an der
+        Universität Greifswald 20.09.2007,
     - Fachprüfungsordnung für die Aufbaustudiengänge Künstlerische Ausbildung
+        Orgel, Orgelimprovisation und Chorleitung 02.11.2001,
+    - Fachprüfungsordnung für den Diplomstudiengang Pharmazie 03.05.1997
         und
+    - Prüfungsordnung für den Master-Studiengang Physik 22.09.2006.
 
 
                                    §2
+               Abweichungen von der
 
 Eine Fachprüfungsordnung kann von dieser Ordnung abweichen,
 1. soweit die Abweichung den 9. Abschnitt betrifft,
@@ -326,6 +351,7 @@ ausschuss auf Antrag aus wichtigen Gründen Befreiung erteilen. Der Antrag ist
 schriftlich zu begründen. Die Befreiung ist von der Erfüllung von Auflagen abhängig
 zu machen, insbesondere davon, dass bestehenden fachlichen Defiziten durch das
 erfolgreiche Absolvieren entsprechender Module abgeholfen wird. Eine Befreiung
+von den geforderten Leistungspunkten ist an die Auflage zu koppeln, dass Prü-
 fungsausschuss festzulegende Module im Umfang der fehlenden Leistungspunkte
 erfolgreich absolviert werden. Von dem Erfordernis eines ersten berufsqualifizieren-
 den Hochschulabschlusses kann nicht befreit werden.
@@ -460,6 +486,7 @@ satz 5), in naturwissenschaftlichen und medizinischen Studiengängen mindestens
 eine experimentell-praktische oder klinisch-praktische Prüfung (§ 22 Absatz 3 und 6)
 vorgesehen.
 
+(4) In den Studiengängen-Naturwissenschaftlichen Fakultät und
 der Universitätsmedizin können für einzelne Modulprüfungen praktische Übungen als
 Zulassungsvoraussetzungen vorgesehen werden. Die Fachprüfungsordnungen re-
 geln Art und Zahl solcher Prüfungen.
@@ -500,6 +527,7 @@ Minuten, bei Klausuren mindestens 30 Minuten. Der*die Prüfer*in kann festlegen,
 dass anstelle einer Klausur eine mündliche Prüfung abzulegen ist. Ein solcher An-
 spruch kann auch auf einzelne Modulprüfungen beschränkt werden. Eine Prüfung
 nach Satz 1 gilt als nicht unternommen, wenn der*die Studierende auch im darauf-
+folgenden Semester an eingeschrieben ist.
 
 (2) Studierende, denen nach § 43 erbrachte Leistungsnachweise angerechnet wer-
 den, die sich nur auf den Teil einer Modulprüfung beziehen, können über den fehlen-
@@ -538,6 +566,7 @@ nenfalls die Arbeitsbelastung der Verteidigung eingerechnet. Besteht ein Studien
 gang aus Teilstudiengängen, beziehen sich diese Vorgaben auf den gesamten Stu-
 diengang. Bei weiterbildenden Masterstudiengängen kann von der Vorgabe in Satz 1
 abgewichen werden. In Lehramtsstudiengängen erfolgt die Notenbildung gemäß § 4
+Absatz 3 des Lehrerbildungsgesetzes in der Fassung der Bekanntmachung
 25. November 2014 (GVOBl. M-V 2014, S. 606).
 
 
@@ -874,6 +903,7 @@ Begründung kann der*die zu Prüfende verzichten. Die wesentlichen Gegenstände
 der mündlichen Prüfung sind in einem Protokoll festzuhalten. Gleiches gilt für die we-
 sentlichen Ergebnisse und die Begründung für die Bewertung, es sei denn, dass
 der*die zu Prüfende nach entsprechender Belehrung auf deren Protokollierung ver-
+zichtet. Die Bewertung ist spätestens eine Woche nach dem Prüfungstermin
 Prüfer elektronisch zu erfassen.
 
 (5) Studierende, die sich zu einem späteren Prüfungstermin der gleichen Prüfung
@@ -936,6 +966,7 @@ ter Weise zu begründen. Das Bewertungsverfahren dauert höchstens vier Wochen
 pro Prüfer*in; in begründeten Ausnahmefällen kann eine Verlängerung der Frist
 durch das Zentrale Prüfungsamt gewährt werden. Unbeschadet der Möglichkeit einer
 vorherigen unverbindlichen Bekanntgabe durch die Prüfer*innen erfolgt die verbindli-
+che Bekanntgabe des Ergebnisses über das an vorgehal-
 tene elektronische Verfahren.
 
 (4) Die Termine für Klausuren sind nach Möglichkeit so zu koordinieren, dass kein*e
@@ -1141,6 +1172,7 @@ heit sind die zu Prüfenden auf Aufforderung hin verpflichtet, die Kamera- und M
 fonfunktion der zur Prüfung eingesetzten Kommunikations-einrichtungen zu aktivie-
 ren und eine akustische und optische Überwachung bei der Fernklausur zu dulden
 (Videoaufsicht). Die Videoaufsicht ist im Übrigen so einzurichten, dass der*die zu
+Prüfende insoweit vollständig Kamerabild erfasst wird, wie dies zur Durchfüh-
 rung der Aufsicht erforderlich ist, und der Persönlichkeitsschutz und die Privatsphäre
 nicht mehr als zu den berechtigten Kontrollzwecken erforderlich eingeschränkt wer-
 den.
@@ -1567,6 +1599,7 @@ laubte*n ist für das gesamte weitere Verfahren ausgeschlossen. Nach dem Ende de
 Urlaubssemesters findet § 28 Absatz 2 Anwendung.
 
 (3) Der Abgabetermin der Arbeit kann bei Vorliegen eines wichtigen Grundes auf
+Antrag des*der Studierenden Prüfungsausschuss, dessen Genehmigung dem
 Zentralen Prüfungsamt spätestens am Tage der Abgabe vorliegen muss, beim Ba-
 chelor um höchstens drei Wochen, beim Master um höchstens zwei Monate, in sons-
 tigen Studiengängen höchstens um eine einem Drittel der Bearbeitungszeit entspre-
@@ -1677,6 +1710,7 @@ das Votum des*der Vorsitzenden den Ausschlag.
                                         § 32
                                     Zusatzfächer
 
+(1) Der*die Studierende kann sich in weiteren Fächern an
 einer Prüfung unterziehen (Zusatzfächer). Es gelten die Prüfungsleistungen und Prü-
 fungsanforderungen der jeweiligen Fachprüfungsordnung. Die Ergebnisse der Prü-
 fungen in diesen Fächern werden bei der Festsetzung der Gesamtnote nicht berück-
@@ -1695,6 +1729,7 @@ der letzten Prüfungsleistung und schriftlich beim Zentralen Prüfungsamt zu ste
 wiederholt werden.
 
 (4) Als Zusatzfächer können nur Prüfungs- und Studienleistungen berücksichtigt
+werden, die an erbracht wurden.
 
 
                                      § 33
@@ -1708,6 +1743,7 @@ unverzüglich, möglichst innerhalb von vier Wochen über die Ergebnisse ein Zeu
 In das Zeugnis werden das Thema der Abschlussarbeit, die Note der Abschlussar-
 beit sowie die Namen der Prüfer*innen und die Gesamtnote, nach Maßgabe der
 Fachprüfungsordnung auch die Noten einzelner Prüfungen oder bestimmte Noten-
+durchschnitte aufgenommen; es wird mit dem Siegel ver-
 sehen.
 
 (3) Mit dem Zeugnis erhält der*die Studierende in modularisierten Studiengängen
@@ -1777,6 +1813,7 @@ kunde ausgehändigt. Darin wird die Verleihung des akademischen Grades beurkun-
 det.
 
 (2) Die Urkunde wird von dem*der Dekan*in unterzeichnet und mit dem Datum des
+Zeugnisses sowie dem Siegel versehen.
 
 
                                   7. Abschnitt:
@@ -1800,6 +1837,7 @@ statt und können auch zu Beginn des Semesters durchgeführt werden. Der genaue
 
 Zeitpunkt der Prüfung wird durch das Zentrale Prüfungsamt spätestens in der letzten
 Woche der Vorlesungszeit, bei Klausuren und Hausarbeiten mindestens jedoch vier
+Wochen vor der Prüfung, verbindlich über das an vorge-
 haltene elektronische Verfahren bekannt gegeben. Für alle sonstigen Prüfungsleis-
 tungen ist ein Zeitfenster durch Prüfer*in oder Institut bekannt zu geben. Die Mög-
 lichkeit kurzfristiger Verlegung aus zwingenden Gründen bleibt unberührt. Eine ge-
@@ -1840,6 +1878,7 @@ Wenn die Studienzeit das Doppelte der in der Prüfungsordnung festgelegten Regel
 studienzeit überschreitet, ohne dass der*die Studierende alle Prüfungen erfolgreich
 absolviert hat, deren Bestehen zum Abschluss des Studiums erforderlich sind, so
 kann die Einschreibung beendet werden. Dies gilt nicht, wenn er*sie nach Inan-
+spruchnahme einer Fachstudienberatung eine Prüfungsausschuss genehmigte
 Konzeption für die Beendigung des Studiums innerhalb von zwei Semestern vorlegt.
 Wird das Studium innerhalb von weiteren vier Semestern nicht beendet, wird vorbe-
 haltlich von § 38 die Einschreibung beendet.
@@ -1887,6 +1926,7 @@ des*der Studierenden begründet sind, sind insbesondere:
 2. Schwangerschaft, Mutterschutz oder Betreuung eines Kindes in Zeiten, in denen
    in entsprechender Anwendung der Landesverordnung über die Elternzeit für die
    Beamten und Richter im Land Mecklenburg-Vorpommern (Elternzeit-
+   Landesverordnung – EltZLVO M-V) 22. Februar 2002 (GVOBl. M-V S. 134)
    Anspruch auf Elternzeit bestünde,
 
 3. studiengangsbezogener Auslandsaufenthalt,
@@ -2057,6 +2097,7 @@ gemeldet, die die Zuweisung eines Themas für diese Arbeit beantragt haben.
 
 (2) Sieht die Fachprüfungsordnung mehrere Prüfungstermine in einem Semester
 vor, gilt folgendes: Hat der*die Studierende sich zu der Prüfung im ersten Prüfungs-
+termin gemeldet und diese nicht bestanden, wird er*sie auf Antrag Zentralen
 Prüfungsamt zur ersten Wiederholungsprüfung im zweiten Prüfungstermin des glei-
 chen Prüfungszeitraums angemeldet.
 
@@ -2081,6 +2122,7 @@ Absatz 1 genannten Zulassungsvoraussetzungen beizufügen.
 (1) Zur Prüfung kann nur zugelassen werden, wer
 1. in dem Semester, in dem er die Prüfung ablegen will, eine Abschlussarbeit bean-
    tragt oder eine solche Abschlussarbeit abgibt, in dem jeweiligen Studiengang an
+   eingeschrieben und nicht beurlaubt ist;
 2. über die gegebenenfalls in der jeweiligen Fachprüfungsordnung geforderten Leis-
    tungspunkte und sonstigen Voraussetzungen verfügt.
 
@@ -2123,6 +2165,7 @@ ren, unwirksam, es sei denn, dass der Zulassungsbescheid vorlag.
 
 (1) Studienzeiten, Studien- und Prüfungsleistungen, welche in einem Studiengang
 an einer Universität oder gleichgestellten Hochschule in Deutschland oder einem an-
+deren Vertragsstaat des Übereinkommens 11. April 1997 über die Anerkennung
 von Qualifikationen im Hochschulbereich in der europäischen Region (BGBl. 2007 II,
 S. 713 ff.) erbracht wurden, werden ohne Gleichwertigkeitsprüfung angerechnet,
 wenn der Studiengang, in dem der*die Bewerber*in eingeschrieben ist, im Vergleich
@@ -2135,6 +2178,7 @@ nehmen. § 16 Abs. 6 gilt entsprechend.
 
 (2) Soweit Studienzeiten nach Absatz 1 anerkannt werden, treten die in dieser Zeit
 an der anderen Hochschule erbrachten Studien- und Prüfungsleistungen an die Stel-
+le derjenigen, die an im entsprechenden Studiengang zu
 erbringen sind. Soweit Studien- und Prüfungsleistungen der anderen Hochschule
 keine Entsprechung im Greifswalder Studiengang finden, kann der*die Studierende
 beantragen, dass dafür andere, in ihrem Umfang vergleichbare Studien- und Prü-
@@ -2188,6 +2232,7 @@ prüfung vor.
 (8) Studienbewerber*innen, die zuvor an einer anderen Hochschule studiert haben,
 sowie Studierende, die sich innerhalb der Universität für einen anderen Studiengang
 einschreiben wollen, haben bis spätestens sechs Wochen nach Beginn der Vorle-
+sungszeit des Semesters, in dem das Studium an aufge-
 nommen wird, eine vollständige Übersicht beim Zentralen Prüfungsamt abzugeben,
 aus der hervorgeht, welche Studienzeiten sowie Studien- oder Prüfungsleistungen
 einschließlich aller nicht bestandenen Prüfungen sie an Hochschulen erbracht ha-
@@ -2204,6 +2249,7 @@ Antrag auf Einstufung in ein höheres Fachsemester. Der Anspruch auf Anrechnung
 erlischt mit der Anmeldung der Prüfung, die durch die anzurechnende Leistung er-
 setzt werden soll. Dies gilt nicht, soweit nur eine Teilanrechnung erfolgt.
 
+(9) Werden Prüfungsleistungen angerechnet, sind die Noten Prüfungsaus-
 schuss in eine Note nach § 25 umzurechnen. Ist dies nicht möglich, wird der Vermerk
 „anerkannt" aufgenommen. Die Anrechnung wird im Zeugnis vermerkt.
 
@@ -2240,6 +2286,7 @@ derholung von Prüfungen, die Gründe für das Versäumnis von Prüfungen und di
 Einhaltung von Bearbeitungszeiten für Prüfungsarbeiten betroffen sind, steht der
 Krankheit des*der Studierenden die Krankheit eines von ihm*ihr überwiegend allein
 zu versorgenden Kindes oder sonstigen pflegebedürftigen Angehörigen gleich. Wer-
+den die Gründe anerkannt, so wird Zentralen Prüfungsamt mit Einverständnis
 des Prüfers*der Prüferin ein neuer Termin anberaumt. Die bereits vorliegenden Prü-
 fungsergebnisse werden in diesem Fall angerechnet.
 
@@ -2265,6 +2312,7 @@ insbesondere im Wiederholungsfalle, kann der Prüfungsausschuss den*die zu Prü-
 fende*n von der Erbringung weiterer Prüfungsleistungen ausschließen.
 
 (6) Der*die zu Prüfende kann innerhalb einer Woche verlangen, dass die Entschei-
+dungen nach Absatz 4 und 5 Prüfungsausschuss überprüft werden.
 
 (7) Über den Ausschluss von weiteren Prüfungsleistungen und den damit verbunde-
 nen endgültigen Verlust des Prüfungsanspruches in dem betreffenden Fach ergeht
@@ -2310,6 +2358,7 @@ das Zentrale Prüfungsamt zu stellen.
 
 (2) Prüfungsunterlagen, die nicht nach § 20 Absatz 4 und § 21 Absatz 3 an den*die
 Studierende*n zurückzugeben sind, verbleiben auch nach der Beendigung des Stu-
+diums bei, es sei denn, dass die Fachprüfungsordnungen
 etwas anderes regeln.
 
 
@@ -2457,6 +2506,7 @@ te*n sowie für von ihm*ihr festzulegende Fächer eine Fachvertretung wählen.
                               Zentrales Prüfungsamt
 
 (1) Unbeschadet der Zuständigkeit des Prüfungsausschusses gemäß § 48 Absatz 1
+ist das Zentrale Prüfungsamt für die Organisation der Prü-
 fungsverfahren zuständig. Es verfügt in allen Prüfungsangelegenheiten über ein um-
 fassendes Informationsrecht gegenüber den Prüfer*innen und dem Prüfungsaus-
 schuss; müssen zur Einhaltung dieser Prüfungsordnung Maßnahmen ergriffen wer-
@@ -2487,6 +2537,7 @@ gende Aufgaben:
 4. Fristenkontrolle bezüglich der Prüfungstermine,
 5. Koordination der Prüfungstermine,
 6. Mitteilung des konkreten Prüfungstermins und der Namen der Prüfer*innen an
+   den*die Studierende*n über das an vorgehaltene elekt-
    ronische Verfahren,
 
 
@@ -2502,6 +2553,7 @@ gende Aufgaben:
 (4) Ferner hat das Zentrale Prüfungsamt folgende Aufgaben:
 1. Entgegennahme der fertiggestellten Abschlussarbeit und Kontrolle der Abgabe-
    frist,
+2. Bekanntgabe der Prüfungsergebnisse über das an vor-
    gehaltene elektronische Verfahren,
 3. Mitteilungen über das Nichtbestehen von Prüfungen einschließlich des Hinweises
    auf eventuelle Wiederholungsmöglichkeiten,
@@ -2533,6 +2585,7 @@ werden, wer selbst Lehraufgaben erfüllt. Prüfungsleistungen dürfen nur von Pe
 nen bewertet werden, die selbst mindestens die durch die Prüfung festzustellende
 oder eine gleichwertige Qualifikation besitzen.
 
+(2) Die Prüfer*innen werden Prüfungsausschuss jedes Semester, nach Mög-
 lichkeit spätestens 2 Wochen vor Beginn der Meldefrist nach § 41 Absatz 1 bestellt.
 Die Bestellung kann auch durch den*die Vorsitzenden des Prüfungsausschusses
 erfolgen, sofern ihm*ihr diese Aufgabe durch den Prüfungsausschuss oder die Fach-
@@ -2554,6 +2607,7 @@ Prüfer*innen.
 oder eine mindestens vergleichbare Prüfung in dem zu prüfenden Fachgebiet an ei-
 ner Hochschule abgelegt hat.
 
+(5) Die Beisitzenden werden Prüfungsausschuss für den Einzelfall oder pau-
 schal für einen Prüfungstermin bestellt. Im zweitgenannten Fall bestellt der*die jewei-
 lige Prüfer*in den*die Beisitzende*n. Absatz 2 Satz 2 Satz gilt entsprechend. Der
 Prüfungsausschuss kann für den Einsatz der Beisitzenden Maßgaben beschließen.
@@ -2628,10 +2682,12 @@ beauftragte Person übertragen werden.
 ge zu berücksichtigen:
 a) Studierende, die nach ihrem Studienverlauf auf den Besuch der Lehrveranstaltung
    zu diesem Zeitpunkt angewiesen sind, soweit sie für einen Studiengang der betref-
+   fenden Fakultät eingeschrieben sind;
 b) Studierende nach lit. a), die wegen der Notwendigkeit, eine Prüfung zu wiederho-
    len, sie ein zweites Mal besuchen wollen;
 c) Studierende nach lit. a), die nach ihrem Studienverlauf auf den Besuch der Lehr-
    veranstaltung zu diesem Zeitpunkt nicht angewiesen sind;
+d) andere Studierende.
 
 Innerhalb einer der vorgenannten Kategorien notwendige Zugangsentscheidungen
 können durch Los getroffen werden.
@@ -2690,6 +2746,7 @@ Die Befugnis zur Änderung dieser Ordnung kann der Senat nicht auf eine beschlie
                                      § 59
                               Übergangsregelungen
 
+(1) Als nach § 1 Absatz 1 findet diese Ordnung nur An-
 wendung auf alle Prüfungsordnungen sowie Änderungen von Prüfungsordnungen,
 die nach Inkrafttreten dieser Satzungen beschlossen werden.
 
@@ -2709,12 +2766,16 @@ nach dieser Ordnung mögliche Zahl von Wiederholungsversuchen angerechnet.
 Diese Prüfungsordnung tritt am 1. Oktober 2021 in Kraft.
 
 
+Ausgefertigt aufgrund des Beschlusses des Senats
+17. März 2021, der Genehmigung der Rektorin 18. März 2021 sowie der Ge-
+nehmigung des Bildungsministeriums 15. April 2021.
 
 Greifswald, den 18.03.2021
 
 
 
                                    Die Rektorin
+                            
                 Universitätsprofessorin Dr. Johanna Eleonore Weber
 
 
