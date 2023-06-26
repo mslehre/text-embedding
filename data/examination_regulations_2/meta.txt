@@ -1,0 +1,98 @@
+Abkürzungen:
+AB		Arbeitsbelastung in Stunden,
+		Arbeitsbereich (PSO_BA_Geschichte_2022.pdf)
+Az. 		Aktenzeichen
+B.A. 		Bachelor of Arts
+FPO 		Fachprüfungsordnung
+FS		Fachsemester
+GPO BMS 	Gemeinsame Prüfungsordnung für Bachelor- und Master-Studiengänge an der Ernst-Moritz-Arndt-	
+		Universität Greifswald
+GVOBl. M.-V. 	Gesetz- und Verordnungsblatt MecklenburgVorpommern
+LHG M-V 	Gesetz über die Hochschulen des Landes MecklenburgVorpommern
+LP		Leistungspunkte
+LS		Lehrstuhl
+LV 		Lehrveranstaltung
+MP 		Mündliche Prüfung,
+		Modulprüfung (PSO_BSc_BWL_2017_Lesefassung_1-AendS-2017.pdf, PSO_BSc_BWL_2017_Lesefassung_2-AendS-2020.pdf)
+NC 		Numerus Clausus
+PL		Prüfungsleistung/en, Art der Prüfungsleistung
+P		Pflicht
+PA		Prüfungsart
+PSO		Prüfungs- und Studienordnung
+RPO		Rahmenprüfungsordnung
+RPT 		Regelprüfungstermin (Semester)
+PU 		Prüfungsumfang
+S. 		Seite(n)
+Sem. 		Semester 
+SL 		Studienleistungen
+SWS		Semesterwochenstunde
+wiss. 		wissenschaftlich 
+WP		Wahlpflicht
+WPB		Wahlpflichtbereich
+
+
+AM		Aufbaumodul
+BM		Basismodul
+C		Colloquium
+E		Exkursion
+GK		Grundkurs
+GP		Großpraktikum
+HA, H		Hausarbeit
+HS 		Hauptseminar
+IPro		interdisziplinäres Projekt
+KU		Künstlerischer Unterricht
+LC		Lecture Course
+PM 		Profilierungsmodul (PStO_BSc_Geographie_2013_Lesefassung_2021.pdf)
+Pr		Praktikum (StO_BSc_Biologie_2012_Lesefassung_1-AendS-2014.pdf)
+PR		Praktikum (PStO_BSc_Geographie_2013_Lesefassung_2021.pdf)
+PS		Proseminar
+PUE		Praktische Übung (PStO_BSc_Geographie_2013_Lesefassung_2021.pdf)
+S		Seminar
+SK		Sprachkurs
+SPS		Schulpraktische Seminare
+T		Tutorium,
+		Testat (PStO_BSc_Geographie_2013_Lesefassung_2021.pdf)
+Tut		Tutorium
+Ü		Übung
+V		Vorlesung
+
+K,Kl		Klausur
+Kl 90 		Klausur, Dauer 90 Minuten
+KG		Kollegialprüfung (zwei Prüfer) 
+M, mp 		mündliche Prüfung
+mP+Üs/Kl+Üs	mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
+P		Protokoll
+PO		Poster (PStO_BSc_Geographie_2013_Lesefassung_2021.pdf)
+Prot. 		Protokoll
+PsB		Prüfer mit sachkundigem Beisitzer
+PT		Praktisches Testat zur Übung
+P/T		Protokoll mit Testat
+R		Referat
+SV 		Seminarvortrag
+SVS 		Seminarvortrag mit Verschriftlichung (PStO_BSc_Geographie_2013_Lesefassung_2021.pdf)
+TB 		Teilnahmebestätigung
+Üs 		Übungsschein
+wo 		wahlobligatorische Prüfungsleistung
+*, U, UB	unbenotet
+
+D		Dauer in Semestern
+LP/Std.		Leistungspunkte (ECTS)/Arbeitsaufwand je Modul;
+Min. 		Minuten
+Std.		Stunden
+(x/y)		(Stunden Kontaktzeit je Lehrveranstaltung/Stunden Selbststudium je Lehrveranstaltung)
+x LP/ y Std.	Leistungspunkte (ECTS)/Arbeitsaufwand je Modul
+
+
+ÄDSL 		Ältere deutsche Sprache und Literatur
+GSW 		Germanistische Sprachwissenschaft
+NDL		Neuere deutsche Literatur
+NA		North America
+UK		United Kingdom of Great Britain and Northern Ireland
+
+
+
+
+
+
+
+
