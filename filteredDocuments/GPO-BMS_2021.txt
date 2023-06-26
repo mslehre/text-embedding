@@ -4,45 +4,45 @@
                          Bachelor- und Master-Studiengänge
                             an
 
-                                    20.09.2007
+                                    7
 
 Fundstelle: Mittl.bl. BM M-V 2007 S. 545
 
 Änderungen:
-  - § 3 geändert durch Artikel 1 der Satzung 20. Januar 2011 (Mittl.bl. BM M-V
+  - § 3 geändert durch Artikel 1 der Satzung r 2011 (Mittl.bl. BM M-V
      2011 S. 268)
-   -   § 3 geändert durch Artikel 1 der 2. Änderungssatzung 6. Juli 2012 (hoch-
+   -   § 3 geändert durch Artikel 1 der 2. Änderungssatzung 012 (hoch-
        schulöffentlich bekannt gemacht am 13. Juli 2012)
    -   §§ 32 und 35 Abs. 6 geändert durch geändert durch Artikel 1 der 3. Änderungs-
-       satzung 15. Januar 2013 (hochschulöffentlich bekannt gemacht am
+       satzung r 2013 (hochschulöffentlich bekannt gemacht am
        18. Januar 2013)
    -   § 25, § 27 Abs. 1 bis 3 sowie § 28 Abs. 1 geändert durch Artikel 1 der 4. Ände-
-       rungssatzung 28. Juni 2013 (hochschulöffentlich bekannt gemacht am
+       rungssatzung 2013 (hochschulöffentlich bekannt gemacht am
        1. Juli 2013)
    -   § 25 Absatz 7 eingefügt durch Artikel 1 der Satzung zur Reduzierung der Stu-
-       dienabbrecherquote aufgrund der Belastung durch die Covid-19-Pandemie
+       dienabbrecherquote aufgrund der Belastung durch die Covid-19-Pandemie vom
        17. Dezember 2020 (hochschulöffentlich bekannt gemacht am 22.01.2021)
    -   Inhaltsverzeichnis, § 3 Abs. 2, § 7 bis 10, § 14 Abs. 4, § 15 Abs. 2, § 17, § 22, §
        23, § 25 bis 28, § 31, § 34 und neuer § 37 geändert und eingefügt durch Artikel 1
        der Satzung zur Angleichung wesentlicher Regelungen an die Neufassung der
-       2021 21. Juli 2021 (hochschulöffentlich bekannt
+       2021 2021 (hochschulöffentlich bekannt
        gemacht am 21.07.2021)
 
 Hinweise:
-   - Die Satzung zur Streichung der Mindestnote 20. Januar 2011 ist am 21. Mai
+   - Die Satzung zur Streichung der Mindestnote r 2011 ist am 21. Mai
      2011 in Kraft getreten. Sie findet nur für die Studierenden Anwendung, die nach
      Inkrafttreten immatrikuliert wurden.
-   -   Die 2. Änderungssatzung 6. Juli 2012 ist am 14. Juli 2012 in Kraft getreten.
+   -   Die 2. Änderungssatzung 012 ist am 14. Juli 2012 in Kraft getreten.
        Sie findet nur für die Studierenden Anwendung, die nach Inkrafttreten immatriku-
        liert wurden.
-   -   Die 3. Änderungssatzung 15. Januar 2013 ist am 19. Januar 2013 in Kraft
+   -   Die 3. Änderungssatzung r 2013 ist am 19. Januar 2013 in Kraft
        getreten.
-   -   Die 4. Änderungssatzung 28. Juni 2013 ist am 2. Juli 2013 in Kraft getreten.
+   -   Die 4. Änderungssatzung 2013 ist am 2. Juli 2013 in Kraft getreten.
    -   Die Satzung zur Reduzierung der Studienabbrecherquote aufgrund der Belas-
-       tung durch die Covid-19-Pandemie 17. Dezember 2020 ist am 23.01.2021 in
+       tung durch die Covid-19-Pandemie ber 2020 ist am 23.01.2021 in
        Kraft getreten.
    -   Die Satzung zur Angleichung wesentlicher Regelungen an die Neufassung der
-       2021 21. Juli 2021 tritt am 01. Oktober 2021 in
+       2021 2021 tritt am 01. Oktober 2021 in
        Kraft.
 
 Aufgrund von § 2 Abs. 1 in Verbindung mit § 38 Abs. 1 des Gesetzes über die Hoch-
@@ -51,8 +51,8 @@ schulen des Landes Mecklenburg-Vorpommern (Landeshochschulgesetz - LHG M-V)
                                                                                          1
                          
 
-vom 5. Juli 2002 (GVOBl. M-V S. 398) *, zuletzt geändert durch Artikel 19 des Gesetzes
-vom 10. Juli 2006 (GVOBl. M-V S. 539), erlässt die Universität Greifswald folgende
+002 (GVOBl. M-V S. 398) *, zuletzt geändert durch Artikel 19 des Gesetzes
+2006 (GVOBl. M-V S. 539), erlässt die Universität Greifswald folgende
  Bachelor- und Master-Studiengänge:
 
 Inhaltsverzeichnis
@@ -303,7 +303,7 @@ des berufsbezogenen Praktikums erlässt der zuständige Fakultätsrat als Richtl
 Praktikumsordnung.
 
 (4) Bei Zweifeln über die Geeignetheit der Praktikumsstelle entscheidet auf Antrag des
-Studierenden ein zuständigen Fakultätsrat benannter Fachvertreter beziehungs-
+Studierenden ein en Fakultätsrat benannter Fachvertreter beziehungs-
 weise Praktikumsbeauftragter rechtzeitig vor Beginn des Praktikums auf der Grundlage
 der Praktikumsordnung über die Eignung der Praktikumsstelle. Der Antrag ist schriftlich
 an den Fachvertreter zu richten und beim Zentralen Prüfungsamt einzureichen.
@@ -317,7 +317,7 @@ der entsprechenden Hochschule beim Zentralen Prüfungsamt der Universität Greif
 wald nachzuweisen. Näheres, insbesondere die fachlichen Anforderungen und den
 Nachweis des Auslandsaufenthaltes, regeln die Fachprüfungsordnungen beziehungs-
 weise die Prüfungsordnung für das Modul „General Studies“. Auf Antrag können bereits
-abgeleistete Praktika Fachvertreter anerkannt werden, die in direktem Bezug zum
+abgeleistete Praktika eter anerkannt werden, die in direktem Bezug zum
 Studium stehen.
 
 (6) Die Fachprüfungs- beziehungsweise Fachstudienordnungen können in den Studien-
@@ -368,7 +368,7 @@ gen, hat der Prüfungsausschuss nach Rücksprache mit dem Behindertenbeauftragte
 ihm zu gestatten, die Prüfungsleistungen innerhalb einer verlängerten Bearbeitungszeit
 oder gleichwertige Prüfungsleistungen in einer anderen Form oder mit weiteren Hilfsmit-
 teln zu erbringen. Zum Nachweis kann die Vorlage eines ärztlichen Attestes verlangt
-werden. Ein entsprechender Antrag ist Studierenden bei der Meldung zur jeweili-
+werden. Ein entsprechender Antrag ist den bei der Meldung zur jeweili-
 gen Prüfung zu stellen; er ist schriftlich an den Vorsitzenden des Prüfungsausschusses
 zu richten und beim Zentralen Prüfungsamt einzureichen. Eine schwangere Studieren-
 de darf in der Mutterschutzfrist nur entsprechend der §§ 3 ff. des Mutterschutzgesetzes
@@ -405,7 +405,7 @@ Modul und Studierenden mindestens 15 und höchstens 60 Minuten.
 
 (3) Vor der Festsetzung der Note gemäß § 11 hört jeder Prüfer den anderen an einer
 Kollegialprüfung mitwirkenden Prüfer. Der sachkundige Beisitzer wird zum ordnungs-
-gemäßen Ablauf der Prüfung vor der Festsetzung der Note Prüfer angehört. Der
+gemäßen Ablauf der Prüfung vor der Festsetzung der Note gehört. Der
 Beisitzer darf nicht prüfen und nicht bewerten.
 
 (4) Das Ergebnis einer mündlichen Prüfung ist dem Kandidaten jeweils im Anschluss an
@@ -413,7 +413,7 @@ diese bekannt zu geben. Die wesentlichen Gegenstände der mündlichen Prüfung s
 in einem Protokoll festzuhalten. Gleiches gilt für die wesentlichen Ergebnisse und die
 Begründung für die Bewertung, es sei denn, dass der Kandidat nach entsprechender
 Belehrung auf die Protokollierung der Begründung verzichtet. Die Bewertung ist spätes-
-tens eine Woche nach dem Prüfungstermin Prüfer elektronisch zu erfassen.
+tens eine Woche nach dem Prüfungstermin ektronisch zu erfassen.
 
 (5) Studierende, die sich zu einem späteren Prüfungstermin der gleichen Prüfung unter-
 ziehen wollen, sind nach Maßgabe der räumlichen Verhältnisse als Zuhörer zuzulassen,
@@ -444,7 +444,7 @@ le Prüfungsamt gewährt werden. Unbeschadet der Möglichkeit einer vorherigen u
 bindlichen Bekanntgabe durch die Prüfer erfolgt die verbindliche Bekanntgabe des Er-
 gebnisses über das an vorgehaltene elektronische Verfahren.
 
-(3) Bei Hausarbeiten in Modulprüfungen ist Prüfer bei Ausgabe des Themas ein
+(3) Bei Hausarbeiten in Modulprüfungen ist i Ausgabe des Themas ein
 Abgabetermin dem Studierenden und dem Zentralen Prüfungsamt mitzuteilen. Die
 Fachprüfungsordnungen regeln die Dauer der Bearbeitungszeit. Das Bewertungsver-
 fahren ist spätestens bis zum Ende des Semesters, in dem die Anmeldung erfolgt ist,
@@ -503,11 +503,11 @@ Gesamtbewertung nach § 12 erfolgt dabei als Mittelung über alle Experimente im
 fenden Semester.
 
 (4) In Projekten soll der Studierende eine Aufgabe in freier und selbstständiger Form
-bearbeiten und in einer vorher Prüfer festgelegten Form präsentieren. Projekte
-werden Prüfer nach der Qualität der erbrachten Leistung bewertet.
+bearbeiten und in einer vorher stgelegten Form präsentieren. Projekte
+werden ch der Qualität der erbrachten Leistung bewertet.
 
 (5) In den sprachpraktischen oder künstlerisch-praktischen Modulen, in denen die Mo-
-dulprüfung aus laufenden Leistungskontrollen besteht, die Prüfer bewertet werden,
+dulprüfung aus laufenden Leistungskontrollen besteht, die wertet werden,
 soll der Studierende den Fortschritt seiner Kenntnisse nachweisen. Die Anzahl der Leis-
 tungskontrollen wird in den Fachprüfungsordnungen festgelegt. Die Gesamtbewertung
 nach § 12 erfolgt dabei als Mittelung über alle Leistungskontrollen im laufenden Semes-
@@ -583,7 +583,7 @@ zu bearbeiten und die Ergebnisse sachgerecht darzustellen.
 (2) Die Bearbeitungszeit beträgt, soweit die Fachprüfungsordnung nichts anderes be-
 stimmt, für eine Bachelorarbeit 300 Stunden, für eine Masterarbeit 840 Stunden. Diese
 kann der Studierende frei verteilen. Thema, Aufgabenstellung und Umfang der Arbeit
-sind Betreuer nach Absatz 3 so zu begrenzen, dass die Bearbeitungszeit eingehal-
+sind nach Absatz 3 so zu begrenzen, dass die Bearbeitungszeit eingehal-
 ten werden kann. Der Antrag auf Vergabe des Themas muss spätestens innerhalb von
 sechs Monaten nach Ablegen der letzten Modulprüfung gestellt werden; die Fachprü-
 fungsordnungen können eine kürzere Frist vorsehen.
@@ -653,7 +653,7 @@ Prüfungsausschusses abgeändert werden. Die Bearbeitungszeit der Abschluss-arbe
 bleibt davon unberührt. Der Vorsitzende des Prüfungsausschusses hat innerhalb von
 drei Werktagen zu entscheiden.
 
-(5) Der Abgabetermin der Arbeit kann Prüfungsausschuss bei Vorliegen eines
+(5) Der Abgabetermin der Arbeit kann usschuss bei Vorliegen eines
 wichtigen Grundes auf Antrag des Studierenden, dessen Genehmigung dem Zentralen
 
                                                                                       12
@@ -693,7 +693,7 @@ tern ausgehändigt. § 9 Abs. 3 Satz 5 gilt entsprechend.
 
 (3) Die Abschlussarbeit ist von zwei Prüfern zu bewerten. Einer der Prüfer soll derjenige
 sein, der das Thema der Abschlussarbeit gestellt hat (§ 13 Abs. 3). Der zweite Prüfer
-wird Vorsitzenden des Prüfungsausschusses bestimmt. Bei nicht übereinstimmen-
+wird den des Prüfungsausschusses bestimmt. Bei nicht übereinstimmen-
 der Beurteilung der Abschlussarbeit ergibt sich die Note für die Abschlussarbeit aus
 dem arithmetischen Mittel der Einzelbewertungen. Weichen die Beurteilungen der Ab-
 schlussarbeit um mehr als 1,7 voneinander ab, so bestimmt der Prüfungsausschuss
@@ -811,7 +811,7 @@ men. Dem Abschlusszeugnis, der Urkunde über die Verleihung und dem Diploma Supp
 lement/Transcript of Records wird eine englischsprachige Übersetzung beigefügt.
 
 (6) Das Zeugnis und die Zeugnisergänzung tragen das Datum des Tages, an dem die
-letzte Prüfungsleistung erbracht worden ist. Sie sind Vorsitzenden des Prüfungs-
+letzte Prüfungsleistung erbracht worden ist. Sie sind den des Prüfungs-
 ausschusses zu unterzeichnen.
 
 (7) Neben der Abschlussnote nach Absatz 1 ist auf dem Zeugnis die relative Note der
@@ -849,7 +849,7 @@ Masterurkunde ausgehändigt. Darin wird die Verleihung des akademischen Grades b
 urkundet.
 
 (2) Die Bachelor- beziehungsweise Masterurkunde wird mit dem Datum des Zeugnisses
-versehen, Dekan unterzeichnet und mit dem Siegel ver-
+versehen, erzeichnet und mit dem Siegel ver-
 sehen.
 
 
@@ -890,7 +890,7 @@ Wenn die Studienzeit das Doppelte der in der Prüfungsordnung festgelegten Regel
 dienzeit überschreitet, ohne dass der Studierende alle Prüfungen erfolgreich absolviert
 hat, deren Bestehen zum Abschluss des Studiums erforderlich sind, so kann die Ein-
 schreibung beendet werden. Dies gilt nicht, wenn er nach Inanspruchnahme einer
-Fachstudienberatung eine Prüfungsausschuss genehmigte Konzeption für die Be-
+Fachstudienberatung eine usschuss genehmigte Konzeption für die Be-
 endigung des Studiums innerhalb von zwei Semestern vorlegt. Wird das Studium inner-
 halb von weiteren vier Semestern nicht beendet, wird vorbehaltlich von § 23 die Ein-
 schreibung beendet.
@@ -900,7 +900,7 @@ schreibung beendet.
                             Nicht zu vertretende Gründe
 
 (1) Soweit es nach dieser Ordnung darauf ankommt, ob Studierende eine Studienver-
-zögerung zu vertreten haben, gelten die nachfolgenden Regelungen. Studieren-
+zögerung zu vertreten haben, gelten die nachfolgenden Regelungen. -
 den nicht zu vertretende Gründe im Sinne von § 22 Abs. 1 sind solche, die zur planwid-
 rigen Studienverzögerung aufgrund von Umständen im Verantwortungsbereich der Uni-
 versität führten. Hierzu gehören insbesondere
@@ -919,7 +919,7 @@ Diese Gründe können geltend gemacht werden, wenn der Studierende auf den Besuc
 der Lehrveranstaltung nach der Studienordnung oder dem Studienplan in dem betref-
 fenden Semester angewiesen ist.
 
-(2) Studierenden nicht zu vertretende Gründe, die in der Person des Studierenden
+(2) den nicht zu vertretende Gründe, die in der Person des Studierenden
 begründet sind, sind insbesondere:
 1. eigene Erkrankung oder Pflege eines erkrankten oder sonst hilfsbedürftigen nahen
     Angehörigen, wenn die Zeit der eigenen Erkrankung oder der Pflege ein ordnungs-
@@ -933,7 +933,7 @@ begründet sind, sind insbesondere:
                                                                                     17
                      
 
-   EltZLVO M-V) 22. Februar 2002 (GVOBl. M-V S. 134) Anspruch auf Elternzeit
+   EltZLVO M-V) ar 2002 (GVOBl. M-V S. 134) Anspruch auf Elternzeit
    bestünde,
 3. studiengangsbezogener Auslandsaufenthalt,
 4. Tätigkeit in der Selbstverwaltung der Universität oder in den Organen der Studieren-
@@ -1001,7 +1001,7 @@ wendung. Bei Hochschul-, Studiengangs- oder Fachwechsel werden frühere Studien-
 zeiten nach Maßgabe von § 27 auf das Fachstudium angerechnet.
 
 (2) Soweit die Fachprüfungsordnung dies vorsieht, können im Rahmen des Freiver-
-suchs bestandene Modulprüfungen Studierenden zur Notenverbesserung einmal
+suchs bestandene Modulprüfungen den zur Notenverbesserung einmal
 wiederholt werden. Diese Wiederholungsprüfung muss spätestens im Rahmen der Prü-
 fungstermine des jeweils folgenden Semesters im Zentralen Prüfungsamt schriftlich an-
 gemeldet und abgelegt werden. Die Zulassung für den Freiversuch zur Notenverbesse-
@@ -1010,7 +1010,7 @@ Ende der Meldefrist die Zulassung schriftlich und unter Angabe von Gründen vers
 Dabei zählt das jeweils bessere Ergebnis. § 11 Abs. 2 und § 12 gelten entsprechend.
 
 (3) Ein Studium gilt als nicht unterbrochen im Sinne von Absatz 1
-   1. für die Zeiten, in denen sich das Studium aus Studierenden nicht zu vertre-
+   1. für die Zeiten, in denen sich das Studium aus den nicht zu vertre-
       tenden Gründen (§ 23 Abs. 2 Nr. 1, 2 und 4) verzögert;
    2. für die Dauer einer Beurlaubung gemäß § 21 Abs. 2 des Landeshochschulgeset-
       zes;
@@ -1096,7 +1096,7 @@ beantragt haben.
                       
 
 (4) Die Zulassung zu einer Abschlussprüfung wird nur erteilt, wenn alle studienbeglei-
-tenden Modulprüfungen erfolgreich abgelegt sind. Der Zulassungsbescheid ist
+tenden Modulprüfungen erfolgreich abgelegt sind. Der Zulassungsbescheid ist vom
 Studierenden im Zentralen Prüfungsamt abzuholen und dem Prüfer vorzulegen. Ohne
 Vorlage des Zulassungsbescheides darf die Prüfung nicht abgenommen werden. Zwi-
 schen der letzten Modulprüfung und der Abschlussprüfung müssen mindestens zwei
@@ -1113,7 +1113,7 @@ genannten Zulassungsvoraussetzungen beizufügen.
 
 (1) Studienzeiten, Studien- und Prüfungsleistungen, welche in einem Studiengang an
 einer Universität oder gleichgestellten Hochschule in Deutschland oder einem anderen
-Vertragsstaat des Übereinkommens 11. April 1997 über die Anerkennung von
+Vertragsstaat des Übereinkommens  1997 über die Anerkennung von
 Qualifikationen im Hochschulbereich in der europäischen Region (BGBl. 2007 II, S. 713
 ff.) erbracht wurden, werden ohne Gleichwertigkeitsprüfung angerechnet, wenn der
 Studiengang, in dem der Bewerber eingeschrieben ist, im Vergleich zu dem anderen
@@ -1169,7 +1169,7 @@ nächsten Immatrikulationstermin zu bescheiden (Vorabentscheid). Der Antragstell
 in angemessener Frist alle für die Gleichwertigkeitsprüfung erforderlichen Belege bei-
 zubringen.
 
-(7) Werden Prüfungsleistungen angerechnet, sind die Noten Prüfungsausschuss in
+(7) Werden Prüfungsleistungen angerechnet, sind die Noten usschuss in
 eine Note nach § 11 umzurechnen. Ist dies nicht möglich, wird der Vermerk „anerkannt"
 aufgenommen. Die Anrechnung wird im Zeugnis vermerkt.
 
@@ -1197,7 +1197,7 @@ Fristen für die Abmeldung von der Prüfung, die Wiederholung von Prüfungen, di
 de für das Versäumnis von Prüfungen und die Einhaltung von Bearbeitungszeiten für
 Prüfungsarbeiten betroffen sind, steht der Krankheit des Studierenden die Krankheit
 eines von ihm überwiegend allein zu versorgenden Kindes gleich. Werden die Gründe
-anerkannt, so wird Prüfungsamt in Absprache mit dem Prüfer ein neuer Termin
+anerkannt, so wird mt in Absprache mit dem Prüfer ein neuer Termin
 anberaumt. Die bereits vorliegenden Prüfungsergebnisse werden in diesem Fall ange-
 rechnet.
 
@@ -1215,14 +1215,14 @@ er keine Täuschung fest, tritt seine Bewertung an die Stelle des Gutachters, de
 Täuschung angenommen hat. Im Fall einer Hilfestellung zu einem Täuschungsversuch
 gelten die vorstehenden Regelungen entsprechend.
 
-(5) Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann jewei-
+(5) Ein Kandidat, der den ordnungsgemäßen Ablauf der Prüfung stört, kann vom jewei-
 ligen Prüfer oder Aufsichtführenden von der Fortsetzung der Prüfungsleistung ausge-
 schlossen werden; in diesem Fall gilt die betreffende Prüfungsleistung als mit „nicht
 ausreichend" (5,0) bewertet. In schwerwiegenden Fällen kann der Prüfungsausschuss
 den Kandidaten von der Erbringung weiterer Prüfungsleistungen ausschließen.
 
 (6) Der Kandidat kann innerhalb einer Woche verlangen, dass die Entscheidungen nach
-Absatz 4 Satz 1 und 2 Prüfungsausschuss überprüft werden.
+Absatz 4 Satz 1 und 2 usschuss überprüft werden.
 
 
                                         § 29
@@ -1354,7 +1354,7 @@ selbst betreffen.
 einen Schriftführer.
 
 (5) Über die wesentlichen Gegenstände der Sitzung und die Beschlüsse des Prüfungs-
-ausschusses ist Schriftführer ein Protokoll anzufertigen.
+ausschusses ist hrer ein Protokoll anzufertigen.
 
 (6) Der Vorsitzende führt die Geschäfte des Prüfungsausschusses. Er kann in unauf-
 schiebbaren Angelegenheiten allein entscheiden (Eilkompetenz). Eine Entscheidung ist
@@ -1447,7 +1447,7 @@ fungsleistungen dürfen nur von Personen bewertet werden, die selbst mindestens 
 durch die Prüfung festzustellende oder eine gleichwertige Qualifikation besitzen. Die
 Bestellung erfolgt für jedes Semester pauschal durch den Prüfungsausschuss.
 
-(2) Die Prüfer werden Prüfungsausschuss bestellt. Ein kurzfristiger Wechsel der
+(2) Die Prüfer werden usschuss bestellt. Ein kurzfristiger Wechsel der
 Prüfenden und Beisitzer aus zwingenden Gründen ist zulässig.
 
 (3) Der Kandidat kann für die Abschlussarbeit Prüfer vorschlagen; der Vorschlag be-
@@ -1459,7 +1459,7 @@ ses Moduls.
 mindestens vergleichbare Prüfung in dem zu prüfenden Fachgebiet an einer Hochschu-
 le abgelegt hat.
 
-(5) Die Beisitzer werden Prüfungsausschuss für den Einzelfall oder pauschal für
+(5) Die Beisitzer werden usschuss für den Einzelfall oder pauschal für
 einen Prüfungstermin bestellt. Im zweitgenannten Fall bestellt der jeweilige Prüfer den
 Beisitzer. Absatz 2 Satz 2 Satz gilt entsprechend. Der Prüfungsausschuss kann für den
 Einsatz der Beisitzer Maßgaben beschließen.
@@ -1514,14 +1514,13 @@ Diese Prüfungsordnung tritt am Tag nach ihrer Veröffentlichung im Mitteilungsb
 Ministeriums für Bildung, Wissenschaft und Kultur in Kraft.
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Ernst-Moritz-Arndt-Universität
-Greifswald 21.03.2007, 06.06.2007 und 29.08.2007 und der Genehmigung des
-Rektors 19.09.2007.
+Greifswald 7, 06.06.2007 und 29.08.2007 und der Genehmigung des
+Rektors 7.
 
 Greifswald, den 20.09.2007
 
                                     Der Rektor
-                  
-               Universitätsprofessor Dr. rer. nat. Rainer Westermann
+                                 Universitätsprofessor Dr. rer. nat. Rainer Westermann
                                                                  Mittl.bl. BM M-V 2007 S. 545
 
                                                                                           28

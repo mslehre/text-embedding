@@ -5,12 +5,12 @@
                -Naturwissenschaftlichen Fakultät
                           
 
-                                   16.06.2022
+                                   2
 
 
 Aufgrund von § 2 Abs. 1 in Verbindung mit § 43 Abs. 3 des Gesetzes über die Hochschulen
-des Landes Mecklenburg-Vorpommern (Landeshochschulgesetz – LHG M-V) 25.
-Januar 2011 (GVOBl. M – V S. 18) zuletzt geändert durch das Gesetz 21. Juni 2021
+des Landes Mecklenburg-Vorpommern (Landeshochschulgesetz – LHG M-V) vom 25.
+Januar 2011 (GVOBl. M – V S. 18) zuletzt geändert durch das Gesetz 2021
 (GVOBl. M-V S. 1018) erlässt die Universität Greifswald die folgende
 der Mathematisch-Naturwissenschaftlichen Fakultät als Satzung:
 
@@ -24,7 +24,7 @@ Inhaltsverzeichnis:
 § 4b Monografie
 § 5 Einreichung der Dissertation
 § 6 Entscheidung über die Eröffnung des Promotionsverfahrens
-§ 7 Rücktritt Verfahren
+§ 7 Rücktritt 
 § 8 Promotionskommission, Gutachter*innen
 § 9 Beurteilung der Dissertation
 § 10 Ablehnung der Dissertation
@@ -90,10 +90,10 @@ Promotionsstudierende an einzuschreiben.
 (1) Ein*e Doktorand*in wird in der Regel von einem Komitee aus mindestens zwei und
 höchstens vier Mitgliedern betreut, davon mindestens ein*e Professor*in bzw.
 Habilitierte*r. Betreuungsberechtigt sind Universitätsprofessor*innen, FH-Professor*innen,
-Juniorprofessor*innen, Habilitierte und Fakultätsrat zugelassene Promovierte; sie
+Juniorprofessor*innen, Habilitierte und rat zugelassene Promovierte; sie
 müssen nicht alle der MNF angehören.
   a. Das Betreuungskomitee wird von einem Mitglied der MNF geleitet (Erstbetreuer*in).
-  b. Hinreichend qualifizierte Promovierte können auf Antrag Fakultätsrat auch als
+  b. Hinreichend qualifizierte Promovierte können auf Antrag rat auch als
      Mitglied in dem Betreuungskomitee mit mindestens einem weiteren Mitglied
      zugelassen werden.
 
@@ -110,7 +110,7 @@ Das Betreuungskomitee wird von dem*der Dekan*in eingesetzt.
 schriftlich die Namen der Betreuer*innen und das voraussichtliche Thema der Dissertation,
 unterschriftlich bestätigt von den Betreuer*innen, mit.
 
-(3) Tritt der*die Doktorand*in Promotionsvorhaben zurück, informiert er*sie den*die
+(3) Tritt der*die Doktorand*in svorhaben zurück, informiert er*sie den*die
 Dekan*in. Ab dem neunten Fachsemester muss der*die Doktorand*in semesterweise eine
 Bescheinigung       des*der    Erstbetreuers*Erstbetreuerin   vorlegen,    dass    das
 Betreuungsverhältnis weiter besteht. Anderenfalls endet das Promotionsvorhaben.
@@ -296,9 +296,9 @@ entsprechend.
 
 
                                          §7
-                              Rücktritt Verfahren
+                              Rücktritt 
 
-Der*Die Doktorand*in kann Promotionsverfahren durch schriftliche Erklärung
+Der*Die Doktorand*in kann sverfahren durch schriftliche Erklärung
 gegenüber dem*der Dekan*in zurücktreten, solange ein ablehnendes Gutachten über die
 Dissertation nicht vorliegt und eine Täuschung über das Vorliegen von Voraussetzungen
 für die Eröffnung des Promotionsverfahrens nicht entdeckt ist. Mit zulässiger Ausübung
@@ -653,9 +653,9 @@ in Kraft.
 
 
 Ausgefertigt aufgrund des Beschlusses des Fakultätsrates-
-Naturwissenschaftlichen Fakultät 23.03.2022, aufgrund
-des Beschlusses des Senats 15.06.2022 und mit
-Genehmigung der Rektorin 16.06.2022.
+Naturwissenschaftlichen Fakultät 2, aufgrund
+des Beschlusses des Senats 2 und mit
+Genehmigung der Rektorin 2.
 
 
 

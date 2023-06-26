@@ -3,7 +3,8 @@ import re
 import argparse
 import subprocess
 
-#from src.chunker import try_to_write_dir
+#Commeand from Lukasz
+# from src.chunker import try_to_write_dir
 
 def filter_junk_text(txt_file):
     # helping file to get content of txt file
@@ -25,7 +26,7 @@ def filter_junk_text(txt_file):
 def remove_line_if_junk(line):
     # check if it is not too specific
     junk_list = ['\s[nN]ichtamtliche Lesefassung.*', '\sPrüfungs-\sund\sStudienordnung.*',  '\sdes\sBachelor*studiengangs*',
-                 '\sdes\sMasterstudiengangs*"', '\sder\sErnst-Moritz-Arndt-Universität\sGreifswald', '\s[vV]om', 
+                 '\sdes\sMasterstudiengangs*"', '\sder\sErnst-Moritz-Arndt-Universität\sGreifswald\s$', '[vV]om.{10,}?', 
                  '\sPromotionsordnung', '\sder\sMathematisch*\s*', '\sPrüfungs- und Studienordnung', 'Gemeinsame\sPrüfungsordnung\sfür',
                  '\sder\sUniversität\sGreifswald', '\sRahmenprüfungsordnung', '[ \t].Ausführungsbestimmungen\szum\sPromotionsverfahren']
 
@@ -54,28 +55,23 @@ def filter_out_from_the_line(pattern, line):
 
     return line
 
-# filtering out the junk text from the converted txt files
-#for filename in os.listdir(directory):
-#    f = os.path.join(directory, filename)
-    # check if is a txt file
-#    if os.path.isfile(f) and f[-4:] == '.txt':
-#        filter_junk_text(f)
-
 def main():
     """Main to translate all PDF files in a specific folder into txt files that
     retain the layout, e.g. table
     """
+    # Command from Lukasz
     '''parser = argparse.ArgumentParser(description = 'Translates all PDF files' +
                         ' from a given folder into text files while' +
                         ' retaining the layout including table structures.' +
                         ' The new text files will be located in the same' +
                         '  directory as the PDF files.') '''
-    #parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
+    # Command from Lukasz
+    # parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
     #                    default = './',
     #                    help = 'Directory in which all PDF files are saved.')
-    #args = parser.parse_args()
-
-    #dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
+    # args = parser.parse_args()
+    # Command from Lukasz
+    # dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
 
     # convert pdf files in a dictionary into txt files
     directory = '../data/examination_regulations_2'
