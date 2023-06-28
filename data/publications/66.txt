@@ -1,34 +1,34 @@
 Bernd Kugelmann,24007801;
 
-Robust Optimal Control of Fishing in a Three Competing Species Model	https://www.webofscience.com/wos/woscc/full-record/WOS:000435693000003
+Robust Optimal Control of Fishing in a Three Competing Species Model
 
-Infrared study of the magnetostructural phase transition in correlated CrN	https://www.webofscience.com/wos/woscc/full-record/WOS:000387537100003
+Infrared study of the magnetostructural phase transition in correlated CrN
 
-Existence and uniqueness of optimal solutions for multirate partial differential algebraic equations	https://www.webofscience.com/wos/woscc/full-record/WOS:000362057700005
+Existence and uniqueness of optimal solutions for multirate partial differential algebraic equations
 
-Prior Shape Level Set Segmentation on Multistep Generated Probability Maps of MR Datasets for Fully Automatic Kidney Parenchyma Volumetry	https://www.webofscience.com/wos/woscc/full-record/WOS:000300197500014
+Prior Shape Level Set Segmentation on Multistep Generated Probability Maps of MR Datasets for Fully Automatic Kidney Parenchyma Volumetry
 
-Minimizing the noise of an aircraft during landing approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000084109500027
+Minimizing the noise of an aircraft during landing approach
 
-Parallel computation of feedback controls in aerospace engineering	https://www.webofscience.com/wos/woscc/full-record/WOS:A1996VR47500004
+Parallel computation of feedback controls in aerospace engineering
 
-Minimizing the maximum heating of a re-entering space shuttle: An optimal control problem with multiple control constraints	https://www.webofscience.com/wos/woscc/full-record/WOS:A1996TY29600003
+Minimizing the maximum heating of a re-entering space shuttle: An optimal control problem with multiple control constraints
 
-STABILITY OF ELASTIC ARCS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1994NJ82500015
+STABILITY OF ELASTIC ARCS
 
-CONTROLLABILITY INVESTIGATIONS OF A 2-STAGE-TO-ORBIT VEHICLE	https://www.webofscience.com/wos/woscc/full-record/WOS:A1993BA17Y00024
+CONTROLLABILITY INVESTIGATIONS OF A 2-STAGE-TO-ORBIT VEHICLE
 
-REAL-TIME COMPUTATION OF FEEDBACK CONTROLS WITH APPLICATIONS IN AEROSPACE ENGINEERING - CONTROLLABILITY ANALYSIS OF A TSTO VEHICLE	https://www.webofscience.com/wos/woscc/full-record/WOS:A1991BW67X00054
+REAL-TIME COMPUTATION OF FEEDBACK CONTROLS WITH APPLICATIONS IN AEROSPACE ENGINEERING - CONTROLLABILITY ANALYSIS OF A TSTO VEHICLE
 
-NEW GENERAL GUIDANCE METHOD IN CONSTRAINED OPTIMAL-CONTROL .2. APPLICATION TO SPACE-SHUTTLE GUIDANCE	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EQ98300002
+NEW GENERAL GUIDANCE METHOD IN CONSTRAINED OPTIMAL-CONTROL .2. APPLICATION TO SPACE-SHUTTLE GUIDANCE
 
-NEW GENERAL GUIDANCE METHOD IN CONSTRAINED OPTIMAL-CONTROL .1. NUMERICAL-METHOD	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990EQ98300001
+NEW GENERAL GUIDANCE METHOD IN CONSTRAINED OPTIMAL-CONTROL .1. NUMERICAL-METHOD
 
-OPTIMAL GUIDANCE OF DYNAMIC-SYSTEMS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1990LF39500034
+OPTIMAL GUIDANCE OF DYNAMIC-SYSTEMS
 
-The dangers of insulin overdose in the therapy of liver diseases	https://www.webofscience.com/wos/woscc/full-record/WOS:000201478300174
+The dangers of insulin overdose in the therapy of liver diseases
 
-The significance of the inflammation for the diseases of the bile ducts, along with an article on the issue of the early operation	https://www.webofscience.com/wos/woscc/full-record/WOS:000201477800168
+The significance of the inflammation for the diseases of the bile ducts, along with an article on the issue of the early operation
 
-Larvate endocrine disturbances as a cause of some atypical disease images.	https://www.webofscience.com/wos/woscc/full-record/WOS:000201474800238
+Larvate endocrine disturbances as a cause of some atypical disease images.
 

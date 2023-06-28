@@ -1,68 +1,68 @@
 Mareike Fischer,15236651;
 
-Computer Vision for Detection of Body Posture and Behavior of Red Foxes	https://www.webofscience.com/wos/woscc/full-record/WOS:000755614900001
+Computer Vision for Detection of Body Posture and Behavior of Red Foxes
 
-Measuring tree balance using symmetry nodes - A new balance index and its extremal properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000710581500006
+Measuring tree balance using symmetry nodes - A new balance index and its extremal properties
 
-Application of YOLOv4 for Detection and Motion Monitoring of Red Foxes	https://www.webofscience.com/wos/woscc/full-record/WOS:000665400000001
+Application of YOLOv4 for Detection and Motion Monitoring of Red Foxes
 
-Extremal Values of the Sackin Tree Balance Index	https://www.webofscience.com/wos/woscc/full-record/WOS:000655800900001
+Extremal Values of the Sackin Tree Balance Index
 
-Unrooted non-binary tree-based phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000674744600002
+Unrooted non-binary tree-based phylogenetic networks
 
-How tree-based is my network? Proximity measures for unrooted phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000543301700008
+How tree-based is my network? Proximity measures for unrooted phylogenetic networks
 
-Classes of tree-based networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000705833000001
+Classes of tree-based networks
 
-On the uniqueness of the maximum parsimony tree for data with up to two substitutions: An extension of the classic Buneman theorem in phylogenetics	https://www.webofscience.com/wos/woscc/full-record/WOS:000472499000011
+On the uniqueness of the maximum parsimony tree for data with up to two substitutions: An extension of the classic Buneman theorem in phylogenetics
 
-Statistical Inconsistency of Maximum Parsimony for k-Tuple-Site Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000460046900009
+Statistical Inconsistency of Maximum Parsimony for k-Tuple-Site Data
 
-On the Shapley Value of Unrooted Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000456407300013
+On the Shapley Value of Unrooted Phylogenetic Trees
 
-LVQ-KNN: Composition-based DNA/RNA binning of short nucleotide sequences utilizing a prototype-based k-nearest neighbor approach	https://www.webofscience.com/wos/woscc/full-record/WOS:000450382600007
+LVQ-KNN: Composition-based DNA/RNA binning of short nucleotide sequences utilizing a prototype-based k-nearest neighbor approach
 
-On the information content of discrete phylogenetic characters	https://www.webofscience.com/wos/woscc/full-record/WOS:000443369200001
+On the information content of discrete phylogenetic characters
 
-Phylogenetic diversity and biodiversity indices on phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000430034700007
+Phylogenetic diversity and biodiversity indices on phylogenetic networks
 
-On the Accuracy of Ancestral Sequence Reconstruction for Ultrametric Trees with Parsimony	https://www.webofscience.com/wos/woscc/full-record/WOS:000428067300007
+On the Accuracy of Ancestral Sequence Reconstruction for Ultrametric Trees with Parsimony
 
-Automatic classification of farms and traders in the pig production chain	https://www.webofscience.com/wos/woscc/full-record/WOS:000426027300011
+Automatic classification of farms and traders in the pig production chain
 
-Defining objective clusters for rabies virus sequences using affinity propagation clustering	https://www.webofscience.com/wos/woscc/full-record/WOS:000424022700044
+Defining objective clusters for rabies virus sequences using affinity propagation clustering
 
-Ancestral Sequence Reconstruction with Maximum Parsimony	https://www.webofscience.com/wos/woscc/full-record/WOS:000416819300005
+Ancestral Sequence Reconstruction with Maximum Parsimony
 
-On the Complexity of Computing MP Distance Between Binary Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000414908200007
+On the Complexity of Computing MP Distance Between Binary Phylogenetic Trees
 
-Comparing the rankings obtained from two biodiversity indices: the Fair Proportion Index and the Shapley Value	https://www.webofscience.com/wos/woscc/full-record/WOS:000408401800021
+Comparing the rankings obtained from two biodiversity indices: the Fair Proportion Index and the Shapley Value
 
-On the quirks of maximum parsimony and likelihood on phylogenetic networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000396640900010
+On the quirks of maximum parsimony and likelihood on phylogenetic networks
 
-A Linear Bound on the Number of States in Optimal Convex Characters for Maximum Parsimony Distance	https://www.webofscience.com/wos/woscc/full-record/WOS:000399013500025
+A Linear Bound on the Number of States in Optimal Convex Characters for Maximum Parsimony Distance
 
-Reduction rules for the maximum parsimony distance on phylogenetic trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000383822900001
+Reduction rules for the maximum parsimony distance on phylogenetic trees
 
-On the Maximum Parsimony Distance Between Phylogenetic Trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000370802900006
+On the Maximum Parsimony Distance Between Phylogenetic Trees
 
-ON COMPUTING THE MAXIMUM PARSIMONY SCORE OF A PHYLOGENETIC NETWORK	https://www.webofscience.com/wos/woscc/full-record/WOS:000352224600035
+ON COMPUTING THE MAXIMUM PARSIMONY SCORE OF A PHYLOGENETIC NETWORK
 
-The most parsimonious tree for random data	https://www.webofscience.com/wos/woscc/full-record/WOS:000343742200017
+The most parsimonious tree for random data
 
-Mathematical Aspects of Phylogenetic Groves	https://www.webofscience.com/wos/woscc/full-record/WOS:000319359000003
+Mathematical Aspects of Phylogenetic Groves
 
-On the group theoretical background of assigning stepwise mutations onto phylogenies	https://www.webofscience.com/wos/woscc/full-record/WOS:000314209900001
+On the group theoretical background of assigning stepwise mutations onto phylogenies
 
-Non-hereditary Maximum Parsimony trees	https://www.webofscience.com/wos/woscc/full-record/WOS:000306067000004
+Non-hereditary Maximum Parsimony trees
 
-Revisiting an Equivalence Between Maximum Parsimony and Maximum Likelihood Methods in Phylogenetics	https://www.webofscience.com/wos/woscc/full-record/WOS:000273481000009
+Revisiting an Equivalence Between Maximum Parsimony and Maximum Likelihood Methods in Phylogenetics
 
-Maximum parsimony on subsets of taxa	https://www.webofscience.com/wos/woscc/full-record/WOS:000274798300012
+Maximum parsimony on subsets of taxa
 
-Sequence length bounds for resolving a deep phylogenetic divergence	https://www.webofscience.com/wos/woscc/full-record/WOS:000262842700010
+Sequence length bounds for resolving a deep phylogenetic divergence
 
-Expected Anomalies in the Fossil Record	https://www.webofscience.com/wos/woscc/full-record/WOS:000264677700007
+Expected Anomalies in the Fossil Record
 
-Perfectly Misleading Distances from Ternary Characters	https://www.webofscience.com/wos/woscc/full-record/WOS:000263702800001
+Perfectly Misleading Distances from Ternary Characters
 

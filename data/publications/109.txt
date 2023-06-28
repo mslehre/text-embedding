@@ -1,102 +1,102 @@
 Thomas Schweder,30245214;
 
-Unique alcohol dehydrogenases involved in algal sugar utilization by marine bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000946036300001
+Unique alcohol dehydrogenases involved in algal sugar utilization by marine bacteria
 
-Novel Plant-Associated Brevibacillus and Lysinibacillus Genomospecies Harbor a Rich Biosynthetic Potential of Antimicrobial Compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000918358100001
+Novel Plant-Associated Brevibacillus and Lysinibacillus Genomospecies Harbor a Rich Biosynthetic Potential of Antimicrobial Compounds
 
-Marine bacteroidetes use a conserved enzymatic cascade to digest diatom beta-mannan	https://www.webofscience.com/wos/woscc/full-record/WOS:000886191300001
+Marine bacteroidetes use a conserved enzymatic cascade to digest diatom beta-mannan
 
-Metabolic engineering enables Bacillus licheniformis to grow on the marine polysaccharide ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000865769500001
+Metabolic engineering enables Bacillus licheniformis to grow on the marine polysaccharide ulvan
 
-A host-vector toolbox for improved secretory protein overproduction in Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000823666800002
+A host-vector toolbox for improved secretory protein overproduction in Bacillus subtilis
 
-Connecting Algal Polysaccharide Degradation to Formaldehyde Detoxification	https://www.webofscience.com/wos/woscc/full-record/WOS:000814837100001
+Connecting Algal Polysaccharide Degradation to Formaldehyde Detoxification
 
-Methanosaeta and "Candidatus Velamenicoccus archaeovorus"	https://www.webofscience.com/wos/woscc/full-record/WOS:000782461400045
+Methanosaeta and "Candidatus Velamenicoccus archaeovorus"
 
-Diverse events have transferred genes for edible seaweed digestion from marine to human gut bacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000772209900010
+Diverse events have transferred genes for edible seaweed digestion from marine to human gut bacteria
 
-Genome sequence data of Bacillus velezensis BP1.2A and BT2.4	https://www.webofscience.com/wos/woscc/full-record/WOS:000778990600025
+Genome sequence data of Bacillus velezensis BP1.2A and BT2.4
 
-A new carbohydrate-active oligosaccharide dehydratase is involved in the degradation of ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000713100100013
+A new carbohydrate-active oligosaccharide dehydratase is involved in the degradation of ulvan
 
-Biotransformation of bisphenol a analogues by the biphenyl-degrading bacterium Cupriavidus basilensis - a structure-biotransformation relationship (vol 104, pg 3569, 2020)	https://www.webofscience.com/wos/woscc/full-record/WOS:000673871800002
+Biotransformation of bisphenol a analogues by the biphenyl-degrading bacterium Cupriavidus basilensis - a structure-biotransformation relationship (vol 104, pg 3569, 2020)
 
-Reaching out in anticipation: bacterial membrane extensions represent a permanent investment in polysaccharide sensing and utilization	https://www.webofscience.com/wos/woscc/full-record/WOS:000648032100001
+Reaching out in anticipation: bacterial membrane extensions represent a permanent investment in polysaccharide sensing and utilization
 
-Genomic and proteomic profiles of biofilms on microplastics are decoupled from artificial surface properties	https://www.webofscience.com/wos/woscc/full-record/WOS:000647845600001
+Genomic and proteomic profiles of biofilms on microplastics are decoupled from artificial surface properties
 
-Changing expression patterns of TonB-dependent transporters suggest shifts in polysaccharide consumption over the course of a spring phytoplankton bloom	https://www.webofscience.com/wos/woscc/full-record/WOS:000623737300004
+Changing expression patterns of TonB-dependent transporters suggest shifts in polysaccharide consumption over the course of a spring phytoplankton bloom
 
-Diatom fucan polysaccharide precipitates carbon during algal blooms	https://www.webofscience.com/wos/woscc/full-record/WOS:000621486400005
+Diatom fucan polysaccharide precipitates carbon during algal blooms
 
-Bacterial symbiont subpopulations have different roles in a deep-sea symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000606821500001
+Bacterial symbiont subpopulations have different roles in a deep-sea symbiosis
 
-Draft Genome Sequences of 59 Endospore-Forming Gram-Positive Bacteria Associated with Crop Plants Grown in Vietnam	https://www.webofscience.com/wos/woscc/full-record/WOS:000593943400022
+Draft Genome Sequences of 59 Endospore-Forming Gram-Positive Bacteria Associated with Crop Plants Grown in Vietnam
 
-Verrucomicrobia use hundreds of enzymes to digest the algal polysaccharide fucoidan	https://www.webofscience.com/wos/woscc/full-record/WOS:000535444800003
+Verrucomicrobia use hundreds of enzymes to digest the algal polysaccharide fucoidan
 
-Biotransformation of bisphenol A analogues by the biphenyl-degrading bacterium Cupriavidusbasilensis - a structure-biotransformation relationship	https://www.webofscience.com/wos/woscc/full-record/WOS:000518077800004
+Biotransformation of bisphenol A analogues by the biphenyl-degrading bacterium Cupriavidusbasilensis - a structure-biotransformation relationship
 
-Comparative proteomics of related symbiotic mussel species reveals high variability of host-symbiont interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000509197100026
+Comparative proteomics of related symbiotic mussel species reveals high variability of host-symbiont interactions
 
-Host-Microbe Interactions in the Chemosynthetic Riftia pachyptila Symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000507988700006
+Host-Microbe Interactions in the Chemosynthetic Riftia pachyptila Symbiosis
 
-In marine Bacteroidetes the bulk of glycan degradation during algae blooms is mediated by few clades using a restricted set of genes	https://www.webofscience.com/wos/woscc/full-record/WOS:000490275400015
+In marine Bacteroidetes the bulk of glycan degradation during algae blooms is mediated by few clades using a restricted set of genes
 
-Biopearling of Interconnected Outer Membrane Vesicle Chains by a Marine Flavobacterium	https://www.webofscience.com/wos/woscc/full-record/WOS:000488849800005
+Biopearling of Interconnected Outer Membrane Vesicle Chains by a Marine Flavobacterium
 
-Individual Physiological Adaptations Enable Selected Bacterial Taxa To Prevail during Long-Term Incubations	https://www.webofscience.com/wos/woscc/full-record/WOS:000478565000021
+Individual Physiological Adaptations Enable Selected Bacterial Taxa To Prevail during Long-Term Incubations
 
-A marine bacterial enzymatic cascade degrades the algal polysaccharide ulvan	https://www.webofscience.com/wos/woscc/full-record/WOS:000476478500010
+A marine bacterial enzymatic cascade degrades the algal polysaccharide ulvan
 
-Characterization of a thaumarchaeal symbiont that drives incomplete nitrification in the tropical sponge Ianthella basta	https://www.webofscience.com/wos/woscc/full-record/WOS:000479705700001
+Characterization of a thaumarchaeal symbiont that drives incomplete nitrification in the tropical sponge Ianthella basta
 
-Microbial metal-sulfide oxidation in inactive hydrothermal vent chimneys suggested by metagenomic and metaproteomic analyses	https://www.webofscience.com/wos/woscc/full-record/WOS:000459172700013
+Microbial metal-sulfide oxidation in inactive hydrothermal vent chimneys suggested by metagenomic and metaproteomic analyses
 
-An auto-inducible phosphate-controlled expression system of Bacillus licheniformis	https://www.webofscience.com/wos/woscc/full-record/WOS:000455336400002
+An auto-inducible phosphate-controlled expression system of Bacillus licheniformis
 
-Transcriptomic and proteomic insight into the mechanism of cyclooctasulfur- versus thiosulfate-oxidation by the chemolithoautotroph Sulfurimonas denitrificans	https://www.webofscience.com/wos/woscc/full-record/WOS:000456278900017
+Transcriptomic and proteomic insight into the mechanism of cyclooctasulfur- versus thiosulfate-oxidation by the chemolithoautotroph Sulfurimonas denitrificans
 
-Biphasic cellular adaptations and ecological implications of Alteromonas macleodii degrading a mixture of algal polysaccharides	https://www.webofscience.com/wos/woscc/full-record/WOS:000453576600008
+Biphasic cellular adaptations and ecological implications of Alteromonas macleodii degrading a mixture of algal polysaccharides
 
-Polysaccharide utilization loci of North Sea Flavobacteriia as basis for using SusC/D-protein expression for predicting major phytoplankton glycans	https://www.webofscience.com/wos/woscc/full-record/WOS:000453576600007
+Polysaccharide utilization loci of North Sea Flavobacteriia as basis for using SusC/D-protein expression for predicting major phytoplankton glycans
 
-Adaptive mechanisms that provide competitive advantages to marine bacteroidetes during microalgal blooms	https://www.webofscience.com/wos/woscc/full-record/WOS:000450781600007
+Adaptive mechanisms that provide competitive advantages to marine bacteroidetes during microalgal blooms
 
-Alpha- and beta-mannan utilization by marine Bacteroidetes	https://www.webofscience.com/wos/woscc/full-record/WOS:000450357400017
+Alpha- and beta-mannan utilization by marine Bacteroidetes
 
-Oxidative demethylation of algal carbohydrates by cytochrome P450 monooxygenases (vol 14, pg 342, 2018)	https://www.webofscience.com/wos/woscc/full-record/WOS:000442174500021
+Oxidative demethylation of algal carbohydrates by cytochrome P450 monooxygenases (vol 14, pg 342, 2018)
 
-Biochemical characterization of an ulvan lyase from the marine flavobacterium Formosa agariphila KMM 3901(T)	https://www.webofscience.com/wos/woscc/full-record/WOS:000440109200019
+Biochemical characterization of an ulvan lyase from the marine flavobacterium Formosa agariphila KMM 3901(T)
 
-Metaproteogenomic Profiling of Microbial Communities Colonizing Actively Venting Hydrothermal Chimneys	https://www.webofscience.com/wos/woscc/full-record/WOS:000429347400002
+Metaproteogenomic Profiling of Microbial Communities Colonizing Actively Venting Hydrothermal Chimneys
 
-Oxidative demethylation of algal carbohydrates by cytochrome P450 monooxygenases	https://www.webofscience.com/wos/woscc/full-record/WOS:000428522900008
+Oxidative demethylation of algal carbohydrates by cytochrome P450 monooxygenases
 
-Genome sequence of the sulfur-oxidizing Bathymodiolus thermophilus gill endosymbiont	https://www.webofscience.com/wos/woscc/full-record/WOS:000409355500001
+Genome sequence of the sulfur-oxidizing Bathymodiolus thermophilus gill endosymbiont
 
-Exploiting fine-scale genetic and physiological variation of closely related microbes to reveal unknown enzyme functions	https://www.webofscience.com/wos/woscc/full-record/WOS:000407220100032
+Exploiting fine-scale genetic and physiological variation of closely related microbes to reveal unknown enzyme functions
 
-Aquatic adaptation of a laterally acquired pectin degradation pathway in marine gammaproteobacteria	https://www.webofscience.com/wos/woscc/full-record/WOS:000404007700019
+Aquatic adaptation of a laterally acquired pectin degradation pathway in marine gammaproteobacteria
 
-Bacillus pumilus KatX2 confers enhanced hydrogen peroxide resistance to a Bacillus subtilis PkatA:: katX2 mutant strain	https://www.webofscience.com/wos/woscc/full-record/WOS:000400326800002
+Bacillus pumilus KatX2 confers enhanced hydrogen peroxide resistance to a Bacillus subtilis PkatA:: katX2 mutant strain
 
-Insight into the evolution of microbial metabolism from the deep-branching bacterium, Thermovibrio ammonificans	https://www.webofscience.com/wos/woscc/full-record/WOS:000401793500001
+Insight into the evolution of microbial metabolism from the deep-branching bacterium, Thermovibrio ammonificans
 
-Staphylococcal serine protease-like proteins are pacemakers of allergic airway reactions to Staphylococcus aureus	https://www.webofscience.com/wos/woscc/full-record/WOS:000397002400015
+Staphylococcal serine protease-like proteins are pacemakers of allergic airway reactions to Staphylococcus aureus
 
-Metabolic and physiological interdependencies in the Bathymodiolus azoricus symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000394541500015
+Metabolic and physiological interdependencies in the Bathymodiolus azoricus symbiosis
 
-Nitrogen fixation in a chemoautotrophic lucinid symbiosis	https://www.webofscience.com/wos/woscc/full-record/WOS:000396366300013
+Nitrogen fixation in a chemoautotrophic lucinid symbiosis
 
-A Phosphate Starvation-Inducible Ribonuclease of Bacillus licheniformis	https://www.webofscience.com/wos/woscc/full-record/WOS:000385018200017
+A Phosphate Starvation-Inducible Ribonuclease of Bacillus licheniformis
 
-The anaerobic linalool metabolism in Thauera linaloolentis 47 Lol	https://www.webofscience.com/wos/woscc/full-record/WOS:000374838300001
+The anaerobic linalool metabolism in Thauera linaloolentis 47 Lol
 
-Linalool isomerase, a membrane-anchored enzyme in the anaerobic monoterpene degradation in Thauera linaloolentis 47Lol	https://www.webofscience.com/wos/woscc/full-record/WOS:000371959600001
+Linalool isomerase, a membrane-anchored enzyme in the anaerobic monoterpene degradation in Thauera linaloolentis 47Lol
 
-Production of the polyketide 6-deoxyerythronolide B in the heterologous host Bacillus subtilis	https://www.webofscience.com/wos/woscc/full-record/WOS:000369308900013
+Production of the polyketide 6-deoxyerythronolide B in the heterologous host Bacillus subtilis
 
-Effects of Halide Ions on the Carbamidocyclophane Biosynthesis in Nostoc sp CAVN2	https://www.webofscience.com/wos/woscc/full-record/WOS:000374586800020
+Effects of Halide Ions on the Carbamidocyclophane Biosynthesis in Nostoc sp CAVN2
 

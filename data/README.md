@@ -97,3 +97,10 @@ Institut für Baltistik  8       Baltistik
 Institut für Biochemie  9       Biochemie
 Institut für Botanik und Landschaftsökologie    10      Botanik
 ```
+
+### Remove links from publication lists
+
+```
+cd publications
+for f in *.txt; do cat $f | perl -pe 's/\t.*//' > $f.new; mv $f.new $f; done
+```
