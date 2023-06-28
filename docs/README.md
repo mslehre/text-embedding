@@ -17,4 +17,8 @@ GPT is a next-token predictor. It generates the next token based on probablity. 
 
 # Evaluation
 As a proof of concept a t-sNE plot has been generated for visualization of the clustering of fields of research. Using cosine similarity to compare the embeddings of the individual professors and the titles of 50 of their most recent papers, followed by a projection into two-dimensional space resulted in the following plot.
-
+<object data="https://github.com/mslehre/text-embedding/tree/sJ/docs/pub_tsne_plot_with_edges.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/mslehre/text-embedding/tree/sJ/docs/pub_tsne_plot_with_edges.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
