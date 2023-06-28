@@ -1,0 +1,31 @@
+Abkürzungen:
+AB          Arbeitsbelastung in Stunden
+LP          Leistungspunkte
+PA          Prüfungsart
+PL          Prüfungsleistungen (Umfang nach § 7, Absatz 2)
+RPT         Regelprüfungstermin (Semester)
+V           Vorlesung (Umfang in SWS)
+Ü           Übung (Umfang in SWS)
+S           Seminar (Umfang in SWS)
+PR          Praktikum
+Pr          Protokolle
+Ps          Praktikumsschein
+mP/Kl       mündliche Prüfung oder Klausur
+mP          mündliche Prüfung
+Kl, K       Klausur
+Kl 90       Klausur, Dauer 90 Minuten
+Üs          Übungsschein
+TB          Teilnahmebestätigung
+SV          Seminarvortrag
+Sems        Seminarschein
+R           Referat
+RV          Referat mit Verschriftlichung
+*           Prüfungsleistung ist unbenotet
+D           Dauer des zugehörigen Moduls in Semestern
+MZ          Modulzyklus: A = jährlich im Wintersemester
+                         B = jährlich im Sommersemester
+                         C = zweijährlich im Wintersemester gerade Jahre
+                         D = zweijährlich im Sommersemester ungerade Jahre
+                         E = zweijährlich im Wintersemester ungerade Jahre
+                         F = zweijährlich im Sommersemester gerade Jahre
+                         G = jedes Semester
