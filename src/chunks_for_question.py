@@ -53,7 +53,7 @@ def get_k_IDs(question: str,
     with h5py.File(file_path, 'r') as f_in:
         # get all embeddings and the id list:
         for key in f_in.keys():
-            if("embeddings" in key):
+            if("embedding" in key):
                 embeddings = f_in[key][:] 
             elif("ids" in key):
                 id_list = f_in[key][:]
@@ -105,9 +105,9 @@ def main():
     """Main to test the function that gets the k best chunks for a question.
     """
     question = "What is the publication domain of Christiane Helm?"
-    k = 3
+    k = 5
     a = get_k_IDs(question, 
-                embeddings_file="example_pubs/example_embeddings.hdf5", k=k)
+                embeddings_file="pub_embeddings.h5", k=k)
     print(f'Question: {question} The list with the best {k} file(s) is {a}.')
 
     exit(0)
