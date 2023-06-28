@@ -4,7 +4,7 @@ import argparse
 import subprocess
 
 #Commeand from Lukasz
-# from src.chunker import try_to_write_dir
+from src.chunker import try_to_write_dir
 
 def filter_junk_text(txt_file):
     # helping file to get content of txt file
@@ -44,18 +44,18 @@ def main():
     retain the layout, e.g. table
     """
     # Command from Lukasz
-    '''parser = argparse.ArgumentParser(description = 'Translates all PDF files' +
+    parser = argparse.ArgumentParser(description = 'Translates all PDF files' +
                         ' from a given folder into text files while' +
                         ' retaining the layout including table structures.' +
                         ' The new text files will be located in the same' +
-                        '  directory as the PDF files.') '''
+                        '  directory as the PDF files.')
     # Command from Lukasz
-    # parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
-    #                    default = './',
-    #                    help = 'Directory in which all PDF files are saved.')
-    # args = parser.parse_args()
+    parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
+                       default = './',
+                       help = 'Directory in which all PDF files are saved.')
+    args = parser.parse_args()
     # Command from Lukasz
-    # dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
+    dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
 
     # convert pdf files in a dictionary into txt files
     directory = '../data/examination_regulations_2'
@@ -64,9 +64,9 @@ def main():
     for filename in os.listdir(dir_path):
         f = os.path.join(dir_path, filename)
         # checking if it is a file and if it ends with '.pdf'
-        '''if os.path.isfile(f) and f[-4:] == '.pdf':
+        if os.path.isfile(f) and f[-4:] == '.pdf':
             process = subprocess.Popen(["pdftotext", "-layout", f])
-    '''
+    
 
         # filter out the converted txt files
         # check if it is a txt file
