@@ -46,8 +46,7 @@ def read_pub(file_path: str) -> str:
         pubs.append(lines[0].split(',')[0])  # extract author name 
         for line in lines[1:]:
             if line.strip():  # check if line is not empty
-                # add publication title and ignore link
-                pubs.append(line.split('\t')[0])
+                pubs.append(line)
     author_pubs = "\n".join(pubs)
 
     return author_pubs
