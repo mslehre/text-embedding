@@ -1,50 +1,20 @@
 from os import path
 
-from flask import Flask
-from openai.embeddings_utils import cosine_similarity, get_embedding
+from flask import Flask, render_template, redirect, url_for, request
+#from openai.embeddings_utils import cosine_similarity, get_embedding
 
-from compute_embedding import embedding_from_string, compute_similarity_of_texts
+#from compute_embedding import embedding_from_string, compute_similarity_of_texts
 
 app = Flask(__name__)
 
-@app.route('/')
+@app.route('/', methods=['POST', 'GET'])
 def home():
-    return '''<form>
-    <label for="fname">Enter first file text: </label><br>
-  <textarea name="file1" id="text1" rows="10" cols="30"></textarea><br>
-  <label for="lname">Enter second file text:</label><br>
-  <textarea name="file1" id="text2" rows="10" cols="30"></textarea>
-  </form>
-
-    <button onclick="myFunction()"> Compute similarity of the files content\
-        </button> <br><br>
-
-    <p id="demo"> </p>
-    <p id="url"> </p>
-
-    <script>
-        function myFunction() {
-            let f1 = document.getElementById("text1").value;
-            let f2 = document.getElementById("text2").value;
-            let actualUrl = window.location.href;
-
-            document.getElementById("url").innerHTML="";
-
-            if(!f1 || !f2){
-                document.getElementById("demo").innerHTML="";
-                alert("The file name can not be empty!");
-            } else {
-                document.getElementById("result").value=f1+f2;
-                window.open(actualUrl+"/text1/"+f1+"/text2/"+f2);
-            }
-        }
-    </script>
-
-    <form>
-    <textarea name="result" id=result rows="10" cols="30">
-    </textarea>
-
-    </form>'''
+    if (request.method == 'POST'):
+        text1 = request.form['text1']
+        text2 = request.form['text2']
+        return render_template("index.html")
+    else:
+        return render_template("index.html")
 
 @app.route('/text1/<text1>/text2/<text2>')
 def compute_similarity_of_files(text1: str, text2: str) -> str:
