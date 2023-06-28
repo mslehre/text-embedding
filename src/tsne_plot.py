@@ -147,7 +147,7 @@ def get_edges(similarities: np.ndarray,
     if not k or not threshold:
         print("ERROR: You need to specify at least one criterium for selecting"
               + " the edges!")
-        exit(0)
+        exit(1)
 
     edges = []
 
@@ -224,7 +224,7 @@ def tsne_plot(X: np.ndarray,
             x2 = X[j,0] - x1
             y2 = X[j,1] - y1
             plt.arrow(x1, y1, x2, y2, 
-                      color='gray', linewidth=2, length_includes_head=True, 
+                      color='gray', linewidth=1, length_includes_head=True, 
                       head_width=0, alpha = 0.2, zorder = 0)
             # for  some reason plt.plot doesnt work well with scatter plots
             #plt.plot(X[i, :], X[j, :], marker = None, linewidth = 2, 
@@ -257,7 +257,7 @@ def main():
     parser.add_argument('-o', '--outfile', default = 'tsne_plot',
                         help = 'Stem for output file to save plot. Default is '
                         + '\"tsne_plot\".')
-    parser.add_argument('--format', default = 'png', 
+    parser.add_argument('--format', default = 'pdf', 
                         choices = ['png', 'pdf', 'svg'],
                         help = 'Format for plot. Default is png.')
     parser.add_argument('--pca', action = 'store_true',
