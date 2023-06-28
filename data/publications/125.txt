@@ -1,96 +1,96 @@
 Susanne Schnell,707958;
 
-Intracranial Blood Flow Quantification by Accelerated Dual-venc 4D Flow MRI: Comparison With Transcranial Doppler Ultrasound	https://www.webofscience.com/wos/woscc/full-record/WOS:000754020100001
+Intracranial Blood Flow Quantification by Accelerated Dual-venc 4D Flow MRI: Comparison With Transcranial Doppler Ultrasound
 
-Accelerated dual-venc 4D flow MRI with variable high-venc spatial resolution for neurovascular applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000815741900001
+Accelerated dual-venc 4D flow MRI with variable high-venc spatial resolution for neurovascular applications
 
-Modeling Bias Error in 4D Flow MRI Velocity Measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000819831700017
+Modeling Bias Error in 4D Flow MRI Velocity Measurements
 
-Comparison of Improved Unidirectional Dual Velocity-Encoding MRI Methods	https://www.webofscience.com/wos/woscc/full-record/WOS:000812618100001
+Comparison of Improved Unidirectional Dual Velocity-Encoding MRI Methods
 
-Why do humans undergo an adiposity rebound? Exploring links with the energetic costs of brain development in childhood using MRI-based 4D measures of total cerebral blood flow	https://www.webofscience.com/wos/woscc/full-record/WOS:000752746100001
+Why do humans undergo an adiposity rebound? Exploring links with the energetic costs of brain development in childhood using MRI-based 4D measures of total cerebral blood flow
 
-Noninvasive quantification of cerebrovascular pressure changes using 4D Flow MRI	https://www.webofscience.com/wos/woscc/full-record/WOS:000688015100001
+Noninvasive quantification of cerebrovascular pressure changes using 4D Flow MRI
 
-Development of a rotation phantom for phase contrast MRI sequence validation and quality control	https://www.webofscience.com/wos/woscc/full-record/WOS:000541867000001
+Development of a rotation phantom for phase contrast MRI sequence validation and quality control
 
-Bilateral Multiband 4D Flow MRI of the Carotid Arteries at 7T	https://www.webofscience.com/wos/woscc/full-record/WOS:000520246300001
+Bilateral Multiband 4D Flow MRI of the Carotid Arteries at 7T
 
-4D Flow MRI Pressure Estimation Using Velocity Measurement-Error-Based Weighted Least-Squares	https://www.webofscience.com/wos/woscc/full-record/WOS:000532214700035
+4D Flow MRI Pressure Estimation Using Velocity Measurement-Error-Based Weighted Least-Squares
 
-Efficient triple-VENC phase-contrast MRI for improved velocity dynamic range	https://www.webofscience.com/wos/woscc/full-record/WOS:000481748800001
+Efficient triple-VENC phase-contrast MRI for improved velocity dynamic range
 
-Automated Individualized Evaluation of Hemodynamics in Intracranial Atherosclerotic Disease With Dual-Venc 4D Flow MRI	https://www.webofscience.com/wos/woscc/full-record/WOS:000590040200262
+Automated Individualized Evaluation of Hemodynamics in Intracranial Atherosclerotic Disease With Dual-Venc 4D Flow MRI
 
-Standardized Evaluation of Cerebral Arteriovenous Malformations Using Flow Distribution Network Graphs and Dual-venc 4D Flow MRI	https://www.webofscience.com/wos/woscc/full-record/WOS:000496602700004
+Standardized Evaluation of Cerebral Arteriovenous Malformations Using Flow Distribution Network Graphs and Dual-venc 4D Flow MRI
 
-Visual analysis of regional myocardial motion anomalies in longitudinal studies	https://www.webofscience.com/wos/woscc/full-record/WOS:000490628100011
+Visual analysis of regional myocardial motion anomalies in longitudinal studies
 
-Multi-modality cerebral aneurysm haemodynamic analysis: in vivo 4D flow MRI, in vitro volumetric particle velocimetry and in silico computational fluid dynamics	https://www.webofscience.com/wos/woscc/full-record/WOS:000488564000022
+Multi-modality cerebral aneurysm haemodynamic analysis: in vivo 4D flow MRI, in vitro volumetric particle velocimetry and in silico computational fluid dynamics
 
-Semi-automated analysis of 4D flow MRI to assess the hemodynamic impact of intracranial atherosclerotic disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000471308300019
+Semi-automated analysis of 4D flow MRI to assess the hemodynamic impact of intracranial atherosclerotic disease
 
-Aortic 4D flow MRI in 2 minutes using compressed sensing, respiratory controlled adaptive k-space reordering, and inline reconstruction	https://www.webofscience.com/wos/woscc/full-record/WOS:000481978700020
+Aortic 4D flow MRI in 2 minutes using compressed sensing, respiratory controlled adaptive k-space reordering, and inline reconstruction
 
-Caval to pulmonary 3D flow distribution in patients with Fontan circulation and impact of potential 4D flow MRI error sources	https://www.webofscience.com/wos/woscc/full-record/WOS:000462086300040
+Caval to pulmonary 3D flow distribution in patients with Fontan circulation and impact of potential 4D flow MRI error sources
 
-Towards Cerebral Aneurysm Rupture Risk Prediction Using Quantitative Analysis by 4D Flow MRI: Intra-Aneurysmal Vortical Blood Flow and Association to Wall Shear Stress	https://www.webofscience.com/wos/woscc/full-record/WOS:000478733401413
+Towards Cerebral Aneurysm Rupture Risk Prediction Using Quantitative Analysis by 4D Flow MRI: Intra-Aneurysmal Vortical Blood Flow and Association to Wall Shear Stress
 
-Assessment of Intracranial Atherosclerotic Stenosis Using 4D Flow MRI Derived Hemodynamic Biomarkers	https://www.webofscience.com/wos/woscc/full-record/WOS:000478733401417
+Assessment of Intracranial Atherosclerotic Stenosis Using 4D Flow MRI Derived Hemodynamic Biomarkers
 
-4-D flow MRI aortic 3-D hemodynamics and wall shear stress remain stable over short-term follow-up in pediatric and young adult patients with bicuspid aortic valve	https://www.webofscience.com/wos/woscc/full-record/WOS:000454837300007
+4-D flow MRI aortic 3-D hemodynamics and wall shear stress remain stable over short-term follow-up in pediatric and young adult patients with bicuspid aortic valve
 
-Evaluation of Cerebral Arteriovenous Malformations using Flow Distribution Network Graphs and Dual-VENC 4D Flow MRI	https://www.webofscience.com/wos/woscc/full-record/WOS:000478733400216
+Evaluation of Cerebral Arteriovenous Malformations using Flow Distribution Network Graphs and Dual-VENC 4D Flow MRI
 
-4-D flow magnetic-resonance-imaging-derived energetic biomarkers are abnormal in children with repaired tetralogy of Fallot and associated with disease severity	https://www.webofscience.com/wos/woscc/full-record/WOS:000459221400004
+4-D flow magnetic-resonance-imaging-derived energetic biomarkers are abnormal in children with repaired tetralogy of Fallot and associated with disease severity
 
-Altered Aortic 3-Dimensional Hemodynamics in Patients With Functionally Unicuspid Aortic Valves	https://www.webofscience.com/wos/woscc/full-record/WOS:000442406300008
+Altered Aortic 3-Dimensional Hemodynamics in Patients With Functionally Unicuspid Aortic Valves
 
-Feasibility of Automated Analysis of Dual-Venc 4D Flow Mri to Assess Hemodynamics in Patients With Intracranial Atheroscleotic Disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000429723400539
+Feasibility of Automated Analysis of Dual-Venc 4D Flow Mri to Assess Hemodynamics in Patients With Intracranial Atheroscleotic Disease
 
-Curvelet Transform-based volume fusion for correcting signal loss artifacts in Time-of-Flight Magnetic Resonance Angiography data	https://www.webofscience.com/wos/woscc/full-record/WOS:000442978700013
+Curvelet Transform-based volume fusion for correcting signal loss artifacts in Time-of-Flight Magnetic Resonance Angiography data
 
-Voxel-by-voxel 4D flow MRI-based assessment of regional reverse flow in the aorta	https://www.webofscience.com/wos/woscc/full-record/WOS:000430109700013
+Voxel-by-voxel 4D flow MRI-based assessment of regional reverse flow in the aorta
 
-Accelerated dual-venc 4D flow MRI for neurovascular applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000403006100009
+Accelerated dual-venc 4D flow MRI for neurovascular applications
 
-Four-Dimensional Flow MRI-Based Splenic Flow Index for Predicting Cirrhosis-Associated Hypersplenism	https://www.webofscience.com/wos/woscc/full-record/WOS:000404057000019
+Four-Dimensional Flow MRI-Based Splenic Flow Index for Predicting Cirrhosis-Associated Hypersplenism
 
-In Vivo Assessment of the Impact of Regional Intracranial Atherosclerotic Lesions on Brain Arterial 3D Hemodynamics	https://www.webofscience.com/wos/woscc/full-record/WOS:000396109200021
+In Vivo Assessment of the Impact of Regional Intracranial Atherosclerotic Lesions on Brain Arterial 3D Hemodynamics
 
-Mathematics Enrichment for All - Noticing and Enhancing Mathematical Potentials of Underprivileged Students as An Issue of Equity	https://www.webofscience.com/wos/woscc/full-record/WOS:000393036300009
+Mathematics Enrichment for All - Noticing and Enhancing Mathematical Potentials of Underprivileged Students as An Issue of Equity
 
-4D flow MRI demonstrates changes in cardiovascular haemodynamics in complex congenital heart disease	https://www.webofscience.com/wos/woscc/full-record/WOS:000397065800019
+4D flow MRI demonstrates changes in cardiovascular haemodynamics in complex congenital heart disease
 
-Altered Aortic Hemodynamics in Patients With Functionally Unicuspid Valves	https://www.webofscience.com/wos/woscc/full-record/WOS:000437035904414
+Altered Aortic Hemodynamics in Patients With Functionally Unicuspid Valves
 
-Superior Abdominal 4D Flow MRI Data Consistency with Adjusted Preprocessing Workflow and Noncontrast Acquisitions	https://www.webofscience.com/wos/woscc/full-record/WOS:000394727700014
+Superior Abdominal 4D Flow MRI Data Consistency with Adjusted Preprocessing Workflow and Noncontrast Acquisitions
 
-4D flow MR imaging of the portal venous system: a feasibility study in children	https://www.webofscience.com/wos/woscc/full-record/WOS:000392142000046
+4D flow MR imaging of the portal venous system: a feasibility study in children
 
-Efficient method for volumetric assessment of peak blood flow velocity using 4D flow MRI	https://www.webofscience.com/wos/woscc/full-record/WOS:000387859600034
+Efficient method for volumetric assessment of peak blood flow velocity using 4D flow MRI
 
-Combined DSA and 4D Flow Demonstrate Overt Alterations of Vascular Geometry and Hemodynamics in an Unusually Complex Cerebral AVM	https://www.webofscience.com/wos/woscc/full-record/WOS:000389606200011
+Combined DSA and 4D Flow Demonstrate Overt Alterations of Vascular Geometry and Hemodynamics in an Unusually Complex Cerebral AVM
 
-Evaluation of blood flow distribution asymmetry and vascular geometry in patients with Fontan circulation using 4-D flow MRI	https://www.webofscience.com/wos/woscc/full-record/WOS:000385176200002
+Evaluation of blood flow distribution asymmetry and vascular geometry in patients with Fontan circulation using 4-D flow MRI
 
-Complex Alterations of Intracranial 4-Dimensional Hemodynamics in Vein of Galen Aneurysmal Malformations During Staged Endovascular Embolization	https://www.webofscience.com/wos/woscc/full-record/WOS:000381653600009
+Complex Alterations of Intracranial 4-Dimensional Hemodynamics in Vein of Galen Aneurysmal Malformations During Staged Endovascular Embolization
 
-Advanced flow MRI: emerging techniques and applications	https://www.webofscience.com/wos/woscc/full-record/WOS:000383353400008
+Advanced flow MRI: emerging techniques and applications
 
-Four-dimensional MRI flow examinations in cerebral and extracerebral vessels – ready for clinical routine?	https://www.webofscience.com/wos/woscc/full-record/WOS:000379207400004
+Four-dimensional MRI flow examinations in cerebral and extracerebral vessels – ready for clinical routine?
 
-Towards high-resolution 4D flow MRI in the human aorta using kt-GRAPPA and B1+shimming at 7T	https://www.webofscience.com/wos/woscc/full-record/WOS:000380068100026
+Towards high-resolution 4D flow MRI in the human aorta using kt-GRAPPA and B1+shimming at 7T
 
-Altered aortic shape in bicuspid aortic valve relatives influences blood flow patterns	https://www.webofscience.com/wos/woscc/full-record/WOS:000388369400003
+Altered aortic shape in bicuspid aortic valve relatives influences blood flow patterns
 
-Age-Related Changes of Normal Cerebral and Cardiac Blood Flow in Children and Adults Aged 7 Months to 61 Years	https://www.webofscience.com/wos/woscc/full-record/WOS:000371282800051
+Age-Related Changes of Normal Cerebral and Cardiac Blood Flow in Children and Adults Aged 7 Months to 61 Years
 
-Analyzing myocardial torsion based on tissue phase mapping cardiovascular magnetic resonance	https://www.webofscience.com/wos/woscc/full-record/WOS:000374864000001
+Analyzing myocardial torsion based on tissue phase mapping cardiovascular magnetic resonance
 
-Four-dimensional flow magnetic resonance imaging-based characterization of aortic morphometry and haemodynamics: impact of age, aortic diameter, and valve morphology	https://www.webofscience.com/wos/woscc/full-record/WOS:000384726000010
+Four-dimensional flow magnetic resonance imaging-based characterization of aortic morphometry and haemodynamics: impact of age, aortic diameter, and valve morphology
 
-Hemodynamic evaluation in patients with transposition of the great arteries after the arterial switch operation: 4D flow and 2D phase contrast cardiovascular magnetic resonance compared with Doppler echocardiography	https://www.webofscience.com/wos/woscc/full-record/WOS:000386466400002
+Hemodynamic evaluation in patients with transposition of the great arteries after the arterial switch operation: 4D flow and 2D phase contrast cardiovascular magnetic resonance compared with Doppler echocardiography
 
-Contour Tracking and Probabilistic Segmentation of Tissue Phase Mapping MRI	https://www.webofscience.com/wos/woscc/full-record/WOS:000382313300003
+Contour Tracking and Probabilistic Segmentation of Tissue Phase Mapping MRI
 

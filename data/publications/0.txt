@@ -1,90 +1,90 @@
 Andreas Link ,1152429;
 
-A graphite furnace-atomic absorption spectrometry-based rubidium efflux assay for screening activators of the K(v)7.2/3 channel	https://www.webofscience.com/wos/woscc/full-record/WOS:000932451000001
+A graphite furnace-atomic absorption spectrometry-based rubidium efflux assay for screening activators of the K(v)7.2/3 channel
 
-Advances in the discovery of new chemotypes through ultra-large library docking	https://www.webofscience.com/wos/woscc/full-record/WOS:000922467700001
+Advances in the discovery of new chemotypes through ultra-large library docking
 
-Replacing the oxidation-sensitive triaminoaryl chemotype of problematic K(V)7 channel openers: Exploration of a nicotinamide scaffold	https://www.webofscience.com/wos/woscc/full-record/WOS:000888857900001
+Replacing the oxidation-sensitive triaminoaryl chemotype of problematic K(V)7 channel openers: Exploration of a nicotinamide scaffold
 
-Fundamental Redesign of the TIGER2hs Kernel to Address Severe Parameter Sensitivity	https://www.webofscience.com/wos/woscc/full-record/WOS:000848668500001
+Fundamental Redesign of the TIGER2hs Kernel to Address Severe Parameter Sensitivity
 
-Flucytosine-based prodrug activation by cold physical plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000800612500001
+Flucytosine-based prodrug activation by cold physical plasma
 
-Carba Analogues of Flupirtine and Retigabine with Improved Oxidation Resistance and Reduced Risk of Quinoid Metabolite Formation	https://www.webofscience.com/wos/woscc/full-record/WOS:000821529800001
+Carba Analogues of Flupirtine and Retigabine with Improved Oxidation Resistance and Reduced Risk of Quinoid Metabolite Formation
 
-Modifications of the Triaminoaryl Metabophore of Flupirtine and Retigabine Aimed at Avoiding Quinone Diimine Formation	https://www.webofscience.com/wos/woscc/full-record/WOS:000783599200054
+Modifications of the Triaminoaryl Metabophore of Flupirtine and Retigabine Aimed at Avoiding Quinone Diimine Formation
 
-Correlation Analysis of Protein Expression of 10 HDAC/Sirtuin Isoenzymes with Sensitivities of 23 Anticancer Drugs in 17 Cancer Cell Lines and Potentiation of Drug Activity by Co-Treatment with HDAC Inhibitors	https://www.webofscience.com/wos/woscc/full-record/WOS:000751114500001
+Correlation Analysis of Protein Expression of 10 HDAC/Sirtuin Isoenzymes with Sensitivities of 23 Anticancer Drugs in 17 Cancer Cell Lines and Potentiation of Drug Activity by Co-Treatment with HDAC Inhibitors
 
-Nuclear import of BCL11B is mediated by a classical nuclear localization signal and not the Kruppel-like zinc fingers	https://www.webofscience.com/wos/woscc/full-record/WOS:000754504800013
+Nuclear import of BCL11B is mediated by a classical nuclear localization signal and not the Kruppel-like zinc fingers
 
-Supercritical fluid extraction-supercritical fluid chromatography of saliva: Single-quadrupole mass spectrometry monitoring of caffeine for gastric emptying studies(dagger)	https://www.webofscience.com/wos/woscc/full-record/WOS:000685440600001
+Supercritical fluid extraction-supercritical fluid chromatography of saliva: Single-quadrupole mass spectrometry monitoring of caffeine for gastric emptying studies(dagger)
 
-Chiral Pharmacokinetics and Metabolite Profile of Prolonged-release Ketamine Tablets in Healthy Human Subjects	https://www.webofscience.com/wos/woscc/full-record/WOS:000672099700020
+Chiral Pharmacokinetics and Metabolite Profile of Prolonged-release Ketamine Tablets in Healthy Human Subjects
 
-A Hypothesized Mechanism for Chronic Pancreatitis Caused by the N34S Mutation of Serine Protease Inhibitor Kazal-Type 1 Based on Conformational Studies	https://www.webofscience.com/wos/woscc/full-record/WOS:000653393900001
+A Hypothesized Mechanism for Chronic Pancreatitis Caused by the N34S Mutation of Serine Protease Inhibitor Kazal-Type 1 Based on Conformational Studies
 
-Unveiling the N-Terminal Homodimerization of BCL11B by Hybrid Solvent Replica-Exchange Simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000638672900001
+Unveiling the N-Terminal Homodimerization of BCL11B by Hybrid Solvent Replica-Exchange Simulations
 
-Directed Evolution of a Halide Methyltransferase Enables Biocatalytic Synthesis of Diverse SAM Analogs	https://www.webofscience.com/wos/woscc/full-record/WOS:000588400000001
+Directed Evolution of a Halide Methyltransferase Enables Biocatalytic Synthesis of Diverse SAM Analogs
 
-Engineering Regioselectivity of a P450 Monooxygenase Enables the Synthesis of Ursodeoxycholic Acid via 7 beta-Hydroxylation of Lithocholic Acid	https://www.webofscience.com/wos/woscc/full-record/WOS:000588422100001
+Engineering Regioselectivity of a P450 Monooxygenase Enables the Synthesis of Ursodeoxycholic Acid via 7 beta-Hydroxylation of Lithocholic Acid
 
-Activation of Sirtuin 2 Inhibitors Employing Photoswitchable Geometry and Aqueous Solubility	https://www.webofscience.com/wos/woscc/full-record/WOS:000530663600001
+Activation of Sirtuin 2 Inhibitors Employing Photoswitchable Geometry and Aqueous Solubility
 
-Influence of Substrate Binding Residues on the Substrate Scope and Regioselectivity of a Plant O-Methyltransferase against Flavonoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000535798500001
+Influence of Substrate Binding Residues on the Substrate Scope and Regioselectivity of a Plant O-Methyltransferase against Flavonoids
 
-Crystal structure of benzo[h]quinoline-3-carboxamide	https://www.webofscience.com/wos/woscc/full-record/WOS:000501540200004
+Crystal structure of benzo[h]quinoline-3-carboxamide
 
-Structure-Based Screening of Tetrazolylhydrazide Inhibitors versus KDM4 Histone Demethylases	https://www.webofscience.com/wos/woscc/full-record/WOS:000489321000001
+Structure-Based Screening of Tetrazolylhydrazide Inhibitors versus KDM4 Histone Demethylases
 
-Simultaneous quantification of acidic and basic flupirtine metabolites by supercritical fluid chromatography according to European Medicines Agency validation	https://www.webofscience.com/wos/woscc/full-record/WOS:000484871200034
+Simultaneous quantification of acidic and basic flupirtine metabolites by supercritical fluid chromatography according to European Medicines Agency validation
 
-Azologization and repurposing of a hetero-stilbene-based kinase inhibitor: towards the design of photoswitchable sirtuin inhibitors	https://www.webofscience.com/wos/woscc/full-record/WOS:000487507400001
+Azologization and repurposing of a hetero-stilbene-based kinase inhibitor: towards the design of photoswitchable sirtuin inhibitors
 
-Supercritical fluid chromatography: From science fiction to scientific fact	https://www.webofscience.com/wos/woscc/full-record/WOS:000472146800001
+Supercritical fluid chromatography: From science fiction to scientific fact
 
-Replica-Based Protein Structure Sampling Methods II: Advanced Hybrid Solvent TIGER2hs	https://www.webofscience.com/wos/woscc/full-record/WOS:000476693700003
+Replica-Based Protein Structure Sampling Methods II: Advanced Hybrid Solvent TIGER2hs
 
-Crystal structure of 7,8,15,16,17-pentathiadi-spiro[5.2.5(9).3(6)]heptadecane	https://www.webofscience.com/wos/woscc/full-record/WOS:000477632400039
+Crystal structure of 7,8,15,16,17-pentathiadi-spiro[5.2.5(9).3(6)]heptadecane
 
-Sulfide Analogues of Flupirtine and Retigabine with Nanomolar K(V)7.2/K(V)7.3 Channel Opening Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000471300900007
+Sulfide Analogues of Flupirtine and Retigabine with Nanomolar K(V)7.2/K(V)7.3 Channel Opening Activity
 
-Subcritical Fluid Chromatography at Sub-Ambient Temperatures for the Chiral Resolution of Ketamine Metabolites with Rapid-Onset Antidepressant Effects	https://www.webofscience.com/wos/woscc/full-record/WOS:000470996600085
+Subcritical Fluid Chromatography at Sub-Ambient Temperatures for the Chiral Resolution of Ketamine Metabolites with Rapid-Onset Antidepressant Effects
 
-How to replace the lost keys? Strategies toward safer K(V)7 channel openers	https://www.webofscience.com/wos/woscc/full-record/WOS:000465358000007
+How to replace the lost keys? Strategies toward safer K(V)7 channel openers
 
-Interconnection of sulfides and sulfoxides in medicinal chemistry	https://www.webofscience.com/wos/woscc/full-record/WOS:000454680000005
+Interconnection of sulfides and sulfoxides in medicinal chemistry
 
-Tetrahydroindoles as Multipurpose Screening Compounds and Novel Sirtuin Inhibitors	https://www.webofscience.com/wos/woscc/full-record/WOS:000465110100006
+Tetrahydroindoles as Multipurpose Screening Compounds and Novel Sirtuin Inhibitors
 
-Flupirtine Analogues: Explorative Synthesis and Influence of Chemical Structure on K(V)7.2/K(V)7.3 Channel Opening Activity	https://www.webofscience.com/wos/woscc/full-record/WOS:000457433000007
+Flupirtine Analogues: Explorative Synthesis and Influence of Chemical Structure on K(V)7.2/K(V)7.3 Channel Opening Activity
 
-Flupirtine and retigabine as templates for ligand-based drug design of K(V)7.2/3 activators	https://www.webofscience.com/wos/woscc/full-record/WOS:000468955900014
+Flupirtine and retigabine as templates for ligand-based drug design of K(V)7.2/3 activators
 
-Near-infrared spectroscopic identification and quantification of active pharmaceutical ingredients in closed capsules: a feasibility study for pediatric doses	https://www.webofscience.com/wos/woscc/full-record/WOS:000490746700012
+Near-infrared spectroscopic identification and quantification of active pharmaceutical ingredients in closed capsules: a feasibility study for pediatric doses
 
-Supercritical fluid extraction (SFE) of ketamine metabolites from dried urine and on-line quantification by supercritical fluid chromatography and single mass detection (on-line-SFE-SFC-MS)	https://www.webofscience.com/wos/woscc/full-record/WOS:000425555300011
+Supercritical fluid extraction (SFE) of ketamine metabolites from dried urine and on-line quantification by supercritical fluid chromatography and single mass detection (on-line-SFE-SFC-MS)
 
-Synthesis and potassium KV7 channel opening activity of thioether analogues of the analgesic flupirtine	https://www.webofscience.com/wos/woscc/full-record/WOS:000451074500005
+Synthesis and potassium KV7 channel opening activity of thioether analogues of the analgesic flupirtine
 
-The many (inter-) faces of supercritical fluid chromatography: the present and future prospects of online supercritical fluid extraction-supercritical fluid chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000442734200002
+The many (inter-) faces of supercritical fluid chromatography: the present and future prospects of online supercritical fluid extraction-supercritical fluid chromatography
 
-Ketamine metabolites with antidepressant effects: Fast, economical, and eco-friendly enantioselective separation based on supercritical-fluid chromatography (SFC) and single quadrupole MS detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000413283400053
+Ketamine metabolites with antidepressant effects: Fast, economical, and eco-friendly enantioselective separation based on supercritical-fluid chromatography (SFC) and single quadrupole MS detection
 
-Three-Component Aminoalkylations Yielding Dihydronaphthoxazine-Based Sirtuin Inhibitors: Scaffold Modification and Exploration of Space for Polar Side-Chains	https://www.webofscience.com/wos/woscc/full-record/WOS:000405999000007
+Three-Component Aminoalkylations Yielding Dihydronaphthoxazine-Based Sirtuin Inhibitors: Scaffold Modification and Exploration of Space for Polar Side-Chains
 
-Quantitative chiral and achiral determination of ketamine and its metabolites by LC-MS/MS in human serum, urine and fecal samples	https://www.webofscience.com/wos/woscc/full-record/WOS:000399865900010
+Quantitative chiral and achiral determination of ketamine and its metabolites by LC-MS/MS in human serum, urine and fecal samples
 
-Centennial Anniversary of Mannich's Report on the Formation of beta-Amino-Ketones in the Archiv der Pharmazie	https://www.webofscience.com/wos/woscc/full-record/WOS:000405999000005
+Centennial Anniversary of Mannich's Report on the Formation of beta-Amino-Ketones in the Archiv der Pharmazie
 
-Substituted tetrazoles as multipurpose screening compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000394440900002
+Substituted tetrazoles as multipurpose screening compounds
 
-Synthesis, chemical behavior, structure elucidation and iNOS inhibitory activity of 1-substituted3-methylsulfany1-5,6,7,8-tetrahydro-1H-[1,2,4]-triazolo[1,2-a]pyridazines	https://www.webofscience.com/wos/woscc/full-record/WOS:000408295400001
+Synthesis, chemical behavior, structure elucidation and iNOS inhibitory activity of 1-substituted3-methylsulfany1-5,6,7,8-tetrahydro-1H-[1,2,4]-triazolo[1,2-a]pyridazines
 
-G-Protein-Coupled Receptors: Sustained Signaling via Intracellular Megaplexes and Pathway-Specific Drugs	https://www.webofscience.com/wos/woscc/full-record/WOS:000392875700001
+G-Protein-Coupled Receptors: Sustained Signaling via Intracellular Megaplexes and Pathway-Specific Drugs
 
-Oxidation Potentials of N-Modified Derivatives of the Analgesic Flupirtine Linked to Potassium K(V)7 Channel Opening Activity But Not Hepatocyte Toxicity	https://www.webofscience.com/wos/woscc/full-record/WOS:000348710100015
+Oxidation Potentials of N-Modified Derivatives of the Analgesic Flupirtine Linked to Potassium K(V)7 Channel Opening Activity But Not Hepatocyte Toxicity
 
-Tetrazolylhydrazides as Selective Fragment-Like Inhibitors of the JumonjiC-Domain-Containing Histone Demethylase KDM4A	https://www.webofscience.com/wos/woscc/full-record/WOS:000363777500010
+Tetrazolylhydrazides as Selective Fragment-Like Inhibitors of the JumonjiC-Domain-Containing Histone Demethylase KDM4A
 

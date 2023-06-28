@@ -1,90 +1,90 @@
 Christoph Bandt,4574333;
 
-Statistics and contrasts of order patterns in univariate time series	https://www.webofscience.com/wos/woscc/full-record/WOS:000960656400004
+Statistics and contrasts of order patterns in univariate time series
 
-Elementary Fractal Geometry. 2. Carpets Involving Irrational Rotations	https://www.webofscience.com/wos/woscc/full-record/WOS:000757578300001
+Elementary Fractal Geometry. 2. Carpets Involving Irrational Rotations
 
-Entropy Ratio and Entropy Concentration Coefficient, with Application to the COVID-19 Pandemic	https://www.webofscience.com/wos/woscc/full-record/WOS:000593529600001
+Entropy Ratio and Entropy Concentration Coefficient, with Application to the COVID-19 Pandemic
 
-A reproduction rate which perfectly fits Covid-19	https://www.webofscience.com/wos/pprn/full-record/PPRN:22087771
+A reproduction rate which perfectly fits Covid-19
 
-Transparent Covid-19 prediction	https://www.webofscience.com/wos/pprn/full-record/PPRN:14476125
+Transparent Covid-19 prediction
 
-Order patterns, their variation and change points in financial time series and Brownian motion	https://www.webofscience.com/wos/woscc/full-record/WOS:000520911600001
+Order patterns, their variation and change points in financial time series and Brownian motion
 
-Elementary fractal geometry. Networks and carpets involving irrational rotations	https://www.webofscience.com/wos/pprn/full-record/PPRN:13083154
+Elementary fractal geometry. Networks and carpets involving irrational rotations
 
-Computer Geometry: Rep-Tiles with a Hole	https://www.webofscience.com/wos/woscc/full-record/WOS:000515613200001
+Computer Geometry: Rep-Tiles with a Hole
 
-Order patterns, their variation and change points in financial time series and Brownian motion	https://www.webofscience.com/wos/pprn/full-record/PPRN:22467718
+Order patterns, their variation and change points in financial time series and Brownian motion
 
-Small Order Patterns in Big Time Series: A Practical Guide	https://www.webofscience.com/wos/woscc/full-record/WOS:000475304200074
+Small Order Patterns in Big Time Series: A Practical Guide
 
-Computer geometry: Rep-tiles with a hole	https://www.webofscience.com/wos/pprn/full-record/PPRN:12951760
+Computer geometry: Rep-tiles with a hole
 
-Elementary fractal geometry. New relatives of the Sierpinski gasket	https://www.webofscience.com/wos/woscc/full-record/WOS:000436867700010
+Elementary fractal geometry. New relatives of the Sierpinski gasket
 
-A SINGLE FRACTAL PINWHEEL TILE	https://www.webofscience.com/wos/woscc/full-record/WOS:000423480000034
+A SINGLE FRACTAL PINWHEEL TILE
 
-New relatives of the Sierpinski gasket	https://www.webofscience.com/wos/pprn/full-record/PPRN:12842375
+New relatives of the Sierpinski gasket
 
-Finite orbits in multivalued maps and Bernoulli convolutions	https://www.webofscience.com/wos/woscc/full-record/WOS:000418780700013
+Finite orbits in multivalued maps and Bernoulli convolutions
 
-Finite orbits in multivalued maps and Bernoulli convolutions	https://www.webofscience.com/wos/pprn/full-record/PPRN:12817118
+Finite orbits in multivalued maps and Bernoulli convolutions
 
-POLYNOMIAL APPROXIMATION OF SELF-SIMILAR MEASURES AND THE SPECTRUM OF THE TRANSFER OPERATOR	https://www.webofscience.com/wos/woscc/full-record/WOS:000403207400002
+POLYNOMIAL APPROXIMATION OF SELF-SIMILAR MEASURES AND THE SPECTRUM OF THE TRANSFER OPERATOR
 
-A New Kind of Permutation Entropy Used to Classify Sleep Stages from Invisible EEG Microstructure	https://www.webofscience.com/wos/woscc/full-record/WOS:000404453700015
+A New Kind of Permutation Entropy Used to Classify Sleep Stages from Invisible EEG Microstructure
 
-A single fractal pinwheel tile	https://www.webofscience.com/wos/pprn/full-record/PPRN:12366260
+A single fractal pinwheel tile
 
-Quality Improvement Initiative for Severe Sepsis and Septic Shock Reduces 90-Day Mortality: A 7.5-Year Observational Study	https://www.webofscience.com/wos/woscc/full-record/WOS:000392464500012
+Quality Improvement Initiative for Severe Sepsis and Septic Shock Reduces 90-Day Mortality: A 7.5-Year Observational Study
 
-The Two-Dimensional Density of Bernoulli Convolutions	https://www.webofscience.com/wos/woscc/full-record/WOS:000451501100002
+The Two-Dimensional Density of Bernoulli Convolutions
 
-Old wine in fractal bottles I: Orthogonal expansions on self-referential spaces via fractal transformations	https://www.webofscience.com/wos/woscc/full-record/WOS:000385600000054
+Old wine in fractal bottles I: Orthogonal expansions on self-referential spaces via fractal transformations
 
-The two-dimensional density of Bernoulli Convolutions	https://www.webofscience.com/wos/pprn/full-record/PPRN:12178250
+The two-dimensional density of Bernoulli Convolutions
 
-Polynomial approximation of self-similar measures and the spectrum of the transfer operator	https://www.webofscience.com/wos/pprn/full-record/PPRN:50636203
+Polynomial approximation of self-similar measures and the spectrum of the transfer operator
 
-Permutation Entropy and Order Patterns in Long Time Series	https://www.webofscience.com/wos/woscc/full-record/WOS:000389044600006
+Permutation Entropy and Order Patterns in Long Time Series
 
-Fractal Geometry and Stochastics V	https://www.webofscience.com/wos/woscc/full-record/WOS:000380554100001
+Fractal Geometry and Stochastics V
 
-Autocorrelation type functions for big and dirty data series	https://www.webofscience.com/wos/pprn/full-record/PPRN:12035281
+Autocorrelation type functions for big and dirty data series
 
-Conjugacies provided by fractal transformations I : Conjugate measures, Hilbert spaces, orthogonal expansions, and flows, on self-referential spaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:12005037
+Conjugacies provided by fractal transformations I : Conjugate measures, Hilbert spaces, orthogonal expansions, and flows, on self-referential spaces
 
-Two-Step Linear Discriminant Analysis for Classification of EEG Data	https://www.webofscience.com/wos/woscc/full-record/WOS:000390947300006
+Two-Step Linear Discriminant Analysis for Classification of EEG Data
 
-Correlation between meropenem application rate, dosing, time and outcome of patients with severe sepsis and septic shock	https://www.webofscience.com/wos/woscc/full-record/WOS:000324281600139
+Correlation between meropenem application rate, dosing, time and outcome of patients with severe sepsis and septic shock
 
-Preemptive antimycotic therapy in septic shock?	https://www.webofscience.com/wos/woscc/full-record/WOS:000324281600125
+Preemptive antimycotic therapy in septic shock?
 
-Improvement in sepsis outcome: results of a continuous training program	https://www.webofscience.com/wos/woscc/full-record/WOS:000324281600124
+Improvement in sepsis outcome: results of a continuous training program
 
-Computer supported sepsisdiagnostics: results of the observation phase of the COMPUSEP study	https://www.webofscience.com/wos/woscc/full-record/WOS:000324281600088
+Computer supported sepsisdiagnostics: results of the observation phase of the COMPUSEP study
 
-Local structure of self-affine sets	https://www.webofscience.com/wos/pprn/full-record/PPRN:50250450
+Local structure of self-affine sets
 
-Differentiability of fractal curves	https://www.webofscience.com/wos/pprn/full-record/PPRN:22683786
+Differentiability of fractal curves
 
-Combinatorial topology of three-dimensional self-affine tiles	https://www.webofscience.com/wos/pprn/full-record/PPRN:10880248
+Combinatorial topology of three-dimensional self-affine tiles
 
-Simple Infinitely Ramified Self-Similar Sets	https://www.webofscience.com/wos/woscc/full-record/WOS:000289340300015
+Simple Infinitely Ramified Self-Similar Sets
 
-Predictive value of serum albumin and PCT in septic patients	https://www.webofscience.com/wos/woscc/full-record/WOS:000270597900084
+Predictive value of serum albumin and PCT in septic patients
 
-Case 1: Unexpected muscular hypotonia and need for mechanical ventilation in a preterm infant (Discussion and Diagnosis)	https://www.webofscience.com/wos/woscc/full-record/WOS:000260731300036
+Case 1: Unexpected muscular hypotonia and need for mechanical ventilation in a preterm infant (Discussion and Diagnosis)
 
-Self-similar tilings and patterns described by mappings	https://www.webofscience.com/wos/woscc/full-record/WOS:A1997BH54A00003
+Self-similar tilings and patterns described by mappings
 
-CLASSIFICATION OF SELF-AFFINE LATTICE TILINGS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1994QD74500013
+CLASSIFICATION OF SELF-AFFINE LATTICE TILINGS
 
-SELF-SIMILAR SETS .7. A CHARACTERIZATION OF SELF-SIMILAR FRACTALS WITH POSITIVE HAUSDORFF MEASURE	https://www.webofscience.com/wos/woscc/full-record/WOS:A1992HK93400017
+SELF-SIMILAR SETS .7. A CHARACTERIZATION OF SELF-SIMILAR FRACTALS WITH POSITIVE HAUSDORFF MEASURE
 
-SELF-SIMILAR SETS .5. INTEGER MATRICES AND FRACTAL TILINGS OF RN	https://www.webofscience.com/wos/woscc/full-record/WOS:A1991FR87900033
+SELF-SIMILAR SETS .5. INTEGER MATRICES AND FRACTAL TILINGS OF RN
 
-METRIC INVARIANCE OF HAAR MEASURE	https://www.webofscience.com/wos/woscc/full-record/WOS:A1983QD05700016
+METRIC INVARIANCE OF HAAR MEASURE
 
