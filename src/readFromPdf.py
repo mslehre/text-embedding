@@ -4,7 +4,7 @@ import argparse
 import subprocess
 
 #Commeand from Lukasz
-from src.chunker import try_to_write_dir
+from chunker import try_to_write_dir
 
 def filter_junk_text(txt_file):
     # helping file to get content of txt file
@@ -58,9 +58,9 @@ def main():
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
 
     # convert pdf files in a dictionary into txt files
-    directory = '../data/examination_regulations_2'
+    # directory = '../data/examination_regulations_2'
 
-    dir_path = directory
+    # dir_path = directory
     for filename in os.listdir(dir_path):
         f = os.path.join(dir_path, filename)
         # checking if it is a file and if it ends with '.pdf'
