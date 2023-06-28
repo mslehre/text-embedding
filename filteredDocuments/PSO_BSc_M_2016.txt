@@ -1,7 +1,8 @@
-                       
-                    Mathematik
-                an
-                              ar 2018
+                        Prüfungs- und Studienordnung
+                    des Bachelorstudiengangs Mathematik
+                an der Ernst-Moritz-Arndt-Universität Greifswald
+
+                              Vom 12. Februar 2018
 
 
 Aufgrund von § 2 Absatz 1 in Verbindung mit § 38 Absatz 1 und § 39 Absatz 1 des
@@ -54,8 +55,8 @@ RV      Referat mit Verschriftlichung
 Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das
 Prüfungsverfahren im Bachelorstudiengang Mathematik der Ernst-Moritz-Arndt-
 Universität Greifswald. Für alle in der vorliegenden Ordnung nicht geregelten
-Prüfungsangelegenheiten gilt die der Ernst-Moritz-Arndt-
-Universität Greifswald (RPO) r 2012 in der jeweils geltenden Fassung
+Prüfungsangelegenheiten gilt die Rahmenprüfungsordnung der Ernst-Moritz-Arndt-
+Universität Greifswald (RPO) vom 31. Januar 2012 in der jeweils geltenden Fassung
 unmittelbar.
 
 
@@ -331,7 +332,7 @@ Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50% der Übungsaufgaben
 erfolgreich zu bearbeiten.
 
 (7) Soweit eine Wahl zwischen zwei Prüfungsformen (mündliche Prüfung oder
-Klausur) besteht, wird sie  der ersten Vorlesungswoche getroffen. Wird
+Klausur) besteht, wird sie vom Prüfer in der ersten Vorlesungswoche getroffen. Wird
 die Prüfungsform nicht innerhalb der Frist festgelegt, gilt die in § 5 zuerst genannte
 Prüfungsform.
 
@@ -392,7 +393,7 @@ Bachelor of Science (abgekürzt: B. Sc.) vergeben.
                                        § 10
                                    Inkrafttreten
 
-(1) Die
+(1) Die Prüfungs- und Studienordnung tritt am Tag nach ihrer hochschulöffentlichen
 Bekanntmachung in Kraft.
 
 (2) Die Prüfungsordnung gilt erstmals für die Studierenden, die zum Wintersemester
@@ -402,7 +403,7 @@ Bekanntmachung in Kraft.
 
 
 Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats vom
-31. Januar 2018, der mit Beschluss des Senats 2016 gemäß § 81
+31. Januar 2018, der mit Beschluss des Senats vom 30. März 2016 gemäß § 81
 Absatz 7 LHG M-V und § 20 Absatz 1 Satz 2 Grundordnung die Befugnis zur
 Beschlussfassung verliehen wurde, sowie der Genehmigung der Rektorin vom
 12. Februar 2018.
@@ -412,7 +413,8 @@ Greifswald, den 12.02.2018
 
 
                                    Die Rektorin
-                                  Universitätsprofessorin Dr. Johanna Eleonore Weber
+                   der Ernst-Moritz-Arndt-Universität Greifswald
+                Universitätsprofessorin Dr. Johanna Eleonore Weber
 
 
 Veröffentlichungsvermerk: Hochschulöffentlich bekannt gemacht am 30.04.2018

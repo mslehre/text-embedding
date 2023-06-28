@@ -24,35 +24,19 @@ def filter_junk_text(txt_file):
     f.close()
 
 def remove_line_if_junk(line):
-    # check if it is not too specific
-    junk_list = ['\s[nN]ichtamtliche Lesefassung.*', '\sPrüfungs-\sund\sStudienordnung.*',  '\sdes\sBachelor*studiengangs*',
-                 '\sdes\sMasterstudiengangs*"', '\sder\sErnst-Moritz-Arndt-Universität\sGreifswald\s$', '[vV]om.{10,}?', 
-                 '\sPromotionsordnung', '\sder\sMathematisch*\s*', '\sPrüfungs- und Studienordnung', 'Gemeinsame\sPrüfungsordnung\sfür',
-                 '\sder\sUniversität\sGreifswald', '\sRahmenprüfungsordnung', '[ \t].Ausführungsbestimmungen\szum\sPromotionsverfahren']
+    junk_list_document = ['\s[nN]ichtamtliche Lesefassung.*']
 
     # check if the line includes any element of the list
-    for i in junk_list:
+    for i in junk_list_document:
         x = re.search(i, line)
 
         if x:
             # remove the found text
-            print(x[0])
+            # print(x[0]) # Debug
             line = re.sub(x[0], '', line)
-        
         else:
             continue
         
-    return line
-        
-                
-def filter_out_from_the_line(pattern, line):
-    # header
-    x = re.search(pattern, line)
-
-    if x:
-        # remove the found text
-        line = re.sub(x[0], '', line)
-
     return line
 
 def main():

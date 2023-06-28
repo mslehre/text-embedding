@@ -1,27 +1,28 @@
                                    
 
 
-                                    
-                     -Naturwissenschaftlichen Fakultät
-                        
-                                       2007
+                                     Promotionsordnung
+                      der Mathematisch-Naturwissenschaftlichen Fakultät
+                         der Ernst-Moritz-Arndt-Universität Greifswald
+
+                                      vom 24. April 2007
 
 Fundstelle: Mittl.bl. BM M-V 2007 S. 569
 
 Änderungen:
 
-      -   §§ 2, 12, 13 und 17 geändert durch die 1. Änderungssatzung 2008
+      -   §§ 2, 12, 13 und 17 geändert durch die 1. Änderungssatzung vom 26. Juni 2008
           (Mittl.bl. BM M-V 2008 S. 860), in Kraft seit 20. August 2008,
-      -   §§ 1, 2, 4, 11 und 12 geändert durch die 2. Änderungssatzung r
+      -   §§ 1, 2, 4, 11 und 12 geändert durch die 2. Änderungssatzung vom 29. Januar
           2010 (Mittl.bl. BM M-V 2010 S.478), in Kraft seit 19. Mai 2010,
       -   §§ 1, 2, 4 Abs. 1, 7 Abs. 1, 11 Abs. 1 und 13 bis 15 geändert durch die
-          3. Änderungssatzung 2011 (hochschulöffentlich bekannt gemacht am
+          3. Änderungssatzung vom 26. Juli 2011 (hochschulöffentlich bekannt gemacht am
           27.07.2011), in Kraft seit 28. Juli 2011,
       -   Inhaltsverzeichnis, §§ 1, 2, 4, 5, 7, 15, 17 und die Anlage geändert durch die 4.
-          Änderungssatzung 013 (hochschulöffentlich bekannt gemacht am
+          Änderungssatzung vom 31. Mai 2013 (hochschulöffentlich bekannt gemacht am
           04.06.2013), in Kraft seit 05. Juni 2013,
       -   Inhaltsverzeichnis, §§ 1, 2 geändert und § 3a eingefügt sowie §§ 4, 10 Abs. 4, 11
-          geändert durch die 5. Änderungssatzung 2016 (hochschulöffentlich
+          geändert durch die 5. Änderungssatzung vom 21. März 2016 (hochschulöffentlich
           bekannt gemacht am 22.03.2016), in Kraft seit 23. März 2016,
       -   § 12 Abs. 2 und die Anlage geändert durch die 6. Änderungssatzung vom
           25. Mai 2018 (hochschulöffentlich bekannt gemacht am 25.05.2018) in Kraft seit
@@ -30,9 +31,9 @@ Fundstelle: Mittl.bl. BM M-V 2007 S. 569
 
 Aufgrund von § 2 Abs. 1 in Verbindung mit § 43 Abs. 3 des Gesetzes über die
 Hochschulen des Landes Mecklenburg-Vorpommern (Landeshochschulgesetz – LHG M-
-V) 002 (GVOBl. M-V S. 398) 1, zuletzt geändert durch Artikel 19 des
-Gesetzes 006 (GVOBl. M-V S. 539) 2, erlässt die Ernst-Moritz-Arndt-
-Universität Greifswald die folgende-Natur-
+V) vom 5. Juli 2002 (GVOBl. M-V S. 398) 1, zuletzt geändert durch Artikel 19 des
+Gesetzes vom 10.Juli 2006 (GVOBl. M-V S. 539) 2, erlässt die Ernst-Moritz-Arndt-
+Universität Greifswald die folgende Promotionsordnung der Mathematisch-Natur-
 wissenschaftlichen Fakultät als Satzung:
 
 
@@ -44,7 +45,7 @@ Inhaltsverzeichnis:
 § 3a Dissertation
 § 4 Zulassungsgesuch
 § 5 Entscheidung über die Zulassung
-§ 6 Rücktritt 
+§ 6 Rücktritt vom Verfahren
 § 7 Promotionskommission, Gutachter
 § 8 Beurteilung der Dissertation
 § 9 Ablehnung der Dissertation
@@ -78,7 +79,7 @@ Anlage: Titelblatt der Dissertation
     Greifswald (Fakultät) verleiht den Grad eines Doktors der Naturwissenschaften
     (Doctor rerum naturalium – Dr. rer. nat.).
 
-(2) Die Promotion setzt eine enommene, mit mindestens der Note „rite“
+(2) Die Promotion setzt eine vom Dekan angenommene, mit mindestens der Note „rite“
     bewertete schriftliche Arbeit (Dissertation) voraus sowie eine mindestens mit der Note
     „rite“ bewertete Verteidigung (Promotionskolloquium).
 
@@ -90,12 +91,12 @@ Anlage: Titelblatt der Dissertation
     wissenschaftlichen Ergebnisse der Dissertation im mündlichen Vortrag und in der
     Diskussion öffentlich zu vertreten.
 
-(5) Diese regelt gleichzeitig den Abschluss der Promotionsphase im
+(5) Diese Promotionsordnung regelt gleichzeitig den Abschluss der Promotionsphase im
     Promotionsstudiengang „Greifswald Graduate School in Science“ (GGSS) an der
     Mathematisch-Naturwissenschaftlichen Fakultät der Ernst-Moritz-Arndt-Universität
-    Greifswald. Sie ist abgestimmt auf die Studienordnung mber 2002 und
-    die Prüfungsordnung mber 2002 dieses Promotionsstudienganges. Die
-    Kenntnis dieser Bestimmungen wird in dieser vorausgesetzt.
+    Greifswald. Sie ist abgestimmt auf die Studienordnung vom 17. September 2002 und
+    die Prüfungsordnung vom 17. September 2002 dieses Promotionsstudienganges. Die
+    Kenntnis dieser Bestimmungen wird in dieser Promotionsordnung vorausgesetzt.
 
 
                                           §2
@@ -131,7 +132,7 @@ wird, gilt diese jeweils auch für das andere Geschlecht.
     Professor oder sonstigen habilitierten Mitglied der Fakultät (Betreuer) angenommen
     worden sein. Im Falle der Annahme teilt der Doktorand dem Dekan schriftlich den
     Namen des Betreuers und das voraussichtliche Thema der Dissertation,
-    unterschriftlich bestätigt  mit. Ab dem neunten Fachsemester muss
+    unterschriftlich bestätigt vom Betreuer, mit. Ab dem neunten Fachsemester muss
     eine Bescheinigung des Betreuers vorgelegt werden, dass das Betreuungsverhältnis
     weiter besteht. Bei Abbruch des Promotionsvorhabens ist der Dekan zu informieren.
 
@@ -147,7 +148,7 @@ wird, gilt diese jeweils auch für das andere Geschlecht.
    der Dissertation zu bestellen ist. Ein weiteres Mitglied des Thesis-Committees kann
    als dritter Gutachter eingesetzt werden. In der Regel ist das Thesis-Committee ein
    Teil der Promotionskommission nach § 7 Absatz 1. Der Antrag auf die Einrichtung
-   eines Thesis-Committees ist en zu stellen, nach Anhörung des
+   eines Thesis-Committees ist vom Doktoranden zu stellen, nach Anhörung des
    Fakultätsrates setzt der Dekan dieses ein.
 
 (5) Die Zulassung von Doktoranden, die ein mathematisch-naturwissenschaftliches
@@ -210,7 +211,7 @@ wird, gilt diese jeweils auch für das andere Geschlecht.
     Promotion vorausgegangenen Studiums des Doktoranden darstellen, können nicht
     Bestandteil einer kumulativen Dissertation sein. Bei Manuskripten einer kumulativen
     Dissertation mit mehreren Autoren ist zusätzlich der jeweilige Anteil aller Autoren in
-    Bezug auf Inhalt und Umfang auszuweisen. Die Aufteilung muss und
+    Bezug auf Inhalt und Umfang auszuweisen. Die Aufteilung muss vom Betreuer und
     Doktoranden der Dissertation durch Unterschrift bestätigt werden.
 
 (3) Die Publikationen nach Abs. 2 müssen in der veröffentlichten Form abgedruckt
@@ -225,7 +226,7 @@ wird, gilt diese jeweils auch für das andere Geschlecht.
                                                                                         4
                                 
    Fakultätsrates über ausreichende Kenntnisse der beantragten Sprache verfügen.
-   Der Antrag soll  im Einvernehmen mit dem Betreuer spätestens drei
+   Der Antrag soll vom Doktorand im Einvernehmen mit dem Betreuer spätestens drei
    Monate nach der Annahme durch den Betreuer bei dem Fakultätsrat gestellt werden.
    In diesem Falle ist der Dissertation eine mindestens 20-seitige Zusammenfassung in
    deutscher oder englischer Sprache beizufügen.
@@ -309,9 +310,9 @@ wird, gilt diese jeweils auch für das andere Geschlecht.
 
 
                                          §6
-                              Rücktritt 
+                              Rücktritt vom Verfahren
 
-Der Doktorand kann sverfahren durch schriftliche Erklärung gegenüber
+Der Doktorand kann vom Promotionsverfahren durch schriftliche Erklärung gegenüber
 dem Dekan zurücktreten, solange ein ablehnendes Gutachten über die Dissertation nicht
 vorliegt und eine Täuschung über das Vorliegen von Zulassungsvoraussetzungen nicht
 entdeckt ist. Mit zulässiger Ausübung des Rücktritts endet das Promotionsverfahren.
@@ -325,7 +326,7 @@ entdeckt ist. Mit zulässiger Ausübung des Rücktritts endet das Promotionsverf
     mindestens vier Mitglieder beim Promotionskolloquium anwesend sein. Die
     Promotionskommission setzt sich aus einem Vorsitzenden, in der Regel dem
     Betreuer sowie weiteren Mitgliedern zusammen. Der Vorsitzende wird vom Dekan
-    ernannt, die weiteren Mitglieder werden dem Dekan den
+    ernannt, die weiteren Mitglieder werden dem Dekan vom Vorsitzenden
     vorgeschlagen. Dabei muss mindesten ein Mitglied einem anderen Institut der
     Fakultät als dem der Vorsitzenden und des Betreuers angehören. Der Dekan kann
     aus wichtigem Grund die Zusammensetzung der Promotionskommission ändern. Die
@@ -424,7 +425,7 @@ entdeckt ist. Mit zulässiger Ausübung des Rücktritts endet das Promotionsverf
     und Ort sind durch Aushang bekannt zu machen. Ausschluss der Öffentlichkeit aus
     einem wichtigen Grund durch den Dekan ist zulässig.
 
-(3) Das Promotionskolloquium wird den der Promotionskommission
+(3) Das Promotionskolloquium wird vom Vorsitzenden der Promotionskommission
    geleitet und von der Promotionskommission bewertet. Das Promotionskolloquium
    muss mit mindestens der Notenstufe „rite“ bewertet werden, damit es als gelungene
    Leistung eingeschätzt werden kann. § 8 Abs. 1 gilt entsprechend. Über die
@@ -491,7 +492,7 @@ entdeckt ist. Mit zulässiger Ausübung des Rücktritts endet das Promotionsverf
     besonderen Fällen kann der Dekan die Frist angemessen verlängern.
 
 (2) Die Dissertation ist auf dem Titelblatt als „Inauguraldissertation zur Erlangung des
-    akademischen Grades eines Doktors der Naturwissenschaften-
+    akademischen Grades eines Doktors der Naturwissenschaften der Mathematisch-
     Naturwissenschaftlichen Fakultät der Ernst-Moritz-Arndt-Universität Greifswald“ zu
     bezeichnen. Name, Ort und Datum der Einreichung der Dissertation sind zusammen
     mit der Titelzeile entsprechend Satz 1, wie in Anlage 1 angegeben, auf dem Titelblatt
@@ -506,7 +507,8 @@ entdeckt ist. Mit zulässiger Ausübung des Rücktritts endet das Promotionsverf
     Dissertation bezeichnen, wenn
 
    a) er eine elektronische Version auf einem Datenträger in einem Dateiformat nach
-      den von der Universitätsbibliothek      aufgestellten Regeln bei der Fakultät abgibt und
+      den von der Universitätsbibliothek der Ernst-Moritz-Arndt-Universität Greifswald
+      aufgestellten Regeln bei der Fakultät abgibt und
 
    b) er der Ernst-Moritz-Arndt-Universität Greifswald, der Deutschen Nationalbibliothek
       und gegebenenfalls der DFG-Sondersammelgebietsbibliothek schriftlich das
@@ -612,15 +614,15 @@ Antragsteller.
    Partnerinstitution eine Vereinbarung getroffen. Dieser Vertrag bedarf der vorherigen
                                                                                     11
                                 
-   Zustimmung des Dekans-Naturwissenschaftlichen Fakultät und
+   Zustimmung des Dekans der Mathematisch-Naturwissenschaftlichen Fakultät und
    des Fakultätsrates. Er regelt ein gemeinsam von den zuständigen Organen der
-   ausländischen Partnerinstitution und-Naturwissenschaftlichen
+   ausländischen Partnerinstitution und der Mathematisch-Naturwissenschaftlichen
    Fakultät     der      Ernst-Moritz-Arndt-Universität  Greifswald     geleitetes
    Promotionsverfahren, insbesondere eine gemeinsame Prüfung, Bewertung und
    Benotung der Prüfungsleistungen durch einen gemeinsamen Promotionsausschuss.
 
 (4) Der Vertrag kann mit Zustimmung des Senats Ausnahmen zu folgenden Vorschriften
-    dieser vorsehen, soweit dies erforderlich ist, um Regelungen
+    dieser Promotionsordnung vorsehen, soweit dies erforderlich ist, um Regelungen
     oder Traditionen der Partnerinstitution Rechnung tragen zu können:
     - Zusammensetzung und Zuständigkeit der Promotionskommission,
     - Erstellung der Gutachten,
@@ -635,7 +637,7 @@ Antragsteller.
    Greifswald gemäß § 2 Absatz 2 und durch einen Hochschullehrer der ausländischen
    Partnerinstitution.
 
-(6) Der Vertrag regelt, ob die Dissertation an-Naturwissenschaftlichen
+(6) Der Vertrag regelt, ob die Dissertation an der Mathematisch-Naturwissenschaftlichen
     Fakultät der Ernst-Moritz-Arndt-Universität Greifswald oder bei der ausländischen
     Partnerinstitution eingereicht wird. Die Sprache der Dissertation, der schriftlichen
     Zusammenfassung und der Disputation wird ebenfalls im Kooperationsvertrag unter
@@ -647,7 +649,7 @@ Antragsteller.
     Vorschriften der Partnerinstitutionen zur Veröffentlichung der Dissertation nicht
     miteinander vereinbaren lassen.
 
-(8) Hat der Bewerber die der Partnerinstitutionen geforderten formalen
+(8) Hat der Bewerber die vom Recht beider Partnerinstitutionen geforderten formalen
     Voraussetzungen erfüllt, wird eine gemeinsame Promotionsurkunde ausgehändigt.
     Sie trägt die Unterschriften und Siegel, die nach den Vorschriften der beteiligten
     Partnerinstitutionen erforderlich sind. Aus ihr muss hervorgehen, dass die Promotion
@@ -666,21 +668,21 @@ Antragsteller.
                                           § 18
                                  Übergangsbestimmungen
 
-Diese findet auf alle Doktoranden Anwendung, deren Gesuch um
-Zulassung zur Promotion der Fakultät nach Inkrafttreten dieser
+Diese Promotionsordnung findet auf alle Doktoranden Anwendung, deren Gesuch um
+Zulassung zur Promotion der Fakultät nach Inkrafttreten dieser Promotionsordnung
 zugeht unbeschadet einer vor Inkrafttreten liegenden Annahme durch einen Betreuer.
 
 
                                             § 19
                                         Inkrafttreten
 
-Die tritt am Tage nach ihrer Veröffentlichung im Mitteilungsblatt des
+Die Promotionsordnung tritt am Tage nach ihrer Veröffentlichung im Mitteilungsblatt des
 Ministeriums für Bildung, Wissenschaft und Kultur des Landes Mecklenburg-
 Vorpommern in Kraft.
 
 
 Ausgefertigt aufgrund des Beschlusses des Senats der Ernst-Moritz-Arndt-Universität
- 2007 und der Genehmigung des Rektors vom 24. April 2007.
+vom 18. April 2007 und der Genehmigung des Rektors vom 24. April 2007.
 
 Greifswald, den 24. April 2007
 
