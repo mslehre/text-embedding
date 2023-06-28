@@ -10,9 +10,11 @@ The process of acquiring data can be a tedious one. That's why we chose to parti
 The only manual data annotation that had to be done was visiting the individual's WOS profile and copying the ID to a spreadsheet, along with some more meta data like the name of the department.\
 From there on a webcrawler was coded, which reads the ID's from the spreadsheet and visits each researcher profile consecutively in a headless firefox session, launching a JavaScript code snippet that extracts all links from any website. These links were then filtered with the help of a function that returns only the links pointing to a full text on each profile page. The filtered links were written to TXT files.\
 Additionally PDF files containing study regulations and so forth were also downloaded manually.\
+Functions to automatize the reading of PDF files have been written. The resulting texts have been seperated into chunks to adhere to the token limit of GPT.
 
 # An OpenAI interface
 GPT is a next-token predictor. It generates the next token based on probablity. Here, tokens are just as representations of words. For a string of input tokens, GPT predicts the likely continuation of the the prompt and outputs it. Since GPT has a token input limit, it is not feasible to feed all the chunks to it at once. Rather, as part of the prompt, chunks of text that contain the information the user is looking for, are fed to GPT via the use of embeddings. For this a tokenizer function was coded that assigns tokens to each word in a chunk of text. The generated tokens were used to build an N-dimensional vector, where N is the maximum number of words in each chunk. **(?)The generated vectors are zero-padded, if the chunk length is below the input limit to allow the use of N-dimensional metrics (e.g. cosine similarity, euclidian distance) as a means of measuring similarity between answer and input.(?)** These vectors are called embeddings. Individual embeddings are stored once they have been generated to cut down on costs, since tokenization is the actual process of using OpenAI's pretrained model.
 
-# Chunking input texts
+# Evaluation
+As a proof of concept a t-sNE plot has been generated for visualization of the clustering of fields of research. Using cosine similarity to compare the embeddings of the individual professors and the titles of 50 of their most recent papers, followed by a projection into two-dimensional space resulted in the following plot.
 
