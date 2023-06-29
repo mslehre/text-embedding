@@ -1,9 +1,14 @@
 # Using OpenAI embeddings for creation of LLM with custom corpus
 
+# Quick Overview
+The goal of this project will be to create a LLM with a custom corpus containing information about the University of Greifswald (e.g. research of individual professors, study regulations, etc.).\
+For this titles of research papers of professors of the University of Greifswald and PDF files of e.g. study regulations have been gathered and split into chunks adhering to the input token limit of GPT.\
+![Overview](./overview.png "Overview")
+
 # Introduction
 LLMs like ChatGPT can be asked to perform a specific task and produce output that is a **likely continuation** of the input string. The generation of the output of the associated neural network is dependent upon its training data. OpenAI uses a large amount of training data from sources all over the internet. Some specific sources, though, will necessarily have to be skipped, since the amount of data on the internet is too large to be fed completely into the LLM. This "lack" of input data has a serious impact on the answers that the LLM generates. LLMs can "hallucinate", which is a term describing the tendency for LLMs to generate answers that are factually wrong, due to lack of training data on a specific problem.\
 Thus, creating a custom corpus, also known as a context for the LLM to fall back on is important, if one wants to avoid hallucinations.\
-The goal of this project will be to create a LLM with a custom corpus containing information about the University of Greifswald (e.g. research of individual professors, study regulations, etc.). Although the project aims at generalizing the process of corpus customization to a point where the corpus can be easily modified or expanded upon. 
+Although the project aims at generalizing the process of corpus customization to a point where the corpus can be easily modified or expanded upon. 
 
 # Acquiring data
 The process of acquiring data can be a tedious one. That's why we chose to partially automatize it. Webofscience.com (WOS) was chosen as a source of information for scientific papers of individual professors of the University of Greifswald. While Google Scholar offers a larger amount of data, it is also prone to misassigning research papers to individuals, as well as not featuring scientific papers exclusively, but also other contributions loosely related to science (like chapters of books, editorial work).\
