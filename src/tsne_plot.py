@@ -10,6 +10,7 @@ from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import seaborn  as sns
 from adjustText import adjust_text
+from openai.embeddings_utils import cosine_similarity
 
 
 def try_to_read_file(file_path: str) -> str:
@@ -98,11 +99,87 @@ def compute_tsne(X: np.ndarray,
 
     return tsne_result
 
+def compute_cosinesim(embeddings: np.ndarray) -> np.ndarray:
+    """
+    Compute pairwise cosine similarity for embeddings
+
+    Args:
+        embeddings (numpy.ndarray): A 2-dim array with embeddings
+
+    Returns:
+        cosine_sims (numpy.ndarray): A symmetric matrix containing pairwise
+            cosine similarities of the embeddings and Nan on the diagonal.
+    """
+    n = embeddings.shape[0]  # number of embeddings
+    # n x n matrix for pairwise distances
+    cosine_sims = np.zeros((n,n), dtype = np.float64)
+    # indices of upper triangle matrix with offset 1
+    iupper = np.stack(np.triu_indices(n, 1), axis = -1)
+    # compute cosine similarity
+    for i,j in iupper:
+        cosine_sims[i,j] = cosine_similarity(embeddings[i], embeddings[j])
+
+    cosine_sims += cosine_sims.T  # make matrix symmetric
+    np.fill_diagonal(cosine_sims, np.nan)  # fill diagonal with NaN
+
+    return cosine_sims
+
+def get_edges(similarities: np.ndarray,
+              k: int = None,
+              threshold: float = None) -> set[tuple[int,int]]:
+    """
+    Given a matrix containing pairwise similarity scores, for each element get 
+    the indices for the k highest scores and/or the indices for the elements
+    with a score of >= threshold.
+
+    Args:
+        similarities (np.ndarray): A symmetric matrix containing pairwise
+            similarities and Nan on the diagonal.   
+        k (int): For each element, get the index pairs for the k elements with
+            the highest similarity score.
+        threshold (float): Get index pairs with a similarity score of >=
+            threshold.
+
+    Returns:
+        edges (set[tuple[int,int]]): A set of 0-based index tuples computed 
+            according to k/threshold.
+    """
+    if not k and not threshold:
+        print("ERROR: You need to specify at least one criterium for selecting"
+              + " the edges!")
+        exit(1)
+
+    edges = []
+
+    # get edges to the k nearest neightbours for each node
+    if k:
+        indices = np.argsort(similarities)
+        # get knn -> adjacency lists
+        # argsort sorts ascending, need the last elements
+        knn = indices[:, -(k+1):-1]  # nans get sorted last, exclude them
+        for i,k in zip(range(len(knn)), knn):
+            for j in k:
+                # sort indices so duplicates can be identified by set()
+                ind = sorted([i,j])
+                edges.append(tuple(ind))
+
+    # get edges for nodes with a similarity of >= threshold
+    if threshold:
+        indices = np.stack(np.where(similarities >= threshold), axis = -1)
+        for i in indices:
+            ind = sorted(i)
+            edges.append(tuple(ind))
+
+    edges = set(edges)   # duplicate edges are removed
+
+    return edges
+
 def tsne_plot(X: np.ndarray,
               lnames: list[str],
               affiliation: list[str],
               legend_title: str,
-              palette: dict):
+              palette: dict,
+              edges = None):
     """
     Plot t-SNE 
 
@@ -129,7 +206,8 @@ def tsne_plot(X: np.ndarray,
         style_order = list(palette.keys()),
         legend = "full",
         alpha = 1,
-        s=200
+        s=200,
+        zorder = 5
     )
     
     plt.title("t-SNE Plot of Publication Lists", fontsize = 20)  # plot title
@@ -137,12 +215,28 @@ def tsne_plot(X: np.ndarray,
     ax.legend(fancybox=True, ncol = 2, fontsize = 14, title = legend_title)
     sns.move_legend(ax, "upper right", bbox_to_anchor=(-0.05, 1))
     
+    # add edges to plot
+    if edges:
+        for i, j in edges:
+            # add line from i to j 
+            x1 = X[i,0]
+            y1 = X[i,1]
+            x2 = X[j,0] - x1
+            y2 = X[j,1] - y1
+            plt.arrow(x1, y1, x2, y2, 
+                      color='gray', linewidth=1, length_includes_head=True, 
+                      head_width=0, alpha = 0.2, zorder = 0)
+            # for  some reason plt.plot doesnt work well with scatter plots
+            #plt.plot(X[i, :], X[j, :], marker = None, linewidth = 2, 
+            #        color = "gray", alpha = 0.1)  
+    
     # annotate dots with last names
     text = []
     # box style for labels
-    bbox_props = dict(boxstyle="round", fc="gray", alpha=0.1)
+    bbox_props = dict(boxstyle="round", fc="white", alpha=0.3)
     for i, label in enumerate(lnames):        
-        text += [ax.text(X[i, 0], X[i, 1], label, bbox=bbox_props)]
+        text += [ax.text(X[i, 0], X[i, 1], label, bbox=bbox_props, 
+                 zorder = 10)]
     adjust_text(text)  # prevent labels from overlapping
 
     return ax.get_figure()
@@ -163,7 +257,7 @@ def main():
     parser.add_argument('-o', '--outfile', default = 'tsne_plot',
                         help = 'Stem for output file to save plot. Default is '
                         + '\"tsne_plot\".')
-    parser.add_argument('--format', default = 'png', 
+    parser.add_argument('--format', default = 'pdf', 
                         choices = ['png', 'pdf', 'svg'],
                         help = 'Format for plot. Default is png.')
     parser.add_argument('--pca', action = 'store_true',
@@ -175,6 +269,12 @@ def main():
                         choices = ['institute', 'faculty'],
                         help = 'Decides after which fashion to color the ' 
                         + 'plot. Default is \"faculty\".')
+    parser.add_argument('-k', '--k_edges', type = int,
+                        help = 'For each author, plot edges to the authors '
+                        + 'with the k highest cosine similarities.')
+    parser.add_argument('-t', '--threshold_edges', type = float,
+                        help='For each author, plot edges to the authors '
+                        + 'with a cosine similarity of >= threshold.')
     args = parser.parse_args()
     
     outfile = args.outfile + '.' + args.format
@@ -203,9 +303,14 @@ def main():
         author_ids, 
         affiliation_map, 
         args.affiliation)
+    # get edges
+    edges = None
+    if args.k_edges or args.threshold_edges:
+        similarities = compute_cosinesim(pub_embedding)
+        edges = get_edges(similarities, args.k_edges, args.threshold_edges)
     # plot
     fig = tsne_plot(tsne_result, lnames, affiliation, args.affiliation, 
-                    palette)  
+                    palette, edges)  
     fig.savefig(outfile, format = args.format, bbox_inches='tight')
     plt.show()
        
