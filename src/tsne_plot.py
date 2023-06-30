@@ -144,7 +144,7 @@ def get_edges(similarities: np.ndarray,
         edges (set[tuple[int,int]]): A set of 0-based index tuples computed 
             according to k/threshold.
     """
-    if not k or not threshold:
+    if not k and not threshold:
         print("ERROR: You need to specify at least one criterium for selecting"
               + " the edges!")
         exit(1)
@@ -306,8 +306,8 @@ def main():
     # get edges
     edges = None
     if args.k_edges or args.threshold_edges:
-        distances = compute_cosinesim(pub_embedding)
-        edges = get_edges(distances, args.k_edges, args.threshold_edges)
+        similarities = compute_cosinesim(pub_embedding)
+        edges = get_edges(similarities, args.k_edges, args.threshold_edges)
     # plot
     fig = tsne_plot(tsne_result, lnames, affiliation, args.affiliation, 
                     palette, edges)  
