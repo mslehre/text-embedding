@@ -1,36 +1,36 @@
 Maria-Theresia Schafmeister,14569009;
 
-A dual-continuum model (TOUGH2) for characterizing flow and discharge in a mechanically disrupted sandstone overburden	https://www.webofscience.com/wos/woscc/full-record/WOS:000819900300001
+A dual-continuum model (TOUGH2) for characterizing flow and discharge in a mechanically disrupted sandstone overburden
 
-Synthesis of Hydroxy-Sodalite/Cancrinite Zeolites from Calcite-Bearing Kaolin for the Removal of Heavy Metal Ions in Aqueous Media	https://www.webofscience.com/wos/woscc/full-record/WOS:000482981400032
+Synthesis of Hydroxy-Sodalite/Cancrinite Zeolites from Calcite-Bearing Kaolin for the Removal of Heavy Metal Ions in Aqueous Media
 
-Thou shalt never ask me ...	https://www.webofscience.com/wos/woscc/full-record/WOS:000341709300001
+Thou shalt never ask me ...
 
-Hydrogeology. Introduction to General and Applied Hydrogeology	https://www.webofscience.com/wos/woscc/full-record/WOS:000348588100008
+Hydrogeology. Introduction to General and Applied Hydrogeology
 
-Fracking - The Role of Hydrogeology	https://www.webofscience.com/wos/woscc/full-record/WOS:000323659100001
+Fracking - The Role of Hydrogeology
 
-Untitled	https://www.webofscience.com/wos/woscc/full-record/WOS:000308440600001
+Untitled
 
-Potential Change in Groundwater Discharge as Response to Varying Climatic Conditions - An Experimental Model Study at Catchment Scale	https://www.webofscience.com/wos/woscc/full-record/WOS:000292846900019
+Potential Change in Groundwater Discharge as Response to Varying Climatic Conditions - An Experimental Model Study at Catchment Scale
 
-Importance of the nugget effect in variography on modeling zinc leaching from a contaminated site using simulated annealing	https://www.webofscience.com/wos/woscc/full-record/WOS:000280452500007
+Importance of the nugget effect in variography on modeling zinc leaching from a contaminated site using simulated annealing
 
-An ArcGIS((R)) Approach to Include Tectonic Structures in Point Data Regionalization	https://www.webofscience.com/wos/woscc/full-record/WOS:000267700200022
+An ArcGIS((R)) Approach to Include Tectonic Structures in Point Data Regionalization
 
-Relative sea-level curve for SE Rugen and Usedom Island (SW Baltic Sea coast, Germany) using decompacted profiles	https://www.webofscience.com/wos/woscc/full-record/WOS:000265135100005
+Relative sea-level curve for SE Rugen and Usedom Island (SW Baltic Sea coast, Germany) using decompacted profiles
 
-Interaction among sedimentation, compaction, and groundwater flow in coastal settings	https://www.webofscience.com/wos/woscc/full-record/WOS:000272080100005
+Interaction among sedimentation, compaction, and groundwater flow in coastal settings
 
-Hydrogeology education in Germany: what are we missing?	https://www.webofscience.com/wos/woscc/full-record/WOS:000171831900001
+Hydrogeology education in Germany: what are we missing?
 
-Some current methods to represent the heterogeneity of natural media in hydrogeology	https://www.webofscience.com/wos/woscc/full-record/WOS:000079765800011
+Some current methods to represent the heterogeneity of natural media in hydrogeology
 
-Parameter estimation for groundwater models by indicator kriging	https://www.webofscience.com/wos/woscc/full-record/WOS:A1997BJ67S00014
+Parameter estimation for groundwater models by indicator kriging
 
-KNOWLEDGE-BASED SYSTEMS FOR RISK ASSESSMENT OF THE SUBSURFACE OF CONTAMINATED SITES	https://www.webofscience.com/wos/woscc/full-record/WOS:A1994PF99500006
+KNOWLEDGE-BASED SYSTEMS FOR RISK ASSESSMENT OF THE SUBSURFACE OF CONTAMINATED SITES
 
-REGIONALIZATION OF SOME HYDROGEOLOGICAL PROCESSES AND PARAMETERS BY MEANS OF GEOSTATISTICAL METHODS - CURRENT STATUS AND FUTURE REQUIREMENTS	https://www.webofscience.com/wos/woscc/full-record/WOS:A1994BA03E00042
+REGIONALIZATION OF SOME HYDROGEOLOGICAL PROCESSES AND PARAMETERS BY MEANS OF GEOSTATISTICAL METHODS - CURRENT STATUS AND FUTURE REQUIREMENTS
 
-SPATIAL STRUCTURE OF HYDRAULIC CONDUCTIVITY IN VARIOUS POROUS-MEDIA - PROBLEMS AND EXPERIENCES	https://www.webofscience.com/wos/woscc/full-record/WOS:A1993BY18R00058
+SPATIAL STRUCTURE OF HYDRAULIC CONDUCTIVITY IN VARIOUS POROUS-MEDIA - PROBLEMS AND EXPERIENCES
 

@@ -1,102 +1,102 @@
 Mario Stanke,1177820;
 
-Global, highly specific and fast filtering of alignment seeds	https://www.webofscience.com/wos/woscc/full-record/WOS:000809346000003
+Global, highly specific and fast filtering of alignment seeds
 
-End-to-end learning of evolutionary models to find coding regions in genome alignments	https://www.webofscience.com/wos/woscc/full-record/WOS:000756788300001
+End-to-end learning of evolutionary models to find coding regions in genome alignments
 
-Co-evolution of Spies and Resistance Fighters	https://www.webofscience.com/wos/woscc/full-record/WOS:000873604200031
+Co-evolution of Spies and Resistance Fighters
 
-TSEBRA: transcript selector for BRAKER	https://www.webofscience.com/wos/woscc/full-record/WOS:000722613300003
+TSEBRA: transcript selector for BRAKER
 
-A 20-kb lineage-specific genomic region tames virulence in pathogenic amphidiploid Verticillium longisporum	https://www.webofscience.com/wos/woscc/full-record/WOS:000647319700001
+A 20-kb lineage-specific genomic region tames virulence in pathogenic amphidiploid Verticillium longisporum
 
-The genomic basis of evolutionary differentiation among honey bees	https://www.webofscience.com/wos/woscc/full-record/WOS:000680055300007
+The genomic basis of evolutionary differentiation among honey bees
 
-Application of YOLOv4 for Detection and Motion Monitoring of Red Foxes	https://www.webofscience.com/wos/woscc/full-record/WOS:000665400000001
+Application of YOLOv4 for Detection and Motion Monitoring of Red Foxes
 
-Pseudomonas Strains Induce Transcriptional and Morphological Changes and Reduce Root Colonization of Verticillium spp	https://www.webofscience.com/wos/woscc/full-record/WOS:000658317500001
+Pseudomonas Strains Induce Transcriptional and Morphological Changes and Reduce Root Colonization of Verticillium spp
 
-BRAKER2: automatic eukaryotic genome annotation with GeneMark-EP plus and AUGUSTUS supported by a protein database	https://www.webofscience.com/wos/woscc/full-record/WOS:000698594000004
+BRAKER2: automatic eukaryotic genome annotation with GeneMark-EP plus and AUGUSTUS supported by a protein database
 
-Enhanced genome assembly and a new official gene set for Tribolium castaneum	https://www.webofscience.com/wos/woscc/full-record/WOS:000521340000005
+Enhanced genome assembly and a new official gene set for Tribolium castaneum
 
-VARUS: sampling complementary RNA reads from the sequence read archive	https://www.webofscience.com/wos/woscc/full-record/WOS:000496277900001
+VARUS: sampling complementary RNA reads from the sequence read archive
 
-Whole-Genome Annotation with BRAKER	https://www.webofscience.com/wos/woscc/full-record/WOS:000486995300006
+Whole-Genome Annotation with BRAKER
 
-Multi-Genome Annotation with AUGUSTUS	https://www.webofscience.com/wos/woscc/full-record/WOS:000486995300009
+Multi-Genome Annotation with AUGUSTUS
 
-Effects of adult temperature on gene expression in a butterfly: identifying pathways associated with thermal acclimation	https://www.webofscience.com/wos/woscc/full-record/WOS:000456525800001
+Effects of adult temperature on gene expression in a butterfly: identifying pathways associated with thermal acclimation
 
-Sixteen diverse laboratory mouse reference genomes define strain-specific haplotypes and novel functional loci	https://www.webofscience.com/wos/woscc/full-record/WOS:000448398000013
+Sixteen diverse laboratory mouse reference genomes define strain-specific haplotypes and novel functional loci
 
-Exome Sequencing Discloses Ionizing-radiation-induced DNA Variants in the Genome of Human Gingiva Fibroblasts	https://www.webofscience.com/wos/woscc/full-record/WOS:000434256100018
+Exome Sequencing Discloses Ionizing-radiation-induced DNA Variants in the Genome of Human Gingiva Fibroblasts
 
-Repeat associated mechanisms of genome evolution and function revealed by the &ITMus caroli&IT and &ITMus pahari&IT genomes	https://www.webofscience.com/wos/woscc/full-record/WOS:000428993500003
+Repeat associated mechanisms of genome evolution and function revealed by the &ITMus caroli&IT and &ITMus pahari&IT genomes
 
-Comparative Genome Annotation	https://www.webofscience.com/wos/woscc/full-record/WOS:000432825900007
+Comparative Genome Annotation
 
-Comparative Annotation Toolkit (CAT)-simultaneous clade and personal genome annotation	https://www.webofscience.com/wos/woscc/full-record/WOS:000437225800010
+Comparative Annotation Toolkit (CAT)-simultaneous clade and personal genome annotation
 
-Matching phenotypes to whole genomes: Lessons learned from four iterations of the personal genome project community challenges	https://www.webofscience.com/wos/woscc/full-record/WOS:000407861100023
+Matching phenotypes to whole genomes: Lessons learned from four iterations of the personal genome project community challenges
 
-The house spider genome reveals an ancient whole-genome duplication during arachnid evolution	https://www.webofscience.com/wos/woscc/full-record/WOS:000406537400001
+The house spider genome reveals an ancient whole-genome duplication during arachnid evolution
 
-House spider genome uncovers evolutionary shifts in the diversity and expression of black widow venom proteins associated with extreme toxicity	https://www.webofscience.com/wos/woscc/full-record/WOS:000394418200005
+House spider genome uncovers evolutionary shifts in the diversity and expression of black widow venom proteins associated with extreme toxicity
 
-Wild tobacco genomes reveal the evolution of nicotine biosynthesis	https://www.webofscience.com/wos/woscc/full-record/WOS:000402703800084
+Wild tobacco genomes reveal the evolution of nicotine biosynthesis
 
-Simultaneous gene finding in multiple genomes	https://www.webofscience.com/wos/woscc/full-record/WOS:000392748700003
+Simultaneous gene finding in multiple genomes
 
-BRAKER1: Unsupervised RNA-Seq-Based Genome Annotation with GeneMark-ET and AUGUSTUS	https://www.webofscience.com/wos/woscc/full-record/WOS:000371693900017
+BRAKER1: Unsupervised RNA-Seq-Based Genome Annotation with GeneMark-ET and AUGUSTUS
 
-Large scale RNAi screen in Tribolium reveals novel target genes for pest control and the proteasome as prime target	https://www.webofscience.com/wos/woscc/full-record/WOS:000360607100014
+Large scale RNAi screen in Tribolium reveals novel target genes for pest control and the proteasome as prime target
 
-The iBeetle large-scale RNAi screen reveals gene functions for insect development and physiology	https://www.webofscience.com/wos/woscc/full-record/WOS:000358860900002
+The iBeetle large-scale RNAi screen reveals gene functions for insect development and physiology
 
-Current methods for automated annotation of protein-coding genes	https://www.webofscience.com/wos/woscc/full-record/WOS:000369016700004
+Current methods for automated annotation of protein-coding genes
 
-Combining features in a graphical model to predict protein binding sites	https://www.webofscience.com/wos/woscc/full-record/WOS:000353060900007
+Combining features in a graphical model to predict protein binding sites
 
-The Chlamydomonas genome project: a decade on	https://www.webofscience.com/wos/woscc/full-record/WOS:000343359900011
+The Chlamydomonas genome project: a decade on
 
-CRF-based models of protein surfaces improve protein-protein interaction site predictions	https://www.webofscience.com/wos/woscc/full-record/WOS:000341198600001
+CRF-based models of protein surfaces improve protein-protein interaction site predictions
 
-Verticillium transcription activator of adhesion Vta2 suppresses microsclerotia formation and is required for systemic infection of plant roots	https://www.webofscience.com/wos/woscc/full-record/WOS:000333060500027
+Verticillium transcription activator of adhesion Vta2 suppresses microsclerotia formation and is required for systemic infection of plant roots
 
-Finding the missing honey bee genes: lessons learned from a genome upgrade	https://www.webofscience.com/wos/woscc/full-record/WOS:000331116900002
+Finding the missing honey bee genes: lessons learned from a genome upgrade
 
-Tissue-specific transcriptomics, chromosomal localization, and phylogeny of chemosensory and odorant binding proteins from the red flour beetle Tribolium castaneum reveal subgroup specificities for olfaction or more general functions	https://www.webofscience.com/wos/woscc/full-record/WOS:000347728600001
+Tissue-specific transcriptomics, chromosomal localization, and phylogeny of chemosensory and odorant binding proteins from the red flour beetle Tribolium castaneum reveal subgroup specificities for olfaction or more general functions
 
-ClassyFlu: Classification of Influenza A Viruses with Discriminatively Trained Profile-HMMs	https://www.webofscience.com/wos/woscc/full-record/WOS:000329460800052
+ClassyFlu: Classification of Influenza A Viruses with Discriminatively Trained Profile-HMMs
 
-WebAUGUSTUS-a web service for training AUGUSTUS and predicting genes in eukaryotes	https://www.webofscience.com/wos/woscc/full-record/WOS:000323603200020
+WebAUGUSTUS-a web service for training AUGUSTUS and predicting genes in eukaryotes
 
-Gene Transfer from Bacteria and Archaea Facilitated Evolution of an Extremophilic Eukaryote	https://www.webofscience.com/wos/woscc/full-record/WOS:000315709900048
+Gene Transfer from Bacteria and Archaea Facilitated Evolution of an Extremophilic Eukaryote
 
-jpHMM: recombination analysis in viruses with circular genomes such as the hepatitis B virus	https://www.webofscience.com/wos/woscc/full-record/WOS:000306670900031
+jpHMM: recombination analysis in viruses with circular genomes such as the hepatitis B virus
 
-Genome sequencing of the lizard parasite Leishmania tarentolae reveals loss of genes associated to the intracellular stage of human pathogenic species	https://www.webofscience.com/wos/woscc/full-record/WOS:000300422400025
+Genome sequencing of the lizard parasite Leishmania tarentolae reveals loss of genes associated to the intracellular stage of human pathogenic species
 
-Design of a tobacco exon array with application to investigate the differential cadmium accumulation property in two tobacco varieties	https://www.webofscience.com/wos/woscc/full-record/WOS:000316400200001
+Design of a tobacco exon array with application to investigate the differential cadmium accumulation property in two tobacco varieties
 
-Concerted action of the new Genomic Peptide Finder and AUGUSTUS allows for automated proteogenomic annotation of the Chlamydomonas reinhardtii genome	https://www.webofscience.com/wos/woscc/full-record/WOS:000290051000021
+Concerted action of the new Genomic Peptide Finder and AUGUSTUS allows for automated proteogenomic annotation of the Chlamydomonas reinhardtii genome
 
-A novel hybrid gene prediction method employing protein multiple sequence alignments	https://www.webofscience.com/wos/woscc/full-record/WOS:000288277300003
+A novel hybrid gene prediction method employing protein multiple sequence alignments
 
-Detection of viral sequence fragments of HIV-1 subfamilies yet unknown	https://www.webofscience.com/wos/woscc/full-record/WOS:000290144300001
+Detection of viral sequence fragments of HIV-1 subfamilies yet unknown
 
-Sequencing of Culex quinquefasciatus Establishes a Platform for Mosquito Comparative Genomics	https://www.webofscience.com/wos/woscc/full-record/WOS:000282334500040
+Sequencing of Culex quinquefasciatus Establishes a Platform for Mosquito Comparative Genomics
 
-Draft genome sequence of the oilseed species Ricinus communis	https://www.webofscience.com/wos/woscc/full-record/WOS:000281719100021
+Draft genome sequence of the oilseed species Ricinus communis
 
-The Amphimedon queenslandica genome and the evolution of animal complexity	https://www.webofscience.com/wos/woscc/full-record/WOS:000280562500031
+The Amphimedon queenslandica genome and the evolution of animal complexity
 
-Insights into evolution of multicellular fungi from the assembled chromosomes of the mushroom Coprinopsis cinerea (Coprinus cinereus)	https://www.webofscience.com/wos/woscc/full-record/WOS:000279332300043
+Insights into evolution of multicellular fungi from the assembled chromosomes of the mushroom Coprinopsis cinerea (Coprinus cinereus)
 
-HIV classification using the coalescent theory	https://www.webofscience.com/wos/woscc/full-record/WOS:000277985500004
+HIV classification using the coalescent theory
 
-Genome Sequence of the Pea Aphid Acyrthosiphon pisum	https://www.webofscience.com/wos/woscc/full-record/WOS:000275257300009
+Genome Sequence of the Pea Aphid Acyrthosiphon pisum
 
-Functional and Evolutionary Insights from the Genomes of Three Parasitoid Nasonia Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000273629700047
+Functional and Evolutionary Insights from the Genomes of Three Parasitoid Nasonia Species
 
