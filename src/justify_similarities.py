@@ -2,7 +2,7 @@ import os
 
 from ask_question import get_answer
 
-def ask_about_fit(text_list: list, text_dir: str, q_index = 0)->str:
+def ask_about_fit(text_list: list, text_dir: str, q_index = 0) -> str:
     """For a pair of similar texts, answers the question why these person pairs or person proposal pairs are a good fit.
 
     Args:
@@ -37,4 +37,3 @@ def test():
     testdir = "data/publications"
     this_result = ask_about_fit(texts, testdir)
     print(this_result)
-test()
