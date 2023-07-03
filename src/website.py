@@ -1,18 +1,18 @@
 from os import path
 
 from flask import Flask, render_template, redirect, url_for, request
-#from openai.embeddings_utils import cosine_similarity, get_embedding
+from openai.embeddings_utils import cosine_similarity, get_embedding
 
-#from compute_embedding import embedding_from_string, compute_similarity_of_texts
+from compute_embedding import embedding_from_string, compute_similarity_of_texts
 
 app = Flask(__name__)
-
 @app.route('/', methods=['POST', 'GET'])
 def home():
     if (request.method == 'POST'):
         text1 = request.form['text1']
         text2 = request.form['text2']
-        return render_template("index.html")
+        #return redirect(url_for('test'))
+        return redirect(url_for('compute_similarity_of_files', text1 = text1, text2 = text2))
     else:
         return render_template("index.html")
 
@@ -56,15 +56,7 @@ def compute_similarity_of_files(text1: str, text2: str) -> str:
         # Display cosine similarity since embeddings could be computed.
         text += "The cosine similarity of the two texts you inserted is " + \
             str(similarity) + "."
-    return '''
-          <label id="file1">file1: '''+text1+'''</label> <br>
-          <label id="file2">file2: '''+text2+'''</label> <br>
-  
-          <form>
-          <textarea id="file1content" name="file1" rows="10" cols="30">'''\
-              +text+'''</textarea>
-
-          </form>'''
+    return render_template("displaySimilarity.html", text1=text1, text2=text2, text=text)
 
 if __name__ == '__main__':
-    app.run()
+    app.run(debug=True)
