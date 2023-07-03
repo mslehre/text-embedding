@@ -50,9 +50,14 @@ def main():
     parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
                        default = './',
                        help = 'Directory in which all PDF files are saved.')
+
+    parser.add_argument('-c', '--convert_pdf_to_txt')  
+
     args = parser.parse_args()
 
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
+
+    convert_files = args.convert_pdf_to_txt
 
     # convert pdf files in a dictionary into txt files
     # directory = '../data/examination_regulations_2'
@@ -62,13 +67,15 @@ def main():
         f = os.path.join(dir_path, filename)
         # checking if it is a file and if it ends with '.pdf' 
         # Lukasz - the following code was commented while executing
-        # if os.path.isfile(f) and f[-4:] == '.pdf':
-        #    process = subprocess.Popen(["pdftotext", "-layout", f])
+        if os.path.isfile(f) and f[-4:] == '.pdf':
+            if convert_files:
+                process = subprocess.Popen(["pdftotext", "-layout", f])
     
 
         # filter out the converted txt files
         # check if it is a txt file
         # check if it is a meta.txt file
+    for filename in os.listdir(dir_path):
         if os.path.isfile(f) and f[-4:] == '.txt' and f[-8:] != 'meta.txt':
             filter_junk_text(f)
 
