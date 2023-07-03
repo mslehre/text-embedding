@@ -3,7 +3,6 @@ import re
 import argparse
 import subprocess
 
-#Commeand from Lukasz
 from chunker import try_to_write_dir
 
 def filter_junk_text(txt_file):
@@ -43,18 +42,18 @@ def main():
     """Main to translate all PDF files in a specific folder into txt files that
     retain the layout, e.g. table
     """
-    # Command from Lukasz
+
     parser = argparse.ArgumentParser(description = 'Translates all PDF files' +
                         ' from a given folder into text files while' +
                         ' retaining the layout including table structures.' +
                         ' The new text files will be located in the same' +
                         '  directory as the PDF files.')
-    # Command from Lukasz
+
     parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
                        default = './',
                        help = 'Directory in which all PDF files are saved.')
     args = parser.parse_args()
-    # Command from Lukasz
+
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
 
     # convert pdf files in a dictionary into txt files
@@ -63,7 +62,8 @@ def main():
     # dir_path = directory
     for filename in os.listdir(dir_path):
         f = os.path.join(dir_path, filename)
-        # checking if it is a file and if it ends with '.pdf'
+        # checking if it is a file and if it ends with '.pdf' 
+        # Lukasz - the following code was commented while executing
         if os.path.isfile(f) and f[-4:] == '.pdf':
             process = subprocess.Popen(["pdftotext", "-layout", f])
     
