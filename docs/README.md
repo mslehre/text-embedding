@@ -6,12 +6,16 @@ For this titles of research papers of professors of the University of Greifswald
 ![Overview](./overview.png "Overview")
 
 # Dependencies
-<table>
-<tr><td>
-|**Python packages**|
+|**Additional dependencies**|
 |---|
-|os|
-|openai|
+|pdftotext for UNIX|
+|Firefox Geckodriver v0.33 or higher|
+
+
+|**Python packages**| |**Additional dependencies**|
+|---| |---|
+|os| |pdftotext for UNIX|
+|openai| |Firefox Geckodriver v0.33 or higher|
 |argparse|
 |pathlib|
 |h5py|
@@ -29,13 +33,6 @@ For this titles of research papers of professors of the University of Greifswald
 |selenium|
 |time|
 |datetime|
-</td><td>
-
-|**Additional dependencies**|
-|---|
-|pdftotext for UNIX|
-|Firefox Geckodriver v0.33 or higher|
-</td></tr> </table>
 
 # Introduction
 LLMs like ChatGPT can be asked to perform a specific task and produce output that is a **likely continuation** of the input string. The generation of the output of the associated neural network is dependent upon its training data. OpenAI uses a large amount of training data from sources all over the internet. Some specific sources, though, will necessarily have to be skipped, since the amount of data on the internet is too large to be fed completely into the LLM. This "lack" of input data has a serious impact on the answers that the LLM generates. LLMs can "hallucinate", which is a term describing the tendency for LLMs to generate answers that are factually wrong, due to lack of training data on a specific problem.\
