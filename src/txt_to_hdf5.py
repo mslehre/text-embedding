@@ -4,7 +4,7 @@ import os
 from pathlib import Path
 import argparse
 import numpy as np
-import h5py
+import pandas as pd
 
 from text_embedder import read_pub, read_pubs_in_dir, embeddings_from_pubs, write_hdf5
 
@@ -55,8 +55,8 @@ def main():
     parser.add_argument('-f', '--hdf5_file', required = True,
                         type = try_to_write_file_if_exists,
                         help = 'Output file in hdf5 format with data sets: ' 
-                        + 'publication_embedding: 2-dim numpy array with '
-                        + 'embeddings. author_ids: 1-dim numpy array '
+                        + 'embeddings: 2-dim pandas dataFramewith '
+                        + 'embeddings. ids: 1-dim pandas DataFrame '
                         + 'containing the ids for each embedding.')
     args = parser.parse_args()
 
@@ -101,8 +101,8 @@ def main():
             author_ids.append(id)
             pubs.append(author_pubs)
         # compute embeddings            
-        embeddings = embeddings_from_pubs(pubs)
-        author_ids = np.asarray(author_ids)
+        embeddings = pd.DataFrame(embeddings_from_pubs(pubs))
+        author_ids = pd.DataFrame(author_ids)
         # update hdf5 file
         write_hdf5(args.hdf5_file, embeddings, author_ids, update = True)
 
