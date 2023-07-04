@@ -56,7 +56,11 @@ def compute_similarity_of_files() -> str:
         # Display cosine similarity since embeddings could be computed.
         text += "The cosine similarity of the two texts you inserted is " + \
             str(similarity) + "."
-    return render_template("displaySimilarity.html", text1=text1, text2=text2, 
+    texts_start = []
+    for string in [text1, text2]:
+        words = string.split()[:100]
+        texts_start.append(" ".join(words))
+    return render_template("displaySimilarity.html", text1=texts_start[0], text2=texts_start[1], 
                            text=text)
 
 if __name__ == '__main__':
