@@ -7,6 +7,7 @@ For this titles of research papers of professors of the University of Greifswald
 
 # Dependencies
 |**Python packages**|
+|---|
 |os|
 |openai|
 |argparse|
@@ -28,6 +29,7 @@ For this titles of research papers of professors of the University of Greifswald
 |datetime|
 
 |**Additional dependencies**|
+|---|
 |pdftotext for UNIX|
 |Firefox Geckodriver v0.33 or higher|
 
