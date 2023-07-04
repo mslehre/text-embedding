@@ -33,8 +33,8 @@ def compute_similarity_of_files() -> str:
 
     Returns: 
         str: A string is returned that contains html code for a web form that
-            contains two labels text1 and text2 and the names of the texts the 
-            user specified. In a textfield the cosine similarity of the two 
+            contains two labels text1 and text2 and the first 100 words of the texts 
+            the user specified. In a textfield the cosine similarity of the two 
             texts is displayed. If the embedding for one of the texts cannot be 
             computed, there is a message that the openai api key was probably 
             not set or is not valid.     
@@ -60,8 +60,8 @@ def compute_similarity_of_files() -> str:
     for string in [text1, text2]:
         words = string.split()[:100]
         texts_start.append(" ".join(words))
-    return render_template("displaySimilarity.html", text1=texts_start[0], text2=texts_start[1], 
-                           text=text)
+    return render_template("displaySimilarity.html", text1=texts_start[0], 
+                           text2=texts_start[1], text=text)
 
 if __name__ == '__main__':
     app.run(debug=True)
