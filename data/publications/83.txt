@@ -1,102 +1,102 @@
 Klaus Weisz,4831300;
 
-High-affinity binding at quadruplex-duplex junctions: rather the rule than the exception	https://www.webofscience.com/wos/woscc/full-record/WOS:000891993400001
+High-affinity binding at quadruplex-duplex junctions: rather the rule than the exception
 
-Guiding the folding of G-quadruplexes through loop residue interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000816728300001
+Guiding the folding of G-quadruplexes through loop residue interactions
 
-Indoloquinoline Ligands Favor Intercalation at Quadruplex-Duplex Interfaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000739143300001
+Indoloquinoline Ligands Favor Intercalation at Quadruplex-Duplex Interfaces
 
-A world beyond double-helical nucleic acids: the structural diversity of tetra-stranded G-quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000688540800001
+A world beyond double-helical nucleic acids: the structural diversity of tetra-stranded G-quadruplexes
 
-Expanding the Topological Landscape by a G-Column Flip of a Parallel G-Quadruplex	https://www.webofscience.com/wos/woscc/full-record/WOS:000658100000001
+Expanding the Topological Landscape by a G-Column Flip of a Parallel G-Quadruplex
 
-Thermodynamic Stability of G-Quadruplexes: Impact of Sequence and Environment	https://www.webofscience.com/wos/woscc/full-record/WOS:000645989500001
+Thermodynamic Stability of G-Quadruplexes: Impact of Sequence and Environment
 
-First Tandem Repeat of a Potassium Channel KCNN4 Minisatellite Folds into a V-Loop G-Quadruplex Structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000648509400003
+First Tandem Repeat of a Potassium Channel KCNN4 Minisatellite Folds into a V-Loop G-Quadruplex Structure
 
-G-Quadruplex Formation in a Putative Coding Region of White Spot Syndrome Virus: Structural and Thermodynamic Aspects	https://www.webofscience.com/wos/woscc/full-record/WOS:000637484000001
+G-Quadruplex Formation in a Putative Coding Region of White Spot Syndrome Virus: Structural and Thermodynamic Aspects
 
-Structural motifs and intramolecular interactions in non-canonical G-quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000641784900004
+Structural motifs and intramolecular interactions in non-canonical G-quadruplexes
 
-A Thermodynamic Perspective on Potential G-Quadruplex Structures as Silencer Elements in the MYC Promoter	https://www.webofscience.com/wos/woscc/full-record/WOS:000590326100001
+A Thermodynamic Perspective on Potential G-Quadruplex Structures as Silencer Elements in the MYC Promoter
 
-Quadruplex-Duplex Junction: A High-Affinity Binding Site for Indoloquinoline Ligands	https://www.webofscience.com/wos/woscc/full-record/WOS:000589522100001
+Quadruplex-Duplex Junction: A High-Affinity Binding Site for Indoloquinoline Ligands
 
-Locked nucleic acid building blocks as versatile tools for advanced G-quadruplex design	https://www.webofscience.com/wos/woscc/full-record/WOS:000593122700042
+Locked nucleic acid building blocks as versatile tools for advanced G-quadruplex design
 
-Influence of Substrate Binding Residues on the Substrate Scope and Regioselectivity of a Plant O-Methyltransferase against Flavonoids	https://www.webofscience.com/wos/woscc/full-record/WOS:000535798500001
+Influence of Substrate Binding Residues on the Substrate Scope and Regioselectivity of a Plant O-Methyltransferase against Flavonoids
 
-Switching the type of V-loop in sugar-modified G-quadruplexes through altered fluorine interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000529513000004
+Switching the type of V-loop in sugar-modified G-quadruplexes through altered fluorine interactions
 
-Impact of a Snap-Back Loop on Stability and Ligand Binding to a Parallel G-Quadruplex	https://www.webofscience.com/wos/woscc/full-record/WOS:000526869700005
+Impact of a Snap-Back Loop on Stability and Ligand Binding to a Parallel G-Quadruplex
 
-NMR studies on oligonucleotide - Methylene blue conjugates targeting double-helical nucleic acids	https://www.webofscience.com/wos/woscc/full-record/WOS:000509630700004
+NMR studies on oligonucleotide - Methylene blue conjugates targeting double-helical nucleic acids
 
-Sugar Puckering Drives G-Quadruplex Refolding: Implications for V-Shaped Loops	https://www.webofscience.com/wos/woscc/full-record/WOS:000501674600001
+Sugar Puckering Drives G-Quadruplex Refolding: Implications for V-Shaped Loops
 
-Duplex-Guided Refolding into Novel G-Quadruplex (3+1) Hybrid Conformations	https://www.webofscience.com/wos/woscc/full-record/WOS:000473628100001
+Duplex-Guided Refolding into Novel G-Quadruplex (3+1) Hybrid Conformations
 
-Manipulating DNA G-Quadruplex Structures by Using Guanosine Analogues	https://www.webofscience.com/wos/woscc/full-record/WOS:000468026000002
+Manipulating DNA G-Quadruplex Structures by Using Guanosine Analogues
 
-Thermodynamic signature of indoloquinolines interacting with G-quadruplexes: Impact of ligand side chain	https://www.webofscience.com/wos/woscc/full-record/WOS:000456421400016
+Thermodynamic signature of indoloquinolines interacting with G-quadruplexes: Impact of ligand side chain
 
-Revealing the Energetics of Ligand-Quadruplex Interactions Using Isothermal Titration Calorimetry	https://www.webofscience.com/wos/woscc/full-record/WOS:000520558900004
+Revealing the Energetics of Ligand-Quadruplex Interactions Using Isothermal Titration Calorimetry
 
-Preparation and characterization of pyrene modified uridine derivatives as potential electron donors in RNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000448344400017
+Preparation and characterization of pyrene modified uridine derivatives as potential electron donors in RNA
 
-DNA-RNA Hybrid Quadruplexes Reveal Interactions that Favor RNA Parallel Topologies	https://www.webofscience.com/wos/woscc/full-record/WOS:000447124800031
+DNA-RNA Hybrid Quadruplexes Reveal Interactions that Favor RNA Parallel Topologies
 
-Loop Length Affects Syn-Anti Conformational Rearrangements in Parallel G-Quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000439496600035
+Loop Length Affects Syn-Anti Conformational Rearrangements in Parallel G-Quadruplexes
 
-Fluorine-Mediated Editing of a G-Quadruplex Folding Pathway	https://www.webofscience.com/wos/woscc/full-record/WOS:000431625100007
+Fluorine-Mediated Editing of a G-Quadruplex Folding Pathway
 
-Ligand-Induced Dimerization of a Truncated Parallel MYC G-Quadruplex	https://www.webofscience.com/wos/woscc/full-record/WOS:000426494600016
+Ligand-Induced Dimerization of a Truncated Parallel MYC G-Quadruplex
 
-Nonconventional C-H center dot center dot center dot F Hydrogen Bonds Support a Tetrad Flip in Modified G-Quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000413798300028
+Nonconventional C-H center dot center dot center dot F Hydrogen Bonds Support a Tetrad Flip in Modified G-Quadruplexes
 
-Comprehensive Thermodynamic Profiling for the Binding of a G-Quadruplex Selective Indoloquinoline	https://www.webofscience.com/wos/woscc/full-record/WOS:000403731400007
+Comprehensive Thermodynamic Profiling for the Binding of a G-Quadruplex Selective Indoloquinoline
 
-Tracing Effects of Fluorine Substitutions on G-Quadruplex Conformational Changes	https://www.webofscience.com/wos/woscc/full-record/WOS:000402023300017
+Tracing Effects of Fluorine Substitutions on G-Quadruplex Conformational Changes
 
-Selective Targeting of G-Quadruplex Structures by a Benzothiazole-Based Binding Motif	https://www.webofscience.com/wos/woscc/full-record/WOS:000400044400023
+Selective Targeting of G-Quadruplex Structures by a Benzothiazole-Based Binding Motif
 
-Observation of a Dynamic G-Tetrad Flip in Intramolecular G-Quadruplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000389866400020
+Observation of a Dynamic G-Tetrad Flip in Intramolecular G-Quadruplexes
 
-Sugar-Edge Interactions in a DNA-RNA G-Quadruplex: Evidence of Sequential C-H center dot center dot center dot O Hydrogen Bonds Contributing to RNA Quadruplex Folding	https://www.webofscience.com/wos/woscc/full-record/WOS:000388258000051
+Sugar-Edge Interactions in a DNA-RNA G-Quadruplex: Evidence of Sequential C-H center dot center dot center dot O Hydrogen Bonds Contributing to RNA Quadruplex Folding
 
-Towards the Development of Structure-Selective G-Quadruplex-Binding Indolo[3,2-b]quinolines	https://www.webofscience.com/wos/woscc/full-record/WOS:000370452300040
+Towards the Development of Structure-Selective G-Quadruplex-Binding Indolo[3,2-b]quinolines
 
-Selective Capture of Ni2+ Ions by Naphthalene- and Coumarin-Substituted Dithiolenes	https://www.webofscience.com/wos/woscc/full-record/WOS:000367947500002
+Selective Capture of Ni2+ Ions by Naphthalene- and Coumarin-Substituted Dithiolenes
 
-Molecular Recognition and Visual Detection of G-Quadruplexes by a Dicarbocyanine Dye	https://www.webofscience.com/wos/woscc/full-record/WOS:000361190200041
+Molecular Recognition and Visual Detection of G-Quadruplexes by a Dicarbocyanine Dye
 
-Selective Access to All Four Diastereomers of a 1,3-Amino Alcohol by Combination of a Keto Reductase- and an Amine Transaminase-Catalysed Reaction	https://www.webofscience.com/wos/woscc/full-record/WOS:000355235700020
+Selective Access to All Four Diastereomers of a 1,3-Amino Alcohol by Combination of a Keto Reductase- and an Amine Transaminase-Catalysed Reaction
 
-Flipping a G-Tetrad in a Unimolecular Quadruplex Without Affecting Its Global Fold	https://www.webofscience.com/wos/woscc/full-record/WOS:000354193300009
+Flipping a G-Tetrad in a Unimolecular Quadruplex Without Affecting Its Global Fold
 
-Two Subtle Amino Acid Changes in a Transaminase Substantially Enhance or Invert Enantiopreference in Cascade Syntheses	https://www.webofscience.com/wos/woscc/full-record/WOS:000353502300005
+Two Subtle Amino Acid Changes in a Transaminase Substantially Enhance or Invert Enantiopreference in Cascade Syntheses
 
-Structure and catalytic mechanism of the evolutionarily unique bacterial chalcone isomerase	https://www.webofscience.com/wos/woscc/full-record/WOS:000352507200017
+Structure and catalytic mechanism of the evolutionarily unique bacterial chalcone isomerase
 
-Exploration of the Substrate Promiscuity of Biosynthetic Tailoring Enzymes as a New Source of Structural Diversity for Polyene Macrolide Antifungals	https://www.webofscience.com/wos/woscc/full-record/WOS:000349147100017
+Exploration of the Substrate Promiscuity of Biosynthetic Tailoring Enzymes as a New Source of Structural Diversity for Polyene Macrolide Antifungals
 
-Exploring multiple binding sites of an indoloquinoline in triple-helical DNA: A paradigm for DNA triplex-selective intercalators	https://www.webofscience.com/wos/woscc/full-record/WOS:000347742400019
+Exploring multiple binding sites of an indoloquinoline in triple-helical DNA: A paradigm for DNA triplex-selective intercalators
 
-Conformational Flexibility of Dibenzobarrelene-Based PC(sp(3))P Pincer Iridium Hydride Complexes: The Role of Hemilabile Functional Groups and External Coordinating Solvents	https://www.webofscience.com/wos/woscc/full-record/WOS:000344722000013
+Conformational Flexibility of Dibenzobarrelene-Based PC(sp(3))P Pincer Iridium Hydride Complexes: The Role of Hemilabile Functional Groups and External Coordinating Solvents
 
-Indoloquinolines as DNA binding ligands	https://www.webofscience.com/wos/woscc/full-record/WOS:000319913600001
+Indoloquinolines as DNA binding ligands
 
-Low-Temperature NMR Studies on the Geometry of Base Pairs Involving 5-Substituted Uracil Derivatives	https://www.webofscience.com/wos/woscc/full-record/WOS:000318536700014
+Low-Temperature NMR Studies on the Geometry of Base Pairs Involving 5-Substituted Uracil Derivatives
 
-Hydrogen Bonding and Proton Transfer to Ruthenium Hydride Complex CpRuH(dppe): Metal and Hydride Dichotomy	https://www.webofscience.com/wos/woscc/full-record/WOS:000315255200021
+Hydrogen Bonding and Proton Transfer to Ruthenium Hydride Complex CpRuH(dppe): Metal and Hydride Dichotomy
 
-Spectroscopic and Calorimetric Studies on the Binding of an Indoloquinoline Drug to Parallel and Antiparallel DNA Triplexes	https://www.webofscience.com/wos/woscc/full-record/WOS:000313303800005
+Spectroscopic and Calorimetric Studies on the Binding of an Indoloquinoline Drug to Parallel and Antiparallel DNA Triplexes
 
-A TT Dinucleotide with a Nonionic Silyl Backbone: Impact on Conformation and H-Bond Mediated Base Pairing as Studied by Low-Temperature NMR	https://www.webofscience.com/wos/woscc/full-record/WOS:000322050200006
+A TT Dinucleotide with a Nonionic Silyl Backbone: Impact on Conformation and H-Bond Mediated Base Pairing as Studied by Low-Temperature NMR
 
-Preface	https://www.webofscience.com/wos/woscc/full-record/WOS:000322050200001
+Preface
 
-Binding and NMR Structural Studies on Indoloquinoline-Oligonucleotide Conjugates Targeting Duplex DNA	https://www.webofscience.com/wos/woscc/full-record/WOS:000305358700005
+Binding and NMR Structural Studies on Indoloquinoline-Oligonucleotide Conjugates Targeting Duplex DNA
 
-Inter- and intrastrand DNA crosslinks by 2-fluoro-substituted pyrrolobenzodiazepine dimers: stability, stereochemistry and drug orientation	https://www.webofscience.com/wos/woscc/full-record/WOS:000307306500006
+Inter- and intrastrand DNA crosslinks by 2-fluoro-substituted pyrrolobenzodiazepine dimers: stability, stereochemistry and drug orientation
 

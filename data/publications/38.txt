@@ -1,102 +1,102 @@
 Markus Münzenberg,38874770;
 
-Interface-Assisted Room-Temperature Magnetoresistance in Cu-Phenalenyl-Based Magnetic Tunnel Junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000945886700001
+Interface-Assisted Room-Temperature Magnetoresistance in Cu-Phenalenyl-Based Magnetic Tunnel Junctions
 
-Broadband Spintronic Terahertz Source with Peak Electric Fields Exceeding 1.5 MV/cm	https://www.webofscience.com/wos/woscc/full-record/WOS:000953280800001
+Broadband Spintronic Terahertz Source with Peak Electric Fields Exceeding 1.5 MV/cm
 
-Thermally induced all-optical ferromagnetic resonance in thin YIG films	https://www.webofscience.com/wos/woscc/full-record/WOS:000953586800001
+Thermally induced all-optical ferromagnetic resonance in thin YIG films
 
-The 2022 magneto-optics roadmap	https://www.webofscience.com/wos/woscc/full-record/WOS:000861000800001
+The 2022 magneto-optics roadmap
 
-Second harmonic generation from grating-coupled hybrid plasmon-phonon polaritons	https://www.webofscience.com/wos/woscc/full-record/WOS:000886062700005
+Second harmonic generation from grating-coupled hybrid plasmon-phonon polaritons
 
-Giant quadratic magneto-optical response of thin Y3Fe5O12 films for sensitive magnetometry experiments	https://www.webofscience.com/wos/woscc/full-record/WOS:000868755600003
+Giant quadratic magneto-optical response of thin Y3Fe5O12 films for sensitive magnetometry experiments
 
-Coupling broadband terahertz dipoles to microscale resonators	https://www.webofscience.com/wos/pprn/full-record/PPRN:13516794
+Coupling broadband terahertz dipoles to microscale resonators
 
-Magnetic domain scanning imaging using phase-sensitive THz-pulse detection	https://www.webofscience.com/wos/woscc/full-record/WOS:000876217900005
+Magnetic domain scanning imaging using phase-sensitive THz-pulse detection
 
-Second Harmonic Generation from Grating-Coupled Hybrid Plasmon-Phonon Polaritons	https://www.webofscience.com/wos/pprn/full-record/PPRN:12901328
+Second Harmonic Generation from Grating-Coupled Hybrid Plasmon-Phonon Polaritons
 
-Magnetic domain scanning imaging using phase-sensitive THz-pulse detection	https://www.webofscience.com/wos/pprn/full-record/PPRN:12200208
+Magnetic domain scanning imaging using phase-sensitive THz-pulse detection
 
-Spin reorientation transition in CoFeB/MgO/CoFeB tunnel junction enabled by ultrafast laser-induced suppression of perpendicular magnetic anisotropy	https://www.webofscience.com/wos/woscc/full-record/WOS:000800598700001
+Spin reorientation transition in CoFeB/MgO/CoFeB tunnel junction enabled by ultrafast laser-induced suppression of perpendicular magnetic anisotropy
 
-Spintronic emitters for super-resolution in THz-spectral imaging	https://www.webofscience.com/wos/woscc/full-record/WOS:000747691200005
+Spintronic emitters for super-resolution in THz-spectral imaging
 
-Ultrafast Demagnetization of Iron Induced by Optical versus Terahertz Pulses	https://www.webofscience.com/wos/woscc/full-record/WOS:000734342400001
+Ultrafast Demagnetization of Iron Induced by Optical versus Terahertz Pulses
 
-The 2021 Magnonics Roadmap	https://www.webofscience.com/wos/woscc/full-record/WOS:000684383800001
+The 2021 Magnonics Roadmap
 
-High-speed spins	https://www.webofscience.com/wos/woscc/full-record/WOS:000679215800001
+High-speed spins
 
-Frequency-Independent Terahertz Anomalous Hall Effect in DyCo5, Co32Fe68, and Gd27Fe73 Thin Films from DC to 40 THz	https://www.webofscience.com/wos/woscc/full-record/WOS:000624570000001
+Frequency-Independent Terahertz Anomalous Hall Effect in DyCo5, Co32Fe68, and Gd27Fe73 Thin Films from DC to 40 THz
 
-The impact of metallic contacts on spin-polarized photocurrents in topological insulator Bi 2 Se 3 nanowires	https://www.webofscience.com/wos/woscc/full-record/WOS:000608049600001
+The impact of metallic contacts on spin-polarized photocurrents in topological insulator Bi 2 Se 3 nanowires
 
-Efficiency of ultrafast optically induced spin transfer in Hensler compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000603587400006
+Efficiency of ultrafast optically induced spin transfer in Hensler compounds
 
-Photocurrent measurements in topological insulator Bi 2 Se 3 nanowires	https://www.webofscience.com/wos/woscc/full-record/WOS:000530422500002
+Photocurrent measurements in topological insulator Bi 2 Se 3 nanowires
 
-Light-wave dynamic control of magnetism	https://www.webofscience.com/wos/woscc/full-record/WOS:000474843400035
+Light-wave dynamic control of magnetism
 
-Microscaffolds by Direct Laser Writing for Neurite Guidance Leading to Tailor-Made Neuronal Networks	https://www.webofscience.com/wos/woscc/full-record/WOS:000471816000002
+Microscaffolds by Direct Laser Writing for Neurite Guidance Leading to Tailor-Made Neuronal Networks
 
-Tunnel magneto-Seebeck effect	https://www.webofscience.com/wos/woscc/full-record/WOS:000457438200001
+Tunnel magneto-Seebeck effect
 
-Remagnetization in arrays of ferromagnetic nanostripes with periodic and quasiperiodic order	https://www.webofscience.com/wos/woscc/full-record/WOS:000458365300004
+Remagnetization in arrays of ferromagnetic nanostripes with periodic and quasiperiodic order
 
-The missing link	https://www.webofscience.com/wos/woscc/full-record/WOS:000540316700006
+The missing link
 
-Driving Magnetization Dynamics in an On-Demand Magnonic Crystal via the Magnetoelastic Interactions	https://www.webofscience.com/wos/woscc/full-record/WOS:000454192800003
+Driving Magnetization Dynamics in an On-Demand Magnonic Crystal via the Magnetoelastic Interactions
 
-Terahertz spectroscopy for all-optical spintronic characterization of the spin-Hall-effect metals Pt, W and Cu(80)lr(20)	https://www.webofscience.com/wos/woscc/full-record/WOS:000440976600002
+Terahertz spectroscopy for all-optical spintronic characterization of the spin-Hall-effect metals Pt, W and Cu(80)lr(20)
 
-Femtosecond formation dynamics of the spin Seebeck effect revealed by terahertz spectroscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000439557800005
+Femtosecond formation dynamics of the spin Seebeck effect revealed by terahertz spectroscopy
 
-3D Micro Scaffolds for Tailor-Made Three-Dimensional Neural Network Studies	https://www.webofscience.com/wos/woscc/full-record/WOS:000430563300353
+3D Micro Scaffolds for Tailor-Made Three-Dimensional Neural Network Studies
 
-Anomalous Nernst effect and three-dimensional temperature gradients in magnetic tunnel junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000449054100001
+Anomalous Nernst effect and three-dimensional temperature gradients in magnetic tunnel junctions
 
-Thermal conductivity of thin insulating films determined by tunnel magneto-Seebeck effect measurements and finite-element modeling	https://www.webofscience.com/wos/woscc/full-record/WOS:000431947900003
+Thermal conductivity of thin insulating films determined by tunnel magneto-Seebeck effect measurements and finite-element modeling
 
-Laser-induced changes of nonlinear electronic transport properties in La0.75Ba0.25MnO3 and (La0.6Pr0.4)(0.67)Ca0.33MnO3	https://www.webofscience.com/wos/woscc/full-record/WOS:000419354400001
+Laser-induced changes of nonlinear electronic transport properties in La0.75Ba0.25MnO3 and (La0.6Pr0.4)(0.67)Ca0.33MnO3
 
-Enhancement of thermovoltage and tunnel magneto-Seebeck effect in CoFeB-based magnetic tunnel junctions by variation of the MgAl2O4 and MgO barrier thickness	https://www.webofscience.com/wos/woscc/full-record/WOS:000418653000007
+Enhancement of thermovoltage and tunnel magneto-Seebeck effect in CoFeB-based magnetic tunnel junctions by variation of the MgAl2O4 and MgO barrier thickness
 
-Large magneto-Seebeck effect in magnetic tunnel junctions with half-metallic Heusler electrodes	https://www.webofscience.com/wos/woscc/full-record/WOS:000415759900009
+Large magneto-Seebeck effect in magnetic tunnel junctions with half-metallic Heusler electrodes
 
-Terahertz Spin Currents and Inverse Spin Hall Effect in Thin-Film Heterostructures Containing Complex Magnetic Compounds	https://www.webofscience.com/wos/woscc/full-record/WOS:000412735800003
+Terahertz Spin Currents and Inverse Spin Hall Effect in Thin-Film Heterostructures Containing Complex Magnetic Compounds
 
-Magnetisation switching of FePt nanoparticle recording medium by femtosecond laser pulses	https://www.webofscience.com/wos/woscc/full-record/WOS:000404118700006
+Magnetisation switching of FePt nanoparticle recording medium by femtosecond laser pulses
 
-Analysis of the time-resolved magneto- optical Kerr effect for ultrafast magnetization dynamics in ferromagnetic thin films	https://www.webofscience.com/wos/woscc/full-record/WOS:000398071100001
+Analysis of the time-resolved magneto- optical Kerr effect for ultrafast magnetization dynamics in ferromagnetic thin films
 
-Pumping laser excited spins through MgO barriers	https://www.webofscience.com/wos/woscc/full-record/WOS:000397498500001
+Pumping laser excited spins through MgO barriers
 
-Light-Induced Metastable Magnetic Texture Uncovered by in situ Lorentz Microscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000396043900012
+Light-Induced Metastable Magnetic Texture Uncovered by in situ Lorentz Microscopy
 
-Spin-Current Manipulation of Photo-Induced Magnetization Dynamics in Heavy Metal/Ferromagnet Double Layer-Based Nanostructures	https://www.webofscience.com/wos/woscc/full-record/WOS:000413981300195
+Spin-Current Manipulation of Photo-Induced Magnetization Dynamics in Heavy Metal/Ferromagnet Double Layer-Based Nanostructures
 
-Magnetization dynamics in magnonic structures with different geometries: interfaces, notches and waveguides	https://www.webofscience.com/wos/woscc/full-record/WOS:000412504600001
+Magnetization dynamics in magnonic structures with different geometries: interfaces, notches and waveguides
 
-Ultrafast photocurrents at the surface of the three-dimensional topological insulator Bi2Se3	https://www.webofscience.com/wos/woscc/full-record/WOS:000386501500001
+Ultrafast photocurrents at the surface of the three-dimensional topological insulator Bi2Se3
 
-Preface to Special Topic: Cutting Edge Physics in Functional Materials	https://www.webofscience.com/wos/woscc/full-record/WOS:000386535400002
+Preface to Special Topic: Cutting Edge Physics in Functional Materials
 
-Efficient metallic spintronic emitters of ultrabroadband terahertz radiation	https://www.webofscience.com/wos/woscc/full-record/WOS:000378839600015
+Efficient metallic spintronic emitters of ultrabroadband terahertz radiation
 
-Comparison of laser-induced and intrinsic tunnel magneto-Seebeck effect in CoFeB/MgAl2O4 and CoFeB/MgO magnetic tunnel junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000378815800002
+Comparison of laser-induced and intrinsic tunnel magneto-Seebeck effect in CoFeB/MgAl2O4 and CoFeB/MgO magnetic tunnel junctions
 
-3D Micropillars Guide the Mechanobiology of Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes	https://www.webofscience.com/wos/woscc/full-record/WOS:000370004100005
+3D Micropillars Guide the Mechanobiology of Human Induced Pluripotent Stem Cell-Derived Cardiomyocytes
 
-THz elastic dynamics in finite-size CoFeB-MgO phononic superlattices	https://www.webofscience.com/wos/woscc/full-record/WOS:000386535400018
+THz elastic dynamics in finite-size CoFeB-MgO phononic superlattices
 
-Confinement of phonon propagation in laser deposited tungsten/polycarbonate multilayers	https://www.webofscience.com/wos/woscc/full-record/WOS:000385685300001
+Confinement of phonon propagation in laser deposited tungsten/polycarbonate multilayers
 
-Perspective: Ultrafast magnetism and THz spintronics	https://www.webofscience.com/wos/woscc/full-record/WOS:000386535400001
+Perspective: Ultrafast magnetism and THz spintronics
 
-Coherent ultrafast spin-dynamics probed in three dimensional topological insulators	https://www.webofscience.com/wos/woscc/full-record/WOS:000363637700001
+Coherent ultrafast spin-dynamics probed in three dimensional topological insulators
 
-Comparison of the magneto-Peltier and magneto-Seebeck effects in magnetic tunnel junctions	https://www.webofscience.com/wos/woscc/full-record/WOS:000358600700001
+Comparison of the magneto-Peltier and magneto-Seebeck effects in magnetic tunnel junctions
 

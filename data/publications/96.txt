@@ -1,6 +1,6 @@
 Michael Schürmann,39224456;
 
-Non-commutative stochastic processes with independent increments	https://www.webofscience.com/wos/pprn/full-record/PPRN:10463626
+Non-commutative stochastic processes with independent increments
 
-Categorial Levy Processes	https://www.webofscience.com/wos/pprn/full-record/PPRN:12114622
+Categorial Levy Processes
 
