@@ -5,6 +5,32 @@ The goal of this project will be to create a LLM with a custom corpus containing
 For this titles of research papers of professors of the University of Greifswald and PDF files of e.g. study regulations have been gathered and split into chunks adhering to the input token limit of GPT.\
 ![Overview](./overview.png "Overview")
 
+# Dependencies
+|**Python packages**|
+|os|
+|openai|
+|argparse|
+|pathlib|
+|h5py|
+|numpy|
+|tiktoken|
+|sys|
+|pandas|
+|sklearn|
+|matplotlib|
+|seaborn|
+|adjustText|
+|flask|
+|subprocess|
+|typing|
+|selenium|
+|time|
+|datetime|
+
+|**Additional dependencies**|
+|pdftotext for UNIX|
+|Firefox Geckodriver v0.33 or higher|
+
 # Introduction
 LLMs like ChatGPT can be asked to perform a specific task and produce output that is a **likely continuation** of the input string. The generation of the output of the associated neural network is dependent upon its training data. OpenAI uses a large amount of training data from sources all over the internet. Some specific sources, though, will necessarily have to be skipped, since the amount of data on the internet is too large to be fed completely into the LLM. This "lack" of input data has a serious impact on the answers that the LLM generates. LLMs can "hallucinate", which is a term describing the tendency for LLMs to generate answers that are factually wrong, due to lack of training data on a specific problem.\
 Thus, creating a custom corpus, also known as a context for the LLM to fall back on is important, if one wants to avoid hallucinations.\
@@ -24,6 +50,6 @@ GPT is a next-token predictor. It generates the next token based on probablity. 
 As a proof of concept a t-sNE plot has been generated for visualization of the clustering of fields of research. Using cosine similarity to compare the embeddings of the individual professors and the titles of 50 of their most recent papers, followed by a projection into two-dimensional space resulted in the following plot.
 <object data="https://github.com/mslehre/text-embedding/tree/sJ/docs/pub_tsne_plot_with_edges.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/mslehre/text-embedding/tree/sJ/docs/pub_tsne_plot_with_edges.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/mslehre/text-embedding/tree/sJ/docs/pub_tsne_plot_with_edges.pdf">Download PDF</a>.</p>
     </embed>
 </object>
