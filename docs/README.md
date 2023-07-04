@@ -3,7 +3,7 @@
 # Quick Overview
 The goal of this project will be to use a large language model (LLM) with a custom corpus containing information about the University of Greifswald (e.g. research of individual professors, study regulations, etc.).\
 For this titles of research papers of professors of the University of Greifswald and PDF files of e.g. study regulations have been gathered and split into chunks adhering to the input token limit of GPT.\
-![Overview](./overview.png "Overview")
+![Overview](./ "Overview")
 
 # Dependencies
 
