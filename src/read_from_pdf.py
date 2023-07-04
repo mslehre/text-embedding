@@ -5,7 +5,7 @@ import subprocess
 
 from chunker import try_to_write_dir
 
-def filter_junk_text(txt_file):
+def filter_junk_text(txt_file, output_dir):
     # helping file to get content of txt file
     filtered_document_text = ''
     document_content = open(txt_file, 'r')
@@ -18,7 +18,8 @@ def filter_junk_text(txt_file):
     # write filterd text into new directory
     file_name_index = txt_file.rfind('/')
     txt_file = txt_file[file_name_index+1:]
-    f = open('../data/filtered_documents/' + txt_file, 'w')
+
+    f = open(output_dir + txt_file, 'w')
     f.write(filtered_document_text)
     f.close()
 
@@ -51,33 +52,45 @@ def main():
                        default = './',
                        help = 'Directory in which all PDF files are saved.')
 
-    parser.add_argument('-c', '--convert_pdf_to_txt')  
+    # if argument c given it will be converted
+    parser.add_argument('-c', '--convert_pdf_to_txt', action = 'store_true')  
+
+    # output directory - main argument
+    # default temporaty
+    parser.add_argument('-o', '--output_directory',
+                        default = '../data/filtered_documents/')
+
+    # TODO
+    # agument - output directory
+    # argument - list of the files that shoulf be converted (as c option?)
 
     args = parser.parse_args()
 
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
-
     convert_files = args.convert_pdf_to_txt
+    output_dir = os.path.join(args.output_directory, '')
 
     # convert pdf files in a dictionary into txt files
-    # directory = '../data/examination_regulations_2'
-
-    # dir_path = directory
     for filename in os.listdir(dir_path):
         f = os.path.join(dir_path, filename)
         # checking if it is a file and if it ends with '.pdf' 
         # Lukasz - the following code was commented while executing
         if os.path.isfile(f) and f[-4:] == '.pdf':
             if convert_files:
-                process = subprocess.Popen(["pdftotext", "-layout", f])
+                ''' try: 
+                    process = subprocess.Popen(["pdftotext", "-layout", f])
+                except:
+                    print("Error: src have to be installed!")
+                '''
     
 
-        # filter out the converted txt files
-        # check if it is a txt file
-        # check if it is a meta.txt file
+    # filter out the converted txt files
+    # check if it is a txt file
+    # check if it is a meta.txt file
     for filename in os.listdir(dir_path):
+        f = os.path.join(dir_path, filename)
         if os.path.isfile(f) and f[-4:] == '.txt' and f[-8:] != 'meta.txt':
-            filter_junk_text(f)
+            filter_junk_text(f, output_dir)
 
     exit(0)
 
