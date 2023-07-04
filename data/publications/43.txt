@@ -1,102 +1,102 @@
 Per Helander,22341702;
 
-Gyrokinetic electrostatic turbulence close to marginality in the Wendelstein 7-X stellarator	https://www.webofscience.com/wos/woscc/full-record/WOS:000836458000014
+Gyrokinetic electrostatic turbulence close to marginality in the Wendelstein 7-X stellarator
 
-Combined plasma-coil optimization algorithms	https://www.webofscience.com/wos/pprn/full-record/PPRN:11708060
+Combined plasma-coil optimization algorithms
 
-Coulomb collisions in strongly anisotropic plasmas I. Cyclotron cooling in electron-ion plasmas	https://www.webofscience.com/wos/pprn/full-record/PPRN:15330253
+Coulomb collisions in strongly anisotropic plasmas I. Cyclotron cooling in electron-ion plasmas
 
-Coulomb collisions in strongly anisotropic plasmas II. Cyclotron cooling in laboratory pair plasmas	https://www.webofscience.com/wos/pprn/full-record/PPRN:10686612
+Coulomb collisions in strongly anisotropic plasmas II. Cyclotron cooling in laboratory pair plasmas
 
-Effects of collisions on impurity transport driven by electrostatic modes	https://www.webofscience.com/wos/pprn/full-record/PPRN:22903073
+Effects of collisions on impurity transport driven by electrostatic modes
 
-Necessary and Sufficient Conditions for Quasisymmetry	https://www.webofscience.com/wos/pprn/full-record/PPRN:22876570
+Necessary and Sufficient Conditions for Quasisymmetry
 
-Forward modeling of collective Thomson scattering for Wendelstein 7-X plasmas: Electrostatic approximation	https://www.webofscience.com/wos/woscc/full-record/WOS:000460095300035
+Forward modeling of collective Thomson scattering for Wendelstein 7-X plasmas: Electrostatic approximation
 
-Kinetic ballooning modes in tokamaks and stellarators	https://www.webofscience.com/wos/woscc/full-record/WOS:000455721700005
+Kinetic ballooning modes in tokamaks and stellarators
 
-Quasilinear particle transport from gyrokinetic instabilities in general magnetic geometry	https://www.webofscience.com/wos/pprn/full-record/PPRN:12887146
+Quasilinear particle transport from gyrokinetic instabilities in general magnetic geometry
 
-Electrostatic stability of electron-positron plasmas in dipole geometry	https://www.webofscience.com/wos/pprn/full-record/PPRN:21462772
+Electrostatic stability of electron-positron plasmas in dipole geometry
 
-Gyrokinetic Stability of Electron-Positron-Ion Plasmas	https://www.webofscience.com/wos/pprn/full-record/PPRN:12880550
+Gyrokinetic Stability of Electron-Positron-Ion Plasmas
 
-Impurity transport and bulk ion flow in a mixed collisionality stellarator plasma	https://www.webofscience.com/wos/pprn/full-record/PPRN:50230728
+Impurity transport and bulk ion flow in a mixed collisionality stellarator plasma
 
-Available energy and ground states of collisionless plasmas	https://www.webofscience.com/wos/pprn/full-record/PPRN:12714165
+Available energy and ground states of collisionless plasmas
 
-Collisionless microinstabilities in stellarators. I. Analytical theory of trapped-particle modes (vol 20, 122505, 2013)	https://www.webofscience.com/wos/woscc/full-record/WOS:000397872500108
+Collisionless microinstabilities in stellarators. I. Analytical theory of trapped-particle modes (vol 20, 122505, 2013)
 
-Gyrokinetic stability theory of electron-positron plasmas	https://www.webofscience.com/wos/pprn/full-record/PPRN:19303143
+Gyrokinetic stability theory of electron-positron plasmas
 
-Less constrained omnigeneous stellarators	https://www.webofscience.com/wos/pprn/full-record/PPRN:22067814
+Less constrained omnigeneous stellarators
 
-Microstability of Magnetically Confined Electron-Positron Plasmas	https://www.webofscience.com/wos/woscc/full-record/WOS:000342154100008
+Microstability of Magnetically Confined Electron-Positron Plasmas
 
-Comparison of particle trajectories and collision operators for collisional transport in nonaxisymmetric plasmas	https://www.webofscience.com/wos/pprn/full-record/PPRN:48917845
+Comparison of particle trajectories and collision operators for collisional transport in nonaxisymmetric plasmas
 
-Collisionless microinstabilities in stellarators. II. Numerical simulations	https://www.webofscience.com/wos/woscc/full-record/WOS:000329176800037
+Collisionless microinstabilities in stellarators. II. Numerical simulations
 
-Ideal magnetohydrodynamic stability of configurations without nested flux surfaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000321273200032
+Ideal magnetohydrodynamic stability of configurations without nested flux surfaces
 
-Resilience of Quasi-Isodynamic Stellarators against Trapped-Particle Instabilities	https://www.webofscience.com/wos/woscc/full-record/WOS:000305115700008
+Resilience of Quasi-Isodynamic Stellarators against Trapped-Particle Instabilities
 
-Runaway electron drift orbits in magnetostatic perturbed fields	https://www.webofscience.com/wos/woscc/full-record/WOS:000289081000005
+Runaway electron drift orbits in magnetostatic perturbed fields
 
-An improved control-variate scheme for particle-in-cell simulations with collisions	https://www.webofscience.com/wos/woscc/full-record/WOS:000288404300015
+An improved control-variate scheme for particle-in-cell simulations with collisions
 
-Pfirsch-Schluter impurity transport in stellarators	https://www.webofscience.com/wos/woscc/full-record/WOS:000281110600033
+Pfirsch-Schluter impurity transport in stellarators
 
-Effect of impurities on collisional zonal flow damping in tokamaks	https://www.webofscience.com/wos/woscc/full-record/WOS:000266218300012
+Effect of impurities on collisional zonal flow damping in tokamaks
 
-Linear tearing mode stability equations for a low collisionality toroidal plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000261833800019
+Linear tearing mode stability equations for a low collisionality toroidal plasma
 
-Collisionless dynamics of zonal flows in stellarator geometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000262074400015
+Collisionless dynamics of zonal flows in stellarator geometry
 
-On rapid plasma rotation	https://www.webofscience.com/wos/woscc/full-record/WOS:000250589700101
+On rapid plasma rotation
 
-Curvature particle pinch in tokamak and stellarator geometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000250589700026
+Curvature particle pinch in tokamak and stellarator geometry
 
-Chapter 3: MHD stability, operational limits and disruptions	https://www.webofscience.com/wos/woscc/full-record/WOS:000247899900004
+Chapter 3: MHD stability, operational limits and disruptions
 
-Collisional bulk ion transport and poloidal rotation driven by neutral beam injection	https://www.webofscience.com/wos/woscc/full-record/WOS:000247626100016
+Collisional bulk ion transport and poloidal rotation driven by neutral beam injection
 
-Cross-field diffusion of electrons and implications for coronal structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000246823600040
+Cross-field diffusion of electrons and implications for coronal structure
 
-Tokamak current driven by poloidally asymmetric fueling	https://www.webofscience.com/wos/woscc/full-record/WOS:000241722400033
+Tokamak current driven by poloidally asymmetric fueling
 
-Runaway electrons and the evolution of the plasma current in tokamak disruptions	https://www.webofscience.com/wos/woscc/full-record/WOS:000241722400029
+Runaway electrons and the evolution of the plasma current in tokamak disruptions
 
-Cross-field diffusion of electrons in tangled magnetic fields and implications for coronal fine structure	https://www.webofscience.com/wos/woscc/full-record/WOS:000239644900052
+Cross-field diffusion of electrons in tangled magnetic fields and implications for coronal fine structure
 
-Relativistic electron distribution function of a plasma in a near-critical electric field	https://www.webofscience.com/wos/woscc/full-record/WOS:000239424400009
+Relativistic electron distribution function of a plasma in a near-critical electric field
 
-JET experiments to assess the clamping of the fast ion energy distribution during ICRF heating due to finite Larmor radius effects	https://www.webofscience.com/wos/woscc/full-record/WOS:000238868100001
+JET experiments to assess the clamping of the fast ion energy distribution during ICRF heating due to finite Larmor radius effects
 
-Destabilization of magnetosonic-whistler waves by a relativistic runaway beam	https://www.webofscience.com/wos/woscc/full-record/WOS:000238732000032
+Destabilization of magnetosonic-whistler waves by a relativistic runaway beam
 
-Neoclassical momentum transport in an impure rotating tokamak plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000235015500029
+Neoclassical momentum transport in an impure rotating tokamak plasma
 
-Runaway electron generation in a cooling plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000234214600019
+Runaway electron generation in a cooling plasma
 
-On neutral-beam injection counter to the plasma current	https://www.webofscience.com/wos/woscc/full-record/WOS:000233569600027
+On neutral-beam injection counter to the plasma current
 
-Overview of MAST results	https://www.webofscience.com/wos/woscc/full-record/WOS:000233174200014
+Overview of MAST results
 
-Experimental studies of instabilities and confinement of energetic particles on JET and MAST	https://www.webofscience.com/wos/woscc/full-record/WOS:000232350100017
+Experimental studies of instabilities and confinement of energetic particles on JET and MAST
 
-Fast electron slowing-down and diffusion in a high temperature coronal X-ray source	https://www.webofscience.com/wos/woscc/full-record/WOS:000230611600034
+Fast electron slowing-down and diffusion in a high temperature coronal X-ray source
 
-Fast electron slowing-down and diffusion in a high temperature coronal X-ray source	https://www.webofscience.com/wos/pprn/full-record/PPRN:22888130
+Fast electron slowing-down and diffusion in a high temperature coronal X-ray source
 
-Optothermistor as a breakthrough in the quantification of lycopene content of thermally processed tomato-based foods: Verification versus absorption spectrophotometry and high-performance liquid chromatography	https://www.webofscience.com/wos/woscc/full-record/WOS:000228810200005
+Optothermistor as a breakthrough in the quantification of lycopene content of thermally processed tomato-based foods: Verification versus absorption spectrophotometry and high-performance liquid chromatography
 
-Neoclassical electron transport in tokamaks with neutral-beam injection	https://www.webofscience.com/wos/woscc/full-record/WOS:000228865900031
+Neoclassical electron transport in tokamaks with neutral-beam injection
 
-Electron kinetics in a cooling plasma	https://www.webofscience.com/wos/woscc/full-record/WOS:000225450200043
+Electron kinetics in a cooling plasma
 
-Current dynamics during disruptions in large tokamaks	https://www.webofscience.com/wos/woscc/full-record/WOS:000221541300033
+Current dynamics during disruptions in large tokamaks
 
-Localized gas puffing control of edge rotation and electric field	https://www.webofscience.com/wos/woscc/full-record/WOS:000221274900043
+Localized gas puffing control of edge rotation and electric field
 

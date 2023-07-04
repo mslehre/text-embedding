@@ -1,102 +1,102 @@
 Lutz Schweikhard,2360917;
 
-Multiple active voltage stabilizations for multi-reflection time-of-flight mass spectrometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000684399500001
+Multiple active voltage stabilizations for multi-reflection time-of-flight mass spectrometry
 
-Concatenated multi-reflection time-of-flight spectra for wide-band mass spectrometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000634963300004
+Concatenated multi-reflection time-of-flight spectra for wide-band mass spectrometry
 
-Cresting the Coulomb Barrier of Polyanionic Metal Clusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000652826300005
+Cresting the Coulomb Barrier of Polyanionic Metal Clusters
 
-Laser Spectroscopy of Neutron-Rich Hg-207,Hg-208 Isotopes: Illuminating the Kink and Odd-Even Staggering in Charge Radii across the N=126 Shell Closure	https://www.webofscience.com/wos/woscc/full-record/WOS:000610780600003
+Laser Spectroscopy of Neutron-Rich Hg-207,Hg-208 Isotopes: Illuminating the Kink and Odd-Even Staggering in Charge Radii across the N=126 Shell Closure
 
-Decay-rate power-law exponent as a link between dissociation energy and temperature	https://www.webofscience.com/wos/woscc/full-record/WOS:000605405100005
+Decay-rate power-law exponent as a link between dissociation energy and temperature
 
-Laser-assisted decay spectroscopy and mass spectrometry of Au-178	https://www.webofscience.com/wos/woscc/full-record/WOS:000583200100002
+Laser-assisted decay spectroscopy and mass spectrometry of Au-178
 
-Masses of short-lived Sc-49, Sc-50, As-70, Br-73 and stable Hg-196 nuclides	https://www.webofscience.com/wos/woscc/full-record/WOS:000567817300004
+Masses of short-lived Sc-49, Sc-50, As-70, Br-73 and stable Hg-196 nuclides
 
-Laser-assisted decay spectroscopy for the ground states of Au-180,Au-182	https://www.webofscience.com/wos/woscc/full-record/WOS:000559079100001
+Laser-assisted decay spectroscopy for the ground states of Au-180,Au-182
 
-Examining the N=28 shell closure through high-precision mass measurements of Ar46-48	https://www.webofscience.com/wos/woscc/full-record/WOS:000548105100002
+Examining the N=28 shell closure through high-precision mass measurements of Ar46-48
 
-Photodissociation of mono- and di-anionic tin clusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000545989700004
+Photodissociation of mono- and di-anionic tin clusters
 
-Shape coexistence in Au-187 studied by laser spectroscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000548346200008
+Shape coexistence in Au-187 studied by laser spectroscopy
 
-Spectroscopy of short-lived radioactive molecules	https://www.webofscience.com/wos/woscc/full-record/WOS:000553828700001
+Spectroscopy of short-lived radioactive molecules
 
-Q(EC)-value determination for Na-21 -> Ne-21 and Mg-23 -> Na-23 mirror-nuclei decays using high-precision mass spectrometry with ISOLTRAP at the CERN ISOLDE facility (vol 100, 015502, 2019)	https://www.webofscience.com/wos/woscc/full-record/WOS:000523631700002
+Q(EC)-value determination for Na-21 -> Ne-21 and Mg-23 -> Na-23 mirror-nuclei decays using high-precision mass spectrometry with ISOLTRAP at the CERN ISOLDE facility (vol 100, 015502, 2019)
 
-Hyperfine anomaly in gold and magnetic moments of I-pi=11/2(-) gold isomers	https://www.webofscience.com/wos/woscc/full-record/WOS:000521090000003
+Hyperfine anomaly in gold and magnetic moments of I-pi=11/2(-) gold isomers
 
-First Glimpse of the N=82 Shell Closure below Z=50 from Masses of Neutron-Rich Cadmium Isotopes and Isomers	https://www.webofscience.com/wos/woscc/full-record/WOS:000518464200006
+First Glimpse of the N=82 Shell Closure below Z=50 from Masses of Neutron-Rich Cadmium Isotopes and Isomers
 
-Multiple-ion-ejection multi-reflection time-of-flight mass spectrometry for single-reference mass measurements with lapping ion species	https://www.webofscience.com/wos/woscc/full-record/WOS:000515665400001
+Multiple-ion-ejection multi-reflection time-of-flight mass spectrometry for single-reference mass measurements with lapping ion species
 
-Improved stability of multi-reflection time-of-flight mass spectrometers through passive and active voltage stabilization	https://www.webofscience.com/wos/woscc/full-record/WOS:000518699900071
+Improved stability of multi-reflection time-of-flight mass spectrometers through passive and active voltage stabilization
 
-First steps in the development of the Multi Ion Reflection Apparatus for Collinear Laser Spectroscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000518699900062
+First steps in the development of the Multi Ion Reflection Apparatus for Collinear Laser Spectroscopy
 
-The performance of the cryogenic buffer-gas stopping cell of SHIPTRAP	https://www.webofscience.com/wos/woscc/full-record/WOS:000518699900055
+The performance of the cryogenic buffer-gas stopping cell of SHIPTRAP
 
-STRAY-LIGHT SUPPRESSION FOR THE MIRACLS PROOF-OF-PRINCIPLE EXPERIMENT	https://www.webofscience.com/wos/woscc/full-record/WOS:000521823800004
+STRAY-LIGHT SUPPRESSION FOR THE MIRACLS PROOF-OF-PRINCIPLE EXPERIMENT
 
-A multi-reflection time-of-flight setup for the improvement and development of new methods and the study of atomic clusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000497967900001
+A multi-reflection time-of-flight setup for the improvement and development of new methods and the study of atomic clusters
 
-Isotope-resolved photodissociation pathways of lead-doped bismuth clusters from tandem multi-reflection time-of-flight mass spectrometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000600612200002
+Isotope-resolved photodissociation pathways of lead-doped bismuth clusters from tandem multi-reflection time-of-flight mass spectrometry
 
-Q(EC)-value determination for Na-21 -> Ne-21 and Mg-23 -> Na-23 mirror-nuclei decays using high-precision mass spectrometry with ISOLTRAP at the CERN ISOLDE facility	https://www.webofscience.com/wos/woscc/full-record/WOS:000475506300004
+Q(EC)-value determination for Na-21 -> Ne-21 and Mg-23 -> Na-23 mirror-nuclei decays using high-precision mass spectrometry with ISOLTRAP at the CERN ISOLDE facility
 
-Mass measurements of neutron-rich isotopes near N=20 by in-trap decay with the ISOLTRAP spectrometer	https://www.webofscience.com/wos/woscc/full-record/WOS:000474372800003
+Mass measurements of neutron-rich isotopes near N=20 by in-trap decay with the ISOLTRAP spectrometer
 
-Evaluation of high-precision atomic masses of A approximate to 50-80 and rare-earth nuclides measured with ISOLTRAP	https://www.webofscience.com/wos/woscc/full-record/WOS:000472516300001
+Evaluation of high-precision atomic masses of A approximate to 50-80 and rare-earth nuclides measured with ISOLTRAP
 
-Direct decay-energy measurement as a route to the neutrino mass	https://www.webofscience.com/wos/woscc/full-record/WOS:000471268200002
+Direct decay-energy measurement as a route to the neutrino mass
 
-Photofragmentation of Bi-n(+/-) clusters (n=2-19) in an electrostatic ion beam trap	https://www.webofscience.com/wos/woscc/full-record/WOS:000468374800002
+Photofragmentation of Bi-n(+/-) clusters (n=2-19) in an electrostatic ion beam trap
 
-Inverse odd-even staggering in nuclear charge radii and possible octupole collectivity in At-217,At-218,At-219 revealed by in-source laser spectroscopy	https://www.webofscience.com/wos/woscc/full-record/WOS:000468216900005
+Inverse odd-even staggering in nuclear charge radii and possible octupole collectivity in At-217,At-218,At-219 revealed by in-source laser spectroscopy
 
-Shape staggering of midshell mercury isotopes from in-source laser spectroscopy compared with density-functional-theory and Monte Carlo shell-model calculations	https://www.webofscience.com/wos/woscc/full-record/WOS:000464738300001
+Shape staggering of midshell mercury isotopes from in-source laser spectroscopy compared with density-functional-theory and Monte Carlo shell-model calculations
 
-Multiple ion capture and separation in an electrostatic storage device	https://www.webofscience.com/wos/woscc/full-record/WOS:000453773300039
+Multiple ion capture and separation in an electrostatic storage device
 
-Simulations of a proof-of-principle experiment for collinear laser spectroscopy within a multi-reflection time-of-flight device	https://www.webofscience.com/wos/woscc/full-record/WOS:000467913000002
+Simulations of a proof-of-principle experiment for collinear laser spectroscopy within a multi-reflection time-of-flight device
 
-Fluorescence detection as a new diagnostics tool for electrostatic ion beam traps	https://www.webofscience.com/wos/woscc/full-record/WOS:000483265300010
+Fluorescence detection as a new diagnostics tool for electrostatic ion beam traps
 
-Characterization of the shape-staggering effect in mercury nuclei	https://www.webofscience.com/wos/woscc/full-record/WOS:000454726800014
+Characterization of the shape-staggering effect in mercury nuclei
 
-Change in structure between the I=1/2 states in Tl-181 and (177)(,)(179)AU	https://www.webofscience.com/wos/woscc/full-record/WOS:000452318400048
+Change in structure between the I=1/2 states in Tl-181 and (177)(,)(179)AU
 
-Interaction of anionic tin clusters Sn-n(-), n=7-75 with electrons polyanion production and cluster decay	https://www.webofscience.com/wos/woscc/full-record/WOS:000444203600004
+Interaction of anionic tin clusters Sn-n(-), n=7-75 with electrons polyanion production and cluster decay
 
-Non-isobaric time-of-flight correction for isobar resolving in MR-ToF mass spectrometry	https://www.webofscience.com/wos/woscc/full-record/WOS:000444626800007
+Non-isobaric time-of-flight correction for isobar resolving in MR-ToF mass spectrometry
 
-Precision Mass Measurements of Cr58-63: Nuclear Collectivity Towards the N=40 Island of Inversion	https://www.webofscience.com/wos/woscc/full-record/WOS:000434632600006
+Precision Mass Measurements of Cr58-63: Nuclear Collectivity Towards the N=40 Island of Inversion
 
-Charge radii and electromagnetic moments of At195-211	https://www.webofscience.com/wos/woscc/full-record/WOS:000433289200002
+Charge radii and electromagnetic moments of At195-211
 
-Nuclear deformation in the A approximate to 100 region: Comparison between new masses and mean-field predictions (vol 96, 014310, 2017)	https://www.webofscience.com/wos/woscc/full-record/WOS:000432969400005
+Nuclear deformation in the A approximate to 100 region: Comparison between new masses and mean-field predictions (vol 96, 014310, 2017)
 
-Fission of Polyanionic Metal Clusters	https://www.webofscience.com/wos/woscc/full-record/WOS:000430077300004
+Fission of Polyanionic Metal Clusters
 
-Disentangling the photodissociation pathways of small lead clusters by time-resolved monitoring of their delayed decays: the case of Pb-31(+)	https://www.webofscience.com/wos/woscc/full-record/WOS:000423445600002
+Disentangling the photodissociation pathways of small lead clusters by time-resolved monitoring of their delayed decays: the case of Pb-31(+)
 
-In-depth study of in-trap high-resolution mass separation by transversal ion ejection from a multi-reflection time-of-flight device	https://www.webofscience.com/wos/woscc/full-record/WOS:000424022400077
+In-depth study of in-trap high-resolution mass separation by transversal ion ejection from a multi-reflection time-of-flight device
 
-Long-Term Monitoring of the Internal Energy Distribution of Isolated Cluster Systems	https://www.webofscience.com/wos/woscc/full-record/WOS:000435643300003
+Long-Term Monitoring of the Internal Energy Distribution of Isolated Cluster Systems
 
-Multi-reflection time-of-flight mass spectrometry with combined in-trap lift capture and mirror-switch ejection	https://www.webofscience.com/wos/woscc/full-record/WOS:000417002700007
+Multi-reflection time-of-flight mass spectrometry with combined in-trap lift capture and mirror-switch ejection
 
-Binding Energy of Cu-79: Probing the Structure of the Doubly Magic Ni-78 from Only One Proton Away	https://www.webofscience.com/wos/woscc/full-record/WOS:000414424700011
+Binding Energy of Cu-79: Probing the Structure of the Doubly Magic Ni-78 from Only One Proton Away
 
-Spectroscopy of the long-lived excited state in the neutron-deficient nuclides Po-195,Po-197,Po-199 by precision mass measurements	https://www.webofscience.com/wos/woscc/full-record/WOS:000413848600001
+Spectroscopy of the long-lived excited state in the neutron-deficient nuclides Po-195,Po-197,Po-199 by precision mass measurements
 
-Mass-selective ion ejection from multi-reflection time-of-flight devices via a pulsed in-trap lift	https://www.webofscience.com/wos/woscc/full-record/WOS:000414114100034
+Mass-selective ion ejection from multi-reflection time-of-flight devices via a pulsed in-trap lift
 
-Interaction of anionic lead clusters Pb-n(-), n=10, 12-102 with electrons - Polyanion production and cluster decay	https://www.webofscience.com/wos/woscc/full-record/WOS:000414114100014
+Interaction of anionic lead clusters Pb-n(-), n=10, 12-102 with electrons - Polyanion production and cluster decay
 
-Quantum-state-selective decay spectroscopy of Ra-213	https://www.webofscience.com/wos/woscc/full-record/WOS:000411079600004
+Quantum-state-selective decay spectroscopy of Ra-213
 
-Polyanionic metal clusters: How to make em and to break em	https://www.webofscience.com/wos/woscc/full-record/WOS:000431682500307
+Polyanionic metal clusters: How to make em and to break em
 

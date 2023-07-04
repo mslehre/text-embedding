@@ -1,64 +1,64 @@
 Joscha Diehl,16726735;
 
-Shuffle Algebras and Non-Commutative Probability for Pairs of Faces	https://www.webofscience.com/wos/woscc/full-record/WOS:000963584700001
+Shuffle Algebras and Non-Commutative Probability for Pairs of Faces
 
-GENERALIZED ITERATED-SUMS SIGNATURES	https://www.webofscience.com/wos/pprn/full-record/PPRN:22930774
+GENERALIZED ITERATED-SUMS SIGNATURES
 
-Two-parameter sums signatures and corresponding quasisymmetric functions	https://www.webofscience.com/wos/pprn/full-record/PPRN:22173054
+Two-parameter sums signatures and corresponding quasisymmetric functions
 
-Graph counting signatures and bicommutative Hopf algebras	https://www.webofscience.com/wos/pprn/full-record/PPRN:12220909
+Graph counting signatures and bicommutative Hopf algebras
 
-The Moving-Frame Method for the Iterated-Integrals Signature: Orthogonal Invariants	https://www.webofscience.com/wos/woscc/full-record/WOS:000804505100001
+The Moving-Frame Method for the Iterated-Integrals Signature: Orthogonal Invariants
 
-Shuffle Algebras and Non-Commutative Probability for Pairs of Faces	https://www.webofscience.com/wos/pprn/full-record/PPRN:36057382
+Shuffle Algebras and Non-Commutative Probability for Pairs of Faces
 
-A quadratic identity in the shuffle algebra and an alternative proof for de Bruijn's formula	https://www.webofscience.com/wos/woscc/full-record/WOS:000703568300012
+A quadratic identity in the shuffle algebra and an alternative proof for de Bruijn's formula
 
-The expected signature of Brownian motion stopped on the boundary of a circle has finite radius of convergence	https://www.webofscience.com/wos/woscc/full-record/WOS:000583520400001
+The expected signature of Brownian motion stopped on the boundary of a circle has finite radius of convergence
 
-Tropical time series, iterated-sums signatures and quasisymmetric functions	https://www.webofscience.com/wos/pprn/full-record/PPRN:12115149
+Tropical time series, iterated-sums signatures and quasisymmetric functions
 
-Time-Warping Invariants of Multidimensional Time Series	https://www.webofscience.com/wos/woscc/full-record/WOS:000532867700001
+Time-Warping Invariants of Multidimensional Time Series
 
-Time-warping invariants of multidimensional time series	https://www.webofscience.com/wos/pprn/full-record/PPRN:15650392
+Time-warping invariants of multidimensional time series
 
-The expected signature of Brownian motion stopped on the boundary of a circle has finite radius of convergence	https://www.webofscience.com/wos/pprn/full-record/PPRN:14764189
+The expected signature of Brownian motion stopped on the boundary of a circle has finite radius of convergence
 
-Invariants of Multidimensional Time Series Based on Their Iterated-Integral Signature	https://www.webofscience.com/wos/woscc/full-record/WOS:000494042000005
+Invariants of Multidimensional Time Series Based on Their Iterated-Integral Signature
 
-The parabolic Anderson model on Riemann surfaces	https://www.webofscience.com/wos/woscc/full-record/WOS:000467147700008
+The parabolic Anderson model on Riemann surfaces
 
-Invariants of multidimensional time series based on their iterated-integral signature	https://www.webofscience.com/wos/pprn/full-record/PPRN:12858688
+Invariants of multidimensional time series based on their iterated-integral signature
 
-The Kardar-Parisi-Zhang Equation as Scaling Limit of Weakly Asymmetric Interacting Brownian Motions	https://www.webofscience.com/wos/woscc/full-record/WOS:000403717700004
+The Kardar-Parisi-Zhang Equation as Scaling Limit of Weakly Asymmetric Interacting Brownian Motions
 
-Backward stochastic differential equations with Young drift	https://www.webofscience.com/wos/woscc/full-record/WOS:000413369800001
+Backward stochastic differential equations with Young drift
 
-Stochastic control with rough paths	https://www.webofscience.com/wos/woscc/full-record/WOS:000396813600006
+Stochastic control with rough paths
 
-The parabolic Anderson model on Riemann surfaces	https://www.webofscience.com/wos/pprn/full-record/PPRN:12345582
+The parabolic Anderson model on Riemann surfaces
 
-Backward stochastic differential equations with Young drift	https://www.webofscience.com/wos/pprn/full-record/PPRN:12222235
+Backward stochastic differential equations with Young drift
 
-Pathwise stability of likelihood estimators for diffusions via rough paths	https://www.webofscience.com/wos/pprn/full-record/PPRN:22518590
+Pathwise stability of likelihood estimators for diffusions via rough paths
 
-PATHWISE STABILITY OF LIKELIHOOD ESTIMATORS FOR DIFFUSIONS VIA ROUGH PATHS	https://www.webofscience.com/wos/woscc/full-record/WOS:000383411200007
+PATHWISE STABILITY OF LIKELIHOOD ESTIMATORS FOR DIFFUSIONS VIA ROUGH PATHS
 
-The Kardar-Parisi-Zhang equation as scaling limit of weakly asymmetric interacting Brownian motions	https://www.webofscience.com/wos/pprn/full-record/PPRN:12701190
+The Kardar-Parisi-Zhang equation as scaling limit of weakly asymmetric interacting Brownian motions
 
-A Levy area between Brownian motion and rough paths with applications to robust nonlinear filtering and rough partial differential equations	https://www.webofscience.com/wos/woscc/full-record/WOS:000345731500006
+A Levy area between Brownian motion and rough paths with applications to robust nonlinear filtering and rough partial differential equations
 
-Stochastic partial differential equations: a rough path view	https://www.webofscience.com/wos/pprn/full-record/PPRN:12917933
+Stochastic partial differential equations: a rough path view
 
-Robustness in Stochastic Filtering and Maximum Likelihood Estimation for SDEs	https://www.webofscience.com/wos/woscc/full-record/WOS:000357402100009
+Robustness in Stochastic Filtering and Maximum Likelihood Estimation for SDEs
 
-Rotation invariants of two dimensional curves based on iterated integrals	https://www.webofscience.com/wos/pprn/full-record/PPRN:11638268
+Rotation invariants of two dimensional curves based on iterated integrals
 
-Stochastic control with rough paths	https://www.webofscience.com/wos/pprn/full-record/PPRN:22643762
+Stochastic control with rough paths
 
-BACKWARD STOCHASTIC DIFFERENTIAL EQUATIONS WITH ROUGH DRIVERS	https://www.webofscience.com/wos/woscc/full-record/WOS:000306825000008
+BACKWARD STOCHASTIC DIFFERENTIAL EQUATIONS WITH ROUGH DRIVERS
 
-Parabolic comparison revisited and applications	https://www.webofscience.com/wos/pprn/full-record/PPRN:22500693
+Parabolic comparison revisited and applications
 
-Backward stochastic differential equations with rough drivers	https://www.webofscience.com/wos/pprn/full-record/PPRN:10913334
+Backward stochastic differential equations with rough drivers
 

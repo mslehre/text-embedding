@@ -43,11 +43,11 @@ def read_pub(file_path: str) -> str:
     pubs = []
     with open(file_path, 'r') as file_handle:
         lines = file_handle.readlines()
-        for line in lines[1:]:  # exclude first line containing author
+        pubs.append(lines[0].split(',')[0])  # extract author name 
+        for line in lines[1:]:
             if line.strip():  # check if line is not empty
-                # add publication title and ignore link
-                pubs.append(line.split('\t')[0])
-    author_pubs = "; ".join(pubs)
+                pubs.append(line)
+    author_pubs = "\n".join(pubs)
 
     return author_pubs
 
@@ -90,10 +90,10 @@ def embeddings_from_pubs(pubs: list[str],
                          embedding_name: str = 'text-embedding-ada-002',
                          max_token: int = 8191 ) -> np.ndarray:    
     """
-    Get the embeddings of the publications for every author
+    Get the embeddings of the publications for every author.
 
     Args:
-        pubs (list[str]):
+        pubs (list[str]): List of strings containing the publication titles.
         embedding_name (str): The name of the embedding model. By default the
             model text-embedding-ada-002 is used.
         max_token (int): The maximum number of tokens for which an embedding is
@@ -124,7 +124,18 @@ def write_hdf5(hdf5_file: str,
                embeddings: np.ndarray,
                author_ids: np.ndarray,
                update: bool = False):
-    
+    """
+    Write embeddings to HDF5 file. Either write a new file or update an 
+    existing one.
+
+    Args:
+        hdf5_file (str): Path to HDF5 file.
+        embeddings (numpy.ndarray): Numpy array with embeddings.
+        author_ids (numpy.ndarray): Numpy array containing the author IDs for
+            for each embedding.
+        update (bool): If True, update an existing file with the data, else 
+            write a new one.
+    """
     if not update:  # write new hdf5 file
         with h5py.File(hdf5_file, 'w') as f:
             f.create_dataset(name = 'publication_embedding', 

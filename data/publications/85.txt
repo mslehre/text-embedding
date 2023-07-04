@@ -1,78 +1,78 @@
 Marc Ebner,1911881;
 
-Are Image Patches Beneficial for Initializing Convolutional Neural Network Models?	https://www.webofscience.com/wos/woscc/full-record/WOS:000661288200034
+Are Image Patches Beneficial for Initializing Convolutional Neural Network Models?
 
-Collision Detection for a Mobile Robot using Logistic Regression	https://www.webofscience.com/wos/woscc/full-record/WOS:000571072100016
+Collision Detection for a Mobile Robot using Logistic Regression
 
-Acceleration based Collision Detection with a Mobile Robot	https://www.webofscience.com/wos/woscc/full-record/WOS:000465234300079
+Acceleration based Collision Detection with a Mobile Robot
 
-Distributed storage and recall of sentences	https://www.webofscience.com/wos/woscc/full-record/WOS:000453253500005
+Distributed storage and recall of sentences
 
-Evolving Game State Features from Raw Pixels	https://www.webofscience.com/wos/woscc/full-record/WOS:000413012200004
+Evolving Game State Features from Raw Pixels
 
-Is depth information and optical flow helpful for visual control?	https://www.webofscience.com/wos/woscc/full-record/WOS:000453250400002
+Is depth information and optical flow helpful for visual control?
 
-A GP-based Video Game Player	https://www.webofscience.com/wos/woscc/full-record/WOS:000358795700131
+A GP-based Video Game Player
 
-A Strongly Typed GP-based Video Game Player	https://www.webofscience.com/wos/woscc/full-record/WOS:000376490300035
+A Strongly Typed GP-based Video Game Player
 
-Single-image shadow detection and removal using local colour constancy computation	https://www.webofscience.com/wos/woscc/full-record/WOS:000349533500004
+Single-image shadow detection and removal using local colour constancy computation
 
-Depth map color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000453242900001
+Depth map color constancy
 
-A COMPUTATIONAL MODEL FOR COLOR PERCEPTION	https://www.webofscience.com/wos/woscc/full-record/WOS:000453240900005
+A COMPUTATIONAL MODEL FOR COLOR PERCEPTION
 
-Evolving concepts using gene duplication	https://www.webofscience.com/wos/woscc/full-record/WOS:000327984900012
+Evolving concepts using gene duplication
 
-Lateral Information Processing by Spiking Neurons: A Theoretical Model of the Neural Correlate of Consciousness	https://www.webofscience.com/wos/woscc/full-record/WOS:000208906100007
+Lateral Information Processing by Spiking Neurons: A Theoretical Model of the Neural Correlate of Consciousness
 
-Computational Modeling of Robust Figure/Ground Separation	https://www.webofscience.com/wos/woscc/full-record/WOS:000394239700012
+Computational Modeling of Robust Figure/Ground Separation
 
-A COMPUTATIONAL MODEL FOR CONSCIOUS VISUAL PERCEPTION AND FIGURE/GROUND SEPARATION	https://www.webofscience.com/wos/woscc/full-record/WOS:000308513700021
+A COMPUTATIONAL MODEL FOR CONSCIOUS VISUAL PERCEPTION AND FIGURE/GROUND SEPARATION
 
-On the effect of scene motion on color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000300095600004
+On the effect of scene motion on color constancy
 
-Towards Automated Learning of Object Detectors	https://www.webofscience.com/wos/woscc/full-record/WOS:000279390200024
+Towards Automated Learning of Object Detectors
 
-Coevolutionary Dynamics of Interacting Species	https://www.webofscience.com/wos/woscc/full-record/WOS:000279390200001
+Coevolutionary Dynamics of Interacting Species
 
-Evolutionary parameter optimization of a fuzzy controller which is used to control a sewage treatment plant	https://www.webofscience.com/wos/woscc/full-record/WOS:000273806100007
+Evolutionary parameter optimization of a fuzzy controller which is used to control a sewage treatment plant
 
-Evolving Object Detectors with a GPU Accelerated Vision System	https://www.webofscience.com/wos/woscc/full-record/WOS:000286407000010
+Evolving Object Detectors with a GPU Accelerated Vision System
 
-Color constancy based on local space average color	https://www.webofscience.com/wos/woscc/full-record/WOS:000266926400002
+Color constancy based on local space average color
 
-Engineering of Computer Vision Algorithms Using Evolutionary Algorithms	https://www.webofscience.com/wos/woscc/full-record/WOS:000279102300034
+Engineering of Computer Vision Algorithms Using Evolutionary Algorithms
 
-A Real-Time Evolutionary Object Recognition System	https://www.webofscience.com/wos/woscc/full-record/WOS:000265597500023
+A Real-Time Evolutionary Object Recognition System
 
-Color constancy from image transformations in JPEG and JPEG2000	https://www.webofscience.com/wos/woscc/full-record/WOS:000255196800099
+Color constancy from image transformations in JPEG and JPEG2000
 
-An Adaptive On-Line Evolutionary Visual System	https://www.webofscience.com/wos/woscc/full-record/WOS:000273016800015
+An Adaptive On-Line Evolutionary Visual System
 
-A genetic programming approach to deriving the spectral sensitivity of an optical system	https://www.webofscience.com/wos/woscc/full-record/WOS:000254506700006
+A genetic programming approach to deriving the spectral sensitivity of an optical system
 
-Estimating the Spectral Sensitivity of a Digital Sensor using Calibration Targets	https://www.webofscience.com/wos/woscc/full-record/WOS:000268226900126
+Estimating the Spectral Sensitivity of a Digital Sensor using Calibration Targets
 
-Integrating color constancy into JPEG2000	https://www.webofscience.com/wos/woscc/full-record/WOS:000250241500007
+Integrating color constancy into JPEG2000
 
-Estimating the color of the illuminant using anisotropic diffusion	https://www.webofscience.com/wos/woscc/full-record/WOS:000249585600055
+Estimating the color of the illuminant using anisotropic diffusion
 
-How does the brain arrive at a color constant descriptor?	https://www.webofscience.com/wos/woscc/full-record/WOS:000250716000009
+How does the brain arrive at a color constant descriptor?
 
-Evolving color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000238279200008
+Evolving color constancy
 
-Evolution of vertex and pixel shaders	https://www.webofscience.com/wos/woscc/full-record/WOS:000229209800023
+Evolution of vertex and pixel shaders
 
-On determining the color of the illuminant using the dichromatic reflection model	https://www.webofscience.com/wos/woscc/full-record/WOS:000232246500001
+On determining the color of the illuminant using the dichromatic reflection model
 
-A parallel algorithm for color constancy	https://www.webofscience.com/wos/woscc/full-record/WOS:000188063800007
+A parallel algorithm for color constancy
 
-Color constancy using local color shifts	https://www.webofscience.com/wos/woscc/full-record/WOS:000221569700022
+Color constancy using local color shifts
 
-Combining white-patch retinex and the gray world assumption to achieve color constancy for multiple illuminants	https://www.webofscience.com/wos/woscc/full-record/WOS:000187294800009
+Combining white-patch retinex and the gray world assumption to achieve color constancy for multiple illuminants
 
-Evolution and growth of virtual plants	https://www.webofscience.com/wos/woscc/full-record/WOS:000187009400025
+Evolution and growth of virtual plants
 
-Evolutionary design of objects using scene graphs	https://www.webofscience.com/wos/woscc/full-record/WOS:000184814100005
+Evolutionary design of objects using scene graphs
 
