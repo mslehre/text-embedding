@@ -1,38 +1,35 @@
 from os import path
 
-from flask import Flask, render_template, redirect, url_for, request
+from flask import Flask, render_template, request
 from openai.embeddings_utils import cosine_similarity, get_embedding
 
 from compute_embedding import embedding_from_string, compute_similarity_of_texts
 
 app = Flask(__name__)
-@app.route('/', methods=['POST', 'GET'])
-def home():
-    if (request.method == 'POST'):
-        text1 = request.form['text1']
-        text2 = request.form['text2']
-        #return redirect(url_for('test'))
-        return redirect(url_for('compute_similarity_of_files', text1 = text1, text2 = text2))
-    else:
-        return render_template("index.html")
+@app.route('/')
+def home() -> str:
+    """This function is called when the user opens the website. It returns the
+    website.  
 
-@app.route('/text1/<text1>/text2/<text2>')
-def compute_similarity_of_files(text1: str, text2: str) -> str:
-    """This function computes the cosine similarity of two embeddings of the 
-    specified two texts. If a text is too large because its string is encoded 
-    to more tokens than the maximum number of tokens for which an embedding is 
-    computed, the embedding for the string that is encoded to the first 
-    max_token tokens is computed where max_token is the maximum number of 
-    tokens for which an embedding is computed. The cosine similarity is 
-    returned as string in a web form. 
+    Returns: 
+        str: A string is returned that contains html code for a web form that
+            contains two labels and two textfields. The user can enter two
+            texts into the textfields. If the user clicks on the submit button, 
+            the texts are sent to the server and the method 'compute_similarity_
+            of_texts' is called. The result of this method is returned to the
+            user.  
+    """
+    return render_template("index.html")
 
-    Args:
-        text1 (str): This parameter is the string of some sort of text e. g. 
-            the content of a file for which the cosine similarity with the 
-            string of another text is computed.
-        text2 (str): This parameter is the second string of some sort of text 
-            e. g. the content of a file for which the cosine similarity with 
-            the string of another text is computed.
+@app.route('/result', methods=['POST', 'GET'])
+def compute_similarity_of_files() -> str:
+    """This function computes the cosine similarity of two embeddings of two 
+    texts a user inserted and submitted at the 'index.html' form. If a text is 
+    too large because its string is encoded to more tokens than the maximum 
+    number of tokens for which an embedding is computed, the embedding for the 
+    string that is encoded to the first max_token tokens is computed where 
+    max_token is the maximum number of tokens for which an embedding is 
+    computed. The cosine similarity is returned as string in a web form. 
 
     Returns: 
         str: A string is returned that contains html code for a web form that
@@ -42,6 +39,9 @@ def compute_similarity_of_files(text1: str, text2: str) -> str:
             computed, there is a message that the openai api key was probably 
             not set or is not valid.     
     """
+    # Get texts from 'index.html' form
+    text1 = request.form['text1']
+    text2 = request.form['text2']
     # Compute cosine similarity of texts.
     similarity = compute_similarity_of_texts(text1, text2)
         
@@ -56,7 +56,8 @@ def compute_similarity_of_files(text1: str, text2: str) -> str:
         # Display cosine similarity since embeddings could be computed.
         text += "The cosine similarity of the two texts you inserted is " + \
             str(similarity) + "."
-    return render_template("displaySimilarity.html", text1=text1, text2=text2, text=text)
+    return render_template("displaySimilarity.html", text1=text1, text2=text2, 
+                           text=text)
 
 if __name__ == '__main__':
     app.run(debug=True)
