@@ -77,11 +77,11 @@ def main():
         # Lukasz - the following code was commented while executing
         if os.path.isfile(f) and f[-4:] == '.pdf':
             if convert_files:
-                ''' try: 
+                try: 
                     process = subprocess.Popen(["pdftotext", "-layout", f])
                 except:
                     print("Error: src have to be installed!")
-                '''
+                
     
 
     # filter out the converted txt files
