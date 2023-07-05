@@ -1,0 +1,9 @@
+i
+           Manuskripten, die zur Begutachtung eingereicht wurden, ist die Eingangsbestätigung zur Begutachtung
+           durch Kopien der entsprechenden Schreiben nachzuweisen.
+
+   § 4 b Monografie
+       o In folgenden Fächern liegen fachspezifische Ausführungsbestimmungen vor:
+           Mathematik und Informatik: Ist eine selbst geschriebene Software ein wesentlicher Bestandteil der
+           Dissertation, so ist ihr Quellcode analog zur Regelung in §4 Absatz 3 zu Primärdaten ebenfalls
+ 

@@ -1,0 +1,9 @@
+rtung der Prüfungsleistungen sind folgende
+Noten zu verwenden:
+1,0           = ausgezeichnet     = eine ganz herausragende Leistung;
+1,3           = sehr gut          = eine hervorragende Leistung;
+1,7; 2,0; 2,3 = gut               = eine Leistung, die erheblich über den durch-
+                                  schnittlichen Anforderungen liegt;
+2,7; 3,0; 3,3 = befriedigend      = eine Leistung, die durchschnittlichen Anforde-
+                                  rungen entspricht;
+3,7; 4,0      = 

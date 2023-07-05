@@ -1,0 +1,3 @@
+chunks generated from file: ../data/examination_regulations_2/AB_PromO_2016.txt
+chunk size: 500
+overlap: 10
