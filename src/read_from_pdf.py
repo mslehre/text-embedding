@@ -15,7 +15,7 @@ def filter_junk_text(txt_file, output_dir):
         line = remove_line_if_junk(line)
         filtered_document_text += line
 
-    # write filterd text into new directory
+    # write filtered text into new directory
     file_name_index = txt_file.rfind('/')
     txt_file = txt_file[file_name_index+1:]
 
