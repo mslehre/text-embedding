@@ -7,77 +7,17 @@ import pandas as pd
 from compute_embedding import embedding_from_string
 
 
-def read_text_from_file(file_path: str) -> str:
+def embeddings_ids_from_file_list(file_list: list[str],
+                             embedding_name: str = 'text-embedding-ada-002',
+                             max_token: int = 8191
+                             ) -> tuple[list[list[float]], list[str]]:
     """
-    Read a text from a file/chunk into a string.
+    Get the embeddings and ids of the text files that are given in a list. The
+    names of the files should be in the format <chunk_id>.txt.
 
     Args:
-        file_path (str): Path to file/chunk with the text.
-
-    Returns:
-        text (str): String that contains the text from the chunk".
-    """
-    with open(file_path, 'r') as file_handle:
-        text = file_handle.read()
-
-    return text
-
-def read_texts_in_dir(dir_path: str) -> tuple[list[str], pd.DataFrame]:
-    """
-    Read all text files in a directory into a list of strings.
-
-    Args:
-        dir_path (str): Path to directory containing files with the chunks.
-            The names of the files should be in the format <chunk_id>.txt.
-            Every file in this format is used, files with format '*.meta.txt'
-            or 'info.txt' are ignored. If the directory contains sub
-            directories, e.g. for examination regulations, all format fitting
-            files in all sub directories will be used. make sure, that ONLY 
-            text files that should be embedded are located in this (these)
-            directory (directories).
-
-    Returns:
-        string_list (list[str]): List that contains the strings from the text 
-            files.
-        ids (pd.DataFrame): DataFrame of chunk ids corresponding to the text 
-            files.
-    """
-    print("read texts from directory")
-
-    dir_path = os.path.join(dir_path, '')  # append '/' if not already there
-    string_list = []
-    ids = []
-    file_list = os.listdir(dir_path) # get all files in the directory
-
-    for file in file_list:  # loop over all possible files
-        file_stem = Path(file).stem
-        file_suffix = Path(file).suffix
-        file_path = os.path.join(dir_path, file)
-        if("meta" in file_stem or "info" == file_stem or file_suffix != ".txt"):
-            print(f'file {file} cannot be used')
-            break
-        id = str(file_stem)
-        #print(id)
-
-        # check if file exists and is readable, if yes read
-        if os.path.isfile(file_path) and os.access(file_path, os.R_OK):
-            ids.append(id)  # save ID
-            text = read_text_from_file(file_path)  # read file
-            string_list.append(text)
-
-            #print(text[0:30])
-
-    ids = pd.DataFrame(ids)
-    return string_list, ids
-
-def embeddings_from_list_of_strings(string_list: list[str], 
-                         embedding_name: str = 'text-embedding-ada-002',
-                         max_token: int = 8191 ) -> pd.DataFrame:    
-    """
-    Get the embeddings of the strings that are given in a list.
-
-    Args:
-        string_list (list[str]): List of strings that will be embedded.
+        file_list (list[str]): List that contains the paths of text files that
+            should be embedded.
         embedding_name (str): The name of the embedding model. By default the
             model text-embedding-ada-002 is used.
         max_token (int): The maximum number of tokens for which an embedding is
@@ -85,28 +25,88 @@ def embeddings_from_list_of_strings(string_list: list[str],
             embedding model text-embedding-ada-002.
         
     Returns:
-        embeddings (pd.DataFrame): Embeddings of the publication lists as a
-            pandas DataFrame, each row represents an embedding od an author.
+        list[list[float]]: Embeddings of the given text files as a list, 
+            each entry represents a file of the given list.
+        list[str]: List of the ids of the files that were used for the 
+            embeddings. The i-th id corresponds to the i-th entry of the 
+            embeddings list.
+
     """
-
     embeddings = []
+    ids = []
 
-    for text in string_list:
-        embed = embedding_from_string(text,
-                                      embedding_name = embedding_name,
-                                      max_token = max_token)
-        if embed == [None]:
-            print("ERROR: The embedding for \"", text, "\" could not be" 
-                  + "computed! Please check your input and parameters!")
-            exit(1)
-        embeddings.append(embed)
+    for file_path in file_list:
+        if os.path.isfile(file_path) and os.access(file_path, os.R_OK):
+            with open(file_path, 'r') as file_handle:
+                file_name = os.path.basename(file_path)
+                stem = Path(file_name).stem
+                suffix = Path(file_name).suffix
 
-    embeddings = pd.DataFrame(embeddings)
-    return embeddings
+                if ("meta" in stem or "info" == stem or suffix != ".txt"):
+                    #print(f'file {file_path} cannot be used')
+                    break
+                ids.append(str(stem))
+
+                text = file_handle.read()
+                embedding = embedding_from_string(text)
+
+                if embedding == [None]:
+                    print("ERROR: The embedding for \"", text, "\" could not "
+                          + "be computed! Please check your input and "
+                          + "parameters!")
+                    exit(1)
+                embeddings.append(embedding)
+
+    return embeddings, ids
+
+def file_paths_from_dir(dir_path: str) -> list[str]:
+    """
+    Get the file paths of the text files that are given in a directory. All 
+    text files that are located in the given directory or any sub directory are
+    selected. Only files with the format '*.meta.txt' or 'info.txt', that 
+    contain other information, are ignored. The names of the text files should
+    be in the format <chunk_id>.txt.
+
+    Args:
+        dir_path (str): Path to directory containing the text files/ chunks.
+        embedding_name (str): The name of the embedding model. By default the
+            model text-embedding-ada-002 is used.
+        max_token (int): The maximum number of tokens for which an embedding is
+            computed. By default this is the maximum number of tokens of the 
+            embedding model text-embedding-ada-002.
+        
+    Returns:
+        list[str]]: Paths of the text files as a list, each entry represents a
+        file of the given directory (including sub diectories).
+    """
+    dir_path = os.path.join(dir_path, '')  # append '/' if not already there
+    file_list = os.listdir(dir_path) # get all file and directory names
+    all_file_paths = []
+
+    for file_name in file_list:  # loop over all possible files and directories 
+        path = os.path.join(dir_path, file_name)
+
+        if(os.path.isfile(path)):
+            stem = Path(file_name).stem
+            suffix = Path(file_name).suffix
+
+            if ("meta" in stem or "info" == stem or suffix != ".txt"):
+                #print(f'file {file_name} cannot be used')
+                break
+            all_file_paths.append(path)
+            
+        elif(os.path.isdir(path)):
+            all_file_paths += file_paths_from_dir(path)
+
+        elif(not os.access(path, os.R_OK)):
+            print(f'WARNING: the path {path} can nor be accesed.')
+
+    return all_file_paths
+
 
 def write_hdf5(hdf5_file: str,
-               embeddings: pd.DataFrame,
-               ids: pd.DataFrame,
+               embeddings: list[list[float]],
+               ids: list[str],
                update: bool = False):
     """
     Write embeddings to HDF5 file. Either write a new file or update an 
@@ -114,13 +114,16 @@ def write_hdf5(hdf5_file: str,
 
     Args:
         hdf5_file (str): Path to HDF5 file.
-        embeddings (pd.DataFrame): Pandas DataFrame with embeddings, each 
-            row represents an embedding of a chunk.
-        ids (pd.DataFrame): Pandas DataFrame containing the IDs for each 
-            embedding of a chunk.
+        embeddings (list[list[float]]): List with embeddings, each entry 
+            represents an embedding of a chunk.
+        ids (list[str]): List containing the IDs for each chunk that was 
+            embedded.
         update (bool): If True, update an existing file with the data, else 
             write a new one.
     """
+    embeddings = pd.DataFrame(embeddings)
+    ids = pd.DataFrame(ids)
+
     if update:  # update existing hdf5 file
         hdf = pd.HDFStore(hdf5_file, mode='r')
         embeddings_old = pd.read_hdf(hdf, "embeddings") 
