@@ -1,10 +1,0 @@
-,0      = ausreichend       = eine Leistung, die trotz ihrer Mängel noch den
-                                  Anforderungen genügt;
-5,0           = nicht ausreichend = eine Leistung, die wegen erheblicher Mängel
-                                  den Anforderungen nicht mehr genügt.
-                                                                                     10
-                       Nichtamtliche Lesefassung der GPO BMS
-
-
-
-Die Noten 1,7, 2,3, 2,7, 3,3 und 3,7 dienen der differenzierten
