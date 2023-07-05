@@ -28,8 +28,7 @@ def read_pub(file_path: str) -> str:
 
     return author_pubs
 
-def read_pubs_in_dir(dir_path: str, 
-              n: int) -> tuple[list[str], pd.DataFrame]:
+def read_pubs_in_dir(dir_path: str) -> tuple[list[str], pd.DataFrame]:
     """
     Read publication lists in given directory
 
@@ -37,7 +36,6 @@ def read_pubs_in_dir(dir_path: str,
         dir_path (str): Path to directory containing files with publication
             lists. The names of the files are expected to be a subset of 
             {0.txt, ... n-1.txt}. Every one of those files are tried.
-        n (int): Number of expected file in the directory.
 
     Returns:
         pubs (list[str]): List of length n. Every entry contains a string 
@@ -45,19 +43,31 @@ def read_pubs_in_dir(dir_path: str,
         author_ids (pd.DataFrame): DataFrame of author ids corresponding to
             the publication lists.
     """
+    print("read pubs from embedding")
 
     dir_path = os.path.join(dir_path, '')  # append '/' if not already there
     pubs = []
     author_ids = []
+    file_list = os.listdir(dir_path) # get all files in the directory
 
-    for i in range(n):  # loop over all possible files
-        file_path = dir_path + str(i) + ".txt"
+    for file in file_list:  # loop over all possible files
+        file_stem = Path(file).stem
+        file_path = os.path.join(dir_path, file)
+        try:
+            id = int(file_stem)
+        except ValueError:
+            print("ERROR: The name of file \"", file_path, "\" does not " 
+            + "have format <author_id>.txt!")
+            exit(1)
+        print(f'ID: {id}')
 
         # check if file exists and is readable, if yes read
         if os.path.isfile(file_path) and os.access(file_path, os.R_OK):
-            author_ids.append(i)  # save ID
+            author_ids.append(id)  # save ID
             author_pubs = read_pub(file_path)  # read file
             pubs.append(author_pubs)
+
+            print(author_pubs[0:30])
 
     author_ids = pd.DataFrame(author_ids)
     return pubs, author_ids
