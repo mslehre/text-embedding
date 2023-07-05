@@ -5,10 +5,8 @@ from pathlib import Path
 import argparse
 import numpy as np
 import pandas as pd
-
-from text_embedder import read_text_from_file, read_texts_in_dir, \
-    embeddings_from_list_of_strings, write_hdf5
-
+from text_embedder import file_paths_from_dir, embeddings_ids_from_file_list, \
+                          write_hdf5
 
 def try_to_read_dir(dir_path: str) -> str:
     # a quick function for argparse to check if given arg is a readable dir
@@ -17,14 +15,12 @@ def try_to_read_dir(dir_path: str) -> str:
                                          + "not exist or is not readable!")
     return dir_path
 
-
 def try_to_read_file(file_path: str) -> str:
     # a quick function for argparse to check if given arg is a readable file
     if not os.path.isfile(file_path) or not os.access(file_path, os.R_OK):
         raise argparse.ArgumentTypeError("The file " + file_path + " does not "
                                          + "exist or is not readable!")
     return file_path
-
 
 def try_to_write_file_if_exists(file_path: str) -> str:
     # a quick function for argparse to check if given arg is a writable file
@@ -77,32 +73,17 @@ def main():
     # compute embeddings for publications in directory
     if args.dir_path:
         # read publications and compute embeddings
-        text_list, ids = read_texts_in_dir(args.dir_path)
-        embeddings = embeddings_from_list_of_strings(text_list)
+        file_list = file_paths_from_dir(args.dir_path)
+        embeddings, ids = embeddings_ids_from_file_list(file_list)
         # write data to hdf5 file
         write_hdf5(args.hdf5_file, embeddings, ids)
 
     else:  # update existing embedding
-        ids = []
-        text_list = []
-        for file_path in args.update:
-            # check if file names have format <author_id>.txt
-            file_stem = Path(file_path).stem
-            id = str(file_stem)
-
-            # read if yes
-            text = read_text_from_file(file_path)
-            ids.append(id)
-            text_list.append(text)
-        # compute embeddings
-        embeddings = pd.DataFrame(embeddings_from_list_of_strings(text_list))
-        ids = pd.DataFrame(ids)
-        print(ids)
+        embeddings, ids = embeddings_ids_from_file_list(args.update)
         # update hdf5 file
         write_hdf5(args.hdf5_file, embeddings, ids, update=True)
 
     exit(0)
-
 
 if __name__ == "__main__":
     main()
