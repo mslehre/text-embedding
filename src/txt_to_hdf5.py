@@ -6,7 +6,8 @@ import argparse
 import numpy as np
 import pandas as pd
 
-from text_embedder import read_pub, read_pubs_in_dir, embeddings_from_pubs, write_hdf5
+from text_embedder import read_text_from_file, read_texts_in_dir, \
+    embeddings_from_list_of_strings, write_hdf5
 
 def try_to_read_dir(dir_path: str) -> str:
     # a quick function for argparse to check if given arg is a readable dir
@@ -76,16 +77,22 @@ def main():
         print("ERROR: File", args.hdf5_file, "does not exist! Please specify"
             + " a HDF5 file to update.")
     # check if the mode of the files is defined properly:
-    #TODO hshsh 
-    files_are_pubs = True
-    #examination_regulations = False
+    if (args.mode in ['p', 'publications']):
+        files_are_pubs = True
+    elif(args.mode  in ['r', 'regulations']):
+        files_are_pubs = False
+    else:
+        print("ERROR: You need to specifiy the mode (-m) as one of the " 
+              + "following: \'p\', \'publications\', \'r\', or "
+               + " \'regulations\'.")
+        exit(1)
 
     if(files_are_pubs):
         # compute embeddings for publications in directory
         if args.dir_path:
             # read publications and compute embeddings
-            pubs, author_ids = read_pubs_in_dir(args.dir_path)
-            embeddings = embeddings_from_pubs(pubs)
+            pubs, author_ids = read_texts_in_dir(args.dir_path)
+            embeddings = embeddings_from_list_of_strings(pubs)
             # write data to hdf5 file
             write_hdf5(args.hdf5_file, embeddings, author_ids)
         
@@ -102,14 +109,17 @@ def main():
                     + "have format <author_id>.txt!")
                     exit(1)
                 # read if yes
-                author_pubs = read_pub(file_path)
+                author_pubs = read_text_from_file(file_path)
                 author_ids.append(id)
                 pubs.append(author_pubs)
             # compute embeddings            
-            embeddings = pd.DataFrame(embeddings_from_pubs(pubs))
+            embeddings = pd.DataFrame(embeddings_from_list_of_strings(pubs))
             author_ids = pd.DataFrame(author_ids)
             # update hdf5 file
             write_hdf5(args.hdf5_file, embeddings, author_ids, update = True)
+
+    else:  # Files are regulations.
+        print("Examination regulations are converted.")
 
     exit(0)
 

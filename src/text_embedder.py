@@ -7,47 +7,46 @@ import pandas as pd
 from compute_embedding import embedding_from_string
 
 
-def read_pub(file_path: str) -> str:
+def read_text_from_file(file_path: str) -> str:
     """
-    Read publication titles in a file into a string
+    Read a text from a file/chunk into a string.
 
     Args:
-        file_path (str): Path to file with publications.
+        file_path (str): Path to file/chunk with the text.
 
     Returns:
-        author_pubs (str): All publications in a string joined by "; ".
+        text (str): String that contains the text from the chunk".
     """
-    pubs = []
     with open(file_path, 'r') as file_handle:
-        lines = file_handle.readlines()
-        pubs.append(lines[0].split(',')[0])  # extract author name 
-        for line in lines[1:]:
-            if line.strip():  # check if line is not empty
-                pubs.append(line)
-    author_pubs = "\n".join(pubs)
+        text = file_handle.read()
 
-    return author_pubs
+    return text
 
-def read_pubs_in_dir(dir_path: str) -> tuple[list[str], pd.DataFrame]:
+def read_texts_in_dir(dir_path: str) -> tuple[list[str], pd.DataFrame]:
     """
-    Read publication lists in given directory
+    Read all text files in a directory into a list of strings.
 
     Args:
-        dir_path (str): Path to directory containing files with publication
-            lists. The names of the files are expected to be a subset of 
-            {0.txt, ... n-1.txt}. Every one of those files are tried.
+        dir_path (str): Path to directory containing files with the chunks.
+            The names of the files should be in the format <chunk_id>.txt.
+            Every file in this format is used, files with format '*.meta.txt'
+            or 'info.txt' are ignored. If the directory contains sub
+            directories, e.g. for examination regulations, all format fitting
+            files in all sub directories will be used. make sure, that ONLY 
+            text files that should be embedded are located in this (these)
+            directory (directories).
 
     Returns:
-        pubs (list[str]): List of length n. Every entry contains a string 
-            representing a list of publications of an author.
-        author_ids (pd.DataFrame): DataFrame of author ids corresponding to
-            the publication lists.
+        string_list (list[str]): List that contains the strings from the text 
+            files.
+        ids (pd.DataFrame): DataFrame of chunk ids corresponding to the text 
+            files.
     """
-    print("read pubs from embedding")
+    print("read texts from directory")
 
     dir_path = os.path.join(dir_path, '')  # append '/' if not already there
-    pubs = []
-    author_ids = []
+    string_list = []
+    ids = []
     file_list = os.listdir(dir_path) # get all files in the directory
 
     for file in file_list:  # loop over all possible files
@@ -63,23 +62,23 @@ def read_pubs_in_dir(dir_path: str) -> tuple[list[str], pd.DataFrame]:
 
         # check if file exists and is readable, if yes read
         if os.path.isfile(file_path) and os.access(file_path, os.R_OK):
-            author_ids.append(id)  # save ID
-            author_pubs = read_pub(file_path)  # read file
-            pubs.append(author_pubs)
+            ids.append(id)  # save ID
+            text = read_text_from_file(file_path)  # read file
+            string_list.append(text)
 
-            print(author_pubs[0:30])
+            print(text[0:30])
 
-    author_ids = pd.DataFrame(author_ids)
-    return pubs, author_ids
+    ids = pd.DataFrame(ids)
+    return string_list, ids
 
-def embeddings_from_pubs(pubs: list[str], 
+def embeddings_from_list_of_strings(string_list: list[str], 
                          embedding_name: str = 'text-embedding-ada-002',
                          max_token: int = 8191 ) -> pd.DataFrame:    
     """
-    Get the embeddings of the publications for every author.
+    Get the embeddings of the given strings.
 
     Args:
-        pubs (list[str]): List of strings containing the publication titles.
+        string_list (list[str]): List of strings that will be embedded.
         embedding_name (str): The name of the embedding model. By default the
             model text-embedding-ada-002 is used.
         max_token (int): The maximum number of tokens for which an embedding is
@@ -93,12 +92,12 @@ def embeddings_from_pubs(pubs: list[str],
 
     embeddings = []
 
-    for pub in pubs:
-        embed = embedding_from_string(pub,
+    for text in string_list:
+        embed = embedding_from_string(text,
                                       embedding_name = embedding_name,
                                       max_token = max_token)
         if embed == [None]:
-            print("ERROR: The embedding for \"", pub, "\" could not be" 
+            print("ERROR: The embedding for \"", text, "\" could not be" 
                   + "computed! Please check your input and parameters!")
             exit(1)
         embeddings.append(embed)
