@@ -8,13 +8,15 @@ from build_prompt import get_prompt
 def get_answer(
         query: str, 
         text_dir: str,
-        index_list: list) -> str:
+        index_list: list,
+        seperator_list: list = None) -> str:
     """From a question asked by the user, generate the answer
 
     Args:
         query (str): Question asked by the user.
         text_dir (str): Documents directory.
         index_list (list): List of relevant docs.
+        seperator_list (list): List of strings to insert as seperators in between the text chunks.
 
     Returns:
         str: Answer generated with the LLM
@@ -28,7 +30,9 @@ def get_answer(
         this_chunk.close()
         
     #assemble the prompt
-    this_prompt = get_prompt(query, docs)
+    this_prompt = get_prompt(query, docs, seperator_list)
+    if (this_prompt == None):
+        return None
 
     #call openai to obtain a response
     response = openai.Completion.create(

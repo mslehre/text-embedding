@@ -3,12 +3,14 @@ from tokenizer import get_string_from_tokens
 
 def get_prompt(
     query: str,
-    chunks: list,) -> str:
+    chunks: list,
+    seperator_list: list = None) -> str:
     """From a question and relevant documents, build the prompt to ask the LLM.
 
     Args:
         query (str): Question to ask the LLM.
         chunks (list): Dictionary containing the text of the chunks as values.
+        seperator_list (list): List of strings to insert as seperators in between the text chunks.
 
     Returns:
         str: The completed prompt, combined from the template, query and chunks.
@@ -28,10 +30,16 @@ DOCUMENTS:
 {context}
 =========
 """
-
     context = ""
-    for i in chunks:
-        context += i + "\n"
+    if (seperator_list == None):
+        for i in chunks:
+            context += i + "\n"
+    elif (len(seperator_list) != len(chunks)):
+        print("seperator_list should be None or have the same length as the list of chunks.")
+        return None
+    else:
+        for j in range(len(chunks)):
+            context += seperator_list[j] + "\n" + chunks[j] + "\n"
     
     query_string = template.format(query=query, context=context)
 
@@ -42,6 +50,7 @@ DOCUMENTS:
 
 def test():
     test_q = "a test"
+    test_seps = ["first", "second", "third"]
     test_chunks = ['this is an apple', 'this is a banana', 'this is an orange']
-    testp = get_prompt(test_q, test_chunks)
+    testp = get_prompt(test_q, test_chunks, test_seps)
     print(testp)
