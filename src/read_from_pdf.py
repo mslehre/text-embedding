@@ -39,8 +39,8 @@ def remove_line_if_junk(line):
     return line
 
 def main():
-    """Main to translate all PDF files in a specific folder into txt files that
-    retain the layout, e.g. table
+    """Main to translate given PDF files after argument '-c' in a specific folder 
+    into txt files that retain the layout, e.g. table
     """
 
     parser = argparse.ArgumentParser(description = 'Translates all PDF files' +
@@ -56,16 +56,12 @@ def main():
     # if argument c given it will be converted
     parser.add_argument('-c', '--convert_pdf_to_txt', action = 'append', nargs='+')  
 
-    # output directory - main argument
-    # default temporaty
     parser.add_argument('-o', '--output_directory',
                         default = '../data/filtered_documents/')
 
     # add list of files should be converted as argument
     parser.add_argument('-f', '--filter_files', action='append', nargs='+')
 
-    # TODO
-    # argument - list of the files that should be converted (as c option?)
     files_to_convert = []
     files_to_filter = []
 
@@ -83,9 +79,6 @@ def main():
 
         for filename in files_to_convert: 
             f = os.path.join(dir_path, filename)
-            # checking if it is a file and if it ends with '.pdf' 
-            # if os.path.isfile(f) and f[-4:] == '.pdf':
-            #    if files_to_convert:
             try: 
                 process = subprocess.Popen(["pdftotext", "-layout", f])
             except:
