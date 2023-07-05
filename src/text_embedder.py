@@ -51,14 +51,13 @@ def read_texts_in_dir(dir_path: str) -> tuple[list[str], pd.DataFrame]:
 
     for file in file_list:  # loop over all possible files
         file_stem = Path(file).stem
+        file_suffix = Path(file).suffix
         file_path = os.path.join(dir_path, file)
-        try:
-            id = int(file_stem)
-        except ValueError:
-            print("ERROR: The name of file \"", file_path, "\" does not " 
-            + "have format <author_id>.txt!")
-            exit(1)
-        print(f'ID: {id}')
+        if("meta" in file_stem or "info" == file_stem or file_suffix != ".txt"):
+            print(f'file {file} cannot be used')
+            break
+        id = str(file_stem)
+        #print(id)
 
         # check if file exists and is readable, if yes read
         if os.path.isfile(file_path) and os.access(file_path, os.R_OK):
@@ -66,7 +65,7 @@ def read_texts_in_dir(dir_path: str) -> tuple[list[str], pd.DataFrame]:
             text = read_text_from_file(file_path)  # read file
             string_list.append(text)
 
-            print(text[0:30])
+            #print(text[0:30])
 
     ids = pd.DataFrame(ids)
     return string_list, ids
@@ -75,7 +74,7 @@ def embeddings_from_list_of_strings(string_list: list[str],
                          embedding_name: str = 'text-embedding-ada-002',
                          max_token: int = 8191 ) -> pd.DataFrame:    
     """
-    Get the embeddings of the given strings.
+    Get the embeddings of the strings that are given in a list.
 
     Args:
         string_list (list[str]): List of strings that will be embedded.
