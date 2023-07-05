@@ -6,7 +6,7 @@ import numpy as np
 
 from chunker import try_to_write_dir
 
-def filter_junk_text(txt_file, output_dir):
+def filter_junk_text(txt_file: str, output_dir: str):
     # helping file to get content of txt file
     filtered_document_text = ''
     document_content = open(txt_file, 'r')
@@ -24,7 +24,7 @@ def filter_junk_text(txt_file, output_dir):
     f.write(filtered_document_text)
     f.close()
 
-def remove_line_if_junk(line):
+def remove_line_if_junk(line: str) -> str:
     junk_list_document = ['\s[nN]ichtamtliche Lesefassung.*']
 
     # check if the line includes any element of the list
