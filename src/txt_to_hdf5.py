@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import os
 from pathlib import Path
 import argparse
@@ -70,17 +68,13 @@ def main():
         print("ERROR: File", args.hdf5_file, "does not exist! Please specify"
               + " a HDF5 file to update.")
 
-    # compute embeddings for publications in directory
-    if args.dir_path:
-        # read publications and compute embeddings
+    if args.dir_path:  # compute embeddings for files in a directory:
         file_list = file_paths_from_dir(args.dir_path)
         embeddings, ids = embeddings_ids_from_file_list(file_list)
-        # write data to hdf5 file
         write_hdf5(args.hdf5_file, embeddings, ids)
 
-    else:  # update existing embedding
+    else:  # update existing embedding:
         embeddings, ids = embeddings_ids_from_file_list(args.update)
-        # update hdf5 file
         write_hdf5(args.hdf5_file, embeddings, ids, update=True)
 
     exit(0)

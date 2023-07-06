@@ -43,8 +43,8 @@ def embeddings_ids_from_file_list(file_list: list[str],
                 suffix = Path(file_name).suffix
 
                 if ("meta" in stem or "info" == stem or suffix != ".txt"):
-                    #print(f'file {file_path} cannot be used')
-                    break
+                    print(f'file {path} cannot be used')
+                    continue
                 ids.append(str(stem))
 
                 text = file_handle.read()
@@ -91,8 +91,8 @@ def file_paths_from_dir(dir_path: str) -> list[str]:
             suffix = Path(file_name).suffix
 
             if ("meta" in stem or "info" == stem or suffix != ".txt"):
-                #print(f'file {file_name} cannot be used')
-                break
+                print(f'file {path} cannot be used')
+                continue
             all_file_paths.append(path)
             
         elif(os.path.isdir(path)):
@@ -134,7 +134,7 @@ def write_hdf5(hdf5_file: str,
             # check if id is in dataset
             matching_entries = np.asarray(ids_old[0] == id).nonzero()[0]
             if len(matching_entries) > 1:
-               print ("WARNING: There are multiple entries for the chunk ", 
+               print("WARNING: There are multiple entries for the chunk ", 
                        id, file=sys.stderr)
             if len(matching_entries) != 0:  
                 # overwrite old embedding with the new one
