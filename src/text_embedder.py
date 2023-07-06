@@ -43,7 +43,7 @@ def embeddings_ids_from_file_list(file_list: list[str],
                 suffix = Path(file_name).suffix
 
                 if ("meta" in stem or "info" == stem or suffix != ".txt"):
-                    print(f'file {path} cannot be used')
+                    print(f'file {file_path} cannot be used')
                     continue
                 ids.append(str(stem))
 
