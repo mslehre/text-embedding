@@ -1,6 +1,6 @@
 import os
 
-import h5py
+import pandas as pd
 import numpy as np
 from compute_embedding import embedding_from_string
 from openai.embeddings_utils import cosine_similarity
@@ -46,22 +46,17 @@ def get_k_IDs(question: str,
     # Get the embeddings from the hpf5 file if exists and acess is given:
     file_path = os.getcwd() + "/../data/" + embeddings_file
     if (not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
-        print("The file " + file_path + " does "
-              + "not exist or is not readable!")
+        print("The file " + file_path + " does not exist or is not readable!")
         return [None]
-
-    with h5py.File(file_path, 'r') as f_in:
-        # get all embeddings and the id list:
-        for key in f_in.keys():
-            if("embedding" in key):
-                embeddings = f_in[key][:] 
-            elif("ids" in key):
-                id_list = f_in[key][:]
-            else:
-                print("Some keys of the hdf5 file could not be used.")
+    
+    # Read the pd.DataFrames from the hdf5 file
+    hdf = pd.HDFStore(file_path, mode='r')
+    embeddings_df = pd.read_hdf(hdf, "embeddings") 
+    ids_df = pd.read_hdf(hdf, "ids")
+    hdf.close()
 
     # Check if k not bigger than the number of embeddings:
-    n = np.shape(embeddings)[0]
+    n,_ = embeddings_df.shape
     if (k > n):
         print(f'k was given as {k} but there are {n} embeddings given. k is ' 
               + f'set to {n}.')
@@ -70,30 +65,31 @@ def get_k_IDs(question: str,
     # Compute IDs of the best embeddings and return the sorted list from 
     # biggest to smallest similarity:
     inds = get_embeddings_argsort(question_embedding=question_embedding, 
-                                  embedding_list=embeddings)
-    inds = [id_list[i] for i in inds] 
+                                  embeddings=embeddings_df)
+    inds = [ids_df[0].iloc[i] for i in inds] 
     return inds[0:k]
 
 def get_embeddings_argsort(question_embedding: list[float], 
-                           embedding_list: list[list[float]]) -> list[int]:
+                           embeddings: pd.DataFrame) -> list[int]:
     """Gets the argsort of the given embeddings from higehst to lowest cosine
     similarity with the given question.
 
     Args:
         question_embedding (list[float]): The embedded question to which the 
             embeddings are compared to.
-        embedding_list (list[list[float]]): The list containing the embeddings 
-            of the chunks.   
+        embeddings (pd.DataFrame): The pandas DataFrame containing the 
+            embeddings of the chunks.   
 
     Returns:
-        list[int]: The list that contains the indices of the argsort of the 
-            embeddings according to the cosine similiarity for the question 
-            orderd from most to least similar.
+        list[int]: The list that contains the indices (row numbers)of the 
+            argsort of the embeddings according to the cosine similiarity for 
+            the question orderd from most to least similar.
     """
     similarities = []
-    for i in range(0,len(embedding_list)):
+    n,_ = embeddings.shape
+    for i in range(0,n):
         similarities.append(cosine_similarity(question_embedding, 
-                                              embedding_list[i]))
+                                              embeddings.iloc[i].tolist()))
     
     # Return the indices of the k best embeddings, the best results have the 
     # highest cosine similarity.
@@ -104,7 +100,7 @@ def get_embeddings_argsort(question_embedding: list[float],
 def main():
     """Main to test the function that gets the k best chunks for a question.
     """
-    question = "What is the publication domain of Christiane Helm?"
+    question = "What is the publication domain of Volkmar Liebscher?"
     k = 5
     a = get_k_IDs(question, 
                 embeddings_file="pub_embeddings.h5", k=k)
