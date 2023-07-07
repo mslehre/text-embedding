@@ -59,16 +59,17 @@ def embeddings_ids_from_file_list(file_list: list[str],
 
     return embeddings, ids
 
-def file_paths_from_dir(dir_path: str) -> list[str]:
+def file_paths_from_list(path_list: list[str]) -> list[str]:
     """
-    Get the file paths of the text files that are given in a directory. All 
-    text files that are located in the given directory or any sub directory are
-    selected. Only files with the format '*.meta.txt' or 'info.txt', that 
-    contain other information, are ignored. The names of the text files should
-    be in the format <chunk_id>.txt.
+    Get the file paths of the text files from a list of paths. If a path to a 
+    directory is given in the path list, all text files that are located in the 
+    directory or any sub directory are selected. Only files with the format 
+    '*.meta.txt' or 'info.txt', that contain other information, are ignored. 
+    The names of the text files should be in the format <chunk_id>.txt.
 
     Args:
-        dir_path (str): Path to directory containing the text files/ chunks.
+        path_list (list[str]): List of paths for text files and directories 
+            that contain text files/ chunks.
         embedding_name (str): The name of the embedding model. By default the
             model text-embedding-ada-002 is used.
         max_token (int): The maximum number of tokens for which an embedding is
@@ -76,30 +77,23 @@ def file_paths_from_dir(dir_path: str) -> list[str]:
             embedding model text-embedding-ada-002.
         
     Returns:
-        list[str]]: Paths of the text files as a list, each entry represents a
-        file of the given directory (including sub diectories).
+        list[str]]: Paths of the text files as a list including text files that 
+        are located in directories, sub diectories, ... from the path list.
     """
-    dir_path = os.path.join(dir_path, '')  # append '/' if not already there
-    file_list = os.listdir(dir_path) # get all file and directory names
     all_file_paths = []
 
-    for file_name in file_list:  # loop over all possible files and directories 
-        path = os.path.join(dir_path, file_name)
-
-        if(os.path.isfile(path)):
-            stem = Path(file_name).stem
-            suffix = Path(file_name).suffix
-
-            if ("meta" in stem or "info" == stem or suffix != ".txt"):
+    for path in path_list :
+        if(os.path.isfile(path)):  # if path is file
+            suffix = Path(path).suffix
+            if ("meta.txt" in path or "info.txt" in path or suffix != ".txt"):
                 print(f'file {path} cannot be used')
                 continue
             all_file_paths.append(path)
-            
-        elif(os.path.isdir(path)):
-            all_file_paths += file_paths_from_dir(path)
 
-        elif(not os.access(path, os.R_OK)):
-            print(f'WARNING: the path {path} can nor be accesed.')
+        elif(os.path.isdir(path)):
+                sub_paths = [os.path.join(path, sub_path) 
+                             for sub_path in os.listdir(path)]
+                all_file_paths += file_paths_from_list(sub_paths)
 
     return all_file_paths
 

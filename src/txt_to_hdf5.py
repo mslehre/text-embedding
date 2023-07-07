@@ -3,7 +3,7 @@ from pathlib import Path
 import argparse
 import numpy as np
 import pandas as pd
-from text_embedder import file_paths_from_dir, embeddings_ids_from_file_list, \
+from text_embedder import file_paths_from_list, embeddings_ids_from_file_list, \
                           write_hdf5
 
 def try_to_read_dir(dir_path: str) -> str:
@@ -69,7 +69,8 @@ def main():
               + " a HDF5 file to update.")
 
     if args.dir_path:  # compute embeddings for files in a directory:
-        file_list = file_paths_from_dir(args.dir_path)
+        print(args.dir_path)
+        file_list = file_paths_from_list([args.dir_path])
         embeddings, ids = embeddings_ids_from_file_list(file_list)
         write_hdf5(args.hdf5_file, embeddings, ids)
 
