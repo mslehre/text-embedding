@@ -2,7 +2,6 @@
 
 import os
 import argparse
-import h5py
 import numpy as np
 import pandas as pd
 from sklearn.decomposition import PCA
@@ -280,9 +279,15 @@ def main():
     outfile = args.outfile + '.' + args.format
 
     # read data
-    with h5py.File(args.embed_file, 'r') as f_in:
-        pub_embedding = f_in['publication_embedding'][:]
-        author_ids = f_in['author_ids'][:]
+    hdf = pd.HDFStore(args.embed_file, mode='r')
+    pub_embedding = pd.read_hdf(hdf, "embeddings") 
+    author_ids = pd.read_hdf(hdf, "ids")
+    hdf.close()
+    pub_embedding = pub_embedding.values.tolist()
+    pub_embedding = np.array(pub_embedding)
+    author_ids = author_ids[0].values.tolist()
+    author_ids = np.array(list(map(int,author_ids)))
+
     authors = pd.read_table(args.author_file, delimiter = '\t')
     affiliation_map = pd.read_table(args.affiliation_map, delimiter = '\t')
 
