@@ -86,12 +86,14 @@ def main():
     if args.dir_path:  # compute embeddings for files in a directory:
         file_list = file_paths_from_list([args.dir_path])
         embeddings, ids = embeddings_ids_from_file_list(file_list)
-        write_hdf5(args.hdf5_file, embeddings, ids)
+        update = False
 
     else:  # update existing embedding:
         file_list = file_paths_from_list(args.update)
         embeddings, ids = embeddings_ids_from_file_list(file_list)
-        write_hdf5(args.hdf5_file, embeddings, ids, update=True)
+        update = True
+
+    write_hdf5(args.hdf5_file, embeddings, ids, update=update)
 
     exit(0)
 
