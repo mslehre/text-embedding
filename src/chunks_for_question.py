@@ -32,7 +32,7 @@ def get_k_IDs(question: str,
         k (int): Integer that indicates the number of chunks that are returned.
 
     Returns:
-        list[int]: The list that contains the IDs of the k files with the
+        list[str]: The list that contains the IDs of the k files with the
             best cosine similiarity for the question orderded from most to
             least similar.
     """
