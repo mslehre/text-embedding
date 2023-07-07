@@ -137,9 +137,13 @@ def write_hdf5(hdf5_file: str,
                 embeddings = embeddings_old
                 ids = ids_old
             else:  # add new chunk id at the end of the datasets
-                ids = pd.concat([ids_old,pd.DataFrame([id])])
-                embeddings = pd.concat([embeddings_old,
-                                        pd.DataFrame([embedding])])
+                ids_old = pd.concat([ids_old,pd.DataFrame([id])],
+                                    ignore_index=True)
+                embeddings_old = pd.concat([embeddings_old,
+                                        pd.DataFrame([embedding])],
+                                        ignore_index=True)
+        embeddings = embeddings_old
+        ids = ids_old
 
     hdf = pd.HDFStore(hdf5_file, mode='w') # new file or overwrite old file
     hdf.put('embeddings', embeddings, format='table', append = False)

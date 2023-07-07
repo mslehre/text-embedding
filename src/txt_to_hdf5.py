@@ -27,6 +27,20 @@ def try_to_write_file_if_exists(file_path: str) -> str:
                                          + "writable!")
     return file_path
 
+def try_to_read_file_or_dir(path: str) -> str:
+    if os.path.isfile(path) :
+        path_type = 'file'
+    elif os.path.isdir(path):
+        path_type = 'directory'
+    else:
+        raise argparse.ArgumentTypeError("The path " + path + " is neither a "
+                                         + "file or a directory.")
+    if not os.access(path, os.R_OK):
+        raise argparse.ArgumentTypeError("The " + path_type + " " + path 
+                                         + " is not readable!")
+    return path
+
+
 
 def main():
     parser = argparse.ArgumentParser(
@@ -40,8 +54,9 @@ def main():
                         + 'For examination regulations the ID is a string '
                         + 'which identifies the short name of the original '
                         + ' file with an index for the chunk number.')
-    parser.add_argument('-u', '--update', nargs='+', type=try_to_read_file,
-                        metavar='FILE',
+    parser.add_argument('-u', '--update', nargs='+', 
+                        type=try_to_read_file_or_dir,
+                        metavar='PATHS',
                         help='Update existing embeddings in hdf5 file with '
                         + ' the texts in the specified file(s). The '
                         + ' names of the files must again have format '
@@ -74,7 +89,8 @@ def main():
         write_hdf5(args.hdf5_file, embeddings, ids)
 
     else:  # update existing embedding:
-        embeddings, ids = embeddings_ids_from_file_list(args.update)
+        file_list = file_paths_from_list(args.update)
+        embeddings, ids = embeddings_ids_from_file_list(file_list)
         write_hdf5(args.hdf5_file, embeddings, ids, update=True)
 
     exit(0)
