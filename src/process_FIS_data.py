@@ -40,3 +40,31 @@ publication_data["forename"] = forenames
 # the same person_ID. The function should return the modified publication_data.
 publication_data['titles'] = publication_data.groupby('person_ID')['title'].transform(lambda x: '\t'.join(x))
 publication_data.drop_duplicates(subset='person_ID', inplace=True)
+
+def write_publications(person_ID):
+    # Get the row of the person_ID
+    row = publication_data.loc[publication_data["person_ID"] == person_ID]
+    # Get the titles of the person_ID
+    titles = row["titles"].values[0]
+    titles = titles.replace("\t", "\n")
+    # Get the lastname of the person_ID
+    lastname = row["lastname"].values[0]
+    # Get the forename of the person_ID
+    forename = row["forename"].values[0]
+    string = ""
+    # Write the publications to a file
+    if (lastname != "NaN" and forename != "NaN"):
+        string += lastname + ", " + forename + "\t" + str(person_ID) + "\n" + titles
+    else:
+        # Get the author_name of the person_ID
+        author_name = row["author_name"].values[0]
+        # If they are "NaN", write the string to a file called 'person_ID.txt'
+        # in the folder '../data/FIS_publications/'
+        string += author_name + "\t" + str(person_ID) + "\n" + titles
+    with open('../data/FIS_publications/' + str(person_ID) + '.txt', 'w') as file:
+        file.write(string)
+        file.close()
+
+person_IDs = publication_data["person_ID"].values
+for person_ID in person_IDs:
+    write_publications(person_ID)
