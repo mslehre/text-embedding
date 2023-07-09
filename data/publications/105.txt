@@ -1,4 +1,4 @@
-Sebastian van der Linden,840206;
+Sebastian van der Linden
 
 High-resolution data and maps of material stock, population, and employment in Austria from 1985 to 2018
 

@@ -1,4 +1,4 @@
-Hans Volkmar Liebscher,2829;
+Hans Volkmar Liebscher
 
 Simultaneous Credible Regions for Multiple Changepoint Locations
 

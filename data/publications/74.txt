@@ -1,4 +1,4 @@
-Gerald Kerth,23754437;
+Gerald Kerth
 
 BatNet: a deep learning-based tool for automated bat species identification from camera trap images
 

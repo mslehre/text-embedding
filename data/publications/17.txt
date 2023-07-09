@@ -1,4 +1,4 @@
-Holger Fehske,7491794;
+Holger Fehske
 
 Singular flat bands in the modified Haldane-Dice model
 

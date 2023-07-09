@@ -1,4 +1,4 @@
-Michael Höhle,1683686;
+Michael Höhle
 
 Epitweetr: Early warning of public health threats using Twitter data
 

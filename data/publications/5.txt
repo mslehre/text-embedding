@@ -1,4 +1,4 @@
-Andre Melzer,528741;
+Andre Melzer
 
 Analyzing phase separation processes in binary dusty plasmas using a polarization-sensitive camera
 
