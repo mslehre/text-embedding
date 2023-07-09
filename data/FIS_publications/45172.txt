@@ -1,0 +1,7 @@
+Pieper A	45172
+Dot-bound and dispersive states in graphene quantum dot superlattices
+Improving robustness of the FEAST algorithm and solving eigenvalue problems from graphene nanoribbons
+Topological insulators in random potentials
+Electron confinement in graphene with gate-defined quantum dots
+Performance Engineering of the Kernel Polynomal Method on Large-Scale CPU-GPU Systems
+Increasing the Performance of the Jacobi--Davidson Method by Blocking

@@ -1,0 +1,4 @@
+Knapp B	65539
+lpNet: a linear programming approach to reconstruct signal transduction networks
+AAV8-mediated in vivo overexpression of miR-155 enhances the protective capacity of genetically attenuated malarial parasites
+Phosphorylation-Dependent Feedback Inhibition of RIG-I by DAPK1 Identified by Kinome-wide siRNA Screening

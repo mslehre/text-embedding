@@ -1,0 +1,14 @@
+Penndorf, Peter	24970
+A workflow-driven approach to integrate generic software modules in a Trusted Third Party
+Tecla: A telephone- and text-message based telemedical concept for patients with severe mental health disorders  study protocol for a controlled, randomized, study
+MOVING: A motivation oriented intervention study for the elderly in Greifswald: study protocol for a controlled, randomized trial
+Toolbox for Research, or How to facilitate a central data management in small-scale research projects.
+Save the Children by Treating Their Mothers (PriVileG-M-Study) - Study Protocol: A Sequentially Randomized Controlled Trial of Individualized Psychotherapy and Telemedicine to Reduce Mental Stress in Pregnant Women and Young Mothers and to Improve Child's Health
+Save the Children by Treating Their Mothers (PriVileG-M-Study) - Study Protocol: A Sequentially Randomized Controlled Trial of Individualized Psychotherapy and Telemedicine to Reduce Mental Stress in Pregnant Women and Young Mothers and to Improve Child's Health
+Levels of and determinants for physical activity and physical inactivity in a group of healthy elderly people in Germany: Baseline results of the MOVING-study
+Triage through telemedicine in paediatric emergency careResults of a concordance study
+A low-threshold intervention to increase physical activity and reduce physical inactivity in a group of healthy elderly people in Germany: Results of the randomized controlled MOVING study
+A FHIR® has been lit on gICS®  Facilitating the standardized exchange of informed consents in a large network of university medicine (NUM) in pandemic research
+Federated Trusted Third Party as an approach for Privacy Preserving Record Linkage in a large Network of University Medicines in pandemic Research
+Advanced nursing practice and interprofessional dementia care (InDePendent): Study protocol for a multi-center, cluster-randomized, controlled interventional trial
+Evaluation of a Health Information Exchange System for Geriatric Health Care in Rural Areas: Development and Technical Acceptance Study

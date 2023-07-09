@@ -1,0 +1,6 @@
+B?ttcher, Dominique	32249
+Eine Roboterplattform für das Hochdurchsatz-Screening von Biokatalysatoren
+Enzymatic Cleavage of Aryl Acetates
+Fully automatized high-throughput enzyme library screening using a robotic platform
+A selection assay for haloalkane dehalogenase activity based on toxic substrates
+Maghemite nanoparticles stabilize the protein corona formed with transferrin presenting different iron-saturation levels

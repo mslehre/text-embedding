@@ -1,0 +1,31 @@
+Melzer, Andre	33548
+Stereoscopy of dust density waves under microgravity: Velocity distributions and phase-resolved single-particle analysis
+Global coherence of dust density waves
+Computer tomography of large dust clouds in complex plasmas
+Oscillation Amplitudes in 3-D Dust Density Waves in Dusty Plasmas Under Microgravity Conditions
+Wave Crest Reconstruction of a Dust Density Wave Using Single Particle Trajectories
+Nonequilibrium finite dust clusters: Connecting normal modes and wakefields
+Symbolic transfer entropy analysis of the dust interaction in the presence of wakefields in dusty plasmas
+Connecting the wakefield instabilities in dusty plasmas
+Correlation buildup during recrystallization in three-dimensional dusty plasma clusters
+Recrystallization in Finite 3-D Dust Clouds
+Paramagnetic dust particles in rf-plasmas with weak external magnetic fields
+Dust particles under the influence of crossed electric and magnetic fields in the sheath of an rf discharge
+Controlling strongly correlated dust clusters with lasers
+Effect of confinement on the mode dynamics of dipole clusters
+Spatio-temporal evolution of the dust particle size distribution in dusty argon rf plasmas
+Vertically aligned dust particles under the influence of crossed electric and magnetic fields in the sheath of a radio frequency discharge
+Influence of dust particles on the bulk electron density in radio frequency plasmas measured by microwave interferometry
+Long-term spatio-temporal evolution of the dust distribution in dusty argon rf plasmas
+Stereoscopic imaging of dusty plasmas
+Experimental determination of phase transitions by means of configurational entropies in finite Yukawa balls
+Analysis of 3D vortex motion in a dusty plasma
+Characterization of injected aluminum oxide nanoparticle clouds in an rf discharge
+Diagnostics and characterization of nanodust and nanodusty plasmas
+Microphysics of liquid complex plasmas in equilibrium and non-equilibrium systems
+Magnetic field effects and waves in complex plasmas
+Optical diagnostics of dusty plasmas
+Layered structures in extended dust clouds under microgravity
+Configurational temperature in dusty plasmas
+Three-Dimensional Reconstruction of Individual Particles in Dense Dust Clouds: Benchmarking Camera Orientations and Reconstruction Algorithms
+Dusty (Complex) Plasmas - Routes towards magnetized and polydisperse systems

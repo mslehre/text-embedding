@@ -1,0 +1,2 @@
+Tönnies K	22225
+Fully automatized renal parenchyma volumetry using a support vector machine based recognition system for subject-specific probability map generation in native MR volume data

@@ -1,0 +1,8 @@
+Becker T	64966
+Haplotype synthesis analysis reveals functional variants underlying known genome-wide associated susceptibility loci.
+Alzheimer's disease risk variants modulate endophenotypes in mild cognitive impairment.
+Association of age-of-onset groups with GWAS significant schizophrenia and bipolar disorder loci in Romanian bipolar I patients.
+Meta-analysis identifies novel risk loci and yields systematic insights into the biology of male-pattern baldness.
+Consistent Assignment of Risk and Benign Allele at rs2303153 in the CF Modifier Gene SCNN1B in Three Independent F508del- CFTR Homozygous Patient Populations.
+Assessment of significance of conditionally independent GWAS signals.
+Discovery of novel eGFR-associated multiple independent signals using a quasi-adaptive method.

@@ -1,0 +1,81 @@
+Hammer, Elke	1184
+Proteomic identification of potential prognostic biomarkers in resectable pancreatic ductal adenocarcinoma.
+Kidney Protein profiling of Wilms´ tumor patients by analysis of formalin-fixed paraffin-embedded tissue samples
+A Novel Artificial MicroRNA Expressing AAV Vector for Phospholamban Silencing in Cardiomyocytes Improves Ca2+ Uptake into the Sarcoplasmic Reticulum.
+Proteomanalyse aus formalinfixierten Gewebeproben von Patienten mit Nephroblastom
+Proteome analysis of heart biopsies using a TRIzol-based protein extraction.
+Absolute quantification of the Kdp subunits of Escherichia coli by multiple reaction monitoring.
+Comparative evaluation of peptide desalting methods for salivary proteome analysis.
+Identification, characterization and structure analysis of the c-di-AMP binding PII-like signal transduction protein DarA.
+A novel engineering tool in the Bacillus subtilis toolbox: inducer-free activation of gene expression by selection-driven promoter decryptification.
+Using a Label Free Quantitative Proteomics Approach to Identify Changes in Protein Abundance in Multidrug-Resistant Mycobacterium tuberculosis
+Brain derived neurotrophic factor contributes to the cardiogenic potential of adult resident progenitor cells in failing murine heart
+The other side of the RAAS - Aldosterone improves migration of cardiac progenitor cells
+Protective effects of endothelin receptor A and B inhibitors against doxorubicin-induced cardiomyopathy.
+Evidence for synergistic control of glutamate biosynthesis by glutamate dehydrogenases and glutamate in Bacillus subtilis.
+Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study.
+Effect of Experimental Thyrotoxicosis onto Blood Coagulation: A Proteomics Study
+Mass spectrometric phosphoproteome analysis of small-sized samples of human neutrophils
+Targeted synthesis of novel ?-lactam antibiotics by laccase-catalyzed reaction of aromatic substrates selected by pre-testing for their antimicrobial and cytotoxic activity
+Molecular and proteome analyses highlight the importance of the Cpx envelope stress system for acid stress and cell wall stability in Escherichia coli.
+Proteomic profile of platelets during reconstitution of platelet counts after apheresis.
+Utilising the EGFR interactome to identify mechanisms of drug resistance in non-small cell lung cancer - Proof of concept towards a systems pharmacology approach.
+Changes of myocardial gene expression and protein composition in patients with dilated cardiomyopathy after immunoadsorption with subsequent immunoglobulin substitution
+Endomyocardial proteomic signature corresponding to the response of patients with dilated cardiomyopathy to immunoadsorption therapy.
+A Novel Assay to Assess the Effect of Pharmaceutical Compounds on the Differentiation of Podocytes.
+Genomewide meta-analysis identifies loci associated with IGF-I and IGFBP-3 levels with impact on age-related traits
+Pathophysiological aldosterone levels modify the secretory activity of cardiac progenitor cells.
+Biotransformation and reduction of estrogenicity of bisphenol A by the biphenyl-degrading Cupriavidus basilensis.
+Plasma proteome and metabolome characterization of an experimental human thyrotoxicosis model.
+Cross-Sectional Association of Salivary Proteins with Age, Sex, Body Mass Index, Smoking, and Education.
+Impact of blood sample collection methods on blood protein profiling studies.
+Characterization of the Genetic Program Linked to the Development of Atrial Fibrillation in CREM-Ib?C-X Mice.
+A global Staphylococcus aureus proteome resource applied to the in vivo characterization of host-pathogen interactions.
+The role of the two-component systems Cpx and Arc in protein alterations upon gentamicin treatment in Escherichia coli.
+Identification of the Components Involved in Cyclic Di-AMP Signaling in Mycoplasma pneumoniae.
+Data on the impact of the blood sample collection methods on blood protein profiling studies.
+Dynamic adaptation of myocardial proteome during heart failure development.
+Erratum to: Changes of myocardial gene expression and protein composition in patients with dilated cardiomyopathy after immunoadsorption with subsequent immunoglobulin substitution.
+Several adaptor proteins promote intracellular localisation of the transporter MRP4/ABCC4 in platelets and haematopoietic cells.
+Plasma protein profiling of patients with intraductal papillary mucinous neoplasm of the pancreas as potential precursor lesions of pancreatic cancer.
+The N-terminal CCHC zinc finger motif mediates homodimerization of the transcription factor BCL11B.
+Cellular concentrations of the transporters DctA, DcuB, and the sensor DcuS of Escherichia coli and the contributions of free and complexed DcuS to transcriptional regulation by DcuR.
+Plasma protein absolute quantification by nano-LC Q-TOF UDMSE for clinical biomarker verification.
+Global secretome analysis of resident cardiac progenitor cells from wild type and transgenic heart failure mice: why ambience matters
+Chronic beta-adrenergic stimulation reverses depressed Ca handling in mice overexpressing inhibitor-2 of protein phosphatase 1
+Circulating proteomic patterns in AF related left atrial remodeling indicate involvement of coagulation and complement cascade.
+Fibronectin modulates formation of PF4/heparin complexes and is a potential factor for reducing risk of developing HIT.
+Influence of soy isoflavones in breast cancer angiogenesis: a multiplex glass ELISA approach.
+Sex-specific differences in the intracellular proteome of human endothelial cells from dizygotic twins.
+HDAC (Histone Deacetylase) Inhibitor Valproic Acid Attenuates Atrial Remodeling and Delays the Onset of Atrial Fibrillation in Mice.
+Save the Children by Treating Their Mothers (PriVileG-M-Study) - Study Protocol: A Sequentially Randomized Controlled Trial of Individualized Psychotherapy and Telemedicine to Reduce Mental Stress in Pregnant Women and Young Mothers and to Improve Child's Health
+The KupA and KupB Proteins of  IL1403 Are Novel c-di-AMP Receptor Proteins Responsible for Potassium Uptake.
+Correlation of gene expression and clinical parameters identifies a set of genes reflecting LV systolic dysfunction and morphological alterations.
+Global plasma protein profiling reveals DCM characteristic protein signatures.
+Sex-specific metabolic and functional differences in human umbilical vein endothelial cells from twin pairs.
+Fumarate dependent protein composition under aerobic and anaerobic growth conditions in Escherichia coli.
+Adenine Nucleotide Translocase 1 Expression is Coupled to the HSP27-Mediated TLR4 Signaling in Cardiomyocytes.
+Biologics Production: Impact of Degrading or Modifying Impurities Resulting from Microbial Contaminations of Non-Sterile Process Intermediates on Product Quality
+Management of Osmoprotectant Uptake Hierarchy in Bacillus subtilis via a SigB-Dependent Antisense RNA
+Impact of Storage Conditions on the Breast Milk Peptidome.
+Analysis of DCM associated protein alterations of human right and left ventricles.
+From Proteomics to Personalized Medicine: The Importance of Isoflavone Dose and Estrogen Receptor Status in Breast Cancer Cells
+Nup133 and ER? mediate the differential effects of hyperoxia-induced damage in male and female OPCs.
+Laccase-catalyzed derivatization of 6-aminopenicillanic, 7-aminocephalosporanic and 7-aminodesacetoxycephalosporanic acid.
+The Cardiac Fibroblast in heart failure  an inflammatory cell
+Specific domain V reduction of beta-2-glycoprotein I induces protein flexibility and alters pathogenic antibody binding.
+Immunoproteasome impairment via ?5i/LMP7-deletion leads to sustained pancreatic injury from experimental pancreatitis.
+Fetal Zone Steroids and Estrogen Show Sex Specific Effects on Oligodendrocyte Precursor Cells in Response to Oxidative Damage.
+Cytokine-Mediated Alterations of Human Cardiac Fibroblasts Secretome
+Differences in Cell-Intrinsic Inflammatory Programs of Yolk Sac and Bone Marrow Macrophages
+Tissue-specific multi-omics analysis of atrial fibrillation.
+Serum starvation induces sexual dimorphisms in secreted proteins of human umbilical vein endothelial cells (HUVECs) from twin pairs.
+Fetal Zone Steroids Show Discrete Effects on Hyperoxia-Induced Attenuation of Migration in Cultured Oligodendrocyte Progenitor Cells.
+Riociguat attenuates left ventricular proteome and microRNA profile changes after experimental aortic stenosis in mice.
+Deficiency in FTSJ1 Affects Neuronal Plasticity in the Hippocampal Formation of Mice
+Tight Complex Formation of the Fumarate Sensing DcuS-DcuR Two-Component System at the Membrane and Target Promoter Search by Free DcuR Diffusion.
+ACTN2 Mutant Causes Proteopathy in Human iPSC-Derived Cardiomyocytes.
+Immunoproteasomes control activation of innate immune signaling and microglial function.
+BCL11B depletion induces the development of highly cytotoxic innate T cells out of IL-15 stimulated peripheral blood ?? CD8+ T cells
+Proteomic Analysis in Valvular Cardiomyopathy: Aortic Regurgitation vs. Aortic Stenosis
+PSMC3 proteasome subunit variants are associated with neurodevelopmental delay and type I interferon production.

@@ -1,0 +1,27 @@
+Hippler, Rainer	32890
+Deposition and characterization of organic polymer thin films using a dielectric barrier discharge with different C2Hm/N2 (m = 2, 4, 6) gas mixtures
+Electronic Bond Structure of Carbon Nitride Thin Film Deposited by HiPIMS and dc Magnetron Plasma
+Atmospheric effect corrections of MuSTAnG data
+Equivalent Dielectric property of hydrogenated carbon nitride film in CH4/N2 DBD plasma: Gas and Solid phase reaction
+Negatively and positively charged oxygen ion formation in collisions of positively charged projectiles with O2 molecules in the energy range 50350 keV
+DC Operated Air Plasma Jet for Antimicrobial Copper Coatings on Temperature Labile Surfaces
+Study of Mass and Cluster Flux in a Pulsed Gas System with Enhanced Nanoparticle Aggregation
+Angular and velocity distribution of nano-size cluster beams in a gas flow
+Comparative Plasma Chemical Reaction Studies of CH4/N2 and C2Hm/N2 (m=2, 4, 6} Gas Mixtures in a Dielectric Barrier Discharge
+Infrared Spectroscopy of CH4/N2 and C2Hm/N2 (m=2, 4, 6}, Gas Mixtures in a Dielectric Barrier Discharge
+Time-resolved tuned diode laser absorption spectroscopy of pulsed plasma
+Pulsed gas aggregation for improved nanocluster growth and flux
+Investigation of ionized metal flux in enhanced high power impulse magnetron sputtering discharges
+@article{247, Development of fast heating electron beam annealing setup for ultra high vacuum chamber
+Ionized vapor deposition of antimicrobial TiCu films with controlled copper release
+Electronic and chemical property of amorphous carbon, hydrocarbon, hydrogenated/hydrogen free carbon nitride: spectroscopic study
+Design of magnetic field configuration for controlled discharge properties in highly ionized plasma
+Time resolved tunable diode laser absoption spectroscopy of dual High Power Impulse Magnetron Sputtering discharges
+Oxidation behavior of Cu nanoparticles embedded into semiconductive TiO2 matrix
+Spectroscopic Study of Plasma Polymerized a-C:H Films Deposited by a Dielectric Barrier Discharge
+Metastable argon atom density in complex argon/acetylene plasmas determined by means of optical absorption and emission spectroscopy
+Pressure dependence of Ar2+, ArTi+, and Ti2+ dimer formation in a magnetron sputtering discharge
+Angular dependence of plasma parameters and film properties during high power impulse magnetron sputtering for deposition of Ti and TiO2 layers
+Mass spectrometric investigations of plasma chemical reactions in a radiofrequency discharge with Ar/C2H2 and Ar/C2H2/O2 gas mixtures
+Strain Effects by Surface Oxidation of Cu3N Thin Films Deposited by DC Magnetron Sputtering
+Mass and energy distribution of negatively and positively charged small cluster ions sputtered from GaAs(100) by 150 keV Ar+ bombardment

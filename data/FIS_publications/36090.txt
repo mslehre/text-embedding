@@ -1,0 +1,5 @@
+Kalentev O	36090
+Self-Force in 1D Electrostatic Particle-in-Cell Codes for Non-Equidistant Grids
+Electrostatic Ion Thrusters - Towards Predictive Modeling
+MONTE-CARLO RE-DEPOSITION MODEL DURING TERRESTRIAL MEASUREMENT OF ION THRUSTERS
+3D PIC simulation of the rotating spoke in a Hall thruster

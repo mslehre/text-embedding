@@ -1,0 +1,5 @@
+B?ttner, Knut	33872
+Picking vanished proteins from the void: how to collect and ship/share extremely dilute proteins in a reproducible and highly efficient manner
+Global quantification of phosphoproteins combining metabolic labeling and gel-based proteomics in B. pumilus.
+Dynamic proteomic analysis of Phanerochaete chrysosporium under copper stress
+Comprehensive absolute quantification of the cytosolic proteome of Bacillus subtilis by data independent, parallel fragmentation in liquid chromatography/mass spectrometry (LC/MS(E))

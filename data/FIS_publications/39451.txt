@@ -1,0 +1,4 @@
+Klinger, Thomas	39451
+The effect of boundaries on the ion acoustic beam-plasma instability in experiment and simulation
+Gyrokinetic simulations of magnetic reconnection in non-uniform plasmas
+A gyrokinetic model for studies of magnetic reconnection in periodic and bounded plasmas

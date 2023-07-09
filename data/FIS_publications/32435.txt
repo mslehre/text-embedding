@@ -1,0 +1,179 @@
+Becher, D?rte	32435
+Quantitative Proteomics in the field of Microbiology
+Influence of Impaired Lipoprotein Biogenesis on Surface and Exoproteome of Streptococcus pneumoniae.
+Exploring functional contexts of symbiotic sustain within lichen-associated bacteria by comparative omics
+Picking vanished proteins from the void: how to collect and ship/share extremely dilute proteins in a reproducible and highly efficient manner
+Protein S-mycothiolation functions as redox-switch and thiol protection mechanism in Corynebacterium glutamicum under hypochlorite stress
+Redox regulation in Bacillus subtilis: The bacilliredoxins BrxA(YphP) and BrxB(YqiW) function in de-bacillithiolation of S-bacillithiolated OhrR and MetE
+Cell physiology of the biotechnological relevant bacterium Bacillus pumilus-An omics-based approach
+Functional analysis of novel Rab GTPases identified in the proteome of purified Legionella-containing vacuoles from macrophages
+Functional characterization of polysaccharide utilization loci in the marine Bacteroidetes 'Gramella forsetii' KT0803
+Coping with anoxia: a comprehensive proteomic and transcriptomic survey of denitrification
+Highly precise quantification of protein molecules per cell during stress and starvation responses in Bacillus subtilis
+Archaeal ubiquitin-like SAMP3 is isopeptide-linked to proteins via a UbaA-dependent mechanism
+Quantitative proteomics in the field of microbiology
+The oxygen-independent metabolism of cyclic monoterpenes in Castellaniella defragrans 65Phen
+Small cationic antimicrobial peptides delocalize peripheral membrane proteins
+Niches of two polysaccharide-degrading Polaribacter isolates from the North Sea during a spring diatom bloom
+Antibacterial Metabolites and Bacteriolytic Enzymes Produced by Bacillus pumilus During Bacteriolysis of Arthrobacter citreus
+High-resolution proteome maps of Bacillus licheniformis cells growing in minimal medium
+Comprehensive proteome analysis of Actinoplanes sp. SE50/110 highlighting the location of proteins encoded by the acarbose and the pyochelin biosynthesis gene cluster
+A metaproteomics approach to elucidate host and pathogen protein expression during catheter-associated urinary tract infections (CAUTIs)
+First description of small proteins encoded by spRNAs in Methanosarcina mazei strain Go1
+Genome-wide analysis of phosphorylated PhoP binding to chromosomal DNA reveals several novel features of the PhoPR-mediated phosphate limitation response in Bacillus subtilis
+Molecular mechanisms underlying the close association between soil Burkholderia and fungi
+Time-Resolved Analysis of Cytosolic and Surface-Associated Proteins of Staphylococcus aureus HG001 under Planktonic and Biofilm Conditions.
+Enterococcus faecalis Glycolipids Modulate Lipoprotein-Content of the Bacterial Cell Membrane and Host Immune Response
+Characterization of Helicobacter pylori VacA?containing vacuoles (VCVs), VacA intracellular trafficking and interference with calcium signalling in T lymphocytes
+Purification and proteomics of pathogen-modified vacuoles and membranes
+Versatile vector suite for the extracytoplasmic production and purification of heterologous His-tagged proteins in Lactococcus lactis
+Abundant toxin-related genes in the genomes of beneficial symbionts from deep-sea hydrothermal vent mussels
+Quantitative prediction of genome-wide resource allocation in bacteria
+Multi?Organism Proteomes (iMOP): Advancing our Understanding of Human Biology
+Systematic analysis of mycobacterial acylation reveals first example of acylation-mediated regulation of enzyme activity of a bacterial phosphatase
+Cellulose and hemicellulose decomposition by forest soil bacteria proceeds by the action of structurally variable enzymatic systems
+Decoding the complete arsenal for cellulose and hemicellulose deconstruction in the highly efficient cellulose decomposer Paenibacillus O199
+Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis.
+Global analysis of the impact of linezolid onto virulence factor production in S. aureus USA300.
+Methods and applications of absolute protein quantification in microbial systems
+The protein inventory of Clostridium difficile grown in complex and minimal medium
+Signatures of cytoplasmic proteins in the exoproteome distinguish community- and hospital-associated methicillin-resistant Staphylococcus aureus USA300 lineages.
+A global Staphylococcus aureus proteome resource applied to the in vivo characterization of host-pathogen interactions.
+Bacillus pumilus KatX2 confers enhanced hydrogen peroxide resistance to a Bacillus subtilis PkatA::katX2 mutant strain.
+Global quantification of phosphoproteins combining metabolic labeling and gel-based proteomics in B. pumilus.
+Spectral Library Based Analysis of Arginine Phosphorylations in .
+The Proteomic Response of Bacillus pumilus Cells to Glucose Starvation.
+Updating the proteome of the uncultivable hemotrophic Mycoplasma suis in experimentally infected pigs.
+Life Stage-specific Proteomes of Legionella pneumophila Reveal a Highly Differential Abundance of Virulence-associated Dot/Icm effectors.
+Monitoring global protein thiol-oxidation and protein S-mycothiolation in Mycobacterium smegmatis under hypochlorite stress
+The glyceraldehyde-3-phosphate dehydrogenase GapDH of Corynebacterium diphtheriae is redox-controlled by protein S -mycothiolation under oxidative stress
+Proteomic response of Streptococcus pneumoniae to iron limitation
+Proteomic Signatures of Clostridium difficile Stressed with Metronidazole, Vancomycin, or Fidaxomicin
+A metabolic labeling strategy for relative protein quantification in Clostridioides difficile
+Iron Regulation in .
+Proteomic analysis of bacterial (outer) membrane vesicles: progress and clinical potential
+Effects of hypoxia-reoxygenation stress on mitochondrial proteome and bioenergetics of the hypoxia-tolerant marine bivalve Crassostrea gigas
+A Secreted Bacterial Peptidylarginine Deiminase Can Neutralize Human Innate Immune Defenses
+Transcriptomic and proteomic insight into the mechanism of cyclooctasulfur- versus thiosulfate-oxidation by the chemolithoautotroph Sulfurimonas denitrificans
+Alpha- and beta-mannan utilization by marine Bacteroidetes
+Metabolic Reprogramming of Clostridioides difficile During the Stationary Phase With the Induction of Toxin Production
+Biphasic cellular adaptations and ecological implications of Alteromonas macleodii degrading a mixture of algal polysaccharides
+Polysaccharide utilization loci of North Sea Flavobacteriia as basis for using SusC/D-protein expression for predicting major phytoplankton glycans
+An ancient family of mobile genomic islands introducing cephalosporinase and carbapenemase genes in Enterobacteriaceae
+Adaptive mechanisms that provide competitive advantages to marine bacteroidetes during microalgal blooms
+The Escherichia coli Type III Secretion System 2 Has a Global Effect on Cell Surface
+Metaproteogenomic Profiling of Microbial Communities Colonizing Actively Venting Hydrothermal Chimneys
+Differential daptomycin resistance development in Staphylococcus aureus strains with active and mutated gra regulatory systems
+Adaptation of Staphylococcus aureus to Airway Environments in Patients With Cystic Fibrosis by Upregulation of Superoxide Dismutase M and Iron-Scavenging Proteins
+From the wound to the bench: exoproteome interplay between wound-colonizing Staphylococcus aureus strains and co-existing bacteria
+Proteome-wide alterations in an industrial clavulanic acid producing strain of Streptomyces clavuligerus
+Identification of new protein-coding genes with a potential role in the virulence of the plant pathogen Xanthomonas euvesicatoria
+Ser/Thr protein kinase PrkC-mediated regulation of GroEL is critical for biofilm formation in Bacillus anthracis
+Metabolic and physiological interdependencies in the Bathymodiolus azoricus symbiosis
+Insight into the evolution of microbial metabolism from the deep-branching bacterium, Thermovibrio ammonificans
+Sample Preparation for Mass-Spectrometry Based Absolute Protein Quantification in Antibiotic Stress Research
+An Easy and Fast Protocol for Affinity Bead-Based Protein Enrichment and Storage of Proteome Samples
+Comparative Proteomics of Purified Pathogen Vacuoles Correlates Intracellular Replication of Legionella pneumophila with the Small GTPase Ras-related protein 1 (Rap1)
+Aquatic adaptation of a laterally acquired pectin degradation pathway in marine gammaproteobacteria
+Nitrogen fixation in a chemoautotrophic lucinid symbiosis
+Extracellular Proteome and Citrullinome of the Oral Pathogen Porphyromonas gingivalis
+Impact of Moderate Temperature Changes on Neisseria meningitidis Adhesion Phenotypes and Proteome
+Grad-seq guides the discovery of ProQ as a major small RNA-binding protein
+Proteomics of septicemic Escherichia coli
+Comparative proteome analysis of Actinoplanes sp. SE50/110 grown with maltose or glucose shows minor differences for acarbose biosynthesis proteins but major differences for saccharide transporters
+Evolutionary Events Associated with an Outbreak of Meningococcal Disease in Men Who Have Sex with Men
+A homopolymeric adenosine tract in the promoter region of nspA influences factor H-mediated serum resistance in Neisseria meningitidis
+Subcellular Protein Fractionation in Legionella pneumophila and Preparation of the Derived Sub-proteomes for Analysis by Mass Spectrometry
+Investigating {Lactococcus} lactis {MG}1363 response to phage p2 infection at the proteome level
+Tuning the Mycobacterium tuberculosis alternative sigma factor SigF through the multidomain regulator Rv1364c and osmosensory kinase, protein kinase D
+Virulence factors produced by  biofilms have a moonlighting function contributing to biofilm integrity.
+Proteomic analysis of the food spoiler Pseudomonas fluorescens ITEM 17298 reveals the antibiofilm activity of the pepsin-digested bovine lactoferrin.
+The Disulfide Stress Response and Protein -thioallylation Caused by Allicin and Diallyl Polysulfanes in  as Revealed by Transcriptomics and Proteomics.
+Exoproteome Heterogeneity among Closely Related Staphylococcus aureus t437 Isolates and Possible Implications for Virulence
+Individual Physiological Adaptations Enable Selected Bacterial Taxa To Prevail during Long-Term Incubations
+Characterization of a thaumarchaeal symbiont that drives incomplete nitrification in the tropical sponge Ianthella basta
+A marine bacterial enzymatic cascade degrades the algal polysaccharide ulvan
+In marine Bacteroidetes the bulk of glycan degradation during algae blooms is mediated by few clades using a restricted set of genes
+Biopearling of Interconnected Outer Membrane Vesicle Chains by a Marine Flavobacterium
+Ariadnes Thread in the Analytical Labyrinth of Membrane Proteins: Integration of Targeted and Shotgun Proteomics for Global Absolute Quantification of Membrane Proteins
+Identification and optimization of PrsA in Bacillus subtilis for improved yield of amylase
+Sample Preservation and Storage Significantly Impact Taxonomic and Functional Profiles in Metaproteomics Studies of the Human Gut Microbiome
+Comparative proteomics of related symbiotic mussel species reveals high variability of host-symbiont interactions
+Escherichia coli Can Adapt Its Protein Translocation Machinery for Enhanced Periplasmic Recombinant Protein Production.
+Proteomic Investigation Uncovers Potential Targets and Target Sites of Pneumococcal Serine-Threonine Kinase StkP and Phosphatase PhpP.
+The Involvement of the McsB Arginine Kinase in Clp-Dependent Degradation of the MgsR Regulator in .
+Membrane modulation of super-secreting midiBacillus expressing the major Staphylococcus aureus antigen  a mass-spectrometry-based absolute quantification approach
+Peptide-based quorum sensing systems in Paenibacillus polymyxa
+Proteomic Adaptation of Streptococcus pneumoniae to the Human Antimicrobial Peptide LL-37
+Bacterioplankton reveal years-long retention of Atlantic deep-ocean water by the Tropic Seamount
+Verticillium longisporum Elicits Media-Dependent Secretome Responses With Capacity to Distinguish Between Plant-Related Environments
+A Lactococcal Phage Protein Promotes Viral Propagation and Alters the Host Proteomic Response During Infection
+Functional association of the stress-responsive LiaH protein and the minimal TatAyCy protein translocase in Bacillus subtilis
+SppI Forms a Membrane Protein Complex with SppA and Inhibits Its Protease Activity in Bacillus subtilis
+Exoproteomic profiling uncovers critical determinants for virulence of livestock-associated and human-originated Staphylococcus aureus ST398 strains
+The Leader Peptide peTrpL Forms Antibiotic-Containing Ribonucleoprotein Complexes for Posttranscriptional Regulation of Multiresistance Genes
+Optimized Proteomics Workflow for the Detection of Small Proteins
+Proteomic Analysis of a hom-disrupted, Cephamycin C Overproducing Streptomyces clavuligerus
+Dynamic proteomic analysis of Phanerochaete chrysosporium under copper stress
+Tryptic Shaving of Staphylococcus aureus Unveils Immunodominant Epitopes on the Bacterial Cell Surface
+Verrucomicrobia use hundreds of enzymes to digest the algal polysaccharide fucoidan
+Comprehensive Spectral Library from the Pathogenic Bacterium Streptococcus pneumoniae with Focus on Phosphoproteins
+Extensive transfer of genes for edible seaweed digestion from marine to human gut bacteria
+Proteomic Adaptation of Streptococcus pneumoniae to the Antimicrobial Peptide Human Beta Defensin 3 (hBD3) in Comparison to Other Cell Surface Stresses
+A global data-driven census of </i>Salmonella </i>small proteins and their potential functions in bacterial virulence
+Double trouble: Bacillus depends on a functional Tat machinery to avoid severe oxidative stress and starvation upon entry into a NaCl-depleted environment.
+A SDD1-like subtilase is exuded by tobacco roots
+Comprehensive absolute quantification of the cytosolic proteome of Bacillus subtilis by data independent, parallel fragmentation in liquid chromatography/mass spectrometry (LC/MS(E))
+The phosphoproteome and its physiological dynamics in Staphylococcus aureus
+The Staphylococcus aureus proteome
+A highly unstable transcript makes CwlO D,L-endopeptidase expression responsive to growth conditions in Bacillus subtilis
+Fur is the master regulator of the extraintestinal pathogenic Escherichia coli response to serum
+The E. coli sirtuin CobB shows no preference for enzymatic and nonenzymatic lysine acetylation substrate sites
+Proteomic analysis of the Simkania-containing vacuole: the central role of retrograde transport
+Toward the Quantitative Characterization of Arginine Phosphorylations in Staphylococcus aureus
+Bacterial symbiont subpopulations have different roles in a deep-sea symbiosis
+A quantitative assessment of the membrane-integral sub-proteome of a bacterial magnetic organelle
+Proteomic adaptation of Clostridioides difficile to treatment with the antimicrobial peptide nisin
+Reprograming of sRNA target specificity by the leader peptide peTrpL in response to antibiotic exposure
+A conserved, buried cysteine near the P-site is accessible to cysteine modifications and increases ROS stability in the P-type plasma membrane H+-ATPase
+Another layer of complexity in Staphylococcus aureus methionine biosynthesis control: unusual RNase III-driven T-box riboswitch cleavage determines met operon mRNA stability and decay
+Proteomic charting of imipenem adaptive responses in a highly carbapenem resistant clinical Enterobacter roggenkampii isolate
+A small RNA is linking CRISPRCAS and zinc transport
+Changing expression patterns of TonB-dependent transporters suggest shifts in polysaccharide consumption over the course of a spring phytoplankton bloom
+Diatom fucan polysaccharide precipitates carbon during algal blooms
+Genomic and proteomic profiles of biofilms on microplastics are decoupled from artificial surface properties
+Reaching out in anticipation: bacterial membrane extensions represent a permanent investment in polysaccharide sensing and utilization
+The rhinobiome of exacerbated wheezers and asthmatics: insights from a german pediatric exacerbation network
+Bottom-up and top-down proteomic approaches for the identification, characterization, and quantification of the low molecular weight proteome with focus on short open reading frame-encoded peptides
+CdrS is a global transcriptional regulator influencing cell division in Haloferax volcanii
+Surviving serum - the E. coli iss gene (increased serum survival) of extraintestinal pathogenic E. coli (ExPEC) is required for the synthesis of group 4 capsule
+Whats a Biofilm?-How the Choice of the Biofilm Model Impacts the Protein Inventory of Clostridioides difficile
+Atp? is an inhibitor of F0F1 ATP synthase to arrest ATP hydrolysis during low-energy conditions in cyanobacteria
+Influenza A H1N1 induced disturbance of the respiratory and fecal microbiome of german landrace pigs - a multi-omics characterization
+Yields and immunomodulatory effects of pneumococcal membrane vesicles differ with the bacterial growth phase
+The global proteome and ubiquitinome of bacterial and viral co-infected bronchial epithelial cells
+An innovative protocol for metaproteomic analyses of microbial pathogens in cystic fibrosis sputum
+Three Microbial Musketeers of the Seas: Shewanella baltica, Aliivibrio fischeri and Vibrio harveyi, and Their Adaptation to Different Salinity Probed by a Proteomic Approach
+Proteome analysis of the Gram-positive fish pathogen Renibacterium salmoninarum reveals putative role of membrane vesicles in virulence
+Expression of the Cyanobacterial FoF1 ATP Synthase Regulator Atp? Depends on Small DNA-Binding Proteins and Differential mRNA Stability
+Migration of Acanthamoeba through Legionella biofilms is regulated by the bacterial Lqs-LvbR network, effector proteins and the flagellum
+Streptococcus pneumoniae and Influenza A Virus Co-Infection Induces Altered Polyubiquitination in A549 Cells
+Diverse events have transferred genes for edible seaweed digestion from marine to human gut bacteria
+Connections between Exoproteome Heterogeneity and Virulence in the Oral Pathogen Aggregatibacter actinomycetemcomitans
+Metaproteome plasticity sheds light on the ecology of the rumen microbiome and its connection to host traits
+Coating and Corruption of Human Neutrophils by Bacterial Outer Membrane Vesicles
+Metabolic engineering enables Bacillus licheniformis to grow on the marine polysaccharide ulvan
+Sample preparation for mass spectrometry-based absolute quantification of bacterial proteins in antibiotic stress research
+Virulence induction in Pseudomonas aeruginosa under inorganic phosphate limitation: a proteomics perspective
+Marine bacteroidetes use a conserved enzymatic cascade to digest diatom ?-mannan
+Understanding a high-risk acute myeloid leukemia by analyzing the interactome of its major driver mutation
+Alterations of oral microbiota and impact on the gut microbiome in type 1 diabetes mellitus revealed by integrated multi-omic analyses
+Legionella- and host-driven lipid flux at LCV-ER membrane contact sites promotes vacuole remodeling
+The Cellular Abundance of Chemoreceptors, Chemosensory Signaling Proteins, Sensor Histidine Kinases, and Solute Binding Proteins of Pseudomonas aeruginosa Provides Insight into Sensory Preferences and Signaling Mechanisms
+Staphylococcus aureus populations from the gut and the blood are not distinguished by virulence traits-a critical role of host barrier integrity
+Revealing the small proteome of Haloferax volcanii by combining ribosome profiling and small-protein optimized mass spectrometry
+Unraveling the small proteome of the plant symbiont Sinorhizobium meliloti by ribosome profiling and proteogenomics
+The large GTPase Sey1/atlastin mediates lipid droplet- and FadL-dependent intracellular fatty acid metabolism of Legionella pneumophila
+The high-light-induced protein SliP4 binds to NDH1 and photosystems facilitating cyclic electron transport and state transition in Synechocystis sp. PCC 6803
+Impact of Pneumococcal and Viral Pneumonia on the Respiratory and Intestinal Tract Microbiomes of Mice
+Marine Bacteroidetes enzymatically digest xylans from terrestrial plants

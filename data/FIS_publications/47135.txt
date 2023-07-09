@@ -1,0 +1,14 @@
+Lüskow K	47135
+Electrostatic Ion Thrusters - Towards Predictive Modeling
+MONTE-CARLO RE-DEPOSITION MODEL DURING TERRESTRIAL MEASUREMENT OF ION THRUSTERS
+Electrostatic particle-in-cell simulation of heat flux mitigation using magnetic fields
+SOLUTION OF POISSONS EQUATION IN ELECTROSTATIC PARTICLE-IN-CELL SIMULATIONS.
+PARTICLE-IN-CELL SIMULATION CONCERNING HEAT-FLUX MITIGATION USING ELECTROMAGNETIC FIELDS
+INFLUENCE OF ELECTRON SOURCES ON THE NEAR-FIELD PLUME IN A MULTISTAGE PLASMA THRUSTER
+Ion angular distribution simulation of the HEMP Thruster
+Particle-in-Cell Simulation of a HEMP Thruster Digital Prototype Optimized for Future Satellite Applications
+Particle-in-cell simulation of the cathodic arc thruster
+Studies of the Influence of Ball Size and Net Height on Table Tennis Trajectory Distributions
+PIC simulations of capacitively coupled oxygen rf discharges
+Breathing modes in HEMP thrusters
+Statistical Analysis of Table-Tennis Ball Trajectories

@@ -1,0 +1,349 @@
+V?lker, Uwe	2234
+A genome-wide association study identifies 6p21 as novel risk locus for dilated cardiomyopathy.
+Labeling of the pathogenic bacterium Staphylococcus aureus with gold or ferric oxide-core nanoparticles highlights new capabilities for investigation of host-pathogen interactions.
+Proteomic identification of potential prognostic biomarkers in resectable pancreatic ductal adenocarcinoma.
+Antibodies against potassium channel interacting protein 2 induce necrosis in isolated rat cardiomyocytes
+Identification of novel genetic Loci associated with thyroid peroxidase antibodies and clinical thyroid disease.
+Repeating structures of the major staphylococcal autolysin are essential for the interaction with human thrombospondin 1 and vitronectin.
+Kidney Protein profiling of Wilms´ tumor patients by analysis of formalin-fixed paraffin-embedded tissue samples
+Bone marrow-derived macrophages from BALB/c and C57BL/6 mice fundamentally differ in their respiratory chain complex proteins, lysosomal enzymes and components of antioxidant stress systems.
+A Novel Artificial MicroRNA Expressing AAV Vector for Phospholamban Silencing in Cardiomyocytes Improves Ca2+ Uptake into the Sarcoplasmic Reticulum.
+Adaptation of Bacillus subtilis carbon core metabolism to simultaneous nutrient limitation and osmotic challenge: a multi-omics perspective.
+Activation of the alternative sigma factor SigB of Staphylococcus aureus following internalization by epithelial cells - an in vivo proteomics perspective.
+Proteome Changes in Platelets After Pathogen Inactivation-An Interlaboratory Consensus.
+Rare and low-frequency coding variants in CXCR2 and other genes are associated with hematological traits.
+Genetic determinants of heel bone properties: genome-wide association meta-analysis and replication in the GEFOS/GENOMOS consortium.
+Cohort profile: Greifswald approach to individualized medicine (GANI_MED).
+Fucosyltransferase 2 (FUT2) non-secretor status and blood group B are associated with elevated serum lipase activity in asymptomatic subjects, and an increased risk for chronic pancreatitis: a genetic association study.
+Proteome analysis of heart biopsies using a TRIzol-based protein extraction.
+Comparative proteome analysis reveals conserved and specific adaptation patterns of Staphylococcus aureus after internalization by different types of human non-professional phagocytic host cells.
+Comparative evaluation of peptide desalting methods for salivary proteome analysis.
+Incidence of all-cause and cardiovascular mortality predicted by symmetric dimethylarginine in the population-based study of health in pomerania
+Novel genetic markers associate with atrial fibrillation risk in Europeans and Japanese.
+Mapping the genetic architecture of gene regulation in whole blood.
+Gene-age interactions in blood pressure regulation: a large-scale investigation with the CHARGE, Global BPgen, and ICBP Consortia.
+Translating Pharmacological Findings from Hypothyroid Rodents to Euthyroid Humans: Is There a Functional Role of Endogenous 3,5-T2?
+Effects of long-term averaging of quantitative blood pressure traits on the detection of genetic associations.
+Genetic association study of QT interval highlights role for calcium signaling pathways in myocardial repolarization.
+Altered immune proteome of Staphylococcus aureus under iron-restricted growth conditions.
+Genome-Wide Association Study for Endothelial Growth Factors.
+Genome-Wide Meta-Analyses of Plasma Renin Activity and Concentration Reveal Association with the Kininogen 1 and Prekallikrein Genes.
+Genome-wide association study of kidney function decline in individuals of European descent.
+A global proteome approach in uric acid stimulated human aortic endothelial cells revealed regulation of multiple major cellular pathways
+A novel engineering tool in the Bacillus subtilis toolbox: inducer-free activation of gene expression by selection-driven promoter decryptification.
+Deletion of membrane-associated Asp23 leads to upregulation of cell wall stress genes in Staphylococcus aureus.
+A time resolved metabolomics study: the influence of different carbon sources during growth and starvation of Bacillus subtilis.
+Fluvastatin mediated breast cancer cell death: a proteomic approach to identify differentially regulated proteins in MDA-MB-231 cells.
+Using a Label Free Quantitative Proteomics Approach to Identify Changes in Protein Abundance in Multidrug-Resistant Mycobacterium tuberculosis
+Brain derived neurotrophic factor contributes to the cardiogenic potential of adult resident progenitor cells in failing murine heart
+The other side of the RAAS - Aldosterone improves migration of cardiac progenitor cells
+A meta-analysis of gene expression signatures of blood pressure and hypertension.
+Sigma Factor SigB Is Crucial to Mediate Staphylococcus aureus Adaptation during Chronic Infections
+Associations between Serum Sex Hormone Concentrations and Whole Blood Gene Expression Profiles in the General Population.
+ABO blood type B and fucosyltransferase 2 non-secretor status as genetic risk factors for chronic pancreatitis.
+Rare and low-frequency variants and their association with plasma levels of fibrinogen, FVII, FVIII, and vWF.
+Cell Specific eQTL Analysis without Sorting Cells.
+A proteomic perspective of the interplay of Staphylococcus aureus and human alveolar epithelial cells during infection.
+A peptide resource for the analysis of Staphylococcus aureus in host-pathogen interaction studies.
+Differences in the whole saliva baseline proteome profile associatedwith development of oral mucositis in head and neck cancer patients undergoing radiotherapy
+Evidence for synergistic control of glutamate biosynthesis by glutamate dehydrogenases and glutamate in Bacillus subtilis.
+Small regulatory RNA-induced growth rate heterogeneity of Bacillus subtilis.
+Shotgun proteome analysis of Bordetella pertussis reveals a distinct influence of iron availability on the bacterial metabolism, virulence, and defense response
+Genome-Wide Association Study with Targeted and Non-targeted NMR Metabolomics Identifies 15 Novel Loci of Urinary Human Metabolic Individuality.
+Extensive alterations of the whole-blood transcriptome are associated with body mass index: results of an mRNA profiling study involving two large population-based cohorts.
+Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study.
+Effect of Experimental Thyrotoxicosis onto Blood Coagulation: A Proteomics Study
+Proteomic Changes of Tissue-Tolerable Plasma Treated Airway Epithelial Cells and Their Relation to Wound Healing
+Complement Component 5 Mediates Development of Fibrosis, via Activation of Stellate Cells, in 2 Mouse Models of Chronic Pancreatitis.
+Thyrotropin serum levels are differentially associated with biochemical markers of bone turnover and stiffness in women and men: results from the SHIP cohorts.
+Mass spectrometric phosphoproteome analysis of small-sized samples of human neutrophils
+Urine Metabolomics by (1)H-NMR Spectroscopy Indicates Associations between Serum 3,5-T2 Concentrations and Intermediary Metabolism in Euthyroid Humans.
+Gene transcripts associated with muscle strength: a CHARGE meta-analysis of 7,781 persons.
+Distinct urinary metabolic profiles associated with serum TSH and FT4 concentrations
+Sex differences in urine metabolites related with risk of diabetes using NMR spectroscopy: results of the study of health in pomerania
+The Influence of Age and Sex on Genetic Associations with Adult Body Size and Shape: A Large-Scale Genome-Wide Interaction Study.
+ICU patients generate a pathogen-specific humoral immune response during sepsis
+Specific serum IgG at diagnosis of Staphylococcus aureus bloodstream invasion is correlated with disease progression.
+Proteome profiles of HDL particles of patients with chronic heart failure are associated with immune response and also include bacteria proteins
+Rare coding variants and X-linked loci associated with age at menarche
+Exosomal particles secreted by prostate cancer cells are potent mRNA and protein vehicles for the interference of tumor and tumor environment
+A meta-analysis of 120 246 individuals identifies 18 new loci for fibrinogen concentration.
+Genome-wide Association Studies Identify Genetic Loci Associated with Albuminuria in Diabetes.
+Genetic studies of body mass index yield new insights for obesity biology.
+New genetic loci link adipose and insulin biology to body fat distribution
+Staphylococcus aureus Transcriptome Architecture: From Laboratory to Infection-Mimicking Conditions.
+Genome-Wide Association Study for Incident Myocardial Infarction and Coronary Heart Disease in Prospective Cohort Studies: The CHARGE Consortium.
+Proteomic profile of platelets during reconstitution of platelet counts after apheresis.
+Utilising the EGFR interactome to identify mechanisms of drug resistance in non-small cell lung cancer - Proof of concept towards a systems pharmacology approach.
+Changes of myocardial gene expression and protein composition in patients with dilated cardiomyopathy after immunoadsorption with subsequent immunoglobulin substitution
+Platelet-Related Variants Identified by Exomechip Meta-analysis in 157,293 Individuals.
+Staphylococcal serine protease-like proteins are pacemakers of allergic airway reactions to Staphylococcus aureus.
+Meta-analysis identifies common and rare variants influencing blood pressure and overlapping with metabolic trait loci.
+Endomyocardial proteomic signature corresponding to the response of patients with dilated cardiomyopathy to immunoadsorption therapy.
+3,5-T2 alters murine genes relevant for xenobiotic, steroid, and thyroid hormone metabolism.
+Proteome analysis of Bordetella pertussis isolated from human macrophages.
+Four Susceptibility Loci for Gallstone Disease Identified in a Meta-analysis of Genome-Wide Association Studies.
+Alternative fluorescent labeling strategies for characterizing gram-positive pathogenic bacteria: Flow cytometry supported counting, sorting, and proteome analysis of Staphylococcus aureus retrieved from infected host cells.
+A Whole-Blood Transcriptome Meta-Analysis Identifies Gene Expression Signatures of Cigarette Smoking.
+A reference panel of 64,976 haplotypes for genotype imputation.
+PROGRESS - prospective observational study on hospitalized community acquired pneumonia.
+Proteome data of whole saliva which are associated with development of oral mucositis in head and neck cancer patients undergoing radiotherapy.
+Correction: The Influence of Age and Sex on Genetic Associations with Adult Body Size and Shape: A Large-Scale Genome-Wide Interaction Study.
+Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis.
+GWAS analysis of handgrip and lower body strength in older adults in the CHARGE consortium.
+Global analysis of the impact of linezolid onto virulence factor production in S. aureus USA300.
+Genetic associations at 53 loci highlight cell types and biological pathways relevant for kidney function.
+Genome-wide association study identifies 74 loci associated with educational attainment.
+Genome-wide association study of pathological gambling.
+The inverse link between genetic risk for schizophrenia and migraine through NMDA (N-methyl-D-aspartate) receptor activation via D-serine.
+Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies.
+Metabolic Fingerprints of Circulating IGF-1 and the IGF-1/IGFBP-3 Ratio: A Multifluid Metabolomics Study.
+Multiethnic Exome-Wide Association Study of Subclinical Atherosclerosis.
+PCSK9 genetic variants and risk of type 2 diabetes: a mendelian randomisation study.
+SOS2 and ACP1 Loci Identified through Large-Scale Exome Chip Analysis Regulate Kidney Development and Function.
+Genetic Variants Associated with Circulating Parathyroid Hormone.
+A Novel Assay to Assess the Effect of Pharmaceutical Compounds on the Differentiation of Podocytes.
+Genomewide meta-analysis identifies loci associated with IGF-I and IGFBP-3 levels with impact on age-related traits
+Proteome data from a host-pathogen interaction study with Staphylococcus aureus and human lung epithelial cells.
+Pathophysiological aldosterone levels modify the secretory activity of cardiac progenitor cells.
+A principal component meta-analysis on multiple anthropometric traits identifies novel loci for body shape
+52 Genetic Loci Influencing Myocardial Mass.
+Profiling and validation of circulating microRNAs for cardiovascular events in patients presenting with ST-segment elevation myocardial infarction.
+Large-scale reduction of the Bacillus subtilis genome: Consequences for the transcriptional network, resource allocation, and metabolism.
+Blood RNA expression profiles undergo major changes during the seventh decade.
+Adaptive immune response to lipoproteins of Staphylococcus aureus in healthy subjects.
+Plasma proteome and metabolome characterization of an experimental human thyrotoxicosis model.
+Post-invasion events after infection with Staphylococcus aureus are strongly dependent on both the host cell type and the infecting S. aureus strain.
+Characterization of human and Staphylococcus aureus proteins in respiratory mucosa by in vivo- and immunoproteomics.
+Comparison of HapMap and 1000 Genomes Reference Panels in a Large-Scale Genome-Wide Association Study.
+Discovery of novel heart rate-associated loci using the Exome Chip.
+Large-scale genome-wide analysis identifies genetic variants associated with cardiac structure and function.
+Genome-wide physical activity interactions in adiposity - A meta-analysis of 200,452 adults.
+1000 Genomes-based meta-analysis identifies 10 novel loci for kidney function.
+Improved risk stratification in prevention by use of a panel of selected circulating microRNAs
+Fifteen Genetic Loci Associated with the Electrocardiographic P-wave
+Investigating the causal effect of smoking on hay fever and asthma: a Mendelian randomization meta-analysis in the CARTA consortium.
+Cross-Sectional Association of Salivary Proteins with Age, Sex, Body Mass Index, Smoking, and Education.
+Signatures of cytoplasmic proteins in the exoproteome distinguish community- and hospital-associated methicillin-resistant Staphylococcus aureus USA300 lineages.
+Predicting brain structure in population-based samples with biologically informed genetic scores for schizophrenia.
+Impact of blood sample collection methods on blood protein profiling studies.
+Corrigendum: 1000 Genomes-based meta-analysis identifies 10 novel loci for kidney function.
+Genomic analyses identify hundreds of variants associated with age at menarche and support a role for puberty timing in cancer risk.
+Large-scale analyses of common and rare variants identify 12 new loci associated with atrial fibrillation.
+Transcriptome-Wide Analysis Identifies Novel Associations With Blood Pressure.
+Characterization of the Genetic Program Linked to the Development of Atrial Fibrillation in CREM-Ib?C-X Mice.
+A global Staphylococcus aureus proteome resource applied to the in vivo characterization of host-pathogen interactions.
+NFAT5 and SLC4A10 Loci Associate with Plasma Osmolality.
+Genome-wide association and targeted analysis of copy number variants with psoriatic arthritis in German patients.
+Estimating the causal effect of body mass index on hay fever, asthma and lung function using Mendelian randomization.
+Novel Blood Pressure Locus and Gene Discovery Using Genome-Wide Association Study and Expression Data Sets From Blood and the Kidney.
+Stability of Proteins Out of Service: the GapB Case of Bacillus subtilis.
+Synthesis of the compatible solute proline by Bacillus subtilis: point mutations rendering the osmotically controlled proHJ promoter hyperactive.
+Data on the impact of the blood sample collection methods on blood protein profiling studies.
+Dynamic adaptation of myocardial proteome during heart failure development.
+Evidence for Stress-like Alterations in the HPA-Axis in Women Taking Oral Contraceptives.
+Genetic Interactions with Age, Sex, Body Mass Index, and Hypertension in Relation to Atrial Fibrillation: The AFGen Consortium.
+Erratum to: Changes of myocardial gene expression and protein composition in patients with dilated cardiomyopathy after immunoadsorption with subsequent immunoglobulin substitution.
+Staphylococcus aureus controls interleukin-5 release in upper airway inflammation
+Several adaptor proteins promote intracellular localisation of the transporter MRP4/ABCC4 in platelets and haematopoietic cells.
+Several adaptor proteins promote intracellular localisation of the transporter MRP4/ABCC4 in platelets and haematopoietic cells.
+Plasma protein profiling of patients with intraductal papillary mucinous neoplasm of the pancreas as potential precursor lesions of pancreatic cancer.
+The N-terminal CCHC zinc finger motif mediates homodimerization of the transcription factor BCL11B.
+Cellular concentrations of the transporters DctA, DcuB, and the sensor DcuS of Escherichia coli and the contributions of free and complexed DcuS to transcriptional regulation by DcuR.
+AureoWiki ? The repository of the Staphylococcus aureus research and annotation community.
+Changes of DNA topology affect the global transcription landscape and allow rapid growth of a Bacillus subtilis lacking carbon catabolite repression.
+Protein-altering variants associated with body mass index implicate pathways that control energy intake and expenditure in obesity.
+Associations of genetic determinants of serum vitamin B12 and folate concentrations with hay fever and asthma: a Mendelian randomization meta-analysis.
+Erratum: Large-scale analyses of common and rare variants identify 12 new loci associated with atrial fibrillation.
+Publisher Correction: Protein-altering variants associated with body mass index implicate pathways that control energy intake and expenditure in obesity.
+Comprehensive Metabolic Profiling Reveals a Lipid-rich Fingerprint of Free Thyroxine Far Beyond Classical Parameters.
+Comparative analysis of Salivette® and paraffin gum preparations for establishment of a metaproteomics analysis pipeline for stimulated human saliva.
+From the genome sequence via the proteome to cell physiology - Pathoproteomics and pathophysiology of Staphylococcus aureus.
+Functional abdominal pain and discomfort (IBS) is not associated with faecal microbiota composition in the general population.
+Common and Rare Coding Genetic Variation Underlying the Electrocardiographic PR Interval.
+The quest for bacterial allergens.
+ExomeChip-Wide Analysis of 95 626 Individuals Identifies 10 Novel Loci Associated With QT and JT Intervals.
+Multi-ethnic genome-wide association study for atrial fibrillation.
+Intergration of "Omics" Techniques: Dronedarone Affects Cardiac Remodeling in the Infarction Border Zone.
+Pneumococcal Metabolic Adaptation and Colonization Are Regulated by the Two-Component Regulatory System 08.
+Analysis of Staphylococcus aureus proteins secreted inside infected human epithelial cells.
+Exome-chip meta-analysis identifies novel loci associated with cardiac conduction, including ADAMTS6.
+PR interval genome-wide association meta-analysis identifies 50 loci associated with atrial and atrioventricular electrical activity.
+Genetic analysis of over 1 million people identifies 535 new loci associated with blood pressure traits.
+Inhibition of Rho Activity Increases Expression of SaeRS-Dependent Virulence Factor Genes in Staphylococcus aureus, Showing a Link between Transcription Termination, Antibiotic Action, and Virulence.
+Metabolic niche adaptation of community- and hospital-associated methicillin-resistant Staphylococcus aureus.
+Global secretome analysis of resident cardiac progenitor cells from wild type and transgenic heart failure mice: why ambience matters
+Association of alcohol consumption with allergic disease and asthma: a multi-centre Mendelian randomization analysis.
+Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity.
+Circulating proteomic patterns in AF related left atrial remodeling indicate involvement of coagulation and complement cascade.
+Biallelic CCM3 mutations cause a clonogenic survival advantage and endothelial cell stiffening
+GWAS and colocalization analyses implicate carotid intima-media thickness and carotid plaque loci in cardiovascular outcomes.
+Publisher Correction: Genetic analysis of over 1 million people identifies 535 new loci associated with blood pressure traits.
+Common Genetic Variation in Relation to Brachial Vascular Dimensions and Flow-Mediated Vasodilation
+Neandertal Introgression Sheds Light on Modern Human Endocranial Globularity
+Regulation of biofilm aging and dispersal in  by the alternative sigma factor SigB.
+Role of Platelet Size Revisited-Function and Protein Composition of Large and Small Platelets.
+Genomics of 1 million parent lifespans implicates novel pathways and common diseases and distinguishes survival chances.
+Two Functionally Deviating Type 6 Secretion Systems Occur in the Nitrogen-Fixing Endophyte  BH72.
+Variants in ABCG8 and TRAF3 genes confer risk for gallstone disease in admixed Latinos with Mapuche Native American ancestry.
+Sex-specific differences in the intracellular proteome of human endothelial cells from dizygotic twins.
+Sequential organ failure assessment score is an excellent operationalization of disease severity of adult patients with hospitalized community acquired pneumonia - results from the prospective observational PROGRESS study.
+HDAC (Histone Deacetylase) Inhibitor Valproic Acid Attenuates Atrial Remodeling and Delays the Onset of Atrial Fibrillation in Mice.
+Metabolic Cross-talk Between Human Bronchial Epithelial Cells and Internalized  as a Driver for Infection.
+Genetic and lifestyle risk factors for MRI-defined brain infarcts in a population-based setting
+A catalog of genetic loci associated with kidney function from analyses of a million individuals.
+Correlation of gene expression and clinical parameters identifies a set of genes reflecting LV systolic dysfunction and morphological alterations.
+In vivo proteomics identifies the competence regulon and AliB oligopeptide transporter as pathogenic factors in pneumococcal meningitis.
+Shotgun proteomic analysis of Bordetella parapertussis provides insights into the physiological response to iron starvation and potential new virulence determinants absent in Bordetella pertussis.
+Genome-wide analysis of dental caries and periodontitis combining clinical and self-reported data.
+Global plasma protein profiling reveals DCM characteristic protein signatures.
+Metaproteomics analysis of microbial diversity of human saliva and tongue dorsum in young healthy individuals.
+Copy number variants in lipid metabolism genes are associated with gallstones disease in men.
+Association of childhood traumatization and neuropsychiatric outcomes with altered plasma micro RNA-levels.
+Genome-wide association meta-analyses and fine-mapping elucidate pathways influencing albuminuria.
+A thyroid hormone-independent molecular fingerprint of 3,5-diiodothyronine suggests a strong relation with coffee metabolism in humans.
+Target genes, variants, tissues and transcriptional pathways influencing human serum urate levels.
+Associations of autozygosity with a broad range of human phenotypes.
+Fumarate dependent protein composition under aerobic and anaerobic growth conditions in Escherichia coli.
+Hfq modulates global protein pattern and stress response in Bordetella pertussis.
+Improving Proteome Coverage for Small Sample Amounts: An Advanced Method for Proteomics Approaches with Low Bacterial Cell Numbers.
+KCND3 potassium channel gene variant confers susceptibility to electrocardiographic early repolarization pattern.
+Phenome-wide association analysis of LDL-cholesterol lowering genetic variants in PCSK9.
+Technical report: xMAPr - High-dynamic-range (HDR) quantification of antigen-specific antibody binding.
+NLRP3 Inflammasome Regulates Development of Systemic Inflammatory Respoes in Mice With Acute Pancreatitis.
+Biologics Production: Impact of Degrading or Modifying Impurities Resulting from Microbial Contaminations of Non-Sterile Process Intermediates on Product Quality
+A structured weight loss program increases gut microbiota phylogenetic diversity and reduces levels of Collinsella in obese type 2 diabetics: A pilot study.
+Thyroid Related Quality of Life in Elderly with Subclinical Hypothyroidism and Improvement on Levothyroxine is Distinct from that in Young Patients (TSAGE).
+Arsenic and Gallbladder Cancer Risk: Mendelian Randomization Analysis of European Prospective Data.
+Helicobacter pylori infection associates with fecal microbiota composition and diversity.
+Proteomic and Transcriptomic Changes in Hibernating Grizzly Bears Reveal Metabolic and Signaling Pathways that Protect against Muscle Atrophy.
+Association of proteome and metabolome signatures with severity in patients with community-acquired pneumonia.
+Genome-wide association and Mendelian randomisation analysis provide insights into the pathogenesis of heart failure.
+Genome-wide scan identifies novel genetic loci regulating salivary metabolite levels.
+Associations between adipose tissue volume and small molecules in plasma and urine among asymptomatic subjects from the general population.
+Genetic studies of urinary metabolites illuminate mechanisms of detoxification and excretion in humans.
+Early-Stage  Bloodstream Infection Causes Changes in the Concentrations of Lipoproteins and Acute-Phase Proteins and Is Associated with Low Antibody Titers against Bacterial Virulence Factors.
+Pathogen-specific antibody profiles in patients with severe systemic infections.
+Analyses of competent and non-competent subpopulations of Bacillus subtilis reveal yhfW, yhxC and ncRNAs as novel players in competence.
+Management of Osmoprotectant Uptake Hierarchy in Bacillus subtilis via a SigB-Dependent Antisense RNA
+A MicroRNA Network Controls  Replication in Human Macrophages via LGALS8 and MX1.
+CD5L constitutes a novel biomarker for integrated hepatic thyroid hormone action.
+Polygenic Architecture of Human Neuroanatomical Diversity.
+ABCB1/4 gallbladder cancer risk variants identified in India also show strong effects in Chileans.
+Multi-ancestry GWAS of the electrocardiographic PR interval identifies 202 loci underlying cardiac conduction.
+Adenosine Triphosphate Neutralizes Pneumolysin-induced Neutrophil Activation.
+Impact of high salinity and the compatible solute glycine betaine on gene expression of Bacillus subtilis.
+S. aureus alpha-toxin monomer binding and heptamer formation in host cell membranes - Do they determine sensitivity of airway epithelial cells toward the toxin?
+Screening for New Markers to Assess Thyroid Hormone Action by OMICs Analysis of Human Samples.
+Interaction of  and Host Cells upon Infection of Bronchial Epithelium during Different Stages of Regeneration.
+The Polygenic and Monogenic Basis of Blood Traits and Diseases.
+Gallstones, Body Mass Index, C-reactive Protein and Gallbladder Cancer - Mendelian Randomization Analysis of Chilean and European Genotype Data.
+Trans-ethnic and Ancestry-Specific Blood-Cell Genetics in 746,667 Individuals from 5 Global Populations.
+Impact of Storage Conditions on the Breast Milk Peptidome.
+Genetic Determinants of Electrocardiographic P-wave Duration and Relation to Atrial Fibrillation.
+The Membrane Transporter OAT7 (SLC22A9) Is Not a Susceptibility Factor for Osteoporosis in Europeans
+Genetic correlations and genome-wide associations of cortical structure in general population samples of 22,824 adults.
+The Involvement of the McsB Arginine Kinase in Clp-Dependent Degradation of the MgsR Regulator in .
+Exploring metal availability in the natural niche of Streptococcus pneumoniae to discover potential vaccine antigens
+Associations of plasma YKL-40 concentrations with heel ultrasound parameters and bone turnover markers in the general adult population.
+Analysis of DCM associated protein alterations of human right and left ventricles.
+The Gut Microbiome in Patients With Chronic Pancreatitis Is Characterized by Significant Dysbiosis and Overgrowth by Opportunistic Pathogens.
+Meta-analysis uncovers genome-wide significant variants for rapid kidney function decline.
+Genetic loci associated with prevalent and incident myocardial infarction and coronary heart disease in the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium.
+Double trouble: Bacillus depends on a functional Tat machinery to avoid severe oxidative stress and starvation upon entry into a NaCl-depleted environment.
+Discovery of rare variants associated with blood pressure regulation through meta-analysis of 1.3 million individuals.
+Long-term instability of the intestinal microbiome is associated with metabolic liver disease, low microbiota diversity, diabetes mellitus and impaired exocrine pancreatic function.
+Cerebral small vessel disease genomics and its implications across the lifespan.
+The genetics of circulating BDNF: towards understanding the role of BDNF in brain structure and function in middle and old ages.
+Bacterial symbiont subpopulations have different roles in a deep-sea symbiosis
+Nup133 and ER? mediate the differential effects of hyperoxia-induced damage in male and female OPCs.
+Complete Genome Sequences of Streptococcus suis Pig-Pathogenic Strains 10, 13-00283-02, and 16085/3b.
+The Thyroid Hormone Transporter Mct8 Restricts Cathepsin-Mediated Thyroglobulin Processing in Male Mice through Thyroid Auto-Regulatory Mechanisms That Encompass Autophagy.
+Large-scale association analyses identify host factors influencing human gut microbiome composition.
+Genome-wide association study in 8,956 German individuals identifies influence of ABO histo-blood groups on gut microbiome.
+The Cardiac Fibroblast in heart failure  an inflammatory cell
+Essentiality of c-di-AMP in Bacillus subtilis: Bypassing mutations converge in potassium and glutamate homeostasis.
+Genome-Wide Association Study of Circulating Interleukin 6 Levels Identifies Novel Loci.
+Genome-wide meta-analysis of muscle weakness identifies 15 susceptibility loci in older men and women.
+Major Determinants of Airway Epithelial Cell Sensitivity to S. aureus Alpha?Toxin: Disposal of Toxin Heptamers by Extracellular Vesicle Formation and Lysosomal Degradation
+From heterogeneous healthcare data to disease-specific biomarker networks: A hierarchical Bayesian network approach.
+Energy Metabolites as Biomarkers in Ischemic and Dilated Cardiomyopathy.
+Genome-wide association analysis in dilated cardiomyopathy reveals two new players in systolic heart failure on chromosomes 3p25.1 and 22q11.23.
+A Comprehensive View on the Human Antibody Repertoire Against Staphylococcus aureus Antigens in the General Population
+Comparative analysis of the effects of long term 3,5-T2 treatment on the murine hepatic proteome and transcriptome under conditions of normal diet and high fat diet.
+splice-aware RNA-Seq data simulation.
+Sputum Proteome Signatures of Mechanically Ventilated Intensive Care Unit Patients Distinguish Samples with or without Anti-pneumococcal Activity.
+The association between genetically determined ABO blood types and major depressive disorder.
+The genetic predisposition to longevity acts through behavioral phenotypes in females.
+Carrying asymptomatic gallstones is not associated with changes in intestinal microbiota composition and diversity but cholecystectomy with significant dysbiosis
+Genetic factors influencing a neurobiological substrate for psychiatric disorders.
+Multi-ancestry genome-wide gene-sleep interactions identify novel loci for blood pressure.
+Association between different dimensions of childhood traumatization and plasma micro-RNA levels in a clinical psychiatric sample
+Sex-Dependent Shared and Nonshared Genetic Architecture Across Mood and Psychotic Disorders.
+Fetal Zone Steroids and Estrogen Show Sex Specific Effects on Oligodendrocyte Precursor Cells in Response to Oxidative Damage.
+Unchaining mini Bacillus PG10: relief of FlgM-mediated repression of autolysin genes
+Salivary metabolites associated with a 5-year tooth loss identified in a population-based setting
+Bottom-Up Community Proteome Analysis of Saliva Samples and Tongue Swabs by Data-Dependent Acquisition Nano LC-MS/MS Mass Spectrometry.
+Immunogenicity and protective efficacy of a Streptococcus suis vaccine composed of six conserved immunogens.
+Extracellular Vesicle Separation Techniques Impact Results from Human Blood Samples: Considerations for Diagnostic Applications
+The genomics of heart failure: design and rationale of the HERMES consortium.
+Large-scale cis- and trans-eQTL analyses identify thousands of genetic loci and polygenic scores that regulate blood gene expression.
+Host-pathogen interactions of clinical S. aureus isolates to induce infective endocarditis
+Differentially expressed genes reflect disease-induced rather than disease-causing changes in the transcriptome.
+The Bacillus subtilis  Minimal Genome Compendium.
+Investigation of the interplay between circulating lipids and IGF-I and relevance to breast cancer risk: an observational and Mendelian randomization study.
+The protease SplB of Staphylococcus aureus targets host complement components and inhibits complement-mediated bacterial opsonophagocytosis.
+Validating biomarkers and models for epigenetic inference of alcohol consumption from blood.
+Genetic insights into biological mechanisms governing human ovarian ageing.
+Cytokine-Mediated Alterations of Human Cardiac Fibroblasts Secretome
+Insights in ChAdOx1 nCov-19 Vaccine-induced Immune Thrombotic Thrombocytopenia (VITT).
+Epigenome-wide association study of serum urate reveals insights into urate co-regulation and the SLC2A9 locus.
+Differences in Cell-Intrinsic Inflammatory Programs of Yolk Sac and Bone Marrow Macrophages
+Comparative analysis of ChAdOx1 nCoV-19 and Ad26.COV2.S SARS-CoV-2 vector vaccines.
+SHIP-MR and Radiology: 12 Years of Whole-Body Magnetic Resonance Imaging in a Single Center
+Tissue-specific multi-omics analysis of atrial fibrillation.
+sPLINK: a hybrid federated tool as a robust alternative to meta-analysis in genome-wide association studies.
+Gene-mapping study of extremes of cerebral small vessel disease reveals TRIM47 as a strong candidate.
+Plasma circulating micro-RNAs associated with alexithymia reflect a high overlap on neuropsychiatric outcomes.
+Cohort Profile Update: The Study of Health in Pomerania (SHIP).
+Serum starvation induces sexual dimorphisms in secreted proteins of human umbilical vein endothelial cells (HUVECs) from twin pairs.
+NMR Metabolomics Reveal Urine Markers of Microbiome Diversity and Identify Benzoate Metabolism as a Mediator between High Microbial Alpha Diversity and Metabolic Health.
+Pathogenesis of vaccine-induced immune thrombotic thrombocytopenia (VITT).
+Comparative proteome analysis of the tegument of male and female adult Schistosoma mansoni.
+Course of disease and risk factors for hospitalization in outpatients with a SARS?CoV?2 infection
+Resting heart rate and incident atrial fibrillation: A stratified Mendelian randomization in the AFGen consortium.
+Overexpression of Renin-B Induces Warburg-like Effects That Are Associated with Increased AKT/mTOR Signaling.
+Fetal Zone Steroids Show Discrete Effects on Hyperoxia-Induced Attenuation of Migration in Cultured Oligodendrocyte Progenitor Cells.
+The interplay between genetic variation and gene expression of the glucocorticoid receptor gene NR3C1 and blood cortisol levels on verbal memory and hippocampal volumes.
+Differential and shared genetic effects on kidney function between diabetic and non-diabetic individuals.
+Genetic loci and prioritization of genes for kidney function decline derived from a meta-analysis of 62 longitudinal genome-wide association studies.
+Riociguat attenuates left ventricular proteome and microRNA profile changes after experimental aortic stenosis in mice.
+The Vibrio vulnificus stressosome is an oxygen-sensor involved in regulating iron metabolism.
+Genetic and clinical determinants of abdominal aortic diameter: genome-wide association studies, exome array data and Mendelian randomization study.
+Analysis of epidemiological association patterns of serum thyrotropin by combining random forests and Bayesian networks.
+In mouse chronic pancreatitis CD25FOXP3 regulatory T cells control pancreatic fibrosis by suppression of the type 2 immune response.
+Genome-wide associations of aortic distensibility suggest causality for aortic aneurysms and brain white matter hyperintensities.
+Bordetella pertussis outer membrane vesicles as virulence factor vehicles that influence bacterial interaction with macrophages.
+Limited evidence for blood eQTLs in human sexual dimorphism.
+Genome-wide meta-analyses reveal novel loci for verbal short-term memory and learning.
+ACTN2 Mutant Causes Proteopathy in Human iPSC-Derived Cardiomyocytes.
+Lack of L-type amino acid transporter 2 in murine thyroid tissue induces autophagy.
+Genome-wide association analyses of physical activity and sedentary behavior provide insights into underlying mechanisms and roles in disease prevention.
+A saturated map of common genetic variants associated with human height.
+Immunoproteasomes control activation of innate immune signaling and microglial function.
+Impact of different oral treatments on the composition of the supragingival plaque microbiome.
+Screening for eukaryotic motifs in  Legionella pneumoniae reveals Smh1 as bacterial deacetylase of host histones.
+Genetic analyses of the electrocardiographic QT interval and its components identify additional loci and pathways.
+TREML2 Gene Expression and Its Missense Variant rs3747742 Associate with White Matter Hyperintensity Volume and Alzheimer's Disease-Related Brain Atrophy in the General Population.
+APOE ?4 in Depression-Associated Memory Impairment-Evidence from Genetic and MicroRNA Analyses.
+BCL11B depletion induces the development of highly cytotoxic innate T cells out of IL-15 stimulated peripheral blood ?? CD8+ T cells
+tRNA-like Transcripts from the  Genomic Region Critically Influence Human Innate Immunity and Macrophage Functions.
+Activated regulatory T-cells promote duodenal bacterial translocation into necrotic areas in severe acute pancreatitis.
+The Greifswald Post COVID Rehabilitation Study and Research (PoCoRe)Study Design, Characteristics and Evaluation Tools
+The interplay between micro RNAs and genetic liability to Alzheimer's Disease on memory trajectories in the general population.
+Federated Machine Learning, Privacy-Enhancing Technologies, and Data Protection Laws in Medical Research: Scoping Review.
+Genomics of perivascular space burden unravels early mechanisms of cerebral small vessel disease.
+PSMC3 proteasome subunit variants are associated with neurodevelopmental delay and type I interferon production.
+Alternative splicing analysis benchmark with DICAST.
+Escherichia coli SPFH membrane microdomain proteins HflKC contribute to aminoglycoside and oxidative stress tolerance
+SigB modulates expression of novel SigB regulon members via Bc1009 in non-stressed and heat-stressed cells revealing its alternative roles in Bacillus cereus.

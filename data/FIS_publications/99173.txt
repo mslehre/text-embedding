@@ -1,0 +1,2 @@
+Grandjean A	99173
+Extraction of features from clinical routine data using text mining

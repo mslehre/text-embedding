@@ -1,0 +1,30 @@
+Dyrba M	52790
+Measuring Cortical Connectivity in Alzheimer's Disease as a Brain Neural Network Pathology: Toward Clinical Applications.
+Basal Forebrain and Hippocampus as Predictors of Conversion to Alzheimer's Disease in Patients with Mild Cognitive Impairment - A Multicenter DTI and Volumetry Study.
+Multimodal analysis of functional and structural disconnection in Alzheimer's disease using multiple kernel SVM.
+Predicting Prodromal Alzheimer's Disease in Subjects with Mild Cognitive Impairment Using Machine Learning Classification of Multimodal Multicenter Diffusion-Tensor and Magnetic Resonance Imaging Data.
+The Primacy Effect in Amnestic Mild Cognitive Impairment: Associations with Hippocampal Functional Connectivity.
+The ?4 genotype of apolipoprotein E and white matter integrity in Alzheimer's disease.
+Does Functional Connectivity Provide a Marker for Cognitive Rehabilitation Effects in Alzheimer's Disease? An Interventional Study.
+Robust Detection of Impaired Resting State Functional Connectivity Networks in Alzheimer's Disease Using Elastic Net Regularized Regression.
+Multicenter stability of resting state fMRI in the detection of Alzheimer's disease and amnestic MCI.
+Multimodal characterization of older APOE2 carriers reveals selective reduction of amyloid load.
+Hippocampal mean diffusivity for the diagnosis of dementia and mild cognitive impairment in primary care
+Multicenter Resting state functional connectivity in prodromal and dementia stages of Alzheimers disease
+In vivo staging of regional amyloid deposition.
+No association of cortical amyloid load and EEG connectivity in older people with subjective memory complaints.
+Mean diffusivity in cortical gray matter in Alzheimer's disease: The importance of partial volume correction.
+Applicability of in vivo staging of regional amyloid burden in a cognitively normal cohort with subjective memory complaints: the INSIGHT-preAD study.
+The corticotopic organization of the human basal forebrain as revealed by regionally selective functional connectivity profiles.
+Is the left uncinate fasciculus associated with verbal fluency decline in mild Alzheimer's disease?
+In vivo staging of regional amyloid deposition predicts functional conversion in the preclinical and prodromal phases of Alzheimer's disease.
+Gaussian Graphical Models Reveal Inter-Modal and Inter-Regional Conditional Dependencies of Brain Alterations in Alzheimer's Disease.
+Multicenter Tract-Based Analysis of Microstructural Lesions within the Alzheimer's Disease Spectrum: Association with Amyloid Pathology and Diagnostic Usefulness.
+Structural integrity in subjective cognitive decline, mild cognitive impairment and Alzheimer's disease based on multicenter diffusion tensor imaging.
+Data-driven FDG-PET subtypes of Alzheimer's disease-related neurodegeneration.
+Association of TDP-43 Pathology with Global and Regional 18F-Florbetapir PET Signal in the Alzheimer's Disease Spectrum.
+Dorsolateral Prefrontal Functional Connectivity Predicts Working Memory Training Gains.
+[LATE: not every dementia is Alzheimer's disease-Discussion of a new disease entity based on a case example : Current status of limbic-predominant age-related TDP-43 encephalopathy (LATE)].
+Association of PET-based stages of amyloid deposition with neuropathological markers of A? pathology.
+The European DTI Study on Dementia - A multicenter DTI and MRI study on Alzheimer's disease and Mild Cognitive Impairment.
+Comparison of Different Hypotheses Regarding the Spread of Alzheimer's Disease Using Markov Random Fields and Multimodal Imaging.

@@ -1,0 +1,10 @@
+Matyash, Konstantin	36066
+MONTE-CARLO RE-DEPOSITION MODEL DURING TERRESTRIAL MEASUREMENT OF ION THRUSTERS
+3D PIC simulation of the rotating spoke in a Hall thruster
+SOLUTION OF POISSONS EQUATION IN ELECTROSTATIC PARTICLE-IN-CELL SIMULATIONS.
+INFLUENCE OF ELECTRON SOURCES ON THE NEAR-FIELD PLUME IN A MULTISTAGE PLASMA THRUSTER
+Particle-in-cell simulation of the cathodic arc thruster
+PIC simulations of capacitively coupled oxygen rf discharges
+Breathing modes in HEMP thrusters
+Rotating spoke instabilities in a wall-less Hall thruster: simulations
+Rotating spoke instabilities in a wall-less Hall thruster: experiments
