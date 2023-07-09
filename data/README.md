@@ -104,3 +104,10 @@ Institut für Botanik und Landschaftsökologie    10      Botanik
 cd publications
 for f in *.txt; do cat $f | perl -pe 's/\t.*//' > $f.new; mv $f.new $f; done
 ```
+
+### Remove WebOfScience ID from the first line of each publication list
+
+```
+cd publications
+for f in *.txt; do cat $f | perl -pe 's/^([^\d]+)\s?,\d+;/$1/' > $f.new; mv $f.new $f; done
+```
