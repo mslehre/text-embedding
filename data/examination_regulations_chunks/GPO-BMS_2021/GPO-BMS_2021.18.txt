@@ -1,56 +1,47 @@
-       die besten 10 %
-         B         die nächsten 25 %
-         C         die nächsten 30 %
+derungen der jeweiligen Fachprüfungsordnung. Die Ergebnisse der Prüfungen in die-
+sen Fächern werden bei der Festsetzung der Gesamtnote nicht berücksichtigt.
 
-                                                                                    15
+(2) Der Antrag auf Prüfung in einem Zusatzfach ist spätestens mit der Beantragung der
+Abschlussarbeit (§ 14 Abs. 2) zulässig. Er ist schriftlich beim Zentralen Prüfungsamt der
+Universität Greifswald einzureichen.
+
+(3) Eine nicht bestandene Prüfung in einem Zusatzfach kann gemäß § 25 wiederholt
+werden.
+
+
+
+                                                                                      14
                       Nichtamtliche Lesefassung der GPO BMS
 
-         D         die nächsten 25 %
-         E         die nächsten 10 %.
-
-Als Grundlage für die Berechnung der relativen Note sind außer dem Abschlussjahr-
-gang, soweit existent, zusätzlich die drei vorhergehenden Jahrgänge als Kohorte zu
-erfassen.
+(4) Als Zusatzfächer können nur Prüfungs- und Studienleistungen berücksichtigt wer-
+den, die an der Universität Greifswald erbracht wurden.
 
 
-                                       § 19
-                      Bachelor- beziehungsweise Mastergrad
+                                      § 18
+                       Bildung der Gesamtnote und Zeugnis
 
-Aufgrund der bestandenen Bachelor- beziehungsweise Masterprüfung wird der in der
-Fachprüfungsordnung bestimmte akademische Grad verliehen. Aufgrund der bestande-
-nen B.A.-Prüfung wird der akademische Grad „Baccalaureus Artium”/ „Bachelor of Arts”
-(abgekürzt: „B.A.”) vergeben.
+(1) Für die Bachelor- beziehungsweise Masterprüfung wird eine Gesamtnote gebildet.
+Die Gesamtnote errechnet sich gemäß § 12 aus den Noten der benoteten Modulprü-
+fungen und der Note für die Abschlussarbeit, gegebenenfalls einschließlich einer Ver-
+teidigung. Sofern die Fachprüfungsordnung nichts anderes vorsieht, werden die einzel-
+nen Noten entsprechend dem jeweiligen workload gewichtet; dabei wird bei der Ab-
+schlussarbeit gegebenenfalls der workload der Verteidigung eingerechnet.
 
+(2) Für die Prüfung im Studiengang mit dem Studienziel „Bachelor of Arts“ wird eine
+Gesamtnote aus den Fachnoten der beiden Teilstudiengänge nach § 4 Abs. 5, gewich-
+tet mit je 35 %, der Fachnote für die General Studies, gewichtet mit 20 %, und die Note
+der Bachelorarbeit, gewichtet mit 10 %, gebildet. Die Fachnote der beiden Teilstudien-
+gänge sowie der General Studies wird jeweils aus der Vornote und der Abschlussprü-
+fung des Teilstudiengangs beziehungsweise der General Studies im Verhältnis 2:1 ge-
+bildet. Die Vornote ergibt sich aus dem Durchschnitt der nach ihrem relativen ECTS-
+Anteil gewichteten Noten der studienbegleitenden Modulprüfungen im jeweiligen Teil-
+studiengang beziehungsweise in den General Studies.
 
-                                      § 20
-                    Bachelor- beziehungsweise Masterurkunde
+(3) Bei einem Durchschnitt von 1,0 wird das Gesamturteil „mit Auszeichnung bestan-
+den" erteilt.
 
-(1) Gleichzeitig mit dem Zeugnis wird dem Kandidaten die Bachelor- beziehungsweise
-Masterurkunde ausgehändigt. Darin wird die Verleihung des akademischen Grades be-
-urkundet.
-
-(2) Die Bachelor- beziehungsweise Masterurkunde wird mit dem Datum des Zeugnisses
-versehen, vom Dekan unterzeichnet und mit dem Siegel der Universität Greifswald ver-
-sehen.
-
-
-                       4. Abschnitt: Verfahren, Termine, Fristen
-
-                                        § 21
-                                  Prüfungstermine
-
-(1) Die Modulprüfungen werden nach Beendigung der Lehrveranstaltungen angeboten.
-Der genaue Zeitpunkt der Prüfung wird durch das Zentrale Prüfungsamt spätestens bis
-zum Ende der Vorlesungszeit durch hochschulinternen Aushang bekannt gegeben. Ei-
-ne gesonderte Ladung der Kandidaten erfolgt nicht. Die Regelprüfungstermine ergeben
-sich aus den Fachprüfungsordnungen. § 10 bleibt unberührt.
-
-(2) Die Fakultäten stellen durch das Lehrangebot sicher, dass Studienleistungen in den
-einzelnen Studiengängen, bei Teilstudiengängen in diesen rechtzeitig erbracht und die
-zeitlichen Vorgaben dieser Prüfungsordnung und der Fachprüfungsordnungen für die
-einzelnen Prüfungen und die Abschlussarbeit eingehalten werden können.
-
-(3) Die Modulprüfungen werden jeweils in einem Zeitraum von sechs Wochen im An-
-schluss an die Vorlesungszeit angeboten. Prüfungen müssen bis zum Ende des jeweili-
-gen Prüfungszeitraums abgelegt werden. Prüfungen, die nach dem Ende des jeweiligen
-Semesters abgelegt werden, bedürfen 
+(4) Hat ein Kandidat die Bachelor- beziehungsweise Masterprüfung bestanden, so er-
+hält er unverzüglich, möglichst innerhalb von vier Wochen über die Ergebnisse ein
+Zeugnis. In das Zeugnis werden das Thema der Abschlussarbeit, die Note der Ab-
+schlussarbeit sowie die Namen der Prüfer und die Gesamtnote, nach Maßgabe der
+Fa

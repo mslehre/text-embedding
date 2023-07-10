@@ -1,42 +1,43 @@
-te gebildet.
-Die Gesamtnote errechnet sich gemäß § 12 aus den Noten der benoteten Modulprü-
-fungen und der Note für die Abschlussarbeit, gegebenenfalls einschließlich einer Ver-
-teidigung. Sofern die Fachprüfungsordnung nichts anderes vorsieht, werden die einzel-
-nen Noten entsprechend dem jeweiligen workload gewichtet; dabei wird bei der Ab-
-schlussarbeit gegebenenfalls der workload der Verteidigung eingerechnet.
+gung
 
-(2) Für die Prüfung im Studiengang mit dem Studienziel „Bachelor of Arts“ wird eine
-Gesamtnote aus den Fachnoten der beiden Teilstudiengänge nach § 4 Abs. 5, gewich-
-tet mit je 35 %, der Fachnote für die General Studies, gewichtet mit 20 %, und die Note
-der Bachelorarbeit, gewichtet mit 10 %, gebildet. Die Fachnote der beiden Teilstudien-
-gänge sowie der General Studies wird jeweils aus der Vornote und der Abschlussprü-
-fung des Teilstudiengangs beziehungsweise der General Studies im Verhältnis 2:1 ge-
-bildet. Die Vornote ergibt sich aus dem Durchschnitt der nach ihrem relativen ECTS-
-Anteil gewichteten Noten der studienbegleitenden Modulprüfungen im jeweiligen Teil-
-studiengang beziehungsweise in den General Studies.
+(1) Masterarbeiten sind zu verteidigen; für Bachelorarbeiten gilt dies nach Maßgabe der
+Fachprüfungsordnung. Für die Verteidigung einer Arbeit wird, sofern die Fachprüfungs-
+ordnung nichts anderes vorsieht, ein workload von 60 Stunden angesetzt. Die Fachprü-
+fungsordnung kann für die Verteidigung den Begriff „Disputation“ vorsehen.
 
-(3) Bei einem Durchschnitt von 1,0 wird das Gesamturteil „mit Auszeichnung bestan-
-den" erteilt.
+(2) Die Verteidigung der Abschlussarbeit findet in der Regel innerhalb von vier Wochen
+nach der Bewertung der Abschlussarbeit statt. Zur Auseinandersetzung mit kritischen
+Einwänden ist dem Studierenden durch die Gutachter Einsicht in die entsprechenden
+Passagen der Gutachten mit Ausnahme der Bewertungsvorschläge zu gewähren.
 
-(4) Hat ein Kandidat die Bachelor- beziehungsweise Masterprüfung bestanden, so er-
-hält er unverzüglich, möglichst innerhalb von vier Wochen über die Ergebnisse ein
-Zeugnis. In das Zeugnis werden das Thema der Abschlussarbeit, die Note der Ab-
-schlussarbeit sowie die Namen der Prüfer und die Gesamtnote, nach Maßgabe der
-Fachprüfungsordnung auch die Noten der Modulprüfungen aufgenommen. Auf Antrag
-des Studierenden werden die Prüfungsergebnisse der Zusatzfächer nach § 17 ins
-Zeugnis aufgenommen.
+(3) Die Verteidigung der Abschlussarbeit findet nur statt, wenn die Abschlussarbeit ohne
+Berücksichtigung der Verteidigung mit mindestens „ausreichend“ (4,0) bewertet wurde.
+Sie findet nach Wahl des Studierenden auf deutsch oder englisch statt.
 
-(5) Mit dem Zeugnis erhält der Studierende eine Zeugnisergänzung („Diploma Supple-
-ment”/„Transcript of Records”). In die Zeugnisergänzung werden absolvierte Fächer
-einschließlich der dafür vergebenen Leistungspunkte und Prüfungsnoten aufgenom-
-men. Dem Abschlusszeugnis, der Urkunde über die Verleihung und dem Diploma Supp-
-lement/Transcript of Records wird eine englischsprachige Übersetzung beigefügt.
+(4) Die Verteidigung besteht aus einem Vortrag von 15 Minuten zu wesentlichen Inhal-
+ten der Abschlussarbeit und einer Diskussion der Ergebnisse und Schlussfolgerungen.
+Die Verteidigung soll nicht länger als 45 Minuten dauern. Sie ist mit Ausnahme der No-
+tenbekanntgabe öffentlich. Die Öffentlichkeit kann aus wichtigem Grund ausgeschlos-
+sen werden. Die Fachprüfungsordnung kann andere Zeiten vorsehen.
 
-(6) Das Zeugnis und die Zeugnisergänzung tragen das Datum des Tages, an dem die
-letzte Prüfungsleistung erbracht worden ist. Sie sind vom Vorsitzenden des Prüfungs-
-ausschusses zu unterzeichnen.
+(5) Die Verteidigung der Abschlussarbeit wird in der Regel von den Prüfern nach § 13
+Abs. 3 sowie einem weiteren Prüfer gemäß § 35 bewertet (Bewertungskommission),
+von denen der Prüfungsausschuss einen zum Vorsitzenden bestimmt.
 
-(7) Neben der Abschlussnote nach Absatz 1 ist auf dem Zeugnis die relative Note der
-folgenden ECTS-Bewertungsskala auszuweisen:
+(6) Die Note der Verteidigung ergibt sich aus dem arithmetischen Mittel der Einzelbe-
+wertungen. Aus der Note der Verteidigung und der Note der Abschlussarbeit wird ge-
+mäß § 12 die Gesamtnote für die Abschlussarbeit einschließlich Verteidigung gebildet;
+dabei wird die Abschlussarbeit, soweit die Fachprüfungsordnung nichts anderes vor-
+sieht, vierfach gewichtet. Wird die Verteidigung mit „nicht ausreichend" (5,0) bewertet,
+muss auch die Abschlussarbeit wiederholt werden.
 
-         A         die
+
+                                         § 17
+                                     Zusatzfächer
+
+(1) Der Studierende kann sich in weiteren Fächern an der Universität Greifswald einer
+Prüfung unterziehen (Zusatzfächer). Es gelten die Prüfungsleistungen und Prüfungsan-
+forderungen der jeweiligen Fachprüfungsordnung. Die Ergebnisse der Prüfungen in die-
+sen Fächern werden bei der Festsetzung der Gesamtnote nicht berücksichtigt.
+
+(2) Der Antrag auf Prüfung in einem Zusat
