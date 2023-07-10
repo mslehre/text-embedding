@@ -143,9 +143,7 @@ def write_hdf5(hdf5_file: str,
                                         ignore_index=True)
         embeddings = embeddings_old
         ids = ids_old
-
     hdf = pd.HDFStore(hdf5_file, mode='w') # new file or overwrite old file
     hdf.put('embeddings', embeddings, format='table', append = False)
     hdf.put('ids', ids, format='table', append=False)
     hdf.close()
-
