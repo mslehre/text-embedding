@@ -21,31 +21,31 @@ def get_answer(
     """
 
     # First read in the chunks given by the id_list from the given directory.
-    # Either the file exists as it is in the directory or it is located in a 
-    # sub directory (file name without chunk id) with the chunks of a larger 
-    # text file.
+    # Either the file exists as in the directory or it is located in a sub 
+    # directory, file name without chunk id.
     docs = []
     seperator_list = []
 
-    # add meta data that holds for all files in the directory
+    # add meta data that holds for all files in the directory if exists
     meta_file = os.path.join(text_dir, 'meta.txt')  # meta file for all texts
     if os.path.isfile(meta_file) and os.access(meta_file, os.R_OK):
         with open(meta_file, 'r') as file:
                 meta_data = file.read()
-        seperator_list.append(f'Here are meta information that hold for all '
-        + f'texts that are given to answer the question:\n{meta_data}\n\n')
-
-    for i in id_list:
-        file_path = os.path.join(text_dir, i + ".txt")
-        dir_path = os.path.join(text_dir, i.split('.')[0]) # sub dir
+        seperator_list.append(f'Here is some meta information that hold for '
+                              + f'all texts that are given to answer the '
+                              + f'question:\n{meta_data}\n\n')
+        
+    for id in id_list:
+        file_path = os.path.join(text_dir, id + ".txt")
+        dir_path = os.path.join(text_dir, id.split('.')[0]) # sub dir
         file_in_sub_dir = False
         # search for a sub directory with chunks:
         if(not os.path.isfile(file_path) and os.path.isdir(dir_path)):
-            file_path = os.path.join(dir_path, i + ".txt")
+            file_path = os.path.join(dir_path, id + ".txt")
             file_in_sub_dir = True  # to get the location of the meta file
 
         if not os.access(file_path, os.R_OK):
-            print(f'ERROR: Could not find or acces the file {i}.txt '
+            print(f'ERROR: Could not find or acces the file {id}.txt '
                   + f' directly or in a sub directory {dir_path}.')
             exit(1)
                 
@@ -56,9 +56,9 @@ def get_answer(
         # Create seperator for the chunk using the meta file data if a meta 
         # file exist:
         if file_in_sub_dir == True:
-            meta_file = os.path.join(dir_path, i.split('.')[0] + '.meta.txt')
+            meta_file = os.path.join(dir_path, id.split('.')[0] + '.meta.txt')
         else:
-            meta_file = os.path.join(text_dir, i.split('.')[0] + '.meta.txt')
+            meta_file = os.path.join(text_dir, id.split('.')[0] + '.meta.txt')
 
         if os.path.isfile(meta_file) and os.access(meta_file, os.R_OK):
             # read in the meta data into seperators
@@ -93,7 +93,7 @@ def get_answer(
     
 def test():
     testq = "What are common research interests of these scientists?"
-    testdir = "data/publications"
+    testdir = "../data/publications"
     testlist = ['2','4']
     testanswer = get_answer(query=testq, text_dir=testdir, id_list=testlist)
     print(testanswer)

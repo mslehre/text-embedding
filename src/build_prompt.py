@@ -15,7 +15,7 @@ def get_prompt(
             between the text chunks.
 
     Returns:
-        str: The completed prompt, combined from the template, query and 
+        str: The completed prompt, combined from the template, query and the
             chunks.
     """
 
