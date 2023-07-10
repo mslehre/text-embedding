@@ -20,6 +20,93 @@ def try_to_read_file(file_path: str) -> str:
                                          + "exist or is not readable!")
     return file_path
 
+def check_thinning_args(thinning_arg: str,
+                        dir_path: str) -> tuple[int, str]:
+    # function to check arguments for thinning data
+
+    # check if arg is an int
+    try:
+        thinning_arg = int(thinning_arg)
+    except ValueError as ve:
+        raise argparse.ArgumentTypeError("Argument " + thinning_arg + " is not"
+                                         + " an integer!") 
+
+    # check if arg is a directory
+    if not os.path.isdir(dir_path) or not os.access(dir_path, os.R_OK):
+        raise argparse.ArgumentTypeError("The directory " + dir_path + " does "
+                                         + "not exist or is not readable!")
+    dir_path = os.path.join(dir_path, '')  # append '/' 
+
+    return thinning_arg, dir_path
+
+
+def count_pubs(author_ids: pd.DataFrame,
+               dir_path: str) -> list[int]:
+    """
+    Count number of publications for each provided author ID in the specified 
+    directory.
+
+    Args:
+        author_ids (pandas.DataFrame): Author IDs to count the number of 
+            publications for.
+        dir_path (str): Directory containing the publication lists, the file 
+            names need to be <author_id>.txt.
+
+    Returns:
+        num_pubs (list): List of number of publications for each author ID. 
+            A -1 is appended if no publication list was found for the author.
+    """
+
+    num_pubs = []
+    for id in author_ids[0]:  
+        file_path = dir_path + str(id) + ".txt"
+        n = -1  # num pubs in file, -1 because the first line is not a pub
+        # check if file exists and is readable, if yes read
+        if os.path.isfile(file_path) and os.access(file_path, os.R_OK):
+            with open(file_path, 'r') as f:
+                for line in f:
+                    if line.strip(): n += 1  # if line is not empty, count + 1
+            num_pubs.append(n)  # add count for author id
+        else:
+            print("WARNING: Can't find or read file ", file_path, 
+                  " for author ID ", id, "!")
+            num_pubs.append(n)  # add -1 pubs for authors with no file
+    
+    return num_pubs
+
+
+def thin_out_data(author_ids: pd.DataFrame,
+                  embeddings: pd.DataFrame,
+                  dir_path: str,
+                  min_pubs: int) -> tuple[pd.DataFrame, pd.DataFrame]:
+    """ 
+    Remove data of authors with less than min_pubs publications from author_ids
+    and embeddings.
+
+    Args:
+        author_ids (pandas.DataFrame): Author IDs of authors to thin out.
+        embeddings (pandas.DataFrame): Embeddings corresponding to the author
+            IDs to thin out.
+        dir_path (str): Path to directory containing the publication lists.
+        min_pubs (int): Minimum number of publications. Every author with less 
+            than min_pubs publications is being pruned from author_ids and 
+            embeddings.
+
+    Returns:
+        author_ids (pandas.DataFrame): Pruned author IDs.
+        embeddings (pandas.DataFrame): Pruned embeddings.
+    """
+    num_pubs = count_pubs(author_ids, dir_path)
+
+    # get indices of authors with less than min_pubs pubs
+    drop_indices =[i for i, num in enumerate(num_pubs) if num < min_pubs]
+    # drop those authors
+    embeddings = embeddings.drop(drop_indices)
+    author_ids = author_ids.drop(drop_indices)
+
+    return author_ids, embeddings
+
+
 def get_author_info_and_palette(authors: pd.DataFrame,
                                 author_ids: np.ndarray,
                                 affiliation_map: pd.DataFrame, 
@@ -265,7 +352,7 @@ def main():
     parser.add_argument('--pca_components', type = int, default = 50,
                         help = 'Number of components to keep after performing'
                         + ' the PCA. Default is 50.')
-    parser.add_argument('--affiliation', default = 'faculty', 
+    parser.add_argument('--affiliation', default = 'institute', 
                         choices = ['institute', 'faculty'],
                         help = 'Decides after which fashion to color the ' 
                         + 'plot. Default is \"faculty\".')
@@ -275,28 +362,49 @@ def main():
     parser.add_argument('-t', '--threshold_edges', type = float,
                         help='For each author, plot edges to the authors '
                         + 'with a cosine similarity of >= threshold.')
+    parser.add_argument('--thinning', nargs = 2, metavar = ('INT', 'DIR'),
+                        help = 'Prune author data by number of publications. '
+                        + 'Specify a minimum number of publications and the '
+                        + 'directory containing the publication lists. Authors'
+                        + ' with less than the required number of publications'
+                        + ' will not be plotted.') 
     args = parser.parse_args()
     
+    # check thinning args
+    if args.thinning:
+        min_pubs, pub_dir = check_thinning_args(args.thinning[0], 
+                                                args.thinning[1])
+
     outfile = args.outfile + '.' + args.format
 
     # read data
-    with h5py.File(args.embed_file, 'r') as f_in:
-        pub_embedding = f_in['publication_embedding'][:]
-        author_ids = f_in['author_ids'][:]
+    hdf = pd.HDFStore(args.embed_file, mode='r')
+    embeddings = pd.read_hdf(hdf, "embeddings") 
+    author_ids = pd.read_hdf(hdf, "ids")
+    hdf.close()
     authors = pd.read_table(args.author_file, delimiter = '\t')
     affiliation_map = pd.read_table(args.affiliation_map, delimiter = '\t')
+
+    # thinning data 
+    if args.thinning:
+        author_ids, embeddings = thin_out_data(author_ids, embeddings, 
+                                               pub_dir, min_pubs) 
+
+    # convert data to numpy arrays for further steps
+    author_ids = author_ids.to_numpy(dtype = np.int32).flatten()
+    embeddings = embeddings.to_numpy(dtype = np.float64)
 
     # perplexity for tsne needs to be smaller than the number of samples
     k = 30.0 if len(author_ids) > 30 else float(len(author_ids) - 1)
     # pca components needs to be <= min(n_samples, n_features)
     pca_components = args.pca_components \
-        if min(pub_embedding.shape) >= args.pca_components \
-        else min(pub_embedding.shape)
+        if min(embeddings.shape) >= args.pca_components \
+        else min(embeddings.shape)
     # transform embeddings
-    tsne_result = compute_tsne(pub_embedding, pca_reduction = args.pca, 
+    tsne_result = compute_tsne(embeddings, pca_reduction = args.pca, 
                                pca_components = pca_components, 
                                tsne_perplexity = k)
-    
+                               
     # get last names, affiliations, and color palette
     lnames, affiliation, palette = get_author_info_and_palette(
         authors, 
@@ -306,7 +414,7 @@ def main():
     # get edges
     edges = None
     if args.k_edges or args.threshold_edges:
-        similarities = compute_cosinesim(pub_embedding)
+        similarities = compute_cosinesim(embeddings)
         edges = get_edges(similarities, args.k_edges, args.threshold_edges)
     # plot
     fig = tsne_plot(tsne_result, lnames, affiliation, args.affiliation, 
