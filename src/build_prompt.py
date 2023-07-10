@@ -38,7 +38,8 @@ DOCUMENTS:
         for i in chunks:
             context += i + "\n"
     elif (len(seperator_list) != len(chunks)):
-        print("seperator_list should be None or have the same length as the list of chunks.")
+        print("seperator_list should be None or have the same length as the "
+              + "list of chunks.")
         return None
     else:
         for j in range(len(chunks)):
@@ -46,7 +47,8 @@ DOCUMENTS:
     
     query_string = template.format(query=query, context=context)
 
-    # tokenize to make sure the prompt does not exceed the token limit, cut it off if it does
+    # Tokenize to make sure the prompt does not exceed the token limit, 
+    # cut it off if it does.
     prompt_tokens = get_token_from_string(query_string, 
                                           encoding_name="p50k_base", 
                                           max_token=3500, 
