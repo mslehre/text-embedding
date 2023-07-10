@@ -4,18 +4,19 @@ from tokenizer import get_string_from_tokens
 def get_prompt(
     query: str,
     chunks: list[str],
-    seperator_list: list = None) -> str:
+    seperator_list: list[str] = None) -> str:
     """From a question and relevant documents, build the prompt to ask the LLM.
 
     Args:
         query (str): Question to ask the LLM.
-        chunks (list): Dictionary containing the text of the chunks as values.
-        seperator_list (list): List of strings to insert as seperators in 
-        between the text chunks.
+        chunks (list[str]): Dictionary containing the text of the chunks as 
+            values.
+        seperator_list (list[str]): List of strings to insert as seperators in 
+            between the text chunks.
 
     Returns:
         str: The completed prompt, combined from the template, query and 
-        chunks.
+            chunks.
     """
 
     # template changed after https://medium.com/@jeremyarancio/create-your-

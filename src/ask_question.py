@@ -8,24 +8,40 @@ from build_prompt import get_prompt
 def get_answer(
         query: str, 
         text_dir: str,
-        index_list: list,
-        seperator_list: list = None) -> str:
+        id_list: list[str],
+        seperator_list: list[str] = None) -> str:
     """From a question asked by the user, generate the answer
 
     Args:
         query (str): Question asked by the user.
         text_dir (str): Documents directory.
-        index_list (list): List of relevant docs.
-        seperator_list (list): List of strings to insert as seperators in between the text chunks.
+        id_list (list[str]): List of relevant docs.
+        seperator_list (list[str]): List of strings to insert as seperators in
+            between the text chunks.
 
     Returns:
         str: Answer generated with the LLM
     """
 
-    #first read in the chunks given by the index_list from the given directory
+    # First read in the chunks given by the id_list from the given directory
+    # Either the file exists as it is in the directory or it is located in a 
+    # sub directory with the chubks of a larger text file.
     docs = []
-    for i in index_list:
-        this_chunk = open(text_dir + "/" + str(i) + ".txt", "r", encoding="UTF-8")
+    for i in id_list:
+        file_path = os.path.join(text_dir, i + ".txt")
+        dir_path = os.path.join(text_dir, i.split('.')[0]) # sub dir
+        print(f'dir: {dir_path}')
+        # search for file directly:
+        if(os.path.isfile(file_path) and os.access(file_path, os.R_OK)):
+            print(f'{i}.txt found directly!')
+
+        # search for file in sub directory:
+        elif(os.path.isdir(dir_path)):
+            file_path = os.path.join(dir_path, i + ".txt")
+            if os.access(file_path, os.R_OK):
+                print(f'{i}.txt found in {dir_path}!')
+                
+        this_chunk = open(file_path, "r", encoding="UTF-8")
         docs.append(this_chunk.read())
         this_chunk.close()
         
@@ -49,5 +65,5 @@ def test():
     testq = "What are common research interests of these scientists?"
     testdir = "data/example_pubs"
     testlist = [2,4]
-    testanswer = get_answer(query=testq, text_dir=testdir, index_list=testlist)
+    testanswer = get_answer(query=testq, text_dir=testdir, id_list=testlist)
     print(testanswer)
