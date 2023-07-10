@@ -44,7 +44,7 @@ def get_k_IDs(question: str,
     question_embedding = embedding_from_string(string=question)
 
     # Get the embeddings from the hpf5 file if exists and acess is given:
-    file_path = os.getcwd() + "/../data/" + embeddings_file
+    file_path = os.path.join(os.getcwd(), "../data/" + embeddings_file)
     if (not os.path.isfile(file_path) or not os.access(file_path, os.R_OK)):
         print("The file " + file_path + " does not exist or is not readable!")
         return [None]
