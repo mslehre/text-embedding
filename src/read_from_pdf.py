@@ -43,6 +43,7 @@ def main():
     into txt files that retain the layout, e.g. table
     """
 
+    # default list of the files if arguments '-c' or '-o' not given
     files_to_convert = []
     files_to_filter = []
 
@@ -57,7 +58,6 @@ def main():
                        help = 'Directory in which all PDF files are saved.')
 
     # if argument c given it will be converted
-
     parser.add_argument('-c', '--files_to_convert', action = 'append', nargs='+',
                         help = 'The list of files which should be be converted (pdf -> txt).')  
 
@@ -71,13 +71,10 @@ def main():
     parser.add_argument('-f', '--files_to_filter', action='append', nargs='+', 
                     help = 'The list of files which should be filtered.')
     
-
     args = parser.parse_args()
 
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
-    # files_to_convert = args.convert_pdf_to_txt
     output_dir = os.path.join(args.output_directory, '')
-    # files_to_filter = args.filter_files
 
     # convert pdf files in a dictionary into txt files
     if args.files_to_convert:
