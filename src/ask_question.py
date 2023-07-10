@@ -30,16 +30,14 @@ def get_answer(
     for i in id_list:
         file_path = os.path.join(text_dir, i + ".txt")
         dir_path = os.path.join(text_dir, i.split('.')[0]) # sub dir
-        print(f'dir: {dir_path}')
-        # search for file directly:
-        if(os.path.isfile(file_path) and os.access(file_path, os.R_OK)):
-            print(f'{i}.txt found directly!')
-
-        # search for file in sub directory:
-        elif(os.path.isdir(dir_path)):
+        # search for a sub directory with chunks:
+        if(not os.path.isfile(file_path) and os.path.isdir(dir_path)):
             file_path = os.path.join(dir_path, i + ".txt")
-            if os.access(file_path, os.R_OK):
-                print(f'{i}.txt found in {dir_path}!')
+
+        if not os.access(file_path, os.R_OK):
+            print(f'ERROR: Could not find or acces the file {i}.txt '
+                  + f' directly or in a sub directory {dir_path}.')
+            exit(1)
                 
         this_chunk = open(file_path, "r", encoding="UTF-8")
         docs.append(this_chunk.read())
