@@ -43,6 +43,9 @@ def main():
     into txt files that retain the layout, e.g. table
     """
 
+    files_to_convert = []
+    files_to_filter = []
+
     parser = argparse.ArgumentParser(description = 'Translates all PDF files' +
                         ' from a given folder into text files while' +
                         ' retaining the layout including table structures.' +
@@ -54,40 +57,44 @@ def main():
                        help = 'Directory in which all PDF files are saved.')
 
     # if argument c given it will be converted
-    parser.add_argument('-c', '--convert_pdf_to_txt', action = 'append', nargs='+')  
 
+    parser.add_argument('-c', '--files_to_convert', action = 'append', nargs='+',
+                        help = 'The list of files which should be be converted (pdf -> txt).')  
+
+    
     parser.add_argument('-o', '--output_directory',
-                        default = '../data/filtered_documents/')
+                        default = '../data/filtered_documents/', 
+                        help = 'Directory where the filtered files should be saved.')
 
-    # add list of files should be converted as argument
-    parser.add_argument('-f', '--filter_files', action='append', nargs='+')
-
-    files_to_convert = []
-    files_to_filter = []
+    
+    # add list of files should be filtered as argument
+    parser.add_argument('-f', '--files_to_filter', action='append', nargs='+', 
+                    help = 'The list of files which should be filtered.')
+    
 
     args = parser.parse_args()
 
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
-    files_to_convert = args.convert_pdf_to_txt
+    # files_to_convert = args.convert_pdf_to_txt
     output_dir = os.path.join(args.output_directory, '')
-    files_to_filter = args.filter_files
+    # files_to_filter = args.filter_files
 
     # convert pdf files in a dictionary into txt files
-    if files_to_convert:
+    if args.files_to_convert:
         # flat the nested list
-        files_to_convert = list(np.concatenate(files_to_convert))
+        files_to_convert = list(np.concatenate(args.files_to_convert))
 
         for filename in files_to_convert: 
             f = os.path.join(dir_path, filename)
             try: 
                 process = subprocess.Popen(["pdftotext", "-layout", f])
             except:
-                print("Error: src have to be installed!")
+               print("Error: try_to_write_dir from chunker has to be installed properly!")
 
     # filter out the (converted txt) files
-    if files_to_filter:
+    if args.files_to_filter:
         # flat the nested list
-        files_to_filter = list(np.concatenate(files_to_filter))
+        files_to_filter = list(np.concatenate(args.files_to_filter))
 
         for filename in files_to_filter:
             f = os.path.join(dir_path, filename)
