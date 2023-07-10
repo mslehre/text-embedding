@@ -38,9 +38,8 @@ def embeddings_ids_from_file_list(file_list: list[str],
     for file_path in file_list:
         if os.path.isfile(file_path) and os.access(file_path, os.R_OK):
             with open(file_path, 'r') as file_handle:
-                file_name = os.path.basename(file_path)
-                stem = Path(file_name).stem
-                suffix = Path(file_name).suffix
+                stem = Path(file_path).stem
+                suffix = Path(file_path).suffix
 
                 if ("meta" in stem or "info" == stem or suffix != ".txt"):
                     print(f'file {file_path} is ignored.')
