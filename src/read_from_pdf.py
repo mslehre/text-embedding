@@ -55,10 +55,10 @@ def main():
 
     parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
                        default = './',
-                       help = 'Directory in which all PDF files are saved.')
+                       help = 'Directory in which all PDF files are converted into txt.')
 
     # if argument c given it will be converted
-    parser.add_argument('-c', '--files_to_convert', action = 'append', nargs='+',
+    parser.add_argument('-c', '--files_to_convert', action = 'append', nargs = '+',
                         help = 'The list of files which should be be converted (pdf -> txt).')  
 
     
@@ -68,7 +68,7 @@ def main():
 
     
     # add list of files should be filtered as argument
-    parser.add_argument('-f', '--files_to_filter', action='append', nargs='+', 
+    parser.add_argument('-f', '--files_to_filter', action = 'append', nargs = '+', 
                     help = 'The list of files which should be filtered.')
     
     args = parser.parse_args()
@@ -86,7 +86,7 @@ def main():
             try: 
                 process = subprocess.Popen(["pdftotext", "-layout", f])
             except:
-               print("Error: try_to_write_dir from chunker has to be installed properly!")
+               print("Error: The necessary packages to convert pdf into txt are not installed properly!")
 
     # filter out the (converted txt) files
     if args.files_to_filter:
