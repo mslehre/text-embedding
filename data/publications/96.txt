@@ -1,4 +1,4 @@
-Michael Schürmann,39224456;
+Michael Schürmann
 
 Non-commutative stochastic processes with independent increments
 

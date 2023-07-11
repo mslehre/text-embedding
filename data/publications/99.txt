@@ -1,4 +1,4 @@
-Peter Manz,1833895;
+Peter Manz
 
 Edge transport and fuelling studies via gas puff modulation in ASDEX Upgrade L-mode plasmas
 

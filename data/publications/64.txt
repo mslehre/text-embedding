@@ -1,4 +1,4 @@
-Ralf Schneider,14270230;
+Ralf Schneider
 
 Simplified Optimization of the Magnetic Configuration of HEMP-Thrusters
 

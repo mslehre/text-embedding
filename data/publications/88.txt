@@ -1,4 +1,4 @@
-Mario Stanke,1177820;
+Mario Stanke
 
 Global, highly specific and fast filtering of alignment seeds
 

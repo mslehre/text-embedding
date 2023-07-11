@@ -1,4 +1,4 @@
-Allard Tamminga,16382291;
+Allard Tamminga
 
 Two-sided Sequent Calculi for FDE-like Four-valued Logics
 
