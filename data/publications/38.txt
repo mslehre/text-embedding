@@ -1,4 +1,4 @@
-Markus Münzenberg,38874770;
+Markus Münzenberg
 
 Interface-Assisted Room-Temperature Magnetoresistance in Cu-Phenalenyl-Based Magnetic Tunnel Junctions
 

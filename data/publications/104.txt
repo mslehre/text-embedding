@@ -1,4 +1,4 @@
-Sandra Klein,10342075;
+Sandra Klein
 
 Prediction of subcutaneous drug absorption-Characterization of subcutaneous interstitial fluids as a basis for developing biorelevant in vitro models
 

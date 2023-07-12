@@ -1,4 +1,4 @@
-Andreas Link ,1152429;
+Andreas Link 
 
 A graphite furnace-atomic absorption spectrometry-based rubidium efflux assay for screening activators of the K(v)7.2/3 channel
 

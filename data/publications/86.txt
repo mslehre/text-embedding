@@ -1,4 +1,4 @@
-Mareike Fischer,15236651;
+Mareike Fischer
 
 Computer Vision for Detection of Body Posture and Behavior of Red Foxes
 

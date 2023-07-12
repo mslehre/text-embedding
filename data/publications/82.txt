@@ -1,4 +1,4 @@
-Jürgen Kreyling,1033084;
+Jürgen Kreyling
 
 ForestClim-Bioclimatic variables for microclimate temperatures of European forests
 
