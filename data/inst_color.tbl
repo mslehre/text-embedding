@@ -1,2 +1,27 @@
-short_name color
-
+short_name	color
+CDFI	0
+Jura	1
+Wiwi	2
+Geschichte	3
+Anatomie	4
+Anglistik	5
+Baltistik	6
+Biochemie	7
+Botanik	8
+Deutsche Philologie	9
+Fennistik und Skandinavistik	10
+Geo	11
+Kirchenmusik und Musikwissenschaft	12
+Mathematik und Informatik	13
+Mikrobiologie	14
+Pharmazie	15
+Philosophie	16
+Physik	17
+Politik- und Kommunikationswissenschaft	18
+Psychologie	19
+Romanistik	20
+Slawistik	21
+Genetik und Funktionelle Genomforschung	22
+MPI für Plasmaphysik	23
+Theologie	24
+Zoologie	25
