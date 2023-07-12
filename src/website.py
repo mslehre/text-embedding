@@ -2,8 +2,14 @@ from os import path
 
 from flask import Flask, render_template, request
 from openai.embeddings_utils import cosine_similarity, get_embedding
+import pandas as pd
+
+import h5py
 
 from compute_embedding import embedding_from_string, compute_similarity_of_texts
+
+#k most similar scientists to display
+k = 10
 
 app = Flask(__name__)
 @app.route('/')
@@ -69,8 +75,37 @@ def navigateToGrantCallForm() -> str:
 
 @app.route('/grantcallResult', methods=['POST', 'GET'])
 def calculateGrantCallResult() -> str:
-    text1 = request.form["text1"]
-    return render_template("displayGrantCallResult.html", text1=text1)
+    #get grant call text
+    grantCall = request.form["grantCall"]
+    #calculate embedding for grant call text
+    grantCallEmbedding = embedding_from_string(grantCall)
+    #get embeddings from publication list file
+    with h5py.File("../data/pub_embeddings.h5", 'r') as hdf:
+        pub_embedding = hdf['publication_embedding'][:]
+        author_ids = hdf['author_ids'][:]
+    
+    similarityList = []
+    for j in range(0,len(author_ids)-1):
+        #get associated embedding
+        embedding = pub_embedding[j]
+        similarity = cosine_similarity(grantCallEmbedding, embedding)
+        similarityList.append((similarity, author_ids[j]))
+    #sort list by similarity
+    similarityList = sorted(similarityList, reverse=True)
+    
+    #output k most similar
+    outputText = ""
+    #get names
+    prof_df = pd.read_table("../data/prof.tbl")
+    for i in range(0,k-1):
+        firstname = prof_df.loc[prof_df.id == similarityList[i][1],
+                                "firstname"].values[0]
+        lastname = prof_df.loc[prof_df.id == similarityList[i][1],
+                                "lastname"].values[0]
+        entry = ("<pre>" + str(firstname) + " " + str(lastname)
+                 + "    " + str(similarityList[i][0]) + "</pre>" + "<br>")
+        outputText += entry
+    return render_template("displayGrantCallResult.html", text1=outputText)
 
 if __name__ == '__main__':
     app.run(debug=True)

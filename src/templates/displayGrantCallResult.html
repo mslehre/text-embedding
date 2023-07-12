@@ -1,7 +1,10 @@
 <html>
     <body>
         <form>
-            <label id="txt1"> <b>Most similar scientists: </b> {{text1}} 
+            <label id="txt1"> <b>Most similar scientists: </b> <br>
+                {% autoescape false %}
+                {{text1}}
+                {% endautoescape %}
             </label> <br>
         </form>
     </body>
