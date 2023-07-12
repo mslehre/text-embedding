@@ -1,0 +1,6 @@
+von Dincklage, Falk Fokko	109732
+Investigation of Behavioural Pain Scale, Critical Care Pain Observation Tool, nociceptive flexion reflex and pupillary dilatation reflex as predictors of behavioural reactions to nociceptive procedures in critically ill patients unable to self-report pain
+Electroencephalogram-based prediction and detection of responsiveness to noxious stimulation in critical care patients: a retrospective single-centre analysis
+Behaviour-based pain scales: Validity and interrater reliability of BPS-NI and PAINAD-G on general wards
+Automated Monitoring of Adherence to Evidenced-Based Clinical Guideline Recommendations: Design and Implementation Study.
+Representation of evidence-based clinical practice guideline recommendations on FHIR.

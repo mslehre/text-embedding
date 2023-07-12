@@ -1,0 +1,44 @@
+Grothe M	85151
+Recent advances in cholinergic imaging and cognitive decline-Revisiting the cholinergic hypothesis of dementia.
+Applicability of in vivo staging of regional amyloid burden in a cognitively normal cohort with subjective memory complaints: the INSIGHT-preAD study.
+Subregional volume reduction of the cholinergic forebrain in subjective cognitive decline (SCD).
+Relationship between Basal Forebrain Resting-State Functional Connectivity and Brain Amyloid-? Deposition in Cognitively Intact Older Adults with Subjective Memory Complaints.
+The corticotopic organization of the human basal forebrain as revealed by regionally selective functional connectivity profiles.
+Sex differences in functional and molecular neuroimaging biomarkers of Alzheimer's disease in cognitively normal older adults with subjective memory complaints.
+Basal Forebrain Volume, but Not Hippocampal Volume, Is a Predictor of Global Cognitive Decline in Patients With Alzheimer's Disease Treated With Cholinesterase Inhibitors.
+Hippocampus and basal forebrain volumes modulate effects of anticholinergic treatment on delayed recall in healthy older adults.
+Reduced Cholinergic Basal Forebrain Integrity Links Neonatal Complications and Adult Cognitive Deficits After Premature Birth.
+Effective connectivity in the default mode network is distinctively disrupted in Alzheimer's disease-A simultaneous resting-state FDG-PET/fMRI study.
+Neurogenetic contributions to amyloid beta and tau spreading in the human cortex.
+Impact of plasma glucose level on the pattern of brain FDG uptake and the predictive power of FDG PET in mild cognitive impairment.
+Hypermetabolism in the hippocampal formation of cognitively impaired patients indicates detrimental maladaptation.
+Individual Correspondence of Amyloid-? and Intrinsic Connectivity in the Posterior Default Mode Network Across Stages of Alzheimer's Disease.
+Reference standard space hippocampus labels according to the European Alzheimer's Disease Consortium-Alzheimer's Disease Neuroimaging Initiative harmonized protocol: Utility in automated volumetry.
+The complex link between amyloid and neuronal dysfunction in Alzheimer's disease.
+Resting-state posterior alpha rhythms are abnormal in subjective memory complaint seniors with preclinical Alzheimer's neuropathology and high education level: the INSIGHT-preAD study.
+Cholinergic white matter pathways make a stronger contribution to attention and memory in normal aging than cerebrovascular health and nucleus basalis of Meynert.
+In vivo staging of regional amyloid deposition predicts functional conversion in the preclinical and prodromal phases of Alzheimer's disease.
+Plasma tau correlates with basal forebrain atrophy rates in people at risk for Alzheimer disease.
+The cholinergic system in subtypes of Alzheimer's disease: an in vivo longitudinal MRI study.
+Gaussian Graphical Models Reveal Inter-Modal and Inter-Regional Conditional Dependencies of Brain Alterations in Alzheimer's Disease.
+Connectomics and molecular imaging in neurodegeneration.
+Neuropathologic features associated with basal forebrain atrophy in Alzheimer disease.
+Disentangling Heterogeneity in Alzheimer's Disease and Related Dementias Using Data-Driven Methods.
+Longitudinal degeneration of the basal forebrain predicts subsequent dementia in Parkinson's disease.
+A molecular gradient along the longitudinal axis of the human hippocampus informs large-scale behavioral systems.
+Pedunculopontine Nucleus Microstructure Predicts Postural and Gait Symptoms in Parkinson's Disease.
+FDG Uptake in the Basal Forebrain as Measured by Digital High-Resolution PET Is a Promising Marker of Basal Forebrain Degeneration in the Lewy Body Disease Spectrum: A Pilot Study.
+Data-driven FDG-PET subtypes of Alzheimer's disease-related neurodegeneration.
+Association of TDP-43 Pathology with Global and Regional 18F-Florbetapir PET Signal in the Alzheimer's Disease Spectrum.
+Structural MRI of the basal forebrain as predictor of cognitive response to galantamine in healthy older adults-A randomized controlled double-blinded crossover study.
+Differential patterns of gray matter volumes and associated gene expression profiles in cognitively-defined Alzheimer's disease subgroups.
+Metabolic and amyloid PET network reorganization in Alzheimer's disease: differential patterns and partial volume effects.
+Comparison of subtyping methods for neuroimaging studies in Alzheimer's disease: a call for harmonization.
+Association of PET-based stages of amyloid deposition with neuropathological markers of A? pathology.
+Longitudinal validity of PET-based staging of regional amyloid deposition.
+Impairment of Everyday Spatial Navigation Abilities in Mild Cognitive Impairment Is Weakly Associated with Reduced Grey Matter Volume in the Medial Part of the Entorhinal Cortex.
+Characterizing the Molecular Architecture of Cortical Regions Associated with High Educational Attainment in Older Individuals.
+The BDNF SNP modulates the association between beta-amyloid and hippocampal disconnection in Alzheimer's disease.
+The European DTI Study on Dementia - A multicenter DTI and MRI study on Alzheimer's disease and Mild Cognitive Impairment.
+Comparison of Different Hypotheses Regarding the Spread of Alzheimer's Disease Using Markov Random Fields and Multimodal Imaging.
+Neuronal correlates of serial position performance in amnestic mild cognitive impairment.

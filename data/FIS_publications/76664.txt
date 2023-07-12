@@ -1,0 +1,5 @@
+Ilies M	76664
+Impact of blood sample collection methods on blood protein profiling studies.
+Data on the impact of the blood sample collection methods on blood protein profiling studies.
+Plasma protein profiling of patients with intraductal papillary mucinous neoplasm of the pancreas as potential precursor lesions of pancreatic cancer.
+Plasma protein absolute quantification by nano-LC Q-TOF UDMSE for clinical biomarker verification.

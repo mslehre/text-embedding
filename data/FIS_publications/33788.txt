@@ -1,0 +1,3 @@
+Jira T	33788
+Multifactorial design principles applied for the simultaneous separation of local anesthetics using chromatography modeling software
+Development and validation of a rapid stability indicating HPLC-method using monolithic stationary phase and two spectrophotometric methods for determination of antihistaminic acrivastine in capsules

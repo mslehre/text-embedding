@@ -1,0 +1,2 @@
+Kiani N	65613
+Dynamic probabilistic threshold networks to infer signaling pathways from time-course perturbation data

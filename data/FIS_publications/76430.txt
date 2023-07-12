@@ -1,0 +1,3 @@
+Werner A	76430
+Impact of atrial fibrillation detected by extended monitoring-A population-based cohort study.
+Modeling transcriptomic age using knowledge-primed artificial neural networks.

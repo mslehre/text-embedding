@@ -1,0 +1,6 @@
+Kühn J	80250
+The PNPLA3 SNP rs738409:G allele is associated with increased liver disease-associated mortality but reduced overall mortality in a population-based cohort.
+Ductal Mucus Obstruction and Reduced Fluid Secretion Are Early Defects in Chronic Pancreatitis.
+Hepatic steatosis associates with adverse molecular signatures in subjects without diabetes.
+Associations between adipose tissue volume and small molecules in plasma and urine among asymptomatic subjects from the general population.
+Reduction of respiratory motion artifacts in gadoxetate-enhanced MR with a deep learning-based filter using convolutional neural network

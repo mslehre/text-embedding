@@ -1,0 +1,6 @@
+Rabe A	58297
+A peptide resource for the analysis of Staphylococcus aureus in host-pathogen interaction studies.
+Comparative analysis of Salivette® and paraffin gum preparations for establishment of a metaproteomics analysis pipeline for stimulated human saliva.
+Metaproteomics analysis of microbial diversity of human saliva and tongue dorsum in young healthy individuals.
+Bottom-Up Community Proteome Analysis of Saliva Samples and Tongue Swabs by Data-Dependent Acquisition Nano LC-MS/MS Mass Spectrometry.
+Impact of different oral treatments on the composition of the supragingival plaque microbiome.

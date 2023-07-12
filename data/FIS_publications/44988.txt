@@ -1,0 +1,46 @@
+Schneider, Ralf	44988
+Self-Force in 1D Electrostatic Particle-in-Cell Codes for Non-Equidistant Grids
+Holocene morphogenesis at the southern Baltic Sea: Simulation of multi-scale processes and their interactions for the Darss-Zingst peninsula
+Electrostatic Ion Thrusters - Towards Predictive Modeling
+A numerical approach for approximating the historical morphology of wave-dominated coasts - A case study of the Pomeranian Bight, southern Baltic Sea
+Systematic Study of Tungsten Impurity Transport in Representative Regimes of Divertor Plasma
+Gyrokinetic simulations of magnetic reconnection in non-uniform plasmas
+A gyrokinetic model for studies of magnetic reconnection in periodic and bounded plasmas
+MONTE-CARLO RE-DEPOSITION MODEL DURING TERRESTRIAL MEASUREMENT OF ION THRUSTERS
+Land-sea interaction and morphogenesis of coastal foredunes - A modeling case study from the southern Baltic Sea coast
+From Field Emission to Vacuum Arc Ignition: A New Tool for Simulating Copper Vacuum Arcs
+Sputtering of mixed materials of Beryllium and Tungsten by Hydrogen and Helium
+Statistical study of defects caused by primary knock-on atoms in fcc Cu and bcc W using molecular dynamics
+Effects of background plasma characteristics on tungsten impurity transport in the SOL/divertor region using IMPGYRO code
+3D PIC simulation of the rotating spoke in a Hall thruster
+Effects of Classical and Neo-classical Cross-field Transport of Tungsten Impurity in Realistic Tokamak Geometry
+Electrostatic particle-in-cell simulation of heat flux mitigation using magnetic fields
+SOLUTION OF POISSONS EQUATION IN ELECTROSTATIC PARTICLE-IN-CELL SIMULATIONS.
+PARTICLE-IN-CELL SIMULATION CONCERNING HEAT-FLUX MITIGATION USING ELECTROMAGNETIC FIELDS
+INFLUENCE OF ELECTRON SOURCES ON THE NEAR-FIELD PLUME IN A MULTISTAGE PLASMA THRUSTER
+Ion angular distribution simulation of the HEMP Thruster
+Particle-in-Cell Simulation of a Down-Scaled HEMP Thruster
+Particle-in-Cell Simulation of a HEMP Thruster Digital Prototype Optimized for Future Satellite Applications
+Development of a Lagrange-Monte-Carlo scheme for fluid modeling of SOL/divertor plasmas
+Particle-in-cell simulation of the cathodic arc thruster
+Studies of the Influence of Ball Size and Net Height on Table Tennis Trajectory Distributions
+Plasma flow around and charge distribution of a dust cluster in a rf discharge
+PIC simulations of capacitively coupled oxygen rf discharges
+Breathing modes in HEMP thrusters
+Numerical modeling of high efficiency multistage plasma thrusters for space applications
+Particle?in?cell simulation of an optimized high?efficiency multistage plasma thruster
+SDTrimSP Version 6.00
+Statistical Analysis of Table-Tennis Ball Trajectories
+Similarity scaling-application and limits for high-efficiency-multistage-plasma-thruster particle-in-cell modelling
+Multiobjective Optimization and Particle-In-Cell Simulation of Cusped Field Thrusters for Microsatellite Platforms
+Development of a Three Dimensional Plasma Fluid Code Using a Lagrange-Monte-Carlo Scheme
+Miniaturization perspectives of electrostatic propulsion for small spacecraft platforms
+Miniaturization perspectives of electrostatic propulsion for small spacecraft platforms
+Konzeption eines Prototyps zur Videoüberwachung von Zanderlarven - Digitalisation of pikeperch raise
+Konzeption eines Prototyps zur Videoüberwachung von Zanderlarven - Digitalisation of pikeperch raise
+PIC Simulations of the MS4 Thruster
+PIC Simulations of the MS4 Thruster
+Rotating spoke instabilities in a wall-less Hall thruster: simulations
+Rotating spoke instabilities in a wall-less Hall thruster: experiments
+Improved modeling for design optimization of cusped field thrusters with support of kinetic analysis
+Simplified Optimization of the Magnetic Configuration of HEMP-Thrusters

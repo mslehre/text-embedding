@@ -1,0 +1,3 @@
+Wien L	86959
+Effects of Cold Atmospheric Plasma on the Expression of Chemokines, Growth Factors, TNF Superfamily Members, Interleukins, and Cytokines in Human Osteosarcoma Cells
+Cold atmospheric plasma inhibits the growth of osteosarcoma cells by inducing apoptosis, independent of the device used

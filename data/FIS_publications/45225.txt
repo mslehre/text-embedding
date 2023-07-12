@@ -1,0 +1,7 @@
+Pulch, Roland	45225
+Stochastic collocation and stochastic Galerkin methods for linear differential algebraic equations
+Influence of measurement errors on transformer inrush currents using different material models.
+Robust and efficient uncertainty quantification and validation of RFIC isolation
+Sensitivity analysis and model order reduction for random linear dynamical systems
+Existence and Uniqueness of Optimal Solutions for Multirate Partial Differential Algebraic Equations
+Stochastic Galerkin methods and model order reduction for linear dynamical systems

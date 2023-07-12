@@ -1,0 +1,3 @@
+Bogaczyk M	44955
+Self-stabilized discharge filament in plane-parallel barrier discharge configuration: formation, breakdown mechanism, and memory effects
+Spatio-temporal characterization of the multiple current pulse regime of diffuse barrier discharges in helium with nitrogen admixtures

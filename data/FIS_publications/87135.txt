@@ -1,0 +1,5 @@
+Sodmann P	87135
+A convolutional neural network for ECG annotation as the basis for classification of cardiac rhythms.
+ECG Segmentation Using a Neural Network as the Basis for Detection of Cardiac Pathologies
+Time-specific Metalearners for the Early Prediction of Sepsis
+Segment, Perceive and Classify  Multitask Learning of the Electrocardiogram in a Single Neural Network

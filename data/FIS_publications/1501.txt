@@ -1,0 +1,36 @@
+Mäder, Ulrike	1501
+Adaptation of Bacillus subtilis carbon core metabolism to simultaneous nutrient limitation and osmotic challenge: a multi-omics perspective.
+Regulation of the Arginine Deiminase System by ArgR2 Interferes with Arginine Metabolism and Fitness of Streptococcus pneumoniae.
+Deletion of membrane-associated Asp23 leads to upregulation of cell wall stress genes in Staphylococcus aureus.
+A time resolved metabolomics study: the influence of different carbon sources during growth and starvation of Bacillus subtilis.
+Small regulatory RNA-induced growth rate heterogeneity of Bacillus subtilis.
+Extensive alterations of the whole-blood transcriptome are associated with body mass index: results of an mRNA profiling study involving two large population-based cohorts.
+SubtiWiki 2.0-an integrated database for the model organism Bacillus subtilis.
+Staphylococcus aureus Transcriptome Architecture: From Laboratory to Infection-Mimicking Conditions.
+Translation elicits a growth rate-dependent, genome-wide, differential protein production in Bacillus subtilis.
+Second Messenger Signaling in Bacillus subtilis: Accumulation of Cyclic di-AMP Inhibits Biofilm Formation.
+Global analysis of the impact of linezolid onto virulence factor production in S. aureus USA300.
+Large-scale reduction of the Bacillus subtilis genome: Consequences for the transcriptional network, resource allocation, and metabolism.
+Adaptive immune response to lipoproteins of Staphylococcus aureus in healthy subjects.
+Signatures of cytoplasmic proteins in the exoproteome distinguish community- and hospital-associated methicillin-resistant Staphylococcus aureus USA300 lineages.
+A global Staphylococcus aureus proteome resource applied to the in vivo characterization of host-pathogen interactions.
+Synthesis of the compatible solute proline by Bacillus subtilis: point mutations rendering the osmotically controlled proHJ promoter hyperactive.
+AureoWiki ? The repository of the Staphylococcus aureus research and annotation community.
+Changes of DNA topology affect the global transcription landscape and allow rapid growth of a Bacillus subtilis lacking carbon catabolite repression.
+From the genome sequence via the proteome to cell physiology - Pathoproteomics and pathophysiology of Staphylococcus aureus.
+Pneumococcal Metabolic Adaptation and Colonization Are Regulated by the Two-Component Regulatory System 08.
+Inhibition of Rho Activity Increases Expression of SaeRS-Dependent Virulence Factor Genes in Staphylococcus aureus, Showing a Link between Transcription Termination, Antibiotic Action, and Virulence.
+Inactivation of farR Causes High Rhodomyrtone Resistance and Increased Pathogenicity in Staphylococcus aureus
+The Disulfide Stress Response and Protein -thioallylation Caused by Allicin and Diallyl Polysulfanes in  as Revealed by Transcriptomics and Proteomics.
+Analyses of competent and non-competent subpopulations of Bacillus subtilis reveal yhfW, yhxC and ncRNAs as novel players in competence.
+Management of Osmoprotectant Uptake Hierarchy in Bacillus subtilis via a SigB-Dependent Antisense RNA
+Impact of high salinity and the compatible solute glycine betaine on gene expression of Bacillus subtilis.
+Double trouble: Bacillus depends on a functional Tat machinery to avoid severe oxidative stress and starvation upon entry into a NaCl-depleted environment.
+Comprehensive absolute quantification of the cytosolic proteome of Bacillus subtilis by data independent, parallel fragmentation in liquid chromatography/mass spectrometry (LC/MS(E))
+Inducible expression of (pp)pGpp synthetases in Staphylococcus aureus is associated with activation of stress response genes
+Complete Genome Sequences of Streptococcus suis Pig-Pathogenic Strains 10, 13-00283-02, and 16085/3b.
+Essentiality of c-di-AMP in Bacillus subtilis: Bypassing mutations converge in potassium and glutamate homeostasis.
+Genoscapist: online exploration of quantitative profiles along genomes via interactively customized graphical representations.
+The Two-Component System 09 Regulates Pneumococcal Carbohydrate Metabolism and Capsule Expression.
+The Bacillus subtilis  Minimal Genome Compendium.
+Functional Redundancy and Specialization of the Conserved Cold Shock Proteins in .

@@ -1,0 +1,2 @@
+Kugelmann, Bernd	33808
+Existence and Uniqueness of Optimal Solutions for Multirate Partial Differential Algebraic Equations

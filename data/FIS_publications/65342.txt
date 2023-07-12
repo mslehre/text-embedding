@@ -1,0 +1,3 @@
+Ouyang G	65342
+Exploiting the Intra-Subject Latency Variability from Single Trial Event-Related Potentials: A Review and Comparative Evaluation of Methods
+COMT genotype is differentially associated with single trial variability of ERPs as a function of memory type

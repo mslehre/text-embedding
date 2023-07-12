@@ -1,0 +1,2 @@
+Bernardeau M	89884
+Extraction of features from clinical routine data using text mining

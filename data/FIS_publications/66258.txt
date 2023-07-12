@@ -1,0 +1,5 @@
+Forkel, Hannes	66258
+Unveiling the N-Terminal Homodimerization of BCL11B by Hybrid Solvent Replica-Exchange Simulations.
+Nuclear import of BCL11B is mediated by a classical nuclear localization signal and not the Krüppel-like zinc fingers
+BCL11B depletion induces the development of highly cytotoxic innate T cells out of IL-15 stimulated peripheral blood ?? CD8+ T cells
+Chemotherapeutics Used for High-Risk Neuroblastoma Therapy Improve the Efficacy of Anti-GD2 Antibody Dinutuximab Beta in Preclinical Spheroid Models.

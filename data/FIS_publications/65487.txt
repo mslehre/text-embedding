@@ -1,0 +1,3 @@
+Clausznitzer D	65487
+A new stochastic model for subgenomic hepatitis C virus replication considers drug resistant mutants
+Multi-scale model for hepatitis C viral load kinetics under treatment with direct acting antivirals

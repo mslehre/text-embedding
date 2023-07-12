@@ -1,0 +1,8 @@
+Matthias P	74329
+Electrostatic particle-in-cell simulation of heat flux mitigation using magnetic fields
+Ion angular distribution simulation of the HEMP Thruster
+Particle-in-Cell Simulation of a HEMP Thruster Digital Prototype Optimized for Future Satellite Applications
+Particle-in-cell simulation of the cathodic arc thruster
+PIC simulations of capacitively coupled oxygen rf discharges
+Breathing modes in HEMP thrusters
+Particle?in?cell simulation of an optimized high?efficiency multistage plasma thruster

@@ -1,0 +1,2 @@
+Ittermann T	116908
+Analysis of epidemiological association patterns of serum thyrotropin by combining random forests and Bayesian networks.

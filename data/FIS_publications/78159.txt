@@ -1,0 +1,2 @@
+Bülow R	78159
+Automatized spleen segmentation in non-contrast-enhanced MR volume data using subject-specific shape priors.

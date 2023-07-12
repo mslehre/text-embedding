@@ -1,0 +1,6 @@
+Engel A	1799
+Morphine and loperamide interact differently with uptake transporters of the OATP-family
+Morphine and loperamide interact differently with uptake transporters of the OATP-family
+OATP2B1 vermittelt die zelluläre Aufnahme von Morphin in vitro
+OATP1A2 is involved in cellular morphine uptake in vitro
+Morphine is a substrate of OATP uptake transporters in vitro
