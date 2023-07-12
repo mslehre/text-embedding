@@ -31,11 +31,24 @@ the number of `chunk_size` characters with overlap of `overlap` characters.
 The chunks are saved in files with name `input_file_stem.chunk_index.txt` in
 the directory `dir_path`.
 
-A call would be:
+An example call is:
 ```
 chunker.py <file1> [<file2> ...] -s <chunk_size> -o <overlap> -d <dir_path>
 ```
 For more information see `chunker.py -h`.
+
+## Compute embeddings for files and save in HDF5-file
+The script `txt_to_hdf5.py` has two functions. It can take a directory (`-d`)
+containing either text files or subdirectories containing text files as input, 
+computes embeddings for every file and saves them and the file IDs in a 
+HDF5-file. It can also update (`-u`) the embeddings in an existing HDF5-file,
+for that specify a list of files to update the embeddings for or a directory 
+containing the text files.
+
+An example call is:
+```
+txt_to_hdf5.py -d <dir_path> -f <hdf5_file>
+``` 
 
 ## t-SNE Plot for publication lists
 With `tsne_plot.py` the embeddings of publication lists can be visualize with a
