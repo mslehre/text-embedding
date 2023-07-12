@@ -1,4 +1,4 @@
-R?debusch, Julia	2026
+Rüdebusch, Julia	2026
 Proteome analysis of heart biopsies using a TRIzol-based protein extraction.
 Dynamic adaptation of myocardial proteome during heart failure development.
 Stimulation of soluble guanylate cyclase by riociguat attenuates heart failure and pathological cardiac remodelling.

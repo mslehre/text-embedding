@@ -1,4 +1,4 @@
-B?ttcher, Dominique	32249
+Böttcher, Dominique	32249
 Eine Roboterplattform für das Hochdurchsatz-Screening von Biokatalysatoren
 Enzymatic Cleavage of Aryl Acetates
 Fully automatized high-throughput enzyme library screening using a robotic platform

@@ -1,4 +1,4 @@
-Henke, J?rg Ulrich	1826
+Henke, Jörg Ulrich	1826
 Data quality monitoring in clinical and observational epidemiologic studies: the role of metadata and process information
 Pragmatic MDR: a metadata repository with bottom-up standardization of medical metadata through reuse.
 Improving the FAIRness of Health Studies in Germany: The German Central Health Study Hub COVID-19.

@@ -1,4 +1,4 @@
-Bartel, J?rgen	45066
+Bartel, Jürgen	45066
 Picking vanished proteins from the void: how to collect and ship/share extremely dilute proteins in a reproducible and highly efficient manner
 Proteomic response of Streptococcus pneumoniae to iron limitation
 Ariadnes Thread in the Analytical Labyrinth of Membrane Proteins: Integration of Targeted and Shotgun Proteomics for Global Absolute Quantification of Membrane Proteins

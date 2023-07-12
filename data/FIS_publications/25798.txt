@@ -1,4 +1,4 @@
-G?tt, Robert	25798
+Gött, Robert	25798
 Toolbox for Research, or How to facilitate a central data management in small-scale research projects.
 Understanding the Nature of Metadata  A Deep Insight in the Literature
 Understanding the Nature of Metadata  A Systematic Review

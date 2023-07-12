@@ -1,4 +1,4 @@
-Wei?mann, Robert	18426
+Weissmann, Robert	18426
 Distribution of segmental duplications in the context of higher order chromatin organization
 Cleavage of E-Cadherin and ?-Catenin by Calpain Affects Wnt Signaling and Spheroid Formation in Suspension Cultures of Human Pluripotent Stem Cells
 Deciphering the molecular signature of plaques, memory decline and neuron-loss using two mouse models for Alzheimers disease by deep sequencing

@@ -1,4 +1,4 @@
-B?cker, Daniel	100110
+Bäcker, Daniel	100110
 Comprehensive Evaluation of Biological Effects of Pentathiepins on Various Human Cancer Cell Lines and Insights into Their Mode of Action
 Correlation Analysis of Protein Expression of 10 HDAC/Sirtuin Isoenzymes with Sensitivities of 23 Anticancer Drugs in 17 Cancer Cell Lines and Potentiation of Drug Activity by Co-Treatment with HDAC Inhibitors
 General Applicability of High-Resolution Continuum-Source Graphite Furnace Molecular Absorption Spectrometry to the Quantification of Oligopeptides Using the Example of Glutathione

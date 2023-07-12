@@ -1,4 +1,4 @@
-M?ller, Sabine	35709
+Müller, Sabine	35709
 Generation and selection of ribozyme variants with potential application in protein engineering and synthetic biology
 In vitro repair of a defective EGFP transcript and translation into a functional protein
 Preparation of modified long-mer RNAs and analysis of FMN binding to the ypaA aptamer from B. subtilis

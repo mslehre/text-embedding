@@ -1,4 +1,4 @@
-K?hn, Jens-Peter	1130
+Kühn, Jens-Peter	1130
 Quantitative chemical shift-encoded MRI is an accurate method to quantify hepatic steatosis.
 Characterization of the Intestinal and Hepatic Uptake/Efflux Transport of the Magnetic Resonance Imaging Contrast Agent Gadolinium-Ethoxylbenzyl-Diethylenetriamine-Pentaacetic Acid.
 T1 bias in chemical shift-encoded liver fat-fraction: Role of the flip angle.

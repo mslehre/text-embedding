@@ -1,4 +1,4 @@
-Sch?ssow, Janka	62355
+Schössow, Janka	62355
 Square2 - A Web Application for Data Monitoring in Epidemiological and Clinical Studies
 Data quality monitoring in clinical and observational epidemiologic studies: the role of metadata and process information
 Modeling transcriptomic age using knowledge-primed artificial neural networks.

@@ -1,4 +1,4 @@
-D?rr, Mark	45145
+Dörr, Mark	45145
 Eine Roboterplattform für das Hochdurchsatz-Screening von Biokatalysatoren
 Eine Roboterplattform für das Hochdurchsatz-Screening von Biokatalysatoren
 Alteration of the Donor/Acceptor Spectrum of the (S)-Amine Transaminase from Vibrio fluvialis

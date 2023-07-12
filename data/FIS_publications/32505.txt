@@ -1,4 +1,4 @@
-H?hne, Matthias	32505
+Höhne, Matthias	32505
 Crystallographic characterization of the (R)-selective amine transaminase from Aspergillus fumigatus
 Protein engineering from 'scratch' is maturing
 Immobilization of (R)- and (S)-amine transaminases on chitosan support and their application for amine synthesis using isopropylamine as donor

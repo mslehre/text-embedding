@@ -1,4 +1,4 @@
-Bernhardt, J?rg	33871
+Bernhardt, Jörg	33871
 Comparative proteome analysis reveals conserved and specific adaptation patterns of Staphylococcus aureus after internalization by different types of human non-professional phagocytic host cells.
 Highly precise quantification of protein molecules per cell during stress and starvation responses in Bacillus subtilis
 Altering gene expression by aminocoumarins: the role of DNA supercoiling in Staphylococcus aureus
