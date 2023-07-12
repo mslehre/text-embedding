@@ -63,5 +63,14 @@ def compute_similarity_of_files() -> str:
     return render_template("displaySimilarity.html", text1=texts_start[0], 
                            text2=texts_start[1], text=text)
 
+@app.route('/grantcall', methods=['POST', 'GET'])
+def navigateToGrantCallForm() -> str:
+    return render_template("grantCallForm.html")
+
+@app.route('/grantcallResult', methods=['POST', 'GET'])
+def calculateGrantCallResult() -> str:
+    text1 = request.form["text1"]
+    return render_template("displayGrantCallResult.html", text1=text1)
+
 if __name__ == '__main__':
     app.run(debug=True)
