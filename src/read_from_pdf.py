@@ -55,7 +55,7 @@ def main():
 
     parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
                        default = './',
-                       help = 'Directory in which all PDF files are converted into txt.')
+                       help = 'Directory in which all output text files are written.')
 
     # if argument c given it will be converted
     parser.add_argument('-c', '--files_to_convert', action = 'append', nargs = '+',
