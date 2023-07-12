@@ -1,0 +1,1482 @@
+       
+
+
+                           Prüfungs- und Studienordnung
+                      des Bachelorstudiengangs Biomathematik
+                   an der Ernst-Moritz-Arndt-Universität Greifswald
+
+                                      Vom 7. April 2014
+
+Fundstelle: Hochschulöffentlich bekannt gemacht am 31.03.2015
+
+Änderungen:
+  - § 6 Abs. 1, Musterstudienplan und Modulkatalog geändert durch Artikel 1 der 1. Än-
+     derungssatzung vom 18. November 2015 (hochschulöffentlich bekannt gemacht am
+     24. November 2015)
+   -   § 7 Abs. 8 aufgehoben durch Artikel 8 der Satzung zur Angleichung wesentlicher
+       Regelungen an die Neufassung der Rahmenprüfungsordnung 2021 vom 21. Juli
+       2021 (hochschulöffentlich bekannt gemacht am 21.07.2021)
+
+Hinweise:
+   - Die 1. Änderungssatzung vom 18.11.2015 ist am 25.11.2015 in Kraft getreten. Sie
+     gilt für alle Studierenden, die nach der Prüfungs- und Studienordnung vom 7. April
+     2014 studieren, und das Modul „Allgemeine Biologie“ noch nicht absolviert haben.
+   -   Die Satzung zur Angleichung wesentlicher Regelungen an die Neufassung der
+       Rahmenprüfungsordnung 2021 vom 21. Juli 2021 tritt am 01. Oktober 2021 in Kraft.
+
+Aufgrund von § 2 Absatz 1 in Verbindung mit § 38 Absatz 1 und § 39 Absatz 1 des Geset-
+zes über die Hochschulen des Landes Mecklenburg-Vorpommern (Landeshochschulge-
+setz – LHG M-V) in der Fassung der Bekanntmachung vom 25. Januar 2011 (GVOBl. M-V
+S. 18), zuletzt geändert durch Artikel 6 des Gesetzes vom 22. Juni 2012 (GVOBl. M-V
+S. 208, 211), erlässt die Ernst-Moritz-Arndt-Universität Greifswald für den Bachelor-
+studiengang Biomathematik (B. Sc. Biomathematik) die folgende Prüfungs- und Studien-
+ordnung als Satzung:
+
+Inhaltsverzeichnis:
+
+§1     Geltungsbereich
+§2     Ziele und Aufbau des Studiums
+§3     Veranstaltungsarten
+§4     Studienaufnahme
+§5     Teilprüfungen
+§6     Module
+§7     Modulprüfungen
+§8     Bachelorarbeit
+§9     Zusatzfächer
+§ 10   Ersatz biologischer Module
+§ 11   Bildung der Gesamtnote und Zeugnis
+§ 12   Akademischer Grad
+§ 13   Inkrafttreten, Übergangsregelungen
+
+Anlage A: Musterstudienplan
+Anlage B: Modulkatalog
+Anlage C: Diploma Supplement (deutsche und englische Version)
+
+                                                                                             1
+           
+
+
+                                                          § 1*
+                                                    Geltungsbereich
+
+Diese Prüfungsordnung regelt den Studieninhalt, Studienaufbau und das Prüfungsverfah-
+ren im Bachelorstudiengang Biomathematik der Ernst-Moritz-Arndt-Universität Greifswald.
+Im Übrigen gilt für alle weiteren Studien- und Prüfungsangelegenheiten die Rahmenprü-
+fungsordnung der Ernst-Moritz-Arndt-Universität Greifswald (RPO) vom 31. Januar 2012
+(Mittl.bl. BM M-V 2012 S. 394) in der jeweils geltenden Fassung unmittelbar.
+
+
+                                                       §2
+                                         Ziele und Aufbau des Studiums
+
+(1) Ziel der Ausbildung ist, den künftigen Bachelor of Science in Biomathematik mit sol-
+chen Kenntnissen, Fähigkeiten und Fertigkeiten zu versehen, dass er im Bereich der bio-
+logischen und medizinischen Forschung, der Planung, Entwicklung und Organisation in
+der Biotechnologie, der Pharmaindustrie oder im Umweltschutz flexibel einsetzbar ist.
+Gemäß dem Ausbildungsprofil sind dem Absolventen darüber hinaus auch Einsatzfelder
+eines Bachelors of Science in Mathematik zugänglich.
+
+(2) Die Studierenden sollen durch den Bachelor-Studiengang befähigt werden,
+       a) mathematische Konzepte, Methoden und Theorien zu verstehen und
+          anzuwenden,
+       b) die Bildung adäquater mathematischer Modelle für unterschiedlichste
+          Probleme in Biologie, Pharmazie und Medizin zu beherrschen sowie
+       c) Modellanalyse und Lösung des Problems mit mathematischen Methoden,
+          insbesondere unter kompetentem Gebrauch eines Computers, zu betreiben.
+
+(3) Die Zeit, in der in der Regel das Studium mit dem Bachelor of Science-Grad abge-
+schlossen werden kann (Regelstudienzeit), beträgt sechs Semester.
+
+(4) Der zeitliche Gesamtumfang, der für den erfolgreichen Abschluss des Studiums erfor-
+derlichen regelmäßigen Arbeitslast (workload), beträgt 5400 Stunden. Es sind insgesamt
+180 Leistungspunkte (LP) zu erwerben.
+
+(5) Ein erfolgreiches Studium setzt den Besuch der in den Modulen angebotenen
+Lehrveranstaltungen voraus. Die Studierenden haben die entsprechende Kontaktzeit
+eigenverantwortlich durch ein angemessenes Selbststudium zu ergänzen. Die jeweiligen
+Lehrkräfte geben hierzu für jedes Modul rechtzeitig Studienhinweise, insbesondere
+Literaturlisten heraus, die sich an den Qualifikationszielen und an der Arbeitsbelastung
+des Moduls orientieren.
+
+(6) Unbeschadet der Freiheit der Studierenden, den zeitlichen und organisatorischen
+Verlauf seines Studiums selbstverantwortlich zu planen, wird der Musterstudienplan
+(Anlage A) als zweckmäßig empfohlen. Für die qualitativen und quantitativen Beziehungen
+zwischen der Dauer der Module und der Leistungspunkteverteilung einerseits sowie den
+Lehrveranstaltungsarten und Semesterwochenstunden andererseits wird ebenfalls auf den
+Musterstudienplan verwiesen.
+
+
+*
+  Alle Personen- und Funktionsbezeichnungen in dieser Ordnung beziehen sich in gleicher Weise auf alle Personen bzw. Funktionsträ-
+ger, unabhängig von ihrem Geschlecht.
+
+                                                                                                                                 2
+       
+
+
+(7) Nach den Semestern 2, 3 und 4 besteht die Möglichkeit, ein Auslandssemester (Mobili-
+tätsfenster) zu absolvieren.
+
+
+                                            §3
+                                    Veranstaltungsarten
+
+Die Studieninhalte werden insbesondere in Vorlesungen, Seminaren und Übungen ange-
+boten. Zur Ergänzung können Veranstaltungsarten wie Kolloquien und Tutorien sowie Ex-
+kursionen angeboten werden.
+1. Vorlesungen dienen der systematischen Darstellung eines Stoffgebietes, der
+   Vortragscharakter überwiegt.
+2. Seminare sind Lehrveranstaltungen, in denen die Studierenden durch eigene mündliche
+   und schriftliche Beiträge sowie Diskussionen in das selbständige wissenschaftliche
+   Arbeiten eingeführt werden.
+3. Übungen führen die Studierenden in die praktische wissenschaftliche Tätigkeit bei
+   intensiver Betreuung durch Lehrpersonen ein. Sie vermitteln grundlegende Methoden
+   des wissenschaftlichen Arbeitens in den relevanten Fachgebieten und fördern die
+   Anwendung und Vertiefung der Lehrinhalte.
+4. Praktika sind durch die eigenständige Anwendung wissenschaftlicher Methoden auf
+   wissenschaftliche Fragestellungen gekennzeichnet. Sie dienen der Einübung und Ver-
+   tiefung praktischer Fähigkeiten und fördern das selbständige Bearbeiten wissenschaftli-
+   cher Aufgaben.
+
+
+                                             §4
+                                      Studienaufnahme
+
+Das Studium im Bachelorstudiengang Biomathematik kann nur im Wintersemester aufge-
+nommen werden.
+
+
+                                              §5
+                                        Teilprüfungen
+
+(1) Studierende, die nach Ablauf eines Semesters beabsichtigen, die Universität zu ver-
+lassen, und die Lehrveranstaltungen eines semesterübergreifenden Moduls besuchen,
+können gemäß § 8 Absatz 1 RPO beantragen, am Ende des Semesters eine Prüfung ab-
+zulegen, die sich auf die bereits absolvierten Teile des Moduls bezieht. Der Antrag ist spä-
+testens vier Wochen nach Ende der Vorlesungszeit an den Prüfungsausschussvorsitzen-
+den zu richten und im Zentralen Prüfungsamt einzureichen.
+
+(2) Studierende, denen nach § 43 RPO erbrachte Leistungsnachweise angerechnet wer-
+den, die sich nur auf einen Teil einer Modulprüfung beziehen, können über den fehlenden
+Teil des Moduls eine Teilprüfung ablegen.
+
+
+                                             §6
+                                            Module
+
+(1) Im Bachelorstudiengang werden folgende Module studiert:
+
+                                                                                             3
+           
+
+
+
+
+Legende:
+AB       Arbeitsbelastung in Stunden
+LP       Leistungspunkte
+PL       Prüfungsleistungen (Umfang nach § 7, Absatz 2)
+RPT      Regelprüfungstermin
+mP       mündliche Prüfung
+Kl 90    Klausur, Dauer 90 Minuten
+mP/Kl 90 mündliche Prüfung oder Klausur
+Üs       Übungsschein
+SV       Seminarvortrag
+TB       Teilnahmebestätigung
+*        Prüfungsleistung ist unbenotet
+
+Modul                           Dauer        AB        LP       PL                 RPT
+                                (Semester)                                         (Semester)
+Analysis                        2            540       18       2 Üs*              1. und 2.
+                                                                1 mP/Kl 90         2.
+Lineare Algebra und       2                  540       18       2 Üs*              1. und 2.
+analytische Geometrie                                           1 mP/Kl 90         2.
+Algorithmen und           2                  330       11       1 Üs*              1.
+Programmierung/ Com-                                            1 mP/Kl 90         1.
+puteralgebra                                                    1 Üs*              2.
+Diskrete Strukturen in    1                  270       9        1 Üs*              2.
+der Biologie                                                    1mP/Kl 90          2.
+Gewöhnliche Differential- 1                  210       7        1 Üs*              3.
+gleichungen/Proseminar                                          1 mP               3.
+                                                                1 SV*              4.
+Stochastik                      1            270       9        1 Üs*              3.
+                                                                1 mP               3.
+Genomanalyse/ Bioin-            2            300       10       1 Kl 90, 1 Üs*     3.
+formatisches Praktikum                                          1 Üs*              4.
+Mathematische Biologie          1            180       6        1 mP/Kl            4.
+Statistik                       1            270       9        1 Üs*              4.
+                                                                1 mP               4.
+Biometrie                       1            180       6        1 Üs*              5.
+                                                                1 mP/Kl 90         5.
+Wissenschaftliches Prä-         1            180       6        1 Üs*              5.
+sentieren                                                       1 SV*              6.
+Praxis des                      1            270       9        1 Üs*              5.
+Programmierens
+Numerik I                       1            270       9        1 Üs*              6.
+                                                                1 mP/Kl 90         6.
+Optimierung                     1            270       9        1 mP/Kl 90         6.
+Allgemeine Biologie             2            180       6        Kl 90/Kl 60        1. und 2.
+
+
+
+
+                                                                                                 4
+       
+
+
+Biochemische Grundla-       2           330        11       2 mP/Kl 90         3. und 4.
+gen                                                         1 Üs*              4.
+Molekulare Genetik und      1           150        5        1 Kl 90            3.
+Genomik
+Biologische Vertiefung I    2           150        5        2 TB*              5. und 6.
+Biologische Vertiefung II   1           150        5        1 Kl 90            6.
+Bachelorarbeit              1           360        12                          6.
+
+(2) Die Qualifikationsziele der einzelnen Module ergeben sich aus der Anlage B (Modulka-
+talog).
+
+
+                                             §7
+                                       Modulprüfungen
+
+(1) Mit Zustimmung von Prüfer und Prüfling kann eine Modulprüfung auch auf Englisch
+stattfinden.
+
+(2) Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfung, einer 90-
+minütigen Klausur, eines 60-minütigen Vortrages (Seminare) oder in Form von unbenote-
+ten Versuchsprotokollen über eigenständig durchgeführte Experimente in Übungen bzw.
+Praktika abgelegt. Die Kriterien für den Erhalt eines Übungsscheines bzw. einer Teilnah-
+mebestätigung legt der Dozent in der ersten Vorlesungswoche fest. Erfolgt keine Festle-
+gung, so sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten bzw. 3/4 der Veranstal-
+tungen zu besuchen.
+
+(3) Besteht eine Modulprüfung aus mehreren Prüfungsleistungen, muss jede mindestens
+bestanden werden. Nicht bestandene Prüfungsleistungen lassen bestandene Prüfungs-
+leistungen unberührt.
+
+(4) Soweit eine Wahl zwischen zwei Prüfungsleistungen (mündliche Prüfung oder Klausur)
+besteht, wird sie vom Prüfer in der ersten Vorlesungswoche getroffen. Erfolgt die Festle-
+gung nicht oder nicht innerhalb der Frist, gilt die in § 6 zuerst genannte Prüfungsform.
+
+(5) Vor mündlichen Prüfungen ist dem Studierenden die Gelegenheit zur Konsultation ein-
+zuräumen.
+
+(6) Klausuren werden nach der Begutachtung an die Studierenden zurückgegeben.
+
+(7) In den Modulprüfungen wird geprüft, ob und inwieweit der Studierende die Qualifikati-
+onsziele erreicht hat. Schriftliche Prüfungsleistungen werden von einem Prüfer bewertet;
+wenn es sich um den letzten Wiederholungsversuch handelt, ist ein zweiter Prüfer heran-
+zuziehen (§ 20 Absatz 2 RPO). Mündliche Prüfungen werden vor einem Prüfer in Gegen-
+wart eines sachkundigen Beisitzers abgelegt.
+
+
+
+
+                                                                                             5
+       
+
+
+                                             §8
+                                        Bachelorarbeit
+
+(1) Hat der Studierende mindestens 120 LP erworben, kann er die Ausgabe eines Themas
+für die Bachelorarbeit beantragen. Das Thema der Bachelorarbeit soll spätestens sechs
+Monate nach Beendigung der letzten Modulprüfung ausgegeben werden. Beantragt der
+Studierende das Thema später oder nicht, verkürzt sich die Bearbeitungszeit entspre-
+chend. Der Antrag auf Ausgabe des Themas der Arbeit soll spätestens 14 Tage vor dem
+Beginn der Bearbeitungszeit im Zentralen Prüfungsamt vorliegen (§ 28 Absatz 2 RPO).
+
+(2) Die Bearbeitungszeit für die Bachelorarbeit beträgt 360 Stunden (12 LP) im Verlauf von
+sechs Monaten.
+
+(3) Eine elektronische Fassung ist der Arbeit beizufügen. Zugleich hat der Studierende
+schriftlich zu erklären, dass von der Arbeit eine elektronische Kopie gefertigt und gespei-
+chert werden darf, um eine Überprüfung mittels einer Plagiatssoftware zu ermöglichen.
+
+
+                                             §9
+                                         Zusatzfächer
+
+Im Bachelorstudiengang Biomathematik können alle Module aus anderen Bachelorstudi-
+engängen als Zusatzfächer studiert werden. Die Module der Masterstudiengänge Mathe-
+matik, Biomathematik, Biodiversität und Ökologie, Humanbiologie, Molekularbiologie und
+Physiologie können mit Ausnahme der Abschlussarbeiten als Zusatzfächer studiert wer-
+den, wenn die bisherigen Studienleistungen hervorragend waren und der jeweilige Prü-
+fungsausschuss nach Rücksprache mit dem Zentralen Prüfungsamt zustimmt.
+
+
+                                            § 10
+                                Ersatz biologischer Module
+
+Auf Antrag des Studierenden kann der Prüfungsausschuss genehmigen, dass der Studie-
+rende eines der Module Molekulare Genetik und Genomik, Biologische Vertiefung I oder
+Biologische Vertiefung II durch ein anderes, umfangsgleiches Modul aus den Bachelorstu-
+diengängen Biologie oder Humanbiologie ersetzt. Der Antrag ist spätestens bis zur An-
+meldung der letzten Modulprüfung an den Vorsitzenden des Prüfungsausschusses zu rich-
+ten und beim Zentralen Prüfungsamt einzureichen.
+
+
+                                           § 11
+                                  Bildung der Gesamtnote
+
+(1) Für die Bachelorprüfung wird eine Gesamtnote gebildet. Die Gesamtnote errechnet
+sich entsprechend § 33 RPO aus den Noten der in Absatz 2 aufgeführten Modulprüfun-
+gen. Die Noten dieser Modulprüfungen gehen mit dem auf den jeweiligen relativen Anteil
+an Leistungspunkten bezogenen Gewicht ein, die Note für die Bachelorarbeit wird dabei
+mit dem zweifachen relativen Anteil gewichtet.
+
+
+
+
+                                                                                             6
+       
+
+
+(2) Die Noten der Module
+      Algorithmen und Programmierung/Computeralgebra-Systeme
+      Diskrete Strukturen in der Biologie
+      Gewöhnliche Differentialgleichungen/Proseminar
+      Stochastik
+      Genomanalyse/Bioinformatisches Praktikum
+      Mathematische Biologie
+      Statistik
+      Biometrie
+      Numerik I
+      Optimierung
+      Allgemeine Biologie
+      Biochemische Grundlagen
+      Molekulare Genetik und Genomik
+      Biologische Vertiefung II
+      Bachelorarbeit
+gehen in die Gesamtnote ein.
+
+
+                                           § 12
+                                     Akademischer Grad
+
+Aufgrund der bestandenen Bachelorprüfung wird der akademische Grad eines Bachelor of
+Science (abgekürzt: B. Sc.) vergeben.
+
+
+                                            § 13
+                           Inkrafttreten, Übergangsregelungen
+
+(1) Die Prüfungs- und Studienordnung tritt am Tag nach ihrer hochschulöffentlichen Be-
+kanntmachung in Kraft.
+
+(2) Die Prüfungsordnung gilt erstmals für die Studierenden, die zum Wintersemester
+2014/15 im Bachelorstudiengang Biomathematik immatrikuliert werden.
+
+(3) Für vor diesem Zeitpunkt immatrikulierte Kandidaten findet sie Anwendung, wenn der
+Kandidat dieses beantragt. Der Antrag ist schriftlich und bis zum 30.09.2015 beim Zentra-
+len Prüfungsamt einzureichen und an den Vorsitzenden des Prüfungsausschusses zu rich-
+ten. Der Antrag ist unwiderruflich.
+
+(4) Die Prüfungsordnung vom 18.03.2009 (Mittl.bl. BM M-V 2009 S. 579) und die Studien-
+ordnung vom 18.03.2009 (hochschulöffentlich bekannt gemacht am17.04.2009) treten
+zum 30.09.2018 außer Kraft.
+
+
+Ausgefertigt aufgrund des Beschlusses der Studienkommission des Senats vom 7. März
+2014, der mit Beschluss des Senats vom 18. April 2012 gemäß §§ 81 Absatz 7 LHG und
+20 Absatz 1 Satz 2 der Grundordnung die Befugnis zur Beschlussfassung verliehen wur-
+de, und der Genehmigung der Rektorin vom 7. April 2014.
+
+
+
+                                                                                             7
+        
+
+
+Greifswald, den 7. April 2014
+
+
+
+                                      Die Rektorin
+                      der Ernst-Moritz-Arndt-Universität Greifswald
+                   Universitätsprofessorin Dr. Johanna Eleonore Weber
+
+
+Veröffentlichungsvermerk: Hochschulöffentlich bekannt gemacht am 31.03.2015
+
+
+
+
+                                                                                              8
+                                     ERNST-MORITZ-ARNDT-UNIVERSITÄT GREIFSWALD
+                                   MATHEMATISCH-NATURWISSENSCHAFTLICHE FAKULTÄT
+                                         Institut für Mathematik und Informatik
+
+
+                                                 Musterstudienplan
+                                                     Bachelor of Science
+                                                       Biomathematik
+Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung (mP), einer 90-minütigen Klausur (Kl) oder
+eines 60-minütigen Vortrages (Seminare) (Sems) abgelegt. Davon abweichend werden im Modul „Allgemeine Biologie“
+eine 90- und 60-minütige Klausur abgelegt. Die Kriterien für den Erhalt eines Übungsscheines bzw. einer Teilnahmebestätigung
+legt der Dozent in der ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+zu bearbeiten bzw. 3/4 der Veranstaltungen zu besuchen.
+
+Musterstudienplan Bachelor Biomathematik
+
+Semester Veranstaltung                                                                  Art D Prüfungsart                 LP
+                                                                                    V   Ü S
+
+            Analysis beginnt                                                        4       2     2 Üs*                    9
+            Lineare Algebra und analytische Geometrie beginnt                       4       2     2 Üs*                    9
+    1       Algorithmen und Programmierung/Computeralgebrasysteme
+
+
+
+
+                                                                                                                               30
+            beginnt                                                                 4       2     2 mP+Üs*/Kl+Üs*          9
+            Allgemeine Biologie beginnt                                             2             2 Kl                     3
+
+            Analysis endet                                                          4       2     2 mP+Üs*/Kl+Üs*          9
+            Lineare Algebra und analytische Geometrie endet                         4       2     2 mP+Üs*/Kl+Üs*          9
+
+    2
+            Diskrete Strukturen in der Biologie                                     4       2     1 mP+Üs*/Kl+Üs*          9
+
+
+
+
+                                                                                                                               32
+            Allgemeine Biologie endet                                               3             2 Kl                     3
+            Algorithmen und Programmierung/Computeralgebrasysteme
+                                                                                        2         2 Üs*                    2
+            endet
+
+            Gewöhnliche Differentialgleichungen/Proseminar                          2       1   2 1 mP+Üs*,SV*             7
+            Stochastik                                                              4       2     1 mP+Üs*                 9
+
+    3                                                                               2       2     2 Kl, Üs*                6
+
+
+                                                                                                                               30
+            Genomanalyse/Bioinformatisches                   Praktikum beginnt
+            Biochemische Grundlagen beginnt                                         3             2 mP/Kl                  3
+            Molekulare Genetik und Genomik                                          4             1 Kl                     5
+
+            Mathematische Biologie                                                  3       1     1 mP/Kl                  6
+            Statistik                                                               4       2     1 mP+Üs*                 9
+    4
+                                                                                                                               27
+
+
+
+
+                                                                                    2       2     2 Üs*                    4
+            Genomanalyse/Bioinformatisches                  Praktikum endet
+            Biochemische Grundlagen endet                                           4 2,5         2 mP+Üs*/Kl+Üs*          8
+
+            Biometrie                                                               2       2     1 Kl                     6
+            Wissenschaftliches Präsentieren                                                 2   2 1 Üs*, SV*               6
+    5       Praxis des Programmierens                                               4       2     1 Üs*                    9
+                                                                                                                               29
+
+
+
+
+            Biologische Vertiefung I beginnt                                        2             2 TB*                    3
+            Biologische Vertiefung II                                               4             2 Kl                     5
+
+            Numerik I                                                               4       2     1 mP+Üs*/Kl+Üs*          9
+            Optimierung                                                                                                    9
+    6
+                                                                                    4       2     1 mP/Kl
+                                                                                                                               32
+
+
+
+
+            Biologische Vertiefung I endet                                          2             2 TB*                    2
+            Bachelorarbeit                                                                        1                       12
+                                                                                                   Summe   180
+Legende:
+Art V: Vorlesung (Umfang in SWS)
+Art Ü: Übung (Umfang in SWS)
+Art S: Seminar (Umfang in SWS)
+Prüfungsart mP/Kl: mündliche Prüfung oder Klausur
+Prüfungsart mP+Üs/Kl+Üs: mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
+Prüfungsart mP: mündliche Prüfung
+Prüfungsart Kl: Klausur
+Prüfungsart Üs: Übungsschein
+Prüfungsart TB: Teilnahmebestätigung
+Prüfungsart SV: Seminarvortrag
+* Prüfungsleistung ist unbenotet
+LP: ECTS-Leistungspunkte
+D: Dauer des zugehörigen Moduls in Semestern
+  E RNST-M ORITZ -A RNDT-U NIVERSIT ÄT G REIFSWALD
+M ATHEMATISCH -N ATURWISSENSCHAFTLICHE FAKULT ÄT
+         Institut für Mathematik und Informatik
+
+
+
+
+              Modulkatalog
+             Bachelor of Science
+                Biomathematik
+Inhaltsverzeichnis
+
+Mathematik                                                                                   3
+  Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     4
+  Lineare Algebra und Analytische Geometrie . . . . . . . . . . . . . . . . . . .            6
+  Algorithmen und Programmierung / Computeralgebra . . . . . . . . . . . . .                 8
+  Diskrete Strukturen in der Biologie . . . . . . . . . . . . . . . . . . . . . . . .       10
+  Gewöhnliche Differentialgleichungen / Proseminar . . . . . . . . . . . . . . .           11
+  Stochastik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    13
+  Genomanalyse / Bioinformatisches Praktikum . . . . . . . . . . . . . . . . . .            14
+  Mathematische Biologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        15
+  Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+  Biometrie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     17
+  Wissenschaftliches Präsentieren . . . . . . . . . . . . . . . . . . . . . . . . .        18
+  Praxis des Programmierens . . . . . . . . . . . . . . . . . . . . . . . . . . . .         19
+  Numerik I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     20
+  Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     21
+
+Biologie                                                                                    22
+   Allgemeine Biologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      23
+   Biochemische Grundlagen . . . . . . . . . . . . . . . . . . . . . . . . . . . .          25
+   Molekulare Genetik und Genomik . . . . . . . . . . . . . . . . . . . . . . . .           27
+   Biologische Vertiefung I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     28
+   Biologische Vertiefung II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    29
+
+Bachelorarbeit                                                                              31
+  Bachelorarbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      32
+
+
+
+
+Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung,
+einer 90-minütigen Klausur oder eines 60-minütigen Vortrages (Seminare) abgelegt.
+Davon abweichend werden im Modul ”Allgemeine Biologie” eine 90- und 60-minütige
+Klausur abgelegt. Die Kriterien für den Erhalt eines Übungsscheines legt der Do-
+zent in der ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der
+Übungsaufgaben erfolgreich zu bearbeiten. Übungsscheine und Seminarscheine sind
+unbenotete Prüfungsleistungen.
+
+
+
+
+                                              2
+Mathematik
+Modul Analysis
+Verantwortlicher         Professur Analysis
+Lehrformen               Vorlesung (8 SWS) und Übung (4 SWS)
+Dauer/Turnus             2 Sem., jeweils 4+2 SWS im WiSe und SoSe, beginnend
+                         jährlich im WiSe
+Inhalt
+   • Axiomatik der reellen Zahlen und elementaren Funktionen
+   • Konvergenz von Folgen und Reihen
+   • Metrische Räume, Banachscher Fixpunktsatz
+   • Differential- und Integralrechnung von Funktionen in einer oder mehreren Varia-
+     blen
+   • Grundbegriffe der Vektoranalysis, Integrale über Kurven und Flächen, Satz von
+     Stokes
+   • analytische Behandlung von einfachen Modellen für physikalische und biologi-
+     sche Prozesse
+
+Qualifikationsziele
+   • Beherrschung der grundlegenden Methoden der Analysis in einem systemati-
+     schen Aufbau,
+   • Basiswissen für das gesamte weitere Studium,
+   • Kompetenzen in den grundlegenden Prinzipien der Analysis, insbesondere die
+     Bedeutung von Grenzübergängen,
+   • sichere Beherrschung verschiedener Beweistechniken,
+   • Befähigung zur sicheren Differentiation in mehreren Variablen,
+   • Befähigung zur Berechnung einfacher mehrdimensionaler Integrale sowie einfa-
+     cher Kurven- und Flächenintegrale,
+   • Beherrschung mathematischer Arbeitsweisen (Entwickeln von mathematischer
+     Intuition und deren formale Begründung, mathematische Begriffsbildung),
+   • grundlegendes Verständnis für die praktische und gesellschaftliche Relevanz von
+     mathematischen Modellen für physikalische und biologische Prozesse,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Vorkenntnisse            keine
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung. Zusätzlich sind
+                         zwei Übungsscheine (zu Analysis I und zu Analysis II) zu er-
+                         werben. Die Kriterien für den Erhalt eines Übungsscheines
+                         legt der Dozent in der ersten Vorlesungswoche fest. Erfolgt
+                         keine Festlegung, so sind 50 % der Übungsaufgaben erfolg-
+                         reich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             540 (Vorlesung: 120, Übung: 60, Selbststudium: 360)
+Leistungspunkte          18
+
+
+                                         4
+Modulart               Pflichtmodul im 1.-2. Sem.
+Regelprüfungstermin   Übung I: 1. Sem., Übung II: 2. Sem., Modulprüfung: 2. Sem
+
+
+
+
+                                      5
+Modul Lineare Algebra und Analytische Geometrie
+Verantwortlicher          Professur Algebra und funktionalanalytische Anwendungen,
+                          Professur Algebraische Methoden der Analysis
+Lehrformen                Vorlesung (8 SWS) und Übung (4 SWS)
+Dauer/Turnus              2 Sem., jeweils 4+2 SWS im WiSe und SoSe, beginnend
+                          jährlich im WiSe
+Inhalt
+   • Gruppen und Körper, Vektorräume, lineare Abbildungen, Matrizen, lineare Glei-
+     chungssysteme, Gauß-Algorithmus, Basis und Dimension, Determinanten, Ska-
+     larprodukte, euklidische und unitäre Vektorräume, Länge von Vektoren, Winkel,
+     Orthogonalität, Diagonalisierbarkeit, charakteristisches Polynom, Minimalpoly-
+     nom, Eigenwerte, symmetrische und hermitesche Matrizen, Satz von der Haupt-
+     achsentransformation, nilpotente Matrizen, Jordansche Normalform, normale
+     Matrizen, Normalform orthogonaler Matrizen, Exponential einer Matrix, Anwen-
+     dungen Markov-Ketten, lineare Differentialgleichungen, affine Geometrie, affine
+     und euklidische Punkträume, Kegelschnitte, Tensorprodukte von Vektorräumen,
+     Kodierungstheorie, Satz von Perron-Frobenius
+
+Qualifikationsziele
+   • Kenntnis und Beherrschung grundlegender Prinzipien algebraischer Strukturen
+     und deren Anwendung auf einfache mathematische Fragestellungen,
+   • Beherrschung von mathematischem Basiswissen als Grundlage des gesamten
+     weiteren Studiums,
+   • Befähigung zu mathematischen Arbeitsweisen (Entwicklung mathematischer In-
+     tuition, Aneignung der Fähigkeit, formal und verständlich zu begründen, Schulung
+     des Abstraktionsvermögens, Einsicht in den axiomatischen Aufbau mathemati-
+     scher Fachgebiete anhand durchsichtiger Strukturen),
+   • Kenntnisse über den strukturellen Aufbau der Mathematik,
+   • Befähigung zur Erkennung der Zusammenhänge zwischen abstrakten mathema-
+     tischen Theorien und konkreten Beispielen,
+   • Befähigung zur Anwendung des Erlernten für praktische Fragestellungen,
+   • Bereitschaft zur Diskussion und zum gemeinsamen Erarbeiten von Ergebnissen
+     und Kommunikationsfähigkeit durch freie Rede vor einem Publikum.
+
+Vorkenntnisse            keine
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung. Zusätzlich sind
+                         zwei Übungsscheine (zu Linearer Algebra und analytischer
+                         Geometrie I und zu Linearer Algebra und analytischer Geo-
+                         metrie II) zu erwerben. Die Kriterien für den Erhalt eines
+                         Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                         woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                         Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             540 (Vorlesung: 120, Übung: 60, Selbststudium: 360)
+
+
+                                         6
+Leistungspunkte        18
+Modulart               Pflichtmodul im 1. und 2. Sem.
+Regelprüfungstermin   Übung I: 1. Sem., Übung II: 2. Sem., Modulprüfung: 2. Sem
+
+
+
+
+                                      7
+Modul Algorithmen und Programmierung / Computeralgebra
+Verantwortlicher          Professuren Informatik
+Lehrformen                Algorithmen und Programmierung: Vorlesung (4 SWS) und
+                          Übung (2 SWS), Computeralgebra: Übung (2 SWS)
+Dauer/Turnus              1 Sem., jährlich, Algorithemen und Programmierung im Wi-
+                          Se, Computeralgebra im SoSe
+Inhalt
+Algorithmen und Programmierung:
+   • grundlegende algorithmische Probleme (Suchen, Sortieren)
+   • elementare Datenstrukturen (Listen, Stacks, Queues, Suchbäume)
+   • Entwurfstrategien für Algorithmen (Teile und Herrsche, Greedy)
+   • Analyse von Algorithmen (O-Notation, Laufzeit, Speicherbedarf)
+   • grundlegende Aspekte der objektorientierten Programmierung in JAVA
+
+Computeralgebra:
+  • Nutzung von Computeralgebrasystemen zur Lösung von Standardaufgaben
+    wie: Faktorisierung, Nullstellenbestimmung, Termvereinfachung, Differenzie-
+    ren/Integrieren
+  • Erstellung einfacher Programme in einem Computeralgebrasystem
+
+Qualifikationsziele
+Algorithmen und Programmierung:
+   • grundlegendes Verständnis für den Begriff des Algorithmus,
+   • Kompetenzen in der Bewertung von Algorithmen hinsichtlich Ihrer Leis-
+     tungsfähigkeit,
+   • Befähigung zum Entwurf einfacher Algorithmen,
+   • Befähigung zur Erstellung einfacher Programme in JAVA.
+
+Computeralgebra:
+  • Befähigung zur Lösung von Standardaufgaben (Faktorisierung, Nullstellenbe-
+    rechnung, Termvereinfachung, Differentiation/Integration) mit Hilfe von Compu-
+    teralgebrasystemen,
+  • Befähigung zur Erstellung von einfachen Programmen in Computeralgebrasyste-
+    men,
+  • Befähigung zur Analyse und Bearbeitung komplexer, praktischer Aufgabenstel-
+    lungen.
+
+Vorkenntnisse           Abitur
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung zu Algorithmen
+                        und Programmierung. Zusätzlich sind zwei Übungsscheine
+                        (zu Algorithmen und Programmierung und zu Compu-
+                        teralgebra) zu erwerben. Die Kriterien für den Erhalt der
+                        Übungsscheine legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+
+                                       8
+Note                   Note der Modulprüfung
+Aufwand in h           330 (Vorlesung: 60, Übung: 60, Selbststudium: 210)
+Leistungspunkte        11
+Modulart               Pflichtmodul im 1. und 2. Sem.
+Regelprüfungstermin   Übung: 1. und 2. Sem., Modulprüfung: 1. Sem.
+
+
+
+
+                                      9
+Modul Diskrete Strukturen in der Biologie
+Verantwortlicher       Professur Diskrete Biomathematik
+Lehrformen             Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus           1 Sem., jährlich im SoSe
+Inhalt
+   • Kombinatorik
+   • Grundlagen der Graphentheorie
+   • Populationsgenetik: Hardy-Weinberg, Fisher-Wright-Haldane
+   • Phylogenetik: Satz von Buneman, Fitch-Algorithmus
+   • Metriken im Tree Space
+
+Qualifikationsziele
+Vertrautheit mit den grundlegenden Konzepten der mathematischen Modellierung von
+biologischen Sachverhalten, speziell in der Populationsgenetik und Phylogenetik.
+Vorkenntnisse            Lineare Algebra 1, Analysis 1
+Prüfung                 Übungsschein, 90-minütige Klausur oder 30-minütige
+                         mündliche Prüfung nach Vorgabe des Dozenten. Die Kriteri-
+                         en für den Erhalt eines Übungsscheines legt der Dozent in
+                         der ersten Vorlesungswoche fest. Erfolgt keine Festlegung,
+                         so sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Regelprüfungstermin Übung: 2. Sem., Modulprüfung: 2. Sem.
+Modulart                 Pflichtmodul im 2. Sem.
+
+
+
+
+                                       10
+Modul Gewöhnliche Differentialgleichungen / Proseminar
+Verantwortlicher          Professur Analysis
+Lehrformen                Vorlesung (2 SWS), Übung (1 SWS), Seminar (2 SWS)
+Dauer/Turnus              1 Sem., Gewöhnliche Differentialgleichungen: jährlich im Wi-
+                          Se, Proseminar: jährlich im SoSe
+Inhalt
+Gewöhnliche Differentialgleichungen:
+   • Grundbegriffe, Definition, Anfangswertproblem, autonome Differentialgleichun-
+     gen
+   • Lösungstheorie: Existenz- und Eindeutigkeit einer Lösung, Abhängigkeit von den
+     Anfangsbedingungen
+   • lineare Differentialgleichungssysteme: Grundlagen, Beziehung zwischen ho-
+     mogener und inhomogener Gleichung, Exponential von Matrizen, Wronski-
+     Determinante
+   • Differentialgleichungs-Modelle von dynamischen Prozessen aus Physik und Bio-
+     logie
+
+Proseminar:
+   • ergänzende Themen aus der Analysis und der linearen Algebra, aufbauend auf
+     den Vorlesungen Analysis I und II und Lineare Algebra
+
+Qualifikationsziele
+Gewöhnliche Differentialgleichungen:
+  • Kenntnisse über die Lösbarkeit gewöhnlicher Differentialgleichungen,
+  • Befähigung zur Lösung spezieller Typen von Differentialgleichungen,
+  • Beherrschung von einfachen Problemen aus der Physik, Biologie und Technik,
+     die sich durch gewöhnliche Differentialgleichungen beschreiben lassen,
+  • Befähigung zur Analyse von dynamischen Prozessen und Verständnis für deren
+     praktische Bedeutung,
+  • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Proseminar:
+   • Befähigung zur selbständigen Beschäftigung mit einem mathematischen Thema,
+   • Befähigung, einen strukturierten, effizienten und auf die Kompetenzen des Publi-
+     kums zugeschnittenen Vortrag zu halten,
+   • Kompetenzen in der Diskussionsführung.
+
+Vorkenntnisse             Analysis, Lineare Algebra
+Prüfung                  Gewöhnliche Differentialgleichungen: Die Modulprüfung be-
+                          steht aus einer 30-minütigen mündlichen Prüfung. Die Krite-
+                          rien für den Erhalt eines Übungsscheines legt der Dozent in
+                          der ersten Vorlesungswoche fest. Erfolgt keine Festlegung,
+                          so sind 50 % der Übungsaufgaben erfolgreich zu bearbei-
+                          ten. Proseminar: Die Prüfungsleistung besteht aus einem
+                          60-minütigen Vortrag zu einem vereinbarten Thema.
+
+                                         11
+Note                   Note der Modulprüfung
+Aufwand in h           210 (Vorlesung: 30, Übung: 15, Seminar: 30, Selbststudium:
+                       135)
+Leistungspunkte        7
+Modulart               Pflichtmodul im 3. und 4. Sem.
+Regelprüfungstermin   Übung: 3. Sem., Modulprüfung: 3. Sem., Proseminar: 4.
+                       Sem.
+
+
+
+
+                                     12
+Modul Stochastik
+Verantwortlicher         Professur Stochastik
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WiSe
+Inhalt
+Grundlegende Konzepte und Denkweisen der Stochastik:
+   • Wahrscheinlichkeitsraum, Ereignisse und Zufallsgrößen
+   • Verteilung, Verteilungsfunktion und Dichtefunktion, Erwartungswert und Streu-
+     ung, Quantile
+   • bedingte Wahrscheinlichkeit, Unabhängigkeit, Korrelation, Regression
+   • Gesetz der großen Zahlen, Binomial-, Normal- und Poissonverteilung
+
+Weiterführende Fragestellungen:
+  • Faltung von Zufallsgrößen, Zentraler Grenzwertsatz, Einführung in Markov-
+     Ketten, Grundideen der Statistik, Poisson-Prozess
+
+Qualifikationsziele
+   • grundlegendes sicheres Verständnis für stochastische Konzepte und Fragestel-
+     lungen,
+   • Befähigung zur Einordnung und adäquaten Lösung von einfachen stochastischen
+     Problemen,
+   • Verständnis für grundlegende Fakten und Zusammenhänge der Stochastik,
+   • Befähigung zur Formulierung stochastischer Modelle und zu deren Anwendung
+     in vielfältigen, auch gesellschaftlichen, Zusammenhängen,
+   • Beherrschung der Grundlagen für die Module Statistik und Randomisierte Algo-
+     rithmen sowie für verschiedene Wahlpflichtmodule (Finanz- und Versicherungs-
+     mathematik, Spieltheorie, multivariate Statistik).
+
+Vorkenntnisse           Analysis I, Lineare Algebra I
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                        Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul im 3. Sem.
+Regelprüfungstermin    Übung: 3. Sem., Modulprüfung: 3. Sem.
+
+
+
+
+                                       13
+Modul Genomanalyse / Bioinformatisches Praktikum
+Verantwortlicher        Professur Bioinformatik
+Lehrformen              Genomanalyse: Vorlesung (2 SWS), Übung (2 SWS)
+                        Bioinformatisches Praktikum: Vorlesung (2 SWS), Übung (2
+                        SWS)
+Dauer/Turnus            2 Sem., Genomanalyse: jährlich im WiSe, Bioinformatisches
+                        Praktikum: jährlich im SoSe
+Inhalt
+Genomanalyse:
+   • dynamisches Programmieren
+   • Sequenzierung und Assemblierung (DeBrujn-Graphen)
+   • Sequenzalignment (global/lokal, paarweise/multipel)
+   • Homologiesuche (BLAST, profilHMMs)
+   • Genvorhersage (HMMs)
+   • Phylogenie (Fitch-Algorithmus)
+
+Bioinformatisches Praktikum:
+   • Praktische Arbeit mit Bioinformatik-Werkzeugen, z.B. für die Genomanalyse
+   • Skriptsprache PERL
+   • Erstellung eigener Skripte zur Biodatenanalyse
+   • Genombrowser
+   • Phylogenieprogramme
+
+Qualifikationsziele
+   • Verständnis der grundlegenden Algorithmen zur Genomanalyse.
+   • Kenntnis der Scoring-Modelle für die wichtigsten Optimierungsprobleme der Ge-
+     nomik.
+   • Fähigkeit, eine Analysepipeline aus vorhandenen Primärtools selbständig aufzu-
+     bauen.
+
+Vorkenntnisse            Algorithmen und Programmierung
+Prüfung                 Jeweils einen Übungsschein für “Genomanalyse” und “Bio-
+                         informatisches Praktikum” sowie eine 90-minütige Klausur
+                         über “Genomanalyse”.
+Note                     Note der Klausur
+Aufwand in h             300 (Vorlesung: 60, Übung: 60, Selbststudium: 180)
+Leistungspunkte          10
+Modulart                 Pflichtmodul im 3. und 4. Sem.
+Regelprüfungstermin     Genomanalyse: 3. Sem., Praktikum: 4. Sem.
+
+
+
+
+                                        14
+Modul Mathematische Biologie
+Verantwortlicher     Professur Biomathematik
+Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus         1 Sem., jährlich im SoSe
+Inhalt
+   • Modelle der Populationsdynamik
+   • Modelle der Dynamik von ansteckenden Krankheiten
+   • Modelle biochemischer Reaktionen
+   • Populationsgenetik
+   • Reaktions-Diffusionsgleichungen
+   • Modellierung ehelicher Interaktionen
+
+Qualifikationsziele
+Vertrautheit mit grundlegenden Konzepten der mathematischen Biologie
+Vorkenntnisse             Analysis, Gewöhnliche Differentialgleichungen, Stochastik
+Prüfung                  90-minütige Klausur oder 30-minütige mündliche Prüfung
+Note                      Note der Modulprüfung
+Aufwand in h              180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte           6
+Modulart                  Pflichtmodul im 4. Sem.
+Regelprüfungstermin 4. Sem.
+
+
+
+
+                                        15
+Modul Statistik
+Verantwortlicher        Professur Biomathematik, Professur Stochastik, Professur
+                        Algebra und funktionalanalytische Anwendungen
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im SoSe
+Inhalt
+   • Grundlegende Fragestellungen der deskriptiven und der schließenden Statistik
+   • Statistische Modellierung und Verteilungsannahmen
+   • Punktschätzer, Konfidenzbereiche, statistische Tests
+   • Einfache Gütekriterien für Schätzer und Tests
+   • Weiterführende Fragestellungen: Varianzanalyse, multiples Testen, robuste Ver-
+     fahren, nichtparametrische Verfahren, Bootstrap
+   • Verwendung von Statistik-Software (Übungen)
+
+Qualifikationsziele
+   • Verständnis für die grundlegenden Fragestellungen der Statistik,
+   • Befähigung zur systematischen Formulierung, Einordnung und adäquaten
+     Lösung von einfachen statistischen Problemen,
+   • Beherrschung von Standardschätz- und Testverfahren und deren Anwendung
+     mithilfe von Statistik-Software,
+   • Verständnis für die Breite der statistischen Verfahren,
+   • Kompetenz zur sicheren Beurteilung der Ergebnisse statistischer Standardme-
+     thoden,
+   • Beherrschung des nötigen Grundwissens für fortgeschrittene Lehrveranstaltun-
+     gen aus dem Bereich Statistik.
+
+Vorkenntnisse           Analysis I, II, Lineare Algebra I, Stochastik
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                        Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul im 4. Sem.
+Regelprüfungstermin    Übung: 4. Sem., Modulprüfung: 4. Sem.
+
+
+
+
+                                       16
+Modul Biometrie
+Verantwortlicher        Professur Biomathematik
+Lehrformen              Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im WiSe
+Inhalt
+   • Biometrische Modellierung: Genetik
+   • Biometrische Modellierung: Pharmakokinetik
+   • Methodik klinischer Studien: allgemeine Prinzipien und rechtlicher Rahmen, aus-
+     gewählte statistische Methoden
+
+Qualifikationsziele
+   • Fundierte Kenntnisse in der statistischen Modellierung genetischer Ge-
+     setzmäßigkeiten,
+   • Kompetenzen zur Evaluierung pharmakokinetischer Modelle in Bezug auf Daten-
+     qualität, mathematischen Ansatz und Methoden der Parameterberechnung,
+   • Fundiertes Wissen zur Regulierung klinischer Studien,
+   • Detailkenntnisse zu ausgewählten statistischen Methoden im Kontext klinischer
+     Studien,
+   • Fähigkeit zur Kontext-bezogenen Interpretation der Ergebnisse biometrischer
+     Modellierungen und Datenauswertungen.
+
+Vorkenntnisse           Statistik, Gewöhnliche Differentialgleichungen, Mathemati-
+                        sche Biologie
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die Kriterien
+                        für den Erhalt eines Übungsscheines legt der Dozent in der
+                        ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+                        sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Modulart                Pflichtmodul im 5. Sem.
+Regelprüfungstermin    5. Sem.
+
+
+
+
+                                       17
+Modul Wissenschaftliches Präsentieren
+Verantwortlicher       Professur Analysis, Professur Numerische Mathematik und
+                       Optimierung, Professur Angewandte Mathematik, Profes-
+                       suren Informatik, Professur Algebra und funktionalanalyti-
+                       sche Anwendungen, Professur Stochastik, Professur Statis-
+                       tik, Professur Algebraische Methoden der Analysis
+Lehrformen             Seminar (2 SWS) und Praktikum (2 SWS)
+Dauer/Turnus           2 Sem., Seminar jedes Semester, Praktikum jährlich im WiSe
+Inhalt
+Seminar:
+   • ergänzende Themen aus dem Bereich Analysis/Optimierung, aus dem Bereiche
+     Diskrete Mathematik/Algorithmik oder aus dem Bereich Stochastik/Statistik
+
+Statistisches Praktikum:
+   • Umgang mit statistischer Software
+   • Behandlung realer Datensätze
+   • Umsetzung statistischer Methoden
+
+Qualifikationsziele
+
+   • Befähigung zur selbständigen Beschäftigung mit einem mathematischen Thema,
+   • Befähigung, einen strukturierten, effizienten und auf die Kompetenzen des Publi-
+     kums zugeschnittenen Vortrag zu halten,
+   • Kompetenzen in der Diskussionsführung;
+   • Befähigung zur informativen Visualisierung realer Daten,
+   • Beherrschung der adäquaten Auswahl statistischer Methoden für reale Da-
+     tensätze.
+
+Vorkenntnisse            Analysis, Lineare Algebra, Stochastik, Statistik
+Prüfung                 Die Modulprüfung besteht aus einem 60-minütigen Vortrag
+                         zu einem vereinbarten Thema. Die erfolgreiche Teilnahme
+                         am Praktikum ist notwendig für das Absolvieren des Moduls
+                         (1 Übungsschein).
+Note                     keine
+Aufwand in h             180 (Seminar: 30, Praktikum: 30, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Pflichtmodul im 5. und 6. Sem.
+Regelprüfungstermin     Seminar: 5. und 6. Sem., Statistisches Praktikum: 5.Sem.
+
+
+
+
+                                         18
+Modul Praxis des Programmierens
+Verantwortlicher      Professuren Informatik
+Lehrformen            Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., jährlich im WiSe
+Inhalt
+   • aktuelle Werkzeuge zur Erstellung und Verwaltung komplexerer Softwareprojekte
+     (integrierte Entwicklungsumgebungen, Versionsverwaltung und Programmieren
+     im Team, Debugging, Profiling)
+   • weiterführende Themen der Programmierung in einer objektorientierten Pro-
+     grammiersprache (GUI, Exceptions, Threads, Typvariablen)
+
+Qualifikationsziele
+   • Befähigung zur selbständigen Planung komplexerer Anwendungen einschließlich
+     graphischer Benutzerschnittstelle,
+   • Beherrschung der Implementierung in einer objektorientierten Programmierspra-
+     che (Java oder C++),
+   • Kenntnisse über gängige Werkzeuge zur Softwareentwicklung und deren Anwen-
+     dung,
+   • Fähigkeit, sich selbständig in neue Werkzeuge und Sprachen einzuarbeiten.
+
+Vorkenntnisse           Einführung in die EDV, Algorithmen und Programmierung
+Prüfung                Die Kriterien für den Erhalt eines Übungsscheines legt der
+                        Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                        Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                        zu bearbeiten.
+Note                    keine
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul im 5. Sem.
+Regelprüfungstermin    5. Sem.
+
+
+
+
+                                      19
+Modul Numerik I
+Verantwortlicher        Professur Angewandte Mathematik, Professur Numerische
+                        Mathematik und Optimierung
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im SoSe
+Inhalt
+   • Grundlagen der Gleitpunktarithmetik
+   • Fehleranalyse
+   • Verfahren zur Lösung von linearen und nichtlinearen Gleichungssystemen und
+     Ausgleichsproblemen
+   • Interpolation (Polynome und Splines) und Quadratur (Newton-Cotes und Gauß)
+
+Qualifikationsziele
+  • Kenntnisse zur Interpretation numerischer Resultate,
+  • Kenntnisse zur Anwendbarkeit numerischer Approximationsverfahren,
+  • Kompetenzen beim Einsatz numerischer Software,
+  • Kompetenzen bei der Entwicklung numerischer Software,
+  • Befähigung zur Lösung spezieller Grundaufgaben der Numerik,
+  • Befähigung zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse.
+
+Vorkenntnisse           Analysis I, II, Lineare Algebra I, II
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die Kriterien
+                        für den Erhalt eines Übungsscheines legt der Dozent in der
+                        ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+                        sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul im 6. Sem.
+Regelprüfungstermin    Übung: 6. Sem., Modulprüfung: 6. Sem.
+
+
+
+
+                                      20
+Modul Optimierung
+Verantwortlicher       Professur Angewandte Mathematik, Professur Numerische
+                       Mathematik und Optimierung
+Lehrformen             Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus           1 Sem., jährlich im SoSe
+Inhalt
+   • Grundlagen der linearen Optimierung
+   • Dualitätstheorie
+   • Simplexverfahren
+   • duales Simplexverfahren
+   • Innere-Punkte-Methoden
+   • Anwendungprobleme: Transportprobleme, Zuordnungsprobleme
+
+Qualifikationsziele
+  • Kenntnisse über die Bedeutung und Herkunft linearer Optimierungsprobleme,
+  • Kompetenzen zur Lösung linearer Optimierungsprobleme,
+  • Befähigung zur konkreten Umsetzung der entsprechenden Lösungsmethoden,
+  • Befähigung zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse,
+  • Kompetenzen zur mathematischen Modellierung von komplexen Prozessen.
+
+Vorkenntnisse          Analysis I, II; Lineare Algebra I, II
+Prüfung               Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                       oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                       nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                       lesung und Übung sind Thema der Prüfung.
+Note                   Note der Modulprüfung
+Aufwand in h           270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte        9
+Modulart               Pflichtmodul im 6. Sem.
+Regelprüfungstermin   6. Sem.
+
+
+
+
+                                      21
+Biologie
+Modul Allgemeine Biologie
+Verantwortlicher           Professur für Cytologie und Evolutionsbiologie, Professur für
+                           Tierökologie
+Lehrformen                 Cytologie: Vorlesung (2 SWS),
+                           Ökologie: Vorlesung (3 SWS)
+Dauer/Turnus               2 Sem., Cytologie: jährlich im WiSe, Ökologie: jährlich im So-
+                           Se
+Inhalt
+Vorlesung Cytologie“
+            ”
+   • Grundaufbau von Zellen; Prozyte, Euzyte
+   • Plasmamembran (Lipide, Sterine, Transportproteine, Rezeptoren)
+   • Zusammensetzung des Cytoplasmas
+   • Zellkern (Kernhülle, Kernporen, Transkription, Kerntransport)
+   • Endoplasmatisches Retikulum, Ribosomen (Translation, posttranslationale Pro-
+     zessierung von Proteinen, Synthesen, Vesikelbildung)
+   • Golgi-Apparat (Protein-Trafficking, Proteinsortierung, Endo- und Exocytose)
+   • Lysosomen (intrazelluläre Verdauung)
+   • Mitochondrien, Peroxisomen (Energiestoffwechsel von Zellen, Redox-Zustand,
+     Reaktive Sauerstoffspezies)
+   • Zytoskelett und extrazelluläre Matrix (Actin, Tubulin, Zellformänderungen, Zell-
+     und Organellbewegung, Zelladhäsion, Gewebe)
+   • Zellwachstum (Hypertrophie), Zelldifferenzierung und Zellteilung (Hyperplasie)
+   • Mitose, Meiose
+   • Zelldifferenzierung
+   • Zelltypen, Eigenschaften, Markermoleküle
+   • Leistungen ausgewählter Zellsysteme (Gameten, Immunzellen)
+
+Vorlesung Ökologie“
+           ”
+   • Ökologie als Wissenschaft, zentrale Begriffe
+   • Spezifische Grundbegriffe der Tier-, Pflanzen- und Mikrobenökologie
+   • Umweltfaktoren
+
+Teil Tierökologie“
+    ”
+   • Spezielle Autökologie / Lebensformtypen
+   • Temperatur und Überwinterung
+   • Salzgehalt und osmotischer Druck, Wasserhaushalt
+   • Tages- und Jahresrhythmik
+   • Sauerstoff, Ernährung und Nahrungsressourcen
+   • Zusammenwirken von Umweltfaktoren
+
+Inhalt
+
+
+
+
+                                           23
+Teil Ökologie der Pflanzen“
+    ”
+   • Strahlungs-, Wärme-, Kohlenstoff-, Mineralstoff- und Wasserhaushalt
+   • Mechanische Faktoren
+   • Reaktionen auf Stress
+   • Struktur und Dynamik pflanzlicher Populationen
+   • Wechselbeziehungen zwischen Vegetation und Standort
+   • Interaktionen zwischen Pflanzen sowie Pflanzen und anderen Organismen
+
+Teil Ökologie der Mikroorganismen“
+    ”
+   • Mikrobiell relevante Umweltfaktoren (Wasserhaushalt, Salzgehalt, T, pH, EH
+      usw.)
+   • Einführung in die Stoffkreisläufe (C, N, S, P)
+   • Interaktionen von Mikroorganismen mit Pflanzen und Tieren
+
+Qualifikationsziele
+Cytologie: Erwerb von Grundkenntnissen über Zell- und Gewebetypen tierischer Orga-
+nismen; Ökologie: Einführung in die Betrachtungsweise, Terminologie & Methoden der
+Ökologie, Grundlegende Kenntnisse der Tier-, Pflanzen- & Mikrobenökologie
+Vorkenntnisse              keine
+Prüfung                   eine 60-minütige Klausur zur Cytologie, eine 90-minütige
+                           Klausur zur Ökologie.
+Note                       Note der Modulprüfung
+Aufwand in h               180 (Vorlesung: 75, Selbststudium: 105)
+Leistungspunkte            6
+Modulart                   Pflichtmodul im 1. und 2. Sem.
+Regelprüfungstermin 1. Sem. und 2. Sem
+
+
+
+
+                                        24
+Modul Biochemische Grundlagen
+Verantwortlicher          Vorsitzender des Prüfungsausschusses
+Lehrformen                Allgemeine und anorganische Chemie: Vorlesung (3 SWS),
+                          Biochemie: Vorlesung (4 SWS) und Übung (2,5 SWS)
+Dauer/Turnus              2 Sem., Allgemeine und anorganische Chemie: jährlich im
+                          WiSe, Biochemie: jährlich im SoSe
+Inhalt
+Allgemeine und anorganische Chemie
+   • Stoffliche Grundlagen der Chemie, Periodensystem der Elemente
+   • Bohr’sches und wellenmechanisches Atommodell
+   • Edelgase
+   • Ablauf chemischer Reaktionen
+   • Wasserstoff und ausgewählte Wasserstoffverbindungen
+   • Elektrolytgleichgewichte in wässriger Lösung
+   • Ionenbindung und Aufbau der Salze
+   • Atombindung und schwache Wechselwirkungen
+   • Metallische Bindung und Metallstrukturen
+   • Allgemeine Herstellungsmethoden von Metallen
+   • Charakteristika der Verbindungen der Haupt- und der Nebengruppenmetalle
+   • Oxidationszahlen und Koordination der Übergangsmetalle
+   • Grundlagen der Komplexchemie und Ligandenfeldtheorie
+   • binäre Metallverbindungen
+   • Nichtmetall-Halogen-Verbindungen
+   • Nichtmetalloxide, Sauerstoffsäuren und ihre Salze
+
+Biochemie
+   • Struktur, Funktion und chemischer Aufbau von Kohlenhydraten, Lipiden, Protei-
+     nen, Nukleinsäuren und deren monomere Bestandteile
+   • Enzymkatalyse und -regulation
+   • Biologische Funktion von Vitaminen, Coenzymen und energiereichen Verbindun-
+     gen
+   • Synthese und Katabolismus von Kohlenhydraten, Lipiden, Aminosäuren und Nu-
+     kleotiden
+   • Membrantransport
+   • Bioenergetik und oxidative Phosphorylierung
+
+Qualifikationsziele
+Vertrautheit mit grundlegenden Konzepten der allgemeinen und anorganischen Che-
+mie und der Biochemie
+Vorkenntnisse            Allgemeine und anorganische Chemie: keine; Biochemie:
+                         Vorkenntnisse in Allgemeiner Chemie und Biologie sind
+                         zwingend notwendig.
+
+
+
+
+                                      25
+Prüfung               Allgemeine und anorganische Chemie: 90-minütige Klausur
+                       oder 30-minütige mündliche Prüfung nach Vorgabe des Do-
+                       zenten; Biochemie: Übungsschein, 90-minütige Klausur oder
+                       mündliche Prüfung nach Vorgabe des Dozenten.
+Note                   Note der Modulprüfung
+Aufwand in h           330 (Vorlesung: 105, Übung: 40, Selbststudium: 185)
+Leistungspunkte        11
+Modulart               Pflichtmodul im 3. und 4. Sem.
+Regelprüfungstermin   3. Sem. und 4. Sem
+
+
+
+
+                                     26
+Modul Molekulare Genetik und Genomik
+Verantwortlicher     Professur für Genetik der Mikroorganismen
+Lehrformen           Vorlesung (4 SWS)
+Dauer/Turnus         1 Sem., jährlich im WiSe
+Inhalt
+   • Grundlagen der klassischen Genetik (Mendelsche Regeln, Chromosomen und
+     Genkartierung)
+   • Struktur und Topologie der DNA und RNA
+   • Genome bei Prokaryoten und Eukaryoten
+   • Initiation der DNA-Replikation und DNA-Rekombination
+   • Genetischer Code, Mechanismen der Transkription und Translation
+   • Regulation der Genexpression
+   • Mutationen und DNA-Reparatur, Erbkrankheiten
+   • Zellzyklus und Krebsgenetik
+   • Grundlagen der Gentechnik (Restriktionsenzyme, Vektoren, Klonierung, Gen-
+     transfer, DNA-Sequenzierung) und Genomorganisation (Repetitive Sequenzen,
+     Satelliten-DNA, Alu-Elemente, Genfamilien) und Ethik
+   • Genomik, reversive Genetik und RNAi Technologie
+   • Genetische Modellorganismen
+   • Populationsgenetik
+
+Qualifikationsziele
+   • Grundlegende Kenntnisse zu Vererbungsmechanismen (klassisch, molekular)
+   • Kenntnisse zur DNA-Funktion und -Variabilität
+   • Kenntnisse zur Genexpression und deren Kontrolle
+   • Kenntnisse zur in vitro-rekombinanten DNA-Technik
+
+Vorkenntnisse          Grundkenntnisse zur Struktur biologischer Makromoleküle
+Prüfung               90-minütige Klausur
+Note                   Note der Modulprüfung
+Aufwand in h           150 (Vorlesung: 60, Selbststudium: 90)
+Leistungspunkte        5
+Modulart               Pflichtmodul im 3. Sem.
+Regelprüfungstermin   3. Sem
+
+
+
+
+                                     27
+Modul Biologische Vertiefung I
+Verantwortlicher         Vorsitzender des Prüfungsausschusses
+Lehrformen               Wirkstoffdesign: Vorlesung (2 SWS),
+                         Grundlagen der Pharmakologie: Vorlesung (2 SWS)
+Dauer/Turnus             2 Sem., Wirkstoffdesign: jährlich im WiSe, Grundlagen der
+                         Pharmakologie: jährlich im SoSe
+Inhalt
+Wirkstoffdesign:
+   • Organisch-medizinische Chemie
+   • Rezeptor-Wirkstoff- Wechselwirkungen
+   • Wirkstoffscreening
+   • Molecular Modeling
+   • Quantitative Strukturwirkungsbeziehung
+   • Wirkstoffmetabolismus
+
+Grundlagen der Pharmakologie:
+  • Grundlagen der Pharmakodynamik
+  • Grundlagen der Pharmakokinetik
+  • Grundlagen der Pharmakogenetik
+  • Basiskenntnisse der Pharmakoepidemiologie & -ökonomie
+  • Therapie von Herz-Kreislauferkrankungen
+  • Therapie von Atemwegserkrankungen
+  • Therapie von Erkrankungen des Gastrointestinaltraktes
+  • Neuro- und Psychopharmakologie
+  • Endokrinpharmakologie
+  • Therapie erregerbedingter Erkrankungen
+  • Toxikologie
+
+Qualifikationsziele
+Vertrautheit mit grundlegenden Konzepten der Medizinischen Chemie und Wirkstoff-
+design und den Grundlagen der Pharmakologie
+Vorkenntnisse            Wirkstoffdesign: Allgemeine und anorganische Chemie;
+                         Grundlagen der Pharmakologie: Grundlegende Basiskennt-
+                         nisse aus den Bereichen Biologie, Physiologie und Genetik
+                         erleichtern das Verständnis der Unterrichtsveranstaltung.
+Prüfung                 2 Teilnahmebestätigungen
+Note                     unbenotet
+Aufwand in h             150 (Vorlesung: 60, Selbststudium: 90)
+Leistungspunkte          5
+Modulart                 Pflichtmodul im 5. und 6. Sem.
+Regelprüfungstermin 5. Sem. und 6. Sem
+
+
+
+
+                                       28
+Modul Biologische Vertiefung II
+Verantwortlicher         Vorsitzender des Prüfungsausschusses
+Lehrformen               Einführung in die Physiologie der Tiere und des Menschen:
+                         Vorlesung (4 SWS)
+                         oder
+                         Mikrobenphysiologie und Molekularbiologie: Vorlesung (4
+                         SWS)
+Dauer/Turnus             2 Sem., Physiologie der Tiere und Menschen: jährlich im Wi-
+                         Se, Mikrobenphysiologie und Molekularbiologie: jährlich im
+                         SoSe
+Inhalt
+Einführung in die Physiologie der Tiere und des Menschen:
+   • Physikalische und chemische Grundlagen
+   • Energetik lebender Systeme
+   • Aufbau tierischer Zellen (Kompartimentierung)
+   • Kommunikation im Organismus (Nervensystem, Hormone)
+   • Stoffaufnahme und interne Verteilung (Ernährung und Verdauung, Atmung,
+      Herz/Kreislaufsysteme)
+   • Inneres Milieu und seine Konstanthaltung (Ionen- und Osmoregulation, Stickstof-
+      fexkretion, pH-Regulation, Thermoregulation)
+   • Informationsaufnahme aus der Umwelt (Sinnesorgane)
+   • Muskel und Bewegung
+
+Mikrobenphysiologie und Molekularbiologie
+   • Mikrobieller Energiestoffwechsel, Grundnährstoffe, Ernährungstypen, Mechanis-
+     men der ATP-Gewinnung
+   • Mechanismen der Stoffaufnahme
+   • Elektronendonatoren und Elektronenakzeptoren, Redoxpotentialdifferenzen,
+     organo-, litho- und phototrophe Ernährung, anaerobe Atmung
+   • Mikrobielle Signaltransduktionsprozesse, Rolle der Proteinkinasen
+   • Mechanismen der Kontrolle der Genexpression
+   • Anpassung an Stress- und Hungerfaktoren
+   • Mikrobielle Differenzierungsprozesse
+   • Mikrobielle Genomforschung: Von den omics-Technologien“bis zur Systembiolo-
+                                            ”
+     gie
+
+Qualifikationsziele
+Physiologie der Tiere und Menschen: Erwerb von Grundkenntnissen zu Zell-, Organ-
+und Körperfunktionen von Tieren und Mensch; Mikrobenphysiologie und Molekular-
+biologie: Erwerb von Grundkenntnissen zur Stoffwechsel- und Wachstumsphysiologie
+sowie zur Funktionellen Genomforschung der Mikroorganismen
+Vorkenntnisse            Allgemeine Biologie, Kenntnisse in Biochemie und Genetik
+
+
+
+
+                                        29
+Prüfung               Einführung in die Physiologie der Tiere und des Menschen:
+                       90-minütige Klausur
+                       oder
+                       Mikrobenphysiologie und Molekularbiologie: 90-minütige
+                       Klausur.
+Note                   Note der Modulprüfung
+Aufwand in h           150 (Vorlesung: 60, Selbststudium: 90)
+Leistungspunkte        5
+Modulart               Wahlmodul im 5. oder 6. Sem.
+Regelprüfungstermin   5. Sem. oder 6. Sem.
+
+
+
+
+                                     30
+Bachelorarbeit
+Modul Bachelorarbeit
+Verantwortlicher        Betreuender Hochschullehrer
+Lehrformen              Schriftliche Abschlussarbeit
+Dauer/Turnus            6 Monate, jederzeit
+Inhalt
+   • je nach Themenstellung
+
+Qualifikationsziele
+  • Befähigung zur Bearbeitung einer mathematischen, forschungsorientierten Fra-
+     gestellung unter Anleitung durch einen Hochschullehrer in begrenzter Zeit
+  • Kompetenzen zur Niederschrift der erzielten Ergebnisse in Form einer wissen-
+     schaftlichen Arbeit
+
+Vorkenntnisse           je nach Themenstellung
+Prüfung                Schriftliche Arbeit mit Begutachtung
+Note                    Gemittelte Note der Gutachter
+Aufwand in h            360 (Selbststudium: 360)
+Leistungspunkte         12
+
+
+
+
+                                       32
+
