@@ -61,9 +61,9 @@ def write_publications(person_ID):
         # Get the author_name of the person if forename and lastname do not
         # exist
         author_name = row["author_name"].values[0]
-        fileText += author_name + "\t" + str(person_ID) + "\n" + titles
+        fileText += author_name + "\t" + person_ID + "\n" + titles
     # Write the publications to a file
-    with open('../data/FIS_publications/' + str(person_ID) + '.txt', 'w') as file:
+    with open('../data/FIS_publications/' + person_ID + '.txt', 'w') as file:
         file.write(fileText)
         file.close()
 
@@ -91,18 +91,22 @@ modified_publication_data = pd.read_csv('../data/FIS/persons_modified_names.csv'
                                         "faculty", "lastname", "forename",
                                         "institution"], skiprows = 1, 
                                         encoding = 'latin-1')
-modified_publication_data.drop(columns=['line'], inplace=True)
+modified_publication_data.drop(columns=["line", "inst_ID", "faculty_ID"], inplace=True)
 modified_publication_data["titles"] = titles
+
+# Iterate over the person_IDs in modified_publication_data and change each 
+# person_ID to a string which is 'FIS' + the person_ID make this inplace of the 
+# person_ID column
+modified_publication_data["person_ID"] = modified_publication_data["person_ID"].apply(lambda x: "FIS_" + str(x))
 
 # Get all person_IDs in publication_data to write publicaion lists for each
 # person_ID add FIS in front of the filename!!!
-#person_IDs = modified_publication_data["person_ID"].values
-#for person_ID in person_IDs:
+# person_IDs = modified_publication_data["person_ID"].values
+# for person_ID in person_IDs:
 #    write_publications(person_ID)
 
 # Get unique values of the institution column of modified_publication_data
 institutions = modified_publication_data["institution"].unique()
-print(institutions)
 
 # Make a dictionary
 institutions_dict = {}
@@ -162,3 +166,94 @@ institutions_dict['Hygiene und Umweltmedizin'] = 'Hygiene und Umweltmedizin'
 institutions_dict['Radiologie'] = 'Radiologie'
 institutions_dict['Chirurgie'] = 'Chirurgie'
 institutions_dict['Humangenetik'] = 'Humangenetik'
+institutions_dict['Klinische Chemie und Laboratoriumsmedizin'] = 'Klinische Chemie und Laboratoriumsmedizin'
+institutions_dict['Pathologie'] = 'Pathologie'
+institutions_dict['Innere Medizin'] = 'Innere Medizin'
+institutions_dict['Pathophysiologie'] = 'Pathophysiologie'
+institutions_dict['Physiologie'] = 'Physiologie'
+institutions_dict['Leibniz-Institut für Plasmaforschung und Technologie e.V. (INP)'] = 'INP'
+institutions_dict['Institut für Biochemie'] = 'Biochemie'
+institutions_dict['Friedrich Loeffler Institut für Medizinische Mikrobiologie'] = ' FLI Medizinische Mikrobiologie'
+institutions_dict['Institut für Slawistik'] = 'Slawistik'
+institutions_dict['Institut für Ethik und Geschichte der Medizin'] = 'Ethik und Geschichte der Medizin'
+institutions_dict['Institut für Philosophie'] = 'Philosophie'
+institutions_dict['Deutsches Zentrum für Neurodegenerative Erkrankungen Teilstandort Rostock'] = 'Neurodegenerative Erkrankungen'
+institutions_dict['Historisches Institut'] = 'Geschichte'
+institutions_dict['Institut für Politik- und Kommunikationswissenschaft'] = 'Politik- und Kommunikationswissenschaft'
+institutions_dict['Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin'] = 'Anästhesie, Intensiv- und Notfallmedizin'
+institutions_dict['Weaning Ärzte B'] = 'Weaning Ärzte'
+institutions_dict['Institut für Anglistik'] = 'Anglistik'
+institutions_dict['Institut für Fennistik und Skandinavistik'] = 'Fennistik und Skandinavistik'
+institutions_dict['Theologie'] = 'Theologie'
+institutions_dict['Fachbereich Rechtswissenschaften'] = 'Jura'
+institutions_dict['Institut für Pathophysiologie'] = 'Pathophysiologie'
+institutions_dict['Teilinstitut MPG'] = 'MPG'
+institutions_dict['Institut für Physiologie'] = 'Physiologie'
+institutions_dict['Institut für Kirchenmusik und Musikwissenschaften'] = 'Kirchenmusik und Musikwissenschaft'
+institutions_dict['Institut für Deutsche Philologie'] = 'Deutsche Philologie'
+institutions_dict['Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe'] = 'Frauenheilkunde und Geburtshilfe'
+institutions_dict['Ärztliches Direktorat'] = 'Ärztliches Direktorat'
+institutions_dict['Institut für Geographie und Geologie'] = 'Geo'
+institutions_dict['Universitätsapotheke'] = 'Universitätsapotheke'
+institutions_dict['Imaging-Zentrum'] = 'Imaging-Zentrum'
+institutions_dict['Zentrale Service- und Forschungseinrichtung für Versuchstiere'] = 'Versuchstiere'
+institutions_dict['Institut für Baltistik'] = 'Baltistik'
+institutions_dict['Institut für Bioinformatik'] = 'Bioinformatik'
+institutions_dict['Abt. Medizinisches Leistungsmanagement'] = 'Medizinisches Leistungsmanagement'
+institutions_dict['Institut für Erziehungswissenschaften'] = 'Erziehungswissenschaften'
+institutions_dict['BDH-Klinik'] = 'BDH-Klinik'
+institutions_dict['Abt. für ambulante R'] = 'ambulante R'
+institutions_dict['ZV Dezernat Einkauf'] = 'Dezernat Einkauf'
+institutions_dict['Caspar-David-Friedrich Institut'] = 'CDFI'
+institutions_dict['Kaufmännisches Direktorat'] = 'Kaufmännisches Direktorat'
+institutions_dict['Wissenschaftlicher Vorstand'] = 'Wissenschaftlicher Vorstand'
+institutions_dict['ZV Dezernat Finanzen'] = 'Dezernat Finanzen'
+institutions_dict['Fachrichtung Biologie'] = 'Biologie'
+institutions_dict['Pflegevorstand'] = 'Pflegevorstand'
+institutions_dict['Institut für Ostseeforschung'] = 'Ostseeforschung'
+institutions_dict['Institut für Community-Medicine'] = 'Community Medicine'
+institutions_dict['Brustzentrum'] = 'Brustzentrum'
+institutions_dict['Core Unit - Datenintegrationszentrum'] = 'Datenintegrationszentrum'
+institutions_dict['Phil-Dekanat'] = 'Philosophie'
+institutions_dict['Universitätsrechenzentrum (URZ)'] = 'URZ'
+institutions_dict['Physiotherapie Neu'] = 'Physiotherapie'
+
+# Loop over all institutions and write to a tab separated file for each institution
+# the name of the institution and the value of the institution in the dictionary 
+# institutions_dict. The name of the file should be FIS.colors.inst.tbl
+# Open a file for writing
+file = open('../data/FIS/FIS.inst.abbrev.tbl', 'w')
+file.write('institute_long\tinstitute_short\n')
+for institution in institutions:
+    # Write the name of the institution and the value of the institution in the dictionary
+    file.write(institution + '\t' + institutions_dict[institution] + '\n')
+# Close the file
+file.close()
+
+# Get the unique values of the keys in the dictionary institutions_dict
+# and write them to a tab separated file with a number startting from 0 and increasing
+# by 1 for each unique key. The name of the file should be FIS.colors.inst.tbl and
+# the first line should be 'institute\tcolor'
+# Open a file for writing
+file = open('../data/FIS/FIS.colors.inst.tbl', 'w')
+file.write('institute\tcolor\n')
+# Loop over all unique values of the keys in the dictionary institutions_dict
+for i, institution in enumerate(set(institutions_dict.values())):
+    # Write the number and the unique value of the keys in the dictionary institutions_dict
+    file.write(institution + '\t' + str(i) + '\n')
+# Close the file
+file.close()
+
+# Go through institution column in modified_publication_data and if institution is 
+# 'Caspar-David-Friedrich Institut' change the faculty column of modified_publication_data of this row
+# inplace to 'Caspar-David-Friedrich Institut'
+modified_publication_data.loc[modified_publication_data['institution'] == 'Caspar-David-Friedrich Institut', 'faculty'] = 'Caspar-David-Friedrich Institut'
+
+# Go through institution column in modified_publication_data and change 
+# the institution column of modified_publication_data of each row inplace to the value of institution
+# in the dictionary institutions_dict
+modified_publication_data['institution'] = modified_publication_data['institution'].apply(lambda institution: institutions_dict[institution])
+
+modified_publication_data = modified_publication_data[['author_name', 'lastname', 'forename', 'person_ID', 'faculty', 'institution', 'institution_long']]
+modified_publication_data.to_csv('../data/FIS/publishers.tbl', sep='\t', na_rep = 'NaN', 
+                                 encoding='latin-1', index=False)
