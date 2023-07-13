@@ -1,0 +1,46 @@
+Kuss, Andreas Walter	FIS_2278
+X-linked congenital ptosis and associated intellectual disability, short stature, microcephaly, cleft palate, digital and genital abnormalities define novel Xq25q26 duplication syndrome
+Distribution of segmental duplications in the context of higher order chromatin organization
+Cleavage of E-Cadherin and ?-Catenin by Calpain Affects Wnt Signaling and Spheroid Formation in Suspension Cultures of Human Pluripotent Stem Cells
+Deciphering the molecular signature of plaques, memory decline and neuron-loss using two mouse models for Alzheimers disease by deep sequencing
+Submicroscopic genomic rearrangements change gene expression in T-cell large granular lymphocyte leukemia
+Das methodische Potenzial der neuen Sequenziertechnologien jenseits der Mutationssuche
+Subgroup-elimination Transcriptomics Identifies Signaling Proteins that Define Subclasses of TRPV1-positive Neurons and a Novel Paracrine Circuit
+A t(3;9)(q25.1;q34.3) translocation leading to OLFM1 fusion transcripts in Gilles de la Tourette syndrome, OCD and ADHD
+Association of AADAC deletion and Tourette syndrome in a large European cohort
+Landmarks in the evolution of (t)-RNAs from the origin of life up to their present role in human cognition
+Transcriptome alterations in X-irradiated human gingiva fibroblasts
+Glycomic characterization of induced pluripotent stem cells derived from a patient suffering from phosphomannomutase 2 congenital disorder of glycosylation.
+BOD1 is Required for Cognitive Function in Humans and Drosophila
+Morphological and behavioral characterization of adult mice deficient for SrGAP3
+Gene Expression Profiling in the APP/PS1KI Mouse Model of Familial Alzheimer's Disease.
+Gene Expression Profiling in the APP/PS1KI Mouse Model of Familial Alzheimer's Disease.
+FAM222B Is Not a Likely Novel Candidate Gene for Cerebral Cavernous Malformations
+Mutations of the aminoacyl-tRNA-synthetases SARS and WARS2 are implicated in the aetiology of autosomal recessive intellectual disability
+Genetic rearrangements result in altered gene expression and novel fusion transcripts in Sézary syndrome
+The transcription factor Dach1 is essential for podocyte function
+BDNF: mRNA Expression in urine cells of patients with chronic kidney disease and its role in kidney function
+Exome Sequencing Discloses Ionizing-radiation-induced DNA Variants in the Genome of Human Gingiva Fibroblasts.
+Genome-Wide Analysis of Interchromosomal Interaction Probabilities Reveals Chained Translocations and Overrepresentation of Translocation Breakpoints in Genes in a Cutaneous T-Cell Lymphoma Cell Line.
+A patient-specific induced pluripotent stem cell model for West syndrome caused by ST3GAL3 deficiency
+Immune system-mediated atherosclerosis caused by deficiency of long noncoding RNA MALAT1 in ApoE-/- mice.
+A mouse model for intellectual disability caused by mutations in the X-linked 2'?O?methyltransferase Ftsj1 gene.
+Long noncoding RNA NEAT1 modulates immune cell functions and is suppressed in early onset myocardial infarction patients.
+Ionizing Radiation alters the transition/transversion ratio in the exome of human gingiva fibroblasts
+Identification of RELN variant p.(Ser2486Gly) in an Iranian family with Ankylosing Spondylitis; The first Association of RELN and AS
+The role of tansfer RNA modification and amino acylation in the etiology of congenital intellectual disability
+A novel locus and candidate gene for familial developmental dyslexia on chromosome 4q
+Chromosome-level reference genome of the European wasp spider Argiope bruennichi: a resource for studies on range expansion and evolutionary adaptation
+miRNA Alterations Elicit Pathways Involved in Memory Decline and Synaptic Function in the Hippocampus of Aged Tg4-42 Mice.
+miRNA Alterations Elicit Pathways Involved in Memory Decline and Synaptic Function in the Hippocampus of Aged Tg4-42 Mice.
+The C-mannosylome of human induced pluripotent stem cells implies a role for ADAMTS16 C-mannosylation in eye development
+Studies on the Role of the Transcription Factor Tcf21 in the Transdifferentiation of Parietal Epithelial Cells into Podocyte-Like Cells.
+Full genome sequence of a Methanomassiliicoccales representative enriched from peat soil
+Linking transcriptional dynamics of CH4-cycling grassland soil microbiomes to seasonal gas fluxes
+Small RNA sequencing in the Tg4-42 mouse model suggests the involvement of snoRNAs in the etiology of Alzheimers disease
+Deficiency in FTSJ1 Affects Neuronal Plasticity in the Hippocampal Formation of Mice
+The impact of summer drought on peat soil microbiome structure and function-A multi-proxy-comparison
+Innate Immunity in Cardiovascular DiseasesIdentification of Novel Molecular Players and Targets
+tRNA-like Transcripts from the  Genomic Region Critically Influence Human Innate Immunity and Macrophage Functions.
+Linking Transcriptional Dynamics of Peat Microbiomes to Methane Fluxes during a Summer Drought in Two Rewetted Fens.
+MncR: Late Integration Machine Learning Model for Classification of ncRNA Classes Using Sequence and Structural Encoding.

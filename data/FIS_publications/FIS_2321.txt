@@ -1,0 +1,648 @@
+Völzke, Henry	FIS_2321
+Positive association of serum prolactin concentrations with all-cause and cardiovascular mortality.
+Positive association of serum prolactin concentrations with all-cause and cardiovascular mortality
+Multimorbidity and the risk of restless legs syndrome in two prospective cohort studies
+Relation of insulin-like growth factor-I and IGF binding protein 3 with markers of inflammation: results of a population-based study.
+Secretin-Stimulated MRCP in Volunteers: Assessment of Safety, Duct Visualization, and Pancreatic Exocrine Function.
+Sex-Specific Associations Between Thyrotropin and Serum Lipid Profiles.
+[TSH-reference range of adults: results from the population-based study KORA F4].
+The ENIGMA Consortium: large-scale collaborative analyses of neuroimaging and genetic data.
+Aldosterone and glomerular filtration - observations in the general population.
+Identification of novel genetic Loci associated with thyroid peroxidase antibodies and clinical thyroid disease.
+Sex Differences of Tooth Loss and Obesity on Systemic Markers of Inflammation
+Rare and low-frequency coding variants in CXCR2 and other genes are associated with hematological traits.
+Mitochondrial DNA variants in obesity.
+Prospective Study of Serum 25-hydroxy Vitamin D and Tooth Loss
+Study of Health in Pomerania (SHIP-Trend)
+IGF-I levels and depressive disorders: Results from the Study of Health in Pomerania (SHIP).
+Genetic determinants of heel bone properties: genome-wide association meta-analysis and replication in the GEFOS/GENOMOS consortium.
+MRI-based Determination of Reference Values of Thoracic Aortic Wall Thickness in a General Population.
+Cross-sectional and longitudinal relation of IGF1 and IGF-binding protein 3 with lipid metabolism.
+Cohort profile: Greifswald approach to individualized medicine (GANI_MED).
+Associations between thyroid hormones and serum metabolite profiles in an euthyroid population.
+Association between serum vitamin D concentrations and inflammatory markers in the general adult population.
+Fucosyltransferase 2 (FUT2) non-secretor status and blood group B are associated with elevated serum lipase activity in asymptomatic subjects, and an increased risk for chronic pancreatitis: a genetic association study.
+Comparison of Two Non-mydriatic Fundus Cameras to Obtain Retinal Arterio-venous Ratio
+Testosterone, sex hormone-binding globulin and the metabolic syndrome in men: an individual participant data meta-analysis of observational studies.
+Genome-wide association study identifies variants associated with autoimmune hepatitis type 1.
+Association of non-alcoholic fatty liver disease with chronic kidney disease: a systematic review and meta-analysis.
+Blood cis-eQTL analysis fails to identify novel association signals among sub-threshold candidates from genome-wide association studies in restless legs syndrome.
+High Serum TSH Levels are Associated with Retinal Arteriolar Narrowing in the General Population.
+Restless legs syndrome and cancer: an analysis in three independent studies
+Whole-body Magnetic Resonance Imaging in the German National Cohort: Rationale, Design and Technical Background
+Glycated hemoglobin as a marker of subclinical atherosclerosis and cardiac remodeling among non-diabetic adults from the general population.
+Parent-of-origin-specific allelic associations among 106 genomic loci for age at menarche.
+Fully Automated Glottis Segmentation in Endoscopic Videos Using Local Color and Shape Features of Glottal Regions
+Anatomic variants of the pancreatic duct and their clinical relevance: an MR-guided study in the general population.
+Genetic, psychosocial and clinical factors associated with hippocampal volume in the general population.
+Incidence of all-cause and cardiovascular mortality predicted by symmetric dimethylarginine in the population-based study of health in pomerania
+Angiopoietin-2, its soluble receptor Tie-2 and subclinical cardiovascular disease in a population-based sample
+Educational level, prevalence of hysterectomy, and age at amenorrhoea: a cross-sectional analysis of 9536 women from six population-based cohort studies in Germany.
+Novel genetic markers associate with atrial fibrillation risk in Europeans and Japanese.
+Evaluation of genome-wide loci of iron metabolism in hereditary hemochromatosis identifies PCSK7 as a host risk factor of liver cirrhosis.
+Metabolic syndrome across Europe: different clusters of risk factors.
+Interrelations between thyrotropin levels and iodine status in thyroid-healthy children.
+Research: increasing value, reducing waste.
+Mapping the genetic architecture of gene regulation in whole blood.
+Measurement and genetics of human subcortical and hippocampal asymmetries in large datasets.
+Multimodal imaging of a tescalcin (TESC)-regulating polymorphism (rs7294919)-specific effects on hippocampal gray matter structure.
+Thyroid antibody status, subclinical hypothyroidism, and the risk of coronary heart disease: an individual participant data analysis.
+Genome-wide association analysis identifies six new loci associated with forced vital capacity.
+Gene-age interactions in blood pressure regulation: a large-scale investigation with the CHARGE, Global BPgen, and ICBP Consortia.
+Development, external validation, and comparative assessment of a new diagnostic score for hepatic steatosis.
+Large-scale genome-wide association studies and meta-analyses of longitudinal change in adult lung function.
+Psychometric functioning, socio-demographic variability of childhood maltreatment in the general population and its effects of depression.GANI_MED
+Regional differences in the incidence of self-reported type 2 diabetes in Germany: results from five population-based studies in Germany (DIAB-CORE Consortium).
+Novel approach identifies SNPs in SLC2A10 and KCNK9 with evidence for parent-of-origin effect on body mass index.
+Serum thyroid-stimulating hormone levels are not associated with exercise capacity and lung function parameters in two population-based studies.
+Interaction among childhood trauma and functional polymorphisms in the serotonin pathway moderate the risk of depressive disorders.
+Asymmetry within and around the human planum temporale is sexually dimorphic and influenced by genes involved in steroid hormone receptor activity.
+Defining the role of common variation in the genomic and biological architecture of adult human height.
+Translating Pharmacological Findings from Hypothyroid Rodents to Euthyroid Humans: Is There a Functional Role of Endogenous 3,5-T2?
+Function-impairing polymorphisms of the hepatic uptake transporter SLCO1B1 modify the therapeutic efficacy of statins in a population-based cohort.
+Regional differences of undiagnosed type 2 diabetes and prediabetes prevalence are not explained by known risk factors.
+Inflammatory markers and extent and progression of early atherosclerosis: Meta-analysis of individual-participant-data from 20 prospective studies of the PROG-IMT collaboration.
+A level set based framework for quantitative evaluation of breast tissue density from MRI data.
+Shift of the Thyroid-Stimulating Hormone Reference Range with Improved Iodine Supply in Northeast Germany.
+Change in depressive symptoms and mental health-related quality of life in northeast Germany between 1997-2001 and 2008-2012
+Learning and inspecting classification rules from longitudinal epidemiological data to identify predictive features on hepatic steatosis.
+Subpopulation Discovery in Epidemiological Data with Subspace Clustering
+Novel loci associated with usual sleep duration: the CHARGE Consortium Genome-Wide Association Study.
+No evidence for genome-wide interactions on plasma fibrinogen by smoking, alcohol consumption and body mass index: results from meta-analyses of 80,607 subjects.
+Genome-Wide Association Study for Endothelial Growth Factors.
+Genome-Wide Meta-Analyses of Plasma Renin Activity and Concentration Reveal Association with the Kininogen 1 and Prekallikrein Genes.
+Association of neighbourhood unemployment rate with incident Type 2 diabetes mellitus in five German regions.
+Health-related quality of life in women and men with type 2 diabetes: a comparison across treatment groups.
+Cardiovascular Risk Factors and Thoracic Aortic Wall Thickness in a General Population
+Long-term changes in body weight are associated with changes in blood pressure levels
+Common genetic variants influence human subcortical brain structures.
+Lack of association between genetic risk loci for restless legs syndrome and multimorbidity
+Integration of Primary and Secondary Data in the Study of Health in Pomerania and Description of Clinical Outcomes using Stroke as an Example
+A Genetic Risk Score for Thyroid Peroxidase Antibodies Associates with Clinical Thyroid Disease in Community-Based Populations.
+Modulation of genetic associations with serum urate levels by body-mass-index in humans.
+Assessing cutoff values for increased exercise blood pressure to predict incident hypertension in a general population.
+Light to Moderate Alcohol Consumption Is Associated With Lower Risk of Aortic Valve Sclerosis: The Study of Health in Pomerania (SHIP).
+Lower bone turnover markers in metabolic syndrome and diabetes: The population-based Study of Health in Pomerania.
+Prediabetes and well controlled diabetes are not associated with periodontal disease: the SHIP Trend Study
+Pancreatic Steatosis Demonstrated at MR Imaging in the General Population: Clinical Relevance.
+Fracture risk and risk factors for osteoporosis - results from two representative population-based studies in North East Germany (Study of Health in Pomerania: SHIP-2 und SHIP-Trend)
+Associations between Serum Sex Hormone Concentrations and Whole Blood Gene Expression Profiles in the General Population.
+Regional Variation of Chronic Kidney Disease in Germany: Results From Two Population-Based Surveys.
+Prävalenztrend lebensstilabhängiger Risikofaktoren  Zwei Querschnittsuntersuchungen der "Study of Health in Pomerania" von 1997 bis 2001 und 2008 bis 2012 mit 8728 Teilnehmern
+Prävalenztrend lebensstilabhängiger Risikofaktoren  Zwei Querschnittsuntersuchungen der "Study of Health in Pomerania" von 1997 bis 2001 und 2008 bis 2012 mit 8728 Teilnehmern
+Prevalence trends in lifestyle-related risk factors two cross-sectional analyses with a total of 8728 participants from the Study of Health in Pomerania from 1997 to 2001 and 2008 to 2012
+Prevalence trends in lifestyle-related risk factors two cross-sectional analyses with a total of 8728 participants from the Study of Health in Pomerania from 1997 to 2001 and 2008 to 2012
+ABO blood type B and fucosyltransferase 2 non-secretor status as genetic risk factors for chronic pancreatitis.
+L-Arginine and SDMA Serum Concentrations Are Associated with Subclinical Atherosclerosis in the Study of Health in Pomerania (SHIP)
+Adiposity measures and vitamin D concentrations in Northeast Germany and Denmark.
+Subcortical brain alterations in major depressive disorder: findings from the ENIGMA Major Depressive Disorder working group.
+Association of a neurokinin 3 receptor polymorphism with the anterior basal forebrain.
+Thoracic and abdominal aortic diameters in a general population: MRI-based reference values and association with age and cardiovascular risk factors.
+Association between waist circumference and gray matter volume in 2344 individuals from two adult community-based samples.
+Carotid Intima Media Thickness Progression and Risk of Vascular Events in People With Diabetes: Results From the PROG-IMT Collaboration.
+Image analysis in epidemiological applications
+Fully Automated Renal Tissue Volumetry in MR Volume Data Using Prior-Shape-Based Segmentation in Subject-Specific Probability Maps
+Endogenous androgens and sex hormone-binding globulin in women and risk of metabolic syndrome and type 2 diabetes.
+Genome-Wide Association Study with Targeted and Non-targeted NMR Metabolomics Identifies 15 Novel Loci of Urinary Human Metabolic Individuality.
+Extensive alterations of the whole-blood transcriptome are associated with body mass index: results of an mRNA profiling study involving two large population-based cohorts.
+Association of sex hormones with incident 10-year cardiovascular disease and mortality in women.
+Physiology of oxygen uptake kinetics: Insights from incremental cardiopulmonary exercise testing in the Study of Health in Pomerania.
+The combined effects of alcohol consumption and body mass index on hepatic steatosis in a general population sample of European men and women.
+3D Regression Heat Map Analysis of Population Study Data.
+The transcriptional landscape of age in human peripheral blood.
+Diagnosed thyroid disorders are associated with depression and anxiety.
+Association between serum thyroid-stimulating hormone levels and serum lipids in children and adolescents: a population-based study of german youth.
+Complement Component 5 Mediates Development of Fibrosis, via Activation of Stellate Cells, in 2 Mouse Models of Chronic Pancreatitis.
+Blood Pressure Control Has Improved in People with and without Type 2 Diabetes but Remains Suboptimal: A Longitudinal Study Based on the German DIAB-CORE Consortium.
+Occupational exposure to asbestos is associated with increased mortality in men recruited for a population-based study in Germany.
+Association of Change of Anthropometric Measurements With Incident Type 2 Diabetes Mellitus: A Pooled Analysis of the Prospective Population-Based CARLA and SHIP Cohort Studies.
+Milk Fat Globule-Epidermal Growth Factor 8 (MFG-E8) Is a Novel Anti-Inflammatory Factor in Rheumatoid Arthritis in Mice and Humans.
+A genome-wide association study confirms PNPLA3 and identifies TM6SF2 and MBOAT7 as risk loci for alcohol-related cirrhosis.
+Fully automatized renal parenchyma volumetry using a support vector machine based recognition system for subject-specific probability map generation in native MR volume data
+Impact of whole-body MRI in a general population study.
+Urine Metabolomics by (1)H-NMR Spectroscopy Indicates Associations between Serum 3,5-T2 Concentrations and Intermediary Metabolism in Euthyroid Humans.
+Interactive Visual Analysis of Image-Centric Cohort Study Data.
+Distinct urinary metabolic profiles associated with serum TSH and FT4 concentrations
+Serum Thyrotropin Concentrations Are Not Associated with the Ankle-Brachial Index: Results from Three Population-Based Studies.
+Knochengesundheit in Vorpommern
+Subclinical Hypothyroidism and the Risk of Stroke Events and Fatal Stroke: An Individual Participant Data Analysis
+Sex differences in urine metabolites related with risk of diabetes using NMR spectroscopy: results of the study of health in pomerania
+Quantitative, organ-specific inter- and intra-scanner variability for 3 Tesla whole-body magnetic resonance imaging in a multi-centre, multi vendor study
+Measuring Biological Age via Metabonomics  the Metabolic Age-Score
+Accumulated common variants in the broader fragile X gene family modulate autistic phenotypes
+The Influence of Age and Sex on Genetic Associations with Adult Body Size and Shape: A Large-Scale Genome-Wide Interaction Study.
+Large-scale genomic analyses link reproductive aging to hypothalamic signaling, breast cancer susceptibility and BRCA1-mediated DNA repair.
+Quantitative, Organ-Specific Interscanner and Intrascanner Variability for 3 T Whole-Body Magnetic Resonance Imaging in a Multicenter, Multivendor Study.
+Association between hepatic steatosis and serum liver enzyme levels with atrial fibrillation in the general population: The Study of Health in Pomerania (SHIP)
+Prospective association of sex steroid concentrations with periodontal progression and incident tooth loss.
+Rare coding variants and X-linked loci associated with age at menarche
+L-Arginine Derivatives Are Associated with the Hyperthyroid State in the General Population.
+Ensuring effective prevention of iodine-deficiency disorders.
+Automatic Pharynx Segmentation from MRI Data for Analysis of Sleep Related Disorders
+Ist der Testosteronspiegel mit dem klinischen Attachmentverlust assoziiert?
+Needle decompression of tension pneumothorax: Population-based epidemiologic approach to adequate needle length in healthy volunteers in Northeast Germany.
+An efficient level set method for simultaneous intensity inhomogeneity correction and segmentation of MR images.
+Sixteen new lung function signals identified through 1000 Genomes Project reference panel imputation.
+Genome-wide Association Studies Identify Genetic Loci Associated with Albuminuria in Diabetes.
+Serum vitamin B12 is Inversely Associated with Periodontal Progression and Risk of Tooth Loss: A prospective Cohort Study
+Non-alcoholic fatty liver disease (NAFLD) is associated with a distinct fecal microbiome signature - a case control study
+Does a Pancreatic Duct Aboce 3 mm Warrant Diagnostic Workup? Clues from a Population based cohort
+Methodology used in studies reporting chronic kidney disease prevalence: a systematic literature review.
+Thyroid function within the normal range and risk of coronary heart disease: an individual participant data analysis of 14 cohorts.
+In reply.
+Changes of individual perception in psychosocial stressors related to German reunification in 1989/1990 and cardiovascular risk factors and cardiovascular diseases in a population-based study in East Germany.
+CKD Prevalence Varies across the European General Population.
+Corrigendum: Rare coding variants and X-linked loci associated with age at menarche.
+Effect of the interaction between childhood abuse and rs1360780 of the FKBP5 gene on gray matter volume in a general population sample.
+White matter hyperintensities and imaging patterns of brain ageing in the general population.
+Advanced Brain Aging: relationship with epidemiologic and genetic risk factors, and overlap with Alzheimer disease atrophy patterns
+Relationship between APOE genotype and structural MRI measures throughout adulthood in the SHIP population-based cohort
+High levels of thyroid-stimulating hormone are associated with aortic wall thickness in the general population.
+Genome-Wide Association Study for Incident Myocardial Infarction and Coronary Heart Disease in Prospective Cohort Studies: The CHARGE Consortium.
+Serum androgen concentrations and subclinical measures of cardiovascular disease in men and women.
+Normative values for carotid intima media thickness and its progression: Are they transferrable outside of their cohort of origin?
+Circulating Irisin Concentrations Are Associated with a Favourable Lipid Profile in the General Population
+Magnesium/Calcium Ratio in Serum Predicts Periodontitis and Tooth Loss in a Five-Year Follow-up
+Sex- and age-specific associations between major depressive disorder and metabolic syndrome in two general population samples in Germany.
+Platelet-Related Variants Identified by Exomechip Meta-analysis in 157,293 Individuals.
+Meta-analysis identifies common and rare variants influencing blood pressure and overlapping with metabolic trait loci.
+Thyroid Function within the Reference Range and the Risk of Stroke: An Individual Participant Data Analysis.
+Angiopoietin-2, its soluble receptor Tie-2, and metabolic syndrome components in a population-based sample.
+Clinical correlates of sex hormones in women: The study of health in Pomerania.
+Sex hormones and sleep in men and women from the general population: a cross-sectional observational study.
+Association of Serum Thyrotropin with Anthropometric Markers of Obesity in the General Population.
+Novel multiple sclerosis susceptibility loci implicated in epigenetic regulation.
+Four Susceptibility Loci for Gallstone Disease Identified in a Meta-analysis of Genome-Wide Association Studies.
+Correction: The Influence of Age and Sex on Genetic Associations with Adult Body Size and Shape: A Large-Scale Genome-Wide Interaction Study.
+GWAS analysis of handgrip and lower body strength in older adults in the CHARGE consortium.
+Genetic associations at 53 loci highlight cell types and biological pathways relevant for kidney function.
+Genome-wide association study identifies 74 loci associated with educational attainment.
+Molecular epidemiology of Staphylococcus aureus in the general population in Northeast Germany - results of the Study of Health in Pomerania (SHIP-TREND-0).
+Rauchen und die Folgen auf das Mikrogefäßsystem. Kohortenstudie zur statischen Gefäßanalyse der retinalen Blutgefäße.
+Associations of androgens with health care utilization and costs in women - Perspectives of a population-based cohort study.
+Genome-wide association study of pathological gambling.
+Monitoring the prevalence of thyroid disorders in the adult population of Northeast Germany
+The Influence of Type 1 Diabetes Mellitus on Pulmonary Function and Exercise Capacity - Results from the Study of Health in Pomerania (SHIP)
+Estimating Effects of Craniofacial Morphology on gingival recession and clinical attachment loss
+Anthropometric markers and their association with incident type 2 diabetes mellitus: which marker is best for prediction? Pooled analysis of four German population-based cohort studies and comparison with a nationwide cohort study.
+LOng-term follow-up after liVE kidney donation (LOVE) study: a longitudinal comparison study protocol.
+Regional Variability of Lifestyle Factors and Hypertension with Prediabetes and Newly Diagnosed Type 2 Diabetes Mellitus: The Population-Based KORA-F4 and SHIP-TREND Studies in Germany.
+Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies.
+Reduced Bone Stiffness in Women Is Associated with Clinical Attachment and Tooth Loss: The Study of Health in Pomerania.
+Association of Periodontal Destruction and Diabetes with Mortality.
+Changes in Waist Circumference among German Adults over Time - Compiling Results of Seven Prospective Cohort Studies.
+Genome-wide association study of caffeine metabolites provides new insights to caffeine metabolism and dietary caffeine-consumption behavior.
+Metabolic Fingerprints of Circulating IGF-1 and the IGF-1/IGFBP-3 Ratio: A Multifluid Metabolomics Study.
+The relationship between the metabolic syndrome and arterial wall thickness: A mosaic still to be interpreted.
+Gene-gene Interaction Analyses for Atrial Fibrillation.
+Multiethnic Exome-Wide Association Study of Subclinical Atherosclerosis.
+Circulating Angiopoietin-2 and Its Soluble Receptor Tie-2 Concentrations Are Related to Renal Function in Two Population-Based Cohorts.
+PCSK9 genetic variants and risk of type 2 diabetes: a mendelian randomisation study.
+Multiethnic genome-wide meta-analysis of ectopic fat depots identifies loci associated with adipocyte development and differentiation.
+Childhood adversity impacts on brain subcortical structures relevant to depression.
+SOS2 and ACP1 Loci Identified through Large-Scale Exome Chip Analysis Regulate Kidney Development and Function.
+New loci for body fat percentage reveal link between adiposity and cardiometabolic disease risk.
+Epidemiologic research topics in Germany: a keyword network analysis of 2014 DGEpi conference presentations.
+Cortical abnormalities in adults and adolescents with major depression based on brain scans from 20 cohorts worldwide in the ENIGMA Major Depressive Disorder Working Group.
+Geriatric nutritional risk index correlates with length of hospital stay and inflammatory markers in older inpatients.
+Population-Based Imaging and Radiomics: Rationale and Perspective of the German National Cohort MRI Study.
+Novel genetic loci underlying human intracranial volume identified through genome-wide association.
+Genome-wide analysis identifies 12 loci influencing human reproductive behavior.
+Association of PNPLA3 rs738409 and TM6SF2 rs58542926 with health services utilization in a population-based study
+Serum chemerin is associated with inflammatory and metabolic parameters-results of a population-based study
+Predicting risk of substantial weight gain in German adults-a multi-center cohort approach.
+Hypertension in Germany.
+Polysomnography in a Large Population based study - the Study of Health in Pomerania Protocol.
+Novel genetic loci associated with hippocampal volume.
+Lung Health Data of the Study of Health in Pomerania - a Review of Samples, Methods and First Results.
+Genetic effects influencing risk for major depressive disorder in China and Europe.
+Mortality is associated with inflammation, anemia, specific diseases and treatments, and molecular markers.
+Prevalence of Fatty Liver Disease and Hepatic Iron Overload in a Northeastern German Population by Using Quantitative MR Imaging.
+Ankle-brachial index and peripheral artery disease are not related to restless legs syndrome
+Large-scale genome-wide analysis identifies genetic variants associated with cardiac structure and function.
+Changes in Body Weight and Composition Are Associated With Changes in Left Ventricular Geometry and Function in the General Population: SHIP (Study of Health in Pomerania).
+Domains of physical activity and brain volumes: A population-based study.
+Genome-wide physical activity interactions in adiposity - A meta-analysis of 200,452 adults.
+Impact of atrial fibrillation detected by extended monitoring-A population-based cohort study.
+Associations of Leisure-Time and Occupational Physical Activity and Cardiorespiratory Fitness With Incident and Recurrent Major Depressive Disorder, Depressive Symptoms, and Incident Anxiety in a General Population.
+Causal relationship between obesity and serum testosterone status in men: A bi-directional mendelian randomization analysis.
+Bluthochdruck in Deutschland Daten aus sieben bevölkerungsbasierten epidemiologischen Studien (19942012)
+1000 Genomes-based meta-analysis identifies 10 novel loci for kidney function.
+Genome-wide meta-analysis of 241,258 adults accounting for smoking behaviour identifies novel loci for obesity traits.
+Associations of androgens with depressive symptoms and cognitive status in the general population.
+Sex-specific metabolic profiles of androgens and its main binding protein SHBG in a middle aged population without diabetes.
+Investigating the causal effect of smoking on hay fever and asthma: a Mendelian randomization meta-analysis in the CARTA consortium.
+Living alone and activation of the renin-angiotensin-aldosterone-system: Differential effects depending on alexithymic personality features.
+The effect of furcation involvement on tooth loss in a population without regular periodontal therapy
+Predicting brain structure in population-based samples with biologically informed genetic scores for schizophrenia.
+Corrigendum: 1000 Genomes-based meta-analysis identifies 10 novel loci for kidney function.
+Genomic analyses identify hundreds of variants associated with age at menarche and support a role for puberty timing in cancer risk.
+Statins are related to impaired exercise capacity in males but not females
+Association between Serum Thyroid-Stimulating Hormone Levels and Visceral Adipose Tissue: A Population-Based Study in Northeast Germany.
+Psychosocial features of irritable bowel syndrome in the study of health in Pomerania (SHIP)
+Prospective study on the incidence, prevalence and 5-year pancreatic-related mortality of pancreatic cysts in a population-based study.
+Abdominal fat deposits determined by magnetic resonance imaging in relation to leptin and vaspin levels as well as insulin resistance in the general adult population.
+The Association between Bone Quality and Atherosclerosis: Results from Two Large Population-Based Studies.
+Defining Optimal Health Range for Thyroid Function Based on the Risk of Cardiovascular Disease.
+Automatized spleen segmentation in non-contrast-enhanced MR volume data using subject-specific shape priors.
+Every participant is a PI. Citizen science and participatory governance in population studies.
+NFAT5 and SLC4A10 Loci Associate with Plasma Osmolality.
+Factors affecting sustainable iodine deficiency elimination in Pakistan: A global perspective.
+Genome-wide association and targeted analysis of copy number variants with psoriatic arthritis in German patients.
+Automatic MRI segmentation of para-pharyngeal fat pads using interactive visual feature space analysis for classification.
+Correction: Genome-wide physical activity interactions in adiposity - A meta-analysis of 200,452 adults.
+Longitudinal change in health-related quality of life in people with prevalent and incident type 2 diabetes compared to diabetes-free controls.
+Comprehensive metabolic characterization of serum osteocalcin action in a large non-diabetic sample.
+Is hepatic steatosis associated with left ventricular mass index increase in the general population?
+Large meta-analysis of genome-wide association studies identifies five loci for lean body mass.
+Sex hormones and quantitative ultrasound parameters at the heel in men and women from the general population.
+REPEATED MEASUREMENTS OF BLOOD PRESSURE AND CHOLESTEROL IMPROVES CARDIOVASCULAR DISEASE RISK PREDICTION: AN INDIVIDUAL-PARTICIPANT-DATA META-ANALYSIS.
+Do Genetic Markers of Inflammation Modify the Relationship between Periodontitis and Nonalcoholic Fatty Liver Disease? Findings from the SHIP Study.
+Periodontitis and Non-alcoholic Fatty Liver Disease, a population-based cohort investigation in the Study of Health in Pomerania.
+Serum chemerin levels are inversely associated with renal function in a general population.
+[Static Retinal Vessel Analysis in Population-based Study SHIP-Trend].
+Functional assessment of genetic variants located in the promoter of SHP1 (NR0B2).
+Comparison of traditional diabetes risk scores and HbA1c to predict type 2 diabetes mellitus in a population based cohort study.
+Sex Hormones and Hair Loss in Men From the General Population of Northeastern Germany.
+No calcitonin change in a person taking dulaglutide diagnosed with pre-existing medullary thyroid cancer.
+Evidence for Stress-like Alterations in the HPA-Axis in Women Taking Oral Contraceptives.
+Thyroid Function Within the Normal Range, Subclinical Hypothyroidism and the Risk of Atrial Fibrillation.
+Alcohol consumption and cardiorespiratory fitness in five population-based studies.
+Association between serum neuron-specific enolase, age, overweight, and structural MRI patterns in 901 subjects.
+Genome-wide gene-environment interaction in depression: A systematic evaluation of candidate genes: The childhood trauma working-group of PGC-MDD.
+Interlaboratory variability of urinary iodine measurements.
+Sexual dimorphism of AMBRA1-related autistic features in human and mouse.
+Worldwide trends in body-mass index, underweight, overweight, and obesity from 1975 to 2016: a pooled analysis of 2416 population-based measurement studies in 128·9 million children, adolescents, and adults.
+Prediabetes is associated with lower brain gray matter volume in the general population. The Study of Health in Pomerania (SHIP).
+Automatic gallbladder segmentation using combined 2D and 3D shape features to perform volumetric analysis in native and secretin-enhanced MRCP sequences.
+MEASUREMENT OF PANCREATIC SIZE IN A POPULATION-BASED COHORT: COMPARISON OF ULTRASOUND AND MAGNETIC RESONANCE IMAGING
+The PNPLA3 SNP rs738409:G allele is associated with increased liver disease-associated mortality but reduced overall mortality in a population-based cohort.
+Erratum: Large meta-analysis of genome-wide association studies identifies five loci for lean body mass.
+Microglia ablation alleviates myelin-associated catatonic signs in mice.
+Investigation of Naturally Occurring Single-Nucleotide Variants in Human TAAR1.
+Associations of genetic determinants of serum vitamin B12 and folate concentrations with hay fever and asthma: a Mendelian randomization meta-analysis.
+Does periodontitis affect diabetes incidence and haemoglobin A1c change? An 11-year follow-up study.
+Hyperthyroxinemia is positively associated with prevalent and incident type 2 diabetes mellitus in two population-based samples from Northeast Germany and Denmark.
+Association of sex hormones with physical, laboratory, and imaging markers of anthropometry in men and women from the general population.
+Prediabetes is associated with microalbuminuria, reduced kidney function and chronic kidney disease in the general population: The KORA (Cooperative Health Research in the Augsburg Region) F4-Study.
+Regionaler Vergleich von Ernährungsgewohnheiten der Normalbevölkerung in der Bundesrepublik Deutschland
+Definition of Age dependent reference values for Diameter of the common bile duct and ancreatic duct on MRCP from a Population based cohort study
+Cardiopulmonary fitness is strongly associated with body cell mass and fat-free mass.
+Cross-sectional association between oral health and retinal microcirculation
+Risk factor prevalence and their relative influence on fatty liver and gallstone disease: A cross-ethnic study comparing two high-risk populations from chile and Northeast Germany
+Targeting sphingosine-1-phosphate lyase as an anabolic therapy for bone loss
+Circulating angiopoietin-2 and its soluble receptor Tie-2 concentrations are related to inflammatory markers in the general population
+Association Between Symptoms of Posttraumatic Stress Disorder and Signs of Temporomandibular Disorders in the General Population.
+Comprehensive Metabolic Profiling Reveals a Lipid-rich Fingerprint of Free Thyroxine Far Beyond Classical Parameters.
+Functional variants of OCTN transporter genes are associated with total and LDL cholesterol in a body mass-dependent manner
+Genome-wide association study in 79,366 European-ancestry individuals informs the genetic architecture of 25-hydroxyvitamin D levels.
+Physiological Aldosterone Concentrations Are Associated with Alterations of Lipid Metabolism: Observations from the General Population
+Ceramide Remodeling and Risk of Cardiovascular Events and Mortality.
+Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression.
+The informative error: A framework for the construction of individualized phenotypes.
+Associations of insulin-like growth factor-I and insulin-like growth factor binding protein-3 with bone quality in the general adult population.
+Associations Between Plasma Chemerin Concentrations and Bone Quality in Adults From the General Population.
+Functional abdominal pain and discomfort (IBS) is not associated with faecal microbiota composition in the general population.
+Common and Rare Coding Genetic Variation Underlying the Electrocardiographic PR Interval.
+ExomeChip-Wide Analysis of 95 626 Individuals Identifies 10 Novel Loci Associated With QT and JT Intervals.
+Der Parodontitis-Risiko-Score - Via Selbsttest zum Screening
+Reference values of vessel diameters, stenosis prevalence, and arterial variations of the lower limb arteries in a male population sample using contrast-enhanced MR angiography.
+Prevalence of renal cysts and association with risk factors in a general population: an MRI-based study.
+Association of Circulating Chemerin With Subclinical Parameters of Atherosclerosis: Results of a Population-Based Study.
+Mapping cortical brain asymmetry in 17,141 healthy individuals worldwide via the ENIGMA Consortium.
+Exome-chip meta-analysis identifies novel loci associated with cardiac conduction, including ADAMTS6.
+Low-Circulating Homoarginine is Associated with Dilatation and Decreased Function of the Left Ventricle in the General Population.
+Self-reported oral health predicts tooth loss after five and ten years in a population-based study
+Association of Brain-Derived Neurotrophic Factor and Vitamin D with Depression and Obesity: A Population-Based Study.
+Regional differences in antihyperglycemic medication are not explained by individual socioeconomic status, regional deprivation, and regional health care services. Observational results from the German DIAB-CORE consortium.
+Reference ranges of left ventricular structure and function assessed by contrast-enhanced cardiac MR and changes related to ageing and hypertension in a population-based study.
+Evaluation of a new equation for LDL-c estimation and prediction of death by cardiovascular related events in a German population-based study cohort.
+Regional tract-specific white matter hyperintensities are associated with patterns to aging-related brain atrophy via vascular risk factors, but also independently.
+Predictive value for cardiovascular events of common carotid intima media thickness and its rate of change in individuals at high cardiovascular risk - Results from the PROG-IMT collaboration.
+Assessment of subjective emotional valence and long-lasting impact of life events: development and psychometrics of the Stralsund Life Event List (SEL).
+Risk thresholds for alcohol consumption: combined analysis of individual-participant data for 599?912 current drinkers in 83 prospective studies.
+Low thyroid function is not associated with an accelerated deterioration in renal function.
+Median urinary iodine concentration reflected sufficient iodine supply in neonates from Northeast Germany in 2005-2006.
+Reducing uncertainty in estimating associations of oral exposures with Helicobacter pylori serology in the general population.
+PR interval genome-wide association meta-analysis identifies 50 loci associated with atrial and atrioventricular electrical activity.
+Hepatic steatosis associates with adverse molecular signatures in subjects without diabetes.
+Enlarged perivascular spaces and cognition: A meta-analysis of 5 population-based studies.
+White matter lesions: Spatial heterogeneity, links to risk factors, cognition, genetics, and atrophy.
+Influence of Age and Tooth Loss on Masticatory Muscles Characteristics: A Population Based MR Imaging Study.
+The relation between thyroid function and anemia: a pooled analysis of individual participant data.
+Different rates of progression and mortality in patients with chronic kidney disease at outpatient nephrology clinics across Europe.
+An InDel in Phospholipase-C-B-1 Is Linked with Euthyroid Multinodular Goiter.
+Associations of trauma exposure and post-traumatic stress disorder with the activity of the renin-angiotensin-aldosterone-system in the general population.
+Identification of Comprehensive Metabotypes Associated with Cardiometabolic Diseases in the Population-Based KORA Study.
+Correction to: Reference ranges of left ventricular structure and function assessed by contrast-enhanced cardiac MR and changes related to ageing and hypertension in a population-based study.
+Metabolomic profiling implicates adiponectin as mediator of a favorable lipoprotein profile associated with NT-proBNP.
+Third Molars And Periodontal Damage Of Second Molars In The General Population.
+Genome-wide analyses identify a role for SLC17A4 and AADAT in thyroid hormone regulation.
+High Thyrotropin Is Associated with Reduced Hippocampal Volume in a Population-Based Study from Germany
+Association of alcohol consumption with allergic disease and asthma: a multi-centre Mendelian randomization analysis.
+Molecular Fingerprints of Iron Parameters among a Population-Based Sample.
+Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity.
+GWAS and colocalization analyses implicate carotid intima-media thickness and carotid plaque loci in cardiovascular outcomes.
+Association of domain-specific physical activity and cardiorespiratory fitness with all-cause and cause-specific mortality in two population-based cohort studies.
+Prevalence and association analysis of obstructive sleep apnea with gender and age differences - Results of SHIP-Trend.
+Changes in fat mass and fat-free-mass are associated with incident hypertension in four population-based studies from Germany.
+Regional differences of macrovascular disease in Northeast and South Germany: the population-based SHIP-TREND and KORA-F4 studies.
+Common Genetic Variation in Relation to Brachial Vascular Dimensions and Flow-Mediated Vasodilation
+Alexithymia and temporomandibular joint and facial pain in the general population.
+Predicting physical and mental health symptoms: Additive and interactive effects of difficulty identifying feelings, neuroticism and extraversion.
+Irritable bowel syndrome, mental health, and quality of life: Data from a population-based survey in Germany (SHIP-Trend-0)
+Regional Influences on Nutritional Iodine Status of Pregnant Women in Pakistan
+Prevalence and associated risk factors of periodic limb movement in sleep in two German population-based studies.
+Correction: Predictive value for cardiovascular events of common carotid intima media thickness and its rate of change in individuals at high cardiovascular risk - Results from the PROG-IMT collaboration.
+How Do We Improve the Impact of Iodine Deficiency Disorders Prevention in Europe and Beyond?
+Age at natural menopause and life expectancy with and without type 2 diabetes.
+Equalization of four cardiovascular risk algorithms after systematic recalibration: individual-participant meta-analysis of 86 prospective studies.
+A framework for expert-driven subpopulation discovery and evaluation using subspace clustering for epidemiological data
+Meta-analysis of up to 622,409 individuals identifies 40 novel smoking behaviour associated genetic loci.
+New Insights in the Link Between Malocclusion and Periodontal Disease.
+Multiancestry genome-wide association study of 520,000 subjects identifies 32 loci associated with stroke and stroke subtypes.
+Long-term association of Periodontitis with decreased kidney function
+Assessment of the Relationship Between Genetic Determinants of Thyroid Function and Atrial Fibrillation: A Mendelian Randomization Study
+Association of anthropometric markers with globe position: A population-based MRI study
+Disentangling the genetics of lean mass.
+Mean platelet volume is more important than age for defining reference intervals of platelet counts.
+Methylation of the FKBP5 gene in association with FKBP5 genotypes, childhood maltreatment and depression.
+Variants in ABCG8 and TRAF3 genes confer risk for gallstone disease in admixed Latinos with Mapuche Native American ancestry.
+Evaluation of a rare glucose-dependent insulinotropic polypeptide receptor variant in a patient with diabetes.
+The sex paradox in the interplay between periodontitis, obesity, and serum C-reactive protein. Data from a general population
+Accuracy of ultrasonography in the assessment of liver fat compared with MRI
+Pancreatic Steatosis Is Associated With Impaired Exocrine Pancreatic Function
+Interactive impact of childhood maltreatment, depression, and age on cortical brain structure: mega-analytic findings from a large multi-site cohort
+Rising rural body-mass index is the main driver of the global obesity epidemic in adults.
+Construction of a biological age score to predict tooth loss over ten years
+Prevalence of thyroid abnormality: a comparison of ambulatory claims data with data from a population-based study
+Subclinical thyroid dysfunction and depressive symptoms: protocol for a systematic review and individual participant data meta-analysis of prospective cohort studies.
+Associations of circulating chemerin and adiponectin concentrations with hepatic steatosis.
+Metabolic signature associated with parameters of the complete blood count in apparently healthy individuals.
+Differential activation of the renin-angiotensin-aldosterone-system in response to childhood and adulthood trauma.
+Age-Related Macular Degeneration and Associated Risk Factors in the Population-Based Study of Health in Pomerania (SHIP-Trend)
+Copy number variants in lipid metabolism genes are associated with gallstones disease in men.
+Association of childhood traumatization and neuropsychiatric outcomes with altered plasma micro RNA-levels.
+Cardiovascular Risk Factors Associated With Venous Thromboembolism.
+Genome-wide association analysis of diverticular disease points towards neuromuscular, connective tissue and epithelial pathomechanisms.
+Herpes zoster incidence in Germany - an indirect validation study for self-reported disease data from pretest studies of the population-based German National Cohort.
+A deep learning framework for efficient analysis of breast volume and fibroglandular tissue using MR data with strong artifacts.
+How to report incidental findings from population whole-body MRI: view of participants of the German National Cohort.
+The association of intensive care with utilization and costs of outpatient healthcare services and quality of life.
+Interobserver variability of ventilatory anaerobic threshold in asymptomatic volunteers.
+Long-term impact of powered toothbrush on oral health: 11-year cohort study.
+GWAS of Suicide Attempt in Psychiatric Disorders and Association With Major Depression Polygenic Risk Scores.
+Corticosteroids and Regional Variations in Thickness of the Human Cerebral Cortex across the Lifespan.
+No Alterations of Brain Structural Asymmetry in Major Depressive Disorder: An ENIGMA Consortium Analysis.
+Plasma Metabolomics to Identify and Stratify Patients with Impaired Glucose Tolerance.
+Association of Thyroid Function with Handgrip Strength: Data from the Study of Health in Pomerania and the Berlin Aging Study II.
+Posttraumatic stress disorder is associated with reduced vitamin D levels and functional polymorphisms of the vitamin D binding-protein in a population-based sample.
+A thyroid hormone-independent molecular fingerprint of 3,5-diiodothyronine suggests a strong relation with coffee metabolism in humans.
+Diabetes status affects long-term changes in coronal caries - The SHIP Study.
+Brain-derived neurotrophic factor is related with adverse cardiac remodeling and high NTproBNP.
+Sex-Specific Associations of Brain-Derived Neurotrophic Factor and Cardiorespiratory Fitness in the General Population
+Glucose and insulin levels are associated with arterial stiffness and concentric remodeling of the heart
+Progression of conventional cardiovascular risk factors and vascular disease risk in individuals: insights from the PROG-IMT consortium
+Genetic architecture of subcortical brain structures in 38,851 individuals.
+The neck-shaft angle: an update on reference values and associated factors.
+Phenome-wide association analysis of LDL-cholesterol lowering genetic variants in PCSK9.
+Relation of IGF-I with subclinical cardiovascular markers including intima-media thickness, left ventricular mass index and NT-proBNP.
+Does craniofacial morphology affect third molars impaction? Results from a population-based study in northeastern Germany.
+Multi-ancestry sleep-by-SNP interaction analysis in 126,926 individuals reveals lipid loci stratified by sleep duration.
+Helicobacter pylori infection associates with fecal microbiota composition and diversity.
+Comparability of Size Measurements of the Pancreas in Magnetic Resonance Imaging and Transabdominal Ultrasound.
+Median urinary iodine concentration reflected sufficient iodine supply in neonates from Northeast Germany in 2005-2006
+Cardiorespiratory Fitness and Gray Matter Volume in the Temporal, Frontal, and Cerebellar Regions in the General Population.
+Harmonization of large MRI datasets for the analysis of brain imaging patterns throughout the lifespan.
+The Krakow Declaration on Iodine: Tasks and Responsibilities for Prevention Programs Targeting Iodine Deficiency Disorders.
+The Impact of Childhood Trauma and Depressive Symptoms on Body Mass Index
+The Saliva Metabolome in Association to Oral Health Status
+A Biomarker for Alzheimer's Disease Based on Patterns of Regional Brain Atrophy.
+Frequency of thyroid function tests and examinations in participants of a population-based study
+Associations between adipose tissue volume and small molecules in plasma and urine among asymptomatic subjects from the general population.
+Die Basiserhebung der NAKO Gesundheitsstudie: Teilnahme an den Untersuchungsmodulen, Qualitätssicherung und Nutzung von Sekundärdaten
+Evaluation of the Metabotype Concept Identified in an Irish Population in the German KORA Cohort Study.
+Körperliche Aktivität in der NAKO Gesundheitsstudie: erste Ergebnisse des multimodalen Erhebungskonzepts
+Anthropometrische Messungen in der NAKO Gesundheitsstudie  mehr als nur Größe und Gewicht
+Messung der körperlichen Fitness in der NAKO Gesundheitsstudie  Methoden, Qualitätssicherung und erste deskriptive Ergebnisse
+Häufigkeiten muskuloskelettaler Symptome und Erkrankungen in der bevölkerungsbezogenen NAKO Gesundheitsstudie
+The genetic architecture of the human cerebral cortex.
+ENIGMA and global neuroscience: A decade of large-scale studies of the brain in health and disease across more than 40 countries.
+Associations of iron markers with type 2 diabetes mellitus and metabolic syndrome: results from the prospective SHIP study.
+[Blood pressure measurement in the NAKO German National Cohort (GNC) - differences in methods, distribution of blood pressure values, and awareness of hypertension compared to other population-based studies in Germany].
+Are Third Molars Associated With Orofacial Pain? Findings From the SHIP Study
+Design und Qualitätskontrolle der zahnmedizinischen Untersuchung in der NAKO Gesundheitsstudie [Design and quality control of the oral health status examination in the German National Cohort (GNC)]
+Competing interplay between systemic and periodontal inflammation: Obesity overrides the impact of oral periphery
+Is the Obesity Paradox in Type 2 Diabetes Due to Artefacts of Biases? An Analysis of Pooled Cohort Data from the Heinz Nixdorf Recall Study and the Study of Health in Pomerania.
+Carotid Lumen Diameter Is Associated With All?Cause Mortality in the General Population
+Standardized Map of Iodine Status in Europe.
+Alexithymia Is Associated with Altered Cortical Thickness Networks in the General Population
+Shame, self-identification with having a mental illness, and willingness to seek help in northeast Germany
+The Polygenic and Monogenic Basis of Blood Traits and Diseases.
+Trans-ethnic and Ancestry-Specific Blood-Cell Genetics in 746,667 Individuals from 5 Global Populations.
+Associations of a Panel of Adipokines with Fat Deposits and Metabolic Phenotypes in a General Population.
+Association between cardiorespiratory fitness and handgrip strength with age-related macular degeneration: a population-based study
+Vitamin D levels are associated with trait resilience but not depression in a general population sample.
+The Gut Microbiome in Patients With Chronic Pancreatitis Is Characterized by Significant Dysbiosis and Overgrowth by Opportunistic Pathogens.
+An individual participant data analysis of prospective cohort studies on the association between subclinical thyroid dysfunction and depressive symptoms.
+Genetic loci associated with prevalent and incident myocardial infarction and coronary heart disease in the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium.
+Decision-Analytic Modeling Studies in Prevention and Treatment of Iodine Deficiency and Thyroid Disorders: A Systematic Overview.
+Prevalence and risk factors of perirenal hyperintensities on T2-weighted MR imaging.
+Prevalence of Prediabetes and Diabetes Mellitus Type II in Bipolar Disorder.
+Long-term prognosis after kidney donation: a propensity score matched comparison of living donors and non-donors from two population cohorts.
+Associations between Sleep Apnoea and Advanced Brain Ageing in a Large-Scale Population Study.
+Physical activity and cardiorespiratory fitness - a ten year follow-up.
+Reference Values for Pulmonary Single-Breath Diffusing Capacity - Results of the "Study of Health in Pomerania".
+[Assessment of self-reported cardiovascular and metabolic diseases in the German National Cohort (GNC, NAKO Gesundheitsstudie): methods and initial results].
+Long-term instability of the intestinal microbiome is associated with metabolic liver disease, low microbiota diversity, diabetes mellitus and impaired exocrine pancreatic function.
+MRI signatures of brain age and disease over the lifespan based on a deep brain network and 14?468 individuals worldwide.
+Associations between shift work and risk of colorectal cancer in two German cohort studies.
+Benefits and Harms of a Prevention Program for Iodine Deficiency Disorders: Predictions of the Decision-Analytic EUthyroid Model.
+Barriers Against Prevention Programs for Iodine Deficiency Disorders in Europe: A Delphi Study.
+Lower Cardiorespiratory Fitness Is Associated With a Smaller and Stiffer Heart: The Sedentary's Heart.
+Tooth loss and adiposity: possible role of carnitine transporter (OCTN1/2) polymorphisms in women but not in men.
+Interactions of anemia, FGF-23 and bone in healthy adults - results from the Study of Health in Pomerania (SHIP).
+The association between thyroid function biomarkers and attention deficit hyperactivity disorder.
+Subcortical shape alterations in major depressive disorder: Findings from the ENIGMA major depressive disorder working group
+Brain aging in major depressive disorder: results from the ENIGMA major depressive disorder working group.
+Brain structural abnormalities in obesity: relation to age, genetic risk, and common psychiatric disorders : Evidence through univariate and multivariate mega-analysis including 6420 participants from the ENIGMA MDD working group
+Virtual Histology of Cortical Thickness and Shared Neurobiology in 6 Psychiatric Disorders.
+Greater male than female variability in regional brain structure across the lifespan
+Association of traumatic stress and posttraumatic stress disorder with carotid atherosclerosis: findings from the general population.
+Cortisol, aging and the influence on brain age
+Vitamin D moderates the interaction between 5-HTTLPR and childhood abuse in depressive disorders.
+Association between coronal caries and malocclusion in an adult population.
+Relation of body fat mass and fat-free mass to total mortality: results from 7 prospective cohort studies.
+Childhood maltreatment and lung function: Findings from the general population.
+Variability of Thyroid Measurements from Ultrasound and Laboratory in a Repeated Measurements Study
+Exocrine Pancreatic Function Modulates Plasma Metabolites Through Changes in Gut Microbiota Composition.
+Large-scale association analyses identify host factors influencing human gut microbiome composition.
+Genome-wide association study in 8,956 German individuals identifies influence of ABO histo-blood groups on gut microbiome.
+Lack of association between proton pump inhibitor use and brain aging: a cross-sectional study
+Comparison of pancreatic size measurements in transabdominal ultrasound and magnetic resonance imaging and its dependence on age, gender, and body mass index in apopulation-based cohort
+Height and body-mass index trajectories of school-aged children and adolescents from 1985 to 2019 in 200 countries and territories: a pooled analysis of 2181 population-based studies with 65 million participants.
+Research in rural regions for rural regions: Temporary study centers as a method to increase response in population-based studies. Results of the German national cohort in Mecklenburg-Western Pomerania
+The Impact of the COVID-19 Pandemic on Self-Reported Health - Early evidence from the German National Cohort
+Alexithymia is associated with increased all-cause mortality risk in men, but not in women: A 10-year follow-up study.
+From heterogeneous healthcare data to disease-specific biomarker networks: A hierarchical Bayesian network approach.
+Association of proton pump inhibitor use with endothelial function and metabolites of the nitric oxide pathway: A cross-sectional study.
+Heterogeneous contributions of change in population distribution of body mass index to change in obesity and underweight.
+A Comprehensive View on the Human Antibody Repertoire Against Staphylococcus aureus Antigens in the General Population
+Variants associated with HHIP expression have sex-differential effects on lung function.
+The association between genetically determined ABO blood types and major depressive disorder.
+The genetic predisposition to longevity acts through behavioral phenotypes in females.
+Hepatic steatosis and hepatic iron overload modify the association of iron markers with glucose metabolism disorders and metabolic syndrome.
+Carrying asymptomatic gallstones is not associated with changes in intestinal microbiota composition and diversity but cholecystectomy with significant dysbiosis
+Broad Metabolome Alterations Associated with the Intake of Oral Contraceptives Are Mediated by Cortisol in Premenopausal Women
+Childhood Maltreatment and Subclinical Atherosclerosis: Findings from the General Population.
+Educational Level, But Not Income or Area Deprivation, is Related to Macrovascular Disease: Results from Two Population-based Cohorts in Germany
+Increased sphingosine-1-phosphate serum concentrations in subjects with periodontal disease: a matter of inflammation
+A 10-year follow-up of key gas exchange exercise parameters in a general population: results of the Study of Health in Pomerania.
+ENIGMA-Sleep: Challenges, opportunities, and the road map.
+Low serum TSH levels are associated with low values of fat-free mass and body cell mass in the elderly.
+Soziodemografische und störungsbezogene Determinanten zur Inanspruchnahme von ärztlicher oder psychologischer Hilfe bei depressiven Episoden in einem strukturschwachen Flächenland - die besondere Rolle des Lebensalters
+Association between different dimensions of childhood traumatization and plasma micro-RNA levels in a clinical psychiatric sample
+Variation in the SERPINA6/SERPINA1 locus alters morning plasma cortisol, hepatic corticosteroid binding globulin expression, gene expression in peripheral tissues, and risk of cardiovascular disease.
+Association of hepatic steatosis derived from ultrasound and quantitative MRI with prediabetes in the general population.
+The course of thyroid nodules and thyroid volume over a time-period of up to 10 years: a longitudinal analysis of a population-based cohort
+Alexithymia and its association with cortisol in the general population
+Salivary metabolites associated with a 5-year tooth loss identified in a population-based setting
+Cardiac Hypertrophy Is Associated With Advanced Brain Aging in the General Population.
+The association of childhood maltreatment, somatization and health-related quality of life in adult age: Results from a population-based cohort study
+Association of sex-specific differences in lipoprotein(a) concentrations with cardiovascular mortality in individuals with type 2 diabetes mellitus.
+Periodontitis Is Related to Exercise Capacity: Two Cross-sectional Studies.
+Is Continuous Eruption Related to Periodontal Changes? A 16-Year Follow-up.
+Ten-year trends in DMF-S and DMF-T in a northeast German adult population Schmoeckel J, Haq J, Samietz S, Santamaría RM, Mourad MS, Völzke H, Kocher T, Splieth CH, Holtfreter B.
+Contrasting recruitment of skin-associated adipose depots during cold challenge of mouse and human.
+Effect of periodontal treatment on preclinical Alzheimer's disease-Results of a trial emulation approach
+Polypharmacy and saliva volumes in the northeast of Germany - The Study of Health in Pomerania.
+Prevalence and risk factors of potentially malignant disorders of the mucosa in the general population: Mucosa lesions a general health problem?
+A deep cascaded segmentation of obstructive sleep apnea-relevant organs from sagittal spine MRI.
+Modeling transcriptomic age using knowledge-primed artificial neural networks.
+Long-term outcome of incidental cystic liver tumors in the general population.
+A metabolome-wide association study in the general population reveals decreased levels of serum laurylcarnitine in people with depression
+Meta-analysis of epigenome-wide association studies of carotid intima-media thickness.
+Lack of Significant Association between Sex Hormone Concentrations and Atopic Dermatitis in Adolescents and Adults in Two Population-Based Studies.
+Assessing the difficulty of annotating medical data in crowdworking with help of experiments.
+The Correlation of Lung Function Parameters, Blood Pressure and Beta-Blocker Medication in a General Population.
+The site of waist measurement impacts the estimation of visceral fat: Results from three-dimensional photonic body scanning.
+Association of Thyroid Dysfunction With Cognitive Function: An Individual Participant Data Analysis.
+Cardiac MRI shows an association of lower cardiorespiratory fitness with decreased myocardial mass and higher cardiac stiffness in the general population - The Sedentary's Heart.
+Lower muscular strength is associated with smaller left and right chambers and lower cardiac mass in the general population - The Sedentary's Heart.
+Association between hepatic fat and subclinical vascular disease burden in the general population.
+Association Between Obstructive Sleep Apnea and Brain White Matter Hyperintensities in a Population-Based Cohort in Germany.
+Validating biomarkers and models for epigenetic inference of alcohol consumption from blood.
+The economic impact of prevention, monitoring and treatment strategies for iodine deficiency disorders in Germany.
+Subcortical volumes across the lifespan: Data from 18,605 healthy individuals aged 3-90?years
+Cortical thickness across the lifespan: Data from 17,075 healthy individuals aged 3-90?years
+Sex differences in the association between basal serum cortisol concentrations and cortical thickness
+Interrater sleep stage scoring reliability between manual scoring from two European sleep centers and automatic scoring performed by the artificial intelligence-based Stanford-STAGES algorithm.
+Genome-wide analysis of 944 133 individuals provides insights into the etiology of haemorrhoidal disease.
+Whole-body R2? mapping to quantify tissue iron in iron storage organs: reference values and a genotype.
+Brain Correlates of Suicide Attempt in 18,925 Participants Across 18 International Cohorts.
+Genetic insights into biological mechanisms governing human ovarian ageing.
+Cortical and subcortical brain structure in generalized anxiety disorder: findings from 28 research sites in the ENIGMA-Anxiety Working Group.
+Higher thyrotropin leads to unfavorable lipid profile and somewhat higher cardiovascular disease risk: evidence from multi-cohort Mendelian randomization and metabolomic profiling.
+Lower Cardiorespiratory Fitness Is Associated With Right Ventricular Geometry and Function - The Sedentary's Heart: SHIP.
+Associations of carotid intima media thickness with gene expression in whole blood and genetically predicted gene expression across 48 tissues.
+The power of genetic diversity in genome-wide association studies of lipids.
+Body mass index but not genetic risk is longitudinally associated with altered structural brain parameters
+Association of glycated hemoglobin A levels with cardiovascular outcomes in the general population: results from the BiomarCaRE (Biomarker for Cardiovascular Risk Assessment in Europe) consortium.
+Associations of liver volume and other markers of hepatic steatosis with all-cause mortality in the general population.
+Effects of whole-body MRI on outpatient health service costs: a general-population prospective cohort study in Mecklenburg-Vorpommern, Germany
+Variants associated with  expression have sex-differential effects on lung function.
+Dissecting the Shared Genetic Architecture of Suicide Attempt, Psychiatric Disorders, and Known Risk Factors.
+Associations of objective and subjective sleep quality with MRI markers of brain ageing and Alzheimers disease
+Toll-like receptor 1 locus re-examined in a genome-wide association study update on anti-Helicobacter pylori IgG titers
+Correction to: Competing interplay between systemic and periodontal inflammation: obesity overrides the impact of oral periphery.
+SHIP-MR and Radiology: 12 Years of Whole-Body Magnetic Resonance Imaging in a Single Center
+Inverse association between the anticholinergic burden and hippocampus volume in a population-based cohort across the entire adult age range.
+Low Cardiopulmonary Fitness is Associated with Higher Liver Fat Content and Higher Gamma-Glutamyltransferase Concentrations in the General Population - "The Sedentary's Liver".
+Correction: Brain structural abnormalities in obesity: relation to age, genetic risk, and common psychiatric disorders
+The Brain Chart of Aging: Machine-learning analytics reveals links between brain aging, white matter disease, amyloid burden, and cognition in the iSTAGING consortium of 10,216 harmonized MR scans
+Data?driven approach reveals heterogeneity and region?specific association of white matter hyperintensities with the APOE genotype: Doctor AI: Making computers explain their decisions
+Association of thyroid function with insulin resistance: data from two population-based studies.
+Plasma circulating micro-RNAs associated with alexithymia reflect a high overlap on neuropsychiatric outcomes.
+Cohort Profile Update: The Study of Health in Pomerania (SHIP).
+Association between thyroid function and assessment of hepatic fat and iron contents by magnetic resonance imaging.
+Effects of Apolipoprotein E polymorphism on carotid intima-media thickness, incident myocardial infarction and incident stroke.
+NMR Metabolomics Reveal Urine Markers of Microbiome Diversity and Identify Benzoate Metabolism as a Mediator between High Microbial Alpha Diversity and Metabolic Health.
+Circulating Metabolome and White Matter Hyperintensities in Women and Men.
+Longitudinal association of Apolipoprotein E polymorphism with lipid profile, type 2 diabetes and metabolic syndrome: Results from a 15 year follow-up study.
+The interplay between genetic variation and gene expression of the glucocorticoid receptor gene NR3C1 and blood cortisol levels on verbal memory and hippocampal volumes.
+Sphingosine-1-phosphate and vascular disease in the general population
+Association of Cardiopulmonary Exercise Capacity and Adipokines in the General Population
+Impact of dental restorations and removable prostheses on potentially malignant oral mucosal disorders in the general population
+Factors influencing tooth loss in European population
+Association between bone turnover markers and periodontitis: A population-based cross-sectional study.
+Tooth loss in periodontally treated patients: A registry- and observation-based analysis
+Association between hepatic iron overload assessed by magnetic resonance imaging and glucose intolerance states in the general population.
+Genetic and clinical determinants of abdominal aortic diameter: genome-wide association studies, exome array data and Mendelian randomization study.
+Analysis of epidemiological association patterns of serum thyrotropin by combining random forests and Bayesian networks.
+Genome-wide associations of aortic distensibility suggest causality for aortic aneurysms and brain white matter hyperintensities.
+A multi-layer functional genomic analysis to understand noncoding genetic variation in lipids.
+Links between ectopic and abdominal fat and systemic inflammation: New insights from the SHIP-Trend study.
+Lipoprotein(a) and Metabolic Syndrome.
+Birth Order, Caesarean Section, or Daycare Attendance in Relation to Child- and Adult-Onset Type 1 Diabetes: Results from the German National Cohort
+Development and External Validation of a Multivariable Prediction Model to Identify Nondiabetic Hyperglycemia and Undiagnosed Type 2 Diabetes: Diabetes Risk Assessment in Dentistry Score (DDS)
+Childhood maltreatment is not associated with atopic dermatitis in adults: results from a cross-sectional population-based cohort study.
+Genome-wide association analyses of physical activity and sedentary behavior provide insights into underlying mechanisms and roles in disease prevention.
+A saturated map of common genetic variants associated with human height.
+Framework and baseline examination of the German National Cohort (NAKO)
+An uncertainty-aware, shareable, and transparent neural network architecture for brain-age modeling.
+Register-based information on thyroid diseases in Europe: lessons and results from the EUthyroid collaboration.
+Simple diameter measurement as predictor of liver volume and liver parenchymal disease.
+Whole-Body Magnetic Resonance Imaging in the Large Population-Based German National Cohort Study: Predictive Capability of Automated Image Quality Assessment for Protocol Repetitions.
+Interaction of childhood abuse and depressive symptoms on cortical thickness: a general population study.
+Quality of life and sleep in individuals with irritable bowel syndrome according to different diagnostic criteria and inflammatory bowel diseases: A comparison using data from a population-based survey.
+Incorporating Baseline Outcome Data in Individual Participant Data Meta-Analysis of Non-randomized Studies.
+Does social support prevent suicidal ideation in women and men? Gender-sensitive analyses of an important protective factor within prospective community cohorts.
+Prevalence, atopic and psychological comorbidity of physician-diagnosed atopic dermatitis in an adult general population sample: A cross-sectional study.
+Variability of biomarkers used for the classification of metabolic syndrome: A repeated measurements study.
+Vitamin D deficit is associated with accelerated brain aging in the general population.
+Genetic analyses of the electrocardiographic QT interval and its components identify additional loci and pathways.
+TREML2 Gene Expression and Its Missense Variant rs3747742 Associate with White Matter Hyperintensity Volume and Alzheimer's Disease-Related Brain Atrophy in the General Population.
+Os acromiale: prevalence and associated patient-related factors-a population-based study of three thousand and fifty participants.
+Epidemiological Factors Associated With Intraductal Papillary Mucinous Neoplasm of the Pancreas: A Dual Center Case-Control Study.
+The role of educational attainment and brain morphology in major depressive disorder: Findings from the ENIGMA major depressive disorder consortium.
+The assessment of childhood maltreatment and its associations with affective symptoms in adulthood: Results of the German National Cohort (NAKO)
+Age-dependent sex differences in the association between cortisol concentrations and childhood trauma
+APOE ?4 in Depression-Associated Memory Impairment-Evidence from Genetic and MicroRNA Analyses.
+The bias from heaping on risk estimation: effect of age at diagnosis of hypertension on risk of subsequent cardiovascular comorbidities.
+Universal salt iodization potentially contributes to health equity: socio-economic status of children does not affect iodine status.
+Estimating Incidence and Case Fatality of Thyroid Storm in Germany Between 2007 and 2017: A Claims Data Analysis.
+Associations of Pulmonary Function with MRI Brain Volumes: A Coordinated Multi-Study Analysis.
+Determinants of Perivascular Spaces in the General Population: A Pooled Cohort Analysis of Individual Participant Data.
+Mild-to-Moderate Kidney Dysfunction and Cardiovascular Disease: Observational and Mendelian Randomization Analyses.
+Association of spermidine plasma levels with brain aging in a population-based study
+Automated imaging-based abdominal organ segmentation and quality control in 20,000 participants of the UK Biobank and German National Cohort Studies.
+Insufficient physical activity and multimorbidity was associated with low physical functional performance in older adults: a cross-sectional study
+Body surface scan anthropometrics are related to cardiorespiratory fitness in the general population
+The relationship between Alzheimer's-related brain atrophy patterns and sleep macro-architecture.
+tRNA-like Transcripts from the  Genomic Region Critically Influence Human Innate Immunity and Macrophage Functions.
+Population Based Average Parotid Gland Volume and Prevalence of Incidental Tumors in T1-MRI
+Implicating genes, pleiotropy, and sexual dimorphism at blood lipid loci through multi-ancestry meta-analysis.
+Have extraction patterns in German adults with severe periodontitis changed between 2000 and 2010? Results from two cohort studies.
+Powered tooth brushes are beneficial for long-term oral health: Results from the Study of Health in Pomerania (SHIP-TREND).
+Masticaticatory muscles characteristics in relation to adiposity and general muscular fitness: a population-based study
+Deciphering the Effect of Different Genetic Variants on Hippocampal Subfield Volumes in the General Population.
+Association between childhood maltreatment and adult cortisol concentrations mediated through subjective health complaints
+The interplay between micro RNAs and genetic liability to Alzheimer's Disease on memory trajectories in the general population.
+Depression, cardiometabolic disease, and their co-occurrence after childhood maltreatment: an individual participant data meta-analysis including over 200,000 participants.
+Epigenome-Wide Association Study Reveals CpG Sites Associated with Thyroid Function and Regulatory Effects on KLF9
+The relationship between homoarginine and liver biomarkers: a combination of epidemiological and clinical studies.
+Conducting an Epidemiologic Study and Making It FAIR: Reusable Tools and Procedures from a Population-Based Cohort Study.
+Cortisol and periodontitis: Prospective observational and Mendelian randomization studies.
+Sphingosine-1-phosphate levels are inversely associated with left ventricular and atrial chamber volume and cardiac mass in men : The Study of Health in Pomerania (SHIP)
+Biomarker-based prediction of fatal and non-fatal cardiovascular outcomes in individuals with diabetes mellitus.
+Lack of structural brain alterations associated with insomnia: findings from the ENIGMA-Sleep Working Group.
+Analysis of volume and topography of adipose tissue in the trunk: Results of MRI of 11,141 participants in the German National Cohort.
+Better Together: Data Harmonization and Cross-Study Analysis of Abdominal MRI Data From UK Biobank and the German National Cohort.
+Volume of subcortical brain regions in social anxiety disorder: mega-analytic results from 37 samples in the ENIGMA-Anxiety Working Group.
+Author Correction: The power of genetic diversity in genome-wide association studies of lipids.
+The interplay of family history of depression and early trauma: associations with lifetime and current depression in the German national cohort (NAKO)
+Evaluating heart rate variability with 10?second multichannel electrocardiograms in a large population-based sample.
+Iodine Deficiency, Maternal Hypothyroxinemia and Endocrine Disrupters Affecting Fetal Brain Development: A Scoping Review.
+Carotid intima-media thickness and atherosclerotic plaques are associated with renal function decline: a 14-year longitudinal population-based study.
+Distinct genetic liability profiles define clinically relevant patient strata across common diseases.
+Identification of candidate metabolite biomarkers for metabolic syndrome and its five components in population-based human cohorts.

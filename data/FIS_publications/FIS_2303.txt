@@ -1,0 +1,86 @@
+Sendler, Matthias	FIS_2303
+Effect of magnesium supplementation and depletion on the onset and course of acute experimental pancreatitis.
+Mnk1 is a novel acinar cell-specific kinase required for exocrine pancreatic secretion and response to pancreatitis in mice.
+Surgical Trauma Leads to a Shorter Survival in a Murine Orthotopic Pancreatic Cancer Model.
+Alcohol Disrupts Levels and Function of the Cystic Fibrosis Transmembrane Conductance Regulator to Promote Development of Pancreatitis.
+Complement Component 5 Mediates Development of Fibrosis, via Activation of Stellate Cells, in 2 Mouse Models of Chronic Pancreatitis.
+Lysosome associated membrane proteins maintain pancreatic acinar cell homeostasis: LAMP-2 deficient mice develop pancreatitis.
+A recombined allele of the lipase gene CEL and its pseudogene CELP confers susceptibility to chronic pancreatitis.
+Cathepsin B mediated Protease activation increases acinar cell apoptosis
+Chronic stress promotes neoangiogenesis in a syngenetic orthotopic mouse model of pancreatic cancer
+TRAIL Promotes Tumor Growth in a Syngeneic Murine Orthotopic Pancreatic Cancer Model and Affects the Host Immune Response.
+Chronic stress increases experimental pancreatic cancer growth, reduces survival and can be antagonised by beta-adrenergic receptor blockade.
+Tumour-specific delivery of siRNA-coupled superparamagnetic iron oxide nanoparticles, targeted against PLK1, stops progression of pancreatic cancer.
+Development of Pancreatic Cancer: Targets for Early Detection and Treatment.
+The lysosomal Protease Cathepsin C regulates leukocyte invasion and apoptosis in acute pancreatitis
+Cathepsin C reguliert den Schweregrad der akuten experimentellen Pankreatitis durch Beeinflussung der Leukozyteninfiltration und Apoptose
+Cathepsin B Activity Initiates Apoptosis via Digestive Protease Activation in Pancreatic Acinar Cells and Experimental Pancreatitis.
+Human pluripotent stem cell-derived acinar/ductal organoids generate human pancreas upon orthotopic transplantation and allow disease modelling.
+Effect of oral administration of AZD8309, a CXCR2 antagonist, on the severity of experimental pancreatitis.
+EGFR1 Targeted Delivery of 5-Fluorouracil Using Tumor Specific Theranostic Aptamers in Pancreatic Ductal Adenocarcinoma
+Intracellular Trypsinogen Activation in Phagocyting Macrophages Acts as DAMP Fueling Severe Acute Pancreatitis
+Subdiaphragmatic vagotomy promotes tumor growth and reduces survival via TNF? in a murine pancreatic cancer model.
+Cathepsin B-mediated Activation of Trypsinogen in Endocytosing Macrophages Increases Severity of Pancreatitis in Mice.
+Cathepsin D regulates cathepsin B activation and disease severity predominantly in inflammatory cells during experimental pancreatitis.
+Cathepsin C Affects Severity of Acute Pancreatitis by Regulating Activation of Neutrophil Enzymes
+Einfluss der Calpaine auf die lysosomale Permeabilisierung und Proteasenaktivierung in der akuten experimentellen Pankreatitis
+NLRP3 Inflammasome activation in macrophages regulates systemic Inflammation and severity during acute pancreatitis
+Necrosis, Apoptosis, Necroptosis, Pyroptosis: It Matters How Acinar Cells Die During Pancreatitis.
+Roles of autophagy and metabolism in pancreatic cancer cell adaptation to environmental challenges.
+Ductal Mucus Obstruction and Reduced Fluid Secretion Are Early Defects in Chronic Pancreatitis.
+Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity.
+The Importance of Aquaporin 1 in Pancreatitis and Its Relation to the CFTR Cl Channel.
+Deficiency of cathepsin C ameliorates severity of acute pancreatitis by reduction of neutrophil elastase activation and cleavage of E-cadherin.
+Regulation of transcription factors in the ER stress recognition System during acute pancreatitis
+An in vitro System to evaluate potential therpeutic substances for ER stress reduction during pancreatitis
+Adaptive immune Response during acute pancreatitis is regulated by NLRP3 inflammasome activation via Interleukin 18
+IRAK-M regulates the local and systemic immune Responses in acute pancreatitis
+LMP7 immunoproteasome knockout mice Show delayed inflammatory respnse during acute pancreatitis: protective or harmful effect?
+Pink1-Parkin mediated mitophagy in acute pancreatitis
+Non classical macrophage polarization regulates the immune response during acute pancreatitis
+Cathepsin D reguliert den Schweregrad der akuten Pankreatitis über eine Aktivierung von Cathepsin D inflammatorischer Zellen
+Genetics and pathophysiology of pancreatitis.
+Role of endoplasmic reticulum stress and protein misfolding in disorders of the liver and pancreas
+NLRP3 Inflammasome Regulates Development of Systemic Inflammatory Respoes in Mice With Acute Pancreatitis.
+Involving patient groups in drug research. A systematic review of reasons
+Absence of the neutrophil serine protease cathepsin G decreases neutrophil granulocyte infiltration but does not change the severity of acute pancreatitis.
+Early trypsin activation develops independently of autophagy in caerulein-induced pancreatitis in mice.
+Macrophage-derived cytokines of the IL1 Family simultaneously regulate pro-and anti-Inflammation during severe acute pancreatitis
+The depletion of Foxp3+/CD25+ regulatory T cells drives a Th2 immune Response and reduces severity in a mouse model of acute pancreatitis
+Cathepsin D Expression mediates gemcitabine resistance in pancreatic cancer
+Depletion of cathepsin C ameliorates severity of acute pancreatitis by reduced activation of elastase in neutrophil granulocytes
+Interleukin 33 regulates Th2 T-cell Differentiation and macrophage polarization during acute pancreatitis
+Degradation of cystatin C, an endogenous cathepsin inhibitor, stabilizes cathepsin B activity within pancreatic zymogen granules
+Die lysosomale Protease Cathepsin C beeinflusst über Aktivierung von neutrophilen Serinproteasen die akute Pankreatitis
+The Complex Role of Trypsin in Pancreatitis.
+Experimental pancreatitis is characterized by rapid T cell activation, Th2 differentiation that parallels disease severity, and improvement after CD4 T cell depletion.
+The Gut Microbiome in Patients With Chronic Pancreatitis Is Characterized by Significant Dysbiosis and Overgrowth by Opportunistic Pathogens.
+Long-term instability of the intestinal microbiome is associated with metabolic liver disease, low microbiota diversity, diabetes mellitus and impaired exocrine pancreatic function.
+Role of Bile Acids and Bile Salts in Acute Pancreatitis: From the Experimental to Clinical Studies.
+Analysis of GPRC6A variants in different pancreatitis etiologies.
+Cell Signaling of Pancreatic Duct Pressure and Its Role in the Onset of Pancreatitis.
+Involving Patient Groups in Drug Research: A Systematic Review of Reasons.
+MiR-502 is the first reported miRNA simultaneously targeting two components of the classical non-homologous end joining (C-NHEJ) in pancreatic cell lines.
+Zelluläre Pathomechanismen der akuten Pankreatitis
+Immunsuppression during severe acute pancreatitis is associated with a dramatic shift in intestinal microbiota composition and infected necrosis
+Role of microlithiasis-induced NLRP3-inflammasome activation in the development of acute pancreatitis
+Cystatin C regulates Cathepsin B activity within pancreatic zymogen granules and prevents pancreatic protease activation
+Depletion of CD25+/FoxP3+ regulatory T cells increases fibrosis in a chronic model of pancreatitis
+Disturbance of the immunoproteasome function and ER stress response correlates with persistent pancreatic damage in acute pancreatitis
+Carrying asymptomatic gallstones is not associated with changes in intestinal microbiota composition and diversity but cholecystectomy with significant dysbiosis
+Immunoproteasome impairment via ?5i/LMP7-deletion leads to sustained pancreatic injury from experimental pancreatitis.
+Pancreatitis severity in mice with impaired CFTR function but pancreatic sufficiency is mediated via ductal and inflammatory cells-Not acinar cells.
+Entwicklung eines prädiktiven Modells zur frühzeitigen Detektion der infizierten Pankreasnekrose bei akuter Pankreatitis
+Loss of muscle mass and strength in experimental chronic pancreatitis
+Impact of systemic bile acids in acute pancreatitis depend on their hydrophobicity and may result from their interaction with CCK1 receptor
+The way to infected necrosis during severe acute pancreatitis: How regulatory T-cells impact on the intestinal barrier function
+Tumor-Specific Delivery of 5-Fluorouracil-Incorporated Epidermal Growth Factor Receptor-Targeted Aptamers as an Efficient Treatment in Pancreatic Ductal Adenocarcinoma Models.
+Plasma Metabolome Profiling Identifies Metabolic Subtypes of Pancreatic Ductal Adenocarcinoma.
+Pathogenesis of acute pancreatitis
+Role of Bile Acids and Bile Salts in Acute Pancreatitis: From the Experimental to Clinical Studies.
+In mouse chronic pancreatitis CD25FOXP3 regulatory T cells control pancreatic fibrosis by suppression of the type 2 immune response.
+DNA Polymerase Theta Plays a Critical Role in Pancreatic Cancer Development and Metastasis
+Mobilization of CD11b/Ly6c monocytes causes multi organ dysfunction syndrome in acute pancreatitis.
+Identification of early predictors for infected necrosis in acute pancreatitis.
+Systemic Bile Acids Affect the Severity of Acute Pancreatitis in Mice Depending on Their Hydrophobicity and the Disease Pathogenesis.
+Activated regulatory T-cells promote duodenal bacterial translocation into necrotic areas in severe acute pancreatitis.

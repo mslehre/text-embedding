@@ -1,0 +1,3 @@
+Ritter A	FIS_87526
+Comparative Analysis of Podocyte Foot Process Morphology in Three Species by 3D Super-Resolution Microscopy.
+The podocyte-specific knockout of palladin in mice with a 129 genetic background affects podocyte morphology and the expression of palladin interacting proteins

@@ -1,0 +1,90 @@
+Schweikhard, Lutz	FIS_33549
+Evolution of nuclear ground-state properties of neutron-deficient isotopes around Z = 82 from precision mass measurements
+The cryogenic gas stopping cell of SHIPTRAP
+Competition between pairing correlations and deformation from the odd-even mass staggering of francium and radium isotopes
+Upgrades at ClusterTrap and Latest Results
+Ion-Bunch Stacking in a Penning Trap after Purification in an Electrostatic Mirror Trap
+A phase-imaging technique for cyclotron-frequency measurements
+Direct determination of the atomic mass difference of Re187 and Os187 for neutrino physics and cosmochronology
+Precision Mass Measurements of 129-131Cd and Their Impact on Stellar Nucleosynthesis via the Rapid Neutron Capture Process
+Electron attachment to anionic clusters in ion traps
+Towards ultrahigh-resolution multi-reflection time-of-flight mass spectrometry at ISOLTRAP
+Abundances of Tetra-, Penta- and Hexa-Anionic Gold Clusters
+Direct measurement of the mass difference of 163Ho and 163Dy solves Q-value puzzle for the neutrino mass determination
+Probing the N=32 Shell Closure below the Magic Proton Number Z = 20: Mass Measurements of the Exotic Isotopes 52,53K
+Decay processes and radiative cooling of small anionic copper clusters
+The Cryogenic Storage Ring CSR
+Background-free beta-decay half-life measurements by in-trap decay and high-resolution MR-ToF mass analysis
+PILGRIM, a Multi-Reflection Time-of -Flight Mass Spectrometer for Spiral2-S3 at GANIL
+Spreading times of ion-bunches in the Cryogenic Trap for Fast ion beams
+Multi-reflection time-of-flight mass spectrometry with combined in-trap lift capture and mirror-switch ejection
+Binding Energy of 79Cu: Probing the Structure of the Doubly Magic 78Ni from Only One Proton Away
+Spectroscopy of the long-lived excited state in the neutron deficient nuclides 195,197,199Po by precision mass measurements
+Mass-selective ion ejection from multi-reflection time-of-flight devices via a pulsed in-trap lift
+Interaction of anionic lead clusters Pbn-, n=10, 12-102, with electrons - Polyanion production and cluster decay
+Quantum-state selective decay spectroscopy of 213Ra
+Precision electron-capture energy in 202Pb and its relevance for neutrino mass determination
+Radiative Rotational Lifetimes and State-Resolved Relative Detachment Cross Sections from Photodetachment Thermometry of Molecular Anions in a Cryogenic Storage Ring
+Nuclear deformation in the A ? 100 region: Comparison between measured masses and mean-field predictions
+Penning-trap mass spectrometry and mean-field study of nuclear shape coexistence in the neutron-deficient lead region
+Recent Upgrades of the SHIPTRAP Setup: On the Finish Line Towards Direct Mass Spectroscopy of Superheavy Elements
+Photodecay Pathways of Stored, Size-Selected Lead Clusters Pbn+, n = 6  41, and Pbn-, n = 9  56
+Precision mass measurements of cesium isotopes  new entries in the ISOLTRAP chronicles
+Disentangling the photodissociation pathways of small lead clusters by time-resolved monitoring of their delayed decays: the case of ${{{\rm{P}}{\rm{b}}}_{31}}^{+}$
+In-depth study of in-trap high-resolution mass separation by transversal ion ejection from a multi-reflection time-of-flight device
+Fission of polyanionic metal clusters
+Delayed bunching for multi-reflection time-of-flight mass separation
+Progress toward positron-electron pair plasma experiments
+Precision Mass Measurements of 58-63Cr: study of nuclear collectivity in the N=40 island of inversion
+Long-term monitoring of the internal energy distribution of isolated cluster systems
+Non-isobaric time-of-flight correction for isobar resolving in Mr-ToF mass spectrometry
+Interaction of anionic tin clusters Snn-, n= 7-75, with electrons: Polyanion production and cluster decay
+Multiple ion capture and separation in an electrostatic storage device
+Shape staggering of mid-shell mercury Isotopes from in-source laser spectroscopy compared with Density Functional Theory and Monte Carlo Shell Model calculations
+Photofragmentation of Bin+/-clusters (n=2-19) in an electrostatic ion beam trap
+Simulations of a Proof-of-Principle Experiment for Collinear Laser Spectroscopy with a Multi-Reflection Time-of-Flight Device
+First steps in the development of the Multi Ion Reflection Apparatus for Collinear Laser Spectroscopy
+Improved stability of multi-reflection time-of-flight mass spectrometers through passive and active voltage stabilization
+The Performance of the Cryogenic Buffer-Gas Stopping Cell of SHIPTRAP
+Direct decay-energy measurement as a route to the neutrino mass
+Inverse odd-even staggering in nuclear charge radii and possible octupole collectivity in 217,218,219At revealed by in-source laser spectroscopy
+Evaluation of high precision atomic masses of A ~ 50 - 80 and rare-earth nuclides measured with ISOLTRAP
+Mass measurements of neutron-rich isotopes near N = 20 by in-trap decay with the ISOLTRAP spectrometer
+QEC-value determination for 21Na - 21Ne and 23 Mg - 23 Na mirror-nuclei decays high-precision mass spectrometry with ISOLTRAP an the CERN ISOLDE facility
+A multi-reflection time-of-flight setup for methodical developments and the study of atomic clustern
+Fluorescence Detection as a new Diagnostics Tool for Electrostatic Ion Beam Traps
+Isotope-resolved photodissociation pathways of lead-doped bismuth clusters from tandem multi-reflection time-of-flight mass spectrometry
+Stray-light Suppression for the MIRACLS proof-of-principle experiment
+First glimpse of the N = 82 shell closure below Z = 50 from new masses of cadmium isotopes and isomers
+Multiple-ion-ejection multi-reflection time-of-flight mass spectrometry for single-reference mass measurements with lapping ion species
+Hyperfine anomaly in gold and magnetic moments of IP=11/2- gold isomers
+Spectroscopy of short-lived radioactive molecules
+Photodissociation of mono-- and di-anionic tin clusters
+Shape coexistence in 187Au studied by laser spectroscopy
+Examining the N = 28 shell closure through high-precision mass measurements of46-48Ar
+Masses of short-lived 49Sc, 50Sc, 70As, 73Br and stable 196Hg nuclides
+Laser-assisted decay spectroscopy for the ground states of 180,182Au
+Laser-assisted decay and mass spectroscopy of 178Au
+Decay-rate power-law exponent as link between dissociation energy and temperature
+Laser spectroscopy of neutron-rich 207,208 Hg isotopes: Illuminating the kink and odd-even staggering in charge radii across the N = 126 shell closure
+Concatenated multi-reflection time-of-flight spectra for wide-band mass spectrometry
+Cresting the Coulomb Barrier of Polyanionic Metal Clusters
+Multiple active voltage stabilizations for multi-reflection time-of-flight mass spectrometry
+An accuracy benchmark of the MIRACLS apparatus: Conventional, single-passage collinear laser spectroscopy inside a MR-ToF device
+Mass measurements of 99-101in challenge ab initio nuclear theory of the nuclide 100Sn
+Size and charge-state dependence of detachment energies of polyanionic silver clusters
+Charge radii, moments and masses of mercury isotopes across the N = 126 shell closure
+Non-neutral Plasma Manipulation Techniques in Development of a High-Capacity Positron Trap
+Simulations of a digital ion filter and a digital ion trap for heavy biomolecules
+Producing Gold at ISOLDE-CERN
+Production of polyanionic aluminium clusters with up to 10 excess electrons
+A versatile setup for studying size and charge-state selected polyanionic nanoparticles
+Stacked-Ring Ion Guide for Cooling and Bunching Rare Isotopes
+PUMA, antiProton unstable matter annihilation
+The NEXT project: Towards production and investigation of neutron-rich heavy nuclides
+Doppler- and sympathetic ion cooling for the investigation of short-lived radionuclides
+Distangling polycationic fullerenes produced from glassy carbon with multireflection time-of-flight mass spectrometry
+Direct high-precision mass spectrometry of super heavy elements with SHIPTRAP
+Simulation studies of a 30-keV MR-ToF device for highly sensitive collinear laser spectroscopy
+Metal Cluster plasmons analyzed by energy-resolved photoemisson
+Photodissociation of small group-14 atomic clusters in a multi-reflection time-of-flight mass spectrometer

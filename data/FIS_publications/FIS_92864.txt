@@ -1,0 +1,2 @@
+Wörgötter F	FIS_92864
+A deep learning framework for efficient analysis of breast volume and fibroglandular tissue using MR data with strong artifacts.
