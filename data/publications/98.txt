@@ -1,4 +1,4 @@
-Patrick Bednarski,2041566;
+Patrick Bednarski
 
 A graphite furnace-atomic absorption spectrometry-based rubidium efflux assay for screening activators of the K(v)7.2/3 channel
 

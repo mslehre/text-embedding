@@ -1,3 +1,0 @@
-Hallo Welt!
-Ich bin ein Testtext.
-

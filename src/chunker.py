@@ -99,6 +99,10 @@ def main():
     parser.add_argument('-d', '--dir_path', type = try_to_write_dir, 
                         default = './',
                         help = 'Directory in which to save dirs and chunks.')
+    parser.add_argument('-m', '--copy_meta', action = 'store_true',
+                        help = 'Copies the meta file if it exists into the '
+                        + 'chunks directory. The meta file has to have format '
+                        + '<file_name.meta.txt>.')
     args = parser.parse_args()
 
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
@@ -118,12 +122,29 @@ def main():
         outdir = dir_path + file_stem + '/'  # dir + file stem as output dir
         os.makedirs(outdir, exist_ok = True)  # create dir if it doesnt exist
 
-        # create file with meta data
-        meta_file = outdir + 'info.txt'
-        meta_data = "chunks generated from file: " + file + "\nchunk size: " \
+        # create file with info data
+        info_file = outdir + 'info.txt'
+        info_data = "chunks generated from file: " + file + "\nchunk size: " \
             + str(args.chunk_size) + "\noverlap: " + str(args.overlap) + "\n"
-        with open(meta_file, 'w') as f_out:
-            f_out.write(meta_data)
+        with open(info_file, 'w') as f_out:
+            f_out.write(info_data)
+
+        # copy meta file if -m and the meta file exists with specified format
+        if args.copy_meta:
+            meta_file_name = file_stem + '.meta.txt'
+            meta_file = os.path.join(os.path.dirname(file), meta_file_name)
+            if os.access(meta_file, os.R_OK) :
+                with open(meta_file, 'r') as meta_in:
+                    meta_data = meta_in.read()
+            else:
+                print(f'ERROR: Could not open the meta file {meta_file}.'
+                      + 'Pleas make sure that the file exists and is accesable'
+                      + ' or repeat the chunker without argument -m.')
+                exit(1)
+
+            meta_file = os.path.join(outdir, meta_file_name)
+            with open(meta_file, 'w') as meta_out:
+                meta_out.write(meta_data)
 
         # write chunks to files
         write_chunks_to_files(chunks, outdir, file_stem)

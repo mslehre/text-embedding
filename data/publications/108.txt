@@ -1,4 +1,4 @@
-Thomas Jira,16021920;
+Thomas Jira
 
 Development and validation of a rapid stability indicating HPLC-method using monolithic stationary phase and two spectrophotometric methods for determination of antihistaminic acrivastine in capsules
 

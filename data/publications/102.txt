@@ -1,4 +1,4 @@
-Roland Pulch,29340731;
+Roland Pulch
 
 The Helmholtz equation with uncertainties in the wavenumber
 
