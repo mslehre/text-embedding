@@ -1,0 +1,3 @@
+Hoffmann, Christoph	FIS_69900
+Indications for a potential synchronization between the phase evolution of the Madden--Julian oscillation and the solar 27-day cycle
+A Python Package to Calculate the OLR-Based Index of the Madden- Julian-Oscillation (OMI) in Climate Science and Weather

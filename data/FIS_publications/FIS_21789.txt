@@ -1,0 +1,194 @@
+Teipel S	FIS_21789
+Rates of formal diagnosis in people screened positive for dementia in primary care: Results of the DelpHi-trial
+Perspective on future role of biological markers in clinical therapy trials of Alzheimer's disease: A long-range point of view beyond 2020
+Brain atrophy in primary progressive aphasia involves the cholinergic basal forebrain and Ayala's nucleus
+Detecting the effect of Alzheimer's disease on everyday motion behavior
+Antipsychotic drug treatment in ambulatory dementia care: prevalence and correlates
+Neuropsychiatric symptoms in subjects screened positive for dementia in primary care
+Dementia Care Management: Neue Wege in der ambulanten Demenzversorgung - ein Fallbeispiel
+Rates of formal diagnosis of dementia in primary care: The effect of screening
+Antidementia drug treatment in people screened positive for dementia in primary care
+Subjective memory impairment: no suitable criteria for case-finding of dementia in primary care
+Unmet Needs of Community-Dwelling Primary Care Patients with Dementia in Germany: Prevalence and Correlates
+Burden of behavioral and psychiatric symptoms in people screened positive for dementia in primary care  results of the DelpHi-study
+Association of a neurokinin 3 receptor polymorphism with the anterior basal forebrain.
+Früherkennung der Demenz in der Hausarztpraxis. Subjektive Gedächtnislücken sind kein geeigneter Indikator
+Multimodal imaging in Alzheimers disease: validity and usefulness for early detection.
+Kognitive Rehabilitation bei Alzheimer-Krankheit im Frühstadium [Cognitive rehabilitation in early stage Alzheimer's disease]
+Potentially inappropriate medication in community-dwelling primary care patients who were screened positive for dementia
+Contribution of the Cholinergic System to Verbal Memory Performance in Mild Cognitive Impairment.
+Hippocampal volume and integrity as predictors of cognitive decline in intact elderly.
+Alzheimers Disease Neuroimaging Initiative. Association Between Smoking and Cholinergic Basal Forebrain Volume in Healthy Aging and Prodromal and Dementia Stages of Alzheimer's Disease.
+Measuring Cortical Connectivity in Alzheimer's Disease as a Brain Neural Network Pathology: Toward Clinical Applications.
+Hippocampus Study Group.Predictors of cognitive decline and treatment response in a clinical trial on suspected prodromal Alzheimer's disease.
+Effects of rivastigmine on visual attention in subjects with amnestic mild cognitive impairment: A serial functional MRI activation pilot-study.
+Functional connectivity increase in the default-mode network of patients with Alzheimer's disease after long-term treatment with Galantamine.
+Information and communication technology solutions for outdoor navigation in dementia.
+Output order and variability in free recall are linked to cognitive ability and hippocampal volume in elderly individuals.
+Spatial patterns of atrophy, hypometabolism, and amyloid deposition in Alzheimer's disease correspond to dissociable functional brain networks.
+Cognitive Correlates of Basal Forebrain Atrophy and Associated Cortical Hypometabolism in Mild Cognitive Impairment.
+Does posterior cingulate hypometabolism result from disconnection or local pathology across preclinical and clinical stages of Alzheimer's disease?
+No Change in Executive Performance in ALS Patients: A Longitudinal Neuropsychological Study.
+Evolving Evidence for the Value of Neuroimaging Methods and Biological Markers in Subjects Categorized with Subjective Cognitive Decline.
+Basal Forebrain and Hippocampus as Predictors of Conversion to Alzheimer's Disease in Patients with Mild Cognitive Impairment - A Multicenter DTI and Volumetry Study.
+Applying Automated MR-Based Diagnostic Methods to the Memory Clinic: A Prospective Study.
+The relationship between CSF tau markers, hippocampal volume and delayed primacy performance in cognitively intact elderly individuals.
+Regional Pattern of Dementia and Prevalence of Hearing Impairment in Germany.
+The relative importance of imaging markers for the prediction of Alzheimer's disease dementia in mild cognitive impairment - Beyond classical regression.
+Apolipoprotein E-dependent load of white matter hyperintensities in Alzheimer's disease: a voxel-based lesion mapping study.
+Dysexecutive functioning in ALS patients and its clinical implications.
+The role of TREM2 R47H as a risk factor for Alzheimer's disease, frontotemporal lobar degeneration, amyotrophic lateral sclerosis, and Parkinson's disease.
+Training labels for hippocampal segmentation based on the EADC-ADNI harmonized hippocampal protocol.
+Cholinergic basal forebrain structure influences the reconfiguration of white matter connections to support residual memory in mild cognitive impairment.
+Multimodal analysis of functional and structural disconnection in Alzheimer's disease using multiple kernel SVM.
+Predicting Prodromal Alzheimer's Disease in Subjects with Mild Cognitive Impairment Using Machine Learning Classification of Multimodal Multicenter Diffusion-Tensor and Magnetic Resonance Imaging Data.
+The EADC-ADNI Harmonized Protocol for manual hippocampal segmentation on magnetic resonance: evidence of validity.
+Structural Connectivity Changes Underlying Altered Working Memory Networks in Mild Cognitive Impairment: A Three-Way Image Fusion Analysis.
+Effects of task-irrelevant emotional stimuli on working memory processes in mild cognitive impairment.
+Microstructural white matter changes underlying cognitive and behavioural impairment in ALS--an in vivo study using DTI.
+Increased CSF APPs-? levels in patients with Alzheimer disease treated with acitretin.
+Atrophy of the cholinergic basal forebrain in dementia with Lewy bodies and Alzheimer's disease dementia.
+A study on the specificity of the association between hippocampal volume and delayed primacy performance in cognitively intact elderly individuals.
+[Hearing impairment and dementia].
+Translation of Imaging Biomarker from Clinical Research to Health Care
+Supporting family dementia caregivers: testing the efficacy of dementia care management on multifaceted caregivers burden
+Patient Variables Associated with the Assignment of a Formal Dementia Diagnosis to Positively Screened Primary Care Patients
+Potential role of neuroimaging markers for early diagnosis of dementia in primary care
+Hilfe für die Früherkennung
+Hippocampus and Basal Forebrain Volumetry for Dementia and Mild Cognitive Impairment Diagnosis: Could It Be Useful in Primary Care?
+The Primacy Effect in Amnestic Mild Cognitive Impairment: Associations with Hippocampal Functional Connectivity.
+Atrophy and structural covariance of the cholinergic basal forebrain in primary progressive aphasia.
+Applied multimodal diagnostics in a case of presenile dementia.
+TDP-43 pathology and cognition in ALS: A prospective clinicopathologic correlation study.
+Hearing Impairment Affects Dementia Incidence. An Analysis Based on Longitudinal Health Claims Data in Germany.
+The ?4 genotype of apolipoprotein E and white matter integrity in Alzheimer's disease.
+CSF A?1-42 combined with neuroimaging biomarkers in the early detection, diagnosis and prediction of Alzheimer's disease.
+Cognitive reserve moderates the association between functional network anti-correlations and memory in MCI.
+Alzheimer  Frühere Diagnose dank neue Bildgebungstechniken
+PETPVE12: an SPM toolbox for Partial Volume Effects correction in brain PET - Application to amyloid imaging with AV45-PET.
+Longitudinal course of cortical thickness decline in amyotrophic lateral sclerosis.
+Minor cognitive disturbances in X-linked spinal and bulbar muscular atrophy, Kennedy's disease.
+Cortical thinning and its relation to cognition in amyotrophic lateral sclerosis.
+Genetic interaction of PICALM and APOE is associated with brain atrophy and cognitive impairment in Alzheimer's disease.
+Cost of diagnosing dementia in a German memory clinic
+Effectiveness and Safety of Dementia Care Mangament in Primary Care - A Randomized Clinical Trial
+Drug-related problems in community-dwelling primary care patients screened positive for dementia.
+APPswe/PS1dE9 mice with cortical amyloid pathology show a reduced NAA/Cr ratio without apparent brain atrophy: A MRS and MRI study.
+Reduced basal forebrain atrophy progression in a randomized Donepezil trial in prodromal Alzheimer's disease.
+Tau plasma levels in subjective cognitive decline: Results from the DELCODE study.
+Cerebrospinal Fluid Neurogranin as a Biomarker of Neurodegenerative Diseases: A Cross-Sectional Study.
+Cortical amyloid accumulation is associated with alterations of structural integrity in older people with subjective memory complaints.
+Strategic roadmap for an early diagnosis of Alzheimer's disease based on biomarkers.
+Disrupted white matter structural networks in healthy older adult APOE ?4 carriers - An international multicenter DTI study.
+Diagnostic accuracy of CSF neurofilament light chain protein in the biomarker-guided classification system for Alzheimer's disease.
+Basal forebrain mediated increase in brain CRF is associated with increased cholinergic tone and depression.
+Multidimensional assessment of challenging behaviors in advanced stages of dementia in nursing homes-The insideDEM framework.
+Does Functional Connectivity Provide a Marker for Cognitive Rehabilitation Effects in Alzheimer's Disease? An Interventional Study.
+Cognitive Rehabilitation in Alzheimer's Disease: A Controlled Intervention Trial.
+White Matter Damage in the Cholinergic System Contributes to Cognitive Impairment in Subcortical Vascular Cognitive Impairment, No Dementia.
+Two-level diagnostic classification using cerebrospinal fluid YKL-40 in Alzheimer's disease.
+Robust Detection of Impaired Resting State Functional Connectivity Networks in Alzheimer's Disease Using Elastic Net Regularized Regression.
+Multicenter stability of resting state fMRI in the detection of Alzheimer's disease and amnestic MCI.
+Hippocampal mean diffusivity for the diagnosis of dementia and mild cognitive impairment in primary care
+Offene Versorgungsbedarfe pflegender Angehöriger von Menschen mit Demenz
+Prevalence and determinants of agonistic autoantibodies against ?1-adrenergic receptors in patients screened positive for dementia: results from the population-based DelpHi-study
+Patients with dementia in primary care: who is referred to a neurologist/psychiatrist and what patient-oriented factors are associated with the visit?
+Multicenter Resting state functional connectivity in prodromal and dementia stages of Alzheimers disease
+Cost-Effectiveness of a Collaborative Dementia Care Management  Results of a Cluster-Randomized Controlled Trial
+Molecular properties underlying regional vulnerability to Alzheimer's disease pathology.
+Mechanisms and modulators of cognitive training gain transfer in cognitively healthy aging: study protocol of the AgeGain study.
+Use of nonintrusive sensor-based information and communication technology for real-world evidence for clinical trials in dementia.
+Effect of Alzheimer's disease risk and protective factors on cognitive trajectories in subjective memory complainers: An INSIGHT-preAD study.
+Magnetic resonance imaging-based hippocampus volume for prediction of dementia in mild cognitive impairment: Why does the measurement method matter so little?
+Cholinergic forebrain density loss in Parkinson disease: More than just cognitive changes.
+A language-based sum score for the course and therapeutic intervention in primary progressive aphasia.
+Incremental value of biomarker combinations to predict progression of mild cognitive impairment to Alzheimer's dementia.
+In vivo staging of regional amyloid deposition.
+Early Changes in Alpha Band Power and DMN BOLD Activity in Alzheimer's Disease: A Simultaneous Resting State EEG-fMRI Study.
+Situation Model for Situation-Aware Assistance of Dementia Patients in Outdoor Mobility.
+No association of cortical amyloid load and EEG connectivity in older people with subjective memory complaints.
+Mean diffusivity in cortical gray matter in Alzheimer's disease: The importance of partial volume correction.
+In vivo cholinergic basal forebrain atrophy predicts cognitive decline in de novo Parkinson's disease.
+Alzheimer's disease biomarker-guided diagnostic workflow using the added value of six combined cerebrospinal fluid candidates: A?, total-tau, phosphorylated-tau, NFL, neurogranin, and YKL-40.
+Design and first baseline data of the DZNE multicenter observational study on predementia Alzheimer's disease (DELCODE).
+Left frontal hub connectivity delays cognitive impairment in autosomal-dominant and sporadic Alzheimer's disease.
+Recent advances in cholinergic imaging and cognitive decline-Revisiting the cholinergic hypothesis of dementia.
+Identifying unmet needs of family dementia caregivers: Results of the baseline assessment of a cluster-randomized controlled intervention trial
+Locus coeruleus MRI contrast is reduced in Alzheimer's disease dementia and correlates with CSF A? levels.
+Editorial: Multimodal and Longitudinal Bioimaging Methods for Characterizing the Progressive Course of Dementia.
+The effects of 7-week cognitive training in patients with vascular cognitive impairment, no dementia (the Cog-VACCINE study): A randomized controlled trial.
+A Tablet App- and Sensor-Based Assistive Technology Intervention for Informal Caregivers to Manage the Challenging Behavior of People With Dementia (the insideDEM Study): Protocol for a Feasibility Study.
+Applicability of in vivo staging of regional amyloid burden in a cognitively normal cohort with subjective memory complaints: the INSIGHT-preAD study.
+Prevalence of abnormal Alzheimer's disease biomarkers in patients with subjective cognitive decline: cross-sectional comparison of three European memory clinic samples.
+CSF total tau levels are associated with hippocampal novelty irrespective of hippocampal volume.
+Subregional volume reduction of the cholinergic forebrain in subjective cognitive decline (SCD).
+Relationship between Basal Forebrain Resting-State Functional Connectivity and Brain Amyloid-? Deposition in Cognitively Intact Older Adults with Subjective Memory Complaints.
+[F]-florbetaben PET/CT Imaging in the Alzheimer's Disease Mouse Model APPswe/PS1dE9.
+Smaller medial temporal lobe volumes in individuals with subjective cognitive decline and biomarker evidence of Alzheimer's disease-Data from three memory clinic studies.
+The corticotopic organization of the human basal forebrain as revealed by regionally selective functional connectivity profiles.
+Serum neurofilament light chain in behavioral variant frontotemporal dementia.
+Sex differences in functional and molecular neuroimaging biomarkers of Alzheimer's disease in cognitively normal older adults with subjective memory complaints.
+Basal Forebrain Volume, but Not Hippocampal Volume, Is a Predictor of Global Cognitive Decline in Patients With Alzheimer's Disease Treated With Cholinesterase Inhibitors.
+Is the left uncinate fasciculus associated with verbal fluency decline in mild Alzheimer's disease?
+Hippocampus and basal forebrain volumes modulate effects of anticholinergic treatment on delayed recall in healthy older adults.
+FDG-PET underscores the key role of the thalamus in frontotemporal lobar degeneration caused by C9ORF72 mutations.
+The Road Ahead to Cure Alzheimer's Disease: Development of Biological Markers and Neuroimaging Methods for Prevention Trials Across all Stages and Target Populations.
+Diffusion tensor imaging in Alzheimer's disease and affective disorders.
+Cognitive Rehabilitation in Alzheimer's Disease - A Conceptual and Methodological Review.
+What electrophysiology tells us about Alzheimer's disease: a window into the synchronization and connectivity of brain neurons.
+Real-Time Detection of Spatial Disorientation in Persons with Mild Cognitive Impairment and Dementia.
+Resting-state posterior alpha rhythms are abnormal in subjective memory complaint seniors with preclinical Alzheimer's neuropathology and high education level: the INSIGHT-preAD study.
+Cholinergic white matter pathways make a stronger contribution to attention and memory in normal aging than cerebrovascular health and nucleus basalis of Meynert.
+Why do family dementia caregivers reject caregiver support services? Analyzing types of rejection and associated health-impairments in a cluster-randomized controlled intervention trial.
+Cognitive Reserve Is Not Associated With Hippocampal Microstructure in Older Adults Without Dementia.
+Automated sensor-based detection of challenging behaviors in advanced stages of dementia in nursing homes.
+In vivo staging of regional amyloid deposition predicts functional conversion in the preclinical and prodromal phases of Alzheimer's disease.
+Mirror Movements in Amyotrophic Lateral Sclerosis: A Combined Study Using Diffusion Tensor Imaging and Transcranial Magnetic Stimulation.
+Plasma tau correlates with basal forebrain atrophy rates in people at risk for Alzheimer disease.
+The cholinergic system in subtypes of Alzheimer's disease: an in vivo longitudinal MRI study.
+Bupropion for the Treatment of Apathy in Alzheimer Disease: A Randomized Clinical Trial.
+Gaussian Graphical Models Reveal Inter-Modal and Inter-Regional Conditional Dependencies of Brain Alterations in Alzheimer's Disease.
+Association of a CAMK2A genetic variant with logical memory performance and hippocampal volume in the elderly.
+Multicenter Tract-Based Analysis of Microstructural Lesions within the Alzheimer's Disease Spectrum: Association with Amyloid Pathology and Diagnostic Usefulness.
+Biomarker-guided clustering of Alzheimer's disease clinical syndromes.
+Higher CSF Tau Levels Are Related to Hippocampal Hyperactivity and Object Mnemonic Discrimination in Older Adults.
+Memorability of photographs in subjective cognitive decline and mild cognitive impairment: Implications for cognitive assessment.
+Which features of subjective cognitive decline are related to amyloid pathology? Findings from the DELCODE study.
+Structural integrity in subjective cognitive decline, mild cognitive impairment and Alzheimer's disease based on multicenter diffusion tensor imaging.
+Neuropsychiatric symptoms in at-risk groups for AD dementia and their association with worry and AD biomarkers-results from the DELCODE study.
+Effect of Spatial Disorientation in a Virtual Environment on Gait and Vital Features in Patients with Dementia: Pilot Single-Blind Randomized Control Trial.
+Longitudinal [F]FDG-PET/CT analysis of the glucose metabolism in ApoE-deficient mice.
+Small vessel disease more than Alzheimer's disease determines diffusion MRI alterations in memory clinic patients.
+Minor neuropsychological deficits in patients with subjective cognitive decline.
+Neuropathologic features associated with basal forebrain atrophy in Alzheimer disease.
+Identification of a Cascade of Changes in Activities of Daily Living Preceding Short-Term Clinical Deterioration in Mild Alzheimer's Disease Dementia via Lead-Lag Analysis.
+Effectiveness of a digitally supported care management programme to reduce unmet needs of family caregivers of people with dementia: study protocol for a cluster randomised controlled trial (GAIN)
+An algorithm for actigraphy-based sleep/wake scoring: Comparison with polysomnography.
+Outcomes of clinical utility in amyloid-PET studies: state of art and future perspectives.
+EEG measures for clinical research in major vascular cognitive impairment: recommendations by an expert panel.
+Measures of resting state EEG rhythms for clinical trials in Alzheimer's disease: Recommendations of an expert panel.
+Neuronal Hyperexcitability in APPSWE/PS1dE9 Mouse Models of Alzheimer's Disease.
+Data-driven FDG-PET subtypes of Alzheimer's disease-related neurodegeneration.
+Association of TDP-43 Pathology with Global and Regional 18F-Florbetapir PET Signal in the Alzheimer's Disease Spectrum.
+Abnormal Regional and Global Connectivity Measures in Subjective Cognitive Decline Depending on Cerebral Amyloid Status.
+Cognitive reserve and regional brain volume in amyotrophic lateral sclerosis.
+MiRNA-15b and miRNA-125b are associated with regional A?-PET and FDG-PET uptake in cognitively normal individuals with subjective memory complaints.
+Hippocampal and Hippocampal-Subfield Volumes From Early-Onset Major Depression and Bipolar Disorder to Cognitive Decline.
+Mediterranean Diet, Alzheimer Disease Biomarkers and Brain Atrophy in Old Age.
+Plasma ?-secretase1 concentrations correlate with basal forebrain atrophy and neurodegeneration in cognitively healthy individuals at risk for AD.
+Structural MRI of the basal forebrain as predictor of cognitive response to galantamine in healthy older adults-A randomized controlled double-blinded crossover study.
+Harmonizing neuropsychological assessment for mild neurocognitive disorders in Europe.
+Types of leisure time physical activities (LTPA) of community-dwelling persons who have been screened positive for dementia.
+[LATE: not every dementia is Alzheimer's disease-Discussion of a new disease entity based on a case example : Current status of limbic-predominant age-related TDP-43 encephalopathy (LATE)].
+Stakeholder involvement in dementia research: A qualitative approach with healthy senior citizens and providers of dementia care in Germany.
+Association between composite scores of domain-specific cognitive functions and regional patterns of atrophy and functional connectivity in the Alzheimer's disease spectrum.
+Association of PET-based stages of amyloid deposition with neuropathological markers of A? pathology.
+Longitudinal validity of PET-based staging of regional amyloid deposition.
+The Impact of Age on the Association Between Physical Activity and White Matter Integrity in Cognitively Healthy Older Adults.
+Dietary patterns are related to cognitive functioning in elderly enriched with individuals at increased risk for Alzheimer's disease.
+The BDNF SNP modulates the association between beta-amyloid and hippocampal disconnection in Alzheimer's disease.
+[Feasibility and effects of a psychotherapeutic group intervention for caregiving relatives of people with dementia].
+Comparison of Different Hypotheses Regarding the Spread of Alzheimer's Disease Using Markov Random Fields and Multimodal Imaging.
+Parallel Atrophy of Cortex and Basal Forebrain Cholinergic System in Mild Cognitive Impairment.
+Impact of Low-value Medications on Quality of Life, Hospitalization and Costs  A Longitudinal Analysis of Patients Living with Dementia
+Design and implementation of the participatory German network for translational dementia care research (TaNDem): A mixed-method study on the perspectives of healthcare providers and dementia researchers in dementia care research

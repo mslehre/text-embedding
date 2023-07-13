@@ -1,0 +1,4 @@
+Benkner, Alexander	FIS_31610
+Dynamic adaptation of myocardial proteome during heart failure development.
+Stimulation of soluble guanylate cyclase by riociguat attenuates heart failure and pathological cardiac remodelling.
+Riociguat attenuates left ventricular proteome and microRNA profile changes after experimental aortic stenosis in mice.

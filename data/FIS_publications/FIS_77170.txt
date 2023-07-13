@@ -1,0 +1,3 @@
+Feng Y	FIS_77170
+Psychometric properties of the EQ-5D-5L: a systematic review of the literature
+What difference does multiple imputation make in longitudinal modeling of EQ-5D-5L data? Empirical analyses of simulated and observed missing data patterns

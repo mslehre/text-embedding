@@ -1,0 +1,188 @@
+Homuth, Georg	FIS_1351
+A genome-wide association study identifies 6p21 as novel risk locus for dilated cardiomyopathy.
+The ENIGMA Consortium: large-scale collaborative analyses of neuroimaging and genetic data.
+Identification of novel genetic Loci associated with thyroid peroxidase antibodies and clinical thyroid disease.
+Genetic determinants of heel bone properties: genome-wide association meta-analysis and replication in the GEFOS/GENOMOS consortium.
+Fucosyltransferase 2 (FUT2) non-secretor status and blood group B are associated with elevated serum lipase activity in asymptomatic subjects, and an increased risk for chronic pancreatitis: a genetic association study.
+Genome-wide association study identifies variants associated with autoimmune hepatitis type 1.
+Genetic, psychosocial and clinical factors associated with hippocampal volume in the general population.
+Mapping the genetic architecture of gene regulation in whole blood.
+Novel approach identifies SNPs in SLC2A10 and KCNK9 with evidence for parent-of-origin effect on body mass index.
+Interaction among childhood trauma and functional polymorphisms in the serotonin pathway moderate the risk of depressive disorders.
+Translating Pharmacological Findings from Hypothyroid Rodents to Euthyroid Humans: Is There a Functional Role of Endogenous 3,5-T2?
+Quality control and conduct of genome-wide association meta-analyses.
+Genetic diversity is a predictor of mortality in humans.
+A genome-wide search for quantitative trait loci affecting the cortical surface area and thickness of Heschl's gyrus.
+No evidence for genome-wide interactions on plasma fibrinogen by smoking, alcohol consumption and body mass index: results from meta-analyses of 80,607 subjects.
+Genetic influences on the acquisition and inhibition of fear
+Analysis of human TAAR8 and murine Taar8b mediated signaling pathways and expression profile.
+Common genetic variants influence human subcortical brain structures.
+Atrial fibrillation and rapid acute pacing regulate adipocyte/adipositas-related gene Expression in the atria
+A Genetic Risk Score for Thyroid Peroxidase Antibodies Associates with Clinical Thyroid Disease in Community-Based Populations.
+Modulation of genetic associations with serum urate levels by body-mass-index in humans.
+No Association Between Polygenic Risk for Schizophrenia and Brain Volume in the General Population.
+Associations between Serum Sex Hormone Concentrations and Whole Blood Gene Expression Profiles in the General Population.
+ABO blood type B and fucosyltransferase 2 non-secretor status as genetic risk factors for chronic pancreatitis.
+Association of a neurokinin 3 receptor polymorphism with the anterior basal forebrain.
+Cell Specific eQTL Analysis without Sorting Cells.
+Stepwise optimization of a low-temperature Bacillus subtilis expression system for "difficult to express" proteins
+Multi-omic signature of body weight change: results from a population-based cohort study
+Genome-Wide Association Study with Targeted and Non-targeted NMR Metabolomics Identifies 15 Novel Loci of Urinary Human Metabolic Individuality.
+Extensive alterations of the whole-blood transcriptome are associated with body mass index: results of an mRNA profiling study involving two large population-based cohorts.
+Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study.
+Effect of Experimental Thyrotoxicosis onto Blood Coagulation: A Proteomics Study
+The transcriptional landscape of age in human peripheral blood.
+Complement Component 5 Mediates Development of Fibrosis, via Activation of Stellate Cells, in 2 Mouse Models of Chronic Pancreatitis.
+Urine Metabolomics by (1)H-NMR Spectroscopy Indicates Associations between Serum 3,5-T2 Concentrations and Intermediary Metabolism in Euthyroid Humans.
+Gene transcripts associated with muscle strength: a CHARGE meta-analysis of 7,781 persons.
+Distinct urinary metabolic profiles associated with serum TSH and FT4 concentrations
+Accumulated common variants in the broader fragile X gene family modulate autistic phenotypes
+Directional dominance on stature and cognition in diverse human populations.
+Meta-analysis of Genome-wide Association Studies for Neuroticism, and the Polygenic Association With Major Depressive Disorder.
+Large-scale genomic analyses link reproductive aging to hypothalamic signaling, breast cancer susceptibility and BRCA1-mediated DNA repair.
+Exosomal particles secreted by prostate cancer cells are potent mRNA and protein vehicles for the interference of tumor and tumor environment
+Meta-analysis of Genome-Wide Association Studies for Extraversion: Findings from the Genetics of Personality Consortium.
+Genome-wide Association Studies Identify Genetic Loci Associated with Albuminuria in Diabetes.
+Is the adiposity-associated FTO gene variant related to all-cause mortality independent of adiposity? Meta-analysis of data from 169,551 Caucasian adults.
+Differences in Mouse Hepatic Thyroid Hormone Transporter Expression with Age and Hyperthyroidism.
+Meta-analysis identifies seven susceptibility loci involved in the atopic march.
+Multi-ancestry genome-wide association study of 21,000 cases and 95,000 controls identifies new risk loci for atopic dermatitis.
+Genetic studies of body mass index yield new insights for obesity biology.
+New genetic loci link adipose and insulin biology to body fat distribution
+Meta-analysis of genome-wide association studies of anxiety disorders
+Effect of the interaction between childhood abuse and rs1360780 of the FKBP5 gene on gray matter volume in a general population sample.
+Advanced Brain Aging: relationship with epidemiologic and genetic risk factors, and overlap with Alzheimer disease atrophy patterns
+Relationship between APOE genotype and structural MRI measures throughout adulthood in the SHIP population-based cohort
+Large-Scale Exome-wide Association Analysis Identifies Loci for White Blood Cell Traits and Pleiotropy with Immune-Mediated Diseases.
+Genome-wide association study of copy number variation with lung function identifies a novel signal of association near BANP for forced vital capacity.
+Chromosomal contacts connect loci associated with autism, BMI and head circumference phenotypes.
+Genome-wide Association for Major Depression Through Age at Onset Stratification: Major Depressive Disorder Working Group of the Psychiatric Genomics Consortium.
+Novel multiple sclerosis susceptibility loci implicated in epigenetic regulation.
+3,5-T2 alters murine genes relevant for xenobiotic, steroid, and thyroid hormone metabolism.
+Genetic influences on schizophrenia and subcortical brain volumes: large-scale proof of concept.
+A Whole-Blood Transcriptome Meta-Analysis Identifies Gene Expression Signatures of Cigarette Smoking.
+Genetic associations at 53 loci highlight cell types and biological pathways relevant for kidney function.
+Genome-wide association study identifies 74 loci associated with educational attainment.
+Genome-wide association study of pathological gambling.
+The inverse link between genetic risk for schizophrenia and migraine through NMDA (N-methyl-D-aspartate) receptor activation via D-serine.
+Exome Variant Analysis of Chronic Periodontitis in 2 Large Cohort Studies.
+Genome-wide association study of caffeine metabolites provides new insights to caffeine metabolism and dietary caffeine-consumption behavior.
+Multiethnic genome-wide meta-analysis of ectopic fat depots identifies loci associated with adipocyte development and differentiation.
+Genetic Variants Associated with Circulating Parathyroid Hormone.
+Novel genetic loci underlying human intracranial volume identified through genome-wide association.
+Genome-wide analysis identifies 12 loci influencing human reproductive behavior.
+A principal component meta-analysis on multiple anthropometric traits identifies novel loci for body shape
+Association of PNPLA3 rs738409 and TM6SF2 rs58542926 with health services utilization in a population-based study
+Blood RNA expression profiles undergo major changes during the seventh decade.
+An Analysis of Two Genome-wide Association Meta-analyses Identifies a New Locus for Broad Depression Phenotype.
+Plasma proteome and metabolome characterization of an experimental human thyrotoxicosis model.
+Novel genetic loci associated with hippocampal volume.
+(Pro)renin receptor (ATP6AP2) depletion arrests As4.1 cells in the G0/G1 phase thereby increasing formation of primary cilia.
+Genetic effects influencing risk for major depressive disorder in China and Europe.
+1000 Genomes-based meta-analysis identifies 10 novel loci for kidney function.
+Genome-wide meta-analysis of 241,258 adults accounting for smoking behaviour identifies novel loci for obesity traits.
+Corrigendum: 1000 Genomes-based meta-analysis identifies 10 novel loci for kidney function.
+Transcriptome-Wide Analysis Identifies Novel Associations With Blood Pressure.
+Abdominal fat deposits determined by magnetic resonance imaging in relation to leptin and vaspin levels as well as insulin resistance in the general adult population.
+Genome-wide association and targeted analysis of copy number variants with psoriatic arthritis in German patients.
+Large meta-analysis of genome-wide association studies identifies five loci for lean body mass.
+Exome-wide association study reveals novel psoriasis susceptibility locus at TNFSF15 and rare protective alleles in genes contributing to type I IFN signalling.
+Genome-wide association study identifies the SERPINB gene cluster as a susceptibility locus for food allergy.
+Evidence for Stress-like Alterations in the HPA-Axis in Women Taking Oral Contraceptives.
+Cathepsin B-mediated Activation of Trypsinogen in Endocytosing Macrophages Increases Severity of Pancreatitis in Mice.
+Genetic Association of Major Depression With Atypical Features and Obesity-Related Immunometabolic Dysregulations.
+Genome-wide gene-environment interaction in depression: A systematic evaluation of candidate genes: The childhood trauma working-group of PGC-MDD.
+Helicobacter pylori colonization and obesity - a Mendelian randomization study.
+Sexual dimorphism of AMBRA1-related autistic features in human and mouse.
+Shared genetic origin of asthma, hay fever and eczema elucidates allergic disease biology.
+The PNPLA3 SNP rs738409:G allele is associated with increased liver disease-associated mortality but reduced overall mortality in a population-based cohort.
+Erratum: Large meta-analysis of genome-wide association studies identifies five loci for lean body mass.
+Microglia ablation alleviates myelin-associated catatonic signs in mice.
+Investigation of Naturally Occurring Single-Nucleotide Variants in Human TAAR1.
+Childhood Trauma and Functional Variants of 5-HTTLPR Are Independently Associated with Alexithymia in 5,283 Subjects from the General Population.
+NLRP3 Inflammasome activation in macrophages regulates systemic Inflammation and severity during acute pancreatitis
+Comprehensive Metabolic Profiling Reveals a Lipid-rich Fingerprint of Free Thyroxine Far Beyond Classical Parameters.
+Interplay between COMT Val158Met, childhood adversities and sex in predicting panic pathology: Findings from a general population sample.
+Genome-wide association analyses identify 44 risk variants and refine the genetic architecture of major depression.
+Functional abdominal pain and discomfort (IBS) is not associated with faecal microbiota composition in the general population.
+Common and Rare Coding Genetic Variation Underlying the Electrocardiographic PR Interval.
+ExomeChip-Wide Analysis of 95 626 Individuals Identifies 10 Novel Loci Associated With QT and JT Intervals.
+Intergration of "Omics" Techniques: Dronedarone Affects Cardiac Remodeling in the Infarction Border Zone.
+A GWAS meta-analysis from 5 population-based cohorts implicates ion channel genes in the pathogenesis of irritable bowel syndrome.
+Analysis of shared heritability in common disorders of the brain.
+Meta-analysis of human genome-microbiome association studies: the MiBioGen consortium initiative.
+Evaluation of food allergy candidate loci in the Genetics of Food Allergy Study.
+Exome Chip Analysis Identifies Low-Frequency and Rare Variants in  for White Matter Hyperintensities on Brain Magnetic Resonance Imaging.
+Hepatic steatosis associates with adverse molecular signatures in subjects without diabetes.
+Interplay between RGS2 and childhood adversities in predicting anxiety and depressive disorders: Findings from a general population sample.
+Negative effect of vitamin D on kidney function: a Mendelian randomization study.
+Genome-wide association study of 23,500 individuals identifies 7 loci associated with brain ventricular volume.
+Genome-wide analyses identify a role for SLC17A4 and AADAT in thyroid hormone regulation.
+Impaired Exocrine Pancreatic Function Associates With Changes in Intestinal Microbiota Composition and Diversity.
+Associations of Mitochondrial and Nuclear Mitochondrial Variants and Genes with Seven Metabolic Traits.
+COMTVal158Met Genotype Affects Complex Emotion Recognition in Healthy Men and Women
+Adaptive immune Response during acute pancreatitis is regulated by NLRP3 inflammasome activation via Interleukin 18
+Non classical macrophage polarization regulates the immune response during acute pancreatitis
+Assessment of the Relationship Between Genetic Determinants of Thyroid Function and Atrial Fibrillation: A Mendelian Randomization Study
+Disentangling the genetics of lean mass.
+Methylation of the FKBP5 gene in association with FKBP5 genotypes, childhood maltreatment and depression.
+New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries.
+Variants in ABCG8 and TRAF3 genes confer risk for gallstone disease in admixed Latinos with Mapuche Native American ancestry.
+Evaluation of a rare glucose-dependent insulinotropic polypeptide receptor variant in a patient with diabetes.
+Interaction of childhood trauma with rs1360780 of the FKBP5 gene on trait resilience in a general population sample.
+Obese Individuals with and without Type 2 Diabetes Show Different Gut Microbial Functional Capacity and Composition.
+New alcohol-related genes suggest shared genetic mechanisms with neuropsychiatric disorders.
+Copy number variants in lipid metabolism genes are associated with gallstones disease in men.
+A thyroid hormone-independent molecular fingerprint of 3,5-diiodothyronine suggests a strong relation with coffee metabolism in humans.
+Genetic architecture of subcortical brain structures in 38,851 individuals.
+NLRP3 Inflammasome Regulates Development of Systemic Inflammatory Respoes in Mice With Acute Pancreatitis.
+Protein-coding variants contribute to the risk of atopic dermatitis and skin-specific gene expression.
+A structured weight loss program increases gut microbiota phylogenetic diversity and reduces levels of Collinsella in obese type 2 diabetics: A pilot study.
+Multi-ancestry sleep-by-SNP interaction analysis in 126,926 individuals reveals lipid loci stratified by sleep duration.
+Helicobacter pylori infection associates with fecal microbiota composition and diversity.
+Macrophage-derived cytokines of the IL1 Family simultaneously regulate pro-and anti-Inflammation during severe acute pancreatitis
+Interleukin 33 regulates Th2 T-cell Differentiation and macrophage polarization during acute pancreatitis
+The genetic architecture of the human cerebral cortex.
+ENIGMA and global neuroscience: A decade of large-scale studies of the brain in health and disease across more than 40 countries.
+CD5L constitutes a novel biomarker for integrated hepatic thyroid hormone action.
+Endocrine, Metabolic and Pharmacological Effects of Thyronamines (TAM), Thyroacetic Acids (TA) and Thyroid Hormone Metabolites (THM) - Evidence from in vitro, Cellular, Experimental Animal and Human Studies.
+Screening for New Markers to Assess Thyroid Hormone Action by OMICs Analysis of Human Samples.
+miRNA Mechanisms Underlying the Association of Beta Blocker Use and Bone Mineral Density.
+Genetic Studies of Leptin Concentrations Implicate Leptin in the Regulation of Early Adiposity.
+The Gut Microbiome in Patients With Chronic Pancreatitis Is Characterized by Significant Dysbiosis and Overgrowth by Opportunistic Pathogens.
+Shared Genetics of Multiple System Atrophy and Inflammatory Bowel Disease.
+Long-term instability of the intestinal microbiome is associated with metabolic liver disease, low microbiota diversity, diabetes mellitus and impaired exocrine pancreatic function.
+Cortisol, aging and the influence on brain age
+Vitamin D moderates the interaction between 5-HTTLPR and childhood abuse in depressive disorders.
+The Thyroid Hormone Transporter Mct8 Restricts Cathepsin-Mediated Thyroglobulin Processing in Male Mice through Thyroid Auto-Regulatory Mechanisms That Encompass Autophagy.
+Exocrine Pancreatic Function Modulates Plasma Metabolites Through Changes in Gut Microbiota Composition.
+Large-scale association analyses identify host factors influencing human gut microbiome composition.
+Genome-wide association study in 8,956 German individuals identifies influence of ABO histo-blood groups on gut microbiome.
+Genome-Wide Association Study of Circulating Interleukin 6 Levels Identifies Novel Loci.
+Comparative analysis of the effects of long term 3,5-T2 treatment on the murine hepatic proteome and transcriptome under conditions of normal diet and high fat diet.
+1q21.1 distal copy number variants are associated with cerebral and cognitive alterations in humans.
+Carrying asymptomatic gallstones is not associated with changes in intestinal microbiota composition and diversity but cholecystectomy with significant dysbiosis
+Sex effects for the interaction of dopamine related genetic variants for COMT and BDNF on declarative memory performance
+B cells acquire a unique and differential transcriptomic profile during pregnancy.
+Rare and low-frequency exonic variants and gene-by-smoking interactions in pulmonary function.
+Genome-wide interaction study with major depression identifies novel variants associated with cognitive function.
+Associations of carotid intima media thickness with gene expression in whole blood and genetically predicted gene expression across 48 tissues.
+Rare variant analysis in eczema identifies exonic variants in DUSP1, NOTCH4 and SLC9A4.
+The power of genetic diversity in genome-wide association studies of lipids.
+Body mass index but not genetic risk is longitudinally associated with altered structural brain parameters
+Toll-like receptor 1 locus re-examined in a genome-wide association study update on anti-Helicobacter pylori IgG titers
+Cohort Profile Update: The Study of Health in Pomerania (SHIP).
+Genetic variants associated with longitudinal changes in brain structure across the lifespan.
+In mouse chronic pancreatitis CD25FOXP3 regulatory T cells control pancreatic fibrosis by suppression of the type 2 immune response.
+A multi-layer functional genomic analysis to understand noncoding genetic variation in lipids.
+Lack of L-type amino acid transporter 2 in murine thyroid tissue induces autophagy.
+DNA Polymerase Theta Plays a Critical Role in Pancreatic Cancer Development and Metastasis
+TREML2 Gene Expression and Its Missense Variant rs3747742 Associate with White Matter Hyperintensity Volume and Alzheimer's Disease-Related Brain Atrophy in the General Population.
+Implicating genes, pleiotropy, and sexual dimorphism at blood lipid loci through multi-ancestry meta-analysis.
+Activated regulatory T-cells promote duodenal bacterial translocation into necrotic areas in severe acute pancreatitis.
+Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus.
+Genome-wide analysis identifies genetic effects on reproductive success and ongoing natural selection at the FADS locus.
+Multi-ancestry genome-wide association analyses improve resolution of genes and pathways influencing lung function and chronic obstructive pulmonary disease risk.
+Author Correction: The power of genetic diversity in genome-wide association studies of lipids.
+Distinct genetic liability profiles define clinically relevant patient strata across common diseases.
+Identification of candidate metabolite biomarkers for metabolic syndrome and its five components in population-based human cohorts.

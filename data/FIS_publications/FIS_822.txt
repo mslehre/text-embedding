@@ -1,0 +1,24 @@
+Jedlitschky, Gabriele	FIS_822
+St. John's Wort Reduces Beta-Amyloid Accumulation in a Double Transgenic Alzheimer's Disease Mouse Model-Role of P-Glycoprotein.
+Targeting CNS Transporters for Treatment of Neurodegenerative Diseases.
+Characterization of the Intestinal and Hepatic Uptake/Efflux Transport of the Magnetic Resonance Imaging Contrast Agent Gadolinium-Ethoxylbenzyl-Diethylenetriamine-Pentaacetic Acid.
+In vitro Models of the Human Blood-Brain Barrier and the Impact of Efflux Transporters on Neurological Disorders: The Work of Cioni et al. (2012).
+cAMP regulates expression of the cyclic nucleotide transporter MRP4 (ABCC4) through the EPAC pathway.
+Glutathione-conjugated sulfanylalkanols are substrates for ABCC11 and ?-glutamyl transferase 1: a potential new pathway for the formation of odorant precursors in the apocrine sweat gland.
+Sphingosine-1-Phosphate and Its Receptors: A Mutual Link between Blood Coagulation and Inflammation.
+Functional characterization of common protein variants in the efflux transporter ABCC11 and identification of T546M as functionally damaging variant.
+Expression of Organic Anion Transporting Polypeptide 1A2 in Red Blood Cells and Its Potential Impact on Antimalarial Therapy.
+Doxorubicin enhances oxysterol levels resulting in a LXR-mediated upregulation of cardiac cholesterol transporters.
+Several adaptor proteins promote intracellular localisation of the transporter MRP4/ABCC4 in platelets and haematopoietic cells.
+Release of Platelet-Derived Sphingosine-1-Phosphate Involves Multidrug Resistance Protein 4 (MRP4/ABCC4) and Is Inhibited by Statins
+Functional variants of OCTN transporter genes are associated with total and LDL cholesterol in a body mass-dependent manner
+Neurosteroid Transport in the Brain: Role of ABC and SLC Transporters.
+Functionel variants of carnitine transporter genes are associated with periodontitis and edentulism related to cholesterol and obesity
+The Role of Platelets in Cancer Pathophysiology: Focus on Malignant Glioma.
+Lack of the multidrug transporter MRP4/ABCC4 defines the PEL-negative blood group and impairs platelet aggregation.
+Tooth loss and adiposity: possible role of carnitine transporter (OCTN1/2) polymorphisms in women but not in men.
+Increased sphingosine-1-phosphate serum concentrations in subjects with periodontal disease: a matter of inflammation
+PIM1 Inhibition Affects Glioblastoma Stem Cell Behavior and Kills Glioblastoma Stem-like Cells
+Specific inhibition of the transporter MRP4/ABCC4 affects multiple signaling pathways and thrombus formation in human platelets.
+Platelet-Derived S1P and Its Relevance for the Communication with Immune Cells in Multiple Human Diseases
+In vitro validation of an in vivo phenotyping drug cocktail for major drug transporters in humans.

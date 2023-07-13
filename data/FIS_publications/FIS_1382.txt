@@ -1,0 +1,60 @@
+Endlich, Nicole	FIS_1382
+Two-Photon Microscopy Reveals Stationary Podocytes in Living Zebrafish Larvae.
+Cohort profile: Greifswald approach to individualized medicine (GANI_MED).
+Mechanical stress enhances CD9 Expression in cultured podocytes.
+Simultaneous assessment of glomerular Filtration and barrier funciton in live zebrafish.
+Murine Double Minute-2 Prevents p53-Overactivation-Related Cell Death (Podoptosis) of Podocytes.
+Genome-wide Association Studies Identify Genetic Loci Associated with Albuminuria in Diabetes.
+Serum protease activity in chronic kidney disease patients: The GANI_MED renal cohort.
+Knockdown of ApoL1 in Zebrafish Larvae Affects the Glomerular Filtration Barrier and the Expression of Nephrin.
+MDM2 prevents spontaneous tubular epithelial cell death and acute kidney injury.
+A Novel Assay to Assess the Effect of Pharmaceutical Compounds on the Differentiation of Podocytes.
+4D in vivo imaging of glomerular barrier function in a zebrafish podocyte injury model.
+Urinary Angiotensinogen and Renin Excretion are Associated with Chronic Kidney Disease.
+Mortality is associated with inflammation, anemia, specific diseases and treatments, and molecular markers.
+Structured illumination microscopy and automatized image processing as a rapid diagnostic tool for podocyte effacement.
+Identification of miR-16 as an endogenous reference gene for the normalization of urinary exosomal miRNA expression data from CKD patients
+The transcription factor Dach1 is essential for podocyte function
+Studying the role of fascin-1 in mechanically stressed podocytes
+BDNF: mRNA Expression in urine cells of patients with chronic kidney disease and its role in kidney function
+Comparative Analysis of Podocyte Foot Process Morphology in Three Species by 3D Super-Resolution Microscopy.
+The Role of Palladin in Podocytes
+FocusHeuristics - expression-data-driven network optimization and disease gene prediction.
+Acute podocyte injury is not a stimulus for podocytes to migrate along the glomerular basement membrane in zebrafish larvae.
+A Heterologous Model of Thrombospondin Type 1 Domain-Containing 7A-Associated Membranous Nephropathy.
+Stressed podocytes-mechanical forces, sensors, signaling and response.
+Are podocytes motile?
+ARP3 Controls the Podocyte Architecture at the Kidney Filtration Barrier.
+Novel Microscopic Techniques for Podocyte Research.
+Fibronectin is up-regulated in podocytes by mechanical stress.
+Upregulation of Tumor Susceptibility Gene 101 (TSG101) by mechanical stress in podocytes.
+Circulating factors cause proteinuria in parabiotic zebrafish.
+MiR-21 is up-regulated in urinary exosomes of chronic kidney disease patients and after glomerular injury.
+Adriamycin does not damage podocytes of zebrafish larvea
+Prolonged podocyte depletion in larval zebrafish resembles mammalian focal and segemntal glomerulosclerosis
+Cosmc-dependent mucin-type O-linked lgycosylation is essential for podocyte function
+Studies on the Role of the Transcription Factor Tcf21 in the Transdifferentiation of Parietal Epithelial Cells into Podocyte-Like Cells.
+Insights in ChAdOx1 nCov-19 Vaccine-induced Immune Thrombotic Thrombocytopenia (VITT).
+The podocyte-specific knockout of palladin in mice with a 129 genetic background affects podocyte morphology and the expression of palladin interacting proteins
+Super-resolved local recruitment of CLDN5 to Filtration slits implicates a direct relationship with podocyte foot process
+The Actin-Binding Protein alpha-Adducin Modulates Desmosomal Turnover and Plasticity
+Brain dysfunction in tubular and tubulointerstitial kidney diseases
+SRGAP1 Controls Small Rho GTPases To Regulate Podocyte Foot Process Maintenance
+Comparative analysis of ChAdOx1 nCoV-19 and Ad26.COV2.S SARS-CoV-2 vector vaccines.
+Parietal epithelial cells maintain the epithelial cell continuum forming Bowman`s space in focal segmental glomerulosclerosis
+High salt diet-induced proximal tubular phenotypic changes and sodium-glucose cotransporter-2 Expression are coordinated by cold shock Y-box binding protein-1
+New Diagnostics for podocytopathy? PEMP and more
+The role of filamins in mechanically stressed podocytes.
+Pathogenesis of vaccine-induced immune thrombotic thrombocytopenia (VITT).
+The ShGlomAssay Combines High-Throughput Drug Screening With Downstream Analyses and Reveals the Protective Role of Vitamin D3 and Calcipotriol on Podocytes
+Potentially inappropriate medication in patients with chronic kidney disease and elderly patients.
+Comorbid Depression and Diabetes Are Associated with Impaired Health-Related Quality of Life in Chronic Kidney Disease Patients.
+ScoMorphoFISH: A deep learning enabled toolbox for single-cell single-mRNA quantification and correlative (ultra-)morphometry.
+Nephroprotective Effects of Semaglutide as Mono- and Combination Treatment with Lisinopril in a Mouse Model of Hypertension-Accelerated Diabetic Kidney Disease.
+Human pluripotent stem cell-derived kidney organoids for personalized congenital and idiopathic nephrotic syndrome modeling.
+?-Parvin Defines a Specific Integrin Adhesome to Maintain the Glomerular Filtration Barrier.
+Parietal epithelial cells maintain the epithelial cell continuum forming Bowman's space in focal segmental glomerulosclerosis.
+The calcium-sensing receptor stabilizes podocyte function in proteinuric humans and mice.
+Evaluation of endogenous miRNA reference genes across different zebrafish strains, developmental stages and kidney disease models
+ScoMorphoFISH: A deep learning enabled toolbox for single-cell single-mRNA quantification and correlative (ultra-)morphometry
+Morphological and behavioral analysis of Slc35f1-deficient mice revealed no neurodevelopmental phenotype

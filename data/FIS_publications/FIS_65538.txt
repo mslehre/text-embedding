@@ -1,0 +1,3 @@
+Matos M	FIS_65538
+lpNet: a linear programming approach to reconstruct signal transduction networks
+Inferring causal molecular networks: empirical assessment through a community-based effort.

@@ -1,0 +1,13 @@
+Hoff, Katharina	FIS_45016
+Finding the missing honey bee genes: lessons learned from a genome upgrade
+The nervous system of Xenacoelomorpha: a genomic perspective
+Current Methods for Automated Annotation of Protein-Coding Genes
+The genomes of two bumblebee species with primitive eusocial organization
+Mitigating Anticipated Effects of Systematic Errors Supports Sister-Group Relationship between Xenacoelomorpha and Ambulacraria
+VARUS: sampling complementary RNA reads from the sequence read archive
+Non-invasive and label-free 3D visualization of proteins in bacterial cells.
+MakeHub: Fully automated generation of UCSC Genome Browser Assembly Hubs
+An Initial Comparative Genomic Autopsy of Wasting Disease in Sea Stars
+Predicting Genes in Single Genomes with AUGUSTUS
+Chromosome-level reference genome of the European wasp spider Argiope bruennichi: a resource for studies on range expansion and evolutionary adaptation
+Full genome sequence of a Methanomassiliicoccales representative enriched from peat soil

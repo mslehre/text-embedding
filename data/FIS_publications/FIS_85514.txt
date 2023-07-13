@@ -1,0 +1,9 @@
+Hampf, Christopher	FIS_85514
+Record Linkage: Optionen für standortübergreifende Datenzusammenführungen
+Assessment of scalability and performance of the record linkage tool E-PIX® in managing multi-million patients in research projects at a large university hospital in Germany
+A survey on the current status and future perspective of informed consent management in the MIRACUM consortium of the German Medical Informatics Initiative
+A FHIR® has been lit on gICS®  Facilitating the standardized exchange of informed consents in a large network of university medicine (NUM) in pandemic research
+Federated Trusted Third Party as an approach for Privacy Preserving Record Linkage in a large Network of University Medicines in pandemic Research
+The COVID-19 Data Exchange Platform of the German University Medicine.
+Patient Recruitment System for Clinical Trials: Mixed Methods Study About Requirements at Ten University Hospitals
+No Transfer Without Validation: A Data Sharing Framework Use Case

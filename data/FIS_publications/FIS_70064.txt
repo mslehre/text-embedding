@@ -1,0 +1,4 @@
+Decker, Christoph Martin	FIS_70064
+Defensive Function of Transposable Elements in Bacteria.
+Single-Cell and Time-Resolved Profiling of Intracellular Salmonella Metabolism in Primary Human Cells.
+Chromosome-free bacterial cells are safe and programmable platforms for synthetic biology.

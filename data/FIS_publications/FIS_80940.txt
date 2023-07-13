@@ -1,0 +1,5 @@
+John D	FIS_80940
+Cathepsin D regulates cathepsin B activation and disease severity predominantly in inflammatory cells during experimental pancreatitis.
+Deficiency of cathepsin C ameliorates severity of acute pancreatitis by reduction of neutrophil elastase activation and cleavage of E-cadherin.
+Pink1-Parkin mediated mitophagy in acute pancreatitis
+Absence of the neutrophil serine protease cathepsin G decreases neutrophil granulocyte infiltration but does not change the severity of acute pancreatitis.

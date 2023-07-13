@@ -1,0 +1,4 @@
+Hopf V	FIS_19861
+Caspase-1-dependent and -independent cell death pathways in Burkholderia pseudomallei infection of macrophages.
+BPSS1504, a cluster 1 type VI secretion gene, is involved in intracellular survival and virulence of Burkholderia pseudomallei.
+Caspase-6 mediates resistance against Burkholderia pseudomallei infection and influences the expression of detrimental cytokines.

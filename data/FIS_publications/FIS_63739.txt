@@ -1,0 +1,57 @@
+Kromrey, Marie-Luise	FIS_63739
+Accuracy of simple approaches to assessing liver volume in radiological imaging
+Quantification of liver proton-density fat fraction in 7.1T preclinical MR systems: Impact of the fitting technique.
+Intravenous injection of gadobutrol in an epidemiological study group did not lead to a difference in relative signal intensities of certain brain structures after 5 years.
+Magnetic Resonance Imaging of Changes in Abdominal Compartments in Obese Diabetics during a Low-Calorie Weight-Loss Program.
+Erratum to: Intravenous injection of gadobutrol in an epidemiological study group did not lead to a difference in relative signal intensities of certain brain structures after 5 years.
+Bildgebung des Pankreaskarzinoms
+Monitoring of abdominal Staphylococcus aureus infection using magnetic resonance imaging: a murine animal model for hepatic and renal abscesses.
+Repeated intravenous administration of gadobutrol does not lead to increased signal intensity on unenhanced T1-weighted images-a voxel-based whole brain analysis.
+Prevalence of Fatty Liver Disease and Hepatic Iron Overload in a Northeastern German Population by Using Quantitative MR Imaging.
+Pulmonary emphysema is a predictor of pneumothorax after CT-guided transthoracic pulmonary biopsies of pulmonary nodules.
+Prospective study on the incidence, prevalence and 5-year pancreatic-related mortality of pancreatic cysts in a population-based study.
+Metastatische Kalzifikation der Lunge  Gutartiges pulmonales Krankheitsbild bei einem Patienten mit Niereninsuffizienz.
+Several adaptor proteins promote intracellular localisation of the transporter MRP4/ABCC4 in platelets and haematopoietic cells.
+MEASUREMENT OF PANCREATIC SIZE IN A POPULATION-BASED COHORT: COMPARISON OF ULTRASOUND AND MAGNETIC RESONANCE IMAGING
+Reference Values of Liver Volume in Caucasian Population and Factors Influencing Liver Size
+Low dose caffeine as a salivary tracer for the determination of gastric water emptying in fed and fasted state: A MRI validation study
+A rare type of thyroid mass with acute dyspnea
+Eine seltene Differentialdiagnose der Lungenarterienembolie
+Software-based noise reduction in cranial magnetic resonance imaging: Influence on image quality.
+Accuracy of ultrasonography in the assessment of liver fat compared with MRI
+Pancreatic Steatosis Is Associated With Impaired Exocrine Pancreatic Function
+Characterization of the gastrointestinal transit and disintegration behavior of floating and sinking acid-resistant capsules using a novel MRI labeling technique
+Predicting Patients With Insufficient Liver Enhancement in the Hepatobiliary Phase Before the Injection of Gadoxetic Acid: A Practical Approach Using the Bayesian Method
+Utility of Stack-of-Stars Acquisition for Hepatobiliary Phase Imaging without Breath-holding
+Combined Application of MRI and the Salivary Tracer Technique to Determine the in Vivo Disintegration Time of Immediate Release Formulation Administered to Healthy, Fasted Subjects
+The so-called  bovine aortic arch  : a possible biomarker for embolic strokes?
+Comparability of Size Measurements of the Pancreas in Magnetic Resonance Imaging and Transabdominal Ultrasound.
+Identifying communication-related predictors of patient satisfaction in a briefing prior to contrast-enhanced computed tomography
+Comparison of In Vitro and In Vivo Results Using the GastroDuo and the Salivary Tracer Technique: Immediate Release Dosage Forms under Fasting Conditions
+Clinical Evaluation of Respiratory-triggered 3D MRCP with Navigator Echoes Compared to Breath-hold Acquisition Using Compressed Sensing and/or Parallel Imaging
+In vivo characterization of enTRinsic drug delivery technology capsule after intake in fed state: A cross-validation approach using salivary tracer technique in comparison to MRI.
+Diagnostik und Differenzialdiagnostik der mesenterialen Ischämie
+Reduction of respiratory motion artifacts in gadoxetate-enhanced MR with a deep learning-based filter using convolutional neural network
+Diffusion-weighted MRI-based Virtual Elastography for the Assessment of Liver Fibrosis
+Optimal target b-value on computed diffusion-weighted magnetic resonance imaging for visualization of pancreatic ductal adenocarcinoma and focal autoimmune pancreatitis
+Motion Artifact Reduction Using a Convolutional Neural Network for Dynamic Contrast Enhanced MR Imaging of the Liver
+Gadoxetate disodium-related event during image acquisition: a prospective multi-institutional study for better MR practice
+Local Intra-arterial Vasodilator Infusion in Non-Occlusive Mesenteric Ischemia Significantly Increases Survival Rate
+Accelerated Acquisition of High-resolution Diffusion-weighted Imaging of the Brain with a Multi-shot Echo-planar Sequence: Deep-Learning-based Denoising
+Right Pulmonary Vein Atresia in a Mildly Symptomatic Boy: Comprehensive Analysis of Flow Dynamics Using Non-contrast-enhanced 4D Flow MR Imaging
+Hepatic steatosis and hepatic iron overload modify the association of iron markers with glucose metabolism disorders and metabolic syndrome.
+Long-term outcome of incidental cystic liver tumors in the general population.
+Whole-body R2? mapping to quantify tissue iron in iron storage organs: reference values and a genotype.
+Associations of liver volume and other markers of hepatic steatosis with all-cause mortality in the general population.
+SHIP-MR and Radiology: 12 Years of Whole-Body Magnetic Resonance Imaging in a Single Center
+Pancreatitis severity in mice with impaired CFTR function but pancreatic sufficiency is mediated via ductal and inflammatory cells-Not acinar cells.
+The Effect of Capsule-in-Capsule Combinations on In Vivo Disintegration in Human Volunteers: A Combined Imaging and Salivary Tracer Study
+Association between thyroid function and assessment of hepatic fat and iron contents by magnetic resonance imaging.
+Simple diameter measurement as predictor of liver volume and liver parenchymal disease.
+Epidemiological Factors Associated With Intraductal Papillary Mucinous Neoplasm of the Pancreas: A Dual Center Case-Control Study.
+Identification of early predictors for infected necrosis in acute pancreatitis.
+In Vivo Evaluation of a Gastro-Resistant HPMC-Based "Next Generation Enteric" Capsule.
+Reliability and accuracy of straightforward measurements for liver volume determination in ultrasound and computed tomography compared to real volumetry
+Correction to: Local Intra-arterial Vasodilator Infusion in Non-Occlusive Mesenteric Ischemia Significantly Increases Survival Rate.
+Diagnostic performance and image quality of low-tube voltage and low-contrast medium dose protocol with hybrid iterative reconstruction for hepatic dynamic CT
+The relationship between homoarginine and liver biomarkers: a combination of epidemiological and clinical studies.

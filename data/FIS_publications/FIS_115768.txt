@@ -1,0 +1,3 @@
+Freiesleben, Sherry	FIS_115768
+Patient Recruitment System for Clinical Trials: Mixed Methods Study About Requirements at Ten University Hospitals
+A workflow for the creation of regulatory networks integrating miRNAs and lncRNAs associated with exposure to ionizing radiation using open source data and tools

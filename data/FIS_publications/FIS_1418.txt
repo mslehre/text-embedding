@@ -1,0 +1,37 @@
+Hegenscheid, Katrin	FIS_1418
+The ENIGMA Consortium: large-scale collaborative analyses of neuroimaging and genetic data.
+Patient body weight-tailored contrast medium injection protocol for the craniocervical vessels: a prospective computed tomography study.
+MRI-based Determination of Reference Values of Thoracic Aortic Wall Thickness in a General Population.
+Whole-body Magnetic Resonance Imaging in the German National Cohort: Rationale, Design and Technical Background
+Measurement and genetics of human subcortical and hippocampal asymmetries in large datasets.
+Multimodal imaging of a tescalcin (TESC)-regulating polymorphism (rs7294919)-specific effects on hippocampal gray matter structure.
+Ductoscopic detection of intraductal lesions in cases of pathologic nipple discharge in comparison with standard diagnostics: the german multicenter study.
+A level set based framework for quantitative evaluation of breast tissue density from MRI data.
+A genome-wide search for quantitative trait loci affecting the cortical surface area and thickness of Heschl's gyrus.
+Cardiovascular Risk Factors and Thoracic Aortic Wall Thickness in a General Population
+Common genetic variants influence human subcortical brain structures.
+[Snake bite in a 53-year-old female tourist.]
+Multi-Ethnic Genome-Wide Association Study of Cerebral White Matter Hyperintensities on MRI
+Pancreatic Steatosis Demonstrated at MR Imaging in the General Population: Clinical Relevance.
+[Techniques for quantification of liver fat in risk stratification of diabetics].
+No Association Between Polygenic Risk for Schizophrenia and Brain Volume in the General Population.
+Adiposity measures and vitamin D concentrations in Northeast Germany and Denmark.
+Subcortical brain alterations in major depressive disorder: findings from the ENIGMA Major Depressive Disorder working group.
+Association of a neurokinin 3 receptor polymorphism with the anterior basal forebrain.
+Association between waist circumference and gray matter volume in 2344 individuals from two adult community-based samples.
+Chronic back pain is associated with decreased prefrontal and anterior insular gray matter. Results from a population-based cohort study.
+3D Regression Heat Map Analysis of Population Study Data.
+Impact of whole-body MRI in a general population study.
+Interactive Visual Analysis of Image-Centric Cohort Study Data.
+Automatic Pharynx Segmentation from MRI Data for Analysis of Sleep Related Disorders
+Needle decompression of tension pneumothorax: Population-based epidemiologic approach to adequate needle length in healthy volunteers in Northeast Germany.
+An efficient level set method for simultaneous intensity inhomogeneity correction and segmentation of MR images.
+Effect of the interaction between childhood abuse and rs1360780 of the FKBP5 gene on gray matter volume in a general population sample.
+Childhood adversity impacts on brain subcortical structures relevant to depression.
+Response to Dr Fried & Dr Kievit, and Dr Malhi et al.
+Novel genetic loci associated with hippocampal volume.
+Domains of physical activity and brain volumes: A population-based study.
+Association between Serum Thyroid-Stimulating Hormone Levels and Visceral Adipose Tissue: A Population-Based Study in Northeast Germany.
+Reference values for the cervical spinal canal and the vertebral bodies by MRI in a general population
+Effects of whole-body MRI on outpatient health service costs: a general-population prospective cohort study in Mecklenburg-Vorpommern, Germany
+SHIP-MR and Radiology: 12 Years of Whole-Body Magnetic Resonance Imaging in a Single Center

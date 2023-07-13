@@ -1,0 +1,33 @@
+Surmann, Kristin	FIS_49792
+Labeling of the pathogenic bacterium Staphylococcus aureus with gold or ferric oxide-core nanoparticles highlights new capabilities for investigation of host-pathogen interactions.
+Comparative proteome analysis reveals conserved and specific adaptation patterns of Staphylococcus aureus after internalization by different types of human non-professional phagocytic host cells.
+Absolute quantification of the Kdp subunits of Escherichia coli by multiple reaction monitoring.
+A proteomic perspective of the interplay of Staphylococcus aureus and human alveolar epithelial cells during infection.
+A peptide resource for the analysis of Staphylococcus aureus in host-pathogen interaction studies.
+Shotgun proteome analysis of Bordetella pertussis reveals a distinct influence of iron availability on the bacterial metabolism, virulence, and defense response
+Molecular and proteome analyses highlight the importance of the Cpx envelope stress system for acid stress and cell wall stability in Escherichia coli.
+Proteome analysis of Bordetella pertussis isolated from human macrophages.
+Alternative fluorescent labeling strategies for characterizing gram-positive pathogenic bacteria: Flow cytometry supported counting, sorting, and proteome analysis of Staphylococcus aureus retrieved from infected host cells.
+Proteome data from a host-pathogen interaction study with Staphylococcus aureus and human lung epithelial cells.
+Characterization of human and Staphylococcus aureus proteins in respiratory mucosa by in vivo- and immunoproteomics.
+A global Staphylococcus aureus proteome resource applied to the in vivo characterization of host-pathogen interactions.
+The role of the two-component systems Cpx and Arc in protein alterations upon gentamicin treatment in Escherichia coli.
+Cellular concentrations of the transporters DctA, DcuB, and the sensor DcuS of Escherichia coli and the contributions of free and complexed DcuS to transcriptional regulation by DcuR.
+AureoWiki ? The repository of the Staphylococcus aureus research and annotation community.
+Analysis of Staphylococcus aureus proteins secreted inside infected human epithelial cells.
+A Bordetella pertussis MgtC homolog plays a role in the intracellular survival
+Metabolic Cross-talk Between Human Bronchial Epithelial Cells and Internalized  as a Driver for Infection.
+Shotgun proteomic analysis of Bordetella parapertussis provides insights into the physiological response to iron starvation and potential new virulence determinants absent in Bordetella pertussis.
+Fumarate dependent protein composition under aerobic and anaerobic growth conditions in Escherichia coli.
+Hfq modulates global protein pattern and stress response in Bordetella pertussis.
+Improving Proteome Coverage for Small Sample Amounts: An Advanced Method for Proteomics Approaches with Low Bacterial Cell Numbers.
+A MicroRNA Network Controls  Replication in Human Macrophages via LGALS8 and MX1.
+Interaction of  and Host Cells upon Infection of Bronchial Epithelium during Different Stages of Regeneration.
+Exploring metal availability in the natural niche of Streptococcus pneumoniae to discover potential vaccine antigens
+Exploring Virulence Factors and Alternative Therapies against Staphylococcus aureus Pneumonia
+The intracellular phase of extracellular respiratory tract bacterial pathogens and its role on pathogen-host interactions during infection.
+Extracellular Vesicle Separation Techniques Impact Results from Human Blood Samples: Considerations for Diagnostic Applications
+The protease SplB of Staphylococcus aureus targets host complement components and inhibits complement-mediated bacterial opsonophagocytosis.
+Tight Complex Formation of the Fumarate Sensing DcuS-DcuR Two-Component System at the Membrane and Target Promoter Search by Free DcuR Diffusion.
+Bordetella pertussis outer membrane vesicles as virulence factor vehicles that influence bacterial interaction with macrophages.
+Screening for eukaryotic motifs in  Legionella pneumoniae reveals Smh1 as bacterial deacetylase of host histones.

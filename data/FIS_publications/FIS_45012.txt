@@ -1,0 +1,13 @@
+Stanke, Mario	FIS_45012
+ClassyFlu: Classification of Influenza A Viruses with Discriminatively Trained Profile-HMMs
+The Chlamydomonas genome project: a decade on
+CRF-based models of protein surfaces improve protein-protein interaction site predictions
+Tissue-specific transcriptomics, chromosomal localization, and phylogeny of chemosensory and odorant binding proteins from the red flour beetle Tribolium castaneum reveal subgroup specificities for olfaction or more general functions
+Finding the missing honey bee genes: lessons learned from a genome upgrade
+Verticillium transcription activator of adhesion Vta2 suppresses microsclerotia formation and is required for systemic infection of plant roots
+BRAKER1: unsupervised RNA-Seq-based genome annotation with GeneMark-ET and AUGUSTUS
+Exome Sequencing Discloses Ionizing-radiation-induced DNA Variants in the Genome of Human Gingiva Fibroblasts.
+Effects of adult temperature on gene expression in a butterfly: identifying pathways associated with thermal acclimation.
+Current Methods for Automated Annotation of Protein-Coding Genes
+VARUS: sampling complementary RNA reads from the sequence read archive
+Predicting Genes in Single Genomes with AUGUSTUS

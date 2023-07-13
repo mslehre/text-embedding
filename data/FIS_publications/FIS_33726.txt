@@ -1,0 +1,8 @@
+Ejima S	FIS_33726
+Comparative density-matrix renormalization group study of symmetry-protected topological phases in spin-1 chain and Bose-Hubbard models
+Dynamical correlation functions for the one-dimensional Bose-Hubbard insulator
+Spectral and Entanglement Properties of the Bosonic Haldane Insulator
+Order, Criticality, and Excitations in the Extended Falicov-Kimball Model
+Entanglement properties of the nontrivial Haldane insulator in the 1D extended Bose-Hubbard model
+Criticality at the Haldane-insulator charge-density-wave quantum phase transition
+Ising tricriticality in the extended Hubbard model with bond dimerization

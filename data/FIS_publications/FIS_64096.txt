@@ -1,0 +1,52 @@
+Hermann A	FIS_64096
+Determination of the Pathological Features of NPC1 Variants in a Cellular Complementation Test.
+SQSTM1/p62 variants in 486 patients with familial ALS from Germany and Sweden.
+Poly-glycine-alanine exacerbates C9orf72 repeat expansion-mediated DNA damage via sequestration of phosphorylated ATM and loss of nuclear hnRNPA3.
+Neurofilament light chain in serum of adolescent and adult SMA patients under treatment with nusinersen.
+Assessment of Gene Variant Amenability for Pharmacological Chaperone Therapy with 1-Deoxygalactonojirimycin in Fabry Disease.
+Depending on the stress, histone deacetylase inhibitors act as heat shock protein co-inducers in motor neurons and potentiate arimoclomol, exerting neuroprotection through multiple mechanisms in ALS models.
+Stimulation of mGluR1/5 Improves Defective Internalization of AMPA Receptors in NPC1 Mutant Mouse.
+Knocking out C9ORF72 Exacerbates Axonal Trafficking Defects Associated with Hexanucleotide Repeat Expansion and Reduces Levels of Heat Shock Proteins.
+Proteostasis regulators modulate proteasomal activity and gene expression to attenuate multiple phenotypes in Fabry disease.
+Symptomatic pharmacotherapy in ALS: data analysis from a platform-based medication management programme.
+Generation of induced pluripotent stem cell lines AKOSi002-A and AKOSi003-A from symptomatic female adults with Wilson disease.
+Peripheral proinflammatory Th1/Th17 immune cell shift is linked to disease severity in amyotrophic lateral sclerosis.
+9-Methyl-?-carboline inhibits monoamine oxidase activity and stimulates the expression of neurotrophic factors by astrocytes.
+Routine Cerebrospinal Fluid (CSF) Parameters in Patients With Spinal Muscular Atrophy (SMA) Treated With Nusinersen.
+Phenotypes and malignancy risk of different FUS mutations in genetic amyotrophic lateral sclerosis.
+Generation of the Niemann-Pick type C2 patient-derived iPSC line AKOSi001-A.
+Putaminal Dopamine Turnover in de novo Parkinson's Disease Predicts Later Neuropsychiatric Fluctuations but Not Other Major Health Outcomes.
+KCNC1-related disorders: new de novo variants expand the phenotypic spectrum.
+Palatal Tremor with Progressive Ataxia Secondary to A Dural Arteriovenous Fistula.
+Off-Label Treatment of 4 Amyotrophic Lateral Sclerosis Patients With 4-Aminopyridine.
+Silent but significant - A synonymous SNV alters prognosis in Pompe disease.
+Combined Dendritic and Axonal Deterioration Are Responsible for Motoneuronopathy in Patient-Derived Neuronal Cell Models of Chorea-Acanthocytosis.
+Fused in sarcoma-amyotrophic lateral sclerosis as a novel member of DNA single strand break diseases with pure neurological phenotypes.
+Generation of two induced pluripotent stem cell lines from a female adult homozygous for the Wilson disease associated ATP7B variant p.H1069Q (AKOSi008-A) and a healthy control (AKOSi009-A).
+Generation of an iPSC line (AKOSi006-A) from fibroblasts of a NPC1 patient, carrying the homozygous mutation p.I1061T (c.3182 T > C) and a control iPSC line (AKOSi007-A) using a non-integrating Sendai virus system.
+Catecholaminergic Innervation of Periventricular Neurogenic Regions of the Developing Mouse Brain.
+Genome Wide Analysis Points towards Subtype-Specific Diseases in Different Genetic Forms of Amyotrophic Lateral Sclerosis.
+Neurofilament light chain in serum is significantly increased in chorea-acanthocytosis.
+Norepinephrine is a negative regulator of the adult periventricular neural stem cell niche.
+Human Spinal Motor Neurons Are Particularly Vulnerable to Cerebrospinal Fluid of Amyotrophic Lateral Sclerosis Patients.
+Increased Neuronal Differentiation Efficiency in High Cell Density-Derived Induced Pluripotent Stem Cells.
+Cognitive reserve and regional brain volume in amyotrophic lateral sclerosis.
+TDP-43 as structure-based biomarker in amyotrophic lateral sclerosis.
+One nerve suffices: A clinically guided nerve ultrasound protocol for the differentiation of multifocal motor neuropathy (MMN) and amyotrophic lateral sclerosis (ALS).
+Pluripotent Stem Cells for Disease Modeling and Drug Discovery in Niemann-Pick Type C1.
+Pathophysiological In Vitro Profile of Neuronal Differentiated Cells Derived from Niemann-Pick Disease Type C2 Patient-Specific iPSCs Carrying the  Mutations c.58G>T/c.140G>T.
+The palmomental reflex in amyotrophic lateral sclerosis - a clinical sign of executive or motor dysfunction?
+FUS Is Not Mislocalized in Spinal Motor Neurons Derived From Human Induced Pluripotent Stem Cells of Main Non-FUS ALS Subtypes.
+Acanthocyte Sedimentation Rate as a Diagnostic Biomarker for Neuroacanthocytosis Syndromes: Experimental Evidence and Physical Justification.
+A Nation-Wide, Multi-Center Study on the Quality of Life of ALS Patients in Germany.
+Chronic-Progressive Dopaminergic Deficiency Does Not Induce Midbrain Neurogenesis.
+Impairment of mitochondrial oxidative phosphorylation in skin fibroblasts of SALS and FALS patients is rescued by in vitro treatment with ROS scavengers.
+Pathomechanisms of ALS8: altered autophagy and defective RNA binding protein (RBP) homeostasis due to the VAPB P56S mutation.
+Reconditioning the Neurogenic Niche of Adult Non-human Primates by Antisense Oligonucleotide-Mediated Attenuation of TGF? Signaling.
+Concomitant gain and loss of function pathomechanisms in C9ORF72 amyotrophic lateral sclerosis.
+The ALS-Associated FUS (P525L) Variant Does Not Directly Interfere with Microtubule-Dependent Kinesin-1 Motility.
+Serum creatine kinase and creatinine in adult spinal muscular atrophy under nusinersen treatment.
+A serum microRNA sequence reveals fragile X protein pathology in amyotrophic lateral sclerosis.
+Generation of an iPSC line (AKOSi004-A) from fibroblasts of a female adult NPC1 patient, carrying the compound heterozygous mutation p.Val1023Serfs*15/p.Gly992Arg and of an iPSC line (AKOSi005-A) from a female adult control individual.
+Oxidative Stress and Alterations in the Antioxidative Defense System in Neuronal Cells Derived from NPC1 Patient-Specific Induced Pluripotent Stem Cells.
+MDS criteria for the diagnosis of progressive supranuclear palsy overemphasize Richardson syndrome.

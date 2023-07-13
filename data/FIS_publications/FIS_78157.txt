@@ -1,0 +1,3 @@
+Henke J	FIS_78157
+Automatic Conversion of Metadata from the Study of Health in Pomerania to ODM.
+Square2 - A Web Application for Data Monitoring in Epidemiological and Clinical Studies

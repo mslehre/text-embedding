@@ -1,0 +1,2 @@
+Neubig S	FIS_76161
+Analytical robustness of nine common assays: frequency of outliers and extreme differences identified by a large number of duplicate measurements.

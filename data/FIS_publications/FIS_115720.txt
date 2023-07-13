@@ -1,0 +1,2 @@
+Giraldo Guzman, Jader Alexander	FIS_115720
+Efficiency of different heartbeat detection methods by using alternative noise reduction algorithms

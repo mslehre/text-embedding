@@ -1,0 +1,3 @@
+Moser, Frank-Michael	FIS_106113
+A FHIR® has been lit on gICS®  Facilitating the standardized exchange of informed consents in a large network of university medicine (NUM) in pandemic research
+Federated Trusted Third Party as an approach for Privacy Preserving Record Linkage in a large Network of University Medicines in pandemic Research

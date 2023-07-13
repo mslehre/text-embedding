@@ -1,0 +1,3 @@
+Pop C	FIS_67152
+Proteome analysis of heart biopsies using a TRIzol-based protein extraction.
+Global plasma protein profiling reveals DCM characteristic protein signatures.

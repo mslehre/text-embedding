@@ -1,0 +1,3 @@
+Gütebier, Lea Marie	FIS_108591
+CovidGraph: A Graph to fight COVID-19
+A workflow for the creation of regulatory networks integrating miRNAs and lncRNAs associated with exposure to ionizing radiation using open source data and tools

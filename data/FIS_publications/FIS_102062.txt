@@ -1,0 +1,4 @@
+Hsu, Chen-Jen	FIS_102062
+The Role of MacroH2A Histone Variants in Cancer.
+PLCG1 is required for AML1-ETO leukemia stem cell self-renewal.
+Histone demethylase KDM4C is a functional dependency in JAK2-mutated neoplasms.
