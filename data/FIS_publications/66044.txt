@@ -1,2 +1,0 @@
-Milnikel M	66044
-On/off switching of bit readout in bias-enhanced tunnel magneto-Seebeck effect

@@ -1,9 +1,0 @@
-Lewerentz L	36067
-Gyrokinetic simulations of magnetic reconnection in non-uniform plasmas
-Gyrokinetic simulations of magnetic reconnection in non-uniform plasmas
-A gyrokinetic model for studies of magnetic reconnection in periodic and bounded plasmas
-A gyrokinetic model for studies of magnetic reconnection in periodic and bounded plasmas
-Plasma flow around and charge distribution of a dust cluster in a rf discharge
-PIC simulations of capacitively coupled oxygen rf discharges
-Statistical Analysis of Table-Tennis Ball Trajectories
-Konzeption eines Prototyps zur Videoüberwachung von Zanderlarven - Digitalisation of pikeperch raise

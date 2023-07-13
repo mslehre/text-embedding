@@ -1,2 +1,0 @@
-Schorge V	2065
-Modeling internal ballistics of gas combustion guns.

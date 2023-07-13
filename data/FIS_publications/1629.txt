@@ -1,6 +1,0 @@
-Havemann C	1629
-Pim1 kinase is upregulated in glioblastoma multiforme and mediates tumor cell survival.
-MOSAIC. A modular approach to data management in epidemiological studies.
-Cohort profile: Greifswald approach to individualized medicine (GANI_MED).
-A workflow-driven approach to integrate generic software modules in a Trusted Third Party
-Expression of S1P metabolizing enzymes and receptors correlate with survival time and regulate cell migration in glioblastoma multiforme

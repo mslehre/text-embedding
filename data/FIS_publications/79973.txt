@@ -1,7 +1,0 @@
-Becker A	79973
-Comparison of Cell Arrays and Multi-Well Plates in Microscopy-Based Screening.
-Metabolic Cross-talk Between Human Bronchial Epithelial Cells and Internalized  as a Driver for Infection.
-Nonparametric identification in the dynamic stochastic block model
-Interaction of  and Host Cells upon Infection of Bronchial Epithelium during Different Stages of Regeneration.
-From heterogeneous healthcare data to disease-specific biomarker networks: A hierarchical Bayesian network approach.
-Analysis of epidemiological association patterns of serum thyrotropin by combining random forests and Bayesian networks.

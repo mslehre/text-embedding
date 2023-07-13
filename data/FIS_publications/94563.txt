@@ -1,6 +1,0 @@
-Hay E	94563
-Differential expression of several factors involved in placental development in normal and abnormal condition.
-Super-resolved local recruitment of CLDN5 to Filtration slits implicates a direct relationship with podocyte foot process
-New Diagnostics for podocytopathy? PEMP and more
-ScoMorphoFISH: A deep learning enabled toolbox for single-cell single-mRNA quantification and correlative (ultra-)morphometry.
-ScoMorphoFISH: A deep learning enabled toolbox for single-cell single-mRNA quantification and correlative (ultra-)morphometry

@@ -1,9 +1,0 @@
-Piegsa, Jens	3586
-MOSAIC. A modular approach to data management in epidemiological studies.
-Management multiresistenter Erreger: Implikationen für den Übergang von stationärer zu ambulanter Versorgung
-A workflow-driven approach to integrate generic software modules in a Trusted Third Party
-Improving hospital hygiene to reduce the impact of multidrug-resistant organisms in health care-a prospective controlled multicenter study
-Erreichbarkeit medizinischer Leistungserbringer  am Beispiel der Kinder- und Jugendmedizin in Ostvorpommern - eine geographische Analyse
-Accessibility of general practitioners and selected specialist physicians by car and by public transport in a rural region of Germany
-Is there an association between spatial accessibility of outpatient care and utilization? Analysis of gynecological und general medical care
-Toolbox for Research, or How to facilitate a central data management in small-scale research projects.

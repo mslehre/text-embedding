@@ -1,2 +1,0 @@
-Bhar, Anirban	92169
-Application of a maximal-clique based community detection algorithm to gut microbiome data reveals driver microbes during influenza A virus infection.

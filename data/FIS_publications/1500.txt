@@ -1,6 +1,0 @@
-Bast A	1500
-Bone marrow-derived macrophages from BALB/c and C57BL/6 mice fundamentally differ in their respiratory chain complex proteins, lysosomal enzymes and components of antioxidant stress systems.
-Caspase-1-dependent and -independent cell death pathways in Burkholderia pseudomallei infection of macrophages.
-BPSS1504, a cluster 1 type VI secretion gene, is involved in intracellular survival and virulence of Burkholderia pseudomallei.
-NADPH oxidase contributes to resistance against Aggregatibacter actinomycetemcomitans-induced periodontitis in mice
-Heme Oxygenase-1 and Carbon Monoxide Promote Burkholderia pseudomallei Infection.

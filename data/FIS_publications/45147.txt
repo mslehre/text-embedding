@@ -1,4 +1,0 @@
-von Savigny, Christian	45147
-Solar 27-day signatures in standard phase height measurements above central Europe
-Indications for a potential synchronization between the phase evolution of the Madden--Julian oscillation and the solar 27-day cycle
-A Python Package to Calculate the OLR-Based Index of the Madden- Julian-Oscillation (OMI) in Climate Science and Weather

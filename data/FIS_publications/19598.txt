@@ -1,9 +1,0 @@
-Böhm A	19598
-Pim1 kinase is upregulated in glioblastoma multiforme and mediates tumor cell survival.
-Expression of S1P metabolizing enzymes and receptors correlate with survival time and regulate cell migration in glioblastoma multiforme
-Sphingosine-1-Phosphate and Its Receptors: A Mutual Link between Blood Coagulation and Inflammation.
-Platelet activation and platelet-leucocyte-conjugate formation in the blood of glioblastoma patients
-Aspirin Inhibits Platelet-Derived Sphingosine-1-Phosphate Induced Endothelial Cell Migration.
-Release of Platelet-Derived Sphingosine-1-Phosphate Involves Multidrug Resistance Protein 4 (MRP4/ABCC4) and Is Inhibited by Statins
-Immune system-mediated atherosclerosis caused by deficiency of long noncoding RNA MALAT1 in ApoE-/- mice.
-Specific inhibition of the transporter MRP4/ABCC4 affects multiple signaling pathways and thrombus formation in human platelets.
