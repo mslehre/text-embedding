@@ -1,0 +1,8 @@
+Steen, Alexander	FIS_111802
+Von Objekt- und Meta-Ebenen: Analyse der Softwareanforderungen computergestützter juristischer Entscheidung
+A Formalisation of Abstract Argumentation in Higher-Order Logic
+Juristische Methodenlehre 3.0: Auf dem Weg zu einer maschinengestützten Methodenwissenschaft
+Who Finds the Short Proof? An Exploration of Variants of Boolos' Curious Inference using Higher-order Automated Theorem Provers
+Extensional Higher-Order Paramodulation in Leo-III
+Extensional Paramodulation for Higher-Order Logic and its Effective Implementation Leo-III
+Automation of Boolos' Curious Inference in Isabelle/HOL

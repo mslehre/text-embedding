@@ -1,0 +1,56 @@
+Maass, Sandra	FIS_31983
+Adaptation of Bacillus subtilis carbon core metabolism to simultaneous nutrient limitation and osmotic challenge: a multi-omics perspective.
+Highly precise quantification of protein molecules per cell during stress and starvation responses in Bacillus subtilis
+Highly precise quantification of protein molecules per cell during stress and starvation responses in Bacillus subtilis
+Genome-wide analysis of phosphorylated PhoP binding to chromosomal DNA reveals several novel features of the PhoPR-mediated phosphate limitation response in Bacillus subtilis
+Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis.
+Methods and applications of absolute protein quantification in microbial systems
+The protein inventory of Clostridium difficile grown in complex and minimal medium
+Monitoring global protein thiol-oxidation and protein S-mycothiolation in Mycobacterium smegmatis under hypochlorite stress
+The glyceraldehyde-3-phosphate dehydrogenase GapDH of Corynebacterium diphtheriae is redox-controlled by protein S -mycothiolation under oxidative stress
+Proteomic response of Streptococcus pneumoniae to iron limitation
+Absolute protein quantification using AQUA-calibrated 2D-PAGE
+Enrichment of cell surface-associated proteins in gram-positive bacteria by biotinylation or trypsin shaving for mass spectrometry analysis
+Proteomic Signatures of Clostridium difficile Stressed with Metronidazole, Vancomycin, or Fidaxomicin
+A metabolic labeling strategy for relative protein quantification in Clostridioides difficile
+Iron Regulation in .
+An Easy and Fast Protocol for Affinity Bead-Based Protein Enrichment and Storage of Proteome Samples
+Subcellular Protein Fractionation in Legionella pneumophila and Preparation of the Derived Sub-proteomes for Analysis by Mass Spectrometry
+Investigating {Lactococcus} lactis {MG}1363 response to phage p2 infection at the proteome level
+Virulence factors produced by  biofilms have a moonlighting function contributing to biofilm integrity.
+Proteomic Investigation Uncovers Potential Targets and Target Sites of Pneumococcal Serine-Threonine Kinase StkP and Phosphatase PhpP.
+Membrane modulation of super-secreting midiBacillus expressing the major Staphylococcus aureus antigen  a mass-spectrometry-based absolute quantification approach
+Peptide-based quorum sensing systems in Paenibacillus polymyxa
+Proteomic Adaptation of Streptococcus pneumoniae to the Human Antimicrobial Peptide LL-37
+A Lactococcal Phage Protein Promotes Viral Propagation and Alters the Host Proteomic Response During Infection
+Exoproteomic profiling uncovers critical determinants for virulence of livestock-associated and human-originated Staphylococcus aureus ST398 strains
+The Leader Peptide peTrpL Forms Antibiotic-Containing Ribonucleoprotein Complexes for Posttranscriptional Regulation of Multiresistance Genes
+Optimized Proteomics Workflow for the Detection of Small Proteins
+Comprehensive Spectral Library from the Pathogenic Bacterium Streptococcus pneumoniae with Focus on Phosphoproteins
+Proteomic Adaptation of Streptococcus pneumoniae to the Antimicrobial Peptide Human Beta Defensin 3 (hBD3) in Comparison to Other Cell Surface Stresses
+Comprehensive absolute quantification of the cytosolic proteome of Bacillus subtilis by data independent, parallel fragmentation in liquid chromatography/mass spectrometry (LC/MS(E))
+Toward the Quantitative Characterization of Arginine Phosphorylations in Staphylococcus aureus
+Proteomic adaptation of Clostridioides difficile to treatment with the antimicrobial peptide nisin
+Reprograming of sRNA target specificity by the leader peptide peTrpL in response to antibiotic exposure
+A conserved, buried cysteine near the P-site is accessible to cysteine modifications and increases ROS stability in the P-type plasma membrane H+-ATPase
+Another layer of complexity in Staphylococcus aureus methionine biosynthesis control: unusual RNase III-driven T-box riboswitch cleavage determines met operon mRNA stability and decay
+Proteomic charting of imipenem adaptive responses in a highly carbapenem resistant clinical Enterobacter roggenkampii isolate
+A small RNA is linking CRISPRCAS and zinc transport
+The rhinobiome of exacerbated wheezers and asthmatics: insights from a german pediatric exacerbation network
+Bottom-up and top-down proteomic approaches for the identification, characterization, and quantification of the low molecular weight proteome with focus on short open reading frame-encoded peptides
+CdrS is a global transcriptional regulator influencing cell division in Haloferax volcanii
+Atp? is an inhibitor of F0F1 ATP synthase to arrest ATP hydrolysis during low-energy conditions in cyanobacteria
+The global proteome and ubiquitinome of bacterial and viral co-infected bronchial epithelial cells
+Expression of the Cyanobacterial FoF1 ATP Synthase Regulator Atp? Depends on Small DNA-Binding Proteins and Differential mRNA Stability
+Migration of Acanthamoeba through Legionella biofilms is regulated by the bacterial Lqs-LvbR network, effector proteins and the flagellum
+Streptococcus pneumoniae and Influenza A Virus Co-Infection Induces Altered Polyubiquitination in A549 Cells
+Connections between Exoproteome Heterogeneity and Virulence in the Oral Pathogen Aggregatibacter actinomycetemcomitans
+Sample preparation for mass spectrometry-based absolute quantification of bacterial proteins in antibiotic stress research
+Virulence induction in Pseudomonas aeruginosa under inorganic phosphate limitation: a proteomics perspective
+Legionella- and host-driven lipid flux at LCV-ER membrane contact sites promotes vacuole remodeling
+The Cellular Abundance of Chemoreceptors, Chemosensory Signaling Proteins, Sensor Histidine Kinases, and Solute Binding Proteins of Pseudomonas aeruginosa Provides Insight into Sensory Preferences and Signaling Mechanisms
+Staphylococcus aureus populations from the gut and the blood are not distinguished by virulence traits-a critical role of host barrier integrity
+Revealing the small proteome of Haloferax volcanii by combining ribosome profiling and small-protein optimized mass spectrometry
+Unraveling the small proteome of the plant symbiont Sinorhizobium meliloti by ribosome profiling and proteogenomics
+The large GTPase Sey1/atlastin mediates lipid droplet- and FadL-dependent intracellular fatty acid metabolism of Legionella pneumophila
+The high-light-induced protein SliP4 binds to NDH1 and photosystems facilitating cyclic electron transport and state transition in Synechocystis sp. PCC 6803
