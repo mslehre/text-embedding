@@ -24,14 +24,19 @@
            LINK. <br>Please be aware that the Large Language Model can 
            hallucinate and give wrong information, always check important 
            information yourself.</p>
-
-        <form action = "http://localhost:5000/result" method = "post">
-            <label for="question">Enter your question:</label><br>
-            <br>
-            <textarea type="text" id="question" name="question" rows="5" cols="40"></textarea><br>
-            <br>
-            <button type="submit">get answer</button>
-        </form>
+        <div class="column">
+            <form action = "http://localhost:5000" method = "POST">
+                <label for="question">Enter your question:</label><br>
+                <br>
+                <textarea id="question" name="question" class="question-input" placeholder="Enter your question"></textarea>
+                <div class="button-container">
+                    <button type="submit">Get Answer</button>
+                </div>
+            </form>
+        </div>
+        <div class="column">
+            <textarea id="answer-display" class="answer-display" placeholder="Answer will be displayed here" readonly>{{ answer }}</textarea>
+        </div>
     </div>
 </body>
 </html>
