@@ -327,9 +327,9 @@ Kordaß B	Kordass	Bernd	FIS_2184	Universitätsmedizin Greifswald	Zahn-, Mund- und 
 Meyer G	Meyer	Georg	FIS_2199	Universitätsmedizin Greifswald	Zahn-, Mund- und Kieferheilkunde	Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde
 Thiele A	NaN	NaN	FIS_1583	Universitätsmedizin Greifswald	Pathologie	Institut für Pathologie
 Karanam N	NaN	NaN	FIS_1325	Universitätsmedizin Greifswald	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung
-Breitbach K	NaN	NaN	FIS_1216	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Bast A	NaN	NaN	FIS_1500	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Steinmetz I	Steinmetz	Ivo	FIS_2243	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Breitbach K	NaN	NaN	FIS_1216	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Bast A	NaN	NaN	FIS_1500	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Steinmetz I	Steinmetz	Ivo	FIS_2243	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Steil L	Steil	Leif	FIS_1103	Universitätsmedizin Greifswald	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung
 Gesell Salazar M	Gesell Salazar	Manuela	FIS_1324	Universitätsmedizin Greifswald	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung
 Brinkmann L	Brinkmann	Lars	FIS_1876	Universitätsmedizin Greifswald	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung
@@ -381,8 +381,8 @@ Palm G	Palm	Gottfried	FIS_35662	Mathematisch-Naturwissenschaftliche Fakultät	Bio
 Hinrichs W	NaN	NaN	FIS_39186	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie	Institut für Biochemie / AG Synthetische und Strukturelle Biochemie
 Bornscheuer U	Bornscheuer	Uwe	FIS_32921	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie	Institut für Biochemie / AG Biotechnologie & Enzymkatalyse
 Samietz S	Samietz	Stefanie	FIS_1236	Universitätsmedizin Greifswald	Zahn-, Mund- und Kieferheilkunde	Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde
-Hetzer A	NaN	NaN	FIS_1827	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Göhler A	NaN	NaN	FIS_2179	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Hetzer A	NaN	NaN	FIS_1827	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Göhler A	NaN	NaN	FIS_2179	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Jablonowski L	Jablonowski	Lukasz	FIS_2038	Universitätsmedizin Greifswald	Zahn-, Mund- und Kieferheilkunde	Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde
 Pink C	Pink	Christiane	FIS_64316	Universitätsmedizin Greifswald	Zahn-, Mund- und Kieferheilkunde	Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde
 Markus M	Markus	Marcello Ricardo Paulista	FIS_2092	Universitätsmedizin Greifswald	Community Medicine	Institut für Community Medicine / Abt. SHIP KEF
@@ -572,7 +572,7 @@ Jekutsch U	NaN	NaN	FIS_49064	Philosophische Fakultät	Slawistik	Institut für Slaw
 Scheer C	Scheer	Christian Samuel	FIS_1981	Universitätsmedizin Greifswald	Anästhesie, Intensiv- und Notfallmedizin	Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin
 Fuchs C	Fuchs	Christian	FIS_2047	Universitätsmedizin Greifswald	Anästhesie, Intensiv- und Notfallmedizin	Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin
 Brückmann S	NaN	NaN	FIS_25749	Universitätsmedizin Greifswald	Pathologie	Institut für Pathologie
-Schulz K	Schulz	Katrin	FIS_59	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Schulz K	Schulz	Katrin	FIS_59	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Kasch J	NaN	NaN	FIS_2285	Universitätsmedizin Greifswald	Frauenheilkunde und Geburtshilfe	Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe
 Schumacher E	Schumacher	Eckhard	FIS_49194	Philosophische Fakultät	Deutsche Philologie	Institut für Deutsche Philologie / LS für Neuere deutsche Literatur und Literaturtheorie (Schumacher)
 Krüger K	NaN	NaN	FIS_49262	Philosophische Fakultät	Deutsche Philologie	Institut für Deutsche Philologie / LS für Neuere deutsche Literatur und Literaturtheorie (Schumacher)
@@ -807,7 +807,7 @@ Geßner S	Gessner	Stephan	FIS_25784	Universitätsmedizin Greifswald	Hygiene und Um
 Schmidt S	Schmidt	Sebastian	FIS_305	Universitätsmedizin Greifswald	Kinder- und Jugendmedizin	Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie
 Wegner M	Wegner	Mechthild	FIS_500	Universitätsmedizin Greifswald	Kinder- und Jugendmedizin	Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie
 Wolfram J	NaN	NaN	FIS_31215	Universitätsmedizin Greifswald	Kinder- und Jugendmedizin	Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Pädiatrische Onkologie und Hämatologie
-Zimmermann K	Lehmann	Kathrin	FIS_61	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Zimmermann K	Lehmann	Kathrin	FIS_61	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Otto S	Otto	Sylke	FIS_287	Universitätsmedizin Greifswald	Radiologie	Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie
 Grunwald U	Grunwald	Uwe	FIS_208	Universitätsmedizin Greifswald	Klinische Chemie und Laboratoriumsmedizin	Institut für Klinische Chemie und Laboratoriumsmedizin
 Huber S	Huber	Stefanie	FIS_1896	Universitätsmedizin Greifswald	Kinder- und Jugendmedizin	Zentrum für Kinder- und Jugendmedizin / Klinik und Poliklinik für Kinder- und Jugendmedizin / Allgemeine Pädiatrie
@@ -830,7 +830,7 @@ Preisitsch M	NaN	NaN	FIS_44987	Mathematisch-Naturwissenschaftliche Fakultät	Phar
 Bui T	NaN	NaN	FIS_45175	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische Biologie
 Droese C	NaN	NaN	FIS_32022	Mathematisch-Naturwissenschaftliche Fakultät	Physik	Institut für Physik / AG Atom- und Molekülphysik
 Wienholtz F	NaN	NaN	FIS_33658	Mathematisch-Naturwissenschaftliche Fakultät	Physik	Institut für Physik / AG Atom- und Molekülphysik
-Schröder G	NaN	NaN	FIS_20	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Schröder G	NaN	NaN	FIS_20	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Vass A	Vass	Albert	FIS_32039	Mathematisch-Naturwissenschaftliche Fakultät	Physik	Institut für Physik
 Bandelow S	Bandelow	Steffi	FIS_32055	Mathematisch-Naturwissenschaftliche Fakultät	Physik	Institut für Physik
 Breitenfeldt C	NaN	NaN	FIS_33915	Mathematisch-Naturwissenschaftliche Fakultät	Physik	Institut für Physik
@@ -849,11 +849,11 @@ Kaczmarek S	Kaczmarek	Sabine	FIS_25799	Universitätsmedizin Greifswald	Innere Med
 Lehnert K	Lehnert	Kristin	FIS_25809	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin B
 Hiemisch A	Hiemisch	Anette	FIS_44902	Mathematisch-Naturwissenschaftliche Fakultät	Psychologie	Institut für Psychologie / AG Allgemeine Psychologie und Forschungsmethodik
 Lau S	NaN	NaN	FIS_45017	Mathematisch-Naturwissenschaftliche Fakultät	Psychologie	Institut für Psychologie / AG Allgemeine Psychologie und Forschungsmethodik
-Kohler C	Kohler	Christian	FIS_25109	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Hopf V	NaN	NaN	FIS_19861	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Krause K	NaN	NaN	FIS_53773	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Kohler C	Kohler	Christian	FIS_25109	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Hopf V	NaN	NaN	FIS_19861	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Krause K	NaN	NaN	FIS_53773	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Kenk H	Kenk	Heidrun	FIS_2990	Universitätsmedizin Greifswald	Pathophysiologie	Institut für Pathophysiologie
-Eske-Pogodda K	NaN	NaN	FIS_26330	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Eske-Pogodda K	NaN	NaN	FIS_26330	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Reisenzein R	NaN	NaN	FIS_44908	Mathematisch-Naturwissenschaftliche Fakultät	Psychologie	Institut für Psychologie / AG Allgemeine und Physiologische Psychologie
 Weisz K	Weisz	Klaus	FIS_38450	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie	Institut für Biochemie / AG Analytische Biochemie
 Dickerhoff J	NaN	NaN	FIS_45168	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie	Institut für Biochemie / AG Analytische Biochemie
@@ -1110,7 +1110,7 @@ Zbarsky V	NaN	NaN	FIS_56947	Mathematisch-Naturwissenschaftliche Fakultät	Physik	
 Schäfer R	NaN	NaN	FIS_66120	Mathematisch-Naturwissenschaftliche Fakultät	Physik	Institut für Physik / AG Grenz- und Oberflächenphysik
 Seibt M	NaN	NaN	FIS_61084	Mathematisch-Naturwissenschaftliche Fakultät	Physik	Institut für Physik / AG Grenz- und Oberflächenphysik
 Tönnies K	NaN	NaN	FIS_22225	Universitätsmedizin Greifswald	Radiologie	Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie
-Balau V	NaN	NaN	FIS_3622	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Balau V	NaN	NaN	FIS_3622	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Sierocinski E	NaN	NaN	FIS_66148	Universitätsmedizin Greifswald	Community Medicine	Institut für Community Medicine
 Bhardwaj G	Bhardwaj	Gourav	FIS_25810	Universitätsmedizin Greifswald	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung
 Jouni R	NaN	NaN	FIS_71071	Universitätsmedizin Greifswald	Immunologie und Transfusionsmedizin	Institut für Immunologie und Transfusionsmedizin / Abt. Transfusionsmedizin
@@ -1617,9 +1617,9 @@ Gonzalez-Escamilla G	NaN	NaN	FIS_74734	Universitätsmedizin Greifswald	Neurodegen
 Thilo F	NaN	NaN	FIS_64604	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin A
 Bommer I	NaN	NaN	FIS_74795	Universitätsmedizin Greifswald	Frauenheilkunde und Geburtshilfe	Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe
 Wolfson M	NaN	NaN	FIS_74796	Universitätsmedizin Greifswald	Frauenheilkunde und Geburtshilfe	Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe
-Kohler A	Kohler	Anne	FIS_2295	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Stolt C	NaN	NaN	FIS_23926	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Schmidt I	NaN	NaN	FIS_31440	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Kohler A	Kohler	Anne	FIS_2295	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Stolt C	NaN	NaN	FIS_23926	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Schmidt I	NaN	NaN	FIS_31440	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Mahajan U	NaN	NaN	FIS_31672	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin A
 Marschall T	NaN	NaN	FIS_47680	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin A
 Kunz R	NaN	NaN	FIS_64965	Universitätsmedizin Greifswald	Neurologie	Klinik und Poliklinik für Neurologie
@@ -1648,7 +1648,7 @@ Morch A	NaN	NaN	FIS_70998	Universitätsmedizin Greifswald	Physiologie	Institut fü
 Vogel L	NaN	NaN	FIS_75688	Universitätsmedizin Greifswald	Physiologie	Institut für Physiologie
 Zwicker P	NaN	NaN	FIS_47138	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische Biologie
 Schultze N	Schultze	Nadin	FIS_47137	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische Biotechnologie
-Bohnert J	Bohnert	Jürgen	FIS_71856	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Bohnert J	Bohnert	Jürgen	FIS_71856	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Zimak C	Zimak	Carolin	FIS_31197	Universitätsmedizin Greifswald	Community Medicine	Institut für Community Medicine / Abt. SHIP KEF
 Kiel S	Kiel	Simone	FIS_66256	Universitätsmedizin Greifswald	Community Medicine	Institut für Community Medicine / Abt. Allgemeinmedizin
 Neudert R	NaN	NaN	FIS_71771	Rechts- und Staatswissenschaftliche Fakultät	Wiwi	Fachbereich Wirtschaftswissenschaften / LS für AVWL und Landschaftsökonomie
@@ -1656,7 +1656,7 @@ Rühs M	Rühs	Michael	FIS_55021	Rechts- und Staatswissenschaftliche Fakultät	Wiwi	
 Desole S	NaN	NaN	FIS_47678	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin B
 Krüger E	Krüger	Elke	FIS_75719	Universitätsmedizin Greifswald	Mediz. Biochemie und Molekularbiologie	Institut für Medizinische Biochemie und Molekularbiologie
 Sälzer S	NaN	NaN	FIS_68722	Universitätsmedizin Greifswald	Zahn-, Mund- und Kieferheilkunde	Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnerhaltung,Parodontologie, Endodontologie; Präventive Zahnmedizin und Kinderzahnheilkunde
-Seifert U	Seifert	Ulrike	FIS_70161	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Seifert U	Seifert	Ulrike	FIS_70161	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Ebstein F	NaN	NaN	FIS_76293	Universitätsmedizin Greifswald	Mediz. Biochemie und Molekularbiologie	Institut für Medizinische Biochemie und Molekularbiologie
 Werbeck W	NaN	NaN	FIS_49080	Philosophische Fakultät	Kirchenmusik und Musikwissenschaft	Institut für Kirchenmusik und Musikwissenschaften / LS für Musikwissenschaft
 Ebersbach M	NaN	NaN	FIS_62922	Mathematisch-Naturwissenschaftliche Fakultät	Psychologie	Institut für Psychologie / AG Entwicklungspsychologie und Pädagogische Psychologie
@@ -1983,7 +1983,7 @@ Maybauer W	NaN	NaN	FIS_78	Universitätsmedizin Greifswald	Innere Medizin	Zentrum 
 Speck A	NaN	NaN	FIS_80994	Universitätsmedizin Greifswald	Psychiatrie und Psychotherapie	Klinik und Poliklinik für Psychiatrie und Psychotherapie
 Steinhart I	NaN	NaN	FIS_25929	Universitätsmedizin Greifswald	Psychiatrie und Psychotherapie	Klinik und Poliklinik für Psychiatrie und Psychotherapie
 Meinzer M	NaN	NaN	FIS_80753	Universitätsmedizin Greifswald	Neurologie	Klinik und Poliklinik für Neurologie
-Göhler A	NaN	NaN	FIS_81040	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Göhler A	NaN	NaN	FIS_81040	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Hartleib J	Hartleib	Jörg	FIS_36303	Mathematisch-Naturwissenschaftliche Fakultät	Geo	Institut für Geographie und Geologie / AG Kartographie und Geographische Informationssysteme (GIS)
 Lange C	NaN	NaN	FIS_56399	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie
 Werth P	NaN	NaN	FIS_65388	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie
@@ -2000,9 +2000,9 @@ Rahim S	NaN	NaN	FIS_81159	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie
 Biswas S	NaN	NaN	FIS_81166	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie	Institut für Biochemie / AG Bioanorganische Chemie
 Chrysochos N	NaN	NaN	FIS_63511	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie	Institut für Biochemie / AG Stoffwechselbiochemie / Metabolomics
 Chrysochos N	NaN	NaN	FIS_81176	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie	Institut für Biochemie / AG Bioanorganische Chemie
-Cammann C	Cammann	Clemens	FIS_71102	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Cammann C	Cammann	Clemens	FIS_71102	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Schinkels B	Schinkels	Boris	FIS_53658	Rechts- und Staatswissenschaftliche Fakultät	Jura	Fachbereich Rechtswissenschaften / LS für Bürgerliches Recht, Internationales und Europäisches Privatrecht, Rechtsvergleichung und Rechtsharmonisierung im Ostseeraum
-Israel N	NaN	NaN	FIS_75496	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Israel N	NaN	NaN	FIS_75496	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 DGVS D	NaN	NaN	FIS_81229	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin A
 DGVS D	NaN	NaN	FIS_81249	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin A
 Abbas M	NaN	NaN	FIS_81269	Universitätsmedizin Greifswald	Zahn-, Mund- und Kieferheilkunde	Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Zahnärztliche Prothetik, Alterszahnheilkunde und Medizinische Werkstoffkunde
@@ -2022,7 +2022,7 @@ Modess C	NaN	NaN	FIS_81460	Universitätsmedizin Greifswald	Pharmakologie	Institut
 Fassauer G	NaN	NaN	FIS_65298	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie
 Hofstetter R	NaN	NaN	FIS_70092	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie
 Bock C	NaN	NaN	FIS_58251	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische/Medizinische Chemie
-Bartel A	NaN	NaN	FIS_81495	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Bartel A	NaN	NaN	FIS_81495	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Weilandt G	Weilandt	Gerhard	FIS_49237	Caspar-David-Friedrich Institut	CDFI	Caspar-David-Friedrich Institut / LS für Kunstgeschichte
 Paperlein C	NaN	NaN	FIS_73823	Universitätsmedizin Greifswald	Radiologie	Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie
 Much C	Much	Christiane Dörte	FIS_78474	Universitätsmedizin Greifswald	Humangenetik	Institut für Humangenetik
@@ -2259,7 +2259,7 @@ Simon P	NaN	NaN	FIS_85599	Universitätsmedizin Greifswald	Innere Medizin	Zentrum 
 Rathmann E	Rathmann	Eiko	FIS_19203	Universitätsmedizin Greifswald	Radiologie	Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie
 Singer S	NaN	NaN	FIS_85624	Universitätsmedizin Greifswald	Pathologie	Institut für Pathologie
 Shoubash L	Shoubash	Loay	FIS_70274	Universitätsmedizin Greifswald	Neurochirurgie	Klinik und Poliklinik für Neurochirurgie
-Duong L	NaN	NaN	FIS_85673	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Duong L	NaN	NaN	FIS_85673	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Hochgräfe F	NaN	NaN	FIS_31974	Interfakultär	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung
 Gómez-Mejia A	NaN	NaN	FIS_85689	Mathematisch-Naturwissenschaftliche Fakultät	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Genetik und Infektionsbiologie - Infektionsbiologie
 Heß N	NaN	NaN	FIS_56678	Mathematisch-Naturwissenschaftliche Fakultät	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Molekulare Genetik und Infektionsbiologie - Infektionsbiologie
@@ -2462,11 +2462,11 @@ Kabisch J	NaN	NaN	FIS_29807	Mathematisch-Naturwissenschaftliche Fakultät	Pharmaz
 Heiden S	NaN	NaN	FIS_89373	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie
 Junker S	NaN	NaN	FIS_45130	Mathematisch-Naturwissenschaftliche Fakultät	Mikrobiologie	Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics
 Meyer S	NaN	NaN	FIS_45068	Mathematisch-Naturwissenschaftliche Fakultät	Mikrobiologie	Institut für Mikrobiologie
-Stobernack T	NaN	NaN	FIS_89325	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Glasner C	NaN	NaN	FIS_76656	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Gabarrini G	NaN	NaN	FIS_89329	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-van Winkelhoff A	NaN	NaN	FIS_89334	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-van Dijl J	NaN	NaN	FIS_22988	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Stobernack T	NaN	NaN	FIS_89325	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Glasner C	NaN	NaN	FIS_76656	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Gabarrini G	NaN	NaN	FIS_89329	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+van Winkelhoff A	NaN	NaN	FIS_89334	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+van Dijl J	NaN	NaN	FIS_22988	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Moog G	NaN	NaN	FIS_89520	Mathematisch-Naturwissenschaftliche Fakultät	Mikrobiologie	Institut für Mikrobiologie / Abteilung Mikrobielle Proteomics
 Höhn J	Höhn	Johannes	FIS_58249	Universitätsmedizin Greifswald	Chirurgie	Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie
 Metzendorf N	NaN	NaN	FIS_82035	Mathematisch-Naturwissenschaftliche Fakultät	Mikrobiologie	Institut für Mikrobiologie / Abteilung Mikrobielle Physiologie und Molekularbiologie
@@ -2650,7 +2650,7 @@ Gras J	NaN	NaN	FIS_93751	Universitätsmedizin Greifswald	Innere Medizin	Zentrum f
 Kopp juliane J	NaN	NaN	FIS_93752	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin B
 Eiffler I	NaN	NaN	FIS_71449	Universitätsmedizin Greifswald	Anatomie	Institut für Anatomie und Zellbiologie
 Studencka-Turski M	NaN	NaN	FIS_82404	Universitätsmedizin Greifswald	Mediz. Biochemie und Molekularbiologie	Institut für Medizinische Biochemie und Molekularbiologie
-Topfstedt E	Topfstedt	Eylin	FIS_3587	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Topfstedt E	Topfstedt	Eylin	FIS_3587	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Rödder K	NaN	NaN	FIS_69362	Mathematisch-Naturwissenschaftliche Fakultät	INP	Leibniz-Institut für Plasmaforschung und Technologie e.V. (INP)
 Moritz J	NaN	NaN	FIS_93829	Mathematisch-Naturwissenschaftliche Fakultät	INP	Leibniz-Institut für Plasmaforschung und Technologie e.V. (INP)
 Gandhirajan R	NaN	NaN	FIS_93830	Mathematisch-Naturwissenschaftliche Fakultät	INP	Leibniz-Institut für Plasmaforschung und Technologie e.V. (INP)
@@ -2715,7 +2715,7 @@ Marx K	Marx	Konstanze	FIS_89810	Philosophische Fakultät	Deutsche Philologie	Inst
 Denker C	NaN	NaN	FIS_64971	Mathematisch-Naturwissenschaftliche Fakultät	Physik	Institut für Physik / AG Grenz- und Oberflächenphysik
 Hornschuh M	NaN	NaN	FIS_69897	Universitätsmedizin Greifswald	Hygiene und Umweltmedizin	Institut für Hygiene und Umweltmedizin
 Heidecke C	NaN	NaN	FIS_94722	Universitätsmedizin Greifswald	Chirurgie	Klinik und Poliklinik für Chirurgie / Abt. für Allgemeine Chirurgie, Viszeral-, Thorax und Gefäßchirurgie
-Becker K	Becker	Karsten	FIS_93400	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Becker K	Becker	Karsten	FIS_93400	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Schaufler K	NaN	NaN	FIS_87414	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische Biologie
 Kaling S	NaN	NaN	FIS_94749	Universitätsmedizin Greifswald	Anatomie	Institut für Anatomie und Zellbiologie
 Lötzsch H	NaN	NaN	FIS_94750	Universitätsmedizin Greifswald	Anatomie	Institut für Anatomie und Zellbiologie
@@ -2734,8 +2734,8 @@ Witt C	Witt	Carl	FIS_26968	Universitätsmedizin Greifswald	Neurologie	Klinik und 
 Heuer C	NaN	NaN	FIS_73812	Universitätsmedizin Greifswald	Neurologie	Klinik und Poliklinik für Neurologie
 Gellrich J	NaN	NaN	FIS_93508	Universitätsmedizin Greifswald	Neurologie	Klinik und Poliklinik für Neurologie
 Hoffmann F	NaN	NaN	FIS_75728	Mathematisch-Naturwissenschaftliche Fakultät	Psychologie	Institut für Psychologie / AG Differentielle und Persönlichkeitspsychologie/Psychologische Diagnostik
-Elhidar N	NaN	NaN	FIS_94887	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Goehler A	NaN	NaN	FIS_94890	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Elhidar N	NaN	NaN	FIS_94887	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Goehler A	NaN	NaN	FIS_94890	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Klepzig K	Klepzig	Kai	FIS_53185	Universitätsmedizin Greifswald	Radiologie	Zentrum für Radiologie / Institut für Diagnostische Radiologie und Neuroradiologie
 Richter J	NaN	NaN	FIS_94905	Mathematisch-Naturwissenschaftliche Fakultät	Psychologie	Institut für Psychologie
 Hamm A	NaN	NaN	FIS_70504	Mathematisch-Naturwissenschaftliche Fakultät	Psychologie	Institut für Psychologie
@@ -2755,10 +2755,10 @@ Singer S	NaN	NaN	FIS_95085	Universitätsmedizin Greifswald	Pathologie	Institut fü
 Khaznadar L	NaN	NaN	FIS_89875	Universitätsmedizin Greifswald	Zahn-, Mund- und Kieferheilkunde	Zentrum für Zahn-, Mund- und Kieferheilkunde / Poliklinik für Kieferorthopädie
 Weihs A	Weihs	Antoine	FIS_90932	Universitätsmedizin Greifswald	Psychiatrie und Psychotherapie	Klinik und Poliklinik für Psychiatrie und Psychotherapie
 Zacharias H	NaN	NaN	FIS_89187	Universitätsmedizin Greifswald	Psychiatrie und Psychotherapie	Klinik und Poliklinik für Psychiatrie und Psychotherapie
-Colberg L	NaN	NaN	FIS_95797	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Colberg L	NaN	NaN	FIS_95797	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Lalk M	NaN	NaN	FIS_60304	Mathematisch-Naturwissenschaftliche Fakultät	Biochemie	Institut für Biochemie
-Goehler A	NaN	NaN	FIS_71795	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Wiede C	Wiede	Claudia	FIS_3312	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Goehler A	NaN	NaN	FIS_71795	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Wiede C	Wiede	Claudia	FIS_3312	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 zur Nieden G	zur Nieden	Gesa	FIS_89892	Philosophische Fakultät	Kirchenmusik und Musikwissenschaft	Institut für Kirchenmusik und Musikwissenschaften / LS für Musikwissenschaft
 Meyer M	Meyer-Tönnies	Marleen	FIS_83003	Universitätsmedizin Greifswald	Pharmakologie	Institut für Pharmakologie / Abt. Allgemeine Pharmakologie
 Abebe B	NaN	NaN	FIS_95311	Universitätsmedizin Greifswald	Pharmakologie	Institut für Pharmakologie / Abt. Allgemeine Pharmakologie
@@ -2841,7 +2841,7 @@ Behnisch-Cornwell S	NaN	NaN	FIS_96823	Mathematisch-Naturwissenschaftliche Fakult
 Bednarski P	NaN	NaN	FIS_96826	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie
 Kuhnhenn M	NaN	NaN	FIS_54109	Philosophische Fakultät	Politik- und Kommunikationswissenschaft	Institut für Politik- und Kommunikationswissenschaft / LS für Kommunikationswissenschaft
 Gochermann U	Gochermann	Ulrike	FIS_89895	Philosophische Fakultät	Politik- und Kommunikationswissenschaft	Institut für Politik- und Kommunikationswissenschaft / LS für Kommunikationswissenschaft
-Ulm L	Ulm	Lena	FIS_89543	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Ulm L	Ulm	Lena	FIS_89543	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Lange C	NaN	NaN	FIS_96883	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie
 Bednarski P	NaN	NaN	FIS_79920	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische und Medizinische Chemie
 Beule A	NaN	NaN	FIS_96889	Universitätsmedizin Greifswald	HNO	Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie
@@ -3162,12 +3162,12 @@ Holzscheck N	NaN	NaN	FIS_98704	Universitätsmedizin Greifswald	Bioinformatik	Inst
 Reinecke V	NaN	NaN	FIS_88246	Universitätsmedizin Greifswald	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung
 Schweinoch D	NaN	NaN	FIS_66038	Universitätsmedizin Greifswald	Bioinformatik	Institut für Bioinformatik
 Bachmann P	NaN	NaN	FIS_104077	Universitätsmedizin Greifswald	Bioinformatik	Institut für Bioinformatik
-Idelevich E	NaN	NaN	FIS_104151	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Idelevich E	NaN	NaN	FIS_104157	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Becker K	NaN	NaN	FIS_104160	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Idelevich E	NaN	NaN	FIS_104151	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Idelevich E	NaN	NaN	FIS_104157	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Becker K	NaN	NaN	FIS_104160	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Mrochen D	NaN	NaN	FIS_104172	Universitätsmedizin Greifswald	Immunologie und Transfusionsmedizin	Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie
 Al Sholui F	Al Sholui	Fawaz	FIS_70273	Universitätsmedizin Greifswald	Immunologie und Transfusionsmedizin	Institut für Immunologie und Transfusionsmedizin / Abt. Medizinische Immunologie
-Kohler C	NaN	NaN	FIS_95271	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Kohler C	NaN	NaN	FIS_95271	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Fleck B	NaN	NaN	FIS_104211	Universitätsmedizin Greifswald	Augenheilkunde	Klinik und Poliklinik für Augenheilkunde
 Lautenbach M	NaN	NaN	FIS_26611	Universitätsmedizin Greifswald	Unfallchirurgie	Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin
 Wiese M	Wiese	Mats	FIS_85517	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin A
@@ -3511,7 +3511,7 @@ Keiser M	NaN	NaN	FIS_87302	Universitätsmedizin Greifswald	Pharmakologie	Institut
 Nawroth F	NaN	NaN	FIS_99657	Universitätsmedizin Greifswald	Brustzentrum	Brustzentrum
 Unger J	NaN	NaN	FIS_97225	Universitätsmedizin Greifswald	Brustzentrum	Brustzentrum
 Schäfer S	NaN	NaN	FIS_100578	Universitätsmedizin Greifswald	Community Medicine	Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin
-Phenn J	NaN	NaN	FIS_18431	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Phenn J	NaN	NaN	FIS_18431	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Schaufler K	Schaufler	Katharina	FIS_107259	Mathematisch-Naturwissenschaftliche Fakultät	Pharmazie	Institut für Pharmazie / AG Pharmazeutische Biologie
 Wolff J	NaN	NaN	FIS_112432	Universitätsmedizin Greifswald	Community Medicine	Institut für Community Medicine / Abteilung für Präventionsforschung und Sozialmedizin
 Csader S	NaN	NaN	FIS_74820	Universitätsmedizin Greifswald	Pharmakologie	Institut für Pharmakologie / Abt. Klinische Pharmakologie
@@ -3653,11 +3653,11 @@ van Nieuwenhuize H	van Nieuwenhuize	Hielke	FIS_49228	Philosophische Fakultät	Ges
 Krolo F	Krolo	Filipa	FIS_98618	Universitätsmedizin Greifswald	Medizinische Psychologie	Institut für Medizinische Psychologie
 Tiede A	Tiede	Anika	FIS_98640	Universitätsmedizin Greifswald	Medizinische Psychologie	Institut für Medizinische Psychologie
 Thaler M	NaN	NaN	FIS_99423	Universitätsmedizin Greifswald	Orthopädie	Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie
-Gering V	NaN	NaN	FIS_78106	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Gering V	NaN	NaN	FIS_78106	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Hartmann M	Hartmann	Miriam	FIS_107438	Universitätsmedizin Greifswald	Physiologie	Institut für Physiologie
 Witt C	NaN	NaN	FIS_66369	Universitätsmedizin Greifswald	Neurologie	Klinik und Poliklinik für Neurologie
 Vogelgesang A	NaN	NaN	FIS_108689	Universitätsmedizin Greifswald	Neurologie	Klinik und Poliklinik für Neurologie
-Ulm L	NaN	NaN	FIS_92561	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Ulm L	NaN	NaN	FIS_92561	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Luisa R	NaN	NaN	FIS_116289	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin B
 Albrecht D	NaN	NaN	FIS_93306	Universitätsmedizin Greifswald	Community Medicine	Institut für Community Medicine / Abt. SHIP KEF
 Annika R	NaN	NaN	FIS_116290	Universitätsmedizin Greifswald	Innere Medizin	Zentrum für Innere Medizin / Klinik für Innere Medizin B
@@ -3695,7 +3695,7 @@ Opolka M	Opolka	Michael	FIS_31661	Universitätsmedizin Greifswald	Anästhesie, Int
 Bogaczyk V	Bogaczyk	Victoria	FIS_102954	Universitätsmedizin Greifswald	Neurochirurgie	Klinik und Poliklinik für Neurochirurgie
 Gasch C	NaN	NaN	FIS_105390	Universitätsmedizin Greifswald	Neurochirurgie	Klinik und Poliklinik für Neurochirurgie
 Lemke E	NaN	NaN	FIS_90238	Universitätsmedizin Greifswald	Neurochirurgie	Klinik und Poliklinik für Neurochirurgie
-Israel N	NaN	NaN	FIS_116811	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Israel N	NaN	NaN	FIS_116811	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 Brzoska T	Brzoska	Tina	FIS_2310	Universitätsmedizin Greifswald	HNO	Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie
 Ihler F	Ihler	Friedrich Johannes	FIS_115677	Universitätsmedizin Greifswald	HNO	Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie
 Nicolai S	NaN	NaN	FIS_116893	Mathematisch-Naturwissenschaftliche Fakultät	Geo	Institut für Geographie und Geologie / AG Nachhaltigkeitswissenschaft und Angewandte Geographie
@@ -3957,8 +3957,8 @@ Reichert V	Reichert	Verena	FIS_108618	Universitätsmedizin Greifswald	Frauenheilk
 Eilts S	NaN	NaN	FIS_122210	Universitätsmedizin Greifswald	Augenheilkunde	Klinik und Poliklinik für Augenheilkunde
 Poschkamp B	NaN	NaN	FIS_122211	Universitätsmedizin Greifswald	Augenheilkunde	Klinik und Poliklinik für Augenheilkunde
 Busch M	NaN	NaN	FIS_122213	Universitätsmedizin Greifswald	Augenheilkunde	Klinik und Poliklinik für Augenheilkunde
-Becker K	NaN	NaN	FIS_104148	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
-Heuser E	NaN	NaN	FIS_98616	Universitätsmedizin Greifswald	 FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Becker K	NaN	NaN	FIS_104148	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
+Heuser E	NaN	NaN	FIS_98616	Universitätsmedizin Greifswald	FLI Medizinische Mikrobiologie	Friedrich Loeffler Institut für Medizinische Mikrobiologie
 CHARGE H	NaN	NaN	FIS_122325	Universitätsmedizin Greifswald	Genetik und Funktionelle Genomforschung	Interfakultäres Institut für Genetik und Funktionelle Genomforschung / Abt. Funktionelle Genomforschung
 Edelmann J	NaN	NaN	FIS_98007	Mathematisch-Naturwissenschaftliche Fakultät	Zoologie	Zoologisches Institut und Museum / AG Physiologie und Biochemie der Tiere
 Vennmann J	NaN	NaN	FIS_122363	Mathematisch-Naturwissenschaftliche Fakultät	Zoologie	Zoologisches Institut und Museum / AG Physiologie und Biochemie der Tiere
