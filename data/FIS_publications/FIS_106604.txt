@@ -1,2 +1,0 @@
-Wu C	FIS_106604
-Development and validation of a new clinical decision support tool to optimize screening for retinopathy of prematurity

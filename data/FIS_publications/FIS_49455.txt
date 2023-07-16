@@ -1,3 +1,0 @@
-Ivanovska T	FIS_49455
-Automatic Pharynx Segmentation from MRI Data for Analysis of Sleep Related Disorders
-An efficient level set method for simultaneous intensity inhomogeneity correction and segmentation of MR images.

@@ -1,6 +1,0 @@
-Liebscher, Hans Volkmar	FIS_22226
-Associations of circulating plasma microRNAs with age, body mass index and sex in a population-based study.
-Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis.
-Strategies for the identification of disease-related patterns of volatile organic compounds: prediction of paratuberculosis in an animal model using random forests
-Substrate specificity of thioredoxins and glutaredoxins  towards a functional classification
-Detection of Mycobacterium avium ssp. paratuberculosis in Cultures from Fecal and Tissue Samples Using VOC Analysis and Machine Learning Tools

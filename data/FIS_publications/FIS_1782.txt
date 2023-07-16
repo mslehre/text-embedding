@@ -1,8 +1,0 @@
-Gloger, Oliver	FIS_1782
-Fully Automated Glottis Segmentation in Endoscopic Videos Using Local Color and Shape Features of Glottal Regions
-Image analysis in epidemiological applications
-Fully Automated Renal Tissue Volumetry in MR Volume Data Using Prior-Shape-Based Segmentation in Subject-Specific Probability Maps
-Fully automatized renal parenchyma volumetry using a support vector machine based recognition system for subject-specific probability map generation in native MR volume data
-Automatized spleen segmentation in non-contrast-enhanced MR volume data using subject-specific shape priors.
-Automatic gallbladder segmentation using combined 2D and 3D shape features to perform volumetric analysis in native and secretin-enhanced MRCP sequences.
-Subject-Specific prior shape knowledge in feature-oriented probability maps for fully automatized liver segmentation in MR volume data

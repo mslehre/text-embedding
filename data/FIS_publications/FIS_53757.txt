@@ -1,2 +1,0 @@
-Liedtke W	FIS_53757
-The generic Informed Consent Service gICS®: implementation and benefits of a modular consent software tool to master the challenge of electronic consent management in research

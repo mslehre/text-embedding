@@ -1,3 +1,0 @@
-Droese C	FIS_32022
-The cryogenic gas stopping cell of SHIPTRAP
-A phase-imaging technique for cyclotron-frequency measurements

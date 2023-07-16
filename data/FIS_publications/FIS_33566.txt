@@ -1,5 +1,0 @@
-Zenker B	FIS_33566
-Exciton formation in strongly correlated electron-hole systems near the semimetal-semiconductor transition
-Fate of the excitonic insulator in the presence of phonons
-Excitonic Josephson effect in double-layer graphene junctions
-Competition between excitonic charge and spin density waves: Influence of electron-phonon and Hunds rule couplings

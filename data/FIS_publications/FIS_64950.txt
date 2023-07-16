@@ -1,2 +1,0 @@
-Quadrat A	FIS_64950
-Accuracy of simple approaches to assessing liver volume in radiological imaging

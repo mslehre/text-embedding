@@ -1,2 +1,0 @@
-Poschkamp, Broder	FIS_124165
-Application of deep learning algorithms for diabetic retinopathy screening.

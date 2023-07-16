@@ -1,6 +1,0 @@
-Hofstetter R	FIS_70092
-Ketamine metabolites with antidepressant effects: Fast, economical, and eco-friendly enantioselective separation based on supercritical-fluid chromatography (SFC) and single quadrupole MS detection
-Supercritical fluid extraction (SFE) of ketamine metabolites from dried urine and on-line quantification by supercritical fluid chromatography and single mass detection (on-line SFESFCMS)
-Subcritical Fluid Chromatography at Sub-Ambient Temperatures for the Chiral Resolution of Ketamine Metabolites with Rapid-Onset Antidepressant Effects
-Simultaneous quantification of acidic and basic flupirtine metabolites by supercritical fluid chromatography according to European Medicines Agency validation
-Supercritical fluid extraction-supercritical fluid chromatography of saliva: Single-quadrupole mass spectrometry monitoring of caffeine for gastric emptying studies.

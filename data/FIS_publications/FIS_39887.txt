@@ -1,7 +1,0 @@
-Drache S	FIS_39887
-DC Operated Air Plasma Jet for Antimicrobial Copper Coatings on Temperature Labile Surfaces
-Study of Mass and Cluster Flux in a Pulsed Gas System with Enhanced Nanoparticle Aggregation
-Pulsed gas aggregation for improved nanocluster growth and flux
-Investigation of ionized metal flux in enhanced high power impulse magnetron sputtering discharges
-Ionized vapor deposition of antimicrobial TiCu films with controlled copper release
-Oxidation behavior of Cu nanoparticles embedded into semiconductive TiO2 matrix

@@ -1,2 +1,0 @@
-Enzenbach C	FIS_106116
-Facilitating harmonized data quality assessments. A data quality framework for observational health research data collections with software implementations in R

@@ -1,2 +1,0 @@
-Bülow R	FIS_80061
-Automatic gallbladder segmentation using combined 2D and 3D shape features to perform volumetric analysis in native and secretin-enhanced MRCP sequences.

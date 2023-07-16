@@ -1,4 +1,0 @@
-Knauer, Stefan	FIS_45181
-Multi-reflection time-of-flight mass spectrometry with combined in-trap lift capture and mirror-switch ejection
-In-depth study of in-trap high-resolution mass separation by transversal ion ejection from a multi-reflection time-of-flight device
-Non-isobaric time-of-flight correction for isobar resolving in Mr-ToF mass spectrometry

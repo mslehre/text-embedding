@@ -1,4 +1,0 @@
-Delin, Martin	FIS_1880
-The N-terminal CCHC zinc finger motif mediates homodimerization of the transcription factor BCL11B.
-Unveiling the N-Terminal Homodimerization of BCL11B by Hybrid Solvent Replica-Exchange Simulations.
-Nuclear import of BCL11B is mediated by a classical nuclear localization signal and not the Krüppel-like zinc fingers

@@ -1,7 +1,0 @@
-Balke D	FIS_45122
-Generation and selection of ribozyme variants with potential application in protein engineering and synthetic biology
-In vitro repair of a defective EGFP transcript and translation into a functional protein
-RNA aminoacylation mediated by sequential action of two ribozymes and a nonactivated amino acid
-Landmarks in the evolution of (t)-RNAs from the origin of life up to their present role in human cognition
-Design and characterization of a twin ribozyme for potential repair of a deletion mutation within the oncogenic CTNNB1-?S45 mRNA
-Thirty-five years of research into ribozymes and nucleic acid catalysis: where do we stand today?

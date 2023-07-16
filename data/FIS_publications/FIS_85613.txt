@@ -1,7 +1,0 @@
-Holzer K	FIS_85613
-Platelet activation and platelet-leucocyte-conjugate formation in the blood of glioblastoma patients
-Spatial Tissue Proteomics Quantifies Inter- and Intratumor Heterogeneity in Hepatocellular Carcinoma (HCC).
-Nucleoporin Nup155 is part of the p53 network in liver cancer.
-Karyopherin ?2-dependent import of E2F1 and TFDP1 maintains protumorigenic stathmin expression in liver cancer.
-RIPK1 and death receptor signaling drive biliary damage and early liver tumorigenesis in mice with chronic hepatobiliary injury.
-Inhibition of TRPM7 blocks MRTF/SRF-dependent transcriptional and tumorigenic activity.

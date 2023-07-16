@@ -1,2 +1,0 @@
-Kaftan S	FIS_820
-Design-dependent calculation of the prosthesis length in malleostapedotomy.

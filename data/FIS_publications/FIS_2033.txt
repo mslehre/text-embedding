@@ -1,2 +1,0 @@
-Ivanovska, Tetyana	FIS_2033
-A level set based framework for quantitative evaluation of breast tissue density from MRI data.

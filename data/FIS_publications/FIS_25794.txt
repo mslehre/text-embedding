@@ -1,9 +1,0 @@
-Schaffer, Marc	FIS_25794
-Small regulatory RNA-induced growth rate heterogeneity of Bacillus subtilis.
-Staphylococcus aureus Transcriptome Architecture: From Laboratory to Infection-Mimicking Conditions.
-Translation elicits a growth rate-dependent, genome-wide, differential protein production in Bacillus subtilis.
-Global analysis of the impact of linezolid onto virulence factor production in S. aureus USA300.
-Signatures of cytoplasmic proteins in the exoproteome distinguish community- and hospital-associated methicillin-resistant Staphylococcus aureus USA300 lineages.
-The Disulfide Stress Response and Protein -thioallylation Caused by Allicin and Diallyl Polysulfanes in  as Revealed by Transcriptomics and Proteomics.
-Analyses of competent and non-competent subpopulations of Bacillus subtilis reveal yhfW, yhxC and ncRNAs as novel players in competence.
-Double trouble: Bacillus depends on a functional Tat machinery to avoid severe oxidative stress and starvation upon entry into a NaCl-depleted environment.

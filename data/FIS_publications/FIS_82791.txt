@@ -1,3 +1,0 @@
-Badenhorst C	FIS_82791
-Discovery and Design of Family VIII Carboxylesterases as Highly Efficient Acyltransferases.
-Sequence-Based Prediction of Promiscuous Acyltransferase Activity in Hydrolases.

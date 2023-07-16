@@ -1,5 +1,0 @@
-Zitzmann C	FIS_65380
-Mathematical Analysis of Viral Replication Dynamics and Antiviral Treatment Strategies: From Basic Models to Age-Based Multi-Scale Modeling.
-Mathematical Modeling of Hepatitis C RNA Replication, Exosome Secretion and Virus Release.
-A Coupled Mathematical Model of the Intracellular Replication of Dengue Virus and the Host Cell Immune Response to Infection.
-Convergent use of phosphatidic acid for hepatitis C virus and SARS-CoV-2 replication organelle formation.

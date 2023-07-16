@@ -1,6 +1,0 @@
-John, Diana	FIS_2276
-Virtuelle realdynamische Okklusion für Funktionsanalyse und CAD/CAM-Prozesse: Ausblick auf neue Möglichkeiten (Teil 1)
-Virtuelle realdynamische Okklusion für Funktionsanalyse und CAD/CAM-Prozesse: Ausblick auf neue Möglichkeiten (Teil 2)
-Digital occlusion and muscle activity  linking real-time dynamic articulation with electromyography data
-Occlusion of artificial teeth in complete dentures: Population-based analysis
-The rotation vs translation behavior during habitual opening and closing movements of the mandible and the relationship to movement paths of condylar points

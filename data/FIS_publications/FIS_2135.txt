@@ -1,4 +1,0 @@
-Brandt, Sven	FIS_2135
-Characterisation of the conformational changes in platelet factor 4 induced by polyanions: towards in vitro prediction of antigenicity.
-Binding of anti-platelet factor 4/heparin antibodies depends on the thermodynamics of conformational changes in platelet factor 4.
-Polyphosphates form antigenic complexes with platelet factor 4 (PF4) and enhance PF4-binding to bacteria.

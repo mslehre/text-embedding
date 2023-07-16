@@ -1,2 +1,0 @@
-Dunkel, Heiko	FIS_115780
-MncR: Late Integration Machine Learning Model for Classification of ncRNA Classes Using Sequence and Structural Encoding.

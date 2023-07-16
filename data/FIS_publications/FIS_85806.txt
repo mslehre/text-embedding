@@ -1,6 +1,0 @@
-Bülow R	FIS_85806
-Genome-wide association study of 23,500 individuals identifies 7 loci associated with brain ventricular volume.
-Procrustes-based geometric morphometrics on MRI images: An example of inter-operator bias in 3D landmarks and its impact on big datasets
-Correction: Dose response of the 16p11. 2 distal copy number variant on intracranial volume and basal ganglia
-Reference values for the cervical spinal canal and the vertebral bodies by MRI in a general population
-Acute myocardial infarction and arterial embolism in a patient with newly diagnosed renal mass: management dilemmas! A case report.

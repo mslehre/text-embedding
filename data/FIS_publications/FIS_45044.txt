@@ -1,2 +1,0 @@
-Neumann M	FIS_45044
-Development of a bio-relevant dissolution test device simulating mechanical aspects present in the fed stomach.

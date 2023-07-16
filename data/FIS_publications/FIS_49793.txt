@@ -1,7 +1,0 @@
-Schwaneberg T	FIS_49793
-Data privacy management and data quality monitoring in the German Centre for Cardiovascular Researchs multicenter TranslatiOnal Registry for CardiomyopatHies (DZHK-TORCH)
-TranslatiOnal Registry of CardiomyopatHies (TORCH)  rationale and first results
-Relationship between objectively measured Intensity of Physical Activity and self-reported Enjoyment of Physical Activity
-The influence of wearing-schemes and supportive telephone calls on adherence in accelerometry measurement: results of a randomized controlled trial
-mosaicQA. A general approach to facilitate basic data quality assurance for epidemiological research.
-Predictors of medication adherence among patients with severe psychiatric disorders: findings from the baseline assessment of a randomized controlled trial (Tecla)

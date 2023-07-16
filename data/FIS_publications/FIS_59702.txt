@@ -1,2 +1,0 @@
-Social S	FIS_59702
-Polygenic prediction of educational attainment within and between families from genome-wide association analyses in 3 million individuals.

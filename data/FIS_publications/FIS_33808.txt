@@ -1,2 +1,0 @@
-Kugelmann, Bernd	FIS_33808
-Existence and Uniqueness of Optimal Solutions for Multirate Partial Differential Algebraic Equations

@@ -1,3 +1,0 @@
-Kulke M	FIS_64439
-Molecular dynamics simulations on networks of heparin and collagen
-Replica-Based Protein Structure Sampling Methods II: Advanced Hybrid Solvent TIGER2hs

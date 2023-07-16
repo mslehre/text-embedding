@@ -1,6 +1,0 @@
-Otto, Oliver	FIS_71314
-Biallelic CCM3 mutations cause a clonogenic survival advantage and endothelial cell stiffening
-Label-free on chip quality assessment of cellular blood products using real-time deformability cytometry
-Inactivation of Cerebral Cavernous Malformation Genes Results in Accumulation of von Willebrand Factor and Redistribution of Weibel-Palade Bodies in Endothelial Cells
-Author correction: Ex vivo anticoagulants affect human blood platelet biomechanics with implications for high-throughput functional mechanophenotyping
-Mechanical characterization of isolated mitochondria under conditions of oxidative stress.

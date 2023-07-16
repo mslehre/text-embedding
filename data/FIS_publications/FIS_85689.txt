@@ -1,5 +1,0 @@
-Gómez-Mejia A	FIS_85689
-Proteomic response of Streptococcus pneumoniae to iron limitation
-In vivo proteomics identifies the competence regulon and AliB oligopeptide transporter as pathogenic factors in pneumococcal meningitis.
-Proteomic Investigation Uncovers Potential Targets and Target Sites of Pneumococcal Serine-Threonine Kinase StkP and Phosphatase PhpP.
-The Two-Component System 09 Regulates Pneumococcal Carbohydrate Metabolism and Capsule Expression.

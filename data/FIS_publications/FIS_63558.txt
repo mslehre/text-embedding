@@ -1,7 +1,0 @@
-Wolfram M	FIS_63558
-Spreading times of ion-bunches in the Cryogenic Trap for Fast ion beams
-Interaction of anionic lead clusters Pbn-, n=10, 12-102, with electrons - Polyanion production and cluster decay
-Photodecay Pathways of Stored, Size-Selected Lead Clusters Pbn+, n = 6  41, and Pbn-, n = 9  56
-Disentangling the photodissociation pathways of small lead clusters by time-resolved monitoring of their delayed decays: the case of ${{{\rm{P}}{\rm{b}}}_{31}}^{+}$
-Fission of polyanionic metal clusters
-Interaction of anionic tin clusters Snn-, n= 7-75, with electrons: Polyanion production and cluster decay

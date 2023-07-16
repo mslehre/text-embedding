@@ -1,3 +1,0 @@
-Stein, Alexandra	FIS_92491
-Prototypical Clinical Trial Registry Based on Fast Healthcare Interoperability Resources (FHIR): Design and Implementation Study.
-Nutzung von klinischen Routinedaten für Forschung und Versorgung

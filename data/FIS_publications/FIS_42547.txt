@@ -1,4 +1,0 @@
-Pavlidis I	FIS_42547
-Improved thermostability of a Bacillus subtilis esterase by domain exchange
-Enhancement of promiscuous amidase activity of a Bacillus subtilis esterase by formation of a ?-?-network
-Simultaneous Use of in Silico Design and a Correlated Mutation Network as a Tool To Efficiently Guide Enzyme Engineering.
