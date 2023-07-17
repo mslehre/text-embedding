@@ -6,10 +6,10 @@
         .container {
             display: grid;
             grid-template-columns: 3fr 1fr 3fr;
-            grid-gap: 10px;
+            gap: 10px;
             align-items: center;
             justify-content: center;
-            height: 100vh;
+            height: 98vh;
             text-align: center;
         }
 
@@ -20,15 +20,9 @@
             justify-content: center;
         }
 
-        .question-input {
+        .question-answer-displays {
             width: 100%;
-            height: 250px;
-            font-size: 16px;
-        }
-
-        .answer-display {
-            width: 100%;
-            height: 250px;
+            height: 20vh;
             font-size: 16px;
         }
 
@@ -38,12 +32,12 @@
 
         .center {
             grid-column: 1 / -1;
-            text-align: center;
+            text-align: center;;
         }
 
         .chunks-textarea {
             width: 100%;
-            height: 300px;
+            height: 55vh;
             font-size: 16px;
         }
     </style>
@@ -63,7 +57,7 @@
         </div>
         <div class="column">
             <form method="POST" action="http://localhost:5000">
-                <textarea id="question" name="question" class="question-input" placeholder="Enter your question."></textarea>
+                <textarea id="question" name="question" class="question-answer-displays" placeholder="Enter your question."></textarea>
         </div>
         <div class="column">
                 <div class="button-container">
@@ -71,7 +65,7 @@
                 </div>
         </div>
         <div class="column">
-            <textarea id="answer-display" class="answer-display" placeholder="The answer will be displayed here." readonly>{{ answer }}</textarea>
+            <textarea id="answer-display" class="question-answer-displays" placeholder="The answer will be displayed here." readonly>{{ answer }}</textarea>
         </div>
         <div class="center">
             <div class="chunks-textarea">

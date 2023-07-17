@@ -3,7 +3,7 @@ from os import path
 from flask import Flask, render_template, request
 
 from chunks_for_question import get_k_IDs
-from ask_question import get_answer
+from ask_question import get_answer, get_texts_from_ids
 
 app = Flask(__name__)
 
@@ -21,15 +21,23 @@ def home() -> str:
             chunks. It also displays the text chunks that were used to generate
             the answer.
     """
-    answer = 'The answer will be displayed here.'
-    question = 'Please enter your question here.'
+    answer = ''
+    question = ''
+    chunk_texts=''
     if request.method == 'POST':
         question = request.form['question']
+        question = question.strip()
         # Call your answer calculation function or logic here
         #answer = get_answer_from_question(question)
-        answer = get_answer_from_question(question)
+        answer, chunk_texts = get_answer_from_question(question)
+        answer = answer.strip()
+        if not answer.startswith(("Answer", "answer")):
+            answer = "Answer: " + answer
+        answer = "\nQuestion: " + question + "\n" + answer
+
     return render_template("PSO_website.html", answer = answer, 
-                           question=question)
+                           question=question, 
+                           chunks=chunk_texts)
 
 def get_answer_from_question(question:str) -> str:
     """This function selects the 5 most similiar chunks for the question and 
@@ -45,13 +53,30 @@ def get_answer_from_question(question:str) -> str:
     # Get the 5 best text chunk IDs from the examination regulations chunks 
     # directory
     ids = get_k_IDs(question=question,
-                    embeddings_file="../data/examination_regulations.h5")
+                    embeddings_file="../data/examination_regulations.h5",
+                    k=4)
         
     answer = get_answer(query=question,
                     text_dir="../data/examination_regulations_filtered_chunks/",
                     id_list=ids)
+    chunk_texts_list,_ = get_texts_from_ids(id_list=ids,
+                                     text_dir="../data/examination_regulations_filtered_chunks/")
+    
+    chunk_text = ''
+    i = 1
+    for chunk in chunk_texts_list:
+        chunk_text += "\n\n--------------------------------------------------"\
+            + "--------------------------------------------------------------"\
+            + "-------------------------------\n\n"
+        chunk_text += "This is text number " + str(i) + ":\n\n"
+        chunk_text += "--------------------------------------------------"\
+            + "--------------------------------------------------------------"\
+            + "-------------------------------\n\n"
+        chunk_text += chunk
+        i += 1
+    
 
-    return answer
+    return answer, chunk_text
 
 if __name__ == '__main__':
     app.run(debug=True)
