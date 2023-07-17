@@ -26,8 +26,8 @@ for person_ID in publication_data["person_ID"]:
     else:
         # If it is not in the person_data, set the lastname and forename to 
         # "NaN"
-        lastname = "NaN"
-        forename = "NaN"
+        lastname = "NN"
+        forename = "NN"
     # Append the lastname and forename to the lists
     lastnames.append(lastname)
     forenames.append(forename)    
@@ -43,12 +43,26 @@ publication_data["forename"] = forenames
 publication_data['titles'] = publication_data.groupby('person_ID')['title'].transform(lambda x: '\t'.join(x))
 publication_data.drop_duplicates(subset='person_ID', inplace=True)
 
-def write_publications(person_ID):
-    # Get the row of the person
+def write_publications(person_ID: str) -> None:
+    """This function writes the publications of a person with a given person_ID
+    in modified_publication_data to a text file, if this person has at least 
+    three publications. The name of the text file is the person_ID and the first
+    line of the publication list contains the name of the person and the 
+    person_ID.
+
+    Args:
+        person_ID (str): This parameter is an element of the column 'person_ID'
+            of the modified_publication_data dataframe.
+
+    Returns:
+        None: This function does not return a value.
+    """
+    # Get the row of the person in dataframe
     row = modified_publication_data.loc[modified_publication_data["person_ID"] == person_ID]
     # Get the titles of the person_ID and separate the tab-separated titles by
     # a new line
     titles = row["titles"].values[0].replace("\t", "\n")
+    # Test if person has more than 2 publications
     if (len(titles.split('\n')) > 2):
         # Get lastname and forename of the person
         lastname = row["lastname"].values[0]
@@ -253,6 +267,5 @@ modified_publication_data = modified_publication_data[['author_name',
                                                        'person_ID', 'faculty',
                                                        'institution', 
                                                        'institution_long']]
-modified_publication_data.to_csv('../data/FIS/publishers.tbl', sep='\t', 
-                                 na_rep = 'NaN', encoding='latin-1', 
-                                 index=False)
+modified_publication_data.to_csv('../data/FIS/publishers.tbl', sep='\t',
+                                 na_rep = "NN", encoding='latin-1', index=False)
