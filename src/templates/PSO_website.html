@@ -2,6 +2,8 @@
 <html>
 <head>
     <title>Questions for Examination Regulations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
     <style>
         .container {
             display: grid;
@@ -20,7 +22,12 @@
             justify-content: center;
         }
 
-        .question-answer-displays {
+        .question-input{
+            width: 100%;
+            height: 20vh;
+            font-size: 16px;
+        }
+        .answer-display{
             width: 100%;
             height: 20vh;
             font-size: 16px;
@@ -57,7 +64,7 @@
         </div>
         <div class="column">
             <form method="POST" action="http://localhost:5000">
-                <textarea id="question" name="question" class="question-answer-displays" placeholder="Enter your question."></textarea>
+                <textarea id="question" name="question" class="question-input" placeholder="Enter your question."></textarea>
         </div>
         <div class="column">
                 <div class="button-container">
@@ -65,12 +72,10 @@
                 </div>
         </div>
         <div class="column">
-            <textarea id="answer-display" class="question-answer-displays" placeholder="The answer will be displayed here." readonly>{{ answer }}</textarea>
+            <textarea id="answer-display" class="answer-display" placeholder="The answer will be displayed here." readonly>{{ answer }}</textarea>
         </div>
         <div class="center">
-            <div class="chunks-textarea">
-                <textarea id="chunks-text" class="chunks-textarea" placeholder="The used text chunks will be displayed here."readonly>{{ chunks }}</textarea>
-            </div>
+            <textarea id="chunks-text" class="chunks-textarea" placeholder="The used text chunks will be displayed here."readonly>{{ chunks }}</textarea>
         </div>
     </form>
     </div>

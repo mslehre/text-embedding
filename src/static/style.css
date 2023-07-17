@@ -1,0 +1,12 @@
+body {
+    background-color: #77ddff;
+  }
+  
+  body, input, textarea {
+    font-family: Arial, sans-serif;
+  }
+  
+  textarea.question-input, textarea.answer-display, textarea.chunks-textarea {
+    background-color: #cef4ff;
+  }
+  
