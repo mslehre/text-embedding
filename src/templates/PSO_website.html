@@ -3,40 +3,82 @@
 <head>
     <title>Questions for Examination Regulations</title>
     <style>
-        body {
+        .container {
+            display: grid;
+            grid-template-columns: 3fr 1fr 3fr;
+            grid-gap: 10px;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            text-align: center;
+        }
+
+        .column {
+            padding: 10px;
             display: flex;
+            flex-direction: column;
             justify-content: center;
         }
 
-        .container {
+        .question-input {
+            width: 100%;
+            height: 250px;
+            font-size: 16px;
+        }
+
+        .answer-display {
+            width: 100%;
+            height: 250px;
+            font-size: 16px;
+        }
+
+        .button-container {
             text-align: center;
+        }
+
+        .center {
+            grid-column: 1 / -1;
+            text-align: center;
+        }
+
+        .chunks-textarea {
+            width: 100%;
+            height: 300px;
+            font-size: 16px;
         }
     </style>
 </head>
 <body>
     <div class="container">
-        <h1>Questions for Examination Regulations</h1>
+        <div class="center">
+            <h1>Questions for Examination Regulations</h1>
         
-        <p>Welcome to the question and answer website for examination 
-           regulations from the univerity of Greifswald!</p>
-        <p>Feel free to ask any questions you have regarding any examination 
-           regulation that is accesable on the official univerity website ADD 
-           LINK. <br>Please be aware that the Large Language Model can 
-           hallucinate and give wrong information, always check important 
-           information yourself.</p>
+            <p>Welcome to the question and answer website for examination 
+                regulations from the univerity of Greifswald!</p>
+            <p>Feel free to ask any questions you have regarding any examination 
+                regulation that is accesable on the official univerity website ADD 
+                LINK. <br>Please be aware that the Large Language Model can 
+                hallucinate and give wrong information, always check important 
+                information yourself.</p>
+        </div>
         <div class="column">
-            <form action = "http://localhost:5000" method = "POST">
-                <label for="question">Enter your question:</label><br>
-                <br>
-                <textarea id="question" name="question" class="question-input" placeholder="Enter your question"></textarea>
+            <form method="POST" action="http://localhost:5000">
+                <textarea id="question" name="question" class="question-input" placeholder="Enter your question."></textarea>
+        </div>
+        <div class="column">
                 <div class="button-container">
                     <button type="submit">Get Answer</button>
                 </div>
-            </form>
         </div>
         <div class="column">
-            <textarea id="answer-display" class="answer-display" placeholder="Answer will be displayed here" readonly>{{ answer }}</textarea>
+            <textarea id="answer-display" class="answer-display" placeholder="Th answer will be displayed here." readonly>{{ answer }}</textarea>
         </div>
+        <div class="center">
+            <div class="chunks-textarea">
+                <textarea id="chunks-text" class="chunks-textarea" readonly>This is some sample text.</textarea>
+            </div>
+        </div>
+    </form>
     </div>
 </body>
 </html>
