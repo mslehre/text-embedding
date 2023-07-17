@@ -6,8 +6,7 @@ body {
     font-family: Arial, sans-serif;
   }
   
-  /* add your text field types or any classes that should be light blue
-  */
+  /* add your text field types or any classes that should be light blue*/
   textarea.question-input, textarea.answer-display, textarea.chunks-textarea {
     background-color: #b6ebfa;
   }
@@ -19,6 +18,8 @@ body {
     background-color: #b6ebfa;
     border: 1px solid;
   }
+
+  /* Add effect that buttons are pressed down */
   button[type="submit"]:active {
     transform: translateY(1px);
   }
