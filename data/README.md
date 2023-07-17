@@ -120,12 +120,14 @@ Read in `Publikationen.csv` and `Personen_Einrichtungen_2023_06.csv` from
 * `titles` that contains all publications that are listed in this dataframe for 
 the respective person 
 * `institution` that contains only the part of the description of the 
-institution in `Publikationen.csv` up to the first `/`\
+institution in `Publikationen.csv` up to the first `/`
+<a/>
 and deleting the columns
 * `author_ID`
 * `journal`
 * `year`
-* `title`\
+* `title`
+<a/>
 In addition, the duplicate rows of persons are deleted and the resulting 
 dataframe is written to `/data/FIS/persons.csv`.
 
@@ -141,7 +143,8 @@ Read in `/data/FIS/persons_modified_names.csv` and change the file by deleting
 the columns:
 * `line`, the row in the dataframe
 * `inst_ID`, the ID of the institution
-* `faculty_ID`, the ID of the faculty\
+* `faculty_ID`, the ID of the faculty
+<a/>
 Modify the person ID by adding `FIS_` as prefix and replace in the `institution`
 column each institution with an abbreviation of it. Then add another faculty, 
 which is `Caspar-David-Friedrich Institut`, and change the faculty of those 
