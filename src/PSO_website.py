@@ -17,9 +17,9 @@ def home() -> str:
             contains text field where the user can ask any question about the 
             examination regulations in the text corpus. If the button 
             'get answer' is pressed, the answer from the LLM is displayed. The
-            answer is generated using the best 5 hits from the text corpus 
+            answer is generated using the best 4 hits from the text corpus 
             chunks. It also displays the text chunks that were used to generate
-            the answer.
+            the answer below both: the question and the answer text area.
     """
     answer = ''
     question = ''
@@ -33,12 +33,13 @@ def home() -> str:
         else:
             answer = "Error: Please enter a question."
 
-    return render_template("PSO_website.html", answer = answer, 
+    return render_template("PSO_website.html", 
+                           answer = answer, 
                            question=question, 
                            chunks=chunk_texts)
 
 def get_answer_from_question(question:str,
-                             k:int = 4) -> str:
+                             k:int = 4) -> tuple[str,str]:
     """This function selects the k most similiar chunks for the question and 
     returns the answer text as well as a text that contains all used text 
     chunks.
@@ -48,9 +49,9 @@ def get_answer_from_question(question:str,
         k (int): The number of chunks that are used for answering.
 
     Returns: 
-        str: The asnwer 
-        str: The texts from the used chunks seperated with some information 
-            about the pdf name of the corresponding examination regulation.
+        str: The asnwer from the LLM.
+        str: The texts from the used chunks seperated with some meta 
+            information about the corresponding examination regulation.
     """
     # Get the question from the 'PSO_website.html' form
     question = request.form['question']
@@ -73,7 +74,7 @@ def get_answer_from_question(question:str,
 
     # Get the list of chunk texts:
     chunk_texts_list,_ = get_texts_from_ids(id_list=ids,
-                                     text_dir="../data/examination_regulations_filtered_chunks/")
+                text_dir="../data/examination_regulations_filtered_chunks/")
     # Get one text from the chunk texts list 
     chunk_text = ''
     i = 1
@@ -87,9 +88,6 @@ def get_answer_from_question(question:str,
             + "-------------------------------\n\n"
         chunk_text += chunk
         i += 1
-
-    
-    
 
     return answer, chunk_text
 
