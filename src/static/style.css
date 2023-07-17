@@ -6,6 +6,8 @@ body {
     font-family: Arial, sans-serif;
   }
   
+  /* add your text field types or any classes that should be light blue
+  */
   textarea.question-input, textarea.answer-display, textarea.chunks-textarea {
     background-color: #cef4ff;
   }
