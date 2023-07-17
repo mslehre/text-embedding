@@ -1,0 +1,37 @@
+roseminar                                                      2 1 R (60 min)              2
+            T3 Theoretische Physik 3: Quantenmechanik                      4 2   1 ÜS, K(120 min)/mP       9
+
+            P9 Maß- und Integrationstheorie                                4   2     1 ÜS, mP/K            9
+            A8 Funktionenentheorie                                         3   1     1 mP/K                6
+    5       A15 Spieltheorie
+                                                                                                                 30
+                                                                           3   1     1 mP/K                6
+            A13 Partielle Differentialgleichungen                          3   1     1 mP/K                6
+            S2 Seminar                                                             2 1 R (90 min)          3
+
+            A1 Algebra II                                                  4 2       1 ÜS, mP/K            9
+            A4 Differentialgeometrie                                       3 1       1 mP/K                6
+    6
+                                                                                                                 33
+
+
+
+
+            S3 Seminar mit Ausarbeitung                                            2 1 RV (90 min)         6
+            BA Bachelorarbeit                                                        1                     12
+
+                                                                                         Summe             180
+Legende:
+V: Vorlesung (Umfang in SWS)
+Ü: Übung (Umfang in SWS)
+S: Seminar (Umfang in SWS)
+mP: mündliche Prüfung (30 min), benotet
+K: Klausur (90 min, falls nicht anders angegeben), benotet
+ÜS: Übungsschein, unbenotet
+R: Referat, unbenotet
+RV: Referat mit Verschriftlichung, unbenotet
+LP: Leistungspunkte
+D: Dauer in Semestern
+  E RNST-M ORITZ -A RNDT-U NIVERSIT ÄT G REIFSWALD
+M ATHEMATISCH -N ATURWISSENSCHAFTLICHE FAKULT ÄT
+  

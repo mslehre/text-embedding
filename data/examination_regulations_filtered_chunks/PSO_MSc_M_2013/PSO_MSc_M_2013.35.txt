@@ -1,0 +1,48 @@
+ungen - Notwendige Bedingungen 1. Ord-
+     nung
+   • Nebenbedingungen in Integralform, in Form von Differentialgleichungen und in
+     Form von Ungleichungen
+   • Optimalsteuerungsprobleme und Lösung von Mehrpunkt-Randwertproblemen
+   • Notwendige Bedingungen 2. Ordnung
+   • Hinreichende Bedingung von Weierstraß.
+
+Vorkenntnisse          Analysis I, II
+Prüfung               Die Modulprüfung besteht aus einer Klausur oder einer
+                       mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                       wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                       Thema der Prüfung.
+Note                   Note der Modulprüfung
+Aufwand                180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte        6
+Teilgebiet             Analysis/Optimierung
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      16
+Modul Partielle Differentialgleichungen
+Verantwortlicher        Professur Analysis
+Lehrformen              Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus            1 Sem., A: jährlich im WS
+Qualifikationsziele
+   • Kenntnisse über die fundamentalen Typen von Differentialgleichungen (Laplace-
+     gleichung, Wärmeleitungsgleichung, Wellengleichung),
+   • Befähigung, Probleme mathematisch mit Hilfe partieller Differentialgleichungen
+     zu formulieren,
+   • Beherrschung analytischer Lösungsmethoden,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+Partielle Differentialgleichungen 1. Ordnung:
+   • Charakteristikenmethode
+   • Vollständiges Integral
+   • Hamilton-Jacobi-Theorie
+
+Partielle Differentialgleichungen 2. Ordnung:
+   • Laplace-Gleichung (Fundamentallösung, Darstellungsformeln, Greensche Funk-
+      tion, Dirichlet-Problem für die Kugel, Maximumprinzip)
+   • Wärmeleitungsgleichung (Fundamentallösung, Anfangs-Randwertproblem, Ma-
+      ximumprinzip)
+   • Wellengleichung

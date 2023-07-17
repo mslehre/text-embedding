@@ -1,0 +1,53 @@
+
+Note                  Note der Modulprüfung
+Aufwand               270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte       9
+Regelprüfungstermine 5. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                          34
+Modul Nichtlineare Optimierung
+Verantwortlicher           Professur Angewandte Mathematik, Professur Numerische
+                           Mathematik und Optimierung
+Lehrformen                 Vorlesung (4 SWS)
+Dauer/Turnus               1 Sem., jährlich im WS
+Qualifikationsziele
+   • grundlegende Kenntnisse der Optimierungstheorie,
+   • Fähigkeiten zur numerischen Lösung von Optimierungsproblemen,
+   • Verständnis für die Relevanz von Optimierungsaufgaben für zahlreiche prakti-
+     sche Fragestellungen,
+   • Kompetenzen in der Klassifikation konkreter Aufgaben und der geeigneten Me-
+     thodenwahl.
+
+Inhalt
+   • Notwendige und hinreichende Bedingungen zur Lösung von unbeschränkten und
+     beschränkten, linearen Optimierungsproblemen (Karush-Kuhn-Tucker Theorie)
+   • Methoden zur numerischen Lösung von entsprechenden, glatten Problemen
+   • Abstiegsverfahren
+   • Trust-Region-Verfahren
+   • Penalty-Verfahren
+   • Aktive-Mengen-Strategie und SQP-Verfahren
+
+Vorkenntnisse         Analysis I, II; Lineare Algebra I, II; Optimierung
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 5. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                       35
+Modul Numerik II
+Verantwortlicher        Professur Angewandte Mathematik, Professur Numerische
+                        Mathematik und Optimierung
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im WS
+Qualifikationsziele
+   • Beherrschung der grundlegenden Methoden zur nume

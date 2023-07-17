@@ -1,0 +1,57 @@
+d Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       40
+Modul Spezialvorlesung I Stochastik/Statistik
+Verantwortlicher         Professur Stochastik, Professur Statistik
+Lehrformen               Vorlesung (2 SWS)
+Dauer/Zyklus             1 Sem., nach Bedarf
+Qualifikationsziele
+Vertiefte Kenntnisse und erweiterte Kompetenzen in einem ausgewählten Spezialge-
+biet.
+Inhalt
+   • Spezielle Themen aus Stochastik / Statistik
+
+Vorkenntnisse           Stochastik, Statistik
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte         3
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       41
+Modul Spezialvorlesung II Stochastik/Statistik
+Verantwortlicher          Professur Stochastik, Professur Statistik
+Lehrformen                Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Zyklus              1 Sem., nach Bedarf
+Qualifikationsziele
+Umfangreiche, vertiefte Kenntnisse und umfassende Kompetenzen in einem aus-
+gewählten Spezialgebiet.
+Inhalt
+  • Spezielle Themen aus Stochastik / Statistik
+
+Vorkenntnisse          Stochastik, Statistik
+Prüfung               Die Modulprüfung besteht aus einer Klausur oder einer
+                       mündlichen Prüfung.
+Note                   Note der Modulprüfung
+Aufwand                180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte        6
+Teilgebiet             Stochastik/Statistik
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+         

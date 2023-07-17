@@ -1,0 +1,30 @@
+Datenbanken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         26
+  Differentialgeometrie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       27
+  Finanz- und Versicherungsmathematik . . . . . . . . . . . . . . . . . . . . . .             28
+  Fourieranalysis / Distributionentheorie . . . . . . . . . . . . . . . . . . . . . .         29
+  Funktionalanalysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        30
+  Funktionentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         31
+  Maß- und Integrationstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . .          32
+  Mathematische Logik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .           33
+  Multivariate Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      34
+  Nichtlineare Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          35
+  Numerik II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      36
+  Partielle Differentialgleichungen . . . . . . . . . . . . . . . . . . . . . . . . . .       37
+  Randomisierte Algorithmen . . . . . . . . . . . . . . . . . . . . . . . . . . . .           38
+  Spieltheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      39
+  Spezialvorlesung I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        40
+  Spezialvorlesung II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       41
+  Vertiefung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      42
+  Berufsbezogenes Praktikum . . . . . . . . . . . . . . . . . . . . . . . . . . . .           43
+
+
+
+
+                                               2
+Bachelorarbeit                                                                           44
+  Bachelorarbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   45
+
+
+
+
+Die Modulprüf

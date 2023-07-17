@@ -1,0 +1,45 @@
+e der Diskreten Optimierung.
+
+Vorkenntnisse           Optimierung
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       33
+Modul Graphentheorie
+Verantwortlicher        Professur Stochastik, Professur Diskrete Biomathematik
+Lehrformen              Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus            1 Sem., zweijährlich im WiSe ungerade Jahre
+Inhalt
+Grundlegende graphentheoretische Konzepte und Eigenschaften von Graphen:
+   • Beispiele und Fragen zu ungerichteten und gerichteten Graphen
+   • Bäume, Kürzeste Wege, aufspannende Bäume
+   • Eulersche und Hamiltonsche Graphen
+   • Färbungen von Graphen
+   • Matchings und bipartite Graphen
+
+Weiterführende Themen, z.B.
+  • Planare Graphen, Vierfarbenproblem, Eulersche Formel
+  • Flüsse in Netzwerken
+  • Beispiele und Probleme komplexer Netzwerke
+
+Qualifikationsziele
+   • Kenntnis der grundlegenden Begriffe der Graphentheorie,
+   • Beherrschung der prinzipiellen Techniken (Algorithmen) zum Zählen, zur Para-
+     meterbestimmung und zur Optimierung graphentheoretischer Strukturen,
+   • Beherrschung verschiedener kombinatorische Beweistechniken,
+   • grundlegende Kenntnisse in der Topologie von Flächen.
+
+Vorkenntnisse           Elementare Kombinatorik, Lineare Algebra, Algorithmik
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                        nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                        lesung und Übung sind Thema der Prüfung.
+Note                 

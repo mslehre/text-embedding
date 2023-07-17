@@ -1,0 +1,38 @@
+         G = jedes Semester
+
+Teilgebiet Analysis/Optimierung
+
+Modul                                   Dauer        AB    LP    PL                         MZ
+                                        (Semester)
+Approximation                           1            180   6     mP                         F
+Bild-und Signalanalyse                  1            180   6     mP                         B
+Differentialgeometrie                   1            180   6     mP/Kl                      D
+Differentialgleichungen in der          1            180   6     mP                         A
+Biologie
+Dynamische Systeme                      1            180   6     mP                         D
+Fourieranalysis/Distributionen-         1            180   6     mP/Kl                      F
+Theorie
+Funktionalanalysis                      1            270   9     mP+Üs*/Kl+Üs*              F
+Funktionentheorie                       1            180   6     mP/Kl                      C
+Maß- und Integrationstheorie            1            270   9     mP+Üs*/Kl+Üs*              A
+Nichtlineare Optimierung                1            180   6     mP/Kl                      A
+Numerik II                              1            270   9     mP+Üs*/Kl+Üs*              A
+Optimale Steuerung/                     1            180   6     mP/Kl                      D
+Variationsrechnung
+Partielle Differentialgleichungen       1            180   6     mP/Kl                      A
+Spezialvorlesung I                      1            90    3     mP/Kl
+Analysis/Optimierung
+Spezialvorlesung II                     1            180   6     mP/Kl
+Analysis/Optimierung
+oder alternativ
+
+                                                                                                5
+            
+
+
+berufsbezogenes Praktikum (§ 7)           4W                 6     Praktikumsbericht*
+                                                                   (3 S.)
+
+Teilgebiet Diskrete Mathematik/Algorithmik/Algebra
+
+Modul 

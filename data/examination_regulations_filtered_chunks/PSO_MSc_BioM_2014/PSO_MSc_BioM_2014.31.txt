@@ -1,0 +1,43 @@
+oten wird.
+
+
+
+
+                                        9
+Modul Fourieranalysis / Distributionentheorie
+Verantwortlicher       Professur Analysis
+Lehrformen             Vorlesung (4 SWS)
+Dauer/Turnus           1 Sem., zweijährlich im SoSe gerade Jahre
+Inhalt
+   • Konvergenz von Fourierreihen
+   • Faltungsprodukte
+   • Fourierinversionsformel, Satz von Plancherel
+   • Testfunktionenräume und Distributionen
+   • Schwartzraum, temperierte Distributionen und deren Fouriertransformation
+   • Sobolevräume, das Konzept schwacher Ableitungen, Einbettungssätze, Hilber-
+     traummethoden
+   • Anwendungen der Theorie auf partielle Differentialgleichungen, insbesondere
+     solcher aus der mathematischen Physik, Fundamentallösungen
+   • Anwendungen in der Variationsrechnung, Formulierung von Randwertproblemen
+
+Qualifikationsziele
+   • fundierte Kenntnisse über die Fouriertransformation und Sicherheit im Umgang
+     mit dem Distributionenkalkül,
+   • Kompetenz in den wesentlichen Beweistechniken und Lösungsstrategien der
+     Fourieranalysis,
+   • Befähigung zur Abstraktion und zur Verwendung mathematischer Arbeitsweisen
+     wie das Umsetzen mathematischer Intuition in formale Begründungen und die
+     mathematische Modellierung physikalischer Probleme,
+   • Befähigung zum Studium von Forschungsliteratur über partielle Differentialglei-
+     chungen und harmonische Analysis,
+   • Kenntnisse über Querverbindungen und den Erfolg des Zusammenwirkens von
+     Methoden aus unterschiedlichen Bereichen (etwa der Analysis, Funktionentheo-
+     rie und Funktionalanalysis).
+
+Vorkenntnisse            Analysis I, II; Maß- und Integrationstheorie
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimie

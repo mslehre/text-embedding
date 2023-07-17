@@ -1,0 +1,51 @@
+en Vorsitzenden des
+Prüfungsausschusses zu richten und im Zentralen Prüfungsamt einzureichen. Absatz 4
+gilt entsprechend.
+
+
+                                            §8
+                                           Module
+
+(1) Im Masterstudiengang Mathematik werden Module aus den folgenden Teilgebieten
+       1. Analysis / Optimierung
+       2. Diskrete Mathematik / Algorithmik / Algebra
+       3. Stochastik / Statistik
+       sowie Seminarmodule studiert.
+
+Die Module müssen nach folgenden Regeln belegt werden:
+      1. Aus jedem Teilgebiet sind mindestens 15 Leistungspunkte zu erwerben.
+      2. Seminarmodul A muss belegt werden.
+      3. Darüber hinaus sind 30 Leistungspunke aus dem Modul Masterarbeit zu
+         erwerben.
+      4. Die Module „Spezialvorlesung“ und die Seminarmodule können mehrfach
+
+                                                                                        4
+          
+
+
+         gewählt werden. Absatz 5 Satz 1 gilt entsprechend.
+
+(2) Es werden folgende Module angeboten:
+
+Legende:
+AB            Arbeitsbelastung in Stunden
+LP            Leistungspunkte
+PL            Prüfungsleistungen (Umfang nach § 8, Absatz 2)
+Kl            Klausur
+mP            mündliche Prüfung
+mP/Kl         mündliche Prüfung oder Klausur
+mP+Üs/Kl+Üs   mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
+Üs            Übungsschein
+Sems          Seminarschein
+*             Prüfungsleistung ist unbenotet
+MZ            Modulzyklus: A = jährlich im Wintersemester
+                             B = jährlich im Sommersemester
+                             C = zweijährlich im Wintersemester gerade Jahre
+                             D = zweijährlich im Sommersemester ungerade Jahre
+                             E = zweijährlich im Wintersemester ungerade Jahre
+                             F = zweijährlich im Sommersemester gerade Jahre
+                             G = jedes Semester
+
+Teilgebiet Analysis/Optimierung
+
+Modul                                 

@@ -1,0 +1,44 @@
+                        22
+Modul A5: Finanz- und Versicherungsmathematik
+Verantwortlicher           Juniorprofessur Stochastik/Statistik
+Lehrformen                 Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus               1 Sem., zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • Verständnis für die mathematische Modellierung ökonomischer Probleme und für
+     finanzpolitische Fragen,
+   • Kompetenzen zur selbständigen und sicheren Bewältigung von Problemen der
+     Finanzmathematik,
+   • Beherrschung der Prinzipien der Lebens- und Sachversicherung und der zu-
+     gehörigen Konzepte der Stochastik.
+
+Inhalt
+   • Grundlegende Konzepte der Finanzmathematik: Zins, Barwert, Kurse, Renten,
+     Kredite, Effektivzins
+   • Lebensversicherung: Äquivalenzprinzip, Bevölkerungsstatistik und Sterbetafeln,
+     Deckungskapital
+   • Sachversicherung und Risikomanagement: Risiko-Parameter, Portfolios, indivi-
+     duelles und kollektives Modell, Gesetz der großen Zahlen und Satz von Wald,
+     Schadenszahl- und Schadenshöhe-Verteilungen
+   • Risikoprozess und Ruin-Problem, Satz von Lundberg
+   • Kapitalmarkt: Marktpreise, Hedging, Finanzderivate
+
+Vorkenntnisse            Analysis I,II, Lineare Algebra I, Stochastik, Statistik
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                         min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                         ten.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Wahlmodul
+
+
+
+
+                                        23
+Modul A6: Fourieranalysis / Distributionentheorie
+Verantwortlicher      Professur Analysis
+Lehrformen            Vorlesung (4 SWS)
+Dauer/Turnus          1 Sem., zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • fundierte Kenntnisse über die Fouriertransformation und Sicherheit im Umgang
+     mit de

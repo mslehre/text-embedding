@@ -1,0 +1,42 @@
+gebiet              Spezialvorlesung Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       30
+Modul Datenstrukturen und effiziente Algorithmen
+Verantwortlicher      Professuren Informatik
+Lehrformen            Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., jährlich im WiSe
+Inhalt
+   • komplexere Datenstrukturen und deren Analyse (Hashing, Heaps,
+     höhenbalancierte Suchbäume)
+   • Algorithmen zur Suche in Strings
+   • fortgeschrittene Analysetechniken (amortisierte Analyse)
+   • Probleme der kombinatorischen Optimierung (kürzeste Wege in Netzwerken, mi-
+     nimale Spannbäume, Matchings, Netzwerkfluss)
+   • Strategien zur Lösung NP-schwerer Probleme (Approximationsalgorithmen, pa-
+     rametrisierte Algorithmen)
+   • Implementation einzelner Datenstrukturen und Algorithmen
+
+Qualifikationsziele
+   • Überblick über wichtige komplexere algorithmische Probleme und Datenstruktu-
+     ren,
+   • Fähigkeit zur Analyse ihrer Leistungsfähigkeit,
+   • Verständnis für die grundsätzlichen Schwierigkeiten beim Entwurf von Algorith-
+     men für NP-schwere Probleme,
+   • Kompetenz zum selbständigen Entwurf und der Analyse von Algorithmen für sol-
+     che Probleme,
+   • Fähigkeit zum Verwenden von online verfügbaren Quelltextbibliotheken.
+
+Vorkenntnisse            Algorithmen und Programmierung, Theoretische Informatik
+Prüfung                 Die Modulprüfung besteht aus einer 30-minütigen
+                         mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                         Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                         woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                         Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Teil

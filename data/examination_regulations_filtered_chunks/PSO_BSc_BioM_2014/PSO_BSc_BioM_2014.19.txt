@@ -1,0 +1,43 @@
+enstel-
+    lungen.
+
+Vorkenntnisse           Abitur
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung zu Algorithmen
+                        und Programmierung. Zusätzlich sind zwei Übungsscheine
+                        (zu Algorithmen und Programmierung und zu Compu-
+                        teralgebra) zu erwerben. Die Kriterien für den Erhalt der
+                        Übungsscheine legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+
+                                       8
+Note                   Note der Modulprüfung
+Aufwand in h           330 (Vorlesung: 60, Übung: 60, Selbststudium: 210)
+Leistungspunkte        11
+Modulart               Pflichtmodul im 1. und 2. Sem.
+Regelprüfungstermin   Übung: 1. und 2. Sem., Modulprüfung: 1. Sem.
+
+
+
+
+                                      9
+Modul Diskrete Strukturen in der Biologie
+Verantwortlicher       Professur Diskrete Biomathematik
+Lehrformen             Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus           1 Sem., jährlich im SoSe
+Inhalt
+   • Kombinatorik
+   • Grundlagen der Graphentheorie
+   • Populationsgenetik: Hardy-Weinberg, Fisher-Wright-Haldane
+   • Phylogenetik: Satz von Buneman, Fitch-Algorithmus
+   • Metriken im Tree Space
+
+Qualifikationsziele
+Vertrautheit mit den grundlegenden Konzepten der mathematischen Modellierung von
+biologischen Sachverhalten, speziell in der Populationsgenetik und Phylogenetik.
+Vorkenntnisse            Lineare Algebra 1, Analysis 1
+Prüfung                 Übungsschein, 90-minütige Klausur oder 30-minütige
+                         mündliche Prüfung nach Vorgabe des Dozenten. Die Kriteri-
+                         en für den Erhalt eines Übungsscheines legt der Dozent in
+                         der ersten Vorlesungswoche fest. 

@@ -1,0 +1,27 @@
+sicherungsmathematik . . . . . . . . . . . . . . . . . . .             23
+  A6: Fourieranalysis / Distributionentheorie . . . . . . . . . . . . . . . . . . . .       24
+  A7: Funktionalanalysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      25
+  A8: Funktionentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       26
+  A9: Mathematische Logik . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         27
+  A10: Multivariate Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     28
+  A11: Nichtlineare Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . .         29
+  A12: Numerik II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     30
+  A13: Partielle Differentialgleichungen . . . . . . . . . . . . . . . . . . . . . . .      31
+  A14: Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    32
+  A15: Spieltheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     33
+  A16: Spezialvorlesung I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       34
+  A17: Spezialvorlesung II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      35
+
+Seminare                                                                                    36
+  S1: Proseminar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      37
+  S2: Seminar . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       38
+  S3: Seminar mit Ausarbeitung . . . . . . . . . . . . . . . . . . . . . . . . . . .        39
+
+Theoretische Physik                                                                         40
+
+
+
+                                              2
+   T1: Theoretische Physik 1: Klassische Mechanik . . . . . . . . . . . . . . . .         41
+   T2: Theoretische Physik 2: Elektrodynamik . . . . . . . . . . . . . . . . . . .        42
+   T3: Theoretische Physik 3: Quantenmechanik . . . . . . . . . . . . .

@@ -1,0 +1,45 @@
+       nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                        lesung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       44
+Modul Mathematische Statistik
+Verantwortlicher     Professur Biomathematik, Professur Statistik
+Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im SoSe ungerade Jahre
+Inhalt
+   • Statistische Modelle, parametrische Verteilungsannahmen
+   • Dominierte Klassen von Verteilungen, Exponentialfamilien
+   • Suffizienz
+   • Punktschätzer, Konfidenzbereiche, Tests
+   • Gütekriterien und Optimalität für Schätzer und Tests
+   • Likelihood-Methoden
+   • Bayes-Methoden
+   • Statistische Entscheidungstheorie
+   • Asymptotische Statistik
+   • Nichtparametrische Modelle
+   • Resampling-Methoden
+
+Qualifikationsziele
+  • fundierte Beherrschung der mathematischen Grundlagen der Statistik,
+  • solide Kenntnisse der zentralen Ergebnisse der Mathematischen Statistik,
+  • Fähigkeit zur fundierten Beurteilung statistischer Verfahren,
+  • Befähigung zur Weiterentwicklung statistischer Methoden in Hinblick auf neuarti-
+     ge Problemstellungen,
+  • Kenntnisse über die Vielfalt der Ansätze und den aktuellen Stand der Mathema-
+     tischen Statistik,
+  • Befähigung zur Lektüre von wissenschaftlichen Arbeiten aus dem Gebiet der Ma-
+     thematischen Statistik,
+  • Befähigung zur selbständigen wissenschaftlichen Arbeiten in der Statistik.
+
+Vorkenntnisse            Statistik, Wahrscheinlichkeitstheorie
+Prüfung                 Die Modulprüfung besteht aus einer 30-minütigen
+                         mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                         wird erwartet. D

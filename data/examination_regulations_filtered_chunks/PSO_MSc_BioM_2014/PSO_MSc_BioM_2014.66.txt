@@ -1,0 +1,42 @@
+Grundlagen der modernen Wahrscheinlich-
+     keitstheorie,
+   • Befähigung zur Formulierung, systematischen Einordnung und Lösung von sto-
+     chastischen Problemstellungen in der Sprache der Wahrscheinlichkeitstheorie,
+   • Überblick über die Vielfalt stochastischer Methoden,
+   • Kompetenz zur selbständigen Beschäftigung mit wissenschaftlichen Arbeiten aus
+     dem Gebiet der Wahrscheinlichkeitstheorie,
+   • Kompetenz zum selbständigen wissenschaftlichen Arbeiten.
+
+Vorkenntnisse            Analysis I, II, Stochastik, Maßtheorie
+Prüfung                 Die Modulprüfung besteht aus einer 30-minütigen
+                         mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                         Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                         woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                         Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Teilgebiet               Stochastik/Statistik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         53
+Modul Zeitreihenanalyse
+Verantwortlicher          Professur Stochastik, Professur Biomathematik
+Lehrformen                Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus              1 Sem., jährlich im SoSe
+Inhalt
+Methoden und Anwendungen der Zeitreihenanalyse:
+   • Elementares Zeitreihenmodell, Trends, periodische und zufällige Komponenten
+   • ARMA-Prozesse und ihre Stationarität
+   • Autokorrelation und Kreuzkorrelation, Probleme der Schätzung
+   • Spektrum und Periodogramm
+   • Lineare Filter und ihre Übertragungsfunktion
+   • Multivariate Zeitreihen, data mining und Visualisierung
+
+Weiterführende Themen, z.B.
+  • Nichtlineare Zeitreihenanalyse, mehrdimensionale Verteilungen, Entropien
+  • Zeitreihenmodelle der Finanzmathematik
+ 

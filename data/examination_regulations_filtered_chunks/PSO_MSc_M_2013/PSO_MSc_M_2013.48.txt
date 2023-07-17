@@ -1,0 +1,51 @@
+mester, in dem das Modul angeboten wird.
+
+
+
+
+                                      33
+Modul Spezialvorlesung II Diskrete Mathematik/Algorithmik/Algebra
+Verantwortlicher          Professuren Informatik, Professur Algebra und funktional-
+                          analytische Anwendungen, Professur Mathematische Logik
+                          und Grundlagen der Mathematik
+Lehrformen                Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Zyklus              1 Sem., nach Bedarf
+Qualifikationsziele
+Umfangreiche, vertiefte Kenntnisse und umfassende Kompetenzen in einem aus-
+gewählten Spezialgebiet.
+Inhalt
+   • Spezielle Themen aus Diskrete Mathematik, Algorithmik oder Algebra
+
+Vorkenntnisse           Analysis, Lineare Algebra und analytische Geometrie
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       34
+Teilgebiet Stochastik / Statistik
+
+
+
+
+                   35
+Modul Biometrie
+Verantwortlicher        Professur Biomathematik
+Lehrformen              Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Zyklus            1 Sem., A: jährlich im WS
+Qualifikationsziele
+   • Fundierte Kenntnisse in der statistischen Modellierung genetischer Ge-
+     setzmäßigkeiten,
+   • Kompetenzen zur Evaluierung pharmakokinetischer Modelle in Bezug auf Daten-
+     qualität, mathematischen Ansatz und Methoden der Parameterberechnung,
+   • Fundiertes Wissen zur Regulierung klinischer Studien,
+   • Detailkenntnisse zu ausgewählten statistischen Methoden im Kontext klinischer
+     Studien,
+   • Fähigkeit zur Kontext-bezogenen Interpretation der Ergebnisse biometrischer
+     Modellierungen und Datenauswer

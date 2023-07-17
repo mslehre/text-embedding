@@ -1,0 +1,43 @@
+ziele
+   • fundierte Kenntnisse über die Fouriertransformation und Sicherheit im Umgang
+     mit dem Distributionenkalkül,
+   • Kompetenz in den für zahlreiche Anwendungen grundlegenden Techniken der
+     Harmonischen Analysis,
+   • Befähigung zur Beschreibung von Phänomenen im Zeit- und Frequenzbereich,
+   • Kenntnisse über Querverbindungen und den Erfolg des Zusammenwirkens von
+     Methoden aus unterschiedlichen Bereichen (etwa der Analysis, Funktionentheo-
+     rie und Funktionalanalysis).
+
+Inhalt
+   • Konvergenz von Fourierreihen
+   • Faltungsprodukte
+   • Fourierinversionsformel, Satz von Plancherel
+   • Testfunktionenräume und Distributionen
+   • Schwartzraum, temperierte Distributionen und deren Fouriertransformation
+   • Sobolevräume, das Konzept schwacher Ableitungen, Einbettungssätze, Hilbert-
+     raummethoden
+   • Anwendungen der Theorie auf partielle Differentialgleichungen, insbesondere
+     solcher aus der mathematischen Physik, Fundamentallösungen
+   • Anwendungen in der Variationsrechnung, Formulierung von Randwertproblemen
+
+Vorkenntnisse           Analysis I, II; Maß- und Integrationstheorie
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                        ten.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Modulart                Wahlmodul
+
+
+
+
+                                      24
+Modul A7: Funktionalanalysis
+Verantwortlicher          Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen                Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus              1 Sem., zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • fundierte Kenntnisse der typischen Probleme der unendlich dimensionalen Theo-
+     rie und deren Anwendungen,
+   • Wissen über die enge Verzahnung von Reiner und Angewandter Mathema

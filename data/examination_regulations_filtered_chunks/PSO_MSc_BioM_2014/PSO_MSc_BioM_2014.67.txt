@@ -1,0 +1,38 @@
+reihenanalyse, mehrdimensionale Verteilungen, Entropien
+  • Zeitreihenmodelle der Finanzmathematik
+  • VAR-Modelle und Granger-Kausalität
+
+Qualifikationsziele
+   • Beherrschung der grundlegenden Modelle und statistischen Verfahren für Zeitrei-
+     hen, sowohl konzeptionell wie auch in der interaktiven Arbeit mit Daten
+   • Kenntnis weiterführender Methoden, Fragestellungen und Ansätze
+   • Sammlung von praktischen Erfahrungen in der Bearbeitung großer und komple-
+     xer Datenstrukturen
+   • Verständnis für die Spezifik von Zeitreihen (z.B. aus Ökonomie, Finanzmarkt, Me-
+     dizin, Sprache und Musik)
+   • Erwerb einer angewandten Sichtweise als Ergänzung für die Module Differential-
+     gleichungen, stochastische Prozesse, dynamische Systeme
+   • Beherrschung der abstrakten geometrischen Sprache und Denkweise, die kom-
+     plexe Systeme auf ihre wesentlichen Eigenschaften reduziert,
+   • Befähigung zur Erkundung komplexer Systeme durch Computerexperimente in
+     den Übungen.
+
+Vorkenntnisse            Analysis, Lineare Algebra, Stochastik, Statistik, Differential-
+                         gleichungen
+Prüfung                 Die Modulprüfung besteht aus einer 30-minütigen
+                         mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                         wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                         Thema der Prüfung.
+ Note                    Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Stochastik/Statistik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+                                         54
+Seminarmodule
+Modul Seminarmodul A
+Verantwortlicher     Professur Analysis, Professur Numerische Mathematik und
+                     Optimierung, Professur Angewandte Mathematik, Profes-
+                     suren Informatik, Professur Algebra und funktionalanalyti-

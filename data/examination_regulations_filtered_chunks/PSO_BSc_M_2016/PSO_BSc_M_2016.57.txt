@@ -1,0 +1,51 @@
+ Modulprüfung besteht aus dem Erwerb eines unbeno-
+                         teten Übungsscheines. Die Kriterien für den Erhalt eines
+                         Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                         woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                         Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     unbenotet
+Aufwand in h             180 (Vorlesung: 15, Übung: 45, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Nebenfachmodul
+
+
+
+
+                                        54
+Modul I5: Computergrafik I
+Verantwortlicher            Professur Informatik
+Lehrformen                  Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus                1 Sem., zweijährlich im WS gerade Jahre
+Qualifikationsziele
+   • Verständnis für die im Kontext der grafischen Darstellung auftretenden Problem-
+     stellungen,
+   • Befähigung zur Lösung entsprechender Probleme mit aktuellen Bibliotheken,
+   • vertiefte praktische Kompetenzen in der Bearbeitung von Programmieraufgaben
+     und Verwendung von u.a. OpenGL.
+
+Inhalt
+
+   • Mathematische Grundlagen der Computergrafik
+   • menschliche Farbwahrnehmung
+   • Theorie der Bildentstehung
+   • OpenGL
+   • objektorientierten Grafikprogrammierung
+   • Dateiformate
+   • OpenGLSL
+
+Vorkenntnisse            Algorithmen und Programmierung, Lineare Algebra und ana-
+                         lytische Geometrie, Praxis des Programmierens
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                         min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                         ten.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Nebenfachmodul
+
+
+
+
+                                        55
+Modul I6: Datenbanken
+Verantwortlicher         Professuren Informatik

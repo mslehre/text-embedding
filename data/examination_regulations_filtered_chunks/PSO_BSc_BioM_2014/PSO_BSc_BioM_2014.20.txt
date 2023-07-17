@@ -1,0 +1,43 @@
+ eines Übungsscheines legt der Dozent in
+                         der ersten Vorlesungswoche fest. Erfolgt keine Festlegung,
+                         so sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Regelprüfungstermin Übung: 2. Sem., Modulprüfung: 2. Sem.
+Modulart                 Pflichtmodul im 2. Sem.
+
+
+
+
+                                       10
+Modul Gewöhnliche Differentialgleichungen / Proseminar
+Verantwortlicher          Professur Analysis
+Lehrformen                Vorlesung (2 SWS), Übung (1 SWS), Seminar (2 SWS)
+Dauer/Turnus              1 Sem., Gewöhnliche Differentialgleichungen: jährlich im Wi-
+                          Se, Proseminar: jährlich im SoSe
+Inhalt
+Gewöhnliche Differentialgleichungen:
+   • Grundbegriffe, Definition, Anfangswertproblem, autonome Differentialgleichun-
+     gen
+   • Lösungstheorie: Existenz- und Eindeutigkeit einer Lösung, Abhängigkeit von den
+     Anfangsbedingungen
+   • lineare Differentialgleichungssysteme: Grundlagen, Beziehung zwischen ho-
+     mogener und inhomogener Gleichung, Exponential von Matrizen, Wronski-
+     Determinante
+   • Differentialgleichungs-Modelle von dynamischen Prozessen aus Physik und Bio-
+     logie
+
+Proseminar:
+   • ergänzende Themen aus der Analysis und der linearen Algebra, aufbauend auf
+     den Vorlesungen Analysis I und II und Lineare Algebra
+
+Qualifikationsziele
+Gewöhnliche Differentialgleichungen:
+  • Kenntnisse über die Lösbarkeit gewöhnlicher Differentialgleichungen,
+  • Befähigung zur Lösung spezieller Typen von Differentialgleichungen,
+  • Beherrschung von einfachen Problemen aus der Physik, Biologie und Technik,
+     die sich durch gewöhnliche Differentialgleichungen beschreiben lassen,
+  • Befähigung zur Analyse von dynamischen Prozessen und Verständnis für deren
+     praktische Bedeutung,
+  • Befähigu

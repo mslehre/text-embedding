@@ -1,0 +1,42 @@
+d Sterbetafeln,
+     Deckungskapital
+   • Sachversicherung und Risikomanagement: Risiko-Parameter, Portfolios, indivi-
+     duelles und kollektives Modell, Gesetz der großen Zahlen und Satz von Wald,
+     Schadenszahl- und Schadenshöhe-Verteilungen
+   • Risikoprozess und Ruin-Problem, Satz von Lundberg
+   • Kapitalmarkt: Marktpreise, Hedging, Finanzderivate
+
+Vorkenntnisse           Analysis I,II, Lineare Algebra I, Stochastik, Statistik
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                        wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                        Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       37
+Modul Mathematische Statistik
+Verantwortlicher     Professur Biomathematik, Professur Statistik
+Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus         1 Sem., D: zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • fundierte Beherrschung der mathematischen Grundlagen der Statistik,
+   • solide Kenntnisse der zentralen Ergebnisse der Mathematischen Statistik,
+   • Fähigkeit zur fundierten Beurteilung statistischer Verfahren,
+   • Befähigung zur Weiterentwicklung statistischer Methoden in Hinblick auf neuarti-
+     ge Problemstellungen,
+   • Kenntnisse über die Vielfalt der Ansätze und den aktuellen Stand der Mathema-
+     tischen Statistik,
+   • Befähigung zur Lektüre von wissenschaftlichen Arbeiten aus dem Gebiet der Ma-
+     thematischen Statistik,
+   • Befähigung zur selbständigen wissenschaftlichen Arbeiten in der Statistik.
+
+Inhalt
+   • Statistische Modelle, parametrische Verteilungsannahmen
+   • Dominier

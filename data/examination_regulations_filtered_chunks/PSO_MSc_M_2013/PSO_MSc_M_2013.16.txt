@@ -1,0 +1,38 @@
+  3 1     1 mP/Kl         6
+     4
+
+
+
+
+                                                                                                     30
+             Masterarbeit abgeschlossen                                        2               24
+
+                                                                                 Summe         120
+
+Musterstudienplan Master Mathematik (Schwerpunkt Analysis/Optimierung)
+Studienbeginn: gerades Wintersemester, z.B. Wintersemester 2012/2013
+
+Semester     Veranstaltung                              Teilgebiet V Art
+                                                                     Ü S D Prüfungsart         LP
+
+             Funktionentheorie                               1         3 1   1 mP/Kl           6
+             Numerik II                                      1         4 2   1 mP+Üs/Kl+Üs     9
+     1       Seminar A                                       1             2 2 Sems            3
+                                                                                                     30
+             Algorithmik/Komplexitätstheorie                 2         4     1 mP              6
+             Spieltheorie                                    3         3 1   1 mP/Kl           6
+
+             Differentialgeometrie                           1         3 1   1 mP/Kl           6
+             Optimale Steuerung/Variationsrechnung           1         3 1   1 mP/Kl           6
+     2
+                                                                                                     27
+
+
+
+
+             Kombinatorik                                    2         4     1 mP/Kl           6
+             Seminar A                                       1             2 2 Sems            3
+             Mathematische Statistik                         3         3 1   1 mP              6
+
+             Partielle Differentialgleichungen               1         3 1     1 mP/Kl         6
+             Nichtlineare Optimierung                    

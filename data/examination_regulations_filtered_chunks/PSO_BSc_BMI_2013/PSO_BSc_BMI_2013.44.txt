@@ -1,0 +1,47 @@
+Typen von Differentialgleichungen (Laplace-
+     gleichung, Wärmeleitungsgleichung, Wellengleichung),
+   • Befähigung, Probleme mathematisch mit Hilfe partieller Differentialgleichungen
+     zu formulieren,
+   • Beherrschung analytischer Lösungsmethoden,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+Partielle Differentialgleichungen 1. Ordnung:
+   • Charakteristikenmethode
+   • Vollständiges Integral
+   • Hamilton-Jacobi-Theorie
+
+Partielle Differentialgleichungen 2. Ordnung:
+   • Laplace-Gleichung (Fundamentallösung, Darstellungsformeln, Greensche Funk-
+      tion, Dirichlet-Problem für die Kugel, Maximumprinzip)
+   • Wärmeleitungsgleichung (Fundamentallösung, Anfangs-Randwertproblem, Ma-
+      ximumprinzip)
+   • Wellengleichung (Anfangswertproblem, Duhamelsches Prinzip)
+   • Hilbertraummethoden bei elliptischen Randwertproblemen (Einführung)
+
+Vorkenntnisse         Analysis, Gewöhnliche Differentialgleichungen
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                      wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                      Thema der Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 5. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                         37
+Modul Randomisierte Algorithmen
+Verantwortlicher     Professuren Informatik
+Lehrformen           Vorlesung (4 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im geraden SoSe
+Qualifikationsziele
+   • Fähigkeit zur Analyse und zum Entwurf von randomisierten Algorithmen,
+   • Verständnis für die grundlegenden Probleme, die bei der Analyse und dem Ent-
+     wurf auftreten,
+   • Beherrschung einer Palette von Werkzeugen und Techniken, mit deren Hilfe diese
+     Probleme ge

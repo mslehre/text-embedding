@@ -1,0 +1,47 @@
+t und Formalisier-
+     barkeit.
+
+Inhalt
+   • Berechenbarkeit: grundlegende Eigenschaften und Beziehungen
+   • Nummerierungen, insbesondere Gödelnummerierungen
+   • Reduzierbarkeit von Entscheidungsproblemen durch Abbildungen
+   • Turing-Reduzierbarkeit und Arithmetische Hierarchie
+   • Anwendungen in Logik und Grundlagen der Mathematik, insbesondere
+     Gödelscher Unvollständigkeitssatz
+   • Analytische Hierarchie und Berechenbarkeit höherer Stufe
+   • Weitere Ausblicke und Anwendungen
+
+Vorkenntnisse           Vorlesungen zur theoretischen Informatik und Grundvorle-
+                        sungen zur Analysis und Algebra.
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       23
+Modul Codierungstheorie
+Verantwortlicher         Professur Algebra und funktionalanalytische Anwendungen,
+                         Professur Biomathematik
+Lehrformen               Vorlesung (4 SWS)
+Dauer/Zyklus             1 Sem., E: zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • fundiertes Verständnis für die grundlegenden Prinzipien der Codierung,
+   • Kenntnisse über die Anwendung von Algebra (z. B. Galois-Felder) und Analysis
+     (z. B. p-Funktion von Weierstraß) in der Codierung.
+
+Inhalt
+   • Lineare Codes, zyklische Codes, quadratische Reste-Codes
+   • Codierung und Decodierung
+   • Fehlerkorrigierende und -erkennende Codes
+   • Geometrische Codierung, doppelperiodische Funktionen
+   • Elemente der Kryptographie, assymetrische Codierung
+
+Vorkenntnisse           Algebra, Funktionentheorie
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung.
+Note                

@@ -1,0 +1,48 @@
+̈bung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Stochastik/Statistik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         43
+Modul Stochastische Modelle der Biologie
+Verantwortlicher     Professur Stochastik
+Lehrformen           Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Zyklus         1 Sem., C: zweijährlich im WS gerade Jahre
+Qualifikationsziele
+   • Beherrschung der Theorie endlicher homogener Markov-Ketten und ihrer Anwen-
+     dung als einfaches Modellierungswerkzeug,
+   • Kenntnis einer Reihe von grundlegenden Modellen in der Biologie,
+   • Gefestigte und erweiterte Kenntnisse aus Stochastik, Lineare Algebra und Dis-
+     krete Strukturen,
+   • Beherrschung von Grundkonzepten und motivierenden Beispielen für wei-
+     terführende Module (Stochastische Prozesse, Molekulare Evolution, Spieltheorie,
+     Dynamische Systeme).
+
+Inhalt
+Grundlagen der Markov-Prozesse und biologische Anwendungen:
+   • Markov-Ketten, Strukturbestimmung, Mittelwertregeln für absorbierende Ketten
+     und Grenzverhalten für irreduzible Ketten
+   • Galton-Watson Verzweigungsprozesse
+   • Stochastische Modelle in der Populationsgenetik
+   • Markov-Prozesse in stetiger Zeit
+
+Vorkenntnisse           Analysis, Lineare Algebra, Stochastik, Differentialgleichun-
+                        gen
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                        wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                        Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       44
+Modul Stochastische Pr

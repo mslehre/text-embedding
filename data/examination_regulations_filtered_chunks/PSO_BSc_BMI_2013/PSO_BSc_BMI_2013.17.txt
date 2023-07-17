@@ -1,0 +1,38 @@
+nd Integralrechnung von Funktionen in einer oder mehreren Varia-
+     blen
+   • Grundbegriffe der Vektoranalysis, Integrale über Kurven und Flächen, Satz von
+     Stokes
+   • analytische Behandlung von einfachen Modellen für physikalische und biologi-
+     sche Prozesse
+
+Vorkenntnisse         keine
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                      Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                      woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                      Übungsaufgaben erfolgreich zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               540 (Vorlesung: 120, Übung: 60, Selbststudium: 360)
+Leistungspunkte       18
+Regelprüfungstermine Übung 1: 1. Sem., Übung 2: 2. Sem., Modulprüfung: 2. Sem
+Modulart              Pflichtmodul
+
+
+                                        5
+Modul Lineare Algebra und Analytische Geometrie
+Verantwortlicher         Professur Algebra und funktionalanalytische Anwendungen,
+                         Professur Mathematische Logik und Grundlagen der Mathe-
+                         matik
+Lehrformen               Vorlesung (8 SWS) und Übung (4 SWS)
+Dauer/Turnus             2 Sem., jeweils 4+2 SWS im WS und SoSe, beginnend
+                         jährlich im WS
+Qualifikationsziele
+   • Kenntnis und Beherrschung grundlegender Prinzipien algebraischer Strukturen
+     und deren Anwendung auf einfache mathematische Fragestellungen,
+   • Beherrschung von mathematischem Basiswissen als Grundlage des gesamten
+     weiteren Studiums,
+   • Befähigung zu mathematischen Arbeitsweisen (Entwicklung mathematischer In-
+     tuition, Aneignung der Fähigkeit, formal und verständlich zu begründen, Schulung
+     des Abstraktionsvermögens, Einsicht in den axiomatischen Aufbau mathemati-
+     scher Fachgebiete anhand durchsichtiger Strukturen),
+   • Kenntni

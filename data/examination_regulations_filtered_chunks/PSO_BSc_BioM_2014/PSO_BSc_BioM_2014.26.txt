@@ -1,0 +1,43 @@
+erentialgleichungen, Mathemati-
+                        sche Biologie
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die Kriterien
+                        für den Erhalt eines Übungsscheines legt der Dozent in der
+                        ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+                        sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Modulart                Pflichtmodul im 5. Sem.
+Regelprüfungstermin    5. Sem.
+
+
+
+
+                                       17
+Modul Wissenschaftliches Präsentieren
+Verantwortlicher       Professur Analysis, Professur Numerische Mathematik und
+                       Optimierung, Professur Angewandte Mathematik, Profes-
+                       suren Informatik, Professur Algebra und funktionalanalyti-
+                       sche Anwendungen, Professur Stochastik, Professur Statis-
+                       tik, Professur Algebraische Methoden der Analysis
+Lehrformen             Seminar (2 SWS) und Praktikum (2 SWS)
+Dauer/Turnus           2 Sem., Seminar jedes Semester, Praktikum jährlich im WiSe
+Inhalt
+Seminar:
+   • ergänzende Themen aus dem Bereich Analysis/Optimierung, aus dem Bereiche
+     Diskrete Mathematik/Algorithmik oder aus dem Bereich Stochastik/Statistik
+
+Statistisches Praktikum:
+   • Umgang mit statistischer Software
+   • Behandlung realer Datensätze
+   • Umsetzung statistischer Methoden
+
+Qualifikationsziele
+
+   • Befähigung zur selbständigen Beschäftigung mit einem mathematischen Thema,
+   • Befähigung, einen strukturierten, effizienten und auf die Kompetenzen des Publi-
+     kums zugeschnittenen Vortrag zu halten,
+   • Kompetenzen in der Diskussionsführung;
+   • Befähigung zur informativen Visualisierung realer Daten,
+   • Be

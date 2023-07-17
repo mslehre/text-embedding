@@ -1,0 +1,45 @@
+ zur Lösung von
+     Problemen der reellen Analysis,
+   • vertieftes Verständnis für die elementaren Funktionen durch die Sicht der kom-
+     plexen Analysis,
+   • erweitertes Verständnis für den Aufbau und die Methodik der Mathematik, an-
+     hand der geschichtlichen Entwicklung dieses mathematischen Gebietes,
+   • Beherrschung mathematischer Arbeitsweisen (Entwicklung mathematischer In-
+     tuition und deren formale Begründung, Schulung des Abstraktionsvermögens,
+     Beweisführung),
+   • Befähigung zur mündlichen Kommunikation und wissenschaftlichen Diskussion.
+
+Inhalt
+   • Komplexe Differenzierbarkeit, Cauchy-Riemannsche Differentialgleichungen, ho-
+     lomorphe Funktionen
+   • Potenzreihen, analytische Funktionen
+   • komplexe Kurvenintegrale, Cauchyscher Integralsatz, Cauchysche Integralformel
+   • Potenzreihenentwicklung, Singularitäten, Laurententwicklung, meromorphe
+     Funktionen
+   • Residuensatz und seine Anwendungen
+   • Weierstraßscher Produktsatz, Satz von Mittag-Leffler
+   • elliptische Funktionen
+
+Vorkenntnisse            Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+                         II
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                         min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                         ten.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Wahlmodul
+
+
+
+
+                                        26
+Modul A9: Mathematische Logik
+Verantwortlicher     Leiter der AG Berechenbarkeitstheorie über algebraischen
+                     Strukturen
+Lehrformen           Vorlesung (4 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • vertieftes Verständnis für die mathematischen Grundlagen des logischen Den-
+     kens und Schließens,
+   • vertieftes Verständnis für d

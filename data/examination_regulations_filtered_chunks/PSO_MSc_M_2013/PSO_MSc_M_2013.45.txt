@@ -1,0 +1,42 @@
+       Professur Mathematische Logik und Grundlagen der Mathe-
+                           matik
+Lehrformen                 Vorlesung (4 SWS)
+Dauer/Zyklus               1 Sem., F: zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • Kenntnis und Beherrschung grundlegender Präzisierungstechniken für die Syn-
+     tax und Semantik logischer Systeme,
+   • vertiefte Beherrschung der mathematischen Fachsprache,
+   • Kompetenzen bei der Bewertung mathematischer Beweismethoden,
+   • erweitertes Verständnis für das Wechselspiel zwischen mathematischer Intuition
+     und ihrer Präzisierung durch formale Systeme,
+   • Verständnis für die Bedeutung grundlegender Erkenntnisse der mathematischen
+     Logik (Kompaktheit, Vollständigkeit, Unvollständigkeit) für die Mathematik.
+
+Inhalt
+   • Syntax, Semantik und Beweiskalküle der Aussagenlogik und der Prädikatenlogik
+     erster Stufe
+   • Vollständigkeitssätze, insbesondere Gödelscher Vollständigkeitssatz
+   • Kompaktheitssätze und Anwendungen/Folgerungen
+   • elementare und nichtelementare Theorien und Modellklassen
+   • Motivationen aus und Anwendungen in der Mathematik
+
+Vorkenntnisse            Analysis, Lineare Algebra und analytische Geometrie
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung.
+Note                     Note der Modulprüfung
+Aufwand                  180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        30
+Modul Operatoralgebren
+Verantwortlicher     Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus         1 Sem., F: zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • Kenntnis der Grundstrukturen (C*-Algebren, von-Neumann-Algebren) der Theo-
+     rie der Operator-Algebren,
+   • Beherrsch

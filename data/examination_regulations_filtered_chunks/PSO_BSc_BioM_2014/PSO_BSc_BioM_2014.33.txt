@@ -1,0 +1,52 @@
+kte        11
+Modulart               Pflichtmodul im 3. und 4. Sem.
+Regelprüfungstermin   3. Sem. und 4. Sem
+
+
+
+
+                                     26
+Modul Molekulare Genetik und Genomik
+Verantwortlicher     Professur für Genetik der Mikroorganismen
+Lehrformen           Vorlesung (4 SWS)
+Dauer/Turnus         1 Sem., jährlich im WiSe
+Inhalt
+   • Grundlagen der klassischen Genetik (Mendelsche Regeln, Chromosomen und
+     Genkartierung)
+   • Struktur und Topologie der DNA und RNA
+   • Genome bei Prokaryoten und Eukaryoten
+   • Initiation der DNA-Replikation und DNA-Rekombination
+   • Genetischer Code, Mechanismen der Transkription und Translation
+   • Regulation der Genexpression
+   • Mutationen und DNA-Reparatur, Erbkrankheiten
+   • Zellzyklus und Krebsgenetik
+   • Grundlagen der Gentechnik (Restriktionsenzyme, Vektoren, Klonierung, Gen-
+     transfer, DNA-Sequenzierung) und Genomorganisation (Repetitive Sequenzen,
+     Satelliten-DNA, Alu-Elemente, Genfamilien) und Ethik
+   • Genomik, reversive Genetik und RNAi Technologie
+   • Genetische Modellorganismen
+   • Populationsgenetik
+
+Qualifikationsziele
+   • Grundlegende Kenntnisse zu Vererbungsmechanismen (klassisch, molekular)
+   • Kenntnisse zur DNA-Funktion und -Variabilität
+   • Kenntnisse zur Genexpression und deren Kontrolle
+   • Kenntnisse zur in vitro-rekombinanten DNA-Technik
+
+Vorkenntnisse          Grundkenntnisse zur Struktur biologischer Makromoleküle
+Prüfung               90-minütige Klausur
+Note                   Note der Modulprüfung
+Aufwand in h           150 (Vorlesung: 60, Selbststudium: 90)
+Leistungspunkte        5
+Modulart               Pflichtmodul im 3. Sem.
+Regelprüfungstermin   3. Sem
+
+
+
+
+                                     27
+Modul Biologische Vertiefung I
+Verantwortlicher         Vorsitzender des Prüfungsausschusses
+Lehrformen               Wirkstoffdesign: Vorlesung (2 SWS),
+                         Grundlagen der Pharmakologie: Vorlesung (2 SWS)
+Dauer/Turnus             2 Sem.

@@ -1,0 +1,44 @@
+      1 Sem., jährlich im SoSe
+Inhalt
+   • Probabilistische Modelle der Bioinformatik (CRFs, HMMs, graphische Modelle)
+   • Parameterschätzung (Baum-Welch und EM-Algorithmus)
+   • Strukturbioinformatik (3D-Struktur, Interface, Docking)
+   • Quantifizierung von Transkripten und Expressionsanalyse (RNA-Seq)
+   • Methoden zur Evaluierung von Vorhersagen und Klassifikationen (ROC-Analyse,
+     Kreuzvalidierung)
+
+Qualifikationsziele
+   • Fähigkeit, eigene Modelle zu neuen biologischen Problemen aufzustellen, ihre
+     Parameter zu schätzen und ihre Effizienz auf Testdaten zu evaluieren.
+   • Befähigung, Expressionsanalysen auf in der Praxis typischen Daten durch-
+     zuführen.
+   • Beherrschung des Umgangs mit aktuellen Bioinformatik-Tools.
+
+Vorkenntnisse           Genomanalyse, Bioinformatisches Praktikum, Stochastik
+Prüfung                Die Modulprüfung ist eine 30-minütige mündliche Prüfung
+                        des Stoffes der Vorlesung und Übung. Die aktive Teilnahme
+                        an den Übungen wird erwartet.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      27
+Modul Codierungstheorie
+Verantwortlicher         Professur Algebra und funktionalanalytische Anwendungen,
+                         Professur Biomathematik
+Lehrformen               Vorlesung (4 SWS)
+Dauer/Turnus             1 Sem., zweijährlich im WiSe ungerade Jahre
+Inhalt
+   • Lineare Codes, zyklische Codes, quadratische Reste-Codes
+   • Codierung und Decodierung
+   • Fehlerkorrigierende und -erkennende Codes
+   • Geometrische Codierung, doppelperiodische Funktionen
+   • Elemente der Kryptographie, assymetrische Codierung
+
+Qualifikationsziele
+   • fundiertes Verständnis für die grundlegenden Prinzipien der Codierung,

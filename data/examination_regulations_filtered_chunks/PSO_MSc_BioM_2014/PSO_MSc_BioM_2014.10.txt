@@ -1,0 +1,37 @@
+   F
+Molekulare Evolution                    1            180       6          mP                E
+
+
+                                                                                                7
+       
+
+
+Praktikum Softwaretechnik                1            180      6          Üs*               F
+Randomisierte Algorithmen                1            180      6          mP                F
+Spezialvorlesung I Diskrete              1            90       3          mP/Kl 90
+Mathematik/Algorithmik
+Spezialvorlesung II Diskrete             1            180       6         mP/Kl 90
+Mathematik/Algorithmik
+oder alternativ
+berufsbezogenes Praktikum (§ 6)          4W                     6         Praktikums-
+                                                                          bericht* (3 S.)
+Theoretische Informatik                  1            270       9         mP/Kl 90          B
+
+  3. Modulbereich Stochastik/Statistik
+
+Modul                                    Dauer        AB       LP         PL                MZ
+                                         (Semester)
+Finanz-   und     Versicherungs- 1                    180      6          mP/Kl 90          E
+mathematik
+Mathematische Statistik          1                    180      6          mP                D
+Multivariate Statistik                   1            270      9          mP/Kl 90          E
+Räumliche Statistik                      1            180      6          mP                F
+Spezialvorlesung I                       1            90       3          mP/Kl 90
+Stochastik/Statistik
+Spezialvorlesung II                      1            180       6         mP/Kl 90
+Stochastik/Statistik
+oder alternativ
+berufsbezogenes Praktikum (§ 6)          4W                     6         Praktikums-
+                                                                          bericht* (3 S.)
+Spieltheorie                             1            180      6          mP/Kl 90          C
+Stochastische Modelle der          

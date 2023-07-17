@@ -1,0 +1,25 @@
+ziente Algorithmen . . . . . . . . . . . . . . . . . . .         31
+   Diskrete Modellierung in der Biologie . . . . . . . . . . . . . . . . . . . . . . .      32
+   Diskrete Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       33
+   Graphentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     34
+   Kombinatorik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     35
+   Mathematische Logik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        36
+   Molekulare Evolution . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     37
+   Praktikum Softwaretechnik . . . . . . . . . . . . . . . . . . . . . . . . . . . .        38
+   Randomisierte Algorithmen . . . . . . . . . . . . . . . . . . . . . . . . . . . .        39
+   Spezialvorlesung I Diskrete Mathematik/Algorithmik . . . . . . . . . . . . . .           40
+   Spezialvorlesung II Diskrete Mathematik/Algorithmik . . . . . . . . . . . . . .          41
+   Theoretische Informatik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      42
+
+
+
+                                              2
+Stochastik / Statistik                                                                       43
+   Finanz- und Versicherungsmathematik . . . . . . . . . . . . . . . . . . . . . .           44
+   Mathematische Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       45
+   Multivariate Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    46
+   Räumliche Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    47
+   Spezialvorlesung I Stochastik/Statistik . . . . . . . . . . . . . . . . . . . . . .       48
+   Spezialvorlesung II Stochastik/Statistik . . . . . . . . . . . . . . . . . . . . . .      49
+   Spieltheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    50
+   Stochastische Modelle der Biologie . . . . . . . . . . . . . . .

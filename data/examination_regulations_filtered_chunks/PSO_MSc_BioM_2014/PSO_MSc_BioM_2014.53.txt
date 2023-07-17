@@ -1,0 +1,42 @@
+     erster Stufe
+   • Vollständigkeitssätze, insbesondere Gödelscher Vollständigkeitssatz
+   • Kompaktheitssätze und Anwendungen/Folgerungen
+   • elementare und nichtelementare Theorien und Modellklassen
+   • Motivationen aus und Anwendungen in der Mathematik
+
+Qualifikationsziele
+   • Kenntnis und Beherrschung grundlegender Präzisierungstechniken für die Syn-
+     tax und Semantik logischer Systeme,
+   • vertiefte Beherrschung der mathematischen Fachsprache,
+   • Kompetenzen bei der Bewertung mathematischer Beweismethoden,
+   • erweitertes Verständnis für das Wechselspiel zwischen mathematischer Intuition
+     und ihrer Präzisierung durch formale Systeme,
+   • Verständnis für die Bedeutung grundlegender Erkenntnisse der mathematischen
+     Logik (Kompaktheit, Vollständigkeit, Unvollständigkeit) für die Mathematik.
+
+Vorkenntnisse           Analysis, Lineare Algebra und analytische Geometrie
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       36
+Modul Molekulare Evolution
+Verantwortlicher      Professur Diskrete Biomathematik, Professur Bioinformatik
+Lehrformen            Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., jährlich im WiSe
+Inhalt
+   • Grundlagen und Grundbegriffe der Evolution (Homologie, Rekombination,
+     Wright-Fisher-Modell
+   • Stochastische Modelle in der Evoluton (Markovketten in stetiger Zeit, Jukes-
+     Cantor-Modell, GTR-Modell, Rates-across-Sites, Selektion)
+   • Stammbaumrekonstruktionsverfahren
+       – distanzbasierte Verfahren (Clustering)
+       – Character-basierte Verfahren (Parsimony, Likelihood, Bayes)
+   • Samplingmethoden im Tree S

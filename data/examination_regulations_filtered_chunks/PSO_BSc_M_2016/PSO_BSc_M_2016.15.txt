@@ -1,0 +1,33 @@
+RNST-M ORITZ -A RNDT-U NIVERSIT ÄT G REIFSWALD
+M ATHEMATISCH -N ATURWISSENSCHAFTLICHE FAKULT ÄT
+         Institut für Mathematik und Informatik
+
+
+
+
+              Modulkatalog
+             Bachelor of Science
+                   Mathematik
+Inhaltsverzeichnis
+
+Pflichtmodule                                                                                4
+    P1: Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     5
+    P2: Lineare Algebra und Analytische Geometrie . . . . . . . . . . . . . . . .            6
+    P3: Algorithmen und Programmierung / Computeralgebra . . . . . . . . . . .               8
+    P4: Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     10
+    P5: Stochastik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    11
+    P6: Gewöhnliche Differentialgleichungen . . . . . . . . . . . . . . . . . . . .        12
+    P7: Algebra I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   13
+    P8: Numerik I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   14
+    P9: Maß- und Integrationstheorie . . . . . . . . . . . . . . . . . . . . . . . . .      15
+
+Bachelorarbeit                                                                              16
+  BA: Bachelorarbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      17
+
+Wahlmodule                                                                                  18
+  A1: Algebra II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    19
+  A2: Numerik Grundpraktikum . . . . . . . . . . . . . . . . . . . . . . . . . . .          20
+  A3: Optimale Steuerung / Varitionsrechnung . . . . . . . . . . . . . . . . . .            21
+  A4: Differentialgeometrie . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       22
+  A5: Finanz- und Versicherungsmathematik . . . . . . . . . . . . . . . . . . .             23
+  A6: Fourieranalysis / Di

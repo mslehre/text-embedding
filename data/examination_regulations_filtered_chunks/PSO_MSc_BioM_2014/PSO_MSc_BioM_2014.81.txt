@@ -1,0 +1,44 @@
+ogie des Primär- und Sekundärmetabolismus
+   • Biotechnologie biologischer Makromoleküle (Pharmaproteine, technische Enzy-
+     me)
+   • Biotranformation
+   • Molekulare Biotechnologie der Bakterien, Hefe/Pilze, Pflanzen und Tiere
+
+Vorlesung Molekulare Biotechnologie der Prokaryoten:
+   • Biotechnologie extremophiler Bakterien (thermophile, psychrophile, halophile,
+     strahlungsresistente und magnetotaktische Bakterien)
+   • Metagenomics, Klonierungsstrategien, Genbanken
+   • Heterologe Genexpression und Expressionssysteme (E. coli, B. subtilis und wei-
+     tere industrielle Wirte)
+   • Optimierung der Genexpression (Fusionsproteine, Translation, Proteinstabilität,
+     Sekretion) und Fermentationsstrategien
+   • Gentechnische veränderte Prokaryoten in der Landwirtschaft (Mikrobielle Insek-
+     tizide), Lebensmittelindustrie und Medizin Gentechnikgesetz und Patentierung
+
+Vorlesung Molekulare Biotechnologie der Eukaryoten:
+   • Methodischer Überblick zur molekularen Biotechnologie
+   • Molekulare Biotechnologie der Hefen (Vektorsysteme; Proteinpoduktion und me-
+     tabolische Umprogrammierung)
+   • Molekulare Biotechnologie filamentöser Pilze
+   • Molekulare Biotechnologie der Pflanzen (Methoden des DNA-Transfers zur Er-
+     zeugung transgener Pflanzen; Resistenz gegen Insekten, Pilze, Viren und Herbi-
+     zide; neue bzw. modifizierte Biosynthesewege)
+   • Molekulare Biotechnologie der Tiere (Zellkulturen; Vektorsysteme; Transfektions-
+     methoden; transgene Tiere als lebende Bioreaktoren)
+
+Inhalt
+
+
+
+
+                                       75
+Vorlesung Molekulare Humangenetik:
+   • Struktur des humanen Genoms, Chromosomenstruktur, Mutationen
+   • Zytogenetische Diagnostik
+   • Direkte und indirekte molekulargenetische Diagnostik
+   • Konsequenzen der X-Chromosomeninaktivierung
+   • Pleiotropie und Heterogenie in der Humangenetik
+   • Dynamische Mutationen
+   • Zwillingsforschung
+   • Multifaktorielle (komplexe) Erkrankungen
+   • Behandlung genetisch 

@@ -1,0 +1,50 @@
+n Begriffsbildungen
+     und Verständnis ihrer Zusammenhänge,
+   • Beherrschung fortgeschrittener Beweistechniken,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+Grundlagen der Maß- und Integrationstheorie:
+   • Konstruktion von Maßen
+   • Lebesguesche Integrationstheorie
+   • Produktmaße, Satz von Fubini
+   • Darstellungssätze (Riesz, Radon-Nikodym)
+   • Lp -Räume
+
+Weiterführende Themen, z.B.
+  • Lebesgue-Integral auf Untermannigfaltigkeiten des Rn , Differentialformen und
+     der Satz von Stokes
+  • Desintegration und bedingte Erwartungswerte
+
+Vorkenntnisse           Analysis I, II
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                        Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand                 270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       13
+Modul Nichtlineare Optimierung
+Verantwortlicher           Professur Angewandte Mathematik, Professur Numerische
+                           Mathematik und Optimierung
+Lehrformen                 Vorlesung (4 SWS)
+Dauer/Zyklus               1 Sem., A: jährlich im WS
+Qualifikationsziele
+   • grundlegende Kenntnisse der Optimierungstheorie,
+   • Fähigkeiten zur numerischen Lösung von Optimierungsproblemen,
+   • Verständnis für die Relevanz von Optimierungsaufgaben für zahlreiche prakti-
+     sche Fragestellungen,
+   • Kompetenzen in der Klassifikation konkreter Aufgaben und der geeigneten Me-
+     thodenwahl.
+
+Inhalt
+   • Notwendige und hin

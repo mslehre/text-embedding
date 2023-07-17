@@ -1,0 +1,43 @@
+n.
+
+Inhalt
+Grundlagen der Dynamischen Systeme:
+   • Iteration reeller und komplexer Abbildungen, Bahnen, periodische Punk-
+     te,Grenzverhalten
+   • Abbildungen auf metrischen Räumen, Fixpunktsatz, Attraktoren
+   • maßerhaltende Abbildungen, Rekurrenz, Ergodensätze
+   • Lineare und nichtlineare Differenzialgleichungen
+   • Verhalten an kritischen Punkten, Bifurkationen
+   • chaotische Systeme und ihre Charakteristika
+
+Vorkenntnisse           Analysis I, II, Stochastik, gewöhnliche Differentialgleichun-
+                        gen, Mathematische Biologie
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung.
+                        Die aktive Teilnahme an den Übungen wird erwartet. Die In-
+                        halte von Vorlesung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        9
+Modul Fourieranalysis / Distributionentheorie
+Verantwortlicher       Professur Analysis
+Lehrformen             Vorlesung (4 SWS)
+Dauer/Zyklus           1 Sem., D: zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • fundierte Kenntnisse über die Fouriertransformation und Sicherheit im Umgang
+     mit dem Distributionenkalkül,
+   • Kompetenz in den wesentlichen Beweistechniken und Lösungsstrategien der
+     Fourieranalysis,
+   • Befähigung zur Abstraktion und zur Verwendung mathematischer Arbeitsweisen
+     wie das Umsetzen mathematischer Intuition in formale Begründungen und die
+     mathematische Modellierung physikalischer Probleme,
+   • Befähigung zum Studium von Forschungsliteratur über partielle Differentialglei-
+     chungen und harmonische Analysis,
+   • Kenntnisse über Querverbindungen und den Erfolg des Zusammenwirkens von
+     Methoden aus un

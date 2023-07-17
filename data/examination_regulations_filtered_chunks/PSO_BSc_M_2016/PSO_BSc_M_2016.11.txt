@@ -1,0 +1,35 @@
+eare Algebra und analytische Geometrie II                 4 2     2 ÜS, mP/K            9
+    2
+
+
+
+
+                                                                                                                29
+            T1 Theoretische Physik 1: Klassische Mechanik                   4 2     1 ÜS, K(120 min)/mP   9
+            P3 Computeralgebrasysteme                                         2     2 ÜS                  2
+
+            P6 Gewöhnliche Differentialgleichungen                          2 1     1 ÜS, mP              5
+            P9 Maß- und Integrationstheorie                                 4 2     1 ÜS, mP/K            9
+    3
+
+
+
+
+                                                                                                                32
+            T2 Theoretische Physik 2: Elektrodynamik                        4 2     1 ÜS, K(120 min)/mP   9
+            P7 Algebra I                                                    4 2     1 ÜS, mP/K            9
+
+            P8 Numerik I                                                    4 2   1 ÜS, mP/K              9
+            P4 Optimierung                                                  4 2   1 mP/K                  9
+    4
+
+
+                                                                                                                29
+            S1 Proseminar                                                       2 1 R (60 min)            2
+            A7 Funktionalanalysis                                           4 2   1 ÜS, mP/K              9
+
+            P5 Stochastik                                                   4 2     1 ÜS, mP              9
+            A2 Numerik Grundpraktikum                                       2 2     1 ÜS, mP/K            6
+    5       A11 Nichtlineare Optimierung                                    4       1 mP/K                6     30
+            A13 Partielle Differentialgleichungen                           3 1     1 mP/K                6
+            S2 

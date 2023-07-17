@@ -1,0 +1,47 @@
+gleichung (Fundamentallösung, Anfangs-Randwertproblem, Ma-
+      ximumprinzip)
+   • Wellengleichung (Anfangswertproblem, Duhamelsches Prinzip)
+   • Hilbertraummethoden bei elliptischen Randwertproblemen (Einführung)
+
+Vorkenntnisse            Analysis, Gewöhnliche Differentialgleichungen
+Prüfung                 Die Modulprüfung besteht aus einer Klausur oder einer
+                         mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                         wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                         Thema der Prüfung.
+Note                     Note der Modulprüfung
+Aufwand                  180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         17
+Modul Spezialvorlesung I Analysis/Optimierung
+Verantwortlicher         Professur Analysis, Professur Numerische Mathematik und
+                         Optimierung, Professur Angewandte Mathematik
+Lehrformen               Vorlesung (2 SWS)
+Dauer/Zyklus             1 Sem., nach Bedarf
+Qualifikationsziele
+Vertiefte Kenntnisse und erweiterte Kompetenzen in einem ausgewählten Spezialge-
+biet.
+Inhalt
+   • Spezielle Themen aus Analysis / Optimierung
+
+Vorkenntnisse           Analysis, Lineare Algebra und analytische Geometrie
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte         3
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      18
+Modul Spezialvorlesung II Analysis/Optimierung
+Verantwortlicher          Professur Analysis, Professur Numerische Mathematik und
+                          Opti

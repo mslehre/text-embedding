@@ -1,0 +1,47 @@
+ukturen (C*-Algebren, von-Neumann-Algebren) der Theo-
+     rie der Operator-Algebren,
+   • Beherrschung der wichtigsten analytischen und algebraischen Methoden,
+   • Fähigkeit zur eigenständigen Entwicklung komplexer mathematischer Modelle,
+   • Kenntnis von den Anwendungen der Operator-Theorie, vor allem in der Quanten-
+     physik,
+   • Fähigkeit zur Kommunikation über Fachthemen, auch in einer Fremdsprache.
+
+Inhalt
+   • C*-Algebren, Spektrum
+   • Gelfand-Theorie der kommutativen Banach-Algebren
+   • positive Elemente, approximierende Einheiten
+   • Ideale, Polarzerlegung
+   • Gelfand-Naimark-Segal-Konstruktion
+   • von-Neumann-Algebren, schwache Operatortopologie, Doppelkommutantensatz
+   • Dichtheitssatz von Kaplansky
+   • L∞ -Funktionalkalkül
+
+Vorkenntnisse          Funktionalanalysis
+Prüfung               Die Modulprüfung besteht aus einer Klausur oder einer
+                       mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                       wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                       Thema der Prüfung.
+Note                   Note der Modulprüfung
+Aufwand                180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte        6
+Teilgebiet             Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      31
+Modul Randomisierte Algorithmen
+Verantwortlicher     Professuren Informatik
+Lehrformen           Vorlesung (4 SWS)
+Dauer/Zyklus         1 Sem., F: zweijährlich im geraden SoSe
+Qualifikationsziele
+   • Fähigkeit zur Analyse und zum Entwurf von randomisierten Algorithmen,
+   • Verständnis für die grundlegenden Probleme, die bei der Analyse und dem Ent-
+     wurf auftreten,
+   • Beherrschung einer Palette von Werkzeugen und Techniken, mit deren Hilfe diese
+     Probleme gelöst werden können.
+
+Inhalt
+   • Grundlegende Begriffe und Techniken (Typen von randomisierten Algorithmen,
+  

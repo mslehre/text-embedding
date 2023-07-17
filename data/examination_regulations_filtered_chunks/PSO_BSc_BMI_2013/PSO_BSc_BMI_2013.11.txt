@@ -1,0 +1,38 @@
+                       MATHEMATISCH‐NATURWISSENSCHAFTLICHE FAKULTÄT
+                                             Institut für Mathematik und Informatik
+
+
+                                                      Musterstudienplan
+                                                        Bachelor of Science
+                                                     Mathematik mit Informatik
+
+
+Die Modulprüfungen werden in Form einer 30‐minütigen mündlichen Prüfungsleistung, einer 90‐minütigen Klausur oder
+eines 60‐minütigen Vortrages (Seminare) abgelegt. Die Kriterien für den Erhalt eines Übungs‐scheines legt der Dozent in
+der ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+
+
+Musterstudienplan Bachelor Mathematik mit Informatik
+
+ Semester Veranstaltung                                                                          Art
+                                                                                                V Ü S D Prüfungsart      LP
+
+                  Analysis 1                                                                    4 2      2 Üs            9
+                  Lineare Algebra und analytische Geometrie 1                                   4 2      2 Üs            9
+       1
+
+
+
+
+                                                                                                                               33
+                  Algorithmen und Programmierung                                                4 2      1 mP+Üs/Kl+Üs   9
+                  Einführung in die Informatik                                                  2 2      2 Kl            6
+
+                  Analysis 2                                                                    4 2      2 mP+Üs/Kl+Üs   9
+                  Lineare Algebra und analytische Geometrie 2                                   4 2      2 mP+Üs/Kl+Üs   9
+       2
+
+
+
+
+                                                                                        

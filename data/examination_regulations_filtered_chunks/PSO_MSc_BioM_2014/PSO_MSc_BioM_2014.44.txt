@@ -1,0 +1,43 @@
+ung, so
+                        sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       24
+Modul Algorithmik und Komplexitätstheorie
+Verantwortlicher      Vorsitzender des Prüfungsausschusses
+Lehrformen            Vorlesung (4 SWS)
+Dauer/Turnus          1 Sem., zweijährlich im WiSe gerade Jahre
+Inhalt
+   • Motivation und Praxisrelevanz der Thematik
+   • Komplexitätsklassen, Hierarchie- und Separationssätze
+   • nichtdeterministische Maschinen und Komplexitätsklassen
+   • D-ND-Resultate bezüglich der Raumkomplexität
+   • Reduzierbarkeitsrelationen und vollständige Probleme
+   • NP-vollständige Probleme und die P-NP-Problematik
+   • vollständige Probleme für andere Komplexitätsklassen
+   • weitere Themen der strukturellen Komplexitätstheorie
+   • Anwendungen auf Optimierungs- und DV-Probleme
+
+Qualifikationsziele
+  • Kenntnis der grundlegenden Ergebnisse der strukturellen Komplexitätstheorie,
+  • Beherrschung der wesentlichen Techniken der Komplexitätstheorie,
+  • Kompetenz in Entwurf und Analyse von Algorithmen,
+  • Fähigkeiten in der Anwendung der Konzepte der theoretischen Informatik auf ma-
+     thematische und informatische Probleme.
+
+Vorkenntnisse           Vorlesungen ”Theoretische Informatik” und ”Datenstrukturen
+                        und effiziente Algorithmen”
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wi

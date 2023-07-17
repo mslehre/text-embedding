@@ -1,0 +1,48 @@
+ dem das Modul angeboten wird.
+
+
+
+
+                                       44
+Modul Stochastische Prozesse
+Verantwortlicher         Professur Stochastik, Professur Biomathematik, Professur
+                         Algebra und funktionalanalytische Anwendungen
+Lehrformen               Vorlesung (4 SWS)
+Dauer/Zyklus             1 Sem., F: zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • Kenntnis der grundlegenden Modelle zeitlicher Prozesse und ihrer Eigenschaf-
+     ten,
+   • Kenntnis der grundlegenden Charakteristika der Brownschen Bewegung und Be-
+     urteilung ihrer Bedeutung für die Modellbildung.
+
+Inhalt
+   • Grundbegriffe, Filtrationen, Stoppzeiten
+   • Markovprozesse in diskreter und kontinuierlicher Zeit
+   • Brownsche Bewegung (Wiener-Prozess)
+   • Martingale
+   • Stochastische Integration, stochastische Differentialgleichungen
+
+Vorkenntnisse            Stochastik I, Analysis I, II, Gewöhnliche Differentialgleichun-
+                         gen, Lineare Algebra I, II
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung.
+Note                     Note der Modulprüfung
+Aufwand                  180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Stochastik/Statistik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        45
+Modul Wahrscheinlichkeitstheorie
+Verantwortlicher     Professur Stochastik, Professur Statistik, Professur Algebra
+                     und funktionalanalytische Anwendungen
+Lehrformen           Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Zyklus         1 Sem., E: zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • Beherrschung der mathematischen Grundlagen der modernen Wahrscheinlich-
+     keitstheorie,
+   • Befähigung zur Formulierung, systematischen Einordnung und Lösung von sto-
+     chastischen Problemstellungen in der Sprache der Wahrscheinlichkeitstheorie,
+   • Überblick über die Vielfa

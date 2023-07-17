@@ -1,0 +1,46 @@
+      nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                        lesung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       12
+Modul Maß- und Integrationstheorie
+Verantwortlicher         Professur Analysis, Professur Biomathematik
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WiSe
+Inhalt
+Grundlagen der Maß- und Integrationstheorie:
+   • Konstruktion von Maßen
+   • Lebesguesche Integrationstheorie
+   • Produktmaße, Satz von Fubini
+   • Darstellungssätze (Riesz, Radon-Nikodym)
+   • Lp -Räume
+
+Weiterführende Themen, z.B.
+  • Lebesgue-Integral auf Untermannigfaltigkeiten des Rn , Differentialformen und
+     der Satz von Stokes
+  • Desintegration und bedingte Erwartungswerte
+
+Qualifikationsziele
+   • Kenntnis der Stärken und Anwendungen eines abstrakten Maß- und Integrati-
+     onsbegriffs als Grundlage für ein fortgeschrittenes Studium der Stochastik und
+     Analysis,
+   • Beherrschung der typischen analytischen und stochastischen Begriffsbildungen
+     und Verständnis ihrer Zusammenhänge,
+   • Beherrschung fortgeschrittener Beweistechniken,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Vorkenntnisse           Analysis I, II
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die Kriterien
+                        für den Erhalt eines Übungsscheines legt der Dozent in der
+                        ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+                        sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note         

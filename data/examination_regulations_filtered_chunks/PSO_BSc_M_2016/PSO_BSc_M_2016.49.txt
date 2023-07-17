@@ -1,0 +1,54 @@
+  9
+Modulart                Nebenfachmodul
+
+
+
+
+                                      43
+Modul T4: Theoretische Physik 4: Thermodynamik und Statistische Physik
+Verantwortlicher          Professur Theorie kondensierter Materie
+Lehrformen                Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus              1 Sem., jährlich im WS
+Qualifikationsziele
+   • Verständnis der Konzepte der Thermodynamik
+   • Verständnis der Begründung der Thermodynamik in der Statistischen Physik
+   • Vertrautheit mit einfachen Anwendungen im Gleichgewicht und Nichtgleichge-
+     wicht
+   • Fähigkeit, Probleme der Thermodynamik und Statistischen Physik selbständig zu
+     lösen
+
+Inhalt
+   • Grundlagen der Statistik und Wahrscheinlichkeitsrechnung, Gleichgewicht-
+     sensembles mit Anwendungen (Gittergas, Liouville-Theorem, statistischer
+     Operator, Maxwell-Boltzmann-Verteilung, Besetzungszahldarstellung), ideales
+     Bose/Fermi-Gas, Spinsysteme, Strahlungsfeld, Elemente der Thermodynamik
+     (Hauptsätze, Zustandsgleichungen), Reale Gase,
+   • Phasenübergänge, Ising-Modell, Nichtgleichgewichtsphänomene (Brownsche
+     Bewegung, Boltzmann-Gleichung, H-Theorem und Irreversiblität),
+   • Mathematische Ergänzungen
+
+Vorkenntnisse           keine
+Prüfung                unbenoteter Übungsschein, Klausur (120 Minuten) oder
+                        mündliche Prüfung (30 Minuten) nach Maßgabe des Dozen-
+                        ten
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Nebenfachmodul
+
+
+
+
+                                       44
+Experimentalphysik
+
+
+
+
+                45
+Modul E1: Experimentalphysik 1: Mechanik / Wärme
+Verantwortlicher         Professur Niedertemperaturplasmaphysik
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WS
+Qualifikationsziele
+   • Kenntnis der grundlegend

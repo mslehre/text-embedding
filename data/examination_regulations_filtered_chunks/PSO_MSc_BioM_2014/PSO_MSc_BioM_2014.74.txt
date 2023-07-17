@@ -1,0 +1,57 @@
+Ausgewählte Beispiele mikrobieller Interaktionen:
+   • Intraspezifische Interaktionen (Bacteria, Archaea)
+   • Interspezifische Interaktionen:
+        – Bacteria / Bacteria
+        – Bacteria / Archaea
+        – Prokaryonten / Pilze, Pflanzen
+        – Prokaryonten / Tiere
+        – Algen / Tiere
+        – Pilze / Pflanzen, Tiere
+   • Antibiose
+
+Vorlesung Moderne mikroskalige Methoden in der mikrobiellen Ökologie:
+   • Definition von Mikrohabitaten (marine Aggregate, Biofilme, Grenzflächen)
+   • Mikrosensoren in der mikrobiellen Ökologie
+   • Mikroelektroden
+       – Grundlegende elektrochemische Prozesse
+       – Clark-type Sauerstoffmikroelektroden
+       – Schwefelwasserstoffmikroelektroden
+       – pH- und Redoxpotentialmikroelektroden
+   • Mikrooptoden und planare Optoden
+   • Applikation von Mikrosensoren
+       – Interpretation und Modellierung von Sauerstoffmikroprofilen
+       – Kleinräumige Verteilung mikrobieller photosynthetischer und respiratori-
+          scher
+       – Prozesse
+       – In-situ Messungen
+       – State of the Art
+   • Biosensoren
+       – Zell- und Enzymsensoren
+       – Mikrobielle Biosensoren für die Messung ökosystemrelevanter
+       – Parameter
+       – Respirationsbasierte Biosensoren
+   • Mikroskalige Techniken zur Bestimmung mikrobieller Abundanz und Diversität
+
+Qualifikationsziele
+  • Kenntnisse und Anwendung grundlegender Konzepte und Methoden der mikro-
+     biellen Ökologie
+
+Vorkenntnisse            Grundkenntnisse der Ökologie
+Prüfung                 Zwei 60-minütige Klausuren zu zwei Vorlesungen, darunter
+                         Ökologie der Mikroorganismen II.
+Note                     Note der Modulprüfung
+
+
+
+
+                                         64
+Aufwand in h           300 (Vorlesungen: 150, Selbststudium: 150)
+Leistungspunkte        10
+Teilgebiet             Ökologie
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                    65
+Modul Plant Reproduct

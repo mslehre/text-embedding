@@ -1,0 +1,31 @@
+         270       9           1 Üs *         1.
+Programmierung                                                  1 mP/Kl        1.
+Einführung in die Infor-     2            240       8           1 Kl           1.
+matik/Computeralgebra-                                          1 Üs *         2.
+Systeme
+Theoretische Informatik      1            270       9           1 mP/Kl        4.
+Optimierung                  1            270       9           1 mP/Kl        4.
+Stochastik                   1            270       9           1 mP           3.
+                                                                1 Üs *         3.
+Praxis des                   1            270       9           1 Üs *         3.
+Programmierens
+
+                                                                                            4
+               
+
+
+Gewöhnliche Differential- 2               210       7           1 Üs *         3.
+gleichungen/Proseminar                                          1 mP           3.
+                                                                1 Sems *       4.
+Algebra I                    1            270       9           1 Üs *         3.
+                                                                1 mP/Kl        3.
+Numerik I                    1            270       9           1 Üs *         4.
+                                                                1 mP/Kl        4.
+Statistik                    1            270       9           1 Üs *         4.
+                                                                1 mP           4.
+Numerik Grundpraktikum 1                  180       6           1 Üs *         5.
+                                                                1 mP/Kl        5.
+Datenstrukturen und          1            270       9           1 Üs *         5.
+effiziente Algorithmen                                          1 mP           5.
+Praktikum                    1            180       6           1 Üs *         6.
+Softwarete

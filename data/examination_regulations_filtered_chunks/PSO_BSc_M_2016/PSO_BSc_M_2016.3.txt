@@ -1,0 +1,40 @@
+inar- und einem
+Nebenfachbereich.
+
+(2) Alle Module des Pflichtbereiches müssen belegt werden. Der Pflichtbereich
+besteht aus folgenden Modulen:
+
+       Modul                             D   AB    LP   PL und PA RPT
+
+ P1    Analysis                          2   540   18   2 ÜS         1. und
+                                                        1 mP/K       2. 2.
+ P2    Lineare Algebra und analytische   2   540   18   2 ÜS         1. und
+       Geometrie                                        1 mP/K       2. 2.
+ P3    Algorithmen und Programmierung/ 2     330   11   2 ÜS         1. und
+       Computeralgebra                                  1 K/mP       2. 1.
+ P4    Optimierung                       1   270    9   1 mP/K       6.
+
+
+
+                                                                              3
+ P5    Stochastik                           1   270   9     1 ÜS        5.
+                                                            1 mP        5.
+ P6    Gewöhnliche                          1   150   5     1 ÜS        3.
+       Differentialgleichungen                              1 mP        3.
+ P7    Algebra I                            1   270   9     1 ÜS        5.
+                                                            1 mP/K      5.
+ P8    Numerik I                            1   270   9     1 ÜS        6.
+                                                            1 mP/K      6.
+ P9    Maß- und Integrationstheorie         1   270   9     1 ÜS        5.
+                                                            1 mP/K      5.
+ BA    Bachelorarbeit                       1   360   12                6.
+
+
+(3) Der Aufbaubereich besteht aus folgenden Modulen, aus denen Module im
+Umfang von mindestens 30 LP auszuwählen sind:
+
+       Modul                                          D    AB LP PL und PA
+
+ A1    Algebra II                                     1    270   9   1 ÜS
+                                                                     1 mP/K
+ A

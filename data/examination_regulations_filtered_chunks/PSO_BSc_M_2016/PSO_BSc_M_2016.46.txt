@@ -1,0 +1,51 @@
+narmodul
+
+
+
+
+                                       38
+Modul S3: Seminar mit Ausarbeitung
+Verantwortlicher            Professur Analysis, Professur Numerische Mathematik und
+                            Optimierung, Professur Angewandte Mathematik, Professu-
+                            ren Informatik, Professur Algebra und funktionalanalytische
+                            Anwendungen, Professur Algebraische Methoden der Ana-
+                            lysis, Professur Diskrete Biomathematik
+Lehrformen                  Seminar (2 SWS)
+Dauer/Turnus                1 Sem., jedes Semester
+Qualifikationsziele
+   • Fähigung zur Literaturrecherche, zum Lesen, Verstehen, Einordnen und Bewer-
+     ten von mathematischer Literatur,
+   • Erweiterung der Fähigkeiten zur didaktischen Aufbereitung und Präsentation im
+     Rahmen eines Seminarvortrags,
+   • Kompetenzen in der Diskussionsführung,
+   • Fähigkeit zur schriftlichen Ausarbeitung eines mathematischen Themas.
+
+Inhalt
+   • ergänzende Themen aus dem Bereich Analysis/Optimierung, aus dem Be-
+     reich Diskrete Mathematik/Algorithmik/Algebra oder aus dem Bereich Stochas-
+     tik/Statistik
+
+Vorkenntnisse            Analysis, Lineare Algebra
+Prüfung                 Die Modulprüfung besteht aus einem Referat (90 min) zu ei-
+                         nem vereinbarten Thema und einer schriftlichen Ausarbei-
+                         tung (10-15 Seiten) dieses Referates. Außerdem wird eine
+                         aktive und regelmäßige Teilnahme am Seminar erwartet.
+Note                     keine
+Aufwand in h             180 (Seminar: 30, Ausarbeitung: 30, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Seminarmodul
+
+
+
+
+                                        39
+Theoretische Physik
+
+
+
+
+                 40
+Modul T1: Theoretische Physik 1: Klassische Mechanik
+Verantwortlicher         Professur Theorie dichter Plasmen
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus       

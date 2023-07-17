@@ -1,0 +1,51 @@
+m., Übung 2: 2. Sem., Modulprüfung: 2. Sem
+
+
+                                          6
+Modulart   Pflichtmodul
+
+
+
+
+                          7
+Modul Algorithmen und Programmierung
+Verantwortlicher     Professuren Informatik
+Lehrformen           Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus         1 Sem., jährlich im WS
+Qualifikationsziele
+   • grundlegendes Verständnis für den Begriff des Algorithmus,
+   • Kompetenzen in der Bewertung von Algorithmen hinsichtlich Ihrer Leis-
+     tungsfähigkeit,
+   • Befähigung zum Entwurf einfacher Algorithmen,
+   • Befähigung zur Erstellung einfacher Programme in JAVA.
+
+Inhalt
+   • grundlegende algorithmische Probleme (Suchen, Sortieren)
+   • elementare Datenstrukturen (Listen, Stacks, Queues, Suchbäume)
+   • Entwurfstrategien für Algorithmen (Teile und Herrsche, Greedy)
+   • Analyse von Algorithmen (O-Notation, Laufzeit, Speicherbedarf)
+   • grundlegende Aspekte der objektorientierten Programmierung in JAVA
+
+Vorkenntnisse         Abitur
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                      Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                      woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                      Übungsaufgaben erfolgreich zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte       9
+Regelprüfungstermine Übung: 1. Sem., Modulprüfung: 1. Sem.
+Modulart              Pflichtmodul
+
+
+
+
+                                      8
+Modul Einführung in die Informatik (EI)/ Computeralgebra-Systeme (CAS)
+Verantwortlicher         Professuren Informatik
+Lehrformen               Vorlesung (2 SWS) und Übung (4 SWS)
+Dauer/Turnus             2 Sem., jährlich, EEDV im WS, CAS im SoSe
+Qualifikationsziele
+EI:
+    • grundlegende Fähigkeiten zum Einsatz von informa

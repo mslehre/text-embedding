@@ -1,0 +1,42 @@
+     min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                         ten.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Wahlmodul
+
+
+
+
+                                         31
+Modul A14: Statistik
+Verantwortlicher        Professur Biomathematik, Professur Algebra und funk-
+                        tionalanalytische Anwendungen, Juniorprofessur Stochas-
+                        tik/Statistik
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im SoSe
+Qualifikationsziele
+   • Verständnis für die grundlegenden Fragestellungen der Statistik,
+   • Befähigung zur systematischen Formulierung, Einordnung und adäquaten
+     Lösung von einfachen statistischen Problemen,
+   • Beherrschung von Standardschätz- und Testverfahren und deren Anwendung
+     mithilfe von Statistik-Software,
+   • Verständnis für die Breite der statistischen Verfahren,
+   • Kompetenz zur sicheren Beurteilung der Ergebnisse statistischer Standardme-
+     thoden,
+   • Beherrschung des nötigen Grundwissens für fortgeschrittene Lehrveranstaltun-
+     gen aus dem Bereich Statistik.
+
+Inhalt
+   • Grundlegende Fragestellungen der deskriptiven und der schließenden Statistik
+   • Statistische Modellierung und Verteilungsannahmen
+   • Punktschätzer, Konfidenzbereiche, statistische Tests
+   • Einfache Gütekriterien für Schätzer und Tests
+   • Weiterführende Fragestellungen: Varianzanalyse, multiples Testen, robuste Ver-
+     fahren, nichtparametrische Verfahren, Bootstrap
+   • Verwendung von Statistik-Software (Übungen)
+
+Vorkenntnisse           Analysis I, II, Lineare Algebra I, Stochastik
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) und dem Erwerb eines unbenoteten Übungsscheines.
+                        Die Kriterien für den Erhal

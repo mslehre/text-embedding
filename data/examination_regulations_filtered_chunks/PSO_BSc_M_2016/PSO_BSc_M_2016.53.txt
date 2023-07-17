@@ -1,0 +1,43 @@
+  tallen, akustische und optische Phononen, Dispersionsrelationen, Spezifische
+     Wärme, Anharmonische Effekte
+   • Freies Elektronengas in Metallen, Fast-freie Elektronen im Kristall (Blochsches
+     Theorem, Energielücken, Fermi-Oberflächen und Brillouin- Zonen, Übergang zu
+     Halbleitern und Isolatoren), Bandstrukturen, Ladungsträgerstatistik, Dotierung,
+     pn-Übergang, Dielektrische Eigenschaften, Optische Anregungen in Metallen
+     und Halbleitern, Plasmonen und Polaritonen, Magnetisierung, Dia-, Para-, Ferro-
+     und Antiferromagnetismus, Supraleitung (Meißner- Effekt, London-Gleichung),
+     Cooper-Paare, Flussquantisierung, Josephson-Effekt
+
+Vorkenntnisse             keine
+Prüfung                  unbenoteter Übungsschein, mündliche Prüfung (30 Minuten)
+                          oder Klausur (90 Minuten) nach Maßgabe des Dozenten
+Note                      Note der Modulprüfung
+Aufwand in h              210 (Vorlesung: 45, Übung: 15, Selbststudium: 150)
+Leistungspunkte           7
+Modulart                  Nebenfachmodul
+
+
+
+
+                                          49
+Nebenfach Informatik
+
+
+
+
+                 50
+Modul I1: Theoretische Informatik
+Verantwortlicher           Professuren Informatik
+Lehrformen                 Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus               1 Sem., jährlich im SoSe
+Qualifikationsziele
+   • Kenntnis der grundlegenden Eigenschaften und Grenzen der Berechenbarkeit,
+   • Verständnis der Bedeutung der Berechenbarkeit für die Informatik,
+   • Verständnis für mathematische Modelle informationsverarbeitender Systeme und
+     deren Anwendung,
+   • Befähigung zum Vergleich von Typen formaler Sprachen und zugehöriger Akzep-
+     tortypen bezüglich ihrer Leistungsvermögen,
+   • Verständnis und Beherrschung des Wechselspiels zwischen mathematischer In-
+     tuition und ihrer Präzisierung durch formale Systeme,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion in
+    

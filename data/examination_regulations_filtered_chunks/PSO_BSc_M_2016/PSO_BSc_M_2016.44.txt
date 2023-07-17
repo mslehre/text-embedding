@@ -1,0 +1,51 @@
+ Anwendungen, Professur Algebraische Methoden der Ana-
+                       lysis, Professur Diskrete Biomathematik
+Lehrformen             Vorlesung (4 SWS)
+Dauer/Turnus           1 Sem., nach Bedarf
+Qualifikationsziele
+Grundlegende Kenntnisse und fundierte Kompetenzen in einem ausgewählten Spezi-
+algebiet.
+Inhalt
+   • Spezielle Themen aus der Mathematik
+
+Vorkenntnisse           nach Bedarf
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                        ten.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Modulart                Wahlmodul
+
+
+
+
+                                      35
+Seminare
+
+
+
+
+           36
+Modul S1: Proseminar
+Verantwortlicher         Professur Analysis, Professur Numerische Mathematik und
+                         Optimierung, Professur Angewandte Mathematik, Professu-
+                         ren Informatik, Professur Algebra und funktionalanalytische
+                         Anwendungen, Professur Algebraische Methoden der Ana-
+                         lysis, Professur Diskrete Biomathematik
+Lehrformen               Proseminar (2 SWS)
+Dauer/Turnus             1 Sem., Proseminar: jährlich im SoSe
+Qualifikationsziele
+   • Befähigung, mathematische Inhalte insbesondere durch Literaturstudium ei-
+     genständig zu erwerben und zu vertiefen,
+   • Befähigung, einen strukturierten, effizienten und auf die Kompetenzen des Publi-
+     kums zugeschnittenen Vortrag zu halten,
+   • Kompetenzen in der Diskussionsführung.
+
+Inhalt
+   • ergänzende Themen aus der Analysis und der linearen Algebra, aufbauend auf
+     den Vorlesungen Analysis I und II und Lineare Algebra
+
+Vorkenntnisse            Analysis, Lineare Algebra
+Prüfung                 Die Modulprüfung besteht aus einem Referat (60 min) zu ei-
+                         nem verein

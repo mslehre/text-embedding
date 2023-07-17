@@ -1,0 +1,44 @@
+ichten und im Zentralen Prüfungsamt einzureichen.
+
+(2) Studierende, denen nach § 43 RPO erbrachte Leistungsnachweise angerechnet wer-
+den, die sich nur auf einen Teil einer Modulprüfung beziehen, können über den fehlenden
+Teil des Moduls eine Teilprüfung ablegen.
+
+
+                                             §6
+                                            Module
+
+(1) Im Bachelorstudiengang werden folgende Module studiert:
+
+                                                                                             3
+           
+
+
+
+
+Legende:
+AB       Arbeitsbelastung in Stunden
+LP       Leistungspunkte
+PL       Prüfungsleistungen (Umfang nach § 7, Absatz 2)
+RPT      Regelprüfungstermin
+mP       mündliche Prüfung
+Kl 90    Klausur, Dauer 90 Minuten
+mP/Kl 90 mündliche Prüfung oder Klausur
+Üs       Übungsschein
+SV       Seminarvortrag
+TB       Teilnahmebestätigung
+*        Prüfungsleistung ist unbenotet
+
+Modul                           Dauer        AB        LP       PL                 RPT
+                                (Semester)                                         (Semester)
+Analysis                        2            540       18       2 Üs*              1. und 2.
+                                                                1 mP/Kl 90         2.
+Lineare Algebra und       2                  540       18       2 Üs*              1. und 2.
+analytische Geometrie                                           1 mP/Kl 90         2.
+Algorithmen und           2                  330       11       1 Üs*              1.
+Programmierung/ Com-                                            1 mP/Kl 90         1.
+puteralgebra                                                    1 Üs*              2.
+Diskrete Strukturen in    1                  270       9        1 Üs*              2.
+der Biologie                                                    1mP/Kl 90          2.
+Gewöhnliche Differential- 1                  210       7        1 Üs*              3.
+gleichungen/Proseminar         

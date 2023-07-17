@@ -1,0 +1,43 @@
+alyse von dynamischen Prozessen und Verständnis für deren
+     praktische Bedeutung,
+  • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Proseminar:
+   • Befähigung zur selbständigen Beschäftigung mit einem mathematischen Thema,
+   • Befähigung, einen strukturierten, effizienten und auf die Kompetenzen des Publi-
+     kums zugeschnittenen Vortrag zu halten,
+   • Kompetenzen in der Diskussionsführung.
+
+Vorkenntnisse             Analysis, Lineare Algebra
+Prüfung                  Gewöhnliche Differentialgleichungen: Die Modulprüfung be-
+                          steht aus einer 30-minütigen mündlichen Prüfung. Die Krite-
+                          rien für den Erhalt eines Übungsscheines legt der Dozent in
+                          der ersten Vorlesungswoche fest. Erfolgt keine Festlegung,
+                          so sind 50 % der Übungsaufgaben erfolgreich zu bearbei-
+                          ten. Proseminar: Die Prüfungsleistung besteht aus einem
+                          60-minütigen Vortrag zu einem vereinbarten Thema.
+
+                                         11
+Note                   Note der Modulprüfung
+Aufwand in h           210 (Vorlesung: 30, Übung: 15, Seminar: 30, Selbststudium:
+                       135)
+Leistungspunkte        7
+Modulart               Pflichtmodul im 3. und 4. Sem.
+Regelprüfungstermin   Übung: 3. Sem., Modulprüfung: 3. Sem., Proseminar: 4.
+                       Sem.
+
+
+
+
+                                     12
+Modul Stochastik
+Verantwortlicher         Professur Stochastik
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WiSe
+Inhalt
+Grundlegende Konzepte und Denkweisen der Stochastik:
+   • Wahrscheinlichkeitsraum, Ereignisse und Zufallsgrößen
+   • Verteilung, Verteilungsfunktion und Dichtefunktion, Erwartungswert und Streu-
+     ung, Quantile
+   • bedingte Wahrscheinlichkeit, Unabhängigkeit, Korrelation, Regre

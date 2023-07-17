@@ -1,0 +1,42 @@
+ng von Zufallsgrößen, Zentraler Grenzwertsatz, Einführung in Markov-
+     Ketten, Grundideen der Statistik, Poisson-Prozess
+
+Vorkenntnisse           Analysis I, Lineare Algebra I
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) und dem Erwerb eines unbenoteten Übungsscheines.
+                        Die Kriterien für den Erhalt eines Übungsscheines legt der
+                        Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                        Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                        zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul
+
+
+
+
+                                       11
+Modul P6: Gewöhnliche Differentialgleichungen
+Verantwortlicher         Professur Analysis
+Lehrformen               Vorlesung (2 SWS) und Übung (1 SWS)
+Dauer/Turnus             1 Sem., jährlich im WS
+Qualifikationsziele
+   • Kenntnisse über die Lösbarkeit gewöhnlicher Differentialgleichungen,
+   • Befähigung zur Lösung spezieller Typen von Differentialgleichungen,
+   • Beherrschung von einfachen Problemen aus der Physik, Biologie und Technik,
+     die sich durch gewöhnliche Differentialgleichungen beschreiben lassen,
+   • Befähigung zur Analyse von dynamischen Prozessen und Verständnis für deren
+     praktische Bedeutung,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Grundbegriffe, Definition, Anfangswertproblem, autonome Differentialgleichun-
+     gen
+   • Lösungstheorie: Existenz- und Eindeutigkeit einer Lösung, Abhängigkeit von den
+     Anfangsbedingungen
+   • lineare Differentialgleichungssysteme: Grundlagen, Beziehung zwischen ho-
+     mogener und inhomogener Gleichung, Exponential von Matrizen, Wronski-
+     Determinante
+   • Differentia

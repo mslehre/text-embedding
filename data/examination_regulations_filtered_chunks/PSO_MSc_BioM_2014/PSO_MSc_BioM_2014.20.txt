@@ -1,0 +1,44 @@
+                                            31
+            Theoretische Ökologie                         1         4      1 mP/Kl90          6
+            Praktikum Softwaretechnik                     2         1 3    1 Üs*              6
+            Tierökologie beginnt                          5         2 5    2 Kl60,Pr*         7
+
+            Differentialgleichungen in der Biologie       1         3 1   1 mP                 6
+            Tierökologie endet                            5         1   2 2 Sems*              3
+    2
+
+
+
+
+                                                                                                    29
+            Pflanzenökologie                              5         6   2 2 2 Kl60, Sems*     10
+            Plant Reproductive Biology                    5         4 5   2 Kl60, Pr*         10
+
+            Dynamische Systeme                            1         3 1   1 mP                6
+            Optimale Steuerung                            1         3 1   1 mP/Kl90           6
+    3
+
+
+
+
+                                                                                                    30
+            Seminar B                                     4             2 1 Sems*, Ausarb.*   6
+            Zeitreihenanalyse                             3         2 2   1 mP                6
+            Masterarbeit beginnt                                          2                   6
+
+            Nichtlineare Optimierung                      1         4      1 mP/Kl90          6
+    4
+
+
+
+
+                                                                                                    30
+            Masterarbeit abgeschlossen                                     2                  24
+
+                                                                             Summe            120
+
+Musterstudienplan Master Biomathematik
+(Schwerpunkt Stochastik/Statistik und Physiologie)
+Studienbeginn: ungerades Sommersemester, z.B. Sommersemester 2015
+
+Semes

@@ -1,0 +1,51 @@
+ Modul angeboten wird.
+
+
+
+
+                                       46
+Modul Räumliche Statistik
+Verantwortlicher       Professur Biomathematik
+Lehrformen             Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus           1 Sem., zweijährlich im SoSe gerade Jahre
+Inhalt
+   • Zufallsfelder in stetigem Raum und stetiger Zeit: Mittelwert und Covariogramm-
+     Schätzung
+   • Punktprozesse und Charakteristiken: Poissonprozess, K- und L-Funktion, Mo-
+     mentenmaße, Schätzung und Inferenz
+   • Zufällige Mengen und Maße, Boolsches Modell
+   • Anwendungsbeispiele
+
+Qualifikationsziele
+  • Kenntnis der grundlegenden Modelle verallgemeinert stationärer räumlicher und
+     räumlich-zeitlicher Prozesse und der grundlegenden Methoden zur Schätzung
+     ihrer Charakteristika,
+  • Kenntnis der grundlegenden Modelle für Punktprozesse und der grundlegenden
+     Methoden zur Schätzung ihrer Charakteristika,
+  • Beherrschung der Auswahl, Bewertung und praktischen Anwendung statistischer
+     Methoden auf räumlich und räumlich-zeitliche Datensätze.
+
+Vorkenntnisse           Stochastik I, Lineare Algebra I, II
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung. Die aktive Teilnahme an der Übung
+                        wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                        Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       47
+Modul Spezialvorlesung I Stochastik/Statistik
+Verantwortlicher      Professur Stochastik, Professur Statistik
+Lehrformen            Vorlesung (2 SWS)
+Dauer/Turnus          1 Sem., nach Bedarf
+Inhalt
+   • Spezielle Themen aus Stochastik / Statistik
+
+Qualifikationsziele
+Vertiefte Kenntnis

@@ -1,0 +1,52 @@
+te von Vor-
+                        lesung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       34
+Modul Kombinatorik
+Verantwortlicher        Professur Stochastik, Professur Biomathematik
+Lehrformen              Vorlesung (4 SWS)
+Dauer/Turnus            1 Sem., zweijährlich im SoSe ungerade Jahre
+Inhalt
+   • Wörter, Auswahlen, Teilmengen, Zählprinzipien
+   • Abzählprobleme für Permutationen
+   • Rekursionen
+   • Summationen, Erzeugende Funktionen
+   • Differenzenrechnungen, Diskrete Intergration, Inversionen
+   • Muster, Abzählung von Mustern
+   • Orthogonale lateinische Quadrate, Blockpläne, affine Geometrien
+
+Qualifikationsziele
+   • fundiertes Verständnis für die grundlegenden Prinzipien der Kombinatorik,
+   • Beherrschung von algebraischen Methoden zum Zwecke der Lösung kombinato-
+     rischer Probleme.
+
+Vorkenntnisse           Algebra
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       35
+Modul Mathematische Logik
+Verantwortlicher     Vorsitzender des Prüfungsausschusses
+Lehrformen           Vorlesung (4 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im SoSe gerade Jahre
+Inhalt
+   • Syntax, Semantik und Beweiskalküle der Aussagenlogik und der Prädikatenlogik
+     erster Stufe
+   • Vollständigkeitssätze, insbesondere Gödelscher Vollständigkeitssatz
+   • 

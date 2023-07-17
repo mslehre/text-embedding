@@ -1,0 +1,48 @@
+               Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                         Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                         zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 15, Übung: 45, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Diskrete Mathematik/Algorithmik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        38
+Modul Randomisierte Algorithmen
+Verantwortlicher     Professuren Informatik
+Lehrformen           Vorlesung (4 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im geraden SoSe
+Inhalt
+   • Grundlegende Begriffe und Techniken (Typen von randomisierten Algorithmen,
+     Laufzeit als Erwartungswert, Chernoff-Schranken, probabilistische Methode,
+     Random Walks)
+   • Randomisierte Datenstrukturen
+   • Randomisierte Algorithmen für Probleme auf Graphen
+   • Randomisierte Algorithmen für Probleme aus der Zahlentheorie
+   • Randomisierte Approximationsalgorithmen
+
+Qualifikationsziele
+   • Fähigkeit zur Analyse und zum Entwurf von randomisierten Algorithmen,
+   • Verständnis für die grundlegenden Probleme, die bei der Analyse und dem Ent-
+     wurf auftreten,
+   • Beherrschung einer Palette von Werkzeugen und Techniken, mit deren Hilfe diese
+     Probleme gelöst werden können.
+
+Vorkenntnisse           Algorithmen und Programmierung, Stochastik, Theoretische
+                        Informatik
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       39
+Modul Spezialvorlesung I Diskrete Mathematik/Algo

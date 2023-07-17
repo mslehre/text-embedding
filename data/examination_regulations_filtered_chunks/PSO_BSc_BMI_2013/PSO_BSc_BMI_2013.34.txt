@@ -1,0 +1,48 @@
+formen              Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., zweijährlich im WS
+Qualifikationsziele
+   • Befähigung zum Entwurf eines relationalen Datenbankschemas,
+   • Kompetenz zur Bewertung eines solchen anhand von objektiven Kriterien wie
+     funktionellen Abhängigkeiten,
+   • Kompetenz zur Formulierung von Datenbankabfragen, auch bei Verknüpfung
+     mehrerer Tabellen,
+   • Kenntnis der Datenstrukturen und Methoden, mit denen eine Datenbank intern
+     die Daten organisiert, unter Berücksichtigung von Datensicherheit beim Ausfall
+     von Hardware,
+   • Kompetenz zur Implementierung von Datenbankanwendungen in wenigstens ei-
+     ner Programmiersprache.
+
+Inhalt
+   • Datenbankarchitektur
+   • relationales Datenmodell
+   • Datenbankabfragesprache SQL
+   • Entity-Relationship-Modell
+   • Normalformen
+   • Dateiorganisation und Indizes
+   • XML
+   • Datenbankanwendungen
+
+Vorkenntnisse         Einführung in die EDV, Algorithmen und Programmierung
+Prüfung              Die Modulprüfung besteht aus einer mündlichen Prüfung.
+                      Die aktive Teilnahme an den Übungen wird erwartet. Die In-
+                      halte von Vorlesung und Übung sind Thema der Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 5. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                       26
+Modul Differentialgeometrie
+Verantwortlicher      Professur Analysis
+Lehrformen            Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus          1 Sem., zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • Kenntnisse über Mannigfaltigkeiten und Untermannigfaltigkeiten,
+   • Kompetenzen im analytischen Umgang mit gekrümmten Objekten,
+   • Befähigung zur koordinatenfreien Erfassung und Beschreibung von mathemati-
+     schen Eigenschaften von Mannigfaltigkeiten,
+   • Kenntnisse über den Zusa

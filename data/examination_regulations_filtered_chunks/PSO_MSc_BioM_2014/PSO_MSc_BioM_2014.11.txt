@@ -1,0 +1,35 @@
+            1            180      6          mP/Kl 90          C
+Stochastische Modelle der                1            180      6          mP/Kl 90          C
+Biologie
+Stochastische Prozesse                   1            180      6          mP                F
+Wahrscheinlichkeitstheorie               1            270      9          mP+Üs*            E
+Zeitreihenanalyse                        1            180      6          mP                B
+
+  4. Seminarmodule A und B
+
+Modul                       Dauer        AB           LP       PL                           MZ
+                            (Semester)   (Stunden)
+Seminarmodul A              2            180          6        2 Seminarvorträge            G
+                                                               ohne schriftliche
+                                                               Ausarbeitung*
+Seminarmodul B              1            180          6        1 Seminarvortrag mit         G
+                                                               schriftlicher
+                                                               Ausarbeitung*
+
+
+
+                                                                                                8
+       
+
+
+  5. Modulbereich Ökologie
+
+Modul                                   Dauer        AB        LP         PL             MZ
+                                        (Semester)
+Tierökologie                            2            300       10         1 Kl 60        AB
+                                                                          1 SV*
+                                                                          1 Pr*
+Pflanzenökologie                        2            300       10         2 Kl 60        AB
+                                                                          1 SV*
+Mikrobielle Ökologie                    2            300       10         2 Kl 60        AB
+Plant Reproductive Biology              2            300       10         1 

@@ -1,0 +1,43 @@
+,
+   • Kenntnisse über Querverbindungen und den Erfolg des Zusammenwirkens von
+     Methoden aus unterschiedlichen Bereichen (etwa der Analysis, Funktionentheo-
+     rie und Funktionalanalysis).
+
+Inhalt
+   • Konvergenz von Fourierreihen
+   • Faltungsprodukte
+   • Fourierinversionsformel, Satz von Plancherel
+   • Testfunktionenräume und Distributionen
+   • Schwartzraum, temperierte Distributionen und deren Fouriertransformation
+   • Sobolevräume, das Konzept schwacher Ableitungen, Einbettungssätze, Hilber-
+     traummethoden
+   • Anwendungen der Theorie auf partielle Differentialgleichungen, insbesondere
+     solcher aus der mathematischen Physik, Fundamentallösungen
+   • Anwendungen in der Variationsrechnung, Formulierung von Randwertproblemen
+
+Vorkenntnisse            Analysis I, II; Maß- und Integrationstheorie
+Prüfung                 Die Modulprüfung besteht aus einer Klausur oder einer
+                         mündlichen Prüfung.
+Note                     Note der Modulprüfung
+Aufwand                  180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        10
+Modul Funktionalanalysis
+Verantwortlicher      Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen            Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Zyklus          1 Sem., F: zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • fundierte Kenntnisse der typischen Probleme der unendlich dimensionalen Theo-
+     rie und deren Anwendungen,
+   • Wissen über die enge Verzahnung von Reiner und Angewandter Mathematik
+     (mathematische Physik, Signaltheorie),
+   • Befähigung zu mathematischen Arbeitsweisen (Entwicklung mathematischer In-
+     tuition und deren formale Begründung, Schulung des Abstraktionsvermögens,
+     Beweisführung),
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Disk

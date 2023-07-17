@@ -1,0 +1,23 @@
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      11
+  Funktionentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       12
+  Maß- und Integrationstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . .        13
+  Nichtlineare Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        14
+  Numerik II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    15
+  Numerik Grundpraktikum . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          16
+  Optimale Steuerung / Variationsrechnung . . . . . . . . . . . . . . . . . . . .           17
+  Partielle Differentialgleichungen . . . . . . . . . . . . . . . . . . . . . . . . . .     18
+  Spezialvorlesung I Analysis/Optimierung . . . . . . . . . . . . . . . . . . . . .         19
+  Spezialvorlesung II Analysis/Optimierung . . . . . . . . . . . . . . . . . . . .          20
+  Theoretische Ökologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      21
+
+Diskrete Mathematik / Algorithmik                                                           22
+   Algebra I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    23
+   Algebra II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   24
+   Algorithmik und Komplexitätstheorie . . . . . . . . . . . . . . . . . . . . . . .       25
+   Berechenbarkeitstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      26
+   Bioinformatik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    27
+   Codierungstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      28
+   Computergrafik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     29
+   Datenbanken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      30
+   Datenstrukturen und effiziente Algorithmen . . . . . . . . . . . . . . . . . . .         31
+   Diskrete Modellierung in der 

@@ -1,0 +1,44 @@
+e
+Inhalt
+Grundlagen der Markov-Prozesse und biologische Anwendungen:
+   • Markov-Ketten, Strukturbestimmung, Mittelwertregeln für absorbierende Ketten
+     und Grenzverhalten für irreduzible Ketten
+   • Galton-Watson Verzweigungsprozesse
+   • Stochastische Modelle in der Populationsgenetik
+   • Markov-Prozesse in stetiger Zeit
+
+Qualifikationsziele
+   • Beherrschung der Theorie endlicher homogener Markov-Ketten und ihrer Anwen-
+     dung als einfaches Modellierungswerkzeug,
+   • Kenntnis einer Reihe von grundlegenden Modellen in der Biologie,
+   • Gefestigte und erweiterte Kenntnisse aus Stochastik, Lineare Algebra und Dis-
+     krete Strukturen,
+   • Beherrschung von Grundkonzepten und motivierenden Beispielen für wei-
+     terführende Module (Stochastische Prozesse, Molekulare Evolution, Spieltheorie,
+     Dynamische Systeme).
+
+Vorkenntnisse           Analysis, Lineare Algebra, Stochastik, Differentialgleichun-
+                        gen
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                        nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                        lesung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       51
+Modul Stochastische Prozesse
+Verantwortlicher          Professur Stochastik, Professur Biomathematik, Professur
+                          Algebra und funktionalanalytische Anwendungen
+Lehrformen                Vorlesung (4 SWS)
+Dauer/Turnus              1 Sem., zweijährlich im SoSe gerade Jahre
+Inhalt
+   • Grundbegriffe, Filtrationen, Stoppzeiten
+   • Markovprozesse in diskreter und kontinuierlicher Zeit
+   • B

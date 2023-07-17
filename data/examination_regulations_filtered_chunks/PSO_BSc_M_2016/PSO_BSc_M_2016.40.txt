@@ -1,0 +1,46 @@
+teten Übungsscheines.
+                        Die Kriterien für den Erhalt eines Übungsscheines legt der
+                        Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                        Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                        zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Wahlmodul
+
+
+
+
+                                       30
+Modul A13: Partielle Differentialgleichungen
+Verantwortlicher         Professur Analysis
+Lehrformen               Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus             1 Sem., jährlich im WS
+Qualifikationsziele
+   • Kenntnisse über die fundamentalen Typen von Differentialgleichungen (Laplace-
+     gleichung, Wärmeleitungsgleichung, Wellengleichung),
+   • Befähigung, Probleme mathematisch mit Hilfe partieller Differentialgleichungen
+     zu formulieren,
+   • Beherrschung analytischer Lösungsmethoden,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+Partielle Differentialgleichungen 1. Ordnung:
+   • Charakteristikenmethode
+   • Vollständiges Integral
+   • Hamilton-Jacobi-Theorie
+
+Partielle Differentialgleichungen 2. Ordnung:
+   • Laplace-Gleichung (Fundamentallösung, Darstellungsformeln, Greensche Funk-
+      tion, Dirichlet-Problem für die Kugel, Maximumprinzip)
+   • Wärmeleitungsgleichung (Fundamentallösung, Anfangs-Randwertproblem, Ma-
+      ximumprinzip)
+   • Wellengleichung (Anfangswertproblem, Duhamelsches Prinzip)
+   • Hilbertraummethoden bei elliptischen Randwertproblemen (Einführung)
+
+Vorkenntnisse            Analysis, Gewöhnliche Differentialgleichungen
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                         min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                         ten.
+Note    

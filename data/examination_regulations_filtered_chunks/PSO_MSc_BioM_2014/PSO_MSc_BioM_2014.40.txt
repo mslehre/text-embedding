@@ -1,0 +1,45 @@
+ierung
+Verantwortlicher      Professur Analysis, Professur Numerische Mathematik und
+                      Optimierung, Professur Angewandte Mathematik, Professur
+                      Algebraische Methoden der Analysis
+Lehrformen            Vorlesung (2 SWS)
+Dauer/Turnus          1 Sem., nach Bedarf
+Inhalt
+   • Spezielle Themen aus Analysis / Optimierung
+
+Qualifikationsziele
+Vertiefte Kenntnisse und erweiterte Kompetenzen in einem ausgewählten Spezialge-
+biet.
+Vorkenntnisse            Analysis, Lineare Algebra und analytische Geometrie
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung.
+Note                     Note der Modulprüfung
+Aufwand in h             90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte          3
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      19
+Modul Spezialvorlesung II Analysis/Optimierung
+Verantwortlicher       Professur Analysis, Professur Numerische Mathematik und
+                       Optimierung, Professur Angewandte Mathematik, Professur
+                       Algebraische Methoden der Analysis
+Lehrformen             Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus           1 Sem., nach Bedarf
+Inhalt
+   • Spezielle Themen aus Analysis / Optimierung
+
+Qualifikationsziele
+Umfangreiche, vertiefte Kenntnisse und umfassende Kompetenzen in einem aus-
+gewählten Spezialgebiet.
+Vorkenntnisse             Analysis, Lineare Algebra und analytische Geometrie
+Prüfung                  Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                          oder einer 30-minütigen mündlichen Prüfung.
+Note                      Note der Modulprüfung
+Aufwand in h              180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte           6
+Teilgebiet                Analysis/Optimierung
+Regelprüfungstermin Seme

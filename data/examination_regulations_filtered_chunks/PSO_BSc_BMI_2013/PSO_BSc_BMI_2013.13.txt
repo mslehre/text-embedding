@@ -1,0 +1,46 @@
+5
+                                                                                                                               30
+
+
+
+
+                  Wahlmodul Typ 1                                                               4        1 mP/Kl         6
+                  Wahlmodul Typ 1                                                               4        1 mP/Kl         6
+                  Seminar (Wahlmodul Typ 4)                                                            2 2 Sems          3
+
+                  Praktikum Softwaretechnik                                                     1 3      1 Üs            6
+                  Wahlmodul Typ 1                                                               4        1 mP/Kl         6
+       6
+                                                                                                                               27
+
+
+
+
+                  Seminar (Wahlmodul Typ 4)                                                            2 2 Sems          3
+                  Bachelorarbeit                                                                         1               12
+
+                                                                                                           Summe         180
+Legende:
+Art V: Vorlesung (Umfang in SWS)
+Art Ü: Übung (Umfang in SWS)
+Art S: Seminar (Umfang in SWS)
+Prüfungsart mP/Kl: mündliche Prüfung oder Klausur
+Prüfungsart mP+Üs/Kl+Üs: mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
+Prüfungsart mP: mündliche Prüfung
+Prüfungsart Kl: Klausur
+Prüfungsart Sems: Seminarschein
+LP: ECTS-Leistungspunkte
+D: Dauer des zugehörigen Moduls in Semestern
+  E RNST-M ORITZ -A RNDT-U NIVERSIT ÄT G REIFSWALD
+M ATHEMATISCH -N ATURWISSENSCHAFTLICHE FAKULT ÄT
+         Institut für Mathematik und Informatik
+
+
+
+
+              Modulkatalog
+             Bachelor of Science
+         Mathematik mit Informatik
+Inhaltsverzeichnis
+
+Pflichtmodule                                 

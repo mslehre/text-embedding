@@ -1,0 +1,50 @@
+ können.
+
+Inhalt
+   • Grundlegende Begriffe und Techniken (Typen von randomisierten Algorithmen,
+     Laufzeit als Erwartungswert, Chernoff-Schranken, probabilistische Methode,
+     Random Walks)
+   • Randomisierte Datenstrukturen
+   • Randomisierte Algorithmen für Probleme auf Graphen
+   • Randomisierte Algorithmen für Probleme aus der Zahlentheorie
+   • Randomisierte Approximationsalgorithmen
+
+Vorkenntnisse           Algorithmen und Programmierung, Stochastik, Theoretische
+                        Informatik
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       32
+Modul Spezialvorlesung I Diskrete Mathematik/Algorithmik/Algebra
+Verantwortlicher         Professuren Informatik, Professur Algebra und funktional-
+                         analytische Anwendungen, Professur Mathematische Logik
+                         und Grundlagen der Mathematik
+Lehrformen               Vorlesung (2 SWS)
+Dauer/Zyklus             1 Sem., nach Bedarf
+Qualifikationsziele
+Vertiefte Kenntnisse und erweiterte Kompetenzen in einem ausgewählten Spezialge-
+biet.
+Inhalt
+   • Spezielle Themen aus Diskrete Mathematik, Algorithmik oder Algebra
+
+Vorkenntnisse           Analysis, Lineare Algebra und analytische Geometrie
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte         3
+Teilgebiet              Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      33
+Modul Spezial

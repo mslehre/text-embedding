@@ -1,0 +1,46 @@
+zie, Heterodichogamie, Diözie und Mönözie,
+     Bestäubung und Genfluss, Evolution der Reproduktionssysteme bei Pflanzen.
+
+Praktikum Population Genetics of Plants:
+   • Stufenweiser Aufbau eines Simulationsmodels zu natürlicher Selektion, Drift,
+     Bottleneck in einer Population in Microsoft Excel, Vorstellung und Arbeit mit den
+     Programmpaketen Genealex und Populus, Auswerteprogramme für fingerprint-
+     Methoden (Gene Analyzer, TPGMA).
+
+Inhalt
+
+                                        66
+Vorlesung Population Genetics of Plants:
+   • Grundlagen genetischer und phänotypischer Variabilität, Vererbungsmuster,
+     Hardy-Weinberg-Gleichgewicht, genetische Drift, natürliche Selektion, Inzucht
+     und Inzuchtdepression, Genfluss in fragmentierten Populationen, effektive Popu-
+     lationsgröße, Artbildung und Populationsgenetik, Molekulargenetische Methoden
+     und Auswertung der entsprechenden Daten.
+
+Qualifikationsziele
+  • Verständnis der Reproduktionssysteme höherer Pflanzen, der Populationsgene-
+     tik und ihrer Konsequenzen für den Artenschutz bei Pflanzen
+  • Aufbau entsprechender Modelle
+
+Vorkenntnisse           keine
+Prüfung                60-minütige Klausur zu einer Vorlesung, dazu Protokolle zu
+                        einem Praktikum.
+Note                    Note der Modulprüfung
+Aufwand in h            300 (Vorlesungen: 60, Praktikum: 75, Selbststudium: 165)
+Leistungspunkte         10
+Teilgebiet              Ökologie
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       67
+Molekularbiologie
+Modul Allgemeine Molekularbiologie
+Verantwortlicher      Vorsitzender des Prüfungsausschusses
+Lehrformen            Molekulargenetik der Prokaryoten, Vorlesung (2 SWS),
+                      Molekulargenetik der Eukaryoten, Vorlesung (2 SWS),
+                      Molekularbiologische Übungen, Übung (2,5 SWS)
+Dauer/Turnus          1 Sem., jährlich im WiSe
+Inhalt
+Vorlesung Molekularge

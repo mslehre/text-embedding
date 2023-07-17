@@ -1,0 +1,39 @@
+atik
+Modul Analysis
+Verantwortlicher         Professur Analysis
+Lehrformen               Vorlesung (8 SWS) und Übung (4 SWS)
+Dauer/Turnus             2 Sem., jeweils 4+2 SWS im WiSe und SoSe, beginnend
+                         jährlich im WiSe
+Inhalt
+   • Axiomatik der reellen Zahlen und elementaren Funktionen
+   • Konvergenz von Folgen und Reihen
+   • Metrische Räume, Banachscher Fixpunktsatz
+   • Differential- und Integralrechnung von Funktionen in einer oder mehreren Varia-
+     blen
+   • Grundbegriffe der Vektoranalysis, Integrale über Kurven und Flächen, Satz von
+     Stokes
+   • analytische Behandlung von einfachen Modellen für physikalische und biologi-
+     sche Prozesse
+
+Qualifikationsziele
+   • Beherrschung der grundlegenden Methoden der Analysis in einem systemati-
+     schen Aufbau,
+   • Basiswissen für das gesamte weitere Studium,
+   • Kompetenzen in den grundlegenden Prinzipien der Analysis, insbesondere die
+     Bedeutung von Grenzübergängen,
+   • sichere Beherrschung verschiedener Beweistechniken,
+   • Befähigung zur sicheren Differentiation in mehreren Variablen,
+   • Befähigung zur Berechnung einfacher mehrdimensionaler Integrale sowie einfa-
+     cher Kurven- und Flächenintegrale,
+   • Beherrschung mathematischer Arbeitsweisen (Entwickeln von mathematischer
+     Intuition und deren formale Begründung, mathematische Begriffsbildung),
+   • grundlegendes Verständnis für die praktische und gesellschaftliche Relevanz von
+     mathematischen Modellen für physikalische und biologische Prozesse,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Vorkenntnisse            keine
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung. Zusätzlich sind
+                         zwei Übungsscheine (zu Analysis I und zu Analysis II) zu er-
+                         werben. Die Kriterien für den Erhalt e

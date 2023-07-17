@@ -1,0 +1,45 @@
+n Krankheiten
+   • Modelle biochemischer Reaktionen
+   • Populationsgenetik
+   • Reaktions-Diffusionsgleichungen
+   • Modellierung ehelicher Interaktionen
+
+Qualifikationsziele
+Vertrautheit mit grundlegenden Konzepten der mathematischen Biologie
+Vorkenntnisse             Analysis, Gewöhnliche Differentialgleichungen, Stochastik
+Prüfung                  90-minütige Klausur oder 30-minütige mündliche Prüfung
+Note                      Note der Modulprüfung
+Aufwand in h              180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte           6
+Modulart                  Pflichtmodul im 4. Sem.
+Regelprüfungstermin 4. Sem.
+
+
+
+
+                                        15
+Modul Statistik
+Verantwortlicher        Professur Biomathematik, Professur Stochastik, Professur
+                        Algebra und funktionalanalytische Anwendungen
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im SoSe
+Inhalt
+   • Grundlegende Fragestellungen der deskriptiven und der schließenden Statistik
+   • Statistische Modellierung und Verteilungsannahmen
+   • Punktschätzer, Konfidenzbereiche, statistische Tests
+   • Einfache Gütekriterien für Schätzer und Tests
+   • Weiterführende Fragestellungen: Varianzanalyse, multiples Testen, robuste Ver-
+     fahren, nichtparametrische Verfahren, Bootstrap
+   • Verwendung von Statistik-Software (Übungen)
+
+Qualifikationsziele
+   • Verständnis für die grundlegenden Fragestellungen der Statistik,
+   • Befähigung zur systematischen Formulierung, Einordnung und adäquaten
+     Lösung von einfachen statistischen Problemen,
+   • Beherrschung von Standardschätz- und Testverfahren und deren Anwendung
+     mithilfe von Statistik-Software,
+   • Verständnis für die Breite der statistischen Verfahren,
+   • Kompetenz zur sicheren Beurteilung der Ergebnisse statistischer Standardme-
+     thoden,
+   • Beherrschung des nötigen Grundwissens für fortgeschrittene Lehrveranstaltun-
+   

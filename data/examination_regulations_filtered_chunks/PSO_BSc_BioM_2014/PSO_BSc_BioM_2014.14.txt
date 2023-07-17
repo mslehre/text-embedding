@@ -1,0 +1,36 @@
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+  Biometrie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     17
+  Wissenschaftliches Präsentieren . . . . . . . . . . . . . . . . . . . . . . . . .        18
+  Praxis des Programmierens . . . . . . . . . . . . . . . . . . . . . . . . . . . .         19
+  Numerik I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     20
+  Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     21
+
+Biologie                                                                                    22
+   Allgemeine Biologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      23
+   Biochemische Grundlagen . . . . . . . . . . . . . . . . . . . . . . . . . . . .          25
+   Molekulare Genetik und Genomik . . . . . . . . . . . . . . . . . . . . . . . .           27
+   Biologische Vertiefung I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     28
+   Biologische Vertiefung II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    29
+
+Bachelorarbeit                                                                              31
+  Bachelorarbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      32
+
+
+
+
+Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung,
+einer 90-minütigen Klausur oder eines 60-minütigen Vortrages (Seminare) abgelegt.
+Davon abweichend werden im Modul ”Allgemeine Biologie” eine 90- und 60-minütige
+Klausur abgelegt. Die Kriterien für den Erhalt eines Übungsscheines legt der Do-
+zent in der ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der
+Übungsaufgaben erfolgreich zu bearbeiten. Übungsscheine und Seminarscheine sind
+unbenotete Prüfungsleistungen.
+
+
+
+
+                                              2
+Mathematik
+Modul Analysis
+Verantwortlicher         Professur Analysis
+Lehrformen               Vorlesung 

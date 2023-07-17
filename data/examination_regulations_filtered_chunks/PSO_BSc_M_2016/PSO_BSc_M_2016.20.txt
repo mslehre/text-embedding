@@ -1,0 +1,31 @@
+ch zu begründen, Schulung
+     des Abstraktionsvermögens, Einsicht in den axiomatischen Aufbau mathemati-
+     scher Fachgebiete anhand durchsichtiger Strukturen),
+   • Kenntnisse über den strukturellen Aufbau der Mathematik,
+   • Befähigung zur Erkennung der Zusammenhänge zwischen abstrakten mathema-
+     tischen Theorien und konkreten Beispielen,
+   • Befähigung zur Anwendung des Erlernten für praktische Fragestellungen,
+   • Bereitschaft zur Diskussion und zum gemeinsamen Erarbeiten von Ergebnissen
+     und Kommunikationsfähigkeit durch freie Rede vor einem Publikum.
+
+Inhalt
+   • Gruppen und Körper, Vektorräume, lineare Abbildungen, Matrizen, lineare Glei-
+     chungssysteme, Gauß-Algorithmus, Basis und Dimension, Determinanten, Ska-
+     larprodukte, euklidische und unitäre Vektorräume, Länge von Vektoren, Winkel,
+     Orthogonalität, Diagonalisierbarkeit, charakteristisches Polynom, Minimalpoly-
+     nom, Eigenwerte, symmetrische und hermitesche Matrizen, Satz von der Haupt-
+     achsentransformation, nilpotente Matrizen, Jordansche Normalform, normale
+     Matrizen, Normalform orthogonaler Matrizen, Exponential einer Matrix, Anwen-
+     dungen Markov-Ketten, lineare Differentialgleichungen, affine Geometrie, affine
+     und euklidische Punkträume, Kegelschnitte, Tensorprodukte von Vektorräumen,
+     Kodierungstheorie, Satz von Perron-Frobenius
+
+Vorkenntnisse            keine
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                         min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                         ten und dem Erwerb von zwei unbenoteten Übungsscheinen.
+                         Die Kriterien für den Erhalt eines Übungsscheines legt der
+                         Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                         Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                         zu bearbeiten.
+Note                     Note der Modulp

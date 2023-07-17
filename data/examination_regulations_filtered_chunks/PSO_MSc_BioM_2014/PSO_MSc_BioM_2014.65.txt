@@ -1,0 +1,47 @@
+egriffe, Filtrationen, Stoppzeiten
+   • Markovprozesse in diskreter und kontinuierlicher Zeit
+   • Brownsche Bewegung (Wiener-Prozess)
+   • Martingale
+   • Stochastische Integration, stochastische Differentialgleichungen
+
+Qualifikationsziele
+   • Kenntnis der grundlegenden Modelle zeitlicher Prozesse und ihrer Eigenschaf-
+     ten,
+   • Kenntnis der grundlegenden Charakteristika der Brownschen Bewegung und Be-
+     urteilung ihrer Bedeutung für die Modellbildung.
+
+Vorkenntnisse           Stochastik I, Analysis I, II, Gewöhnliche Differentialgleichun-
+                        gen, Lineare Algebra I, II
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       52
+Modul Wahrscheinlichkeitstheorie
+Verantwortlicher     Professur Stochastik, Professur Statistik, Professur Algebra
+                     und funktionalanalytische Anwendungen
+Lehrformen           Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im WiSe ungerade Jahre
+Inhalt
+   • Maßtheoretische Grundlegung der Wahrscheinlichkeitstheorie
+   • Konvergenzbegriffe für Zufallsvariablen, schwache Konvergenz von Wahrschein-
+     lichkeitsmaßen
+   • Bedingte Erwartungswerte
+   • Wahrscheinlichkeitsmaße in Produkträumen
+   • Null-Eins-Gesetze
+   • Gesetze der großen Zahlen
+   • Charakteristische Funktionen, zentraler Grenzwertsatz
+   • Weiterführende Fragestellungen: z. B. Martingale in diskreter Zeit, Theorie großer
+     Abweichungen, Ergodensatz, unbegrenzt teilbare Verteilungen
+
+Qualifikationsziele
+   • Beherrschung der mathematischen Grundlagen der modernen Wahrscheinlich-
+     keitstheorie,
+   • Befähigung zur Formulierung, system

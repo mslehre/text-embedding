@@ -1,0 +1,46 @@
+nen
+   • Zwillingsforschung
+   • Multifaktorielle (komplexe) Erkrankungen
+   • Behandlung genetisch bedingter Erkrankungen
+
+Qualifikationsziele
+   • Fortgeschrittenes Verständnis molekularbiologischer Konzepte in den Bereichen
+     Genregulation, Molekulare Biotechnologie und/oder Molekulare Zellbiologie
+   • Verständnis biotechnologischer Prozesse bei der Lebensmittelveredlung und der
+     Gewinnung von Metaboliten des Primär- und Sekundärstoffwechsels
+
+Vorkenntnisse           Grundkenntnisse der Genetik, Biochemie und Zellbiologie
+Prüfung                60-minütige Klausur zur Vorlesung Molekulare Biotechnolo-
+                        gie der Eukaryoten.
+Note                    Note der Modulprüfung
+Aufwand in h            300 (Vorlesungen: 105, Selbststudium: 195)
+Leistungspunkte         10
+Teilgebiet              Molekularbiologie
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       76
+Modul Molekulare Phylogenetik
+Verantwortlicher       Leiter der Vogelwarte Hiddensee, AG Allgemeine und Syste-
+                       matische Zoologie
+Lehrformen             Molekulare Phylogenetik, Vorlesung und Übung (2 SWS),
+                       Molekulare Phylogenetik, Seminar (2 SWS),
+                       Molekulare Phylogenetik, Praktikum (6 SWS)
+Dauer/Turnus           2 Sem., Vorlesung und Analysemethoden Block im März;
+                       Seminar semesterbegleitend im Sommer; Labormethoden
+                       Block im September)
+Inhalt
+Vorlesung und Übung Molekulare Phylogenetik:
+   • Biochemische Grundlagen
+   • Alignment von DNA-Sequenzen
+   • Methoden der Phylogenetischen Rekonstruktion (Maximum Parsimony, Distan-
+     zen, Maximum Likelihood, Bayes’sche Analyse, Netzwerke)
+   • Probleme (z.B. Long branch attraction, Molekulare Uhr, Einzelgen- vs. Multigen-
+     analysen)
+
+Seminar Molekulare Phylogenetik:
+   • Diskussion aktueller Probleme
+   • Vertiefung von Methoden
+   • Präsentation von Ar

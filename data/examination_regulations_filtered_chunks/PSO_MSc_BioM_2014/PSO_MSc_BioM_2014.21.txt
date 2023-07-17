@@ -1,0 +1,38 @@
+/Statistik und Physiologie)
+Studienbeginn: ungerades Sommersemester, z.B. Sommersemester 2015
+
+Semester    Veranstaltung                             Teilgebiet V Art
+                                                                   Ü S D Prüfungsart          LP
+
+            Zeitreihenanalyse                             3         2 2    1 mP               6
+            Mathematische Statistik                       3         3 1    1 mp               6
+    1
+                                                                                                    32
+            Bild- und Signalanalyse                       1         4      1 mP               6
+            Kombinatorik                                  2         4      1 mP/Kl90          6
+            Spezielle Physiologie II beginnt              7         3 5    2 Kl90, Pr*        8
+
+            Multivariate Statistik                        3         4 2   1 mP/Kl90            9
+            Spezielle Physiologie II endet                7             2 2 Sems*              2
+    2
+                                                                                                    28
+
+
+
+
+            Spezielle Physiologie I                       7         3 2   1 2 Kl60, Pr*       10
+            Tier- und Zellphysiologie beginnt             7         2 3   2 Kl60,Pr*          7
+
+            Seminar B                                     4             2 1 Sems*, Ausarb.*   6
+            Stochastische Prozesse                        3         4     1 mP                6
+    3
+                                                                                                    30
+
+
+
+
+            Funktionalanalysis                            1         4 2   1 mP/Kl90, Üs*      9
+            Tier- und Zellphysiologie endet               7             2 2 Sems*             3
+            Masterarbeit beginnt                                          2                   6
+
+            Stochastische Modelle in der Biologie  

@@ -1,0 +1,52 @@
+          Stochastik/Statistik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         47
+Seminarmodule
+
+
+
+
+                48
+Modul Seminarmodul A
+Verantwortlicher     Professur Analysis, Professur Numerische Mathematik und
+                     Optimierung, Professur Angewandte Mathematik, Professu-
+                     ren Informatik, Professur Algebra und funktionalanalytische
+                     Anwendungen, Professur Mathematische Logik und Grund-
+                     lagen der Mathematik, Professur Stochastik, Professur Sta-
+                     tistik
+Lehrformen           Seminar (2 x 2 SWS)
+Dauer/Zyklus         2 Sem., G: jedes Semester
+Qualifikationsziele
+   • Befähigung zur selbständigen Beschäftigung mit einem mathematischen Thema,
+   • Befähigung, einen strukturierten, effizienten und auf die Kompetenzen des Publi-
+     kums zugeschnittenen Vortrag zu halten,
+   • Kompetenzen in der Diskussionsführung.
+
+Inhalt
+   • ergänzende Themen aus dem Bereich Analysis/Optimierung, aus dem Be-
+     reich Diskrete Mathematik/Algorithmik/Algebra oder aus dem Bereich Stochas-
+     tik/Statistik
+
+Vorkenntnisse            Analysis, Lineare Algebra, Stochastik, Statistik
+Prüfung                 Die Modulprüfung besteht aus zwei 60-minütigen Vorträgen
+                         zu vereinbarten Themen.
+Note                     keine
+Aufwand                  180 (Seminar: 60, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Seminarmodule
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        49
+Modul Seminarmodul B
+Verantwortlicher     Professur Analysis, Professur Numerische Mathematik und
+                     Optimierung, Professur Angewandte Mathematik, Professu-
+                     ren Informatik, Professur Algebra und funktionalanalytische
+                     Anwendungen, Professur Mathematische Logik und Grund-
+         
