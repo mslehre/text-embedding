@@ -44,9 +44,10 @@
 
         .chunks-textarea {
             width: 100%;
-            height: 55vh;
+            height: 50vh;
             font-size: 16px;
         }
+
     </style>
 </head>
 <body>
@@ -56,11 +57,14 @@
         
             <p>Welcome to the question and answer website for examination 
                 regulations from the univerity of Greifswald!</p>
-            <p>Feel free to ask any questions you have regarding any examination 
-                regulation that is accesable on the official univerity website ADD 
-                LINK. <br>Please be aware that the Large Language Model can 
+            <p>Feel free to ask any questions you have regarding any 
+                examination regulation that is accesable on the official 
+                <a href="https://www.uni-greifswald.de/studium/waehrend-des-studiums/rund-um-die-pruefungen/pruefungs-und-studienordnungen/" target="_blank" style="color: red;">univerity website</a>
+                <br>Please be aware that the Large Language Model can 
                 hallucinate and give wrong information, always check important 
                 information yourself.</p>
+                <br> ATTENTION: At the moment only a subset of examination 
+                regulations are available.
         </div>
         <div class="column">
             <form method="POST" action="http://localhost:5000">
