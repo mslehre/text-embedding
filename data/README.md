@@ -120,12 +120,12 @@ Read in `Publikationen.csv` and `Personen_Einrichtungen_2023_06.csv` from
 * `titles` that contains all publications that are listed in this dataframe for 
 the respective person 
 * `institution` that contains only the part of the description of the 
-institution in `Publikationen.csv` up to the first `/`
+institution in `Publikationen.csv` up to the first `/`\
 and deleting the columns
 * `author_ID`
 * `journal`
 * `year`
-* `title`
+* `title`\
 In addition, the duplicate rows of persons are deleted and the resulting 
 dataframe is written to `/data/FIS/persons.csv`.
 
@@ -133,7 +133,7 @@ dataframe is written to `/data/FIS/persons.csv`.
 Since there has been a problem with the encoding of 
 `Personen_Einrichtungen_2023_06.csv` there is a problem with special characters 
 in the `lastnames` and `forenames` column in `/data/FIS/persons.csv`. Therefore,
-manually correct missing characters in these columns and safe resulting file as
+manually correct missing characters in these columns and save resulting file as
 `/data/FIS/persons_modified_names.csv`.
 
 ## To create final version of list of publishers of FIS data:
@@ -141,9 +141,9 @@ Read in `/data/FIS/persons_modified_names.csv` and change the file by deleting
 the columns:
 * `line`, the row in the dataframe
 * `inst_ID`, the ID of the institution
-* `faculty_ID`, the ID of the faculty
+* `faculty_ID`, the ID of the faculty\
 Modify the person ID by adding `FIS_` as prefix and replace in the `institution`
-column each institution with an abbreviation of it. Then add another faculty, w
+column each institution with an abbreviation of it. Then add another faculty, 
 which is `Caspar-David-Friedrich Institut`, and change the faculty of those 
 persons whose institution is `Caspar-David-Friedrich Institut` to the new 
 faculty. Reorder the columns of the dataframe and write the resulting 
@@ -152,7 +152,7 @@ dataframe to `/data/FIS/publishers.tbl`.
 ## Create publication lists:
 For each person in `/data/FIS/persons_modified_names.csv` write all publications
 separated by a new line of this person to a file, if the person has more than 
-two publicaations. These publication lists are saved in the directory 
+two publications. These publication lists are saved in the directory 
 `data/FIS_publications` and the name of the publication list is the person ID of
 the person of which the publication list is. Apart from the publications the
 publication list contains the name of the person and the person ID.
