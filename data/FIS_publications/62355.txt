@@ -1,6 +1,0 @@
-Schössow, Janka	62355
-Square2 - A Web Application for Data Monitoring in Epidemiological and Clinical Studies
-Data quality monitoring in clinical and observational epidemiologic studies: the role of metadata and process information
-Modeling transcriptomic age using knowledge-primed artificial neural networks.
-Cohort Profile Update: The Study of Health in Pomerania (SHIP).
-Conducting an Epidemiologic Study and Making It FAIR: Reusable Tools and Procedures from a Population-Based Cohort Study.

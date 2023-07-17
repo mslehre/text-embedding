@@ -1,3 +1,0 @@
-Shiferaw, Kirubel Biruk	107539
-Assessing the FAIRness of Deep Learning Models in Cardiovascular Disease Using Computed Tomography Images: Data and Code Perspective.
-Disparities in Regional Publication Trends on the Topic of Artificial Intelligence in Biomedical Science Over the Last Five Years: A Bibliometric Analysis.

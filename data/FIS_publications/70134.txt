@@ -1,2 +1,0 @@
-Bulla ,	70134
-ClassyFlu: Classification of Influenza A Viruses with Discriminatively Trained Profile-HMMs

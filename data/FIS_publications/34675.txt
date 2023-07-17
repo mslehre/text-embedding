@@ -1,6 +1,0 @@
-Bonn F	34675
-Global analysis of the impact of linezolid onto virulence factor production in S. aureus USA300.
-Sample Preparation for Mass-Spectrometry Based Absolute Protein Quantification in Antibiotic Stress Research
-An Easy and Fast Protocol for Affinity Bead-Based Protein Enrichment and Storage of Proteome Samples
-Comparative proteome analysis of Actinoplanes sp. SE50/110 grown with maltose or glucose shows minor differences for acarbose biosynthesis proteins but major differences for saccharide transporters
-Sample preparation for mass spectrometry-based absolute quantification of bacterial proteins in antibiotic stress research

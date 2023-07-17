@@ -1,2 +1,0 @@
-Steinke J	86047
-Technical report: xMAPr - High-dynamic-range (HDR) quantification of antigen-specific antibody binding.

@@ -1,5 +1,0 @@
-Antelmann H	32606
-Protein S-mycothiolation functions as redox-switch and thiol protection mechanism in Corynebacterium glutamicum under hypochlorite stress
-Redox regulation in Bacillus subtilis: The bacilliredoxins BrxA(YphP) and BrxB(YqiW) function in de-bacillithiolation of S-bacillithiolated OhrR and MetE
-Archaeal ubiquitin-like SAMP3 is isopeptide-linked to proteins via a UbaA-dependent mechanism
-The E. coli sirtuin CobB shows no preference for enzymatic and nonenzymatic lysine acetylation substrate sites

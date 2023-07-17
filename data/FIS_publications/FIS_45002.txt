@@ -1,0 +1,8 @@
+Geist, Norman	FIS_45002
+Poly (hexamethylene biguanide) adsorption on hydrogen peroxide treated TiAlV alloys and effects on wettability, antimicrobial efficacy, and cytotoxicity.
+Molecular dynamics simulations on networks of heparin and collagen
+Tetrahydroindoles as Multipurpose Screening Compounds and Novel Sirtuin Inhibitors
+Replica-Based Protein Structure Sampling Methods II: Advanced Hybrid Solvent TIGER2hs
+Unveiling the N-Terminal Homodimerization of BCL11B by Hybrid Solvent Replica-Exchange Simulations.
+Replica-Based Protein Structure Sampling Methods: Compromising between Explicit and Implicit Solvents
+A Hypothesized Mechanism for Chronic Pancreatitis Caused by the N34S Mutation of Serine Protease Inhibitor Kazal-Type 1 Based on Conformational Studies

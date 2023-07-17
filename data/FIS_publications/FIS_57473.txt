@@ -1,0 +1,8 @@
+Völzke H	FIS_57473
+Thyrotropin serum levels are differentially associated with biochemical markers of bone turnover and stiffness in women and men: results from the SHIP cohorts.
+Changes in body weight and obesity status in German adults: results of seven population-based prospective studies.
+Subcortical brain structure and suicidal behaviour in major depressive disorder: a meta-analysis from the ENIGMA-MDD working group.
+Estimating the causal effect of body mass index on hay fever, asthma and lung function using Mendelian randomization.
+Collaborative meta-analysis finds no evidence of a strong interaction between stress and 5-HTTLPR genotype contributing to the development of depression.
+Deep Generative Medical Image Harmonization for Improving Cross-Site Generalization in Deep Learning Predictors
+Lower Aldosterone Concentrations are Associated with a Smaller and Thinner Heart in the General Population - The Study of Health in Pomerania (SHIP)

@@ -1,2 +1,0 @@
-Hoff K	83369
-BRAKER1: unsupervised RNA-Seq-based genome annotation with GeneMark-ET and AUGUSTUS

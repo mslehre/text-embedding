@@ -1,2 +1,0 @@
-Wierschin T	50525
-CRF-based models of protein surfaces improve protein-protein interaction site predictions

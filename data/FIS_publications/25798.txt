@@ -1,9 +1,0 @@
-Gött, Robert	25798
-Toolbox for Research, or How to facilitate a central data management in small-scale research projects.
-Understanding the Nature of Metadata  A Deep Insight in the Literature
-Understanding the Nature of Metadata  A Systematic Review
-Understanding the Nature of Metadata  A Systematic Review
-3LGM2IHE: Requirements for data-protection-compliant research infrastructures. A systematic comparison of theory and practice-oriented implementation
-Opportunities of Digital Infrastructures for Disease ManagementExemplified on COVID-19-Related Change in Diagnosis Counts for Diabetes-Related Eye Diseases
-Opportunities of Digital Infrastructures for Disease ManagementExemplified on COVID-19-Related Change in Diagnosis Counts for Diabetes-Related Eye Diseases
-TAPP: Defining standard provenance information for clinical research data and workflows - Obstacles and opportunities

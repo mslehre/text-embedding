@@ -1,3 +1,0 @@
-Gonzalez-Escamilla G	74734
-PETPVE12: an SPM toolbox for Partial Volume Effects correction in brain PET - Application to amyloid imaging with AV45-PET.
-Impairment of Everyday Spatial Navigation Abilities in Mild Cognitive Impairment Is Weakly Associated with Reduced Grey Matter Volume in the Medial Part of the Entorhinal Cortex.

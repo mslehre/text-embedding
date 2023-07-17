@@ -1,2 +1,0 @@
-Lange T	63037
-Identification of miR-16 as an endogenous reference gene for the normalization of urinary exosomal miRNA expression data from CKD patients

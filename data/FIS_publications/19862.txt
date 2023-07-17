@@ -1,3 +1,0 @@
-Mihai P	19862
-Sequential evolution of cortical activity and effective connectivity of swallowing using fMRI.
-Neural representation of swallowing is retained with age. A functional neuroimaging study validated by classical and Bayesian inference.

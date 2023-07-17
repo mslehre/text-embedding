@@ -1,0 +1,67 @@
+Thiele T	FIS_1604
+Management of infants born with severe neonatal alloimmune thrombocytopenia: the role of platelet transfusions and intravenous immunoglobulin.
+Proteome Changes in Platelets After Pathogen Inactivation-An Interlaboratory Consensus.
+Acquired hemophilia with inhibitors presenting as an emergency: misinterpretation of clotting results during direct oral anticoagulation.
+Tolerance of platelet concentrates treated with UVC-light only for pathogen reduction - a phase I clinical trial.
+[Hemostatic Management of Patients undergoing Ear-Nose-Throat-Surgery].
+Reversal of anticoagulants: an overview of current developments.
+Erworbene Hemmkörperhämophilie bei einer Notfallpatientin: Fehlinterpretation der Gerinnungswerte unter direkter oraler Antikoagulation
+The impact of noninvasive, capillary, and venous hemoglobin screening on donor deferrals and the hemoglobin content of red blood cells concentrates: a prospective study.
+Effect of Experimental Thyrotoxicosis onto Blood Coagulation: A Proteomics Study
+Hemostatic management of patients undergoing ear-nose-throat surgery.
+Reduced platelet transfusions and earlier platelet engraftment using alemtuzumab-based conditioning regimen in allogeneic stem cell transplantation.
+Thrombin generation, ProC(®)Global, prothrombin time and activated partial thromboplastin time in thawed plasma stored for seven days and after methylene blue/light pathogen inactivation
+The Role of Platelets in Venous Thromboembolism.
+Proteomic profile of platelets during reconstitution of platelet counts after apheresis.
+Implications of a switch to a 100% apheresis platelet supply for patients and for blood donors: a risk benefit analysis.
+Platelet-Related Variants Identified by Exomechip Meta-analysis in 157,293 Individuals.
+Altered timing of riboflavin and ultraviolet light pathogen inactivation improves platelet in vitro quality.
+Platelet transfusion to reverse antiplatelet therapy before decompressive surgery in patients with intracranial haemorrhage
+Data on the impact of the blood sample collection methods on blood protein profiling studies.
+The Perioperative Anticoagulant Use for Surgery Evaluation (PAUSE) Study for Patients on a Direct Oral Anticoagulant Who Need an Elective Surgery or Procedure: Design and Rationale.
+No indication of increased infection rates using low-dose alemtuzumab instead of anti-thymocyte globulin as graft-versus-host disease prophylaxis before allogeneic stem cell transplantation.
+Preoperative platelet transfusions to reverse antiplatelet therapy for urgent non-cardiac surgery: an observational cohort study
+Toward the Relevance of Platelet Subpopulations for Transfusion Medicine.
+F(ab') Fragments to Overcome Daratumumab Interference in Transfusion Tests.
+Cold storage of platelets in additive solution: The impact of residual plasma in apheresis platelet concentrates.
+The role of social media for blood donor motivation and recruitment.
+Erratum to: The Perioperative Anticoagulant Use for Surgery Evaluation (PAUSE) Study for Patients on a Direct Oral Anticoagulant who Need an Elective Surgery or Procedure: Design and Rationale.
+How I manage patients with anticoagulation-associated bleeding or urgent surgery.
+Role of Platelet Size Revisited-Function and Protein Composition of Large and Small Platelets.
+Mean platelet volume is more important than age for defining reference intervals of platelet counts.
+Use of Targeted High-Throughput Sequencing for Genetic Classification of Patients with Bleeding Diathesis and Suspected Platelet Disorder.
+Platelet Transfusion in Perioperative Medicine.
+Adenosine Triphosphate Neutralizes Pneumolysin-induced Neutrophil Activation.
+Function of Large and Small Platelets Differs, Depending on Extracellular Calcium Availability and Type of Inductor.
+Frequency of positive anti-PF4/polyanion antibody tests after COVID-19 vaccination with ChAdOx1 nCoV-19 and BNT162b2.
+Immediate high-dose intravenous immunoglobulins followed by direct thrombin-inhibitor treatment is crucial for survival in Sars-Covid-19-adenoviral vector vaccine-induced immune thrombotic thrombocytopenia VITT with cerebral sinus venous and portal vein thrombosis.
+Thrombotic Thrombocytopenia after ChAdOx1 nCov-19 Vaccination.
+A Flow cytometric assay to detect platelet activating antibodies in VITT after ChAdOx1 nCov-19 vaccination.
+Anticoagulation in Patients with Platelet Disorders.
+Efficacy of UVC-treated, pathogen-reduced platelets versus untreated platelets: a randomized controlled non-inferiority trial.
+Cerebral venous sinus thrombosis after ChAdOx1 nCov-19 vaccination with a misleading first cerebral MRI scan.
+Anti-Platelet Factor 4 Antibodies Causing VITT do not Cross-React with SARS-CoV-2 Spike Protein
+COVID-19 Vaccine-Associated Cerebral Venous Thrombosis in Germany.
+Adenovirus-Vectored COVID-19 Vaccine-Induced Immune Thrombosis of Carotid Artery: A Case Report.
+COAT Platelets Under Alarm.
+Results of the CAPSID randomized trial for high-dose convalescent plasma in severe COVID-19 patients.
+Decline in Pathogenic Antibodies over Time in VITT.
+Vaccine-Induced Thrombocytopenia with Severe Headache.
+VITT after ChAdOx1 nCoV-19 Vaccination. Reply.
+Complicated Long Term Vaccine Induced Thrombotic Immune Thrombocytopenia-A Case Report.
+Postmortem investigation of fatalities following vaccination with COVID-19 vaccines.
+Insights in ChAdOx1 nCov-19 Vaccine-induced Immune Thrombotic Thrombocytopenia (VITT).
+Laboratory confirmed vaccine-induced immune thrombotic thrombocytopenia: Retrospective analysis of reported cases after vaccination with ChAdOx-1 nCoV-19 in Germany.
+Platelet-activating anti-PF4 antibodies mimicking VITT antibodies in an unvaccinated patient with monoclonal gammopathy.
+Most Anti-PF4 Antibodies in Vaccine-induced Immune Thrombotic Thrombocytopenia are transient.
+Platelet size as a mirror for the immune response after SARS-CoV-2 vaccination.
+The deglycosylated form of 1E12 inhibits platelet activation and prothrombotic effects induced by VITT antibodies.
+ABO O blood group as a risk factor for platelet reactivity in heparin-induced thrombocytopenia.
+Thrombocytopenia and splenic platelet directed immune responses after intravenous ChAdOx1 nCov-19 administration.
+Pathogenesis of vaccine-induced immune thrombotic thrombocytopenia (VITT).
+GPVI expression is linked to platelet size, age, and reactivity.
+Genome-wide association study of platelet factor 4/heparin antibodies in heparin-induced thrombocytopenia.
+SARS-CoV-2 Infection in Patients with a History of VITT.
+Early recognition and treatment of pre-VITT syndrome after adenoviral vector-based SARS-CoV-2 vaccination may prevent from thrombotic complications: review of published cases and clinical pathway.
+In mouse chronic pancreatitis CD25FOXP3 regulatory T cells control pancreatic fibrosis by suppression of the type 2 immune response.
+Quantitative Interpretation of PF4/Heparin-EIA Optical Densities in Predicting for Platelet-Activating VITT Antibodies.

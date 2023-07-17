@@ -1,9 +1,0 @@
-Pilz, Robin Alexander	86106
-Biallelic CCM3 mutations cause a clonogenic survival advantage and endothelial cell stiffening
-Exome sequencing identifies a recurrent SOX2 deletion in a patient with gait ataxia and dystonia lacking major ocular malformations
-First interchromosomal insertion in a patient with cerebral and spinal cavernous malformations
-Bringing CCM into a dish: cell culture models for cerebral cavernous malformations
-Contact-dependent signaling triggers tumor-like proliferation of CCM3 knockout endothelial cells in co-culture with wild-type cells
-Using CRISPR/Cas9 genome editing in human iPSCs for deciphering the pathogenicity of a novel CCM1 transcription start site deletion
-Cas9-Mediated Nanopore Sequencing Enables Precise Characterization of Structural Variants in CCM Genes
-Endothelial Differentiation of  Knockout iPSCs Triggers the Establishment of a Specific Gene Expression Signature.

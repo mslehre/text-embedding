@@ -1,3 +1,0 @@
-Wichert C	66858
-Generation and selection of ribozyme variants with potential application in protein engineering and synthetic biology
-RNA aminoacylation mediated by sequential action of two ribozymes and a nonactivated amino acid

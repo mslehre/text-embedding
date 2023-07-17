@@ -1,5 +1,0 @@
-Leddig, Torsten	59978
-A survey on the current status and future perspective of informed consent management in the MIRACUM consortium of the German Medical Informatics Initiative
-Nutzung von klinischen Routinedaten für Forschung und Versorgung
-Secondary use of health care data and left-over biosamples within the 'Medical Informatics Initiative' (MII): a quasi-randomized controlled evaluation of patient perceptions and preferences regarding the consent process
-Conducting an Epidemiologic Study and Making It FAIR: Reusable Tools and Procedures from a Population-Based Cohort Study.

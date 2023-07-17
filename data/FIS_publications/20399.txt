@@ -1,5 +1,0 @@
-Block S	20399
-Stiffness of left ventricular cardiac fibroblasts contributes to ventricular dilation in patients with recent-onset cardiomyopathy
-Characterisation of the conformational changes in platelet factor 4 induced by polyanions: towards in vitro prediction of antigenicity.
-Characterization of bonds formed between platelet factor 4 and negatively charged drugs using single molecule force spectroscopy.
-Binding of anti-platelet factor 4/heparin antibodies depends on the thermodynamics of conformational changes in platelet factor 4.

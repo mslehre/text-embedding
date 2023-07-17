@@ -1,4 +1,0 @@
-Golatowski C	63994
-Comparative evaluation of peptide desalting methods for salivary proteome analysis.
-Differences in the whole saliva baseline proteome profile associatedwith development of oral mucositis in head and neck cancer patients undergoing radiotherapy
-Proteome data of whole saliva which are associated with development of oral mucositis in head and neck cancer patients undergoing radiotherapy.

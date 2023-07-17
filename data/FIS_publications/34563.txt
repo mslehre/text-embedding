@@ -1,9 +1,0 @@
-Nemschokmichal, Sebastian	34563
-Spatio-temporal characterization of N2(A) metastables in diffuse nitrogen barrier discharges
-The influence of negative ions in heliumoxygen barrier discharges: I. Laser photodetachment experiment
-The influence of negative ions in helium-oxygen barrier discharges: II. 1D fluid simulation and adaption to the experiment
-Surface charge measurements on different dielectrics in diffuse and filamentary barrier discharges
-Influence of released surface electrons on the pre-ionization of helium barrier discharges: laser photodesorption experiment and 1D fluid simulation
-Self-stabilized discharge filament in plane-parallel barrier discharge configuration: formation, breakdown mechanism, and memory effects
-Spatio-temporal characterization of the multiple current pulse regime of diffuse barrier discharges in helium with nitrogen admixtures
-The influence of negative ions in helium-oxygen barrier discharges: III. Simulation of laser photodetachment and comparison with experiment

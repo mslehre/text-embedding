@@ -1,3 +1,0 @@
-Pasewald, Sandra	19571
-MAGIC: once upon a time in consent management-a FHIR tale.
-The generic Informed Consent Service gICS®: implementation and benefits of a modular consent software tool to master the challenge of electronic consent management in research

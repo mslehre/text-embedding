@@ -1,7 +1,0 @@
-Aschenbach J	72260
-The lysosomal Protease Cathepsin C regulates leukocyte invasion and apoptosis in acute pancreatitis
-Cathepsin C reguliert den Schweregrad der akuten experimentellen Pankreatitis durch Beeinflussung der Leukozyteninfiltration und Apoptose
-Cathepsin C Affects Severity of Acute Pancreatitis by Regulating Activation of Neutrophil Enzymes
-Deficiency of cathepsin C ameliorates severity of acute pancreatitis by reduction of neutrophil elastase activation and cleavage of E-cadherin.
-Depletion of cathepsin C ameliorates severity of acute pancreatitis by reduced activation of elastase in neutrophil granulocytes
-Die lysosomale Protease Cathepsin C beeinflusst über Aktivierung von neutrophilen Serinproteasen die akute Pankreatitis

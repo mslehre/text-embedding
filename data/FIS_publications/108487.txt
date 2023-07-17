@@ -1,4 +1,0 @@
-Lewerentz, Lars	108487
-PIC Simulations of the MS4 Thruster
-Improved modeling for design optimization of cusped field thrusters with support of kinetic analysis
-Simplified Optimization of the Magnetic Configuration of HEMP-Thrusters

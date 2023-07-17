@@ -1,3 +1,0 @@
-Knapp B	65638
-An RNAi screen identifies KIF15 as a novel regulator of the endocytic trafficking of integrin
-Inferring causal molecular networks: empirical assessment through a community-based effort.
