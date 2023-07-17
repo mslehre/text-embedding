@@ -111,3 +111,15 @@ for f in *.txt; do cat $f | perl -pe 's/\t.*//' > $f.new; mv $f.new $f; done
 cd publications
 for f in *.txt; do cat $f | perl -pe 's/^([^\d]+)\s?,\d+;/$1/' > $f.new; mv $f.new $f; done
 ```
+
+## To create pre-version of list of publishers:
+Read in `Publikationen.csv` and `Personen_Einrichtungen_2023_06.csv` from 
+`/data/FIS` and add two new columns `lastname` and `forename` to 
+`Publikationen.csv`. The last- and fornames are columns in 
+`Personen_Einrichtungen_2023_06.csv`. After that, create another new column 
+`titles` for `Publikationen.csv` that contains all publications that are listed 
+in this dataframe for the respective person and delete duplicate entries of
+persons. Then create a new column `institution` that contains only the part of 
+the description of the institution in `Publikationen.csv` up to the first `/`.
+Delete unnecessary columns `author_ID`, `journal`, `year` and `title` and write
+the resulting dataframe to `/data/FIS/persons.csv`.
