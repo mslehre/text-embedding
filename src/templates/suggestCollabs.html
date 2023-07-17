@@ -1,0 +1,28 @@
+<html>
+    <body>
+        <form action = "http://localhost:5000/collab" method = "post">
+            <label for="scie1">Select first scientist </label><br>
+            <select name="scientist1" id="scie1">
+                {% for id in profs %}
+                <option value={{id}}>{{profs[id]}}</option> 
+                {% endfor %}
+            </select>
+
+            <br> <br>
+            <label for="scie2">Select second scientist </label><br>
+            <select name="scientist2" id="scie2">
+                {% for id in profs %}
+                <option value={{id}}>{{profs[id]}}</option> 
+                {% endfor %}
+            </select>
+            <br>
+            <input type="submit" value="Compute possible collaborations">
+            <br> <br>
+            <textarea id="textCollab" name="collabText" rows="10" 
+                cols="30">{{text}}
+            </textarea><br><br>
+            <label id="txt1"> <b>Response given by GPT: </b> {{text1}} 
+            </label> <br> <br>
+        </form>
+    </body>
+</html>
