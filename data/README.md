@@ -120,9 +120,9 @@ Read in `Publikationen.csv` and `Personen_Einrichtungen_2023_06.csv` from
 * `titles` that contains all publications that are listed in this dataframe for 
 the respective person 
 * `institution` that contains only the part of the description of the 
-institution in `Publikationen.csv` up to the first `/`
-<a/>
-and deleting the columns
+institution in `Publikationen.csv` up to the first `/`\n
+\n
+and deleting the columns 
 * `author_ID`
 * `journal`
 * `year`
