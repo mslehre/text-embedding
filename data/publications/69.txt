@@ -1,4 +1,4 @@
-Christoph Bandt,4574333;
+Christoph Bandt
 
 Statistics and contrasts of order patterns in univariate time series
 

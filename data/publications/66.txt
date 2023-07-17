@@ -1,4 +1,4 @@
-Bernd Kugelmann,24007801;
+Bernd Kugelmann
 
 Robust Optimal Control of Fishing in a Three Competing Species Model
 

@@ -1,4 +1,4 @@
-Joscha Diehl,16726735;
+Joscha Diehl
 
 Shuffle Algebras and Non-Commutative Probability for Pairs of Faces
 
