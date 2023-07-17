@@ -43,7 +43,7 @@ def get_answer(
     return result
 
 def get_texts_from_ids(id_list: list[str],
-                       text_dir: str) -> tuple[list[str]]:
+                       text_dir: str) -> tuple[list[str], list[str]]:
     """Returns a tuple with the texts from the text chunks with the specified 
     IDs and a list with the information from the according meta files. If no 
     meta file exists, the second list contains 'Here is the next text' as an
