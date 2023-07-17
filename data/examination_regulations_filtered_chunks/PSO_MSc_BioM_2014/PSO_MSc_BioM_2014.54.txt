@@ -1,3 +1,4 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
        – Character-basierte Verfahren (Parsimony, Likelihood, Bayes)
    • Samplingmethoden im Tree Space (tree moves (NNI, SPR, TBR), Metropolis-
      Hastings-Algorithmus)

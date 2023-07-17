@@ -1,3 +1,4 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
 Typen von Differentialgleichungen (Laplace-
      gleichung, Wärmeleitungsgleichung, Wellengleichung),
    • Befähigung, Probleme mathematisch mit Hilfe partieller Differentialgleichungen

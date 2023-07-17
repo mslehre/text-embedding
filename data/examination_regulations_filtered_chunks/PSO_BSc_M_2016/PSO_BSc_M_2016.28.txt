@@ -1,3 +1,4 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
 e, Satz von Fubini
    • Darstellungssätze (Riesz, Radon-Nikodym)
    • Lp -Räume

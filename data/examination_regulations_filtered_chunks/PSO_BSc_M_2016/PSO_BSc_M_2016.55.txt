@@ -1,3 +1,4 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
 ogrammieren
      im Team, Debugging, Profiling)
    • weiterführende Themen der Programmierung in einer objektorientierten Pro-

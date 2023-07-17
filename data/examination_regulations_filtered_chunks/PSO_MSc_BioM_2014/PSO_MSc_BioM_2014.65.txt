@@ -1,3 +1,4 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
 egriffe, Filtrationen, Stoppzeiten
    • Markovprozesse in diskreter und kontinuierlicher Zeit
    • Brownsche Bewegung (Wiener-Prozess)

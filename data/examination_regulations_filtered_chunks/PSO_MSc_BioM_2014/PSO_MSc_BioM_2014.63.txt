@@ -1,3 +1,4 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
 chte Strategien
    • Minimax-Lösung und Nash-Gleichgewicht, Existenzsätze
    • Evolutionäre Spieltheorie, evolutionär stabile Gleichgewichte
