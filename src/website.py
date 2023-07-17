@@ -2,14 +2,12 @@ from os import path
 
 from flask import Flask, render_template, request
 from openai.embeddings_utils import cosine_similarity, get_embedding
+from tenacity import RetryError
 import pandas as pd
 
 import h5py
 
 from compute_embedding import embedding_from_string, compute_similarity_of_texts
-
-#k most similar scientists to display
-k = 10
 
 app = Flask(__name__)
 @app.route('/')
@@ -69,16 +67,25 @@ def compute_similarity_of_files() -> str:
     return render_template("displaySimilarity.html", text1=texts_start[0], 
                            text2=texts_start[1], text=text)
 
+#navigate to grant call form when button is clicked
 @app.route('/grantcall', methods=['POST', 'GET'])
 def navigateToGrantCallForm() -> str:
     return render_template("grantCallForm.html")
 
+#calculate similarity and list k most similar scientist upon button click 
 @app.route('/grantcallResult', methods=['POST', 'GET'])
 def calculateGrantCallResult() -> str:
+    #k most similar scientists to display
+    k = 10
     #get grant call text
     grantCall = request.form["grantCall"]
     #calculate embedding for grant call text
-    grantCallEmbedding = embedding_from_string(grantCall)
+    try:
+        grantCallEmbedding = embedding_from_string(grantCall)
+    except RetryError:
+        return render_template("displayGrantCallResult.html"
+                                   , text1="Please enter a text.")
+
     #get embeddings from publication list file
     with h5py.File("../data/pub_embeddings.h5", 'r') as hdf:
         pub_embedding = hdf['publication_embedding'][:]
@@ -88,7 +95,11 @@ def calculateGrantCallResult() -> str:
     for j in range(0,len(author_ids)-1):
         #get associated embedding
         embedding = pub_embedding[j]
-        similarity = cosine_similarity(grantCallEmbedding, embedding)
+        try:
+            similarity = cosine_similarity(grantCallEmbedding, embedding)
+        except ValueError:
+            return render_template("displayGrantCallResult.html"
+                                   , text1="Please enter a text.")
         similarityList.append((similarity, author_ids[j]))
     #sort list by similarity
     similarityList = sorted(similarityList, reverse=True)
