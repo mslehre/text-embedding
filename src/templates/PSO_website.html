@@ -59,7 +59,8 @@
                 regulations from the univerity of Greifswald!</p>
             <p>Feel free to ask any questions you have regarding any 
                 examination regulation that is accesable on the official 
-                <a href="https://www.uni-greifswald.de/studium/waehrend-des-studiums/rund-um-die-pruefungen/pruefungs-und-studienordnungen/" target="_blank" style="color: red;">univerity website</a>
+                <a href="https://www.uni-greifswald.de/studium/waehrend-des-st\udiums/rund-um-die-pruefungen/pruefungs-und-studienordnungen/" 
+                target="_blank" style="color: red;">univerity website</a>
                 <br>Please be aware that the Large Language Model can 
                 hallucinate and give wrong information, always check important 
                 information yourself.</p>
@@ -68,7 +69,8 @@
         </div>
         <div class="column">
             <form method="POST" action="http://localhost:5000">
-                <textarea id="question" name="question" class="question-input" placeholder="Enter your question."></textarea>
+                <textarea id="question" name="question" class="question-input" 
+                placeholder="Enter your question."></textarea>
         </div>
         <div class="column">
                 <div class="button-container">
@@ -76,10 +78,14 @@
                 </div>
         </div>
         <div class="column">
-            <textarea id="answer-display" class="answer-display" placeholder="The answer will be displayed here." readonly>{{ answer }}</textarea>
+            <textarea id="answer-display" class="answer-display" 
+            placeholder="The answer will be displayed here." 
+            readonly>{{ answer }}</textarea>
         </div>
         <div class="center">
-            <textarea id="chunks-text" class="chunks-textarea" placeholder="The used text chunks will be displayed here."readonly>{{ chunks }}</textarea>
+            <textarea id="chunks-text" class="chunks-textarea" 
+            placeholder="The used text chunks will be displayed here."
+            readonly>{{ chunks }}</textarea>
         </div>
     </form>
     </div>
