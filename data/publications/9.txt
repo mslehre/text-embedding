@@ -1,4 +1,4 @@
-Christian von Savigny,209287;
+Christian von Savigny
 
 Retrieval of mesospheric sodium from OSIRIS nightglow measurements and comparison to ground-based Lidar measurements
 

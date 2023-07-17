@@ -1,4 +1,4 @@
-Konrad Waldorf,17218814;
+Konrad Waldorf
 
 Lie 2-groups from loop group extensions
 

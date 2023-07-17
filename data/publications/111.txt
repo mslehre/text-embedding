@@ -1,4 +1,4 @@
-Uwe Bornscheuer,321742;
+Uwe Bornscheuer
 
 Structure- and Data-Driven Protein Engineering of Transaminases for Improving Activity and Stereoselectivity
 

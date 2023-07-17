@@ -1,4 +1,4 @@
-Maria-Theresia Schafmeister,14569009;
+Maria-Theresia Schafmeister
 
 A dual-continuum model (TOUGH2) for characterizing flow and discharge in a mechanically disrupted sandstone overburden
 

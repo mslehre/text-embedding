@@ -1,4 +1,4 @@
-Lutz Schweikhard,2360917;
+Lutz Schweikhard
 
 Multiple active voltage stabilizations for multi-reflection time-of-flight mass spectrometry
 

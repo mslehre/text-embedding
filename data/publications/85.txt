@@ -1,4 +1,4 @@
-Marc Ebner,1911881;
+Marc Ebner
 
 Are Image Patches Beneficial for Initializing Convolutional Neural Network Models?
 
