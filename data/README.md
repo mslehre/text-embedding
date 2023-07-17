@@ -112,14 +112,130 @@ cd publications
 for f in *.txt; do cat $f | perl -pe 's/^([^\d]+)\s?,\d+;/$1/' > $f.new; mv $f.new $f; done
 ```
 
-## To create pre-version of list of publishers:
+## To create pre-version of list of publishers of FIS data:
 Read in `Publikationen.csv` and `Personen_Einrichtungen_2023_06.csv` from 
-`/data/FIS` and add two new columns `lastname` and `forename` to 
-`Publikationen.csv`. The last- and fornames are columns in 
-`Personen_Einrichtungen_2023_06.csv`. After that, create another new column 
-`titles` for `Publikationen.csv` that contains all publications that are listed 
-in this dataframe for the respective person and delete duplicate entries of
-persons. Then create a new column `institution` that contains only the part of 
-the description of the institution in `Publikationen.csv` up to the first `/`.
-Delete unnecessary columns `author_ID`, `journal`, `year` and `title` and write
-the resulting dataframe to `/data/FIS/persons.csv`.
+`/data/FIS` and change `Publikationen.csv` by adding the following columns
+* `lastname` of the person from `Personen_Einrichtungen_2023_06.csv`
+* `forename` of the person from `Personen_Einrichtungen_2023_06.csv`
+* `titles` that contains all publications that are listed in this dataframe for 
+the respective person 
+* `institution` that contains only the part of the description of the 
+institution in `Publikationen.csv` up to the first `/`
+and deleting the columns
+* `author_ID`
+* `journal`
+* `year`
+* `title`
+In addition, the duplicate rows of persons are deleted and the resulting 
+dataframe is written to `/data/FIS/persons.csv`.
+
+## Change names with special characters:
+Since there has been a problem with the encoding of 
+`Personen_Einrichtungen_2023_06.csv` there is a problem with special characters 
+in the `lastnames` and `forenames` column in `/data/FIS/persons.csv`. Therefore,
+manually correct missing characters in these columns and safe resulting file as
+`/data/FIS/persons_modified_names.csv`.
+
+## To create final version of list of publishers of FIS data:
+Read in `/data/FIS/persons_modified_names.csv` and change the file by deleting 
+the columns:
+* `line`, the row in the dataframe
+* `inst_ID`, the ID of the institution
+* `faculty_ID`, the ID of the faculty
+Modify the person ID by adding `FIS_` as prefix and replace in the `institution`
+column each institution with an abbreviation of it. Then add another faculty, w
+which is `Caspar-David-Friedrich Institut`, and change the faculty of those 
+persons whose institution is `Caspar-David-Friedrich Institut` to the new 
+faculty. Reorder the columns of the dataframe and write the resulting 
+dataframe to `/data/FIS/publishers.tbl`.
+
+## Create publication lists:
+For each person in `/data/FIS/persons_modified_names.csv` write all publications
+separated by a new line of this person to a file, if the person has more than 
+two publicaations. These publication lists are saved in the directory 
+`data/FIS_publications` and the name of the publication list is the person ID of
+the person of which the publication list is. Apart from the publications the
+publication list contains the name of the person and the person ID.
+Example of publication list `FIS_2.txt`:
+```
+Philipp, Klaus-Peter	FIS_2
+Tödliche Verletzungen, verursacht durch eine Kuh
+Untersuchungsstelle für Gewaltopfer am Institut für Rechtsmedizin der Universitätsmedizin Greifswald - Bilanz der ersten 3 Jahre
+Klärung eines tödlichen Arbeitsunfalls durch Rekonstruktion
+Die Rekonstruktion am Ereignisort als wichtiges Instrument in der Zusammenarbeit zwischen Rechtsmedizin und Ermittlungsbehörden
+Der vermeidbare (?) Jagdunfall  tödliche Oberschenkelverletzung durch ein Wildschwein
+Die ärztliche Leichenschau  Schritt für Schritt
+Zur subjektiven Wahrnehmbarkeit von Alkohol in Wasser
+Die mobile rechtsmedizinische Kinderschutzambulanz am Institut für Rechtsmedizin Greifswald: Entwicklung und erste Erfahrungen
+Die ärztliche Leichenschau  Schritt für Schritt The medical post-mortem examination - step by step
+```
+
+## Table containing the abbreviation of the institutions and colors:
+The file `FIS.colors.inst.tbl` in `/data/FIS` contains the manually created 
+abbreviations of the institutions in `/data/FIS/publishers.tbl` and a number 
+representing a color.
+```
+head FIS.colors.inst.tbl 
+institute       color
+Brustzentrum    0
+Urologie        1
+Bioinformatik   2
+Unfallchirurgie 3
+Wiwi    4
+Mikrobiologie   5
+Neurologie      6
+Pathophysiologie        7
+Universitätsapotheke    8
+```
+
+## Table containing the abbreviaation of the faculty and colors:
+Manually create the tab separated file `FIS.colors.fak.tbl` that contains the
+manually created abbreviations of the faculties in `/data/FIS/publishers.tbl` 
+and a number representing a color.
+```
+head FIS.colors.fak.tbl 
+faculty color
+MNF     0
+PHIL    1
+RSF     2
+THEO    3
+CDFI    4
+MED     5
+INTERFAK        6
+VERW    7
+```
+
+## File FIS.inst.abbrev.tbl
+Make a tab separated file that contains the short form of each institution in
+`/data/FIS/publishers.tbl` and the abbreviation for this short form that is 
+created manually.
+```
+head FIS.inst.abbrev.tbl
+institute_long  institute_short
+Zentrum für Innere Medizin      Innere Medizin
+Zentrum für Kinder- und Jugendmedizin   Kinder- und Jugendmedizin
+Institut für Community Medicine Community Medicine
+Zentrum für Zahn-, Mund- und Kieferheilkunde    Zahn-, Mund- und Kieferheilkunde
+Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock    Neurodegenerative Erkrankungen
+Institut für Pharmakologie      Pharmakologie
+Institut für Pharmazie  Pharmazie
+Institut für Klinische Chemie und Laboratoriumsmedizin  Klinische Chemie und Laboratoriumsmedizin
+Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin       Unfallchirurgie
+```
+
+## File FIS.fak.abbrev.tbl
+Make a tab separated file that contains the name of each faculty in
+`/data/FIS/publishers.tbl` and an abbreviation of the faculty that is 
+created manually.
+```
+head FIS.fak.abbrev.tbl
+faculty_long    faculty_short
+Mathematisch-Naturwissenschaftliche Fakultät    MNF
+Philosophische Fakultät PHIL
+Rechts- und Staatswissenschaftliche Fakultät    RSF
+Theologische Fakultät   THEO
+Caspar-David-Friedrich Institut CDFI
+Universitätsmedizin Greifswald  MED
+Interfakultär   INTERFAK
+Zentrale Verwaltung     VERW
+```
