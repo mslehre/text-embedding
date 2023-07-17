@@ -27,8 +27,11 @@ def home() -> str:
     if request.method == 'POST':
         # Get the question from the form:
         question = request.form['question']
-        # Get the answer and the texts that were used to asnwer.
-        answer, chunk_texts = get_answer_from_question(question, k=4)
+        if question:
+            # Get the answer and the texts that were used to asnwer.
+            answer, chunk_texts = get_answer_from_question(question, k=4)
+        else:
+            answer = "Error: Please enter a question."
 
     return render_template("PSO_website.html", answer = answer, 
                            question=question, 
@@ -66,7 +69,7 @@ def get_answer_from_question(question:str,
     answer = answer.strip()
     if not answer.startswith(("Answer", "answer")):
         answer = "Answer: " + answer
-    answer = "\nQuestion: " + question + "\n" + answer
+    answer = "Question: " + question + "\n\n" + answer
 
     # Get the list of chunk texts:
     chunk_texts_list,_ = get_texts_from_ids(id_list=ids,
