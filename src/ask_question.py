@@ -12,9 +12,9 @@ def get_answer(
     """From a question asked by the user, generate the answer
 
     Args:
-        query (str): Question asked by the user.
-        text_dir (str): Documents directory.
-        id_list (list[str]): List of relevant docs.
+        query (str): Question asked by the user
+        text_dir (str): Documents directory
+        id_list (list[str]): List of relevant docs
 
     Returns:
         str: Answer generated with the LLM
@@ -46,7 +46,7 @@ def get_texts_from_ids(id_list: list[str],
                        text_dir: str) -> tuple[list[str], list[str]]:
     """Returns a tuple with the texts from the text chunks with the specified 
     IDs and a list with the information from the according meta files. If no 
-    meta file exists, the second list contains 'Here is the next text' as an
+    meta file exists, the second list contains 'Here is a new text' as an
     entry. The second list can be used as a seperator list for the prompt 
     building.
     
@@ -57,7 +57,7 @@ def get_texts_from_ids(id_list: list[str],
     Returns:
         list[str]: A list that contains the texts from the chunks with the 
             selected IDs.
-        list[str]: A list that contains the meta information form the 
+        list[str]: A list that contains the meta information from the 
             corresponding meta files if they exist.
         """
     docs = []
