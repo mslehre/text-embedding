@@ -4,6 +4,7 @@ import os
 import openai
 
 from build_prompt import get_prompt
+from settings import DATA_DIR
 
 def get_answer(
         query: str, 
@@ -86,7 +87,7 @@ def get_texts_from_ids(id_list: list[str],
             file_in_sub_dir = True  # to get the location of the meta file
 
         if not os.access(file_path, os.R_OK):
-            print(f'ERROR: Could not find or acces the file {id}.txt '
+            print(f'ERROR: Could not find or access the file {id}.txt '
                   + f' directly or in a sub directory {dir_path}.')
             exit(1)
                 
@@ -114,9 +115,12 @@ def get_texts_from_ids(id_list: list[str],
     
     return docs, seperator_list
     
-def test():
+def main():
     testq = "What are common research interests of these scientists?"
-    testdir = "../data/publications"
+    testdir = os.path.join(DATA_DIR, "publications")
     testlist = ['2','4']
     testanswer = get_answer(query=testq, text_dir=testdir, id_list=testlist)
     print(testanswer)
+
+if __name__ == "__main__":
+    main()
