@@ -134,16 +134,21 @@ def get_author_info_and_palette(authors: pd.DataFrame,
 
     # get affiliations of authors by ID
     affil = authors.loc[authors['id'].isin(author_ids), affiliation].to_list()
-    # if institutes, switch long names of institutes to short names
+    
+    # switch long names of affiliation to short names
     if affiliation == 'institute':
-        mapping = dict(zip(affiliation_map['institute_long'], 
-                           affiliation_map['institute_short']))
+        aff_long = 'institute_long'
+        aff_short = 'institute_short'
+    else: 
+        aff_long = 'faculty_long'
+        aff_short = 'faculty_short'
+        
+    mapping = dict(zip(affiliation_map[aff_long], 
+                        affiliation_map[aff_short]))
 
-        affil_ = [mapping[item] for item in affil]
-        affil = affil_
-        affil_uniq = affiliation_map['institute_short'].to_list()
-    else:
-        affil_uniq = affiliation_map['faculty'].to_list()
+    affil_ = [mapping[item] for item in affil]
+    affil = affil_
+    affil_uniq = affiliation_map[aff_short].to_list()
     
     # generate color palette
     num_col = len(affil_uniq)  # number of colors
