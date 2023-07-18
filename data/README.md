@@ -192,7 +192,7 @@ Pathophysiologie        7
 Universitätsapotheke    8
 ```
 
-## Table containing the abbreviaation of the faculty and colors:
+## Table containing the abbreviation of the faculty and colors:
 Manually create the tab separated file `FIS.colors.fak.tbl` that contains the
 manually created abbreviations of the faculties in `/data/FIS/publishers.tbl` 
 and a number representing a color.
