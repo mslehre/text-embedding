@@ -1,4 +1,5 @@
 from os import path
+import re
 
 from flask import Flask, render_template, request
 
@@ -68,9 +69,13 @@ def get_answer_from_question(question:str,
     # Format the answer text into a uniform format:
     question = question.strip()
     answer = answer.strip()
-    if not answer.startswith(("Answer", "answer")):
-        answer = "Answer: " + answer
-    answer = "Question: " + question + "\n\n" + answer
+
+    #  delete everything that comes bevor "Answer:" or "answer:" to only get
+    # the informative parts from the LLM.
+    match = re.search(r'(?i)(?<=Answer:|answer:)\s*(.*)', answer)
+    if match:
+        answer =  match.group(1).strip() # only the part after "[Aa]nswer:"
+    answer = "Question: " + question + "\n\nAnswer: " + answer
 
     # Get the list of chunk texts:
     chunk_texts_list,_ = get_texts_from_ids(id_list=ids,
