@@ -5,6 +5,7 @@ from flask import Flask, render_template, request
 
 from chunks_for_question import get_k_IDs
 from ask_question import get_answer, get_texts_from_ids
+from settings import DATA_DIR
 
 app = Flask(__name__, static_folder='static')
 
@@ -60,12 +61,12 @@ def get_answer_from_question(question:str,
     # Get the k best text chunk IDs from the examination regulations chunks 
     # directory
     ids = get_k_IDs(question=question,
-                    embeddings_file="../data/examination_regulations.h5",
+                    embeddings_file = path.join(DATA_DIR, "examination_regulations.h5"),
                     k=k)
     # Get the asnwer:
-    answer = get_answer(query=question,
-                text_dir="../data/examination_regulations_filtered_chunks/",
-                id_list=ids)
+    answer = get_answer(query = question,
+                text_dir = path.join(DATA_DIR, "examination_regulations_filtered_chunks/"),
+                id_list = ids)
     # Format the answer text into a uniform format:
     question = question.strip()
     answer = answer.strip()
@@ -78,8 +79,8 @@ def get_answer_from_question(question:str,
     answer = "Question: " + question + "\n\nAnswer: " + answer
 
     # Get the list of chunk texts:
-    chunk_texts_list,_ = get_texts_from_ids(id_list=ids,
-                text_dir="../data/examination_regulations_filtered_chunks/")
+    chunk_texts_list,_ = get_texts_from_ids(id_list = ids,
+                text_dir = path.join(DATA_DIR, "examination_regulations_filtered_chunks/"))
     # Get one text from the chunk texts list 
     chunk_text = ''
     i = 1
