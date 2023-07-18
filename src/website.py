@@ -87,23 +87,21 @@ def calculateGrantCallResult() -> str:
                                    , text1="Please enter a text.")
 
     #get embeddings from publication list file
+    #hdf contains more than one object.
     hdf = pd.HDFStore("../data/pub_embeddings.h5", mode='r')
-    embeddings = pd.read_hdf(hdf, "embeddings")
-    ids = pd.read_hdf(hdf, "ids")
-    hdf.close()
+    embeddings = pd.read_hdf(hdf,"embeddings")
+    ids = pd.read_hdf(hdf,"ids")
     
     similarityList = []
-    if len(ids) != len(embeddings):
-        print("Something is wrong.")
-    for j in range(1,len(ids)-1):
+    for j in range(0,len(ids)-1):
         #get associated embedding
-        embedding = embeddings[j]
-        #try:
-        similarity = cosine_similarity(grantCallEmbedding, embedding)
-        #except ValueError:
-            #return render_template("displayGrantCallResult.html"
-             #                      , text1="Please enter a text.")
-        similarityList.append((similarity, ids[j]))
+        embedding = embeddings.iloc[j]
+        try:
+            similarity = cosine_similarity(grantCallEmbedding, embedding)
+        except ValueError:
+            return render_template("displayGrantCallResult.html"
+                                   , text1="Please enter a text.")
+        similarityList.append((similarity, int(ids.iat[j,0])))
     #sort list by similarity
     similarityList = sorted(similarityList, reverse=True)
     
