@@ -4,6 +4,7 @@ import os
 import openai
 
 from build_prompt import get_prompt
+from settings import DATA_DIR
 
 def get_answer(
         query: str, 
@@ -77,6 +78,7 @@ def get_answer(
 
     #assemble the prompt
     this_prompt = get_prompt(query, docs, seperator_list)
+
     if (this_prompt == None):
         return None
 
@@ -91,9 +93,12 @@ def get_answer(
     result = response['choices'][0]['text']
     return result
     
-def test():
+def main():
     testq = "What are common research interests of these scientists?"
-    testdir = "../data/publications"
+    testdir = os.path.join(DATA_DIR, "publications")
     testlist = ['2','4']
     testanswer = get_answer(query=testq, text_dir=testdir, id_list=testlist)
     print(testanswer)
+
+if __name__ == "__main__":
+    main()
