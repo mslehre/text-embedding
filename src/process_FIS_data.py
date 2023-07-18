@@ -21,8 +21,10 @@ for person_ID in publication_data["person_ID"]:
     # Check if the person_ID is in the person_data
     if person_ID in person_data["person_ID"].values:
         # If it is in the person_data, get the lastname and forename
-        lastname = person_data.loc[person_data["person_ID"] == person_ID, "lastname"].values[0]
-        forename = person_data.loc[person_data["person_ID"] == person_ID, "forename"].values[0]
+        lastname = person_data.loc[person_data["person_ID"] == \
+            person_ID, "lastname"].values[0]
+        forename = person_data.loc[person_data["person_ID"] == \
+            person_ID, "forename"].values[0]
     else:
         # If it is not in the person_data, set the lastname and forename to 
         # "NaN"
@@ -40,7 +42,9 @@ publication_data["forename"] = forenames
 # row separared by a tab and add these publications to a new column called 
 # 'titles', but only once per person_ID (i.e. the first time the person_ID is 
 # encountered in the data) and delete the other rows with the same person_ID.
-publication_data['titles'] = publication_data.groupby('person_ID')['title'].transform(lambda x: '\t'.join(x))
+publication_data['titles'] = \
+    publication_data.groupby('person_ID')['title'].\
+        transform(lambda x: '\t'.join(x))
 publication_data.drop_duplicates(subset='person_ID', inplace=True)
 
 def write_publications(person_ID: str) -> None:
@@ -58,7 +62,8 @@ def write_publications(person_ID: str) -> None:
         None: This function does not return a value.
     """
     # Get the row of the person in dataframe
-    row = modified_publication_data.loc[modified_publication_data["person_ID"] == person_ID]
+    row = modified_publication_data.loc[modified_publication_data["person_\
+        ID"] == person_ID]
     # Get the titles of the person_ID and separate the tab-separated titles by
     # a new line
     titles = row["titles"].values[0].replace("\t", "\n")
@@ -70,7 +75,8 @@ def write_publications(person_ID: str) -> None:
         fileText = ""
         # Test if forename and lastname of the person exist
         if (not pd.isnull(lastname) and not pd.isnull(forename)):
-            fileText += lastname + ", " + forename + "\t" + str(person_ID) + "\n" + titles
+            fileText += lastname + ", " + forename + "\t" + str(person_ID) \
+                     + "\n" + titles
         else:
             # Get the author_name of the person if forename and lastname do not
             # exist
@@ -112,7 +118,8 @@ modified_publication_data.drop(columns=["line", "inst_ID", "faculty_ID"],
 modified_publication_data["titles"] = titles
 
 # Add 'FIS_' as prefix for each person ID
-modified_publication_data["person_ID"] = modified_publication_data["person_ID"].apply(lambda x: "FIS_" + str(x))
+modified_publication_data["person_ID"] = \
+    modified_publication_data["person_ID"].apply(lambda x: "FIS_" + str(x))
 
 # Get all person_IDs in modified_publication_data to write publicaion lists 
 # for each person_ID that has more than two publications
@@ -126,96 +133,133 @@ institutions = modified_publication_data["institution"].unique()
 # modified_publication_data as key and abbreviations for them as value
 institutions_dict = {}
 institutions_dict['Zentrum für Innere Medizin'] = 'Innere Medizin'
-institutions_dict['Zentrum für Kinder- und Jugendmedizin'] = 'Kinder- und Jugendmedizin'
+institutions_dict['Zentrum für Kinder- und Jugendmedizin'] = 'Kinder- und \
+    Jugendmedizin'
 institutions_dict['Institut für Community Medicine'] = 'Community Medicine'
-institutions_dict['Zentrum für Zahn-, Mund- und Kieferheilkunde'] = 'Zahn-, Mund- und Kieferheilkunde'
-institutions_dict['Deutsches Zentrum für Neurodegenerative Erkrankungen Rostock'] = 'Neurodegenerative Erkrankungen'
+institutions_dict['Zentrum für Zahn-, Mund- und Kieferheilkunde'] = 'Zahn-, \
+    Mund- und Kieferheilkunde'
+institutions_dict['Deutsches Zentrum für Neurodegenerative Erkrankungen \
+    Rostock'] = 'Neurodegenerative Erkrankungen'
 institutions_dict['Institut für Pharmakologie'] = 'Pharmakologie'
 institutions_dict['Institut für Pharmazie'] = 'Pharmazie'
-institutions_dict['Institut für Klinische Chemie und Laboratoriumsmedizin'] = 'Klinische Chemie und Laboratoriumsmedizin'
-institutions_dict['Klinik und Poliklinik für Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin'] = 'Unfallchirurgie'
-institutions_dict['Institut für Medizinische Psychologie'] = 'Medizinische Psychologie'
+institutions_dict['Institut für Klinische Chemie und Laboratoriumsmedizin'] = \
+    'Klinische Chemie und Laboratoriumsmedizin'
+institutions_dict['Klinik und Poliklinik für Unfall-, Wiederherstellungs\
+    chirurgie und Rehabilitative Medizin'] = 'Unfallchirurgie'
+institutions_dict['Institut für Medizinische Psychologie'] = 'Medizinische \
+    Psychologie'
 institutions_dict['Zentrum für Radiologie'] = 'Radiologie'
 institutions_dict['Klinik und Poliklinik für Neurochirurgie'] = 'Neurochirurgie'
-institutions_dict['Institut für Immunologie und Transfusionsmedizin'] = 'Immunologie und Transfusionsmedizin'
+institutions_dict['Institut für Immunologie und Transfusionsmedizin'] = 'Immu\
+    nologie und Transfusionsmedizin'
 institutions_dict['Institut für Pathologie'] = 'Pathologie'
-institutions_dict['Institut für Pharmazie, AK Klinische Pharmazie (Leitung: Prof. Dr. Christoph Ritter)'] = 'Pharmazie'
-institutions_dict['Klinik und Poliklinik für Psychiatrie und Psychotherapie'] = 'Psychiatrie und Psychotherapie'
-institutions_dict['Institut für Mathematik und Informatik'] = 'Mathematik und Informatik'
+institutions_dict['Institut für Pharmazie, AK Klinische Pharmazie (Leitung: \
+    Prof. Dr. Christoph Ritter)'] = 'Pharmazie'
+institutions_dict['Klinik und Poliklinik für Psychiatrie und \
+    Psychotherapie'] = 'Psychiatrie und Psychotherapie'
+institutions_dict['Institut für Mathematik und Informatik'] = 'Mathematik und \
+    Informatik'
 institutions_dict['Institut für Physik'] = 'Physik'
 institutions_dict['Theologische Fakultät'] = 'Theologie'
 institutions_dict['Fachbereich Wirtschaftswissenschaften'] = 'Wiwi'
 institutions_dict['Klinik und Poliklinik für Chirurgie'] = 'Chirurgie'
 institutions_dict['Institut für Humangenetik'] = 'Humangenetik'
-institutions_dict['Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie'] = 'HNO'
-institutions_dict['Klinik und Poliklinik für Orthopädie und Orthopädische Chirurgie'] = 'Orthopädie'
+institutions_dict['Klinik und Poliklinik für Hals-Nasen-Ohrenkrankheiten, \
+    Kopf- und Halschirurgie'] = 'HNO'
+institutions_dict['Klinik und Poliklinik für Orthopädie und Orthopädische \
+    Chirurgie'] = 'Orthopädie'
 institutions_dict['Zoologisches Institut und Museum'] = 'Zoologie'
 institutions_dict['Institut für Psychologie'] = 'Psychologie'
-institutions_dict['Institut für Medizinische Biochemie und Molekularbiologie'] = 'Mediz. Biochemie und Molekularbiologie'
+institutions_dict['Institut für Medizinische Biochemie und \
+    Molekularbiologie'] = 'Mediz. Biochemie und Molekularbiologie'
 institutions_dict['Institut für Mikrobiologie'] = 'Mikrobiologie'
 institutions_dict['Klinik und Poliklinik für Augenheilkunde'] = 'Augenheilkunde'
 institutions_dict['Institut für Rechtsmedizin'] = 'Rechtsmedizin'
 institutions_dict['Klinik und Poliklinik für Urologie'] = 'Urologie'
-institutions_dict['Interfakultäres Institut für Genetik und Funktionelle Genomforschung'] = 'Genetik und Funktionelle Genomforschung'
+institutions_dict['Interfakultäres Institut für Genetik und Funktionelle Genom\
+    forschung'] = 'Genetik und Funktionelle Genomforschung'
 institutions_dict['Beschaffung'] = 'Beschaffung'
-institutions_dict['Klinik und Poliklinik für Hautkrankheiten'] = 'Hautkrankheiten'
-institutions_dict['Institut für Hygiene und Umweltmedizin'] = 'Hygiene und Umweltmedizin'
+institutions_dict['Klinik und Poliklinik für Hautkrankheiten'] = 'Hautkrank\
+    heiten'
+institutions_dict['Institut für Hygiene und Umweltmedizin'] = 'Hygiene und \
+    Umweltmedizin'
 institutions_dict['Institut für Botanik und Landschaftsökologie'] = 'Botanik'
 institutions_dict['Klinik und Poliklinik für Neurologie'] = 'Neurologie'
 institutions_dict['Institut für Anatomie und Zellbiologie'] = 'Anatomie'
 institutions_dict['Psychologie'] = 'Psychologie'
-institutions_dict['Unfall-, Wiederherstellungschirurgie und Rehabilitative Medizin'] = 'Unfallchirurgie'
-institutions_dict['Psychiatrie und Psychotherapie'] = 'Psychiatrie und Psychotherapie'
+institutions_dict['Unfall-, Wiederherstellungschirurgie und Rehabilitative \
+    Medizin'] = 'Unfallchirurgie'
+institutions_dict['Psychiatrie und Psychotherapie'] = 'Psychiatrie und \
+    Psychotherapie'
 institutions_dict['Community Medicine'] = 'Community Medicine'
-institutions_dict['Zahn-, Mund- und Kieferheilkunde'] = 'Zahn-, Mund- und Kieferheilkunde'
-institutions_dict['Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie'] = 'HNO'
-institutions_dict['Immunologie und Transfusionsmedizin'] = 'Immunologie und Transfusionsmedizin'
+institutions_dict['Zahn-, Mund- und Kieferheilkunde'] = 'Zahn-, Mund- und \
+    Kieferheilkunde'
+institutions_dict['Hals-Nasen-Ohrenkrankheiten, Kopf- und Halschirurgie'] = \
+    'HNO'
+institutions_dict['Immunologie und Transfusionsmedizin'] = 'Immunologie und \
+    Transfusionsmedizin'
 institutions_dict['Biochemie'] = 'Biochemie'
-institutions_dict['Genetik und Funktionelle Genomforschung'] = 'Genetik und Funktionelle Genomforschung'
+institutions_dict['Genetik und Funktionelle Genomforschung'] = 'Genetik und \
+    Funktionelle Genomforschung'
 institutions_dict['Neurologie'] = 'Neurologie'
-institutions_dict['Frauenheilkunde und Geburtshilfe'] = 'Frauenheilkunde und Geburtshilfe'
+institutions_dict['Frauenheilkunde und Geburtshilfe'] = 'Frauenheilkunde und \
+    Geburtshilfe'
 institutions_dict['Urologie'] = 'Urologie'
-institutions_dict['Neurodegenerative Erkrankungen Rostock'] = 'Neurodegenerative Erkrankungen'
+institutions_dict['Neurodegenerative Erkrankungen Rostock'] = 'Neuro\
+    degenerative Erkrankungen'
 institutions_dict['Mikrobiologie'] = 'Mikrobiologie'
 institutions_dict['Hygiene und Umweltmedizin'] = 'Hygiene und Umweltmedizin'
 institutions_dict['Radiologie'] = 'Radiologie'
 institutions_dict['Chirurgie'] = 'Chirurgie'
 institutions_dict['Humangenetik'] = 'Humangenetik'
-institutions_dict['Klinische Chemie und Laboratoriumsmedizin'] = 'Klinische Chemie und Laboratoriumsmedizin'
+institutions_dict['Klinische Chemie und Laboratoriumsmedizin'] = 'Klinische \
+    Chemie und Laboratoriumsmedizin'
 institutions_dict['Pathologie'] = 'Pathologie'
 institutions_dict['Innere Medizin'] = 'Innere Medizin'
 institutions_dict['Pathophysiologie'] = 'Pathophysiologie'
 institutions_dict['Physiologie'] = 'Physiologie'
-institutions_dict['Leibniz-Institut für Plasmaforschung und Technologie e.V. (INP)'] = 'INP'
+institutions_dict['Leibniz-Institut für Plasmaforschung und Technologie e.V. \
+    (INP)'] = 'INP'
 institutions_dict['Institut für Biochemie'] = 'Biochemie'
-institutions_dict['Friedrich Loeffler Institut für Medizinische Mikrobiologie'] = 'FLI Medizinische Mikrobiologie'
+institutions_dict['Friedrich Loeffler Institut für Medizinische \
+    Mikrobiologie'] = 'FLI Medizinische Mikrobiologie'
 institutions_dict['Institut für Slawistik'] = 'Slawistik'
-institutions_dict['Institut für Ethik und Geschichte der Medizin'] = 'Ethik und Geschichte der Medizin'
+institutions_dict['Institut für Ethik und Geschichte der Medizin'] = 'Ethik \
+    und Geschichte der Medizin'
 institutions_dict['Institut für Philosophie'] = 'Philosophie'
-institutions_dict['Deutsches Zentrum für Neurodegenerative Erkrankungen Teilstandort Rostock'] = 'Neurodegenerative Erkrankungen'
+institutions_dict['Deutsches Zentrum für Neurodegenerative Erkrankungen \
+    Teilstandort Rostock'] = 'Neurodegenerative Erkrankungen'
 institutions_dict['Historisches Institut'] = 'Geschichte'
-institutions_dict['Institut für Politik- und Kommunikationswissenschaft'] = 'Politik- und Kommunikationswissenschaft'
-institutions_dict['Klinik für Anästhesie, Intensiv-, Notfall- und Schmerzmedizin'] = 'Anästhesie, Intensiv- und Notfallmedizin'
+institutions_dict['Institut für Politik- und Kommunikationswissenschaft'] = \
+    'Politik- und Kommunikationswissenschaft'
+institutions_dict['Klinik für Anästhesie, Intensiv-, Notfall- und \
+    Schmerzmedizin'] = 'Anästhesie, Intensiv- und Notfallmedizin'
 institutions_dict['Weaning Ärzte B'] = 'Weaning Ärzte'
 institutions_dict['Institut für Anglistik'] = 'Anglistik'
-institutions_dict['Institut für Fennistik und Skandinavistik'] = 'Fennistik und Skandinavistik'
+institutions_dict['Institut für Fennistik und Skandinavistik'] = 'Fennistik \
+    und Skandinavistik'
 institutions_dict['Theologie'] = 'Theologie'
 institutions_dict['Fachbereich Rechtswissenschaften'] = 'Jura'
 institutions_dict['Institut für Pathophysiologie'] = 'Pathophysiologie'
 institutions_dict['Teilinstitut MPG'] = 'MPG'
 institutions_dict['Institut für Physiologie'] = 'Physiologie'
-institutions_dict['Institut für Kirchenmusik und Musikwissenschaften'] = 'Kirchenmusik und Musikwissenschaft'
+institutions_dict['Institut für Kirchenmusik und Musikwissenschaften'] = \
+    'Kirchenmusik und Musikwissenschaft'
 institutions_dict['Institut für Deutsche Philologie'] = 'Deutsche Philologie'
-institutions_dict['Klinik und Poliklinik für Frauenheilkunde und Geburtshilfe'] = 'Frauenheilkunde und Geburtshilfe'
+institutions_dict['Klinik und Poliklinik für Frauenheilkunde und \
+    Geburtshilfe'] = 'Frauenheilkunde und Geburtshilfe'
 institutions_dict['Ärztliches Direktorat'] = 'Ärztliches Direktorat'
 institutions_dict['Institut für Geographie und Geologie'] = 'Geo'
 institutions_dict['Universitätsapotheke'] = 'Universitätsapotheke'
 institutions_dict['Imaging-Zentrum'] = 'Imaging-Zentrum'
-institutions_dict['Zentrale Service- und Forschungseinrichtung für Versuchstiere'] = 'Versuchstiere'
+institutions_dict['Zentrale Service- und Forschungseinrichtung für \
+    Versuchstiere'] = 'Versuchstiere'
 institutions_dict['Institut für Baltistik'] = 'Baltistik'
 institutions_dict['Institut für Bioinformatik'] = 'Bioinformatik'
-institutions_dict['Abt. Medizinisches Leistungsmanagement'] = 'Medizinisches Leistungsmanagement'
-institutions_dict['Institut für Erziehungswissenschaften'] = 'Erziehungswissenschaften'
+institutions_dict['Abt. Medizinisches Leistungsmanagement'] = 'Medizinisches \
+    Leistungsmanagement'
+institutions_dict['Institut für Erziehungswissenschaften'] = 'Erziehungswissen\
+    schaften'
 institutions_dict['BDH-Klinik'] = 'BDH-Klinik'
 institutions_dict['Abt. für ambulante R'] = 'ambulante R'
 institutions_dict['ZV Dezernat Einkauf'] = 'Dezernat Einkauf'
@@ -228,7 +272,8 @@ institutions_dict['Pflegevorstand'] = 'Pflegevorstand'
 institutions_dict['Institut für Ostseeforschung'] = 'Ostseeforschung'
 institutions_dict['Institut für Community-Medicine'] = 'Community Medicine'
 institutions_dict['Brustzentrum'] = 'Brustzentrum'
-institutions_dict['Core Unit - Datenintegrationszentrum'] = 'Datenintegrationszentrum'
+institutions_dict['Core Unit - Datenintegrationszentrum'] = 'Datenintegrations\
+    zentrum'
 institutions_dict['Phil-Dekanat'] = 'Philosophie'
 institutions_dict['Universitätsrechenzentrum (URZ)'] = 'URZ'
 institutions_dict['Physiotherapie Neu'] = 'Physiotherapie'
@@ -254,11 +299,15 @@ file.close()
 
 # Add 'Caspar-David-Friedrich Institut' as faculty. If institution is 
 # 'Caspar-David-Friedrich Institut' change it to this faculty.
-modified_publication_data.loc[modified_publication_data['institution'] == 'Caspar-David-Friedrich Institut', 'faculty'] = 'Caspar-David-Friedrich Institut'
+modified_publication_data.loc[modified_publication_data['institution'] == \
+    'Caspar-David-Friedrich Institut', 'faculty'] = 'Caspar-David-Friedrich \
+        Institut'
 
 # Change the institution column in modified_publication_data that contains the 
 # short name of the institution to the abbreviaion of the institution
-modified_publication_data['institution'] = modified_publication_data['institution'].apply(lambda institution: institutions_dict[institution])
+modified_publication_data['institution'] = \
+    modified_publication_data['institution'].apply(lambda institution: \
+        institutions_dict[institution])
 
 # Change order of the columns and write modified_publication_data to a 
 # tab separated file
