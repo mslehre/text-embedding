@@ -1,0 +1,79 @@
+Weiss, Stefan	FIS_1358
+Meta-analysis identifies common and rare variants influencing blood pressure and overlapping with metabolic trait loci.
+Molecular epidemiology of Staphylococcus aureus in the general population in Northeast Germany - results of the Study of Health in Pomerania (SHIP-TREND-0).
+Gene-gene Interaction Analyses for Atrial Fibrillation.
+Multiethnic Exome-Wide Association Study of Subclinical Atherosclerosis.
+Discovery of novel heart rate-associated loci using the Exome Chip.
+Large-scale analyses of common and rare variants identify 12 new loci associated with atrial fibrillation.
+A global Staphylococcus aureus proteome resource applied to the in vivo characterization of host-pathogen interactions.
+AureoWiki ? The repository of the Staphylococcus aureus research and annotation community.
+AureoWiki ? The repository of the Staphylococcus aureus research and annotation community.
+New Blood Pressure-Associated Loci Identified in Meta-Analyses of 475?000 Individuals.
+Common and Rare Coding Genetic Variation Underlying the Electrocardiographic PR Interval.
+A Large-Scale Multi-ancestry Genome-wide Study Accounting for Smoking Behavior Identifies Multiple Significant Loci for Blood Pressure.
+ExomeChip-Wide Analysis of 95 626 Individuals Identifies 10 Novel Loci Associated With QT and JT Intervals.
+Multi-ethnic genome-wide association study for atrial fibrillation.
+Multi-ethnic genome-wide association study for atrial fibrillation.
+Novel genetic associations for blood pressure identified via gene-alcohol interaction in up to 570K individuals across multiple ancestries.
+Novel genetic associations for blood pressure identified via gene-alcohol interaction in up to 570K individuals across multiple ancestries.
+Exome-chip meta-analysis identifies novel loci associated with cardiac conduction, including ADAMTS6.
+Exome-chip meta-analysis identifies novel loci associated with cardiac conduction, including ADAMTS6.
+Meta-analysis of exome array data identifies six novel genetic loci for lung function.
+Associations of Mitochondrial and Nuclear Mitochondrial Variants and Genes with Seven Metabolic Traits.
+Associations of Mitochondrial and Nuclear Mitochondrial Variants and Genes with Seven Metabolic Traits.
+Meta-analysis of up to 622,409 individuals identifies 40 novel smoking behaviour associated genetic loci.
+Meta-analysis of up to 622,409 individuals identifies 40 novel smoking behaviour associated genetic loci.
+Assessment of the Relationship Between Genetic Determinants of Thyroid Function and Atrial Fibrillation: A Mendelian Randomization Study
+Assessment of the Relationship Between Genetic Determinants of Thyroid Function and Atrial Fibrillation: A Mendelian Randomization Study
+New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries.
+New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries.
+Long noncoding RNA NEAT1 modulates immune cell functions and is suppressed in early onset myocardial infarction patients.
+Long noncoding RNA NEAT1 modulates immune cell functions and is suppressed in early onset myocardial infarction patients.
+Effects of Calcium, Magnesium, and Potassium Concentrations on Ventricular Repolarization in Unselected Individuals.
+Effects of Calcium, Magnesium, and Potassium Concentrations on Ventricular Repolarization in Unselected Individuals.
+A multi-ancestry genome-wide study incorporating gene-smoking interactions identifies multiple new loci for pulse pressure and mean arterial pressure.
+A multi-ancestry genome-wide study incorporating gene-smoking interactions identifies multiple new loci for pulse pressure and mean arterial pressure.
+Author Correction: New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries.
+Author Correction: New genetic signals for lung function highlight pathways and chronic obstructive pulmonary disease associations across multiple ancestries.
+Ionizing Radiation alters the transition/transversion ratio in the exome of human gingiva fibroblasts
+Ionizing Radiation alters the transition/transversion ratio in the exome of human gingiva fibroblasts
+Multi-ancestry sleep-by-SNP interaction analysis in 126,926 individuals reveals lipid loci stratified by sleep duration.
+Multi-ancestry sleep-by-SNP interaction analysis in 126,926 individuals reveals lipid loci stratified by sleep duration.
+Genome-wide scan identifies novel genetic loci regulating salivary metabolite levels.
+Multi-ancestry GWAS of the electrocardiographic PR interval identifies 202 loci underlying cardiac conduction.
+Gene-educational attainment interactions in a multi-ancestry genome-wide meta-analysis identify novel blood pressure loci.
+Genome-Wide DNA Alterations in X-Irradiated Human Gingiva Fibroblasts
+miRNA Mechanisms Underlying the Association of Beta Blocker Use and Bone Mineral Density.
+miRNA Mechanisms Underlying the Association of Beta Blocker Use and Bone Mineral Density.
+The Polygenic and Monogenic Basis of Blood Traits and Diseases.
+The Membrane Transporter OAT7 (SLC22A9) Is Not a Susceptibility Factor for Osteoporosis in Europeans
+Associations of plasma YKL-40 concentrations with heel ultrasound parameters and bone turnover markers in the general adult population.
+Genetic loci associated with prevalent and incident myocardial infarction and coronary heart disease in the Cohorts for Heart and Aging Research in Genomic Epidemiology (CHARGE) Consortium.
+Discovery of rare variants associated with blood pressure regulation through meta-analysis of 1.3 million individuals.
+Large-scale association analyses identify host factors influencing human gut microbiome composition.
+Genome-wide association study in 8,956 German individuals identifies influence of ABO histo-blood groups on gut microbiome.
+Genome-wide association analysis in dilated cardiomyopathy reveals two new players in systolic heart failure on chromosomes 3p25.1 and 22q11.23.
+A Comprehensive View on the Human Antibody Repertoire Against Staphylococcus aureus Antigens in the General Population
+Variants associated with HHIP expression have sex-differential effects on lung function.
+Carrying asymptomatic gallstones is not associated with changes in intestinal microbiota composition and diversity but cholecystectomy with significant dysbiosis
+Multi-ancestry genome-wide gene-sleep interactions identify novel loci for blood pressure.
+The C-mannosylome of human induced pluripotent stem cells implies a role for ADAMTS16 C-mannosylation in eye development
+Salivary metabolites associated with a 5-year tooth loss identified in a population-based setting
+Multiethnic Genome-Wide Association Study of Subclinical Atherosclerosis in Individuals With Type 2 Diabetes.
+Rare and low-frequency exonic variants and gene-by-smoking interactions in pulmonary function.
+Associations of carotid intima media thickness with gene expression in whole blood and genetically predicted gene expression across 48 tissues.
+Identification of Functional Genetic Determinants of Cardiac Troponin T and I in a Multiethnic Population and Causal Associations With Atrial Fibrillation
+The power of genetic diversity in genome-wide association studies of lipids.
+Multi-Ancestry Genome-wide Association Study Accounting for Gene-Psychosocial Factor Interactions Identifies Novel Loci for Blood Pressure Traits.
+Toll-like receptor 1 locus re-examined in a genome-wide association study update on anti-Helicobacter pylori IgG titers
+sPLINK: a hybrid federated tool as a robust alternative to meta-analysis in genome-wide association studies.
+Gene-mapping study of extremes of cerebral small vessel disease reveals TRIM47 as a strong candidate.
+Cohort Profile Update: The Study of Health in Pomerania (SHIP).
+Resting heart rate and incident atrial fibrillation: A stratified Mendelian randomization in the AFGen consortium.
+Genetic and clinical determinants of abdominal aortic diameter: genome-wide association studies, exome array data and Mendelian randomization study.
+A multi-layer functional genomic analysis to understand noncoding genetic variation in lipids.
+Genetic analyses of the electrocardiographic QT interval and its components identify additional loci and pathways.
+tRNA-like Transcripts from the  Genomic Region Critically Influence Human Innate Immunity and Macrophage Functions.
+Implicating genes, pleiotropy, and sexual dimorphism at blood lipid loci through multi-ancestry meta-analysis.
+Multi-ancestry genome-wide association analyses improve resolution of genes and pathways influencing lung function and chronic obstructive pulmonary disease risk.
+Author Correction: The power of genetic diversity in genome-wide association studies of lipids.
