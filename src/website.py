@@ -67,50 +67,58 @@ def compute_similarity_of_files() -> str:
     return render_template("displaySimilarity.html", text1=texts_start[0], 
                            text2=texts_start[1], text=text)
 
-#navigate to grant call form when button is clicked
+# navigate to grant call form when button is clicked
 @app.route('/grantcall', methods=['POST', 'GET'])
 def navigateToGrantCallForm() -> str:
     return render_template("grantCallForm.html")
 
-#calculate similarity and list k most similar scientist upon button click 
+# calculate similarity and list k most similar scientist upon button click 
 @app.route('/grantcallResult', methods=['POST', 'GET'])
 def calculateGrantCallResult() -> str:
-    #k most similar scientists to display
-    k = 10
-    #get grant call text
+    # k most similar scientists to display
+    k = 109
+    # get grant call text
     grantCall = request.form["grantCall"]
-    #calculate embedding for grant call text
+    # calculate embedding for grant call text
     try:
         grantCallEmbedding = embedding_from_string(grantCall)
     except RetryError:
-        return render_template("displayGrantCallResult.html"
-                                   , text1="Please enter a text.")
+        return render_template("displayGrantCallResult.html",
+                               text1 = "Please enter a text.")
 
-    #get embeddings from publication list file
-    #hdf contains more than one object.
+    # get embeddings from publication list file
+    # hdf contains more than one object.
     hdf = pd.HDFStore("../data/pub_embeddings.h5", mode='r')
-    embeddings = pd.read_hdf(hdf,"embeddings")
-    ids = pd.read_hdf(hdf,"ids")
+    embeddings = pd.read_hdf(hdf, "embeddings")
+    ids = pd.read_hdf(hdf, "ids")
     hdf.close()
+
+    # set k to be smaller, if number of ids is small
+    if ids.shape[0] < k:
+        k = ids.shape[0]
     
     similarityList = []
-    for j in range(0,len(ids)-1):
-        #get associated embedding
+    for j in range(0, len(ids)-1):
+        # get associated embedding
         embedding = embeddings.iloc[j]
         try:
             similarity = cosine_similarity(grantCallEmbedding, embedding)
         except ValueError:
-            return render_template("displayGrantCallResult.html"
-                                   , text1="Please enter a text.")
-        similarityList.append((similarity, int(ids.iat[j,0])))
-    #sort list by similarity
-    similarityList = sorted(similarityList, reverse=True)
+            return render_template("displayGrantCallResult.html",
+                                   text1 = "Please enter a text.")
+        similarityList.append((similarity, int(ids.iat[j, 0])))
+    # sort list by similarity
+    similarityList = sorted(similarityList, reverse = True)
     
-    #output k most similar
+    # output k most similar
     outputText = ""
-    #get names
+    # get names
     prof_df = pd.read_table("../data/prof.tbl")
-    for i in range(0,k-1):
+    # if number of ids is too small, set k to be smaller
+    num_id = prof_df["id"].shape[0]
+    if num_id < k:
+        k = num_id
+    for i in range(0, k-1):
         firstname = prof_df.loc[prof_df.id == similarityList[i][1],
                                 "firstname"].values[0]
         lastname = prof_df.loc[prof_df.id == similarityList[i][1],
@@ -118,7 +126,7 @@ def calculateGrantCallResult() -> str:
         entry = ("<pre>" + str(firstname) + " " + str(lastname)
                  + "    " + str(similarityList[i][0]) + "</pre>" + "<br>")
         outputText += entry
-    return render_template("displayGrantCallResult.html", text1=outputText)
+    return render_template("displayGrantCallResult.html", text1 = outputText)
 
 if __name__ == '__main__':
     app.run(debug=True)
