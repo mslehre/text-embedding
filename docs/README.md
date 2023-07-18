@@ -9,7 +9,7 @@ For this titles of research papers of professors of the University of Greifswald
 
 **Python packages**
 ~~~
-openai tiktoken selenium sklearn seaborn flask subprocess h5py adjustText typing time argparse pathlib numpy pandas datetime matplotlib os sys
+openai tiktoken selenium scikit-learn seaborn flask subprocess h5py adjustText typing time argparse pathlib numpy pandas datetime matplotlib os sys
 ~~~
 
 |**Additional dependencies**|
