@@ -1,0 +1,42 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+ner und inhomogener Gleichung, Exponential von Matrizen, Wronski-
+     Determinante
+   • Differentialgleichungs-Modelle von dynamischen Prozessen aus Physik und Bio-
+     logie
+
+Vorkenntnisse            Analysis, Lineare Algebra
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                         min) und dem Erwerb eines unbenoteten Übungsscheines.
+                         Die Kriterien für den Erhalt eines Übungsscheines legt der
+                         Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                         Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                         zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             150 (Vorlesung: 30, Übung: 15, Selbststudium: 105)
+Leistungspunkte          5
+Modulart                 Pflichtmodul
+
+
+
+
+                                        12
+Modul P7: Algebra I
+Verantwortlicher         Professur Algebra und funktionalanalytische Anwendungen,
+                         Professur Algebraische Methoden der Analysis
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WS
+Qualifikationsziele
+   • Verständnis grundlegender Prinzipien algebraischer Strukturen,
+   • Verständnis für die Anwendbarkeit und den Nutzen algebraischer Strukturen in
+     vielen Bereichen der Mathematik,
+   • vertieftes Verständnis und Befähigung zur Verwendung der algebraischen Kon-
+     zepte Gruppen, Ringe, Körper und der Begriffe wie Faktorisierung und Teilbarkeit
+     im abstrakten Kontext,
+   • Beherrschung von Methoden des axiomatischen Vorgehens,
+   • Befähigung zu mathematischen Arbeitsweisen und Beweistechniken in der Alge-
+     bra (z. B. Klassifikation, Diagramme, universelle Eigenschaften, Darstellungen),
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Gruppen: Satz von Lagrange, Normalteiler und Fak

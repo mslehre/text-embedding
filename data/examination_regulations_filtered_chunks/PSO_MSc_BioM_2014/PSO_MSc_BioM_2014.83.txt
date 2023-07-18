@@ -1,0 +1,53 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+logenetik:
+   • Diskussion aktueller Probleme
+   • Vertiefung von Methoden
+   • Präsentation von Arbeiten verschiedener Arbeitsgruppen
+
+Praktikum Molekulare Phylogenetik:
+   • DNA-Isolierung
+   • PCR, Primerdesign
+   • Sequenzierung
+   • Sequenzeditierung
+   • Alignment
+   • Einführung in Stammbaumrekonstruktionen
+
+Qualifikationsziele
+  • Erstellung von DNA-Sequenzdaten von der DNA-Isolierung über die PCR bis hin
+     zur Sequenzierung
+  • Kenntnis der phylogenetischen Analyse von Sequenzdaten in Theorie und Praxis
+     (Computer)
+
+Vorkenntnisse
+Prüfung                60-minütige Klausur zum Inhalt der Vorlesung und Übung,
+                        Seminarschein, Protokoll zum Praktikum
+Note                    Note der Modulprüfung
+Aufwand in h            300 (Vorlesung und Übung: 30, Seminar: 30, Praktikum: 90,
+                        Selbststudium: 150)
+Leistungspunkte         10
+
+                                       77
+Teilgebiet             Molekularbiologie
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                    78
+Funktionelle Zellbiologie und
+Physiologie
+Modul Tier- und Zellphysiologie
+Verantwortlicher       Vorsitzender des Prüfungsausschusses
+Lehrformen             Vegetative Physiologie, Vorlesung (2 SWS),
+                       Tier- und Zellphysiologie, Seminar (2 SWS),
+                       Tierphysiologische Übungen, Übung (2,5 SWS)
+Dauer/Turnus           2 Sem., jährlich im WiSe und SoSe
+Inhalt
+Vorlesung Vegetative Physiologie:
+   • Gastrointestinaltrakt (Mundwerkzeuge, Magen, Darm, Verdauung, Resorption)
+   • Atmung (Diffusion, Ventilation, Konvektion, Sauerstoffangebot, Atemmedien,
+     Gaswechselorgane, Regulation der Atmung)
+   • Herz- und Kreislaufsystem (Blut und Hämolymphe, respiratorische Pigmente, of-
+     fene und geschlossene Systeme, Austauschprozesse mit dem Gewebe, neuro-
+     gene und myogene Herzen, Erregungsleitung im Herzmuskel)
+   • Salz/Wasser-Haushalt (Fließgleichg

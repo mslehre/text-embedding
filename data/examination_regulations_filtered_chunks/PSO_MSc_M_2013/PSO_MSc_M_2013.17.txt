@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+       1         3 1     1 mP/Kl         6
+             Nichtlineare Optimierung                        1         4       1 mp/Kl         6
+     3
+                                                                                                     33
+
+
+
+
+             Wahrscheinlichkeitstheorie                      3         4 2     1 mP+Üs         9
+             Diskrete Optimierung                            2         4       1 mP/Kl         6
+             Masterarbeit beginnt                                              2               6
+
+             Fourieranalysis/Distributionentheorie           1         4       1 mP/Kl         6
+     4
+                                                                                                     30
+
+
+
+
+             Masterarbeit abgeschlossen                                        2               24
+
+                                                                                 Summe         120
+Musterstudienplan Master Mathematik (Schwerpunkt Funktionalanalysis/Algebra)
+Studienbeginn: gerades Wintersemester, z.B. Wintersemester 2012/2013
+
+Semester     Veranstaltung                              Teilgebiet V Art
+                                                                     Ü S D Prüfungsart         LP
+
+             Funktionentheorie                               1         3 1     1 mP/Kl         6
+             Partielle Differentialgleichungen               1         3 1     1 mP/Kl         6
+     1
+
+
+
+
+                                                                                                     30
+             Algorithmik/Komplexitätstheorie                 2         4       1 mP            6
+             Spieltheorie                                    3         3 1     1 mP/Kl         6
+             Stochastische Modelle der Biologie              3         2 2     1 mP/Kl         6
+
+             Algebra II                                      2         4 2     1 mP+Üs/Kl+Üs   9
+             Kombinatorik

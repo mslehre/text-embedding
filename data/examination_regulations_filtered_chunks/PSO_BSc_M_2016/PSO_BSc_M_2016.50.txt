@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+)
+Dauer/Turnus             1 Sem., jährlich im WS
+Qualifikationsziele
+   • Kenntnis der grundlegenden Begriffe, Phänomene und Methoden der klassischen
+     Mechanik und der Wärmelehre
+   • Fähigkeit, Aufgaben der Mechanik und Wärmelehre selbständig zu lösen
+
+Inhalt
+   • Physikalische Größen/Grundgrößen und Gleichungen, Kinematik des Masse-
+     punktes, Dynamik des Massepunktes (Kräfte, Inertialsysteme und beschleunigte
+     Bezugssysteme), Arbeit, Leistung, Energie, Mechanische Schwingungen, Impuls
+     und Drehimpuls, Drehbewegung starrer Körper, Erhaltungssätze, Elastische Ei-
+     genschaften fester Körper, Hydrostatik und Hydrodynamik
+   • Physikalische Größen der Wärmelehre, Thermische Ausdehnung und Tempe-
+     raturskala, Wärme, Wärmetransport, Ideale und reale Gase, Hauptsätze der
+     Wärmelehre, Kreisprozesse, Aggregatzustände und Phasenumwandlungen, Ki-
+     netische Wärmetheorie (Boltzmann-Theorem, mikroskopische Analyse des Gas-
+     drucks, Boltzmannscher Gleichverteilungssatz)
+
+Vorkenntnisse           keine
+Prüfung                unbenoteter Übungsschein, mündliche Prüfung (30 Minuten)
+                        oder Klausur (90 Minuten) nach Maßgabe des Dozenten
+Note                    Note der Modulprüfung
+Aufwand in h            240 (Vorlesung: 60, Übung: 30, Selbststudium: 150)
+Leistungspunkte         8
+Modulart                Nebenfachmodul
+
+
+
+
+                                       46
+Modul E2: Experimentalphysik 2: Elektrizität / Optik
+Verantwortlicher           Professur Niedertemperaturplasmaphysik
+Lehrformen                 Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus               1 Sem., jährlich im SS
+Qualifikationsziele
+   • Kenntnis der grundlegenden Begriffe, Phänomene und Methoden der klassischen
+     Elektrizitätslehre und der Wellenphysik/Wellenoptik und geometrischen Optik
+   • Fähigkeit, Aufgaben der Elektrizitätslehre und der Wellenphysik/Wellenoptik und
+     geometrischen Optik selbständig z

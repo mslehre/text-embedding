@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+ 240   8    1 ÜS
+                                                                   1 mP/K
+ E3 Experimentalphysik 3: Atome / Moleküle        1     240   8    1 ÜS
+                                                                   1 mP/K
+ E4 Experimentalphysik 4: Festkörper              1     210   7    1 ÜS
+                                                                   1 mP/K
+
+
+                                                                               5
+      3.) Nebenfach Informatik
+
+        Modul                                          D   AB    LP PL und PA
+
+ I1     Theoretische Informatik                        1   270   9    1 mP/K
+ I2     Praxis des Programmierens                      1   270   9    1 ÜS
+ I3     Datenstrukturen und effiziente Algorithmen     1   270   9    1 ÜS
+                                                                      1 mP
+ I4     Praktikum Softwaretechnik                      1   180   6    1 ÜS
+ I5     Computergrafik I                               1   180   6    1 mP/K
+ I6     Datenbanken                                    1   180   6    1 mP
+ I7     Randomisierte Algorithmen                      1   180   6    1 mP
+
+
+      4.) Betriebswirtschaftslehre
+
+        Modul                                          D   AB    LP PL und PA
+
+ B1     Einführung in die Betriebswirtschaftslehre     1   150   5    1 K (120 Min.)
+ B2     Technik des betrieblichen Rechnungswesens      1   150   5    1 K (120 Min.)
+        (Buchhaltung)
+ B3     Güterwirtschaftliche Prozesse (Grundzüge der   2   450 15 1 K (120 Min.)
+        BWL I)
+ B4     Betriebliche Entscheidungsprozesse             1   180   6    1 K (120 Min.)
+        (Allgemeine BWL)
+
+
+      5.) Volkswirtschaftslehre
+
+        Modul                                          D   AB    LP   PL und PA
+
+ V1     Einführung in die Volkswirtschaftslehre        1   150   5    1 K (120 Min.)
+ V2     Mikroökonomik                                  1   210   7    1 K (120 Min.)
+ V3     Makroökon

@@ -1,0 +1,29 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+      Praktikums-
+                                                                          bericht* (3 S.)
+Theoretische Ökologie                   1            180       6          mP/Kl 90          F
+
+  2. Modulbereich Diskrete Mathematik/Algorithmik
+
+Modul                                   Dauer        AB        LP         PL                MZ
+                                        (Semester)
+Algebra I                               1            270       9          mP+Üs*/           A
+                                                                          Kl 90+Üs*
+Algebra II                              1            270       9          mP+Üs*/           D
+                                                                          Kl 90+Üs*
+Algorithmik/Komplexitätstheorie         1            180       6          mP                C
+Berechenbarkeitstheorie                 1            180       6          mP                D
+Bioinformatik                           1            180       6          mP                B
+Codierungstheorie                       1            180       6          mP/Kl 90          E
+Computergrafik                          1            180       6          mP/Kl 90          C
+Datenbanken                             1            180       6          mP                E
+Datenstrukturen und effiziente 1                     270       9          mP+Üs*            A
+Algorithmen
+Diskrete Modellierung in der 1                       180       6          mP/Kl 90          D
+Biologie
+Diskrete Optimierung           1                     180       6          mP/Kl 90          E
+Graphentheorie                          1            180       6          mP/Kl 90          E
+Kombinatorik                            1            180       6          mP/Kl 90          D
+Mathematische Logik                     1            180       6          mP                F
+Molekulare Evolution                    1            180       6          mP                E
+

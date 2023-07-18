@@ -1,0 +1,32 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+  ERNST-MORITZ-ARNDT-UNIVERSITÄT GREIFSWALD
+                                   MATHEMATISCH-NATURWISSENSCHAFTLICHE FAKULTÄT
+                                         Institut für Mathematik und Informatik
+
+
+                                                 Musterstudienplan
+                                                     Bachelor of Science
+                                                       Biomathematik
+Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung (mP), einer 90-minütigen Klausur (Kl) oder
+eines 60-minütigen Vortrages (Seminare) (Sems) abgelegt. Davon abweichend werden im Modul „Allgemeine Biologie“
+eine 90- und 60-minütige Klausur abgelegt. Die Kriterien für den Erhalt eines Übungsscheines bzw. einer Teilnahmebestätigung
+legt der Dozent in der ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+zu bearbeiten bzw. 3/4 der Veranstaltungen zu besuchen.
+
+Musterstudienplan Bachelor Biomathematik
+
+Semester Veranstaltung                                                                  Art D Prüfungsart                 LP
+                                                                                    V   Ü S
+
+            Analysis beginnt                                                        4       2     2 Üs*                    9
+            Lineare Algebra und analytische Geometrie beginnt                       4       2     2 Üs*                    9
+    1       Algorithmen und Programmierung/Computeralgebrasysteme
+
+
+
+
+                                                                                                                               30
+            beginnt                                                                 4       2     2 mP+Üs*/Kl+Üs*          9
+            Allgemeine Biologie beginnt                                             2             2 Kl                     3
+
+            Analysis endet                                                          

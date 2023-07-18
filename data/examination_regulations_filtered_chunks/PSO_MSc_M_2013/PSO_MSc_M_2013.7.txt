@@ -1,0 +1,32 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+                                  (3 S.)
+
+Teilgebiet Diskrete Mathematik/Algorithmik/Algebra
+
+Modul                                     Dauer        AB    LP    PL                      MZ
+                                          (Semester)
+Algebra II                                1            270   9     mP+Üs*/Kl+Üs*           D
+Algorithmik/Komplexitätstheorie           1            180   6     mP                      C
+Berechenbarkeitstheorie                   1            180   6     mP                      D
+Codierungstheorie                         1            180   6     mP/Kl                   E
+Computergrafik I                          1            180   6     mP/Kl                   C
+Datenbanken                               1            180   6     mP                      E
+Diskrete Optimierung                      1            180   6     mP/Kl                   E
+Graphentheorie                            1            180   6     mP/Kl                   E
+Kombinatorik                              1            180   6     mP/Kl                   D
+Mathematische Logik                       1            180   6     mP                      F
+Operatoralgebren                          1            180   6     mP/Kl                   F
+Randomisierte Algorithmen                 1            180   6     mP                      F
+Spezialvorlesung I Diskrete               1            90    3     mP/Kl
+Mathematik/Algorithmik/Algebra
+Spezialvorlesung II Diskrete              1            180   6     mP/Kl
+Mathematik/Algorithmik/Algebra
+oder alternativ
+berufsbezogenes Praktikum (§ 7)           4W                 6     Praktikumsbericht*
+                                                                   (3 S.)
+
+Teilgebiet Stochastik/Statistik
+
+Modul                                     Dauer        AB    LP    PL                      MZ
+                                          (Semester)
+Biometrie                                 1            180   6     mP+Üs*/Kl+Ü

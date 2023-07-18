@@ -1,0 +1,48 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+ifikation konkreter Aufgaben und der geeigneten Me-
+     thodenwahl.
+
+Inhalt
+   • Notwendige und hinreichende Bedingungen zur Lösung von unbeschränkten und
+     beschränkten, linearen Optimierungsproblemen (Karush-Kuhn-Tucker Theorie)
+   • Methoden zur numerischen Lösung von entsprechenden, glatten Problemen
+   • Abstiegsverfahren
+   • Trust-Region-Verfahren
+   • Penalty-Verfahren
+   • Aktive-Mengen-Strategie und SQP-Verfahren
+
+Vorkenntnisse           Analysis I, II; Lineare Algebra I, II; Optimierung
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       14
+Modul Numerik II
+Verantwortlicher        Professur Angewandte Mathematik, Professur Numerische
+                        Mathematik und Optimierung
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Zyklus            1 Sem., A: jährlich im WS
+Qualifikationsziele
+   • Beherrschung der grundlegenden Methoden zur numerischen Lösung von parti-
+     ellen Differentialgleichungen,
+   • Kompetenzen in der Auswahl geeigneter Verfahren für konkrete Aufgabenstellun-
+     gen,
+   • Beherrschung der Konvergenztheorie und der Methoden der Fehlerkontrolle,
+   • Kompetenz in der Umsetzung von numerischen Verfahren in effiziente Software
+     (große Gleichungssysteme),
+   • Kenntnis der Querverbindungen zu anderen Bereichen wie Analysis, Algebra,
+     Geometrie u.v.m.,
+   • Beherrschung der wichtigsten Methoden zur Berechnung von Eigenwerten,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und wissenschaft-
+     liche Diskussion (Übungen).
+
+Inhalt
+   • Numerik partieller Differentialgleichungen
+   • Methoden für elliptische, paraboli

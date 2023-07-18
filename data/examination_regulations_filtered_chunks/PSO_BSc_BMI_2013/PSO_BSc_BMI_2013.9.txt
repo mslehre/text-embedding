@@ -1,0 +1,54 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+elorarbeit soll
+spätestens sechs Monate nach Beendigung der letzten Modulprüfung ausgegeben
+werden. Beantragt der Studierende das Thema später oder nicht, verkürzt sich die
+Bearbeitungszeit entsprechend. Der Antrag auf Ausgabe des Themas der Arbeit soll
+spätestens 14 Tage vor dem Beginn der Bearbeitungszeit im Zentralen Prüfungsamt
+vorliegen (§ 28 Absatz 2 RPO).
+
+(2) Die Bearbeitungszeit für die Bachelorarbeit beträgt 360 Stunden (12 LP) im Verlauf
+von sechs Monaten.
+
+(3) Eine elektronische Fassung ist der Arbeit beizufügen. Zugleich hat der Studierende
+schriftlich zu erklären, dass von der Arbeit eine elektronische Kopie gefertigt und
+gespeichert werden darf, um eine Überprüfung mittels einer Plagiatssoftware zu
+ermöglichen.
+
+
+
+
+                                                                                   7
+             
+
+
+                                        § 10
+                               Bildung der Gesamtnote
+
+(1) Für die Bachelorprüfung wird eine Gesamtnote gebildet. Die Gesamtnote errechnet
+sich entsprechend § 33 RPO aus den Noten der in Absatz 2 aufgeführten
+Modulprüfungen. Die Noten dieser Modulprüfungen gehen mit dem auf den jeweiligen
+relativen Anteil an Leistungspunkten bezogenen Gewicht ein, die Note für die
+Bachelorarbeit wird dabei mit dem zweifachen relativen Anteil gewichtet.
+
+(2) Die Noten der Module
+      Algorithmen und Programmierung
+      Einführung in die Informatik/Computeralgebra-Systeme
+      Theoretische Informatik
+      Optimierung
+      Stochastik
+      Gewöhnliche Differentialgleichungen/Proseminar
+      Algebra I
+      Numerik I
+      Statistik
+      Numerik Grundpraktikum
+      Datenstrukturen und effiziente Algorithmen
+      Bachelorarbeit
+      und der Wahlmodule vom Typ 1, 2, 3 und 5
+gehen in die Gesamtnote ein.
+
+
+                                        § 11
+                                  Akademischer Grad
+
+Aufgrund der bestandenen Bachelorprüfung wird der akademische Grad eines Bachelor
+of Science (abgekürzt: B. Sc

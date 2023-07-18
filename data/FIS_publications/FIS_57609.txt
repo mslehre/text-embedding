@@ -1,0 +1,11 @@
+Gibb, Sebastian	FIS_57609
+Differential protein expression and peak selection in mass spectrometry data by binary discriminant analysis.
+Visualization of proteomics data using R and bioconductor.
+Maximizing Sequence Coverage in Top-Down Proteomics By Automated Multimodal Gas-Phase Protein Fragmentation
+{R}olle des ultrakurzwirksamen beta1-{A}drenorezeptor-{A}ntagonisten {L}andiolol in der {T}herapie des {V}orhofflimmerns: {P}harmakologie, klinische {A}nwendung und derzeitige {E}videnz in der {A}nästhesiologie, {I}ntensiv- und {N}otfallmedizin
+Notfall Sepsis: Erkennen, Diagnose, Therapie.
+Impact of source of infection on frequency and severity of organ dysfunction in patients with severe sepsis and septic shock.
+MSnbase, Efficient and Elegant R-Based Processing and Visualization of Raw Mass Spectrometry Data
+A Modular and Expandable Ecosystem for Metabolomics Data Annotation in R
+Effective Amino Acid Sequencing of Intact Filgrastim by Multimodal Mass Spectrometry with Topdownr
+A new machine-learning-based prediction of survival in patients with end-stage liver disease

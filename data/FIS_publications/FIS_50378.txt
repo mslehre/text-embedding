@@ -1,0 +1,4 @@
+Hagen P	FIS_50378
+Several adaptor proteins promote intracellular localisation of the transporter MRP4/ABCC4 in platelets and haematopoietic cells.
+The scaffold protein PDZK1 modulates expression and function of the organic anion transporting polypeptide 2B1.
+Neurosteroid Transport in the Brain: Role of ABC and SLC Transporters.

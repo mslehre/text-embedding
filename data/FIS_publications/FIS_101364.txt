@@ -1,0 +1,4 @@
+Levin F	FIS_101364
+Data-driven FDG-PET subtypes of Alzheimer's disease-related neurodegeneration.
+Association of TDP-43 Pathology with Global and Regional 18F-Florbetapir PET Signal in the Alzheimer's Disease Spectrum.
+Association of PET-based stages of amyloid deposition with neuropathological markers of A? pathology.

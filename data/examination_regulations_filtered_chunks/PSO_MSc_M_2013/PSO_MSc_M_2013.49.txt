@@ -1,0 +1,45 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+ur Kontext-bezogenen Interpretation der Ergebnisse biometrischer
+     Modellierungen und Datenauswertungen.
+
+Inhalt
+   • Biometrische Modellierung: Genetik
+   • Biometrische Modellierung: Pharmakokinetik
+   • Methodik klinischer Studien: allgemeine Prinzipien und rechtlicher Rahmen, aus-
+     gewählte statistische Methoden
+
+Vorkenntnisse           Statistik, Gewöhnliche Differentialgleichungen, Mathemati-
+                        sche Biologie
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                        Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       36
+Modul Finanz- und Versicherungsmathematik
+Verantwortlicher      Professur Stochastik
+Lehrformen            Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus          1 Sem., E: zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • Verständnis für die mathematische Modellierung ökonomischer Probleme und für
+     finanzpolitische Fragen,
+   • Kompetenzen zur selbständigen und sicheren Bewältigung von Problemen der
+     Finanzmathematik,
+   • Beherrschung der Prinzipien der Lebens- und Sachversicherung und der zu-
+     gehörigen Konzepte der Stochastik.
+
+Inhalt
+   • Grundlegende Konzepte der Finanzmathematik: Zins, Barwert, Kurse, Renten,
+     Kredite, Effektivzins
+   • Lebensversicherung: Äquivalenzprinzip, Bevölkerungsstatistik und Sterbetafeln,
+     Deckungskapital
+   • Sachversicherung und Risikomanagement: Risiko-Parameter, P

@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+le Differentialgleichungen                           3 1     1 mP/K                6
+            S2 Seminar                                                            2 1 R (90 min)          3
+
+            A14 Statistik                                                   4 2     1 ÜS, mP              9
+            S2 Seminar                                                            2 1 R (90 min)          3
+    6
+                                                                                                                33
+
+
+
+
+            T3 Theoretische Physik 3: Quantenmechanik                       4 2     1 ÜS, K(120 min)/mP    9
+            BA Bachelorarbeit                                                       1                     12
+
+                                                                                        Summe             180
+Legende:
+V: Vorlesung (Umfang in SWS)
+Ü: Übung (Umfang in SWS)
+S: Seminar (Umfang in SWS)
+mP: mündliche Prüfung (30 min), benotet
+K: Klausur (90 min, falls nicht anders angegeben), benotet
+ÜS: Übungsschein, unbenotet
+R: Referat, unbenotet
+RV: Referat mit Verschriftlichung, unbenotet
+LP: Leistungspunkte
+D: Dauer in Semestern
+                                    ERNST-MORITZ-ARNDT-UNIVERSITÄT GREIFSWALD
+                                  MATHEMATISCH-NATURWISSENSCHAFTLICHE FAKULTÄT
+                                        Institut für Mathematik und Informatik
+
+
+                                                 Musterstudienplan
+                                                     Bachelor of Science
+                                                        Mathematik
+
+
+Musterstudienplan Bachelor Mathematik
+
+SemesterVeranstaltung                                                       Art
+                                                                           V Ü S D Prüfungsart             LP
+
+            P1 Analysis I                                                  4 2       2 ÜS                  9
+    1       P2 Lineare 

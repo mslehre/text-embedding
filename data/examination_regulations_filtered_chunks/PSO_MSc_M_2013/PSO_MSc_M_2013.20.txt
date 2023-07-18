@@ -1,0 +1,47 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+            30
+
+
+
+
+             Masterarbeit abgeschlossen                                        2               21
+
+                                                                                 Summe         120
+Musterstudienplan Master Mathematik (Schwerpunkt Statistik/Optimierung)
+Studienbeginn: gerades Wintersemester, z.B. Wintersemester 2012/2013
+
+Semester     Veranstaltung                              Teilgebiet V Art
+                                                                     Ü S D Prüfungsart         LP
+
+             Maß- und Integrationstheorie                    1         4 2     1 mP+Üs/Kl+Üs   9
+             Funktionentheorie                               1         3 1     1 mP/Kl         6
+     1
+
+
+
+
+                                                                                                     27
+             Algorithmik/Komplexitätstheorie                 2         4       1 mP            6
+             Spieltheorie                                    3         3 1     1 mP/Kl         6
+
+             Differentialgeometrie                           1         3 1   1 mP/Kl           6
+             Optimale Steuerung/Variationsrechnung           1         3 1   1 mP/Kl           6
+             Seminar A                                       1             2 2 Sems            3
+     2
+
+
+
+
+                                                                                                     33
+             Kombinatorik                                    2         4     1 mP/Kl           6
+             Zeitreihenanalyse                               3         2 2   1 mP              6
+             Mathematische Statistik                         3         3 1   1 mP              6
+
+             Nichtlineare Optimierung                        1         4       1 mP/Kl         6
+             Codierungstheorie                               2         4       1 mP/Kl         6
+     3
+
+
+
+
+                                                             

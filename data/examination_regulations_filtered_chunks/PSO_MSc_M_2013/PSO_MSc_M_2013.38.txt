@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+ung des Abstraktions-
+     vermögens, Beweisführung),
+   • Kommunikationsfähigkeit in wissenschaftlicher Diskussion (Übung).
+
+Inhalt
+   • Lie-Algebren: Nilpotente und auflösbare Lie-Algebren, Satz von Engel, Satz von
+     Lie, Kriterium von Cartan, Halbeinfache Lie-Gruppen, Kriterium für Halbeinfach-
+     heit, Klassifikation und Darstellungstheorie halbeinfacher Lie-Algebren
+     oder
+   • Darstellungstheorie: Darstellungstheorie endlicher Gruppen, vollständige Redu-
+     zibilität; Schursches Lemma, Charaktere, irreduzible Darstellungen der symme-
+     trischen Gruppen, Young-Tableaux, Darstellungstheorie der klassischen Matrix-
+     Gruppen, Klassische Gruppen, irreduzible Darstellungen der klassischen Grup-
+     pen
+
+Vorkenntnisse            Analysis I, II, Algebra I
+Prüfung                 Die Modulprüfung besteht aus einer Klausur oder einer
+                         mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                         Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                         woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                         Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand                  270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Teilgebiet               Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        21
+Modul Algorithmik und Komplexitätstheorie
+Verantwortlicher          Professur Mathematische Logik und Grundlagen der Mathe-
+                          matik
+Lehrformen                Vorlesung (4 SWS)
+Dauer/Zyklus              1 Sem., C: zweijährlich im WS gerade Jahre
+Qualifikationsziele
+   • Kenntnis der grundlegenden Ergebnisse der strukturellen Komplexitätstheorie,
+   • Beherrschung der wesentlichen Techniken der Komplexitätstheorie,
+   • Kompetenz in Entwurf und Analyse 

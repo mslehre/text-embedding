@@ -1,0 +1,48 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+gstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       7
+Modul Differentialgleichungen in der Biologie
+Verantwortlicher        Professur Biomathematik
+Lehrformen              Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus            1 Sem., jährlich im WiSe
+Inhalt
+   • Stabilität für gewöhnliche Differentialgleichungen
+   • Bifurkationstheorie gewöhnlicher Differentialgleichungen
+   • Beispiele für Bifurkationen
+   • Verzögerte Differentialgleichungen
+   • Reaktions-Diffusionsgleichungen
+
+Qualifikationsziele
+   • sicheres Anwenden der unterschiedlichen Stabilitätskriterien,
+   • Unterscheidung der grundlegenden Bifurkationstypen gewöhnlicher Differential-
+     gleichungen sowie ihre Einordnung gemäß ihrer Bedeutung für die Modellierung,
+   • Durchführung komplexer Stabilitäts- und Bifurkationsanalysen für gewöhnliche,
+     verzögerte und partielle Differentialgleichungen, auch in Gruppen.
+
+Vorkenntnisse            Analysis I, II, Gewöhnliche Differentialgleichungen, Lineare
+                         Algebra I,II
+Prüfung                 Die Modulprüfung besteht aus einer 30-minütigen
+                         mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                         wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                         Thema der Prüfung.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         8
+Modul Dynamische Systeme
+Verantwortlicher          Professur Stochastik
+Lehrformen                Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus              1 Sem., zweijährlich im SoSe ungerade Jahre
+Inhalt
+Grundlagen der Dynamischen Systeme:
+   • Iteration reeller und komplexer Abbildungen, Bahnen, pe

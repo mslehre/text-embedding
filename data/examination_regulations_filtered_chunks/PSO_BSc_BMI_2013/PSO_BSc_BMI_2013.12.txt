@@ -1,0 +1,30 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+      2
+
+
+
+
+                                                                                                                               29
+                  Optimierung oder Theoretische Informatik                                      4 2      1 mP/Kl         9
+                  Computeralgebrasysteme                                                          2      2 Üs            2
+
+                  Gewöhnliche Differentialgleichungen                                           2 1      2 mP+Üs         5
+                  Stochastik                                                                    4 2      1 mP+Üs         9
+       3
+
+
+                                                                                                                               32
+                  Algebra                                                                       4 2      1 mP+Üs/Kl+Üs   9
+                  Praxis des Programmierens                                                     4 2      1 Üs            9
+
+                  Numerik I                                                                     4 2      1 mP+Üs/Kl+Üs   9
+                  Statistik                                                                     4 2      1 mP+Üs         9
+       4          Theoretische Informatik oder Optimierung                                      4 2      1 mP/Kl         9
+                                                                                                                               29
+
+                  Proseminar                                                                           2 2 Sems          2
+
+                  Numerik Grundpraktikum                                                        2 2      1 mP+Üs/Kl+Üs   6
+                  Datenstrukturen und effiziente Algorithmen                                    4 2      1 mP+Üs         9
+       5
+                                                                                                  

@@ -1,0 +1,50 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+g, Nullstellenbestimmung, Termvereinfachung, Differenzie-
+    ren/Integrieren
+  • Erstellung einfacher Programme in einem Computeralgebrasystem
+
+Vorkenntnisse           Algorithmen und Programmierung: Abitur
+                        Computeralgebrasysteme: Analysis, Lineare Algebra und
+                        analytische Geometrie
+
+
+
+
+                                       8
+Prüfung          Die Modulprüfung besteht aus einer Klausur (90 min)
+                  oder einer mündlichen Prüfung (30 min) nach Maßga-
+                  be des Dozenten zum Stoff der Vorlesung Algorithmen
+                  und Programmierung und dem Erwerb von zwei unbeno-
+                  teten Übungsscheinen. Die Kriterien für den Erhalt eines
+                  Übungsscheines zu Computeralgebrasystemen legt der Do-
+                  zent in der ersten Vorlesungswoche fest. Erfolgt keine Fest-
+                  legung, so sind 50 % der Übungsaufgaben erfolgreich zu be-
+                  arbeiten.
+Note              Note der Modulprüfung
+Aufwand in h      330 (Vorlesung: 60, Übung: 60, Selbststudium: 210)
+Leistungspunkte   11
+Modulart          Pflichtmodul
+
+
+
+
+                                 9
+Modul P4: Optimierung
+Verantwortlicher      Professur Angewandte Mathematik, Professur Numerische
+                      Mathematik und Optimierung
+Lehrformen            Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., jährlich im SoSe
+Qualifikationsziele
+  • Kenntnisse über die Bedeutung und Herkunft linearer Optimierungsprobleme,
+  • Kompetenzen zur Lösung linearer Optimierungsprobleme,
+  • Befähigung zur konkreten Umsetzung der entsprechenden Lösungsmethoden,
+  • Befähigung zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse,
+  • Kompetenzen zur mathematischen Modellierung von komplexen Prozessen.
+
+Inhalt
+   • Grundlagen der linearen Optimierung
+   • Dualitätstheorie
+   • Simplexverfahren
+   • duales Simplexverfahren
+   • Innere-Punkte-Methoden
+   • Anwendu

@@ -1,0 +1,40 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+er biologischen Teilgebiete (Nummer
+       5. bis 7.) zu erwerben. Dabei muss in diesem Gebiet, falls vorhanden, das
+       Pflichtmodul (P) belegt werden.
+    5. 30 LP sind aus der Masterarbeit zu erwerben.
+
+(2) Es werden folgende mathematische Module angeboten:
+
+Legende:
+AB                   Arbeitsbelastung in Stunden
+LP                   Leistungspunkte
+PL                   Prüfungsleistungen (Umfang nach § 8, Absatz 2)
+Kl 60                Klausur, Dauer 60 Minuten
+Kl 90                Klausur, Dauer 90 Minuten
+mP                   mündliche Prüfung
+mP/Kl 60             mündliche Prüfung oder Klausur 60 Minuten
+mP/Kl 90             mündliche Prüfung oder Klausur 90 Minuten
+mP+Üs/Kl 60+Üs       mündliche Prüfung und Übungsschein oder alternativ Klausur 60 Minuten und
+                     Übungsschein
+mP+Üs/Kl 90+Üs       mündliche Prüfung und Übungsschein oder alternativ Klausur 90 Minuten und
+                     Übungsschein
+Üs                   Übungsschein
+SV                   Seminarvortrag
+Pr                   Protokolle
+*                    Prüfungsleistung ist unbenotet
+MZ                   Modulzyklus: A = jährlich im Wintersemester
+                                    B = jährlich im Sommersemester
+                                    C = zweijährlich im Wintersemester gerade Jahre
+                                    D = zweijährlich im Sommersemester ungerade Jahre
+                                    E = zweijährlich im Wintersemester ungerade Jahre
+                                    F = zweijährlich im Sommersemester gerade Jahre
+                                    G = jedes Semester
+
+  1. Modulbereich Analysis/Optimierung
+
+Modul                                   Dauer        AB        LP         PL               MZ
+                                        (Semester)
+Approximation                           1            180       6          mP               F
+Bild-und Signalanalyse                  1            180       6          mP               B
+Di

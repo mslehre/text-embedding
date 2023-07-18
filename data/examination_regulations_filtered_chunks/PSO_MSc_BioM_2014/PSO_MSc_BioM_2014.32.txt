@@ -1,0 +1,47 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+lesung: 60, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        10
+Modul Funktionalanalysis
+Verantwortlicher      Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen            Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., zweijährlich im SoSe gerade Jahre
+Inhalt
+   • Banachräume, Folgenräume, Dualräume, Hilberträume
+   • Prinzipien der Funktionalanalysis
+   • kompakte Operatoren
+   • Spektraltheorie beschränkter Operatoren
+   • Resolventen
+   • symmetrische Operatoren
+   • Funktionalkalkül
+   • unbeschränkte Operatoren
+
+Qualifikationsziele
+   • fundierte Kenntnisse der typischen Probleme der unendlich dimensionalen Theo-
+     rie und deren Anwendungen,
+   • Wissen über die enge Verzahnung von Reiner und Angewandter Mathematik
+     (mathematische Physik, Signaltheorie),
+   • Befähigung zu mathematischen Arbeitsweisen (Entwicklung mathematischer In-
+     tuition und deren formale Begründung, Schulung des Abstraktionsvermögens,
+     Beweisführung),
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Vorkenntnisse           Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+                        II
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die Kriterien
+                        für den Erhalt eines Übungsscheines legt der Dozent in der
+                        ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+                        sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Teilgebiet              Analysis/Optimierung
+Regelprüfungsterm

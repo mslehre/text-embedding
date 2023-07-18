@@ -1,0 +1,42 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+rtschaftslehre                                                                     63
+   V1: Einführung in die Volkswirtschaftslehre . . . . . . . . . . . . . . . . . . .     64
+   V2: Mikroökonomik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   65
+   V3: Makroökonomik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     66
+   V4: Makroökonomische Steuerungsprozesse . . . . . . . . . . . . . . . . . .           67
+   V5: Soziale Marktwirtschaft . . . . . . . . . . . . . . . . . . . . . . . . . . . .    68
+   V6: Umwelt- und Ressourcenökonomik . . . . . . . . . . . . . . . . . . . . .          69
+
+
+
+
+                                             3
+Pflichtmodule
+
+
+
+
+                4
+Modul P1: Analysis
+Verantwortlicher        Professur Analysis
+Lehrformen              Vorlesung (8 SWS) und Übung (4 SWS)
+Dauer/Turnus            2 Sem., jeweils 4+2 SWS im WS und SoSe, beginnend
+                        jährlich im WS
+Qualifikationsziele
+   • Beherrschung der Grundbegriffe der Analysis einer und mehrerer Veränderlicher
+     als Fundament für die weiteren fachwissenschaftlichen Studien, insbesondere
+     Befähigung zur sicheren Differentiation, zur Berechnung einfacher mehrdimen-
+     sionaler Integrale sowie einfacher Kurven- und Flächenintegrale,
+   • Beherrschung mathematischer Arbeitsweisen (Entwickeln von mathematischer
+     Intuition und deren formale Begründung, mathematische Begriffsbildung, sichere
+     Beherrschung verschiedener Beweistechniken),
+   • grundlegendes Verständnis für die praktische Relevanz von mathematischen Mo-
+     dellen,
+   • Befähigung zur Vermittlung elementarer mathematischer Sachverhalte sowie
+     Schulung der Team- und Kommunikationsfähigkeit durch die Übungen.
+
+Inhalt
+   • Axiomatik der reellen Zahlen und elementaren Funktionen
+   • Konvergenz von Folgen und Reihen
+   • Metrische Räume, Banachscher Fixpunktsatz
+   • Differential- und Integralrechnung von Funktionen in einer oder mehr

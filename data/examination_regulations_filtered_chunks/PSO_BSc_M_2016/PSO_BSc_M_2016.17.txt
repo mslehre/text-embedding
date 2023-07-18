@@ -1,0 +1,28 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+ . . . . . . . . .        42
+   T3: Theoretische Physik 3: Quantenmechanik . . . . . . . . . . . . . . . . . .         43
+   T4: Theoretische Physik 4: Thermodynamik und Statistische Physik . . . . .             44
+
+Experimentalphysik                                                                        45
+  E1: Experimentalphysik 1: Mechanik / Wärme . . . . . . . . . . . . . . . . . .         46
+  E2: Experimentalphysik 2: Elektrizität / Optik . . . . . . . . . . . . . . . . . .     47
+  E3: Experimentalphysik 3: Atome / Moleküle . . . . . . . . . . . . . . . . . .         48
+  E4: Experimentalphysik 4: Festkörper . . . . . . . . . . . . . . . . . . . . . .       49
+
+Nebenfach Informatik                                                                      50
+  I1: Theoretische Informatik . . . . . . . . . . . . . . . . . . . . . . . . . . . .     51
+  I2: Praxis des Programmierens . . . . . . . . . . . . . . . . . . . . . . . . . .       52
+  I3: Datenstrukturen und effiziente Algorithmen . . . . . . . . . . . . . . . . .        53
+  I4: Praktikum Softwaretechnik . . . . . . . . . . . . . . . . . . . . . . . . . . .     54
+  I5: Computergrafik I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    55
+  I6: Datenbanken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     56
+  I7: Randomisierte Algorithmen . . . . . . . . . . . . . . . . . . . . . . . . . .       57
+
+Betriebswirtschaftslehre                                                                  58
+   B1: Einführung in die Betriebswirtschaftslehre . . . . . . . . . . . . . . . . . .    59
+   B2: Technik des betrieblichen Rechnungswesens (Buchhaltung) . . . . . . .              60
+   B3: Güterwirtschaftliche Prozesse . . . . . . . . . . . . . . . . . . . . . . . .     61
+   B4: Betriebliche Entscheidungsprozesse . . . . . . . . . . . . . . . . . . . . .       62
+
+Volkswirtschaftslehre                                                                     63
+   V1: Einfüh

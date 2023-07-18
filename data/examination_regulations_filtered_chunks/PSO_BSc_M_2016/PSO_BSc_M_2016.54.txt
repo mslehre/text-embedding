@@ -1,0 +1,45 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+male Systeme,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion in
+     den Übungen.
+
+Inhalt
+   • Grundlagen der Berechenbarkeits- und Algorithmentheorie: Intuitiver
+     Algorithmus-Begriff und mathematische Präzisierungen der Berechenbarkeit
+     (goto-, while-, aber auch loop-Programme, Turingmaschinen u.a.), Church-
+     Turing-Hypothese, universelle Funktionen und unlösbare Probleme
+   • Endliche Automaten und sequentielle Wortfunktionen, Boolesche Funktionen,
+     Schaltalgebra
+   • Formale Sprachen, die Klassen der Chomsky-Hierarchie und ihre Akzeptortypen
+
+Vorkenntnisse           Lineare Algebra, Analysis, Algorithmen und Programmierung
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                        ten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Nebenfachmodul
+
+
+
+
+                                       51
+Modul I2: Praxis des Programmierens
+Verantwortlicher           Professuren Informatik
+Lehrformen                 Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus               1 Sem., jährlich im WS
+Qualifikationsziele
+   • Befähigung zur selbständigen Planung komplexerer Anwendungen einschließlich
+     graphischer Benutzerschnittstelle,
+   • Beherrschung der Implementierung in einer objektorientierten Programmierspra-
+     che (Java oder C++),
+   • Kenntnisse über gängige Werkzeuge zur Softwareentwicklung und deren Anwen-
+     dung,
+   • Fähigkeit, sich selbständig in neue Werkzeuge und Sprachen einzuarbeiten.
+
+Inhalt
+   • aktuelle Werkzeuge zur Erstellung und Verwaltung komplexerer Softwareprojekte
+     (integrierte Entwicklungsumgebungen, Versionsverwaltung und Programmieren
+     im Team, Debugging, Profiling)
+   • weiterführende Themen der Programmierung in ei

@@ -1,0 +1,40 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+ischen Physik: Photoelektrischer Effekt, Schwarzer Strahler
+     und Strahlungsgesetze, Röntgenstrahlung, Radioaktivität, Bohrsches Atommo-
+     dell, Welle-Teilchen-Dualismus, Compton-Streuung
+   • Quantenmechanische Beschreibung des Wasserstoffatoms, Wellenfunktion
+     (Radial- und Kugelflächenfunktionen), Quantisierung der Energie, Bahn-
+     Drehimpuls, Magnetisches Moment, Spin des Elektrons, Spin-Bahn-Kopplung,
+     Zeeman-Effekt, g- Faktor, Feinstruktur des Wasserstoffspektrums mit Auswahl-
+     regeln, Lamb-Verschiebung, Pauliprinzip, Periodensystem der Elemente, Hund-
+     sche Regeln, Funktionsprinzip des Lasers, Chemische Bindungen, Wasserstoff-
+     Molekül und -ion, Molekülorbitale, Elektronische Zustände, Rotation, Schwin-
+     gung, Übergänge und Auswahlregeln
+
+Vorkenntnisse           keine
+Prüfung                unbenoteter Übungsschein, mündliche Prüfung (30 Minuten)
+                        oder Klausur (90 Minuten) nach Maßgabe des Dozenten
+Note                    Note der Modulprüfung
+Aufwand in h            240 (Vorlesung: 60, Übung: 30, Selbststudium: 150)
+Leistungspunkte         8
+Modulart                Nebenfachmodul
+
+
+
+
+                                       48
+Modul E4: Experimentalphysik 4: Festkörper
+Verantwortlicher         Professur Grenz- und Oberflächenphysik
+Lehrformen               Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus             1 Sem., jährlich im SS
+Qualifikationsziele
+   • Kenntnis der grundlegenden Begriffe, Phänomene und Methoden der
+     Festkörperphysik
+   • Fähigkeit, Aufgaben der Festkörperphysik selbständig zu lösen
+
+Inhalt
+   • Bindungskräfte im Festkörper (van der Waals, ionisch, kovalent, metallisch), Kris-
+     tallstrukturen (Bravais- Gitter, primitive Einheitszelle, Wigner-Seitz-Zelle, Miller-
+     Indizes, reziprokes Gitter), Messmethoden, Elastische Eigenschaften von Kris-
+     tallen, akustische und optische Phononen, Dispersionsrelationen, Spezifische
+     Wärme, Anharmon

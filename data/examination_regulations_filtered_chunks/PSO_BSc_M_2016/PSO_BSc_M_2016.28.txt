@@ -1,0 +1,65 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+e, Satz von Fubini
+   • Darstellungssätze (Riesz, Radon-Nikodym)
+   • Lp -Räume
+
+Weiterführende Themen, z.B.
+  • Lebesgue-Integral auf Untermannigfaltigkeiten des Rn , Differentialformen und
+     der Satz von Stokes
+  • Desintegration und bedingte Erwartungswerte
+
+Vorkenntnisse           Analysis I, II
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                        ten und dem Erwerb eines unbenoteten Übungsscheines.
+                        Die Kriterien für den Erhalt eines Übungsscheines legt der
+                        Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                        Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                        zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul
+
+
+
+
+                                       15
+Bachelorarbeit
+
+
+
+
+                 16
+Modul BA: Bachelorarbeit
+Verantwortlicher     Betreuender Hochschullehrer
+Lehrformen           Schriftliche Abschlussarbeit
+Dauer/Turnus         6 Monate, jederzeit
+Qualifikationsziele
+   • Befähigung zur Bearbeitung einer mathematischen, forschungsorientierten Fra-
+     gestellung unter Anleitung durch einen Hochschullehrer in begrenzter Zeit
+   • Kompetenzen zur Niederschrift der erzielten Ergebnisse in Form einer wissen-
+     schaftlichen Arbeit
+
+Inhalt
+   • je nach Themenstellung
+
+Vorkenntnisse           je nach Themenstellung
+Prüfung                Schriftliche Arbeit mit Begutachtung
+Note                    Gemittelte Note der Gutachter
+Aufwand in h            360 (Selbststudium: 360)
+Leistungspunkte         12
+Modulart                Pflichtmodul
+
+
+
+
+                                       17
+Wahlmodule
+
+
+
+
+             18
+Modul A1: Algebra II
+Verantwortlicher        

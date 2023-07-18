@@ -1,0 +1,46 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+ 50 %
+                         der Übungsaufgaben erfolgreich zu bearbeiten. Proseminar:
+                         Die Prüfungsleistung besteht aus einem 45- bis 60-minütigen
+                         Vortrag zu einem vereinbarten Thema.
+
+                                        15
+Note                  Note der Modulprüfung
+Aufwand               210 (Vorlesung: 30, Übung: 15, Seminar: 30, Selbststudium:
+                      135)
+Leistungspunkte       7
+Regelprüfungstermine Übung: 3. Sem., Modulprüfung: 3. Sem., Proseminar: 4.
+                      Sem.
+Modulart              Pflichtmodul
+
+
+
+
+                                      16
+Modul Algebra I
+Verantwortlicher         Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WS
+Qualifikationsziele
+   • Verständnis grundlegender Prinzipien algebraischer Strukturen,
+   • Verständnis für die Anwendbarkeit und den Nutzen algebraischer Strukturen in
+     vielen Bereichen der Mathematik,
+   • vertieftes Verständnis und Befähigung zur Verwendung der algebraischen Kon-
+     zepte Gruppen, Ringe, Körper und der Begriffe wie Faktorisierung und Teilbarkeit
+     im abstrakten Kontext,
+   • Beherrschung von Methoden des axiomatischen Vorgehens,
+   • Befähigung zu mathematischen Arbeitsweisen (Entwickeln mathematischer Intui-
+     tion und deren formale Begründung, Schulung des Abstraktionsvermögens),
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Gruppen: Satz von Lagrange, Normalteiler und Faktorgruppen, Isomorphiesätze,
+     zyklische Gruppen, endliche abelsche Gruppen, Permutationsgruppen, Sylow-
+     sche Sätze
+   • Ringe : Ideale und Faktorringe, Polynomringe, euklidische Ringe, Hauptidealrin-
+     ge, Teilbarkeit, Quotientenkörper, faktorielle Ringe
+   • Körper: Körpererweiterungen
+
+Vorkenntnisse         Lineare Algebra I, II
+Prüfu

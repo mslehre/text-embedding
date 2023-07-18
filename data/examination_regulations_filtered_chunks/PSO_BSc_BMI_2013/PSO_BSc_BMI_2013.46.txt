@@ -1,0 +1,55 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+ungen.
+
+Inhalt
+   • Lösung kombinatorischer Spiele
+   • Klassische Zwei-Personen Matrix-Spiele, reine und gemischte Strategien
+   • Minimax-Lösung und Nash-Gleichgewicht, Existenzsätze
+   • Evolutionäre Spieltheorie, evolutionär stabile Gleichgewichte
+   • Dynamische Modellierung von Spielen
+   • Mehrpersonenspiele, Koalitionsbildung, Kern, Shapley-Indizes
+
+Vorkenntnisse         Analysis, Lineare Algebra, Stochastik
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                      wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                      Thema der Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 5. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                         39
+Modul Spezialvorlesung I
+Verantwortlicher      Vorsitzender des Prüfungsausschusses
+Lehrformen            Vorlesung (2 SWS) und Vorlesung (2 SWS)
+Dauer/Turnus          2 Sem., nach Bedarf
+Qualifikationsziele
+Grundlegende Kenntnisse und fundierte Kompetenzen in zwei ausgewählten Spezial-
+gebieten.
+Inhalt
+   • Spezielle Themen aus Mathematik und Informatik
+
+Vorkenntnisse         nach Bedarf
+Prüfung              Die Modulprüfungen bestehen aus einer Klausur oder einer
+                      mündlichen Prüfung.
+Note                  Durchschnitt der Noten der Modulprüfungen
+Aufwand               180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 6. Semester
+Modulart              Wahlmodul
+
+
+
+
+                                     40
+Modul Spezialvorlesung II
+Verantwortlicher      Vorsitzender des Prüfungsausschusses
+Lehrformen            Vorlesung (4 SWS)
+Dauer/Turnus          1 Sem., nach Bedarf
+Qualifikationsziele
+Grundlegende Kenntnisse und fundierte Kompetenzen in einem ausgewählten S

@@ -1,0 +1,50 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+                   min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                       ten.
+Note                   Note der Modulprüfung
+Aufwand in h           180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte        6
+Modulart               Wahlmodul
+
+
+
+
+                                      21
+Modul A4: Differentialgeometrie
+Verantwortlicher         Professur Analysis
+Lehrformen               Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus             1 Sem., zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • Kenntnisse über Mannigfaltigkeiten und Untermannigfaltigkeiten,
+   • Kompetenzen im analytischen Umgang mit gekrümmten Objekten,
+   • Befähigung zur koordinatenfreien Erfassung und Beschreibung von mathemati-
+     schen Eigenschaften von Mannigfaltigkeiten,
+   • Kenntnisse über den Zusammenhang geometrischer Extremaleigenschaften mit
+     physikalischen Variationsprinzipien,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Klassische Kurven- und Flächentheorie, Theorema egregium
+   • Differenzierbare Mannigfaltigkeiten, Vektorbündel, Tensorkalkül
+   • (Pseudo-)Riemannsche Mannigfaltigkeiten
+   • Zusammenhänge auf Vektorbündeln, Levi-Civita-Zusammenhang, Torsion und
+     Krümmung
+   • physikalische Anwendungen der Differentialgeometrie, z. B. in spezieller oder all-
+     gemeiner Relativitätstheorie
+
+Vorkenntnisse            Analysis, Lineare Algebra
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                         min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                         ten.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Wahlmodul
+
+
+
+
+                                        22
+Modul A5: Finanz- und Versicherungsmathematik
+Verantwortlicher          
