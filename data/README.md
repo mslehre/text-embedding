@@ -115,20 +115,20 @@ for f in *.txt; do cat $f | perl -pe 's/^([^\d]+)\s?,\d+;/$1/' > $f.new; mv $f.n
 ## To create pre-version of list of publishers of FIS data:
 Read in `Publikationen.csv` and `Personen_Einrichtungen_2023_06.csv` from 
 `/data/FIS` and change `Publikationen.csv` by adding the following columns
+
 * `lastname` of the person from `Personen_Einrichtungen_2023_06.csv`
 * `forename` of the person from `Personen_Einrichtungen_2023_06.csv`
 * `titles` that contains all publications that are listed in this dataframe for 
 the respective person 
-* `institution` that contains only the part of the description of the 
-institution in `Publikationen.csv` up to the first `/`
+* `institution` that contains only the part of the description of the institution in `Publikationen.csv` up to the first `/`
 
-[//]: # (Hello)
-and deleting the columns 
+and deleting the columns
+
 * `author_ID`
 * `journal`
 * `year`
 * `title`
-<a/>
+
 In addition, the duplicate rows of persons are deleted and the resulting 
 dataframe is written to `/data/FIS/persons.csv`.
 
@@ -145,7 +145,7 @@ the columns:
 * `line`, the row in the dataframe
 * `inst_ID`, the ID of the institution
 * `faculty_ID`, the ID of the faculty
-<a/>
+
 Modify the person ID by adding `FIS_` as prefix and replace in the `institution`
 column each institution with an abbreviation of it. Then add another faculty, 
 which is `Caspar-David-Friedrich Institut`, and change the faculty of those 
@@ -192,7 +192,7 @@ Pathophysiologie        7
 Universitätsapotheke    8
 ```
 
-## Table containing the abbreviaation of the faculty and colors:
+## Table containing the abbreviation of the faculty and colors:
 Manually create the tab separated file `FIS.colors.fak.tbl` that contains the
 manually created abbreviations of the faculties in `/data/FIS/publishers.tbl` 
 and a number representing a color.
