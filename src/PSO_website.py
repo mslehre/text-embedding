@@ -64,8 +64,8 @@ def get_answer_from_question(question:str,
                     k=k)
     # Get the asnwer:
     answer = get_answer(query=question,
-                    text_dir="../data/examination_regulations_filtered_chunks/",
-                    id_list=ids)
+                text_dir="../data/examination_regulations_filtered_chunks/",
+                id_list=ids)
     # Format the answer text into a uniform format:
     question = question.strip()
     answer = answer.strip()
