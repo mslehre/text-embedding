@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+m: 150)
+Leistungspunkte       8
+Regelprüfungstermine Modulprüfung EEDV: 1. Sem., Übung CAS: 2. Sem.
+
+                                       9
+Modulart   Pflichtmodul
+
+
+
+
+                          10
+Modul Theoretische Informatik
+Verantwortlicher       Professur Mathematische Logik und Grundlagen der Mathe-
+                       matik
+Lehrformen             Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus           1 Sem., jährlich im SoSe
+Qualifikationsziele
+   • Kenntnis der grundlegenden Eigenschaften und Grenzen der Berechenbarkeit,
+   • Verständnis der Bedeutung der Berechenbarkeit für die Informatik,
+   • Verständnis für mathematische Modelle informationsverarbeitender Systeme und
+     deren Anwendung,
+   • Befähigung zum Vergleich von Typen formaler Sprachen und zugehöriger Akzep-
+     tortypen bezüglich ihrer Leistungsvermögen,
+   • Verständnis und Beherrschung des Wechselspiels zwischen mathematischer In-
+     tuition und ihrer Präzisierung durch formale Systeme,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion in
+     den Übungen.
+
+Inhalt
+   • Grundlagen der Berechenbarkeits- und Algorithmentheorie: Intuitiver
+     Algorithmus-Begriff und mathematische Präzisierungen der Berechenbarkeit
+     (goto-, while-, aber auch loop-Programme, Turingmaschinen u.a.), Church-
+     Turing-Hypothese, universelle Funktionen und unlösbare Probleme.
+   • Endliche Automaten und sequentielle Wortfunktionen, Boolesche Funktionen,
+     Schaltalgebra.
+   • Formale Sprachen, die Klassen der Chomsky-Hierarchie und ihre Akzeptortypen.
+
+Vorkenntnisse         Lineare Algebra, Analysis, Algorithmen und Programmierung
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                      wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                      Thema der Prüfung.
+Note                  Note der Modulprüfung

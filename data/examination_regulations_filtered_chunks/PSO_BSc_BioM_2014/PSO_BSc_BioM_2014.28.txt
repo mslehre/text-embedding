@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+ Programmierung
+Prüfung                Die Kriterien für den Erhalt eines Übungsscheines legt der
+                        Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                        Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                        zu bearbeiten.
+Note                    keine
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul im 5. Sem.
+Regelprüfungstermin    5. Sem.
+
+
+
+
+                                      19
+Modul Numerik I
+Verantwortlicher        Professur Angewandte Mathematik, Professur Numerische
+                        Mathematik und Optimierung
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im SoSe
+Inhalt
+   • Grundlagen der Gleitpunktarithmetik
+   • Fehleranalyse
+   • Verfahren zur Lösung von linearen und nichtlinearen Gleichungssystemen und
+     Ausgleichsproblemen
+   • Interpolation (Polynome und Splines) und Quadratur (Newton-Cotes und Gauß)
+
+Qualifikationsziele
+  • Kenntnisse zur Interpretation numerischer Resultate,
+  • Kenntnisse zur Anwendbarkeit numerischer Approximationsverfahren,
+  • Kompetenzen beim Einsatz numerischer Software,
+  • Kompetenzen bei der Entwicklung numerischer Software,
+  • Befähigung zur Lösung spezieller Grundaufgaben der Numerik,
+  • Befähigung zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse.
+
+Vorkenntnisse           Analysis I, II, Lineare Algebra I, II
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die Kriterien
+                        für den Erhalt eines Übungsscheines legt der Dozent in der
+                        ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+                        sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwan

@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+ik, Statistik
+Prüfung                 Die Modulprüfung besteht aus einer Klausur oder einer
+                         mündlichen Prüfung. Die aktive Teilnahme an der Übung wird
+                         erwartet. Die Inhalte von Vorlesung und Übung sind Thema
+                         der Prüfung.
+Note                     Note der Modulprüfung
+Aufwand                  270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Teilgebiet               Stochastik/Statistik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                          39
+Modul Räumliche Statistik
+Verantwortlicher       Professur Biomathematik
+Lehrformen             Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Zyklus           1 Sem., F: zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • Kenntnis der grundlegenden Modelle verallgemeinert stationärer räumlicher und
+     räumlich-zeitlicher Prozesse und der grundlegenden Methoden zur Schätzung
+     ihrer Charakteristika,
+   • Kenntnis der grundlegenden Modelle für Punktprozesse und der grundlegenden
+     Methoden zur Schätzung ihrer Charakteristika,
+   • Beherrschung der Auswahl, Bewertung und praktischen Anwendung statistischer
+     Methoden auf räumlich und räumlich-zeitliche Datensätze.
+
+Inhalt
+   • Zufallsfelder in stetigem Raum und stetiger Zeit: Mittelwert und Covariogramm-
+     Schätzung
+   • Punktprozesse und Charakteristiken: Poissonprozess, K- und L-Funktion, Mo-
+     mentenmaße, Schätzung und Inferenz
+   • Zufällige Mengen und Maße, Boolsches Modell
+   • Anwendungsbeispiele
+
+Vorkenntnisse           Stochastik I, Lineare Algebra I, II
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung.
+                        Die aktive Teilnahme an der Übung wird erwartet. Die Inhalte
+                        von Vorlesung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vo

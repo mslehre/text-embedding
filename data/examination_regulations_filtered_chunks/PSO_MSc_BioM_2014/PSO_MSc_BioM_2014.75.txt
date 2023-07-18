@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+, in dem das Modul angeboten wird.
+
+
+
+
+                                    65
+Modul Plant Reproductive Biology
+Verantwortlicher        Professur für Allgemeine und Spezielle Botanik
+Lehrformen              Aus dem Angebot sind 2 Vorlesungen und ein Praktikum
+                        auszuwählen:
+                        Population Biology of Plants, Vorlesung (2 SWS),
+                        Population Biology of Plants, Praktikum (5 SWS),
+                        Population Genetics of Plants, Vorlesung (2 SWS),
+                        Population Genetics of Plants, Praktikum (5 SWS),
+                        Plant Breeding Systems, Vorlesung (2 SWS)
+Dauer/Turnus            2 Sem., zweijährlich im WiSe gerade Jahre und zweijährlich
+                        im SoSe ungerade Jahre
+Inhalt
+Vorlesung Biology of Plants:
+   • Lebensstrategien und Wuchsformen bei Pflanzen
+   • Samenbanken, Keimung und Etablierung
+   • Ausbreitungsmechanismen bei Pflanzen
+   • Selbstausdünnung
+   • Modelle zur Populationsdynamik bei Pflanzen
+   • Konkurrenz zwischen Pflanzenarten
+   • Prädation, Herbivorie
+   • Demographie pflanzlicher Populationen: Lebenstafeln, Matrixmodelle; Räumliche
+     Muster pflanzlicher Populationen und deren Analyse
+   • Metapopulationsmodelle
+   • Methoden zur Datenerhebung für Pflanzen
+
+Praktikum Biology of Plants:
+   • Praktische Arbeiten zur Demographie heimischer Pflanzenarten
+   • Fähigkeit zur wissenschaftlichen Hypothesenprüfung
+   • Versuchsdesign und Konzeption eines wissenschaftlichen Experimentes sowie
+     dessen eigenständige Durchführung
+
+Vorlesung Plant Breeding Systems:
+   • Generationswechsel höherer Pflanzen, sexuelle und asexuelle Vermehrung bei
+     Pflanzen und die Konsequenzen für die genetische Struktur von Populatio-
+     nen, Ressourcenallokation in sexuelle Funktionen, Geschlechtsbestimmung bei
+     Pflanzen, SI-Systeme, Gynodiözie, Heterodichogamie, Diözie und Mönözie,
+     Bestäubung und Genfluss, Evolution der Reprodukt

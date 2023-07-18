@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+en Problemstellungen in der Sprache der Wahrscheinlichkeitstheorie,
+   • Überblick über die Vielfalt stochastischer Methoden,
+   • Kompetenz zur selbständigen Beschäftigung mit wissenschaftlichen Arbeiten aus
+     dem Gebiet der Wahrscheinlichkeitstheorie,
+   • Kompetenz zum selbständigen wissenschaftlichen Arbeiten.
+
+Inhalt
+   • Maßtheoretische Grundlegung der Wahrscheinlichkeitstheorie
+   • Konvergenzbegriffe für Zufallsvariablen, schwache Konvergenz von Wahrschein-
+     lichkeitsmaßen
+   • Bedingte Erwartungswerte
+   • Wahrscheinlichkeitsmaße in Produkträumen
+   • Null-Eins-Gesetze
+   • Gesetze der großen Zahlen
+   • Charakteristische Funktionen, zentraler Grenzwertsatz
+   • Weiterführende Fragestellungen: z. B. Martingale in diskreter Zeit, Theorie großer
+     Abweichungen, Ergodensatz, unbegrenzt teilbare Verteilungen
+
+Vorkenntnisse             Analysis I, II, Stochastik, Maßtheorie
+Prüfung                  Die Modulprüfung besteht aus einer mündlichen Prüfung.
+                          Die Kriterien für den Erhalt eines Übungsscheines legt der
+                          Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                          Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                          zu bearbeiten.
+Note                      Note der Modulprüfung
+Aufwand                   270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte           9
+Teilgebiet                Stochastik/Statistik
+Regelprüfungstermin      Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         46
+Modul Zeitreihenanalyse
+Verantwortlicher      Professur Stochastik, Professur Biomathematik
+Lehrformen            Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Zyklus          1 Sem., B: jährlich im SoSe
+Qualifikationsziele
+   • Beherrschung der grundlegenden Modelle und statistischen Verfahren für Zeitrei-
+     hen, sowohl konzeptionell wie auch in der interaktiven Arbeit mit Daten
+   • Ken

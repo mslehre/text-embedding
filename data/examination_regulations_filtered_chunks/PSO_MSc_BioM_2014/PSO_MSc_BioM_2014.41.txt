@@ -1,0 +1,51 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+Leistungspunkte           6
+Teilgebiet                Analysis/Optimierung
+Regelprüfungstermin Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       20
+Modul Theoretische Ökologie
+Verantwortlicher         Professur Biomathematik
+Lehrformen               Vorlesung (4 SWS)
+Dauer/Turnus             1 Sem., zweijährlich im SoSe gerade Jahre
+Inhalt
+   • Modellierungsprinzipien, Wachstumsraten
+   • Modelltypen und ihre Anwendungsbereiche
+   • Wachstum einer Population, logistisches Wachstum, Fischfang- und Ernteszena-
+     rien als Optimierungsprobleme
+   • Konkurrenz, Räuber-Beute und Symbiose-Modelle
+   • Metapopulationen
+
+Qualifikationsziele
+   • umfassende Kenntnisse zu Modellen in der Populationsökologie,
+   • erweiterte Fähigkeiten in der Analyse von Differentialgleichungs- und stochasti-
+     schen Modellen
+   • Kompetenzen zur selbstständigen Auswahl von adäquaten Modellen und
+     Befähigung zur Interpretation der Ergebnisse,
+
+Vorkenntnisse            Mathematische Biologie, Differentialgleichungen in der Bio-
+                         logie, Stochastische Modelle in der Biologie
+Prüfung                 90-minütige Klausur oder 30-minütige mündliche Prüfung
+                         nach Vorgabe des Dozenten.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        21
+Diskrete Mathematik / Algorithmik
+Modul Algebra I
+Verantwortlicher         Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WiSe
+Inhalt
+   • Gruppen: Satz von Lagrange, Normalteiler und Faktorgruppen, Isomorphiesätze,
+     zyklische Gruppen, endliche abelsche Gruppen, Permutationsgruppen, Sylow-
+     sc

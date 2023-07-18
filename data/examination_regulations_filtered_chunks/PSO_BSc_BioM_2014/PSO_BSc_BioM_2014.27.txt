@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+n in der Diskussionsführung;
+   • Befähigung zur informativen Visualisierung realer Daten,
+   • Beherrschung der adäquaten Auswahl statistischer Methoden für reale Da-
+     tensätze.
+
+Vorkenntnisse            Analysis, Lineare Algebra, Stochastik, Statistik
+Prüfung                 Die Modulprüfung besteht aus einem 60-minütigen Vortrag
+                         zu einem vereinbarten Thema. Die erfolgreiche Teilnahme
+                         am Praktikum ist notwendig für das Absolvieren des Moduls
+                         (1 Übungsschein).
+Note                     keine
+Aufwand in h             180 (Seminar: 30, Praktikum: 30, Selbststudium: 120)
+Leistungspunkte          6
+Modulart                 Pflichtmodul im 5. und 6. Sem.
+Regelprüfungstermin     Seminar: 5. und 6. Sem., Statistisches Praktikum: 5.Sem.
+
+
+
+
+                                         18
+Modul Praxis des Programmierens
+Verantwortlicher      Professuren Informatik
+Lehrformen            Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., jährlich im WiSe
+Inhalt
+   • aktuelle Werkzeuge zur Erstellung und Verwaltung komplexerer Softwareprojekte
+     (integrierte Entwicklungsumgebungen, Versionsverwaltung und Programmieren
+     im Team, Debugging, Profiling)
+   • weiterführende Themen der Programmierung in einer objektorientierten Pro-
+     grammiersprache (GUI, Exceptions, Threads, Typvariablen)
+
+Qualifikationsziele
+   • Befähigung zur selbständigen Planung komplexerer Anwendungen einschließlich
+     graphischer Benutzerschnittstelle,
+   • Beherrschung der Implementierung in einer objektorientierten Programmierspra-
+     che (Java oder C++),
+   • Kenntnisse über gängige Werkzeuge zur Softwareentwicklung und deren Anwen-
+     dung,
+   • Fähigkeit, sich selbständig in neue Werkzeuge und Sprachen einzuarbeiten.
+
+Vorkenntnisse           Einführung in die EDV, Algorithmen und Programmierung
+Prüfung                Die Kriterien für den Erhalt eines Übungsscheines legt der

@@ -1,0 +1,29 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+logie                             3         2 2     1 mP/Kl90        6
+        1
+
+
+
+
+                                                                                                                               31
+                     Computergrafik                                                    2         2 2     1 mP/Kl90        6
+                     Allgemeine Molekularbiologie                                      6         4 3     1 2 Kl60, Pr*   10
+                     Molekulare Phylogenetik beginnt                                   6         1 1     2 Kl60          3
+
+                     Kombinatorik                                                      2         4     1 mP/Kl90          6
+                     Bioinformatik                                                     2         2 2   1 mP               6
+        2
+
+
+
+                                                                                                                               29
+                     Seminar A beginnt                                                 4             2 2 Sems*            3
+                     Molekulare Phylogenetik endet                                     6           5 2 2 Pr*, Sems*       7
+                     Spezielle Molekularbiologie II beginnt                            6         5     2 Kl90             7
+
+                     Datenbanken                                                       2         2 2     1 mP            6
+                     Graphentheorie                                                    2         3 1     1 mP/Kl90       6
+                     Seminar A endet                                                   4               2 2 Sems*         3
+        3            Diskrete Optimierung                                              2         4       1 mP/Kl90       6     30
+                     Spezielle Molekularbiologie II endet                              6         2       2               3
+                     Master

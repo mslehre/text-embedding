@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Questions for Examination Regulations</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: 1fr 1fr; /* two columns */
+            gap: 10px;
+            align-items: center;
+            justify-content: center;
+            height: 98vh;
+            text-align: center;
+        }
+
+        .column {
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+
+        .question-input{
+            width: 100%;
+            height: 20vh;
+            font-size: 16px;
+        }
+        .answer-display{
+            width: 100%;
+            height: 40vh;
+            font-size: 16px;
+        }
+
+        .button-container {
+            text-align: center;
+        }
+
+        button[type="submit"] {
+            width: 150px;
+            height: 5vh;
+            font-size: 16px;
+            background-color: #b6ebfa;
+            border: 1px solid;
+        }
+
+        /* Add effect that buttons are pressed down */
+        button[type="submit"]:active {
+            transform: translateY(2px);
+        }
+
+        .info-text {
+            grid-column: 1 / -1;
+            text-align: center;
+            font-size: 16px;
+        }
+
+        .chunks-textarea {
+            width: 100%;
+            height: 70vh;
+            font-size: 16px;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="info-text">
+            <h1>Questions for Examination Regulations</h1>
+        
+            <p>Welcome to the question and answer website for examination 
+                regulations from the univerity of Greifswald!</p>
+            <p>Feel free to ask any questions you have regarding any 
+                examination regulation that is accesable on the official 
+                <a href="https://www.uni-greifswald.de/studium/waehrend-des-st\udiums/rund-um-die-pruefungen/pruefungs-und-studienordnungen/" 
+                target="_blank" style="color: red;">univerity website</a>
+                <br>Please be aware that the Large Language Model can 
+                hallucinate and give wrong information, always check important 
+                information yourself.</p>
+                <br> ATTENTION: At the moment only a subset of examination 
+                regulations are available. More will be added in the future.
+        </div>
+        <div class="column">
+            <form method="POST" action="/">
+                <textarea id="question" name="question" class="question-input" 
+                    placeholder="Enter your question."></textarea>
+                <br><br>
+                <div class="button-container">
+                    <button type="submit">Get Answer</button>
+                </div>
+                <br>
+                <textarea id="answer-display" class="answer-display" 
+                    placeholder="The answer will be displayed here." 
+                    readonly>{{ answer }}</textarea>
+        </div>
+        <div class="column">
+            <textarea id="chunks-text" class="chunks-textarea" 
+                placeholder="The used text chunks will be displayed here."
+                readonly>{{ chunks }}</textarea>
+        </div>
+    </form>
+    </div>
+</body>
+</html>

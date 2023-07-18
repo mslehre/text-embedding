@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+ des Prüfungsausschusses steht als Ansprechpartner und Betreuer
+für das berufsbezogene Praktikum zur Verfügung.
+
+(4) Als Prüfungsleistung ist eine 3-seitige schriftliche Darstellung der Praktikumstätigkeit
+(Protokoll/Bericht) anzufertigen. Diese wird von dem Vorsitzenden des
+Prüfungsausschusses nach Absatz 2 als „bestanden“ oder „nicht bestanden“ bewertet.
+
+(5) Nach den Semestern 2 und 4 besteht die Möglichkeit, ein Auslandssemester
+(Mobilitätsfenster) zu absolvieren.
+
+(6) Bereits vor dem Studium abgeleistete Praktika können auf Antrag des Studierenden
+vom Vorsitzenden des Prüfungsausschusses anerkannt werden, wenn sie in direktem
+Bezug zum Studium stehen und deren Abschluss zum Zeitpunkt der Immatrikulation
+nicht mehr als ein Jahr zurückliegt. Der Antrag ist schriftlich an den
+Prüfungsausschussvorsitzenden zu richten und im Zentralen Prüfungsamt einzureichen.
+
+
+                                             §7
+                                            Module
+
+(1) Im Bachelorstudiengang werden folgende Module studiert:
+
+Legende:
+AB      Arbeitsbelastung in Stunden
+LP      Leistungspunkte
+PL      Prüfungsleistungen (Umfang nach § 8, Absatz 2)
+RPT     Regelprüfungstermin
+mP      mündliche Prüfung
+Kl      Klausur
+mP/Kl   mündliche Prüfung oder Klausur
+Üs      Übungsschein
+Sems    Seminarschein
+*       Prüfungsleistung ist unbenotet
+
+Modul                        Dauer        AB        LP          PL (Art und    RPT
+                             (Semester)                         Umfang)        (Semester)
+Analysis                     2            540       18          2 Üs *         1. und 2.
+                                                                1 mP/Kl        2.
+Lineare Algebra und          2            540       18          2 Üs *         1. und 2.
+analytische Geometrie                                           1 mP/Kl        2.
+Algorithmen und              1            270       9           1 Üs *         1.
+Programmierung                                     

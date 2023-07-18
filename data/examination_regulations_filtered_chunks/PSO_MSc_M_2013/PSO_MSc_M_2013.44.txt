@@ -1,0 +1,51 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+orik, Lineare Algebra, Algorithmik
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                        wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                        Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      28
+Modul Kombinatorik
+Verantwortlicher        Professur Stochastik, Professur Biomathematik
+Lehrformen              Vorlesung (4 SWS)
+Dauer/Zyklus            1 Sem., D: zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • fundiertes Verständnis für die grundlegenden Prinzipien der Kombinatorik,
+   • Beherrschung von algebraischen Methoden zum Zwecke der Lösung kombinato-
+     rischer Probleme.
+
+Inhalt
+   • Wörter, Auswahlen, Teilmengen, Zählprinzipien
+   • Abzählprobleme für Permutationen
+   • Rekursionen
+   • Summationen, Erzeugende Funktionen
+   • Differenzenrechnungen, Diskrete Intergration, Inversionen
+   • Muster, Abzählung von Mustern
+   • Orthogonale lateinische Quadrate, Blockpläne, affine Geometrien
+
+Vorkenntnisse           Algebra
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       29
+Modul Mathematische Logik
+Verantwortlicher           Professur Mathematische Logik und Grundlagen der Mathe-
+                           matik
+Lehr

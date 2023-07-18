@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+  4       1 mP/Kl         6
+     3
+
+
+
+
+                                                                                                     30
+             Multivariate Statistik                          3         4 2     1 mP/Kl         9
+             Seminar A                                       3               2 2 Sems          3
+             Masterarbeit beginnt                                              2               6
+
+             Räumliche Statistik                             3         2 2     1 mP            6
+     4
+
+
+
+
+                                                                                                     30
+             Masterarbeit abgeschlossen                                        2               24
+
+                                                                                 Summe         120
+  E RNST-M ORITZ -A RNDT-U NIVERSIT ÄT G REIFSWALD
+M ATHEMATISCH -N ATURWISSENSCHAFTLICHE FAKULT ÄT
+         Institut für Mathematik und Informatik
+
+
+
+
+              Modulkatalog
+               Master of Science
+                   Mathematik
+Inhaltsverzeichnis
+
+Teilgebiet Analysis / Optimierung                                                            4
+   Approximation . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       5
+   Bild- und Signalanalyse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       6
+   Differentialgeometrie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     7
+   Differentialgleichungen in der Biologie . . . . . . . . . . . . . . . . . . . . . .       8
+   Dynamische Systeme . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          9
+   Fourieranalysis / Distributionentheorie . . . . . . . . . . . . . . . . . . . . . .      10
+   Funktionalanalysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     11
+   Funktionentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      12
+   Maß- und Integrationstheorie .

@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+atischen Grundlagen des logischen Den-
+     kens und Schließens,
+   • vertieftes Verständnis für die Unterscheidung zwischen der inhaltlichen Bedeu-
+     tung von Sätzen einer Satzmenge und ihrer syntaktischen Herleitbarkeit,
+   • Befähigung zur Anwendung formaler Sprachen, insbesondere Befähigung zur
+     Präzisierung von Begriffen, zur Formalisierung von Problemen und zum Führen
+     von formalen Beweisen,
+   • Verständnis für die Grenzen der Ausdrucksmöglichkeit formaler Konzepte
+     und Befähigung zur kritischen Auseinandersetzung mit den Anwendungs-
+     möglichkeiten formaler Werkzeuge.
+
+Inhalt
+   • Grundlagen der Aussagenlogik und der Prädikatenlogik erster Stufe
+   • Logische Deduktionssysteme und Semantik prädikatenlogischer Sprachen
+   • Kompaktheitssatz
+   • Gödelscher Vollständigkeitssatz
+
+Weiterführende Themen (z.B.)
+  • Resolutionsmethode und logische Programmierung
+  • Axiomatische Mengenlehre (ZFC, Ordinalzahlen und Kardinalzahlen)
+  • Prädikatenlogik zweiter Stufe und Henkin-Interpretation
+
+Vorkenntnisse           Analysis, Lineare Algebra und analytische Geometrie
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                        ten.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Modulart                Wahlmodul
+
+
+
+
+                                       27
+Modul A10: Multivariate Statistik
+Verantwortlicher          Professur Biomathematik
+Lehrformen                Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus              1 Sem., zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • umfassende Kenntnisse zu Modellen und Methoden der Multivariaten Statik,
+   • Kompetenzen zur selbstständigen Auswahl von adäquaten Modellen und Metho-
+     den für reale Daten und Befähigung zur Interpretation der Ergebniss

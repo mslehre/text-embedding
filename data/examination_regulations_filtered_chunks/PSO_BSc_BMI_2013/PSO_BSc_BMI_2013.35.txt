@@ -1,0 +1,48 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+ibung von mathemati-
+     schen Eigenschaften von Mannigfaltigkeiten,
+   • Kenntnisse über den Zusammenhang geometrischer Extremaleigenschaften mit
+     physikalischen Variationsprinzipien,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Klassische Kurven- und Flächentheorie, Theorema egregium
+   • Differenzierbare Mannigfaltigkeiten, Vektorbündel, Tensorkalkül
+   • (Pseudo-)Riemannsche Mannigfaltigkeiten
+   • Zusammenhänge auf Vektorbündeln, Levi-Civita-Zusammenhang, Torsion und
+     Krümmung
+   • physikalische Anwendungen der Differentialgeometrie, z. B. in spezieller oder all-
+     gemeiner Relativitätstheorie
+
+Vorkenntnisse         Analysis, Lineare Algebra
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                      wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                      Thema der Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 6. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                        27
+Modul Finanz- und Versicherungsmathematik
+Verantwortlicher      Professur Stochastik
+Lehrformen            Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus          1 Sem., zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • Verständnis für die mathematische Modellierung ökonomischer Probleme und für
+     finanzpolitische Fragen,
+   • Kompetenzen zur selbständigen und sicheren Bewältigung von Problemen der
+     Finanzmathematik,
+   • Beherrschung der Prinzipien der Lebens- und Sachversicherung und der zu-
+     gehörigen Konzepte der Stochastik.
+
+Inhalt
+   • Grundlegende Konzepte der Finanzmathematik: Zins, Barwert, Kurse, Renten,
+     Kredite, Effektivzins
+   • Lebensversicherung: Äquivalenzprinzip, Bev

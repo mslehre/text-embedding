@@ -1,0 +1,47 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+          Pflichtmodul im 1. und 2. Sem.
+Regelprüfungstermin   Übung I: 1. Sem., Übung II: 2. Sem., Modulprüfung: 2. Sem
+
+
+
+
+                                      7
+Modul Algorithmen und Programmierung / Computeralgebra
+Verantwortlicher          Professuren Informatik
+Lehrformen                Algorithmen und Programmierung: Vorlesung (4 SWS) und
+                          Übung (2 SWS), Computeralgebra: Übung (2 SWS)
+Dauer/Turnus              1 Sem., jährlich, Algorithemen und Programmierung im Wi-
+                          Se, Computeralgebra im SoSe
+Inhalt
+Algorithmen und Programmierung:
+   • grundlegende algorithmische Probleme (Suchen, Sortieren)
+   • elementare Datenstrukturen (Listen, Stacks, Queues, Suchbäume)
+   • Entwurfstrategien für Algorithmen (Teile und Herrsche, Greedy)
+   • Analyse von Algorithmen (O-Notation, Laufzeit, Speicherbedarf)
+   • grundlegende Aspekte der objektorientierten Programmierung in JAVA
+
+Computeralgebra:
+  • Nutzung von Computeralgebrasystemen zur Lösung von Standardaufgaben
+    wie: Faktorisierung, Nullstellenbestimmung, Termvereinfachung, Differenzie-
+    ren/Integrieren
+  • Erstellung einfacher Programme in einem Computeralgebrasystem
+
+Qualifikationsziele
+Algorithmen und Programmierung:
+   • grundlegendes Verständnis für den Begriff des Algorithmus,
+   • Kompetenzen in der Bewertung von Algorithmen hinsichtlich Ihrer Leis-
+     tungsfähigkeit,
+   • Befähigung zum Entwurf einfacher Algorithmen,
+   • Befähigung zur Erstellung einfacher Programme in JAVA.
+
+Computeralgebra:
+  • Befähigung zur Lösung von Standardaufgaben (Faktorisierung, Nullstellenbe-
+    rechnung, Termvereinfachung, Differentiation/Integration) mit Hilfe von Compu-
+    teralgebrasystemen,
+  • Befähigung zur Erstellung von einfachen Programmen in Computeralgebrasyste-
+    men,
+  • Befähigung zur Analyse und Bearbeitung komplexer, praktischer Aufgabenstel-
+    lungen.
+
+Vorkenntnisse           Abitur
+Prüfung                Die Modulprüfung besteh

@@ -1,0 +1,47 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+gens,
+     Beweisführung),
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Banachräume, Folgenräume, Dualräume, Hilberträume
+   • Prinzipien der Funktionalanalysis
+   • kompakte Operatoren
+   • Spektraltheorie beschränkter Operatoren
+   • Resolventen
+   • symmetrische Operatoren
+   • Funktionalkalkül
+   • unbeschränkte Operatoren
+
+Vorkenntnisse           Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+                        II
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                        Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand                 270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      11
+Modul Funktionentheorie
+Verantwortlicher     Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus         1 Sem., C: zweijährlich im WS gerade Jahre
+Qualifikationsziele
+   • Beherrschung einer eleganten mathematischen Theorie,
+   • Kenntnisse über die Anwendung komplex-analytischer Methoden zur Lösung von
+     Problemen der reellen Analysis,
+   • vertieftes Verständnis für die elementaren Funktionen durch die Sicht der kom-
+     plexen Analysis,
+   • erweitertes Verständnis für den Aufbau und die Methodik der Mathematik, an-
+     hand der geschichtlichen Entwicklung dieses mathematischen Gebietes,
+   • Beherrschung mathematischer Arbeitsweisen (Entwicklung mathematischer In-
+     tuition und deren fo

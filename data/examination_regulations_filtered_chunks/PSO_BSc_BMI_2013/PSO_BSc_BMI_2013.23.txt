@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+        1 Sem., jährlich im WS
+Qualifikationsziele
+   • grundlegendes sicheres Verständnis für stochastische Konzepte und Fragestel-
+     lungen,
+   • Befähigung zur Einordnung und adäquaten Lösung von einfachen stochastischen
+     Problemen,
+   • Verständnis für grundlegende Fakten und Zusammenhänge der Stochastik,
+   • Befähigung zur Formulierung stochastischer Modelle und zu deren Anwendung
+     in vielfältigen, auch gesellschaftlichen, Zusammenhängen,
+   • Beherrschung der Grundlagen für die Module Statistik und Randomisierte Algo-
+     rithmen sowie für verschiedene Wahlpflichtmodule (Finanz- und Versicherungs-
+     mathematik, Spieltheorie, multivariate Statistik).
+
+Inhalt
+Grundlegende Konzepte und Denkweisen der Stochastik:
+   • Wahrscheinlichkeitsraum, Ereignisse und Zufallsgrößen
+   • Verteilung, Verteilungsfunktion und Dichtefunktion, Erwartungswert und Streu-
+     ung, Quantile
+   • bedingte Wahrscheinlichkeit, Unabhängigkeit, Korrelation, Regression
+   • Gesetz der großen Zahlen, Binomial-, Normal- und Poissonverteilung
+
+Weiterführende Fragestellungen:
+  • Faltung von Zufallsgrößen, Zentraler Grenzwertsatz, Einführung in Markov-
+     Ketten, Grundideen der Statistik, Poisson-Prozess
+
+Vorkenntnisse         Analysis I, Lineare Algebra I
+Prüfung              Die Modulprüfung besteht aus einer mündlichen Prüfung.
+                      Die Kriterien für den Erhalt eines Übungsscheines legt der
+                      Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                      Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                      zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte       9
+Regelprüfungstermine Übung: 3. Sem., Modulprüfung: 3. Sem.
+Modulart              Pflichtmodul
+
+
+
+
+                                       13
+Modul Praxis des Programmierens
+Verantwortlicher      Professuren Inf

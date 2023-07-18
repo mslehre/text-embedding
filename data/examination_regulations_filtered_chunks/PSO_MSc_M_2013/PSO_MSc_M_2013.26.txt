@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+mmenhang geometrischer Extremaleigenschaften mit
+     physikalischen Variationsprinzipien,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Klassische Kurven- und Flächentheorie, Theorema egregium
+   • Differenzierbare Mannigfaltigkeiten, Vektorbündel, Tensorkalkül
+   • (Pseudo-)Riemannsche Mannigfaltigkeiten
+   • Zusammenhänge auf Vektorbündeln, Levi-Civita-Zusammenhang, Torsion und
+     Krümmung
+   • physikalische Anwendungen der Differentialgeometrie, z. B. in spezieller oder all-
+     gemeiner Relativitätstheorie
+
+Vorkenntnisse            Analysis, Lineare Algebra
+Prüfung                 Die Modulprüfung besteht aus einer Klausur oder einer
+                         mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                         wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                         Thema der Prüfung.
+Note                     Note der Modulprüfung
+Aufwand                  180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         7
+Modul Differentialgleichungen in der Biologie
+Verantwortlicher        Professur Biomathematik
+Lehrformen              Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus            1 Sem., A: jährlich im WS
+Qualifikationsziele
+   • sicheres Anwenden der unterschiedlichen Stabilitätskriterien,
+   • Unterscheidung der grundlegenden Bifurkationstypen gewöhnlicher Differential-
+     gleichungen sowie ihre Einordnung gemäß ihrer Bedeutung für die Modellierung,
+   • Durchführung komplexer Stabilitäts- und Bifurkationsanalysen für gewöhnliche,
+     verzögerte und partielle Differentialgleichungen, auch in Gruppen.
+
+Inhalt
+   • Stabilität für gewöhnliche Differentialgleichungen
+   • Bifurkationstheorie gewöhnlicher Differentialgleichungen
