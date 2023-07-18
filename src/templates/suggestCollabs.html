@@ -1,11 +1,33 @@
 <html>
+    <head>
+        <title>Suggestions for possible collaborations</title>
+        <style>
+            body {
+                display: flex;
+                justify-content: center;
+            }
+    
+            .container {
+                text-align: center;
+            }
+        </style>
+    </head>
     <body>
-        <form action = "http://localhost:5000/collab" method = "post">
+        <div class="container">
+            <h1>Suggestions for collaborations between two scientists</h1>
+            
+            <p>Welcome to the collaboration suggestions website for scientists
+                 from the univerity of Greifswald!</p>
+            <p>Select two scientists to be given suggestions for possible collaboration projects.
+                <br>Please be aware that the Large Language Model can 
+               hallucinate and give wrong information, so not all suggestions may be realistic.</p>
+        <form action = "https://localhost:5000/collab" method = "post">
             <label for="scie1">Select first scientist </label><br>
             <select name="scientist1" id="scie1">
                 {% for id in profs %}
                 <option value={{id}}>{{profs[id]}}</option> 
                 {% endfor %}
+                <option value={{sel1}} selected>{{profs[sel1]}}</option>
             </select>
 
             <br> <br>
@@ -14,15 +36,16 @@
                 {% for id in profs %}
                 <option value={{id}}>{{profs[id]}}</option> 
                 {% endfor %}
+                <option value={{sel2}} selected>{{profs[sel2]}}</option>
             </select>
             <br>
             <input type="submit" value="Compute possible collaborations">
             <br> <br>
+            <label id="txt1"> <b>Response given by GPT: </b> {{text1}} 
+            </label> <br> <br>
             <textarea id="textCollab" name="collabText" rows="10" 
                 cols="30">{{text}}
             </textarea><br><br>
-            <label id="txt1"> <b>Response given by GPT: </b> {{text1}} 
-            </label> <br> <br>
         </form>
     </body>
 </html>

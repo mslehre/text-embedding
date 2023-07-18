@@ -93,18 +93,8 @@ def suggest_collabs() -> str:
     scientist1 = request.form['scientist1']
     scientist2 = request.form['scientist2']
 
-    #get id's to the scientists
-    #ids = get_ids([scientist1, scientist2])
     collab_suggestion = ask_about_fit([scientist1, scientist2], "data/publications", 2)
-    #collab_suggestion = scientist1 + " " +  scientist2
-    #and then return the render template
-    return render_template("suggestCollabs.html", profs= profs, text=collab_suggestion)
-    #namen nur einmal einlesen, bzw immer wenn mal was neues ist, nicht jedes mal wenn die seite aufgebaut wird
-    #also extra file erstellen mit nur name und id?
-    #select doesn't natively let me just use a list as input
-    #so. read in and build that list of options once, do a function to let you repeat it if needed
-    #can just use the id as the value right away, that'll be really convenient
-
+    return render_template("suggestCollabs.html", profs= profs, text=collab_suggestion, sel1 = scientist1, sel2 = scientist2)
 
 if __name__ == '__main__':
     app.run(debug=True)
