@@ -79,7 +79,7 @@ def write_chunks_to_files(chunks: list[str],
         dir_path (str): Path to output dir
         file_stem (str): File stem for output files
         add_name (bool): Adds the second line of the corresponding meta file at
-            the beginning of each chunks starting with number 1 (second chunk).
+            the beginning of each chunk starting with number 1 (second chunk).
             This should benefit the chunks search as the title of the whole 
             file is located in each chunk.
     """
