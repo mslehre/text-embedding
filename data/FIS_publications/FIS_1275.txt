@@ -1,0 +1,22 @@
+Mensel B	FIS_1275
+Quantitative chemical shift-encoded MRI is an accurate method to quantify hepatic steatosis.
+Secretin-Stimulated MRCP in Volunteers: Assessment of Safety, Duct Visualization, and Pancreatic Exocrine Function.
+MRI-based Determination of Reference Values of Thoracic Aortic Wall Thickness in a General Population.
+Feasibility of gadoxetate disodium-enhanced MR cholangiography in chronic cholestatic biliary disease.
+Endovascular repair of arterial iliac vessel wall lesions with a self-expandable nitinol stent graft system.
+Cardiovascular Risk Factors and Thoracic Aortic Wall Thickness in a General Population
+Predictors of technical success and rate of complications of image-guided percutaneous transthoracic lung needle biopsy of pulmonary tumors.
+Thoracic and abdominal aortic diameters in a general population: MRI-based reference values and association with age and cardiovascular risk factors.
+Fully automatized renal parenchyma volumetry using a support vector machine based recognition system for subject-specific probability map generation in native MR volume data
+Accuracy of simple approaches to assessing liver volume in radiological imaging
+High levels of thyroid-stimulating hormone are associated with aortic wall thickness in the general population.
+Iloprost, prostaglandin E1, and papaverine relax human mesenteric arteries with similar potency.
+Prevalence of Fatty Liver Disease and Hepatic Iron Overload in a Northeastern German Population by Using Quantitative MR Imaging.
+Diagnosis and Differential Diagnosis of Hydrocephalus in Adults.
+Pulmonary emphysema is a predictor of pneumothorax after CT-guided transthoracic pulmonary biopsies of pulmonary nodules.
+Reference values of vessel diameters, stenosis prevalence, and arterial variations of the lower limb arteries in a male population sample using contrast-enhanced MR angiography.
+Prevalence of renal cysts and association with risk factors in a general population: an MRI-based study.
+Solide pseudopapillare Neoplasie des Pankreas beim Mann mit Ikterus - eine seltene Differentialdiagnose zystischer Pankreaslasionen.
+Asymptomatische arteriovenose Malformation des Pankreas (pAVM).
+Software-based noise reduction in cranial magnetic resonance imaging: Influence on image quality.
+Prevalence and risk factors of perirenal hyperintensities on T2-weighted MR imaging.

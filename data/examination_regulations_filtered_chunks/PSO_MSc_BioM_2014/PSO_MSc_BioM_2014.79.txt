@@ -1,0 +1,45 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+           tionelle Genomforschung und Protokolle zur Übung.
+Note                      Note der Modulprüfung
+Aufwand in h              300 (Vorlesung: 60, Übung: 30, Selbststudium: 210)
+Leistungspunkte           10
+
+                                          71
+Teilgebiet             Molekularbiologie
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                    72
+Modul Spezielle Molekularbiologie II
+Verantwortlicher      Vorsitzender des Prüfungsausschusses
+Lehrformen            Mechanismen der prokaryotischen Genregulation, Vorle-
+                      sung (2 SWS),
+                      Mechanismen der eukaryotischen Genregulation Vorlesung
+                      (2 SWS),
+                      Molekulare Physiologie der Mikroorganismen, Vorlesung (2
+                      SWS)
+Dauer/Turnus          2 Sem., jährlich im WiSe und SoSe
+Inhalt
+Vorlesung Mechanismen der prokaryotischen Genregulation:
+   • Organisation der DNA
+   • Transkription und Regulation der Transkription
+   • posttranskriptionelle Regulation
+   • Translation und Regulation der Translation
+   • posttranslationale Kontrolle
+   • Organisation des regulatorischen Netzwerkes von Prokaryoten
+   • Komponenten des regulatorischen Netzwerkes und ihre Vernetzung
+   • Exemplarische Vorstellung ausgewählter Beispiele (z. B. Adaptation an ter-
+     minale Elektronenakzeptoren, Adaptation an oxidativen Stress, Anpassung an
+     Nährstoffmangel, Adaptation an wechselnde Osmolarität)
+
+Vorlesung Mechanismen der eukaryotischen Genregulation:
+   • Prozesse der Genomdynamik und ihre Bedeutung für die Genexpression
+   • Chromatin und Chromatindynamik bei der Aktivierung bzw. Repression eukaryo-
+     tischer Gene
+   • Transkription und Transkriptionsfaktoren
+   • Funktionelle Anatomie eukaryotischer Aktivatorproteine
+   • Mechanismen der transkriptionalen Aktivierung und Repression
+   • Regulation der RNA-Prozessierung
+   • Regulierte RNA-Degradation (u. a. RNA-Inte

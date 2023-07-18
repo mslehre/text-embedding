@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+n Prüfung. Die aktive Teil-
+                        nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                        lesung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       42
+Stochastik / Statistik
+Modul Finanz- und Versicherungsmathematik
+Verantwortlicher      Professur Stochastik
+Lehrformen            Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus          1 Sem., zweijährlich im WiSe ungerade Jahre
+Inhalt
+   • Grundlegende Konzepte der Finanzmathematik: Zins, Barwert, Kurse, Renten,
+     Kredite, Effektivzins
+   • Lebensversicherung: Äquivalenzprinzip, Bevölkerungsstatistik und Sterbetafeln,
+     Deckungskapital
+   • Sachversicherung und Risikomanagement: Risiko-Parameter, Portfolios, indivi-
+     duelles und kollektives Modell, Gesetz der großen Zahlen und Satz von Wald,
+     Schadenszahl- und Schadenshöhe-Verteilungen
+   • Risikoprozess und Ruin-Problem, Satz von Lundberg
+   • Kapitalmarkt: Marktpreise, Hedging, Finanzderivate
+
+Qualifikationsziele
+  • Verständnis für die mathematische Modellierung ökonomischer Probleme und für
+     finanzpolitische Fragen,
+  • Kompetenzen zur selbständigen und sicheren Bewältigung von Problemen der
+     Finanzmathematik,
+  • Beherrschung der Prinzipien der Lebens- und Sachversicherung und der zu-
+     gehörigen Konzepte der Stochastik.
+
+Vorkenntnisse           Analysis I,II, Lineare Algebra I, Stochastik, Statistik
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                        nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                        lesung und 

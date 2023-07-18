@@ -1,0 +1,51 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+arbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   45
+
+
+
+
+Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung,
+einer 90-minütigen Klausur oder eines 60-minütigen Vortrages (Seminare) abgelegt.
+Die Kriterien für den Erhalt eines Übungsscheines legt der Dozent in der ersten Vorle-
+sungswoche fest. Erfolgt keine Festlegung, so sind 50 % der Übungsaufgaben erfolg-
+reich zu bearbeiten.
+
+
+
+
+                                             3
+Pflichtmodule
+
+
+
+
+                4
+Modul Analysis
+Verantwortlicher         Professur Analysis
+Lehrformen               Vorlesung (8 SWS) und Übung (4 SWS)
+Dauer/Turnus             2 Sem., jeweils 4+2 SWS im WS und SoSe, beginnend
+                         jährlich im WS
+Qualifikationsziele
+   • Beherrschung der grundlegenden Methoden der Analysis in einem systemati-
+     schen Aufbau,
+   • Basiswissen für das gesamte weitere Studium,
+   • Kompetenzen in den grundlegenden Prinzipien der Analysis, insbesondere die
+     Bedeutung von Grenzübergängen,
+   • sichere Beherrschung verschiedener Beweistechniken,
+   • Befähigung zur sicheren Differentiation in mehreren Variablen,
+   • Befähigung zur Berechnung einfacher mehrdimensionaler Integrale sowie einfa-
+     cher Kurven- und Flächenintegrale,
+   • Beherrschung mathematischer Arbeitsweisen (Entwickeln von mathematischer
+     Intuition und deren formale Begründung, mathematische Begriffsbildung),
+   • grundlegendes Verständnis für die praktische und gesellschaftliche Relevanz von
+     mathematischen Modellen für physikalische und biologische Prozesse,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Axiomatik der reellen Zahlen und elementaren Funktionen
+   • Konvergenz von Folgen und Reihen
+   • Metrische Räume, Banachscher Fixpunktsatz
+   • Differential- und Integralrechnung von Funktionen in einer oder mehreren Varia-
+     blen
+   • Grundbegriffe der Ve

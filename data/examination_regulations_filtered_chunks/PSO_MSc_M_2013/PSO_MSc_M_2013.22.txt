@@ -1,0 +1,24 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      12
+   Maß- und Integrationstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . .       13
+   Nichtlineare Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       14
+   Numerik II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   15
+   Optimale Steuerung / Variationsrechnung . . . . . . . . . . . . . . . . . . . .          16
+   Partielle Differentialgleichungen . . . . . . . . . . . . . . . . . . . . . . . . . .    17
+   Spezialvorlesung I Analysis/Optimierung . . . . . . . . . . . . . . . . . . . . .        18
+   Spezialvorlesung II Analysis/Optimierung . . . . . . . . . . . . . . . . . . . .         19
+
+Teilgebiet Diskrete Mathematik / Algorithmik / Algebra                                      20
+   Algebra II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   21
+   Algorithmik und Komplexitätstheorie . . . . . . . . . . . . . . . . . . . . . . .       22
+   Berechenbarkeitstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      23
+   Codierungstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      24
+   Computergrafik I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     25
+   Datenbanken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      26
+   Diskrete Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       27
+   Graphentheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     28
+   Kombinatorik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     29
+   Mathematische Logik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        30
+   Operatoralgebren . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     31
+   Randomisierte Algorithmen . . . . . . . . . . . . . . . . . . . . . . . . . . . .        32
+   Spezialvorlesung I Diskrete M

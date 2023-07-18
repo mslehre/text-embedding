@@ -1,0 +1,47 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+   • Beherrschung einer Palette von Werkzeugen und Techniken, mit deren Hilfe diese
+     Probleme gelöst werden können.
+
+Inhalt
+   • Grundlegende Begriffe und Techniken (Typen von randomisierten Algorithmen,
+     Laufzeit als Erwartungswert, Chernoff-Schranken, probabilistische Methode,
+     Random Walks)
+   • Randomisierte Datenstrukturen
+   • Randomisierte Algorithmen für Probleme auf Graphen
+   • Randomisierte Algorithmen für Probleme aus der Zahlentheorie
+   • Randomisierte Approximationsalgorithmen
+
+Vorkenntnisse         Algorithmen und Programmierung, Stochastik, Theoretische
+                      Informatik
+Prüfung              Die Modulprüfung besteht aus einer mündlichen Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 6. Sem.
+Modulart              Pflichtmodul
+
+
+
+
+                                       38
+Modul Spieltheorie
+Verantwortlicher         Professur Stochastik, Professur Biomathematik
+Lehrformen               Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus             1 Sem., zweijährlich im WS gerade Jahre
+Qualifikationsziele
+   • Befähigung zu strategischem Denken und zur Formulierung von Gegensätzen
+     von Interessen,
+   • Beherrschung der Lösungsansätze,
+   • Verständnis für die Struktur von Konfliktsituationen und deren mathematische
+     Modellierung anhand von Problemen aus Politik, Wirtschaft und Alltag,
+   • Kenntnis der neueren Ansätze der evolutionären und dynamischen Spieltheorie
+     im Zusammenhang und Gegensatz mit klassischen Lösungskonzepten,
+   • Verständnis für die Komplexität und Vielfältigkeit der Varianten bei Mehrperso-
+     nenspielen,
+   • Beherrschung einfacher Ansätze wie Kern und Shapley-Index,
+   • Vertiefte Kenntnisse in Stochastik, Analysis und Optimierung durch neue Anwen-
+     dungen.
+
+Inhalt
+   • Lösung kombinatorischer Spiele
+   • Klassische Zwei-Personen Matrix-Spiele, rei

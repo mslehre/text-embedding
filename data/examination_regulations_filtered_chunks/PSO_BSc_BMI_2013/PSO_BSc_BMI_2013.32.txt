@@ -1,0 +1,37 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+             23
+Modul Algebra II
+Verantwortlicher         Professur Analysis, Professur Algebra und funktionalanalyti-
+                         sche Anwendungen
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • Kenntnis der Algebraisierung eines fundamentalen Symmetriebegriffes,
+   • Kenntnis über das Zusammenwirken geometrischer und algebraischer Metho-
+     den,
+   • Beherrschung des grundlegenden Begriffs der Darstellung und seiner Anwen-
+     dungen in vielen Gebieten der Mathematik und Naturwissenschaften (Algebra,
+     Operatoralgebren, Physik, Chemie),
+   • Fähigkeit zur eigenständigen Entwicklung komplexer mathematischer Modelle,
+   • souveräne Beherrschung mathematischer Arbeitsweisen (Entwicklung mathe-
+     matischer Intuition und deren formale Begründung, Schulung des Abstraktions-
+     vermögens, Beweisführung),
+   • Kommunikationsfähigkeit in wissenschaftlicher Diskussion (Übung).
+
+Inhalt
+   • Lie-Algebren: Nilpotente und auflösbare Lie-Algebren, Satz von Engel, Satz von
+     Lie, Kriterium von Cartan, Halbeinfache Lie-Gruppen, Kriterium für Halbeinfach-
+     heit, Klassifikation und Darstellungstheorie halbeinfacher Lie-Algebren
+     oder
+   • Darstellungstheorie: Darstellungstheorie endlicher Gruppen, vollständige Redu-
+     zibilität; Schursches Lemma, Charaktere, irreduzible Darstellungen der symme-
+     trischen Gruppen, Young-Tableaux, Darstellungstheorie der klassischen Matrix-
+     Gruppen, Klassische Gruppen, irreduzible Darstellungen der klassischen Grup-
+     pen
+
+Vorkenntnisse         Analysis I, II, Algebra I
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                      Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                      woche fest. Erfolgt keine Festlegung, so sind 50 % der
+   

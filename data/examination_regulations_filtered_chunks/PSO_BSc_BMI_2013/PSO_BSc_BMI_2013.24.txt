@@ -1,0 +1,45 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+                           13
+Modul Praxis des Programmierens
+Verantwortlicher      Professuren Informatik
+Lehrformen            Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., jährlich im WS
+Qualifikationsziele
+   • Befähigung zur selbständigen Planung komplexerer Anwendungen einschließlich
+     graphischer Benutzerschnittstelle,
+   • Beherrschung der Implementierung in einer objektorientierten Programmierspra-
+     che (Java oder C++),
+   • Kenntnisse über gängige Werkzeuge zur Softwareentwicklung und deren Anwen-
+     dung,
+   • Fähigkeit, sich selbständig in neue Werkzeuge und Sprachen einzuarbeiten.
+
+Inhalt
+   • aktuelle Werkzeuge zur Erstellung und Verwaltung komplexerer Softwareprojekte
+     (integrierte Entwicklungsumgebungen, Versionsverwaltung und Programmieren
+     im Team, Debugging, Profiling)
+   • weiterführende Themen der Programmierung in einer objektorientierten Pro-
+     grammiersprache (GUI, Exceptions, Threads, Typvariablen)
+
+Vorkenntnisse         Einführung in die EDV, Algorithmen und Programmierung
+Prüfung              Die Kriterien für den Erhalt eines Übungsscheines legt der
+                      Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                      Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                      zu bearbeiten.
+Note                  keine
+Aufwand               270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte       9
+Regelprüfungstermine Übung 3. Sem.
+Modulart              Pflichtmodul
+
+
+
+
+                                      14
+Modul Gewöhnliche Differentialgleichungen / Proseminar
+Verantwortlicher          Professur Analysis
+Lehrformen                Vorlesung (2 SWS) und Übung (1 SWS)
+Dauer/Turnus              1 Sem., Gewöhnliche Differentialgleichungen: jährlich im
+                          WS, Proseminar: jährlich im SoSe
+Qualifikationsziele
+Gewöhnliche Differentialgleichungen:
+   • Kenntnisse über die Lösbarkeit gewöhnl

@@ -1,0 +1,56 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+in h             270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Teilgebiet               Diskrete Mathematik/Algorithmik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        31
+Modul Diskrete Modellierung in der Biologie
+Verantwortlicher       Professur Diskrete Biomathematik
+Lehrformen             Vorlesung (4 SWS)
+Dauer/Turnus           1 Sem., zweijährlich im SoSe ungerade Jahre
+Inhalt
+   • Yule Bäume und Coalescent Bäume
+   • Genbaum-Speziesbaum-Konflikte
+   • Phylogenetische Netzwerke
+   • Algebraische Eigenschaften von Markovprozessen auf Bäumen
+   • Neuronale Netze
+
+Qualifikationsziele
+Vertrautheit mit den grundlegenden Konzepten der diskreten Modellierung verschiede-
+ner biologischer Sachverhalte mit den Stärken und Schwächen der jeweiligen Modelle.
+Vorkenntnisse             keine
+Prüfung                  90-minütige Klausur oder 30-minütige mündliche Prüfung
+Note                      Note der Modulprüfung
+Aufwand in h              180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte           6
+Teilgebiet                Diskrete Mathematik/Algorithmik
+Regelprüfungstermin Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        32
+Modul Diskrete Optimierung
+Verantwortlicher      Professur Biomathematik
+Lehrformen            Vorlesung (4 SWS)
+Dauer/Turnus          1 Sem., zweijährlich im WiSe ungerade Jahre
+Inhalt
+   • Bäume, Wege, Flüsse, Paarungen, Stabile Mengen in Graphen
+   • Approximationsalgorithmen
+   • LP-artige Probleme
+   • Ganzzahlige LP-Probleme
+   • Schnittebenenverfahren
+   • Branch and Bound
+
+Qualifikationsziele
+   • Vertiefte Kenntnisse zu modernen Lösungsalgorithmen für Probleme der Diskre-
+     ten Optimierung,
+   • Kenntnis exemplarischer Ansätze zur approximativen Lösung schwieriger Proble-
+     me der Diskreten Optimierung.
+
+Vorkenntnisse           Optimierung
+Prüfung                Die Modulp

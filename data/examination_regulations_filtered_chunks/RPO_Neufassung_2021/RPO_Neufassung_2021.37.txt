@@ -1,0 +1,30 @@
+Rahmenpruefungsordnung vom 18. Maerz 2021
+urchführung einer elektronischen
+Prüfung anfallenden personenbezogenen Daten im Einklang mit den datenschutz-
+rechtlichen Anforderungen, insbesondere mit der EU-Datenschutz-Grundverordnung
+(DSGVO), verarbeitet werden. Eine Übertragung personenbezogener Daten in ein
+Land außerhalb der Europäischen Union soll in der Regel unterbleiben. Ist dies aus
+technischen Gründen unmöglich oder unzumutbar, sind die weiteren Anforderungen
+der Artikel 44 bis 50 DSGVO zu beachten.
+
+(4) Hinsichtlich der Verarbeitung personenbezogener Daten setzt die Universität ge-
+eignete technische und organisatorische Maßnahmen um, um sicherzustellen und
+den Nachweis dafür erbringen zu können, dass die Verarbeitung gemäß den Vor-
+schriften der DSGVO erfolgt. Diese Maßnahmen werden erforderlichenfalls überprüft
+und aktualisiert. Die umzusetzenden technischen und organisatorischen Maßnahmen
+haben insbesondere zu gewährleisten, dass
+    1. nur personenbezogene Daten, deren Verarbeitung für den Verarbeitungs-
+        zweck erforderlich ist, verarbeitet werden (Datenminimierung),
+    2. nur Befugte personenbezogene Daten zur Kenntnis nehmen können (Vertrau-
+        lichkeit),
+    3. personenbezogene Daten während der Verarbeitung unversehrt, vollständig
+        und aktuell und die zu ihrer Verarbeitung eingesetzten Systeme und Dienste
+        integer bleiben (Integrität),
+    4. personenbezogene Daten und die zu ihrer Verarbeitung vorgesehenen Sys-
+        teme und Dienste zeitgerecht zur Verfügung stehen (Verfügbarkeit),
+    5. die Verfahrensweisen bei der Verarbeitung personenbezogener Daten ein-
+        schließlich der zu ihrer Umsetzung getroffenen technisch-administrativen Vor-
+        einstellungen vollständig, aktuell und in einer Weise dokumentiert sind, dass
+        sie in zumutbarer Zeit nachvollzogen werden können, personenbezogene Da-
+        ten ihrem Ursprung zugeordnet werden können und festgestellt werden kann,
+        wer wann welche personenbezogenen Daten in welcher Weise verarbeitet

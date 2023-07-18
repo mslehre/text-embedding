@@ -1,0 +1,46 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+algleichungen
+Verantwortlicher            Professur Analysis
+Lehrformen                  Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus                1 Sem., jährlich im WiSe
+Inhalt
+Partielle Differentialgleichungen 1. Ordnung:
+   • Charakteristikenmethode
+   • Vollständiges Integral
+   • Hamilton-Jacobi-Theorie
+
+Partielle Differentialgleichungen 2. Ordnung:
+   • Laplace-Gleichung (Fundamentallösung, Darstellungsformeln, Greensche Funk-
+      tion, Dirichlet-Problem für die Kugel, Maximumprinzip)
+   • Wärmeleitungsgleichung (Fundamentallösung, Anfangs-Randwertproblem, Ma-
+      ximumprinzip)
+   • Wellengleichung (Anfangswertproblem, Duhamelsches Prinzip)
+   • Hilbertraummethoden bei elliptischen Randwertproblemen (Einführung)
+
+Qualifikationsziele
+   • Kenntnisse über die fundamentalen Typen von Differentialgleichungen (Laplace-
+     gleichung, Wärmeleitungsgleichung, Wellengleichung),
+   • Befähigung, Probleme mathematisch mit Hilfe partieller Differentialgleichungen
+     zu formulieren,
+   • Beherrschung analytischer Lösungsmethoden,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Vorkenntnisse           Analysis, Gewöhnliche Differentialgleichungen
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                        nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                        lesung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       18
+Modul Spezialvorlesung I Analysis/Optimierung
+Verantwortlicher      Professur Analysis, Professur Numerische Mathematik und
+               

@@ -1,0 +1,42 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+ Barwert, Kurse, Renten,
+     Kredite, Effektivzins
+   • Lebensversicherung: Äquivalenzprinzip, Bevölkerungsstatistik und Sterbetafeln,
+     Deckungskapital
+   • Sachversicherung und Risikomanagement: Risiko-Parameter, Portfolios, indivi-
+     duelles und kollektives Modell, Gesetz der großen Zahlen und Satz von Wald,
+     Schadenszahl- und Schadenshöhe-Verteilungen
+   • Risikoprozess und Ruin-Problem, Satz von Lundberg
+   • Kapitalmarkt: Marktpreise, Hedging, Finanzderivate
+
+Vorkenntnisse         Analysis I,II, Lineare Algebra I, Stochastik, Statistik
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                      wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                      Thema der Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 5. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                       28
+Modul Fourieranalysis / Distributionentheorie
+Verantwortlicher       Professur Analysis
+Lehrformen             Vorlesung (4 SWS)
+Dauer/Turnus           1 Sem., zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • fundierte Kenntnisse über die Fouriertransformation und Sicherheit im Umgang
+     mit dem Distributionenkalkül,
+   • Kompetenz in den wesentlichen Beweistechniken und Lösungsstrategien der
+     Fourieranalysis,
+   • Befähigung zur Abstraktion und zur Verwendung mathematischer Arbeitsweisen
+     wie das Umsetzen mathematischer Intuition in formale Begründungen und die
+     mathematische Modellierung physikalischer Probleme,
+   • Befähigung zum Studium von Forschungsliteratur über partielle Differentialglei-
+     chungen und harmonische Analysis,
+   • Kenntnisse über Querverbindungen und den Erfolg des Zusammenwirkens von
+     Methoden aus unterschiedlichen Bereichen (et

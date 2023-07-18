@@ -1,0 +1,39 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+alysis I und zu Analysis II) zu er-
+                         werben. Die Kriterien für den Erhalt eines Übungsscheines
+                         legt der Dozent in der ersten Vorlesungswoche fest. Erfolgt
+                         keine Festlegung, so sind 50 % der Übungsaufgaben erfolg-
+                         reich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             540 (Vorlesung: 120, Übung: 60, Selbststudium: 360)
+Leistungspunkte          18
+
+
+                                         4
+Modulart               Pflichtmodul im 1.-2. Sem.
+Regelprüfungstermin   Übung I: 1. Sem., Übung II: 2. Sem., Modulprüfung: 2. Sem
+
+
+
+
+                                      5
+Modul Lineare Algebra und Analytische Geometrie
+Verantwortlicher          Professur Algebra und funktionalanalytische Anwendungen,
+                          Professur Algebraische Methoden der Analysis
+Lehrformen                Vorlesung (8 SWS) und Übung (4 SWS)
+Dauer/Turnus              2 Sem., jeweils 4+2 SWS im WiSe und SoSe, beginnend
+                          jährlich im WiSe
+Inhalt
+   • Gruppen und Körper, Vektorräume, lineare Abbildungen, Matrizen, lineare Glei-
+     chungssysteme, Gauß-Algorithmus, Basis und Dimension, Determinanten, Ska-
+     larprodukte, euklidische und unitäre Vektorräume, Länge von Vektoren, Winkel,
+     Orthogonalität, Diagonalisierbarkeit, charakteristisches Polynom, Minimalpoly-
+     nom, Eigenwerte, symmetrische und hermitesche Matrizen, Satz von der Haupt-
+     achsentransformation, nilpotente Matrizen, Jordansche Normalform, normale
+     Matrizen, Normalform orthogonaler Matrizen, Exponential einer Matrix, Anwen-
+     dungen Markov-Ketten, lineare Differentialgleichungen, affine Geometrie, affine
+     und euklidische Punkträume, Kegelschnitte, Tensorprodukte von Vektorräumen,
+     Kodierungstheorie, Satz von Perron-Frobenius
+
+Qualifikationsziele
+   • Kenntnis und Beherrschung grundlegender Prinzipien algebraischer Struk

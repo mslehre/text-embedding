@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+der Elektrizitätslehre und der Wellenphysik/Wellenoptik und
+     geometrischen Optik selbständig zu lösen
+
+Inhalt
+   • Eigenschaften elektrischer Ladungen und elektrostatischer Felder, Coulomb-
+     sches Gesetz, Influenz, Feld der elektrischen Verschiebung, Kondensator, Nicht-
+     leiter im elektrischen Feld, Energie und Kraftwirkungen elektrischer Felder, stati-
+     onärer Strom, Leitfähigkeit, Eigenschaften des Magnetfeldes stationärer Ströme,
+     Magnetischer Fluss, Lorentzkraft, Induktionsgesetz und Lenzsche Regel, Ma-
+     gnetfelder in Materie, Energie und Kraftwirkungen magnetischer Felder, Wech-
+     selstrom und elektrische Schwingungen, Maxwell-Gleichungen
+   • allgemeine Wellenlehre (Wellengleichung, ebene harmonische Welle, Wellenei-
+     genschaften), Interferenzen von Wellen (Beugung von Licht) Phasen- und Grup-
+     pengeschwindigkeit, Absorption und Polarisation, Ausbreitung des Lichtes, Satz
+     von Fermat, Abbildung durch Reflexion und Brechung, optische Instrumente
+
+Vorkenntnisse            keine
+Prüfung                 unbenoteter Übungsschein, mündliche Prüfung (30 Minuten)
+                         oder Klausur (90 Minuten) nach Maßgabe des Dozenten
+Note                     Note der Modulprüfung
+Aufwand in h             240 (Vorlesung: 60, Übung: 30, Selbststudium: 150)
+Leistungspunkte          8
+Modulart                 Nebenfachmodul
+
+
+
+
+                                         47
+Modul E3: Experimentalphysik 3: Atome / Moleküle
+Verantwortlicher         Professur Grenz- und Oberflächenphysik
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WS
+Qualifikationsziele
+   • Kenntnis der grundlegenden Begriffe, Phänomene und Methoden der Atom- und
+     Molekülphysik
+   • Fähigkeit, Aufgaben der Atom- und Molekülphysik selbständig zu lösen
+
+Inhalt
+   • Grenzen der klassischen Physik: Photoelektrischer Effekt, Schwarzer Strahler
+     und Strahlungsgesetze, Röntgenstra

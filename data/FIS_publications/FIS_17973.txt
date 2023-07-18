@@ -1,0 +1,4 @@
+Gröer C	FIS_17973
+Absolute protein quantification of clinically relevant cytochrome P450 enzymes and UDP-glucuronosyltransferases by mass spectrometry-based targeted proteomics.
+Protein abundance of clinically relevant multidrug transporters along the entire length of the human intestine.
+Variability in Mass Spectrometry-based Quantification of Clinically Relevant Drug Transporters and Drug Metabolizing Enzymes.
