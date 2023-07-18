@@ -91,6 +91,7 @@ def calculateGrantCallResult() -> str:
     hdf = pd.HDFStore("../data/pub_embeddings.h5", mode='r')
     embeddings = pd.read_hdf(hdf,"embeddings")
     ids = pd.read_hdf(hdf,"ids")
+    hdf.close()
     
     similarityList = []
     for j in range(0,len(ids)-1):
