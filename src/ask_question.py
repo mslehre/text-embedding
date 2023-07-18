@@ -46,7 +46,7 @@ def get_answer(
             file_in_sub_dir = True  # to get the location of the meta file
 
         if not os.access(file_path, os.R_OK):
-            print(f'ERROR: Could not find or acces the file {id}.txt '
+            print(f'ERROR: Could not find or access the file {id}.txt '
                   + f' directly or in a sub directory {dir_path}.')
             exit(1)
                 
