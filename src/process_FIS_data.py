@@ -1,12 +1,14 @@
 import pandas as pd
+import os
+from settings import DATA_DIR
 
 # Read in the data of Publikationen.csv and Personen_Einrichtungen_2023_06.csv
-publication_data = pd.read_csv('../data/FIS/Publikationen.csv', sep=';', 
+publication_data = pd.read_csv(os.path.join(DATA_DIR, "FIS/Publikationen.csv"), sep=';',
                                names = ["author_ID", "author_name", "person_ID",
                                "inst_ID", "institution_long", "faculty_ID", 
                                "faculty", "journal", "year", "title"], 
                                skiprows=1, encoding = 'latin-1')
-person_data = pd.read_csv('../data/FIS/Personen_Einrichtungen_2023_06.csv', 
+person_data = pd.read_csv(os.path.join(DATA_DIR, "FIS/Personen_Einrichtungen_2023_06.csv"),
                           sep=';', names = ["person_ID", "lastname", "forename",
                           "institution", "faculty"], skiprows=1, 
                           encoding='latin-1')
@@ -40,7 +42,8 @@ publication_data["forename"] = forenames
 # row separared by a tab and add these publications to a new column called 
 # 'titles', but only once per person_ID (i.e. the first time the person_ID is 
 # encountered in the data) and delete the other rows with the same person_ID.
-publication_data['titles'] = publication_data.groupby('person_ID')['title'].transform(lambda x: '\t'.join(x))
+publication_data['titles'] = publication_data.groupby('person_ID')['title'].\
+    transform(lambda x: '\t'.join(x))
 publication_data.drop_duplicates(subset='person_ID', inplace=True)
 
 def write_publications(person_ID: str) -> None:
@@ -77,7 +80,7 @@ def write_publications(person_ID: str) -> None:
             author_name = row["author_name"].values[0]
             fileText += author_name + "\t" + person_ID + "\n" + titles
         # Write the publications to a file
-        with open('../data/FIS_publications/' + person_ID + '.txt', 'w') as file:
+        with open(os.path.join(DATA_DIR, "FIS_publications/" + person_ID + '.txt'), 'w') as file:
             file.write(fileText)
             file.close()
 
@@ -96,11 +99,11 @@ for institution in publication_data["institution_long"]:
 publication_data["institution"] = institution_short
 
 # Write publication_data to a csv file to make manual changes
-publication_data.to_csv('../data/FIS/persons.csv', sep = ';', 
+publication_data.to_csv(os.path.join(DATA_DIR, "FIS/persons.csv"), sep = ';', 
                         na_rep = 'NaN', encoding = 'latin-1')
 
 # Read in manually changed 'persons.csv' file
-modified_publication_data = pd.read_csv('../data/FIS/persons_modified_names.csv',
+modified_publication_data = pd.read_csv(os.path.join(DATA_DIR, "FIS/persons_modified_names.csv"),
                                         sep = ';', names = ["line", 
                                         "author_name", "person_ID", "inst_ID",
                                         "institution_long", "faculty_ID", 
@@ -235,7 +238,7 @@ institutions_dict['Physiotherapie Neu'] = 'Physiotherapie'
 
 # Create a tab separated file containing for each institution its short name and 
 # its abbreviation as saved in the dictionary
-file = open('../data/FIS/FIS.inst.abbrev.tbl', 'w')
+file = open(os.path.join(DATA_DIR, "FIS/FIS.inst.abbrev.tbl"), 'w')
 # The first line of the file
 file.write('institute_long\tinstitute_short\n')
 for institution in institutions:
@@ -245,7 +248,7 @@ file.close()
 # Create a tab separated file containing the abbreviation of each instittution 
 # in modified_publication_data and a number representing a color for the t-SNE
 # plot
-file = open('../data/FIS/FIS.colors.inst.tbl', 'w')
+file = open(os.path.join(DATA_DIR, "FIS/FIS.colors.inst.tbl"), 'w')
 # The first line of the file
 file.write('institute\tcolor\n')
 for i, institution in enumerate(set(institutions_dict.values())):
@@ -254,11 +257,14 @@ file.close()
 
 # Add 'Caspar-David-Friedrich Institut' as faculty. If institution is 
 # 'Caspar-David-Friedrich Institut' change it to this faculty.
-modified_publication_data.loc[modified_publication_data['institution'] == 'Caspar-David-Friedrich Institut', 'faculty'] = 'Caspar-David-Friedrich Institut'
+modified_publication_data.loc[modified_publication_data['institution'] == \
+    'Caspar-David-Friedrich Institut', 'faculty'] = 'Caspar-David-Friedrich Institut'
 
 # Change the institution column in modified_publication_data that contains the 
 # short name of the institution to the abbreviaion of the institution
-modified_publication_data['institution'] = modified_publication_data['institution'].apply(lambda institution: institutions_dict[institution])
+modified_publication_data['institution'] = \
+    modified_publication_data['institution'].apply(lambda institution: \
+        institutions_dict[institution])
 
 # Change order of the columns and write modified_publication_data to a 
 # tab separated file
@@ -267,5 +273,5 @@ modified_publication_data = modified_publication_data[['author_name',
                                                        'person_ID', 'faculty',
                                                        'institution', 
                                                        'institution_long']]
-modified_publication_data.to_csv('../data/FIS/publishers.tbl', sep='\t',
+modified_publication_data.to_csv(os.path.join(DATA_DIR, "FIS/publishers.tbl"), sep='\t',
                                  na_rep = "NN", encoding='latin-1', index=False)
