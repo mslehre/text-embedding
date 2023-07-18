@@ -22,7 +22,7 @@ def get_answer(
     docs,seperator_list = get_texts_from_ids(id_list=id_list,
                                              text_dir=text_dir)
         
-    if len(seperator_list) == (len(docs) +1):
+    if len(seperator_list) == (len(docs) + 1):
         meta_data = seperator_list.pop(0)
         seperator_list[0] = meta_data + seperator_list[0]
 
