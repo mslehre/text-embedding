@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+                Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                      woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                      Übungsaufgaben erfolgreich zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte       9
+Regelprüfungstermine Übung: 4. Sem., Modulprüfung: 4. Sem.
+Modulart              Pflichtmodul
+
+
+
+
+                                      18
+Modul Statistik
+Verantwortlicher        Professur Biomathematik, Professur Stochastik, Professur
+                        Algebra und funktionalanalytische Anwendungen
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im SoSe
+Qualifikationsziele
+   • Verständnis für die grundlegenden Fragestellungen der Statistik,
+   • Befähigung zur systematischen Formulierung, Einordnung und adäquaten
+     Lösung von einfachen statistischen Problemen,
+   • Beherrschung von Standardschätz- und Testverfahren und deren Anwendung
+     mithilfe von Statistik-Software,
+   • Verständnis für die Breite der statistischen Verfahren,
+   • Kompetenz zur sicheren Beurteilung der Ergebnisse statistischer Standardme-
+     thoden,
+   • Beherrschung des nötigen Grundwissens für fortgeschrittene Lehrveranstaltun-
+     gen aus dem Bereich Statistik.
+
+Inhalt
+   • Grundlegende Fragestellungen der deskriptiven und der schließenden Statistik
+   • Statistische Modellierung und Verteilungsannahmen
+   • Punktschätzer, Konfidenzbereiche, statistische Tests
+   • Einfache Gütekriterien für Schätzer und Tests
+   • Weiterführende Fragestellungen: Varianzanalyse, multiples Testen, robuste Ver-
+     fahren, nichtparametrische Verfahren, Bootstrap
+   • Verwendung von Statistik-Software (Übungen)
+
+Vorkenntnisse         Analysis I, II, Lineare Algebra I, Stochastik
+Prüfung              Die Modulprüfung besteht aus einer mündlichen Prüfung.
+             

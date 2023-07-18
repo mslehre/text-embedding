@@ -1,0 +1,55 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+ungen, Übung (2,5 SWS)
+Dauer/Turnus          1 Sem., jährlich im WiSe
+Inhalt
+Vorlesung Molekulargenetik der Prokaryoten:
+   • Organisation des bakteriellen Genoms
+   • DNA-Replikation bei Bakterien
+   • Plasmid-Replikation und Inkompatibilität
+   • IS-Elemente und Transposons
+   • Restriktions-/Modifikationssysteme
+   • Rekombinationsprozesse bei Bakterien
+   • Konjugation, DNA-Transfer und Transduktion
+   • Mutation, Suppression und DNA-Reparatur
+
+Vorlesung Molekulargenetik der Eukaryoten:
+   • Vektorsysteme der Hefe
+   • Allgemeine Genomorganisation der Hefe
+   • Transkription und RNA-Prozessierung in Eukaryoten
+   • Translation in Eukaryoten
+   • Molekularbiologie des Zellzyklus
+   • DNA-Replikation und DNA-Reparatur in Eukaryoten
+   • Mitochondriengenetik
+
+Übung Molekularbiologische Übungen:
+   • Klonierung eines DNA-Fragments
+   • DNA-Sequenzierung und -Analyse
+   • Transduktion
+   • Genisolierung durch Mutantenkomplementation
+   • Regulierte Genexpression
+   • DNA-Amplifikation durch PCR
+
+Qualifikationsziele
+Vertrautheit mit grundlegenden Konzepten der pro- und eukaryotischen Molekularge-
+netik in Theorie und einfacher Praxis
+Vorkenntnisse             Grundkenntnisse der Genetik
+Prüfung                  Zwei 60-minütige Klausuren zu den Vorlesungen und Proto-
+                          kolle zur Übung.
+Note                      Note der Modulprüfung
+Aufwand in h              300 (Vorlesungen: 60, Übung: 40, Selbststudium: 200)
+Leistungspunkte           10
+
+
+                                       69
+Teilgebiet             Molekularbiologie - Pflichtmodul
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                    70
+Modul Spezielle Molekularbiologie I
+Verantwortlicher        Vorsitzender des Prüfungsausschusses
+Lehrformen              Einführung in die Funktionelle Genomforschung, Vorlesung
+                        (2 SWS),
+                        Funktionelle Genomforschung – Molekulare Genetik, Übung

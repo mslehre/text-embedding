@@ -1,0 +1,58 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+ legt der
+                      Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                      Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                      zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte       9
+Regelprüfungstermine Übung: 5. Sem., Modulprüfung: 5. Sem.
+Modulart              Pflichtmodul
+
+
+
+
+                                        21
+Modul Praktikum Softwaretechnik
+Verantwortlicher     Professuren Informatik
+Lehrformen           Vorlesung (1 SWS) und Praktikum (3 SWS)
+Dauer/Turnus         1 Sem., jährlich im SoSe
+Qualifikationsziele
+   • Kenntnis der wesentlichen Phasen des Prozesses der Erstellung komplexer Soft-
+     ware,
+   • Fähigkeiten in der Abschätzung und Planung der notwendigen Ressourcen zur
+     Umsetzung eines Projekts,
+   • Kompetenz zur Übernahme von Verantwortung für einen wesentlichen Teil der
+     Entwicklungsarbeit an einem Projekt im Team,
+   • Fähigkeiten zur Präsentation der Möglichkeiten und Grenzen der erstellten Soft-
+     ware.
+
+Inhalt
+   • Werkzeuge und Methoden zur Entwicklung und Wartung umfangreicher
+     Software-Systeme
+   • Projektplanung
+   • Entwurf und Implementierung
+   • Dokumentation, Testen und Qualitätssicherung
+
+Vorkenntnisse         Praxis des Programmierens
+Prüfung              Die Kriterien für den Erhalt eines Übungsscheines legt der
+                      Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                      Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                      zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 15, Übung: 45, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 6. Sem.
+
+
+
+
+                                        22
+Wahlmodule
+
+
+
+
+             23
+Modul Algebra II
+Verantwortlicher         Professur Analysis, Professur Algebra und

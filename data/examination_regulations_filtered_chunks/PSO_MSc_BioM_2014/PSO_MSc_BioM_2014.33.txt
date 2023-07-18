@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+dium: 180)
+Leistungspunkte         9
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      11
+Modul Funktionentheorie
+Verantwortlicher     Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im WiSe gerade Jahre
+Inhalt
+   • Komplexe Differenzierbarkeit, Cauchy-Riemannsche Differentialgleichungen, ho-
+     lomorphe Funktionen
+   • Potenzreihen, analytische Funktionen
+   • komplexe Kurvenintegrale, Cauchyscher Integralsatz, Cauchysche Integralformel
+   • Potenzreihenentwicklung, Singularitäten, Laurententwicklung, meromorphe
+     Funktionen
+   • Residuensatz und seine Anwendungen
+   • Weierstraßscher Produktsatz, Satz von Mittag-Leffler
+   • elliptische Funktionen
+
+Qualifikationsziele
+  • Beherrschung einer eleganten mathematischen Theorie,
+  • Kenntnisse über die Anwendung komplex-analytischer Methoden zur Lösung von
+     Problemen der reellen Analysis,
+  • vertieftes Verständnis für die elementaren Funktionen durch die Sicht der kom-
+     plexen Analysis,
+  • erweitertes Verständnis für den Aufbau und die Methodik der Mathematik, an-
+     hand der geschichtlichen Entwicklung dieses mathematischen Gebietes,
+  • Beherrschung mathematischer Arbeitsweisen (Entwicklung mathematischer In-
+     tuition und deren formale Begründung, Schulung des Abstraktionsvermögens,
+     Beweisführung),
+  • Befähigung zur mündlichen Kommunikation und wissenschaftlichen Diskussion.
+
+Vorkenntnisse           Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+                        II
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                        nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                        lesung und U

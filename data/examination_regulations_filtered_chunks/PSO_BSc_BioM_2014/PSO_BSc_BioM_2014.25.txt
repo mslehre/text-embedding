@@ -1,0 +1,45 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+     thoden,
+   • Beherrschung des nötigen Grundwissens für fortgeschrittene Lehrveranstaltun-
+     gen aus dem Bereich Statistik.
+
+Vorkenntnisse           Analysis I, II, Lineare Algebra I, Stochastik
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                        Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul im 4. Sem.
+Regelprüfungstermin    Übung: 4. Sem., Modulprüfung: 4. Sem.
+
+
+
+
+                                       16
+Modul Biometrie
+Verantwortlicher        Professur Biomathematik
+Lehrformen              Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im WiSe
+Inhalt
+   • Biometrische Modellierung: Genetik
+   • Biometrische Modellierung: Pharmakokinetik
+   • Methodik klinischer Studien: allgemeine Prinzipien und rechtlicher Rahmen, aus-
+     gewählte statistische Methoden
+
+Qualifikationsziele
+   • Fundierte Kenntnisse in der statistischen Modellierung genetischer Ge-
+     setzmäßigkeiten,
+   • Kompetenzen zur Evaluierung pharmakokinetischer Modelle in Bezug auf Daten-
+     qualität, mathematischen Ansatz und Methoden der Parameterberechnung,
+   • Fundiertes Wissen zur Regulierung klinischer Studien,
+   • Detailkenntnisse zu ausgewählten statistischen Methoden im Kontext klinischer
+     Studien,
+   • Fähigkeit zur Kontext-bezogenen Interpretation der Ergebnisse biometrischer
+     Modellierungen und Datenauswertungen.
+
+Vorkenntnisse           Statistik, Gewöhnliche Differentialgleichungen, Mathemati-
+                        sche Biologie
+Prüfung                Die Mo

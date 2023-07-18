@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+ . . . . . . . . . . . . . . . . . . . . . . . .      80
+  Spezielle Physiologie I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      82
+  Spezielle Physiologie II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       84
+  Spezielle Physiologie III . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      86
+
+Praktikum / Masterarbeit                                                                     88
+   Berufsbezogenes Praktikum . . . . . . . . . . . . . . . . . . . . . . . . . . . .         89
+   Masterarbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      90
+
+
+
+
+                                               3
+Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung,
+einer 60- oder 90-minütigen Klausur oder eines 60-minütigen Vortrages (Seminare)
+abgelegt. Für das Seminarmodul B ist weiter eine schriftliche Form des Vortrages zu
+erstellen. Die Kriterien für den Erhalt eines Übungsscheines legt der Dozent in der ers-
+ten Vorlesungswoche fest. Erfolgt keine Festlegung, so sind 50 % der Übungsaufgaben
+erfolgreich zu bearbeiten. Übungsscheine, Seminarscheine und Protokolle zu Übungen
+bzw. zu Praktika sind unbenotete Prüfungsleistungen.
+
+
+
+
+                                            4
+Analysis / Optimierung
+Modul Approximation
+Verantwortlicher       Professur Angewandte Mathematik, Professur Numerische
+                       Mathematik und Optimierung
+Lehrformen             Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus           1 Sem., zweijährlich im SoSe gerade Jahre
+Inhalt
+   • Approximation in normierten Räumen
+   • stetige und diskrete Approximation
+   • Interpolation und Splines
+   • Parameterbestimmung
+
+Qualifikationsziele
+   • Kenntnis der grundlegenden Aufgaben der Approximationstheorie,
+   • Kenntnis der wichtigen Resultate in Hilberträumen,
+   • Beherrschung der Methoden zur Bestimmung von besten Approximationen,
+   • Fähigkeiten zur Bestimmun

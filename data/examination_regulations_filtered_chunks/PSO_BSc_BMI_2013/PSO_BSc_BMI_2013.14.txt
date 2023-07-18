@@ -1,0 +1,26 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+       Mathematik mit Informatik
+Inhaltsverzeichnis
+
+Pflichtmodule                                                                                  4
+    Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     5
+    Lineare Algebra und Analytische Geometrie . . . . . . . . . . . . . . . . . . .            6
+    Algorithmen und Programmierung . . . . . . . . . . . . . . . . . . . . . . . .             8
+    Einführung in die Informatik (EI)/ Computeralgebra-Systeme (CAS) . . . . . .              9
+    Theoretische Informatik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       11
+    Optimierung . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     12
+    Stochastik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    13
+    Praxis des Programmierens . . . . . . . . . . . . . . . . . . . . . . . . . . . .         14
+    Gewöhnliche Differentialgleichungen / Proseminar . . . . . . . . . . . . . . .           15
+    Algebra I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     17
+    Numerik I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     18
+    Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   19
+    Numerik Grundpraktikum . . . . . . . . . . . . . . . . . . . . . . . . . . . . .          20
+    Datenstrukturen und effiziente Algorithmen . . . . . . . . . . . . . . . . . . .          21
+    Praktikum Softwaretechnik . . . . . . . . . . . . . . . . . . . . . . . . . . . .         22
+
+Wahlmodule                                                                                    23
+  Algebra II . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      24
+  Computergrafik I . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        25
+  Datenbanken . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         26
+  Dif

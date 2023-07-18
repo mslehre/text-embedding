@@ -1,0 +1,45 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+rrschung der wesentlichen Techniken der Komplexitätstheorie,
+   • Kompetenz in Entwurf und Analyse von Algorithmen,
+   • Fähigkeiten in der Anwendung der Konzepte der theoretischen Informatik auf ma-
+     thematische und informatische Probleme.
+
+Inhalt
+   • Motivation und Praxisrelevanz der Thematik
+   • Komplexitätsklassen, Hierarchie- und Separationssätze
+   • nichtdeterministische Maschinen und Komplexitätsklassen
+   • D-ND-Resultate bezüglich der Raumkomplexität
+   • Reduzierbarkeitsrelationen und vollständige Probleme
+   • NP-vollständige Probleme und die P-NP-Problematik
+   • vollständige Probleme für andere Komplexitätsklassen
+   • weitere Themen der strukturellen Komplexitätstheorie
+   • Anwendungen auf Optimierungs- und DV-Probleme
+
+Vorkenntnisse           Vorlesungen ”Theoretische Informatik” und ”Datenstrukturen
+                        und effiziente Algorithmen”
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       22
+Modul Berechenbarkeitstheorie
+Verantwortlicher         Professur Mathematische Logik und Grundlagen der Mathe-
+                         matik
+Lehrformen               Vorlesung (4 SWS)
+Dauer/Zyklus             1 Sem., D: zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • Kompetenz in der Einordnung und Anwendung von Ergebnisse und Techniken
+     der Berechenbarkeitstheorie im Überschneidungsgebiet von mathematischer Lo-
+     gik und theoretischer Informatik,
+   • Kompetenz in der Beurteilung der Gödelschen Ergebnisse,
+   • Beherrschung des sicheren Umgangs mit Fragen der Effektivität und Formalisier-
+     barkeit.
+
+Inhalt
+   • Berechenbarkeit: grundlegende Eigenschaften und Bezieh

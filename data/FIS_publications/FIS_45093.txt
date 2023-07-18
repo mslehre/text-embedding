@@ -1,0 +1,70 @@
+Riedel, Anna Katharina Maria	FIS_45093
+Deletion of membrane-associated Asp23 leads to upregulation of cell wall stress genes in Staphylococcus aureus.
+Exploring functional contexts of symbiotic sustain within lichen-associated bacteria by comparative omics
+Highly precise quantification of protein molecules per cell during stress and starvation responses in Bacillus subtilis
+Lack of AHL-based quorum sensing in Pseudomonas fluorescens isolated from milk
+Reducing the genetic code induces massive rearrangement of the proteome
+Antibacterial Metabolites and Bacteriolytic Enzymes Produced by Bacillus pumilus During Bacteriolysis of Arthrobacter citreus
+An alternative method for serum protein depletion/enrichment by precipitation at mildly acidic pH values and low ionic strength
+A metaproteomics approach to elucidate host and pathogen protein expression during catheter-associated urinary tract infections (CAUTIs)
+Ten years of subproteome investigations in lactic acid bacteria: A key for food starter and probiotic typing
+Molecular mechanisms underlying the close association between soil Burkholderia and fungi
+Time-Resolved Analysis of Cytosolic and Surface-Associated Proteins of Staphylococcus aureus HG001 under Planktonic and Biofilm Conditions.
+Milk-deteriorating exoenzymes from Pseudomonas fluorescens 041 isolated from refrigerated raw milk
+Multi?Organism Proteomes (iMOP): Advancing our Understanding of Human Biology
+Cellulose and hemicellulose decomposition by forest soil bacteria proceeds by the action of structurally variable enzymatic systems
+Decoding the complete arsenal for cellulose and hemicellulose deconstruction in the highly efficient cellulose decomposer Paenibacillus O199
+Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis.
+Global analysis of the impact of linezolid onto virulence factor production in S. aureus USA300.
+The protein inventory of Clostridium difficile grown in complex and minimal medium
+Biotransformation and reduction of estrogenicity of bisphenol A by the biphenyl-degrading Cupriavidus basilensis.
+Fungal volatile compounds induce production of the secondary metabolite Sodorifen in Serratia plymuthica PRI-2C
+Proteomic analysis of organic sulfur compound utilisation in Advenella mimigardefordensis strain DPN7T
+Editorial: Bioactive Compounds from Microbes.
+Symbiotic Interplay of Fungi, Algae, and Bacteria within the Lung Lichen Lobaria pulmonaria L. Hoffm. as Assessed by State-of-the-Art Metaproteomics.
+Deciphering functional diversification within the lichen microbiota by meta-omics.
+Bacillus pumilus KatX2 confers enhanced hydrogen peroxide resistance to a Bacillus subtilis PkatA::katX2 mutant strain.
+Identification of AHL- and BDSF-Controlled Proteins in Burkholderia cenocepacia by Proteomics.
+Impact of Dietary Resistant Starch on the Human Gut Microbiome, Metaproteome, and Metabolome.
+Oligo(cis-1,4-isoprene) aldehyde-oxidizing dehydrogenases of the rubber-degrading bacterium Gordonia polyisoprenivorans VH2.
+A proteomic analysis of ferulic acid metabolism in Amycolatopsis sp. ATCC 39116.
+Comprehensive Redox Profiling of the Thiol Proteome of .
+Non-thermal plasma jet treatment negatively affects viability and structure of  SC5314 biofilms.
+Holistic Assessment of Rumen Microbiome Dynamics through Quantitative Metatranscriptomics Reveals Multifunctional Redundancy during Key Steps of Anaerobic Feed Degradation.
+The hidden lipoproteome of Staphylococcus aureus.
+Genome and Proteome Analysis of Rhodococcus erythropolis MI2: Elucidation of the 4,4´-Dithiodibutyric Acid Catabolism.
+Soil and leaf litter metaproteomics-a brief guideline from sampling to understanding.
+Proteome and carbon flux analysis of Pseudomonas aeruginosa clinical isolates from different infection sites.
+Modulation of Protein S-Nitrosylation by Isoprene Emission in Poplar.
+Updating the proteome of the uncultivable hemotrophic Mycoplasma suis in experimentally infected pigs.
+Life Stage-specific Proteomes of Legionella pneumophila Reveal a Highly Differential Abundance of Virulence-associated Dot/Icm effectors.
+Sample Preparation for Metaproteome Analyses of Soil and Leaf Litter.
+Proteomic Signatures of Clostridium difficile Stressed with Metronidazole, Vancomycin, or Fidaxomicin
+Far-reaching cellular consequences of tat deletion in Escherichia coli revealed by comprehensive proteome analyses.
+Quorum Sensing and Spoilage Potential of Psychrotrophic Enterobacteriaceae Isolated from Milk.
+Iron Regulation in .
+A core genome multilocus sequence typing (cgMLST) scheme for .
+Proteogenomics Uncovers Critical Elements of Host Response in Bovine Soft Palate Epithelial Cells Following In Vitro Infection with Foot-And-Mouth Disease Virus.
+Effects of adult temperature on gene expression in a butterfly: identifying pathways associated with thermal acclimation.
+Session 2: Biofilms/Implant associated infections.
+The catabolism of 3,3'-thiodipropionic acid in Variovorax paradoxus strain TBEA6: A proteomic analysis.
+Comparative proteome analysis in an Escherichia coli CyDisCo strain identifies stress responses related to protein production, oxidative stress and accumulation of misfolded protein.
+Differential View on the Bile Acid Stress Response of .
+Virulence factors produced by  biofilms have a moonlighting function contributing to biofilm integrity.
+Proteomic analysis of the food spoiler Pseudomonas fluorescens ITEM 17298 reveals the antibiofilm activity of the pepsin-digested bovine lactoferrin.
+Response of Microbial Communities and Their Metabolic Functions to Drying?Rewetting Stress in a Temperate Forest Soil.
+Detailed Soluble Proteome Analyses of a Dairy-Isolated : A Possible Approach to Assess Food Safety and Potential Probiotic Value.
+Antimicrobial effects of microwave-induced plasma torch (MiniMIP) treatment on Candida albicans biofilms.
+Model of persistent foot-and-mouth disease virus infection in multilayered cells derived from bovine dorsal soft palate.
+Enhancing Recombinant Protein Yields in the  Periplasm by Combining Signal Peptide and Production Rate Screening.
+A sulfur-containing volatile emitted by potato-associated bacteria confers protection against late blight through direct anti-oomycete activity.
+Non-invasive and label-free 3D-visualization shows in vivo oligomerization of the staphylococcal alkaline shock protein 23 (Asp23).
+HIPPO transducer YAP and its targets CTGF and Cyr61 drive a paracrine signaling in Cold Atmospheric Plasma mediated wound healing
+Escherichia coli Can Adapt Its Protein Translocation Machinery for Enhanced Periplasmic Recombinant Protein Production.
+Responses of  sp. WH15 to High Carbon Revealed by Integrated Omics Analyses.
+Metabolic Rearrangements Causing Elevated Proline and Polyhydroxybutyrate Accumulation During the Osmotic Adaptation Response of .
+An optimized metaproteomics protocol for a holistic taxonomic and functional characterization of microbial communities from marine particles.
+Fibronectin rescues aberrant phenotype of endothelial cells lacking either CCM1, CCM2 or CCM3
+Complete Genome Sequence of Escherichia coli GW-AmxH19, Isolated from Hospital Wastewater in Greifswald, Germany.
+The natural product chlorotonil A preserves colonization resistance and prevents relapsing Clostridioides difficile infection
+Impact of Pneumococcal and Viral Pneumonia on the Respiratory and Intestinal Tract Microbiomes of Mice

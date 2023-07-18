@@ -1,0 +1,33 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+   F
+Bild-und Signalanalyse                  1            180       6          mP               B
+Differentialgleichungen in der          1            180       6          mP               A
+Biologie
+Dynamische Systeme                      1            180       6          mP               C
+Fourieranalysis/Distributionen-         1            180       6          mP/Kl 90         D
+Theorie
+Funktionalanalysis                      1            270       9          mP+Üs*/          F
+                                                                          Kl 90+Üs*
+Funktionentheorie                       1            180       6          mP/Kl 90         C
+
+                                                                                               6
+       
+
+
+Maß- und Integrationstheorie            1            270       9          mP+Üs*/           A
+                                                                          Kl 90+Üs*
+Nichtlineare Optimierung                1            180       6          mP/Kl 90          A
+Numerik II                              1            270       9          mP+Üs*/           A
+                                                                          Kl 90+Üs*
+Numerik Grundpraktikum                  1            180       6          mP+Üs*/           A
+                                                                          Kl 90+Üs*
+Optimale Steuerung/                     1            180       6          mP/Kl 90          D
+Variationsrechnung
+Partielle Differentialgleichungen       1            180       6          mP/Kl 90          A
+Spezialvorlesung I                      1            90        3          mP/Kl 90
+Analysis/Optimierung
+Spezialvorlesung II                     1            180       6          mP/Kl 90
+Analysis/Optimierung
+oder alternativ
+berufsbezogenes Praktikum (§ 6)         4W                     6          Praktikums-
+                                                                          bericht*

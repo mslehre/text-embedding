@@ -1,0 +1,43 @@
+Michalik, Stephan	FIS_25114
+Labeling of the pathogenic bacterium Staphylococcus aureus with gold or ferric oxide-core nanoparticles highlights new capabilities for investigation of host-pathogen interactions.
+Activation of the alternative sigma factor SigB of Staphylococcus aureus following internalization by epithelial cells - an in vivo proteomics perspective.
+Comparative proteome analysis reveals conserved and specific adaptation patterns of Staphylococcus aureus after internalization by different types of human non-professional phagocytic host cells.
+A proteomic perspective of the interplay of Staphylococcus aureus and human alveolar epithelial cells during infection.
+A peptide resource for the analysis of Staphylococcus aureus in host-pathogen interaction studies.
+Specific serum IgG at diagnosis of Staphylococcus aureus bloodstream invasion is correlated with disease progression.
+Staphylococcus aureus Transcriptome Architecture: From Laboratory to Infection-Mimicking Conditions.
+Staphylococcal serine protease-like proteins are pacemakers of allergic airway reactions to Staphylococcus aureus.
+Proteome data from a host-pathogen interaction study with Staphylococcus aureus and human lung epithelial cells.
+Characterization of human and Staphylococcus aureus proteins in respiratory mucosa by in vivo- and immunoproteomics.
+Cross-Sectional Association of Salivary Proteins with Age, Sex, Body Mass Index, Smoking, and Education.
+A global Staphylococcus aureus proteome resource applied to the in vivo characterization of host-pathogen interactions.
+Laboratory Mice Are Frequently Colonized with Staphylococcus aureus and Mount a Systemic Immune ResponseNote of Caution for In vivo Infection Experiments
+AureoWiki ? The repository of the Staphylococcus aureus research and annotation community.
+The quest for bacterial allergens.
+Spectral Library Based Analysis of Arginine Phosphorylations in .
+Inhibition of Rho Activity Increases Expression of SaeRS-Dependent Virulence Factor Genes in Staphylococcus aureus, Showing a Link between Transcription Termination, Antibiotic Action, and Virulence.
+Metabolic niche adaptation of community- and hospital-associated methicillin-resistant Staphylococcus aureus.
+Intranasal Vaccination With Lipoproteins Confers Protection Against Pneumococcal Colonisation.
+Metabolic Cross-talk Between Human Bronchial Epithelial Cells and Internalized  as a Driver for Infection.
+Metaproteomics analysis of microbial diversity of human saliva and tongue dorsum in young healthy individuals.
+Improving Proteome Coverage for Small Sample Amounts: An Advanced Method for Proteomics Approaches with Low Bacterial Cell Numbers.
+Technical report: xMAPr - High-dynamic-range (HDR) quantification of antigen-specific antibody binding.
+Association of proteome and metabolome signatures with severity in patients with community-acquired pneumonia.
+Early-Stage  Bloodstream Infection Causes Changes in the Concentrations of Lipoproteins and Acute-Phase Proteins and Is Associated with Low Antibody Titers against Bacterial Virulence Factors.
+Adenosine Triphosphate Neutralizes Pneumolysin-induced Neutrophil Activation.
+Interaction of  and Host Cells upon Infection of Bronchial Epithelium during Different Stages of Regeneration.
+Alterations in Systemic Inflammatory Response Following a Half-Marathon Race with a Combined Curcumin and Pomegranate Supplement: A Feasibility Study.
+Associations of plasma YKL-40 concentrations with heel ultrasound parameters and bone turnover markers in the general adult population.
+Complete Genome Sequences of Streptococcus suis Pig-Pathogenic Strains 10, 13-00283-02, and 16085/3b.
+Wenn Zellsortierung auf Massenspektrometrie trifft
+A Comprehensive View on the Human Antibody Repertoire Against Staphylococcus aureus Antigens in the General Population
+Sputum Proteome Signatures of Mechanically Ventilated Intensive Care Unit Patients Distinguish Samples with or without Anti-pneumococcal Activity.
+Immunogenicity and protective efficacy of a Streptococcus suis vaccine composed of six conserved immunogens.
+The Bacillus subtilis  Minimal Genome Compendium.
+Insights in ChAdOx1 nCov-19 Vaccine-induced Immune Thrombotic Thrombocytopenia (VITT).
+Comparative analysis of ChAdOx1 nCoV-19 and Ad26.COV2.S SARS-CoV-2 vector vaccines.
+Comparative proteome analysis of the tegument of male and female adult Schistosoma mansoni.
+The Vibrio vulnificus stressosome is an oxygen-sensor involved in regulating iron metabolism.
+Impact of different oral treatments on the composition of the supragingival plaque microbiome.
+BCL11B depletion induces the development of highly cytotoxic innate T cells out of IL-15 stimulated peripheral blood ?? CD8+ T cells
+SigB modulates expression of novel SigB regulon members via Bc1009 in non-stressed and heat-stressed cells revealing its alternative roles in Bacillus cereus.

@@ -1,0 +1,49 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+     Die Modulprüfung besteht aus einem Referat (60 min) zu ei-
+                         nem vereinbarten Thema. Außerdem wird eine aktive und
+                         regelmäßige Teilnahme an Proseminar erwartet.
+Note                     keine
+Aufwand in h             60 (Proseminar: 30, Selbststudium: 30)
+Leistungspunkte          2
+Modulart                 Seminarmodul
+
+
+
+
+                                        37
+Modul S2: Seminar
+Verantwortlicher        Professur Analysis, Professur Numerische Mathematik und
+                        Optimierung, Professur Angewandte Mathematik, Professu-
+                        ren Informatik, Professur Algebra und funktionalanalytische
+                        Anwendungen, Professur Algebraische Methoden der Ana-
+                        lysis, Professur Diskrete Biomathematik
+Lehrformen              Seminar (2 SWS)
+Dauer/Turnus            1 Sem., jedes Semester
+Qualifikationsziele
+  • Fähigung zur Literaturrecherche, zum Lesen, Verstehen, Einordnen und Bewer-
+     ten von mathematischer Literatur,
+  • Erweiterung der Fähigkeiten zur didaktischen Aufbereitung und Präsentation im
+     Rahmen eines Seminarvortrags,
+  • Kompetenzen in der Diskussionsführung,
+  • Fähigkeit zur schriftlichen Ausarbeitung eines mathematischen Themas.
+
+Inhalt
+   • ergänzende Themen aus dem Bereich Analysis/Optimierung, aus dem Be-
+     reich Diskrete Mathematik/Algorithmik/Algebra oder aus dem Bereich Stochas-
+     tik/Statistik
+
+Vorkenntnisse           Analysis, Lineare Algebra
+Prüfung                Die Modulprüfung besteht aus einem Referat (90 min) zu ei-
+                        nem vereinbarten Thema. Außerdem wird eine aktive und
+                        regelmäßige Teilnahme am Seminar erwartet.
+Note                    keine
+Aufwand in h            90 (Seminar: 30, Selbststudium: 60)
+Leistungspunkte         3
+Modulart                Seminarmodul
+
+
+
+
+                                       38
+Modul S3: Seminar mit Ausarbeitung
+Verantwor

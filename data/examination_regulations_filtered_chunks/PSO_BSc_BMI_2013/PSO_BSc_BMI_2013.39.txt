@@ -1,0 +1,50 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+svermögens,
+     Beweisführung),
+   • Befähigung zur mündlichen Kommunikation und wissenschaftlichen Diskussion.
+
+Inhalt
+   • Komplexe Differenzierbarkeit, Cauchy-Riemannsche Differentialgleichungen, ho-
+     lomorphe Funktionen
+   • Potenzreihen, analytische Funktionen
+   • komplexe Kurvenintegrale, Cauchyscher Integralsatz, Cauchysche Integralformel
+   • Potenzreihenentwicklung, Singularitäten, Laurententwicklung, meromorphe
+     Funktionen
+   • Residuensatz und seine Anwendungen
+   • Weierstraßscher Produktsatz, Satz von Mittag-Leffler
+   • elliptische Funktionen
+
+Vorkenntnisse         Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+                      II
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                      wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                      Thema der Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 5. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                       31
+Modul Maß- und Integrationstheorie
+Verantwortlicher      Professur Analysis, Professur Biomathematik
+Lehrformen            Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., jährlich im WS
+Qualifikationsziele
+   • Kenntnis der Stärken und Anwendungen eines abstrakten Maß- und Integrati-
+     onsbegriffs als Grundlage für ein fortgeschrittenes Studium der Stochastik und
+     Analysis,
+   • Beherrschung der typischen analytischen und stochastischen Begriffsbildungen
+     und Verständnis ihrer Zusammenhänge,
+   • Beherrschung fortgeschrittener Beweistechniken,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+Grundlagen der Maß- und Integrationstheorie:
+   • Konstruktion von Maßen
+   • Lebesguesche In

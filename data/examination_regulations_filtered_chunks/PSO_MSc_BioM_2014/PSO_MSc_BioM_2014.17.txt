@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+n 28.03.2014
+
+
+
+                                   Die Rektorin
+                   der Ernst-Moritz-Arndt-Universität Greifswald
+                Universitätsprofessorin Dr. Johanna Eleonore Weber
+
+Veröffentlichungsvermerk: Hochschulöffentlich bekannt gemacht am 02.04.2014
+
+
+
+
+                                                                                         12
+                                             ERNST-MORITZ-ARNDT-UNIVERSITÄT GREIFSWALD
+                                           MATHEMATISCH-NATURWISSENSCHAFTLICHE FAKULTÄT
+                                                  Institut für Mathematik und Informatik
+
+
+                                                        Musterstudienpläne
+                                                             Master of Science
+                                                              Biomathematik
+
+Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung (mP), einer 60- oder 90-minütigen
+Klausur (Kl60 bzw. Kl90), eines 60-minütigen Vortrages (Seminare) (Sems) oder in Form von unbenoteten
+Versuchsprotokollen (Pr) über eigenständig durchgeführte Experimente in Übungen bzw. Praktika in einem angemessenen
+Umfang abgelegt. Für das Seminarmodul B ist weiter eine schriftliche Form des Vortrages zu erstellen. Die Kriterien für den
+
+Musterstudienplan Master Biomathematik
+(Schwerpunkt Diskrete Mathematik/Algorithmik und Molekularbiologie)
+Studienbeginn: gerades Wintersemester, z.B. Wintersemester 2014/2015
+
+Semester             Veranstaltung                                             Teilgebiet V Art
+                                                                                            Ü S D Prüfungsart            LP
+
+                     Algorithmik/Komplexitätstheorie                                   2         4       1 mP             6
+                     Stochastische Modelle in der Biologie                             3         2 2     1 mP/Kl90        6
+        1
+
+
+
+
+               

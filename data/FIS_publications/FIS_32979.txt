@@ -1,0 +1,43 @@
+Hecker M	FIS_32979
+Pathophysiology of staphylococci in the post-genomic era.
+Influence of Impaired Lipoprotein Biogenesis on Surface and Exoproteome of Streptococcus pneumoniae.
+Adaptation of Bacillus subtilis carbon core metabolism to simultaneous nutrient limitation and osmotic challenge: a multi-omics perspective.
+Activation of the alternative sigma factor SigB of Staphylococcus aureus following internalization by epithelial cells - an in vivo proteomics perspective.
+Cohort profile: Greifswald approach to individualized medicine (GANI_MED).
+Deletion of membrane-associated Asp23 leads to upregulation of cell wall stress genes in Staphylococcus aureus.
+A time resolved metabolomics study: the influence of different carbon sources during growth and starvation of Bacillus subtilis.
+Picking vanished proteins from the void: how to collect and ship/share extremely dilute proteins in a reproducible and highly efficient manner
+Mercaptosuccinate metabolism in Variovorax paradoxus strain B4--a proteomic approach
+Bacillus pumilus reveals a remarkably high resistance to hydrogen peroxide provoked oxidative stress
+Cell physiology of the biotechnological relevant bacterium Bacillus pumilus-An omics-based approach
+Functional analysis of novel Rab GTPases identified in the proteome of purified Legionella-containing vacuoles from macrophages
+Highly precise quantification of protein molecules per cell during stress and starvation responses in Bacillus subtilis
+A closer look on the polyhydroxybutyrate- (PHB-) negative phenotype of Ralstonia eutropha PHB-4
+The role of thiol oxidative stress response in heat-induced protein aggregate formation during thermotolerance in Bacillus subtilis
+Secretome analysis revealed adaptive and non-adaptive responses of the Staphylococcus carnosus femB mutant
+Microarray based identification of human antibodies against Staphylococcus aureus antigens.
+High-resolution proteome maps of Bacillus licheniformis cells growing in minimal medium
+Comprehensive proteome analysis of Actinoplanes sp. SE50/110 highlighting the location of proteins encoded by the acarbose and the pyochelin biosynthesis gene cluster
+A comprehensive genomic, transcriptomic and proteomic analysis of a hyperosmotic stress sensitive alpha-proteobacterium
+A peptide resource for the analysis of Staphylococcus aureus in host-pathogen interaction studies.
+Time-Resolved Analysis of Cytosolic and Surface-Associated Proteins of Staphylococcus aureus HG001 under Planktonic and Biofilm Conditions.
+Quantitative prediction of genome-wide resource allocation in bacteria
+Specific serum IgG at diagnosis of Staphylococcus aureus bloodstream invasion is correlated with disease progression.
+Staphylococcus aureus Transcriptome Architecture: From Laboratory to Infection-Mimicking Conditions.
+Staphylococcal serine protease-like proteins are pacemakers of allergic airway reactions to Staphylococcus aureus.
+Costs of life - Dynamics of the protein inventory of Staphylococcus aureus during anaerobiosis.
+Global analysis of the impact of linezolid onto virulence factor production in S. aureus USA300.
+The protein inventory of Clostridium difficile grown in complex and minimal medium
+A global Staphylococcus aureus proteome resource applied to the in vivo characterization of host-pathogen interactions.
+Stability of Proteins Out of Service: the GapB Case of Bacillus subtilis.
+AureoWiki ? The repository of the Staphylococcus aureus research and annotation community.
+AureoWiki ? The repository of the Staphylococcus aureus research and annotation community.
+From the genome sequence via the proteome to cell physiology - Pathoproteomics and pathophysiology of Staphylococcus aureus.
+From the genome sequence via the proteome to cell physiology - Pathoproteomics and pathophysiology of Staphylococcus aureus.
+Exoproteome Analysis of Human Pathogenic Dermatophyte Species and Identification of Immunoreactive Proteins.
+Comprehensive absolute quantification of the cytosolic proteome of Bacillus subtilis by data independent, parallel fragmentation in liquid chromatography/mass spectrometry (LC/MS(E))
+The phosphoproteome and its physiological dynamics in Staphylococcus aureus
+The Staphylococcus aureus proteome
+Fur is the master regulator of the extraintestinal pathogenic Escherichia coli response to serum
+Proteomic analysis of the Simkania-containing vacuole: the central role of retrograde transport
+Toward the Quantitative Characterization of Arginine Phosphorylations in Staphylococcus aureus

@@ -1,0 +1,29 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+n . . . . . . . . . . . . . . . . . . . . . . . . . . . .        32
+   Spezialvorlesung I Diskrete Mathematik/Algorithmik/Algebra . . . . . . . . . .           33
+   Spezialvorlesung II Diskrete Mathematik/Algorithmik/Algebra . . . . . . . . .            34
+
+Teilgebiet Stochastik / Statistik                                                           35
+   Biometrie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    36
+   Finanz- und Versicherungsmathematik . . . . . . . . . . . . . . . . . . . . . .          37
+   Mathematische Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      38
+   Multivariate Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   39
+   Räumliche Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   40
+
+
+
+                                              2
+   Spezialvorlesung I Stochastik/Statistik . . . . . . . . . . . . . . . . . . . . . .      41
+   Spezialvorlesung II Stochastik/Statistik . . . . . . . . . . . . . . . . . . . . . .     42
+   Spieltheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   43
+   Stochastische Modelle der Biologie . . . . . . . . . . . . . . . . . . . . . . . .       44
+   Stochastische Prozesse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       45
+   Wahrscheinlichkeitstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . .       46
+   Zeitreihenanalyse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      47
+
+Seminarmodule                                                                               48
+  Seminarmodul A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        49
+  Seminarmodul B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        50
+
+Berufsbezogenes Praktikum / Masterarbeit                                                    51
+   Berufsbezogenes Praktikum . . . . . . . . . . . . . . . . . . . . . .

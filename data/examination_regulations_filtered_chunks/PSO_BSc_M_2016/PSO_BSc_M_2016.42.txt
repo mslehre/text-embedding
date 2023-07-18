@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+d dem Erwerb eines unbenoteten Übungsscheines.
+                        Die Kriterien für den Erhalt eines Übungsscheines legt der
+                        Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                        Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                        zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Wahlmodul
+
+
+
+
+                                       32
+Modul A15: Spieltheorie
+Verantwortlicher           Professur Diskrete Biomathematik
+Lehrformen                 Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus               1 Sem., zweijährlich im WS gerade Jahre
+Qualifikationsziele
+   • Befähigung zu strategischem Denken und zur Formulierung von Gegensätzen
+     von Interessen,
+   • Beherrschung der Lösungsansätze,
+   • Verständnis für die Struktur von Konfliktsituationen und deren mathematische
+     Modellierung anhand von Problemen aus Politik, Wirtschaft und Alltag,
+   • Kenntnis der neueren Ansätze der evolutionären und dynamischen Spieltheorie
+     im Zusammenhang und Gegensatz mit klassischen Lösungskonzepten,
+   • Verständnis für die Komplexität und Vielfältigkeit der Varianten bei Mehrperso-
+     nenspielen,
+   • Beherrschung einfacher Ansätze wie Kern und Shapley-Index,
+   • Vertiefte Kenntnisse in Stochastik, Analysis und Optimierung durch neue Anwen-
+     dungen.
+
+Inhalt
+   • Lösung kombinatorischer Spiele
+   • Klassische Zwei-Personen Matrix-Spiele, reine und gemischte Strategien
+   • Minimax-Lösung und Nash-Gleichgewicht, Existenzsätze
+   • Evolutionäre Spieltheorie, evolutionär stabile Gleichgewichte
+   • Dynamische Modellierung von Spielen
+   • Mehrpersonenspiele, Koalitionsbildung, Kern, Shapley-Indizes
+
+Vorkenntnisse             Analysis, Lineare Algebra, Stochastik
+Prüfung                  Die Modulprüfung besteht aus ei

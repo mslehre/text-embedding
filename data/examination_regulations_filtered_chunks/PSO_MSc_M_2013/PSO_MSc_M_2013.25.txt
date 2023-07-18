@@ -1,0 +1,54 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+ 180 (Vorlesung: 45, Übung: 15 Selbststudium: 120)
+Leistungspunkte        6
+Teilgebiet             Analysis/Optimierung
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      5
+Modul Bild- und Signalanalyse
+Verantwortlicher       Professur Biomathematik
+Lehrformen             Vorlesung (4 SWS)
+Dauer/Zyklus           1 Sem., B: jährlich im SoSe
+Qualifikationsziele
+   • umfassende Kenntnisse der grundlegenden mathematischen Eigenschaften der
+     verschiedenen Transformationen,
+   • sichere Auswahl der unterschiedlichen Transformationen gemäß ihres Anwen-
+     dungsfeldes,
+   • Beherrschung der grundlegenden mathematischen Strukturen zur numerischen
+     Umsetzung der Transformationen.
+
+Inhalt
+   • Schnelle Fouriertransformation
+   • Fourierreihen
+   • Fouriertransformation
+   • Wavelets
+   • Mathematische Morphologie
+
+Vorkenntnisse           Analysis I, II, Gewöhnliche Differentialgleichungen, Lineare
+                        Algebra I,II
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       6
+Modul Differentialgeometrie
+Verantwortlicher      Professur Analysis
+Lehrformen            Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus          1 Sem., D: zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • Kenntnisse über Mannigfaltigkeiten und Untermannigfaltigkeiten,
+   • Kompetenzen im analytischen Umgang mit gekrümmten Objekten,
+   • Befähigung zur koordinatenfreien Erfassung und Beschreibung von mathemati-
+     schen Eigenschaften von Mannigfaltigkeiten,
+   • Kenntnisse über den Zusammenhang geometrischer Extremaleigenschaften mit
+     physikalischen Variationsprinzipien,
+   • Befa
