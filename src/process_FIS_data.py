@@ -240,10 +240,7 @@ institutions_dict['Physiotherapie Neu'] = 'Physiotherapie'
 # its abbreviation as saved in the dictionary
 
 # open unified institution abbrevation table Lukasz
-# file = open('../data/FIS/FIS.inst.abbrev.tbl', 'w')
-# was in the conflict 
-# file = open(os.path.join(DATA_DIR, "FIS/FIS.inst.abbrev.tbl"), 'w')
-file = open('../data/FIS/HIS_inst_abbrev.tbl', 'w')
+file = open(os.path.join(DATA_DIR, "FIS/unified_inst_abbrev.tbl"), 'w')
 
 # The first line of the file
 file.write('institute_long\tinstitute_short\n')
@@ -256,10 +253,7 @@ file.close()
 # plot
 
 # open unified color table Lukasz
-# file = open('../data/FIS/FIS.colors.inst.tbl', 'w')
-# was in the conflict
-# file = open(os.path.join(DATA_DIR, "FIS/FIS.colors.inst.tbl"), 'w')
-file = open('../data/FIS/inst_color.tbl', 'w')
+file = open(os.path.join(DATA_DIR, "FIS/inst_color.tbl"), 'w')
 
 # The first line of the file
 file.write('institute\tcolor\n')
