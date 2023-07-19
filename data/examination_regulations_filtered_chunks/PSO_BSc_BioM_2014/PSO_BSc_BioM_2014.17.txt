@@ -1,0 +1,36 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+ius
+
+Qualifikationsziele
+   • Kenntnis und Beherrschung grundlegender Prinzipien algebraischer Strukturen
+     und deren Anwendung auf einfache mathematische Fragestellungen,
+   • Beherrschung von mathematischem Basiswissen als Grundlage des gesamten
+     weiteren Studiums,
+   • Befähigung zu mathematischen Arbeitsweisen (Entwicklung mathematischer In-
+     tuition, Aneignung der Fähigkeit, formal und verständlich zu begründen, Schulung
+     des Abstraktionsvermögens, Einsicht in den axiomatischen Aufbau mathemati-
+     scher Fachgebiete anhand durchsichtiger Strukturen),
+   • Kenntnisse über den strukturellen Aufbau der Mathematik,
+   • Befähigung zur Erkennung der Zusammenhänge zwischen abstrakten mathema-
+     tischen Theorien und konkreten Beispielen,
+   • Befähigung zur Anwendung des Erlernten für praktische Fragestellungen,
+   • Bereitschaft zur Diskussion und zum gemeinsamen Erarbeiten von Ergebnissen
+     und Kommunikationsfähigkeit durch freie Rede vor einem Publikum.
+
+Vorkenntnisse            keine
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung. Zusätzlich sind
+                         zwei Übungsscheine (zu Linearer Algebra und analytischer
+                         Geometrie I und zu Linearer Algebra und analytischer Geo-
+                         metrie II) zu erwerben. Die Kriterien für den Erhalt eines
+                         Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                         woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                         Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             540 (Vorlesung: 120, Übung: 60, Selbststudium: 360)
+
+
+                                         6
+Leistungspunkte        18
+Modulart               Pflichtmodul im 1. und 2. Sem.
+Regelprüfungstermin   Übung I: 1. Sem., Übung II: 2. Sem

@@ -1,0 +1,46 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+rd.
+
+
+
+
+                                       15
+Modul Numerik Grundpraktikum
+Verantwortlicher    Professur Angewandte Mathematik, Professur Numerische
+                    Mathematik und Optimierung
+Lehrformen          Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus        1 Sem., jährlich im WiSe
+Inhalt
+   • Methoden zur numerischen Lösung von Anfangswertproblemen bei
+     gewöhnlichen Differentialgleichungen
+   • effiziente Einschrittverfahren (Runge-Kutta Verfahren) mit Schrittweitensteuerung
+   • effiziente Mehrschrittverfahren mit Schrittweiten- und Ordnungssteuerung
+   • Konvergenztheorie
+   • implizite Methoden für steife Probleme
+
+Qualifikationsziele
+   • Kenntnisse zum Anwendungsbereich der gewöhnlichen Differentialgleichungen,
+   • Befähigung zur kritischen Bewertung numerischer Ergebnisse,
+   • Kompetenzen bei der Auswahl geeigneter Lösungsmethoden,
+   • Kompetenzen zur Entwicklung numerischer Software für Anfangswertaufgaben,
+   • Kompetenzen zur Weitergabe und Diskussion wissenschaftlicher Ergebnisse.
+
+Vorkenntnisse            Analysis I, II; Lineare Algebra I, II; Numerik I
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung. Die Kriterien
+                         für den Erhalt eines Übungsscheines legt der Dozent in der
+                         ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+                         sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        16
+Modul Optimale Steuerung / Variationsrechnung
+Verantwortlicher      Professur Angewandte Mathematik, Professur Numerische
+                      Mathe

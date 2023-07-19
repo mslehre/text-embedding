@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+chte Strategien
+   • Minimax-Lösung und Nash-Gleichgewicht, Existenzsätze
+   • Evolutionäre Spieltheorie, evolutionär stabile Gleichgewichte
+   • Dynamische Modellierung von Spielen
+   • Mehrpersonenspiele, Koalitionsbildung, Kern, Shapley-Indizes
+
+Qualifikationsziele
+  • Befähigung zu strategischem Denken und zur Formulierung von Gegensätzen
+     von Interessen,
+  • Beherrschung der Lösungsansätze,
+  • Verständnis für die Struktur von Konfliktsituationen und deren mathematische
+     Modellierung anhand von Problemen aus Politik, Wirtschaft und Alltag,
+  • Kenntnis der neueren Ansätze der evolutionären und dynamischen Spieltheorie
+     im Zusammenhang und Gegensatz mit klassischen Lösungskonzepten,
+  • Verständnis für die Komplexität und Vielfältigkeit der Varianten bei Mehrperso-
+     nenspielen,
+  • Beherrschung einfacher Ansätze wie Kern und Shapley-Index,
+  • Vertiefte Kenntnisse in Stochastik, Analysis und Optimierung durch neue Anwen-
+     dungen.
+
+Vorkenntnisse            Analysis, Lineare Algebra, Stochastik
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                         nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                         lesung und Übung sind Thema der Prüfung.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Stochastik/Statistik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         50
+Modul Stochastische Modelle der Biologie
+Verantwortlicher        Professur Stochastik
+Lehrformen              Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., zweijährlich im WiSe gerade Jahre
+Inhalt
+Grundlagen der Markov-Prozesse und biologische Anwendungen:
+   • Markov-Ketten, Strukturbes

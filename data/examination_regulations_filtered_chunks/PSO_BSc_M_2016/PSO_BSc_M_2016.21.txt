@@ -1,0 +1,51 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+ufgaben erfolgreich
+                         zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             540 (Vorlesung: 120, Übung: 60, Selbststudium: 360)
+Leistungspunkte          18
+
+
+                                         6
+Modulart   Pflichtmodul
+
+
+
+
+                          7
+Modul P3: Algorithmen und Programmierung / Computeralgebra
+Verantwortlicher         Professuren Informatik
+Lehrformen               Vorlesung (4 SWS) und Übung (4 SWS)
+Dauer/Turnus             2 Sem., jährlich, Vorlesung/Übung Algorithmen und Pro-
+                         grammierung im WS, Übung Computeralgebrasysteme im
+                         SoSe
+Qualifikationsziele
+Algorithmen und Programmierung:
+   • grundlegendes Verständnis für den Begriff des Algorithmus,
+   • Kompetenzen in der Bewertung von Algorithmen hinsichtlich Ihrer Leis-
+     tungsfähigkeit,
+   • Befähigung zum Entwurf einfacher Algorithmen,
+   • Befähigung zur Erstellung einfacher Programme in JAVA.
+
+Computeralgebrasysteme:
+  • Befähigung zur Lösung von Standardaufgaben (Faktorisierung, Nullstellenbe-
+    rechnung, Termvereinfachung, Differentiation/Integration) mit Hilfe von Compu-
+    teralgebrasystemen,
+  • Befähigung zur Erstellung von einfachen Programmen in Computeralgebrasyste-
+    men,
+  • Befähigung zur Analyse und Bearbeitung komplexer, praktischer Aufgabenstel-
+    lungen.
+
+Inhalt
+Algorithmen und Programmierung:
+   • grundlegende algorithmische Probleme (Suchen, Sortieren)
+   • elementare Datenstrukturen (Listen, Stacks, Queues, Suchbäume)
+   • Entwurfstrategien für Algorithmen (Teile und Herrsche, Greedy)
+   • Analyse von Algorithmen (O-Notation, Laufzeit, Speicherbedarf)
+   • grundlegende Aspekte der objektorientierten Programmierung in JAVA
+
+Compmuteralgebrasysteme:
+  • Nutzung von Computeralgebrasystemen zur Lösung von Standardaufgaben
+    wie: Faktorisierung, Nullstellenbestimmung, Termvereinfachung, Differenzie-
+    ren/Integrieren
+  • Erstellung einfach

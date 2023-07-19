@@ -1,0 +1,53 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+darf
+Inhalt
+   • Spezielle Themen aus Stochastik / Statistik
+
+Qualifikationsziele
+Vertiefte Kenntnisse und erweiterte Kompetenzen in einem ausgewählten Spezialge-
+biet.
+Vorkenntnisse            Stochastik, Statistik
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung.
+Note                     Note der Modulprüfung
+Aufwand in h             90 (Vorlesung: 30, Selbststudium: 60)
+Leistungspunkte          3
+Teilgebiet               Stochastik/Statistik
+Regelprüfungstermin Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       48
+Modul Spezialvorlesung II Stochastik/Statistik
+Verantwortlicher      Professur Stochastik, Professur Statistik
+Lehrformen            Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus          1 Sem., nach Bedarf
+Inhalt
+   • Spezielle Themen aus Stochastik / Statistik
+
+Qualifikationsziele
+Umfangreiche, vertiefte Kenntnisse und umfassende Kompetenzen in einem aus-
+gewählten Spezialgebiet.
+Vorkenntnisse             Stochastik, Statistik
+Prüfung                  Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                          oder einer 30-minütigen mündlichen Prüfung.
+Note                      Note der Modulprüfung
+Aufwand in h              180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte           6
+Teilgebiet                Stochastik/Statistik
+Regelprüfungstermin Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       49
+Modul Spieltheorie
+Verantwortlicher         Professur Stochastik, Professur Biomathematik
+Lehrformen               Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus             1 Sem., zweijährlich im WiSe gerade Jahre
+Inhalt
+   • Lösung kombinatorischer Spiele
+   • Klassische Zwei-Personen Matrix-Spiele, reine und gemischte Strategien
+   • Minimax-Lösung und Nash-Gleichgewicht, Existenzsätze
+   • Evolutionäre Spiel

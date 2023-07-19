@@ -1,0 +1,51 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+integral, Erhaltungssätze und Invarian-
+     ten, Maxwellsche Gleichungen, Elektrostatik und Magnetfeld stationärer Ströme,
+     Elektromagnetische Wellen und Strahlung, Elektrodynamik der Kontinua, Plas-
+     men
+   • Mathematische Ergänzungen
+
+Vorkenntnisse            keine
+Prüfung                 unbenoteter Übungsschein, Klausur (120 Minuten) oder
+                         mündliche Prüfung (30 Minuten) nach Maßgabe des Dozen-
+                         ten
+Note                     Note der Modulprüfung
+Aufwand in h             270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Modulart                 Nebenfachmodul
+
+
+
+
+                                        42
+Modul T3: Theoretische Physik 3: Quantenmechanik
+Verantwortlicher         Professur Komplexe Quantensysteme
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im SS
+Qualifikationsziele
+   • Vertrautheit mit den Konzepten und dem Formalismus der Quantentheorie
+   • Verständnis elementarer quantenmechanischer Systeme
+   • Fähigkeit, Probleme der Quantenmechanik selbständig zu lösen
+
+Inhalt
+   • Physikalische Grundlagen und axiomatischer Aufbau der Quantentheorie, Mess-
+     prozess, Quantendynamik (Bilder), harmonischer Oszillator (Besetzungszahldar-
+     stellung), Teilchen im elektromagnetischen Feld (Eichtransformation), Quanten-
+     theorie des Drehimpulses (Spin), Wasserstoffatom, Näherungsverfahren, Golde-
+     ne Regel
+   • Mathematische Ergänzungen
+
+Vorkenntnisse           keine
+Prüfung                unbenoteter Übungsschein, Klausur (120 Minuten) oder
+                        mündliche Prüfung (30 Minuten) nach Maßgabe des Dozen-
+                        ten
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Nebenfachmodul
+
+
+
+
+                                      43
+Modul T4: T

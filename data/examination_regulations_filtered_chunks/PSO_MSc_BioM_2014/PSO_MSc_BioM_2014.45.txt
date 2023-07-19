@@ -1,0 +1,50 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+     Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       25
+Modul Berechenbarkeitstheorie
+Verantwortlicher     Vorsitzender des Prüfungsausschusses
+Lehrformen           Vorlesung (4 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • Kompetenz in der Einordnung und Anwendung von Ergebnisse und Techniken
+     der Berechenbarkeitstheorie im Überschneidungsgebiet von mathematischer Lo-
+     gik und theoretischer Informatik,
+   • Kompetenz in der Beurteilung der Gödelschen Ergebnisse,
+   • Beherrschung des sicheren Umgangs mit Fragen der Effektivität und Formalisier-
+     barkeit.
+
+Inhalt
+   • Berechenbarkeit: grundlegende Eigenschaften und Beziehungen
+   • Nummerierungen, insbesondere Gödelnummerierungen
+   • Reduzierbarkeit von Entscheidungsproblemen durch Abbildungen
+   • Turing-Reduzierbarkeit und Arithmetische Hierarchie
+   • Anwendungen in Logik und Grundlagen der Mathematik, insbesondere
+     Gödelscher Unvollständigkeitssatz
+   • Analytische Hierarchie und Berechenbarkeit höherer Stufe
+   • Weitere Ausblicke und Anwendungen
+
+Vorkenntnisse           Vorlesungen zur theoretischen Informatik und Grundvorle-
+                        sungen zur Analysis und Algebra.
+Prüfung                Die Modulprüfung besteht aus einer 30-minütigen
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       26
+Modul Bioinformatik
+Verantwortlicher        Professur Bioinformatik
+Lehrformen              Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im SoSe
+Inhalt
+   • Probabilistische Modelle der Bioinformatik (CRFs, HMMs, 

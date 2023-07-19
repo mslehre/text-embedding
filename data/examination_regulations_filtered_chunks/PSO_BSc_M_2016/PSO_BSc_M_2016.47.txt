@@ -1,0 +1,47 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+ie dichter Plasmen
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im SS
+Qualifikationsziele
+   • Vertrautheit mit den Grundbegriffen der Klassischen Mechanik als geschlossene
+     Physikalische Theorie
+   • Fähigkeit, Probleme der klassischen theoretischen Mechanik selbständig zu
+     lösen
+
+Inhalt
+   • Newtonsche Mechanik mit Anwendungen (z. B. Bewegung im Zentralkraftfeld),
+     Extremalprinzipien, Langrange-Mechanik mit Anwendungen (z.B. Zwangskräfte,
+     Normalschwingungen, Bewegung in Nichtinertialsystemen, starrer Körper)
+   • Hamiltonsche Mechanik, (infinitesimale) Kanonische Transformation, Symmetri-
+     en und Erhaltungssätze, Hamilton-Jacobi Theorie, Phasenraumbeschreibung in-
+     tegrabler Systeme
+   • Mathematische Ergänzungen
+   • Je nach Dozent: deterministisches Chaos, nichtlineare Dynamik, Kontinuumsme-
+     chanik
+
+Vorkenntnisse           keine
+Prüfung                unbenoteter Übungsschein, Klausur (120 Minuten) oder
+                        mündliche Prüfung (30 Minuten) nach Maßgabe des Dozen-
+                        ten
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Nebenfachmodul
+
+
+
+
+                                      41
+Modul T2: Theoretische Physik 2: Elektrodynamik
+Verantwortlicher           Professur Theorie dichter Plasmen
+Lehrformen                 Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus               1 Sem., jährlich im WS
+Qualifikationsziele
+   • Vertrautheit mit dem Feldbegriff
+   • Intuitives Verständnis des Elektromagnetismus
+   • Fähigkeit, Probleme der Elektrodynamik selbständig zu lösen
+
+Inhalt
+   • Spezielle Relativitätstheorie und relativistische Mechanik, geladenes Teilchen
+     im elektromagnetischen Feld, Wirkungsintegral, Erhaltungssätze und Invarian-
+     ten, Maxwellsche Gleichungen, Elektrostatik und Magnet

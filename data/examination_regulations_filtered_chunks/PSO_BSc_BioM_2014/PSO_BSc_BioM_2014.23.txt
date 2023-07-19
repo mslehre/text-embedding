@@ -1,0 +1,53 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+g (2 SWS), Übung (2 SWS)
+                        Bioinformatisches Praktikum: Vorlesung (2 SWS), Übung (2
+                        SWS)
+Dauer/Turnus            2 Sem., Genomanalyse: jährlich im WiSe, Bioinformatisches
+                        Praktikum: jährlich im SoSe
+Inhalt
+Genomanalyse:
+   • dynamisches Programmieren
+   • Sequenzierung und Assemblierung (DeBrujn-Graphen)
+   • Sequenzalignment (global/lokal, paarweise/multipel)
+   • Homologiesuche (BLAST, profilHMMs)
+   • Genvorhersage (HMMs)
+   • Phylogenie (Fitch-Algorithmus)
+
+Bioinformatisches Praktikum:
+   • Praktische Arbeit mit Bioinformatik-Werkzeugen, z.B. für die Genomanalyse
+   • Skriptsprache PERL
+   • Erstellung eigener Skripte zur Biodatenanalyse
+   • Genombrowser
+   • Phylogenieprogramme
+
+Qualifikationsziele
+   • Verständnis der grundlegenden Algorithmen zur Genomanalyse.
+   • Kenntnis der Scoring-Modelle für die wichtigsten Optimierungsprobleme der Ge-
+     nomik.
+   • Fähigkeit, eine Analysepipeline aus vorhandenen Primärtools selbständig aufzu-
+     bauen.
+
+Vorkenntnisse            Algorithmen und Programmierung
+Prüfung                 Jeweils einen Übungsschein für “Genomanalyse” und “Bio-
+                         informatisches Praktikum” sowie eine 90-minütige Klausur
+                         über “Genomanalyse”.
+Note                     Note der Klausur
+Aufwand in h             300 (Vorlesung: 60, Übung: 60, Selbststudium: 180)
+Leistungspunkte          10
+Modulart                 Pflichtmodul im 3. und 4. Sem.
+Regelprüfungstermin     Genomanalyse: 3. Sem., Praktikum: 4. Sem.
+
+
+
+
+                                        14
+Modul Mathematische Biologie
+Verantwortlicher     Professur Biomathematik
+Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus         1 Sem., jährlich im SoSe
+Inhalt
+   • Modelle der Populationsdynamik
+   • Modelle der Dynamik von ansteckenden Krankheiten
+   • Modelle biochemischer Reaktionen
+   • Populationsgenetik
+   • Reaktions-Diffusion

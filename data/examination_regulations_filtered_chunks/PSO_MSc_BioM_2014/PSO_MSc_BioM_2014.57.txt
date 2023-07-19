@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+üfung.
+Note                      Note der Modulprüfung
+Aufwand in h              180 (Vorlesung: 30, Übung: 30, Selbststudium: 120)
+Leistungspunkte           6
+Teilgebiet                Diskrete Mathematik/Algorithmik
+Regelprüfungstermin Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       41
+Modul Theoretische Informatik
+Verantwortlicher       Vorsitzender des Prüfungsausschusses
+Lehrformen             Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus           1 Sem., jährlich im SoSe
+Inhalt
+   • Grundlagen der Berechenbarkeits- und Algorithmentheorie: Intuitiver
+     Algorithmus-Begriff und mathematische Präzisierungen der Berechenbarkeit
+     (goto-, while-, aber auch loop-Programme, Turingmaschinen u.a.), Church-
+     Turing-Hypothese, universelle Funktionen und unlösbare Probleme.
+   • Endliche Automaten und sequentielle Wortfunktionen, Boolesche Funktionen,
+     Schaltalgebra.
+   • Formale Sprachen, die Klassen der Chomsky-Hierarchie und ihre Akzeptortypen.
+
+Qualifikationsziele
+   • Kenntnis der grundlegenden Eigenschaften und Grenzen der Berechenbarkeit,
+   • Verständnis der Bedeutung der Berechenbarkeit für die Informatik,
+   • Verständnis für mathematische Modelle informationsverarbeitender Systeme und
+     deren Anwendung,
+   • Befähigung zum Vergleich von Typen formaler Sprachen und zugehöriger Akzep-
+     tortypen bezüglich ihrer Leistungsvermögen,
+   • Verständnis und Beherrschung des Wechselspiels zwischen mathematischer In-
+     tuition und ihrer Präzisierung durch formale Systeme,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion in
+     den Übungen.
+
+Vorkenntnisse           Lineare Algebra, Analysis, Algorithmen und Programmierung
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                        nahme an den Übungen wird erwartet. Die Inhalt

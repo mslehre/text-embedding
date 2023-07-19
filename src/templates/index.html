@@ -1,6 +1,10 @@
 <html>
+    <head>
+        <title>AskCampusAI Greifswald</title>
+        <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    </head>
     <body>
-        <form action = "http://localhost:5000/result" method = "post">
+        <form action = "/simresult" method = "post">
             <label for="fname">Enter first file text: </label><br>
             <textarea name="text1" id="txt1" rows="10" cols="30"></textarea><br>
                 <br>
@@ -8,6 +12,16 @@
             <textarea name="text2" id="txt2" rows="10" cols="30"></textarea><br>
                 <br>
             <input type="submit" value="Compute similarity of texts">
+        </form>
+        <br>
+        <form action = "/collab" method = "get">
+            <input type="submit" value="Switch to collaboration suggestions site.">
+        </form>
+        <form action = "/PSO" method = "get">
+            <input type="submit" value = "Switch to questions on exam regulations.">
+        </form>
+        <form action = "/grantcall" method = "post">
+            <input type="submit" value = "Switch to grant call calculator">
         </form>
     </body>
 </html>

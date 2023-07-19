@@ -1,0 +1,42 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+(Art und
+                             (Semester)                         Umfang)
+Algebra II                   1            270       9           1 Üs *
+                                                                1 mP/Kl
+Funktionalanalysis           1            270       9           1 Üs *
+                                                                1 mP/Kl
+Maß- und                     1            270       9           1 Üs *
+Integrationstheorie                                             1 mP/Kl
+Multivariate Statistik       1            270       9           1 mP/Kl
+Numerik II                   1            270       9           1 Üs *
+                                                                1 mP/Kl
+
+Typ 3 besteht aus einer Veranstaltung vom Typ 1 zusammen mit einem Seminar:
+
+Modul                        Dauer        AB        LP          PL (Art und
+                             (Semester)                         Umfang)
+Typ 3                        2            270       9           1 mP/Kl
+                                                                1 Sems *
+
+Typ 4 ist das Vertiefungsmodul, bestehend aus zwei Seminaren:
+
+Modul                        Dauer        AB        LP          PL (Art und
+                             (Semester)                         Umfang)
+Vertiefungsmodul             2            180       6           2 Sems *
+
+Es muss mindestens ein Modul vom Typ 3 oder vom Typ 4 gewählt werden. Typ 4 darf
+nur einmal belegt werden.
+
+Typ 5: Spezialvorlesungen
+
+Modul                        Dauer        AB        LP          PL (Art und
+                             (Semester)                         Umfang)
+Spezialvorlesung I           2            180       6           2 mP/Kl
+Spezialvorlesung II          1            180       6           mP/Kl
+
+(3) Die Qualifikationsziele der einzelnen Module ergeben sich aus der Anlage
+Modulkatalog.
+
+
+                                            §8
+                                      Modulprüfungen

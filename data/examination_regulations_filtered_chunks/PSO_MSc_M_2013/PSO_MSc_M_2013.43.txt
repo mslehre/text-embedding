@@ -1,0 +1,52 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+ung,
+   • Kenntnis exemplarischer Ansätze zur approximativen Lösung schwieriger Proble-
+     me der Diskreten Optimierung.
+
+Inhalt
+   • Bäume, Wege, Flüsse, Paarungen, Stabile Mengen in Graphen
+   • Approximationsalgorithmen
+   • LP-artige Probleme
+   • Ganzzahlige LP-Probleme
+   • Schnittebenenverfahren
+   • Branch and Bound
+
+Vorkenntnisse           Optimierung
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand                 180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik/Algebra
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       27
+Modul Graphentheorie
+Verantwortlicher     Professur Stochastik, Professur Diskrete Biomathematik
+Lehrformen           Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus         1 Sem., E: zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • Kenntnis der grundlegenden Begriffe der Graphentheorie,
+   • Beherrschung der prinzipiellen Techniken (Algorithmen) zum Zählen, zur Para-
+     meterbestimmung und zur Optimierung graphentheoretischer Strukturen,
+   • Beherrschung verschiedener kombinatorische Beweistechniken,
+   • grundlegende Kenntnisse in der Topologie von Flächen.
+
+Inhalt
+Grundlegende graphentheoretische Konzepte und Eigenschaften von Graphen:
+   • Beispiele und Fragen zu ungerichteten und gerichteten Graphen
+   • Bäume, Kürzeste Wege, aufspannende Bäume
+   • Eulersche und Hamiltonsche Graphen
+   • Färbungen von Graphen
+   • Matchings und bipartite Graphen
+
+Weiterführende Themen, z.B.
+  • Planare Graphen, Vierfarbenproblem, Eulersche Formel
+  • Flüsse in Netzwerken
+  • Beispiele und Probleme komplexer Netzwerke
+
+Vorkenntnisse           Elementare Kombinatorik, Lineare Algebra, Algorithmik
+Prüfung                Die Modulprüfung besteht aus einer Klaus

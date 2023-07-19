@@ -69,7 +69,8 @@ def text_to_chunks(indices: list[tuple[int]],
 
 def write_chunks_to_files(chunks: list[str],
                           dir_path: str,
-                          file_stem: str):
+                          file_stem: str,
+                          add_name: bool = False):
     """
     Write chunks to files named after the file stem + chunk index
 
@@ -77,11 +78,29 @@ def write_chunks_to_files(chunks: list[str],
         chunks (list[str]): List of chunks represented by strings
         dir_path (str): Path to output dir
         file_stem (str): File stem for output files
+        add_name (bool): Adds the second line of the corresponding meta file at
+            the beginning of each chunk starting with number 1 (second chunk).
+            This should benefit the chunks search as the title of the whole 
+            file is located in each chunk.
     """
+    if add_name:
+        meta_path = os.path.join(dir_path, file_stem + ".meta.txt")
+        if os.access(meta_path, os.R_OK) :
+            with open(meta_path, 'r') as meta_in:
+                meta_line = meta_in.readlines() # get all lines
+                meta_line = meta_line[1].strip() # get second line with title
+        else:
+            print(f'ERROR: Could not open the meta file {meta_path}.'
+                  + 'Pleas make sure that the file exists and is accesable'
+                  + ' or repeat the chunker without argument -m.')
+            exit(1)
+
 
     for i, chunk in zip(range(len(chunks)), chunks):
         file_path = dir_path + file_stem + '.' + str(i) + '.txt'  
         with  open(file_path, 'w') as f_out:
+            if add_name and i > 0:  # not for first chunk
+                f_out.write(meta_line + "\n")
             f_out.write(chunk)
 
 def main():
@@ -103,6 +122,12 @@ def main():
                         help = 'Copies the meta file if it exists into the '
                         + 'chunks directory. The meta file has to have format '
                         + '<file_name.meta.txt>.')
+    parser.add_argument('-n', '--add_name', action = 'store_true',
+                        help = 'If True adds the second line of the meta file '
+                        + 'which should be the title of the file (e.g. name '
+                        + 'of the examination regulation) to every chunk '
+                        + 'beginning with number 1 as the first chunk should '
+                        + 'include the title.')
     args = parser.parse_args()
 
     dir_path = os.path.join(args.dir_path, '')  # append '/' if not there
@@ -147,7 +172,10 @@ def main():
                 meta_out.write(meta_data)
 
         # write chunks to files
-        write_chunks_to_files(chunks, outdir, file_stem)
+        write_chunks_to_files(chunks=chunks,
+                              dir_path=outdir,
+                              file_stem=file_stem,
+                              add_name=args.add_name)
 
     exit(0)
 

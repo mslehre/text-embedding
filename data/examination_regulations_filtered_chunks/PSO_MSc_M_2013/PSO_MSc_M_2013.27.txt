@@ -1,0 +1,43 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+gewöhnliche Differentialgleichungen
+   • Bifurkationstheorie gewöhnlicher Differentialgleichungen
+   • Beispiele für Bifurkationen
+   • Verzögerte Differentialgleichungen
+   • Reaktions-Diffusionsgleichungen
+
+Vorkenntnisse            Analysis I, II, Gewöhnliche Differentialgleichungen, Lineare
+                         Algebra I,II
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung.
+                         Die aktive Teilnahme an den Übungen wird erwartet. Die In-
+                         halte von Vorlesung und Übung sind Thema der Prüfung.
+Note                     Note der Modulprüfung
+Aufwand                  180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Analysis/Optimierung
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                         8
+Modul Dynamische Systeme
+Verantwortlicher    Professur Stochastik
+Lehrformen          Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus        1 Sem., C: zweijährlich im WS gerade Jahre
+Qualifikationsziele
+   • Kenntnis einer übergreifenden Theorie, die verschiedene Gebiete der Stochastik
+     und Analysis verbindet,
+   • Vertiefte und erweiterte Kenntnisse aus den Gebieten Analysis, lineare Algebra,
+     Stochastik und Differenzialgleichungen und Kenntnis der Querverbindungen,
+   • Grundlegende Kenntnisse für mögliche weitere Module wie stochastische Pro-
+     zesse und Zeitreihenanalyse und Beherrschung unterschiedlicher Sichtweisen,
+   • Beherrschung der abstrakten geometrischen Sprache und Denkweise, die kom-
+     plexe Systeme auf ihre wesentlichen Eigenschaften reduziert,
+   • Befähigung, die praktische und gesellschaftliche Relevanz von dynamischen Pro-
+     zessen zu beurteilen,
+   • Befähigung zur Erkundung komplexer Systeme durch Computerexperimente in
+     den Übungen.
+
+Inhalt
+Grundlagen der Dynamischen Systeme:
+   • Iteration reeller und komplexer Abbildungen, Bah

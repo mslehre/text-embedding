@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+        LP
+
+             Wahrscheinlichkeitstheorie                      3         4 2     1 mP+Üs         9
+             Graphentheorie                                  2         3 1     1 mP/Kl         6
+     1       Spezialvorlesung I                              2         2       1 mP/Kl         3
+                                                                                                     30
+             Multivariate Statistik                          3         4 2     1 mP/Kl         9
+             Seminar A                                       2               2 2 Sems          3
+
+             Funktionalanalysis                              1         4 2     1 mP+Üs/Kl+Üs   9
+             Operatorenalgebren                              2         3 1     1 mP/Kl         6
+     2
+                                                                                                     30
+
+
+
+
+             Stochastische Prozesse                          3         4       1 mP            6
+             Mathematische Logik                             2         4       1 mP            6
+             Seminar A                                       2               2 2 Sems          3
+
+             Funktionentheorie                               1         3 1     1 mP/Kl         6
+             Partielle Differentialgleichungen               1         3 1     1 mP/Kl         6
+     3
+                                                                                                     30
+
+
+
+
+             Maß- und Integrationstheorie                    1         4 2     1 mP+Üs/Kl+Üs   9
+             Masterarbeit beginnt                                              2               9
+
+             Algebra II                                      2         4 2     1 mP+Üs/Kl+Üs   9
+     4
+                                                                                                     30
+
+
+
+
+             Masterarbeit abgeschlossen                                        2 

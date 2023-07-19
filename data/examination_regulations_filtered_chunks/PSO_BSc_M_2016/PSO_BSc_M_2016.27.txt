@@ -1,0 +1,48 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+
+   • Grundlagen der Gleitpunktarithmetik
+   • Fehleranalyse
+   • Verfahren zur Lösung von linearen und nichtlinearen Gleichungssystemen und
+     Ausgleichsproblemen
+   • Interpolation (Polynome und Splines) und Quadratur (Newton-Cotes und Gauß)
+
+Vorkenntnisse           Analysis I, II, Lineare Algebra I, II
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                        ten und dem Erwerb eines unbenoteten Übungsscheines.
+                        Die Kriterien für den Erhalt eines Übungsscheines legt der
+                        Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                        Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                        zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Pflichtmodul
+
+
+
+
+                                      14
+Modul P9: Maß- und Integrationstheorie
+Verantwortlicher         Professur Analysis, Professur Biomathematik
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., jährlich im WS
+Qualifikationsziele
+   • Kenntnis der Stärken und Anwendungen eines abstrakten Maß- und Integrati-
+     onsbegriffs als Grundlage für ein fortgeschrittenes Studium der Stochastik und
+     Analysis,
+   • Beherrschung der typischen analytischen und stochastischen Begriffsbildungen
+     und Verständnis ihrer Zusammenhänge,
+   • Beherrschung fortgeschrittener Beweistechniken,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+Grundlagen der Maß- und Integrationstheorie:
+   • Konstruktion von Maßen
+   • Lebesguesche Integrationstheorie
+   • Produktmaße, Satz von Fubini
+   • Darstellungssätze (Riesz, Radon-Nikodym)
+   • Lp -Räume
+
+Weiterführende T
