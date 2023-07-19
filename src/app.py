@@ -171,7 +171,7 @@ def compute_similarity_of_files() -> str:
 
 @app.route('/collab', methods=['GET'])
 def show_collabs_page() -> str:
-    profsfile = open(path.join(DATA_DIR, "profs_and_ids.tbl"), "r")
+    profsfile = open(path.join(DATA_DIR, "profs_and_ids.tbl"), "r", encoding="utf-8")
     lines = profsfile.readlines()
     profs ={}
     for line in lines:
@@ -181,7 +181,7 @@ def show_collabs_page() -> str:
 
 @app.route('/collab', methods=['POST'])
 def suggest_collabs() -> str:
-    profsfile = open(path.join(DATA_DIR, "profs_and_ids.tbl"), "r")
+    profsfile = open(path.join(DATA_DIR, "profs_and_ids.tbl"), "r", encoding="utf-8")
     lines = profsfile.readlines()
     profs ={}
     for line in lines:
