@@ -319,10 +319,11 @@ def tsne_plot(X: np.ndarray,
     # annotate dots with last names
     text = []
     # box style for labels
-    bbox_props = dict(boxstyle="round", fc="white", alpha=0.3)
+    bbox_props = dict(boxstyle="round", fc="white", alpha=0.3) 
+    #boxstyle="round, pad=0.15"
     for i, label in enumerate(lnames):        
         text += [ax.text(X[i, 0], X[i, 1], label, bbox=bbox_props, 
-                 zorder = 10)]
+                 zorder = 10)]  # fontsize = 'x-small'
     adjust_text(text)  # prevent labels from overlapping
 
     return ax.get_figure()
@@ -384,8 +385,8 @@ def main():
     embeddings = pd.read_hdf(hdf, "embeddings") 
     author_ids = pd.read_hdf(hdf, "ids")
     hdf.close()
-    authors = pd.read_table(args.author_file, delimiter = '\t', 
-                            encoding='latin1')
+    authors = pd.read_table(args.author_file, delimiter = '\t', dtype = str)
+    # encoding='latin1'
     affiliation_map = pd.read_table(args.affiliation_map, delimiter = '\t')
 
     # thinning data 
