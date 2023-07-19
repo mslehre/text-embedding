@@ -1,10 +1,13 @@
+import os
+from settings import DATA_DIR
+
 def write_profs_and_id():
-    proflist = open ("data/prof.tbl", "r")
+    proflist = open (os.path.join(DATA_DIR, "prof.tbl"), "r")
     proflist_lines = proflist.readlines()
-    f = open("data/profs_and_ids.tbl", "w")
+    f = open(os.path.join(DATA_DIR, "profs_and_ids.tbl"), "w")
     f.write("")
     f.close()
-    f = open("data/profs_and_ids.tbl", "a")
+    f = open(os.path.join(DATA_DIR, "profs_and_ids.tbl"), "a")
     proflist_lines.pop(0)
     for line in proflist_lines:
         this_line = line.split("\t")
