@@ -55,6 +55,8 @@ def PSO_home() -> str:
     answer = ''
     question = ''
     chunk_texts=''
+    PSO_list_path = path.join(app.static_folder, "PSO_list.txt")
+    available_PSOs = open(PSO_list_path, 'r').read()
     if request.method == 'POST':
         # Get the question from the form:
         question = request.form['question']
@@ -67,7 +69,8 @@ def PSO_home() -> str:
     return render_template("PSO_website.html", 
                            answer = answer, 
                            question=question, 
-                           chunks=chunk_texts)
+                           chunks=chunk_texts,
+                           PSO_list=available_PSOs)
 
 
 def get_answer_from_question(question:str,
@@ -118,11 +121,12 @@ def get_answer_from_question(question:str,
     for chunk in chunk_texts_list:
         chunk_text += "\n\n--------------------------------------------------"\
             + "--------------------------------------------------------------"\
-            + "-------------------------------\n\n"
+            + "--------------\n\n"
         chunk_text += "This is text number " + str(i) + ":\n\n"
         chunk_text += "--------------------------------------------------"\
             + "--------------------------------------------------------------"\
-            + "-------------------------------\n\n"
+            + "--------------\n\n"
+
         chunk_text += chunk
         i += 1
 

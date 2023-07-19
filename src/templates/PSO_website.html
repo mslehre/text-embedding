@@ -7,7 +7,7 @@
     <style>
         .container {
             display: grid;
-            grid-template-columns: 1fr 1fr; /* two columns */
+            grid-template-columns: 2fr 3fr; /* two columns */
             gap: 10px;
             align-items: center;
             justify-content: center;
@@ -74,17 +74,19 @@
             <p>Feel free to ask any questions you have regarding any 
                 examination regulation that is accesable on the official 
                 <a href="https://www.uni-greifswald.de/studium/waehrend-des-st\udiums/rund-um-die-pruefungen/pruefungs-und-studienordnungen/" 
-                target="_blank" style="color: red;">univerity website</a>
+                target="_blank" style="color: red;">university website</a>
                 <br>Please be aware that the Large Language Model can 
                 hallucinate and give wrong information, always check important 
-                information yourself.</p>
-                <br> ATTENTION: At the moment only a subset of examination 
+                information yourself.
+                <br><br> ATTENTION: At the moment only a subset of examination 
                 regulations are available. More will be added in the future.
+                <br> Available PDFs: {{ PSO_list }}</p>
         </div>
         <div class="column">
             <form method="POST" action="/PSO">
                 <textarea id="question" name="question" class="question-input" 
-                    placeholder="Enter your question."></textarea>
+                    placeholder="Enter your question."
+                    >{{ question }}</textarea>
                 <br><br>
                 <div class="button-container">
                     <button type="submit">Get Answer</button>
