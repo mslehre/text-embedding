@@ -4,6 +4,7 @@ import os
 import openai
 
 from build_prompt import get_prompt
+from settings import DATA_DIR, LM_model
 
 def get_answer(
         query: str, 
@@ -32,14 +33,24 @@ def get_answer(
         return None
 
     #call openai to obtain a response
-    response = openai.Completion.create(
-        model = "text-davinci-003",
-        prompt = this_prompt,
-        temperature = 0,
-        max_tokens = 500,
-    )
+    if LM_model == "gpt-3.5-turbo":
+        response = openai.ChatCompletion.create(
+            model = LM_model,
+            messages=[ {"role": "system", "content": "You are a helpful assistant."},
+                       {"role": "user", "content": this_prompt}],
+            temperature = 0,
+            max_tokens = 500,
+            )
+        result = response['choices'][0]['message']['content']
+    else:
+        response = openai.Completion.create(
+            model = "text-davinci-003",
+            prompt = this_prompt,
+            temperature = 0,
+            max_tokens = 500,
+        )
+        result = response['choices'][0]['text']
 
-    result = response['choices'][0]['text']
     return result
 
 def get_texts_from_ids(id_list: list[str],
@@ -86,7 +97,7 @@ def get_texts_from_ids(id_list: list[str],
             file_in_sub_dir = True  # to get the location of the meta file
 
         if not os.access(file_path, os.R_OK):
-            print(f'ERROR: Could not find or acces the file {id}.txt '
+            print(f'ERROR: Could not find or access the file {id}.txt '
                   + f' directly or in a sub directory {dir_path}.')
             exit(1)
                 
@@ -114,9 +125,12 @@ def get_texts_from_ids(id_list: list[str],
     
     return docs, seperator_list
     
-def test():
+def main():
     testq = "What are common research interests of these scientists?"
-    testdir = "../data/publications"
+    testdir = os.path.join(DATA_DIR, "publications")
     testlist = ['2','4']
     testanswer = get_answer(query=testq, text_dir=testdir, id_list=testlist)
     print(testanswer)
+
+if __name__ == "__main__":
+    main()

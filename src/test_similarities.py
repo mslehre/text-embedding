@@ -2,6 +2,7 @@ import os
 import sys
 
 from compute_embedding import compute_similarity_of_texts
+from settings import DATA_DIR
 
 def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
     """This function reads in a tab-separated text table with 5 columns. The 
@@ -27,10 +28,10 @@ def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
     """
     # the directory containing the files that the cosine similarity is computed 
     # for 
-    path_texts = '../data/testTextPairs_WebForm/'
+    path_texts = os.path.join(DATA_DIR, "testTextPairs/")
     # Open the file that contains the filenames of the files that the cosine
     # similarity is computed for and read it line by line.
-    file = open('../data/' + filename_in, "r")
+    file = open(os.path.join(DATA_DIR, filename_in), "r")
     lines = file.readlines()
     file.close()
     # Count the number of lines in filename_in for which the cosine similarities
@@ -40,7 +41,7 @@ def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
     correct_lines = 0
     wrong_predictions = 0
 
-    with open('../data/' + filename_out, 'a') as file_out:
+    with open(os.path.join(DATA_DIR, filename_out), 'a') as file_out:
         for i in range(0, len(lines)):
             # Split each line at the space character to get the filenames.
             files = lines[i].split("\t")
@@ -50,15 +51,16 @@ def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
                 # Test if a file with the filename specified in the input file 
                 # exists. If not write it to the output file and continue with 
                 # the next line in the input file.
-                if not (os.path.exists(path_texts + files[j])):
-                    file_out.write("File " + files[j] + " does not exist " \
-                        "in text-embedding/data/testTextPairs_WebForm/. " \
+                textfname = path_texts + files[j]
+                if not (os.path.exists(textfname)):
+                    file_out.write("File " + files[j] + " does not exist in " \
+                        + path_texts + ". " \
                         "Therefore, nothing will be computed for line " + 
                         str(i + 1) + " in " + filename_in + ".\n")
                     break
                 else:
                     # Store the content of the file in the list texts.
-                    file = open(path_texts + files[j], "r")
+                    file = open(textfname, "r")
                     texts.append(file.read())
                     file.close()
             if (len(texts) == 4):
@@ -106,7 +108,7 @@ def check_cosine_similarity(filename_in: str, filename_out: str) -> None:
                 print('Error: Wrong format. The input file has to be a ' \
                     'tab-separated text table with five columns and in the ' \
                     'first four columns has to be the name of a file located ' \
-                    ' in /data/testTextPairs', file=sys.stderr)
+                    ' in ' + DATA_DIR + '/testTextPairs', file=sys.stderr)
         file_out.write(str(wrong_predictions) + " of " + str(correct_lines)
             + " predictions that could be tested are wrong.\n") 
         file_out.close()
