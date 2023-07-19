@@ -28,13 +28,7 @@ def home() -> str:
             of_texts' is called. The result of this method is returned to the
             user.  
     """
-    if False: # is this needed? remove if not
-        profsfile = open(path.join(DATA_DIR, "profs_and_ids.tbl"), "r")
-        lines = profsfile.readlines()
-        profs ={}
-        for line in lines:
-            this_line = line.split("\t")
-            profs[this_line[0]] = this_line[1]
+
     return render_template("index.html")
 
 
@@ -198,7 +192,7 @@ def suggest_collabs() -> str:
     scientist2 = request.form['scientist2']
 
     collab_suggestion = ask_about_fit([scientist1, scientist2],
-                                      path.join(DATA_DIR, "publications"), 2)
+                                      path.join(DATA_DIR, "publications"), 3)
     return render_template("suggestCollabs.html", profs= profs,
                            text=collab_suggestion,
                            sel1 = scientist1, sel2 = scientist2)
