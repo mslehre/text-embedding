@@ -81,7 +81,7 @@ def get_texts_from_ids(id_list: list[str],
     # add meta data that holds for all files in the directory if exists
     meta_file = os.path.join(text_dir, 'meta.txt')  # meta file for all texts
     if os.path.isfile(meta_file) and os.access(meta_file, os.R_OK):
-        with open(meta_file, 'r') as file:
+        with open(meta_file, 'r', encoding="utf-8") as file:
                 meta_data = file.read()
         seperator_list.append(f'Here is some meta information that hold for '
                               + f'all texts that are given to answer the '

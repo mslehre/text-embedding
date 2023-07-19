@@ -146,12 +146,12 @@ the columns:
 * `inst_ID`, the ID of the institution
 * `faculty_ID`, the ID of the faculty
 
-Modify the person ID by adding `FIS_` as prefix and replace in the `institution`
-column each institution with an abbreviation of it. Then add another faculty, 
+Modify the ID by adding `FIS_` as prefix. Then add another faculty, 
 which is `Caspar-David-Friedrich Institut`, and change the faculty of those 
 persons whose institution is `Caspar-David-Friedrich Institut` to the new 
-faculty. Reorder the columns of the dataframe and write the resulting 
-dataframe to `/data/FIS/publishers.tbl`.
+faculty. Replace each faculty name in `faculty` column with the abbreviation of 
+the faculty name. Reorder and rename the columns of the dataframe and write the 
+resulting dataframe to `/data/FIS/publishers.tbl`.
 
 ## Create publication lists:
 For each person in `/data/FIS/persons_modified_names.csv` write all publications
