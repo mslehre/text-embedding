@@ -135,20 +135,15 @@ def get_author_info_and_palette(authors: pd.DataFrame,
     # get affiliations of authors by ID
     affil = authors.loc[authors['id'].isin(author_ids), affiliation].to_list()
     
-    # switch long names of affiliation to short names
+    # switch long names of institutions to short names
     if affiliation == 'institute':
-        aff_long = 'institute_long'
-        aff_short = 'institute_short'
-    else: 
-        aff_long = 'faculty_long'
-        aff_short = 'faculty_short'
-        
-    mapping = dict(zip(affiliation_map[aff_long], 
-                        affiliation_map[aff_short]))
-
-    affil_ = [mapping[item] for item in affil]
-    affil = affil_
-    affil_uniq = affiliation_map[aff_short].to_list()
+        mapping = dict(zip(affiliation_map['institute_long'], 
+                           affiliation_map['institute_short']))
+        affil_ = [mapping[item] for item in affil]
+        affil = affil_
+        affil_uniq = affiliation_map['institute_short'].to_list()
+    else:
+        affil_uniq = affiliation_map['faculty'].to_list()
     
     # generate color palette
     num_col = len(affil_uniq)  # number of colors
@@ -184,10 +179,10 @@ def compute_tsne(X: np.ndarray,
         pca = PCA(n_components = pca_components)
         pca_result = pca.fit_transform(X)  # fit model and apply dim reduction
         X = pca_result
-
+    
     tsne = TSNE(perplexity = tsne_perplexity)  # perplexity = knn
     tsne_result = tsne.fit_transform(X)  # fit model and apply dim reduction
-
+    
     return tsne_result
 
 def compute_cosinesim(embeddings: np.ndarray) -> np.ndarray:
@@ -351,6 +346,9 @@ def main():
     parser.add_argument('--format', default = 'pdf', 
                         choices = ['png', 'pdf', 'svg'],
                         help = 'Format for plot. Default is png.')
+    parser.add_argument('--tsne_perplexity', type = float, default = 30.0,
+                        help = 'Perplexity for the t-SNE algorithm. Default is'
+                        + ' 30.0.')                    
     parser.add_argument('--pca', action = 'store_true',
                         help = 'Perform a PCA before the t-SNE.')
     parser.add_argument('--pca_components', type = int, default = 50,
@@ -359,7 +357,7 @@ def main():
     parser.add_argument('--affiliation', default = 'institute', 
                         choices = ['institute', 'faculty'],
                         help = 'Decides after which fashion to color the ' 
-                        + 'plot. Default is \"faculty\".')
+                        + 'plot. Default is \"institute\".')
     parser.add_argument('-k', '--k_edges', type = int,
                         help = 'For each author, plot edges to the authors '
                         + 'with the k highest cosine similarities.')
@@ -386,7 +384,8 @@ def main():
     embeddings = pd.read_hdf(hdf, "embeddings") 
     author_ids = pd.read_hdf(hdf, "ids")
     hdf.close()
-    authors = pd.read_table(args.author_file, delimiter = '\t')
+    authors = pd.read_table(args.author_file, delimiter = '\t', 
+                            encoding='latin1')
     affiliation_map = pd.read_table(args.affiliation_map, delimiter = '\t')
 
     # thinning data 
@@ -395,11 +394,13 @@ def main():
                                                pub_dir, min_pubs) 
 
     # convert data to numpy arrays for further steps
-    author_ids = author_ids.to_numpy(dtype = np.int32).flatten()
+    author_ids = author_ids.to_numpy().flatten()
     embeddings = embeddings.to_numpy(dtype = np.float64)
 
     # perplexity for tsne needs to be smaller than the number of samples
-    k = 30.0 if len(author_ids) > 30 else float(len(author_ids) - 1)
+    k = args.tsne_perplexity \
+        if len(author_ids) > args.tsne_perplexity \
+        else float(len(author_ids) - 1)
     # pca components needs to be <= min(n_samples, n_features)
     pca_components = args.pca_components \
         if min(embeddings.shape) >= args.pca_components \
@@ -408,7 +409,7 @@ def main():
     tsne_result = compute_tsne(embeddings, pca_reduction = args.pca, 
                                pca_components = pca_components, 
                                tsne_perplexity = k)
-                               
+                   
     # get last names, affiliations, and color palette
     lnames, affiliation, palette = get_author_info_and_palette(
         authors, 
