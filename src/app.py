@@ -11,7 +11,7 @@ from compute_embedding import embedding_from_string, compute_similarity_of_texts
 from justify_similarities import ask_about_fit
 from chunks_for_question import get_k_IDs
 from ask_question import get_answer, get_texts_from_ids
-from settings import DATA_DIR
+from settings import DATA_DIR, LM_model
 
 app = Flask(__name__, static_folder = 'static')
 
@@ -177,7 +177,7 @@ def show_collabs_page() -> str:
     for line in lines:
         this_line = line.split("\t")
         profs[this_line[0]] = this_line[1]
-    return render_template("suggestCollabs.html", profs = profs)
+    return render_template("suggestCollabs.html", profs = profs, modelname = LM_model)
 
 @app.route('/collab', methods=['POST'])
 def suggest_collabs() -> str:
@@ -195,7 +195,8 @@ def suggest_collabs() -> str:
                                       path.join(DATA_DIR, "publications"), 3)
     return render_template("suggestCollabs.html", profs= profs,
                            text=collab_suggestion,
-                           sel1 = scientist1, sel2 = scientist2)
+                           sel1 = scientist1, sel2 = scientist2,
+                           modelname = LM_model)
 
 # navigate to grant call form when button is clicked
 @app.route('/grantcall', methods=['POST', 'GET'])
