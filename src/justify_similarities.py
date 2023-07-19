@@ -23,7 +23,8 @@ def ask_about_fit(id_list: list, text_dir: str, q_index = 0, seperator_list: lis
     #List of potential questions to ask, can be adjusted/extended latet. The first item is the default
     questions = ["What topics could these researchers collaborate on?", 
     "What are common study areas of these researchers?",
-    "What could be possible projects for these researchers to collaborate on?"]
+    "What could be possible projects for these researchers to collaborate on?",
+    "Suggest possible new projects for these researchers to collaborate on"]
 
     if (q_index not in range(len(questions))):
         print("Number given for q_index must be between 0 and " + str(len(questions)-1))
