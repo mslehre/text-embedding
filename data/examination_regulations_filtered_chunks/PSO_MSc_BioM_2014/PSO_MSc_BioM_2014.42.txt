@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+orphiesätze,
+     zyklische Gruppen, endliche abelsche Gruppen, Permutationsgruppen, Sylow-
+     sche Sätze
+   • Ringe : Ideale und Faktorringe, Polynomringe, euklidische Ringe, Hauptidealrin-
+     ge, Teilbarkeit, Quotientenkörper, faktorielle Ringe
+   • Körper: Körpererweiterungen
+
+Qualifikationsziele
+   • Verständnis grundlegender Prinzipien algebraischer Strukturen,
+   • Verständnis für die Anwendbarkeit und den Nutzen algebraischer Strukturen in
+     vielen Bereichen der Mathematik,
+   • vertieftes Verständnis und Befähigung zur Verwendung der algebraischen Kon-
+     zepte Gruppen, Ringe, Körper und der Begriffe wie Faktorisierung und Teilbarkeit
+     im abstrakten Kontext,
+   • Beherrschung von Methoden des axiomatischen Vorgehens,
+   • Befähigung zu mathematischen Arbeitsweisen (Entwickeln mathematischer Intui-
+     tion und deren formale Begründung, Schulung des Abstraktionsvermögens),
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Vorkenntnisse            Lineare Algebra I, II
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung. Die Kriterien
+                         für den Erhalt eines Übungsscheines legt der Dozent in der
+                         ersten Vorlesungswoche fest. Erfolgt keine Festlegung, so
+                         sind 50 % der Übungsaufgaben erfolgreich zu bearbeiten.
+Note                     Note der Modulprüfung
+Aufwand in h             270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Teilgebiet               Diskrete Mathematik/Algorithmik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        23
+Modul Algebra II
+Verantwortlicher        Professur Analysis, Professur Algebra und funktionalanalyti-
+                        sche Anwendungen
+Lehrformen              Vorlesung (4 SWS) und U

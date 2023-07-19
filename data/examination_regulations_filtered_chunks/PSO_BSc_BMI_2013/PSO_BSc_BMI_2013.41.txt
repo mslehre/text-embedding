@@ -1,0 +1,50 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+̈ndigkeit) für die Mathematik.
+
+Inhalt
+   • Syntax, Semantik und Beweiskalküle der Aussagenlogik und der Prädikatenlogik
+     erster Stufe
+   • Vollständigkeitssätze, insbesondere Gödelscher Vollständigkeitssatz
+   • Kompaktheitssätze und Anwendungen/Folgerungen
+   • elementare und nichtelementare Theorien und Modellklassen
+   • Motivationen aus und Anwendungen in der Mathematik
+
+Vorkenntnisse         Analysis, Lineare Algebra und analytische Geometrie
+Prüfung              Die Modulprüfung besteht aus einer mündlichen Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte       6
+Regelprüfungstermine 6. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                        33
+Modul Multivariate Statistik
+Verantwortlicher        Professur Stochastik, Professur Biomathematik
+Lehrformen              Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus            1 Sem., zweijährlich im WS ungerade Jahre
+Qualifikationsziele
+   • umfassende Kenntnisse zu Modellen und Methoden der Multivariaten Statik,
+   • Kompetenzen zur selbstständigen Auswahl von adäquaten Modellen und Metho-
+     den für reale Daten und Befähigung zur Interpretation der Ergebnisse,
+   • erweiterte Fähigkeiten in der Datenanalyse (Übung).
+
+Inhalt
+Grundlagen der Multivariaten Statistik:
+   • Allgemeine Lineare Modelle
+   • Generalisierte Lineare Modelle
+   • Hauptkomponentenanalyse
+   • Latentstrukturanalyse
+   • Diskriminanzanalyse
+   • Clusteranalyse
+   • Multidimensionale Skalierung
+
+Vorkenntnisse         Stochastik, Statistik
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die aktive Teilnahme an der Übung wird
+                      erwartet. Die Inhalte von Vorlesung und Übung sind Thema
+                      der Prüfung.
+Note                  Note der Modulprüfung
+Aufwand               270 (Vorlesung: 60, Übung: 30, 

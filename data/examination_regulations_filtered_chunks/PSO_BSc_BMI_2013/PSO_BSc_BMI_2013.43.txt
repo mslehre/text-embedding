@@ -1,0 +1,45 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+   1 Sem., jährlich im WS
+Qualifikationsziele
+   • Beherrschung der grundlegenden Methoden zur numerischen Lösung von parti-
+     ellen Differentialgleichungen,
+   • Kompetenzen in der Auswahl geeigneter Verfahren für konkrete Aufgabenstellun-
+     gen,
+   • Beherrschung der Konvergenztheorie und der Methoden der Fehlerkontrolle,
+   • Kompetenz in der Umsetzung von numerischen Verfahren in effiziente Software
+     (große Gleichungssysteme),
+   • Kenntnis der Querverbindungen zu anderen Bereichen wie Analysis, Algebra,
+     Geometrie u.v.m.,
+   • Beherrschung der wichtigsten Methoden zur Berechnung von Eigenwerten,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und wissenschaft-
+     liche Diskussion (Übungen).
+
+Inhalt
+   • Numerik partieller Differentialgleichungen
+   • Methoden für elliptische, parabolische und hyperbolische Probleme
+   • Iterative Lösung großer Gleichungssysteme
+   • Numerik von Eigenwertaufgaben
+
+Vorkenntnisse         Numerik I
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                      Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                      woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                      Übungsaufgaben erfolgreich zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte       9
+Regelprüfungstermine Übung: 5. Sem., Modulprüfung: 5. Sem.
+Modulart              Wahlmodul
+
+
+
+
+                                       36
+Modul Partielle Differentialgleichungen
+Verantwortlicher        Professur Analysis
+Lehrformen              Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus            1 Sem., jährlich im WS
+Qualifikationsziele
+   • Kenntnisse über die fundamentalen Typen von Differentialgleichungen (Laplace-
+     gleichung, Wärmeleitungsgleichung, Wellengleichung

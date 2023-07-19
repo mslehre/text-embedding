@@ -1,0 +1,51 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+                         51
+   Berufsbezogenes Praktikum . . . . . . . . . . . . . . . . . . . . . . . . . . . .        52
+   Masterarbeit . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     53
+
+
+
+
+Die Modulprüfungen werden in Form einer 30-minütigen mündlichen Prüfungsleistung,
+einer 90-minütigen Klausur oder eines 60-minütigen Vortrages (Seminare) abgelegt.
+Für das Seminarmodul B ist weiter eine schriftliche Form des Vortrages zu erstellen.
+Die Kriterien für den Erhalt eines Übungsscheines legt der Dozent in der ersten Vorle-
+sungswoche fest. Erfolgt keine Festlegung, so sind 50 % der Übungsaufgaben erfolg-
+reich zu bearbeiten.
+
+
+
+
+                                              3
+Teilgebiet Analysis / Optimierung
+
+
+
+
+                  4
+Modul Approximation
+Verantwortlicher       Professur Angewandte Mathematik, Professur Numerische
+                       Mathematik und Optimierung
+Lehrformen             Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus           1 Sem., F: zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • Kenntnis der grundlegenden Aufgaben der Approximationstheorie,
+   • Kenntnis der wichtigen Resultate in Hilberträumen,
+   • Beherrschung der Methoden zur Bestimmung von besten Approximationen,
+   • Fähigkeiten zur Bestimmung der Approximationsgüte,
+   • Kompetenzen in der Anwendung geeigneter Methoden in der Praxis.
+
+Inhalt
+   • Approximation in normierten Räumen
+   • stetige und diskrete Approximation
+   • Interpolation und Splines
+   • Parameterbestimmung
+
+Vorkenntnisse          Analysis I,II
+Prüfung               Die Modulprüfung besteht aus einer mündlichen Prüfung.
+                       Die aktive Teilnahme an den Übungen wird erwartet. Die In-
+                       halte von Vorlesung und Übung sind Thema der Prüfung.
+Note                   Note der Modulprüfung
+Aufwand                180 (Vorlesung: 45, Übung: 15 Selbststudium: 120)
+Leistungspunkte        6
+Teilgebiet             

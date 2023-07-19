@@ -1,0 +1,47 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+     5.
+Praktikum                    1            180       6           1 Üs *         6.
+Softwaretechnik
+Wahlmodule                   1/2          720       24          siehe          5./6.
+(siehe Absatz 2)                                                Absatz 2
+Bachelorarbeit               1            360       12                         6.
+
+
+(2) Es müssen Wahlmodule im Umfang von 24 LP studiert werden. Es werden vier
+verschiedene Typen von Wahlmodulen angeboten.
+
+Zu Typ 1 gehören:
+
+Modul                        Dauer        AB        LP          PL (Art und
+                             (Semester)                         Umfang)
+Computergraphik I            1            180       6           1 mP/Kl
+Datenbanken                  1            180       6           1 mP
+Differentialgeometrie        1            180       6           1 mP/Kl
+
+Finanz- und Versich- 1                    180       6           1 mP/Kl
+erungsmathematik
+Fourieranalyse/Dis-  1                    180       6           1 mP/Kl
+tributionentheorie
+Funktionentheorie    1                    180       6           1 mP/Kl
+Mathematische Logik          1            180       6           1 mP
+Nichtlineare Optimierung 1                180       6           1 mP/Kl
+Partielle Differential-      1            180       6           1 mP/Kl
+gleichungen
+Randomisierte                1            180       6           1 mP
+Algorithmen
+Spieltheorie                 1            180       6           1 mP/Kl
+Berufsbezogenes              4W           180       6           Praktikums-
+Praktikum                                                       bericht*
+                                                                (3 S.)
+
+
+
+                                                                                       5
+               
+
+
+Zu Typ 2 gehören:
+
+Modul                        Dauer        AB        LP          PL (Art und
+                             (Semester)                         Umfang)
+Algebra II         

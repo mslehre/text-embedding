@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+V im WS, CAS im SoSe
+Qualifikationsziele
+EI:
+    • grundlegende Fähigkeiten zum Einsatz von informationsverarbeitenden Syste-
+      men sowie Standardanwendungen und -werkzeugen,
+    • Kenntnisse zu den Möglichkeiten, Grenzen und Risiken.
+
+CAS:
+  • Befähigung zur Lösung von Standardaufgaben (Faktorisierung, Nullstellenbe-
+     rechnung, Termvereinfachung, Differentiation/Integration) mit Hilfe von Compu-
+     teralgebrasystemen,
+  • Befähigung zur Erstellung von einfachen Programmen in Computeralgebrasyste-
+     men,
+  • Befähigung zur Analyse und Bearbeitung komplexer, praktischer Aufgabenstel-
+     lungen.
+
+Inhalt
+EI:
+    • Aufbau eines Rechners
+    • Umgang mit Standardsoftware (Tabellenkalkulation,           Erstellung   von
+      Präsentationen und Grafiken, Bildbearbeitung)
+    • Umgang mit grundlegenden Werkzeugen unter Linux
+    • Grundlagen von Netzwerken
+    • Grundlagen zu Textsatz mit LaTeX und HTML, XML
+
+CAS:
+  • Nutzung von Computeralgebrasystemen zur Lösung von Standardaufgaben
+     wie: Faktorisierung, Nullstellenbestimmung, Termvereinfachung, Differenzie-
+     ren/Integrieren
+  • Erstellung einfacher Programme in einem Computeralgebrasystem
+
+Vorkenntnisse         EEDV: Grundlegende Kenntnisse zum Umgang mit dem
+                      Computer (Textverarbeitung, Web-Browser, e-Mail)
+                      CAS: Analysis, Lineare Algebra und analytische Geometrie
+Prüfung              Die Modulprüfung besteht aus einer Klausur zum Stoff
+                      der Vorlesung EEDV. Die Kriterien für den Erhalt eines
+                      Übungsscheines zu CAS legt der Dozent in der ersten Vorle-
+                      sungswoche fest. Erfolgt keine Festlegung, so sind 50 % der
+                      Übungsaufgaben erfolgreich zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               240 (Vorlesung: 30, Übung: 60, Selbststudium: 150)
+Leistungspunkte       8
+Regelprüfungstermine Modulprüfung EEDV: 1. Sem., Übung CAS: 2. Se

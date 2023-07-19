@@ -1,0 +1,27 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+ . . . . . . . . . . . . .    50
+   Stochastische Modelle der Biologie . . . . . . . . . . . . . . . . . . . . . . . .        51
+   Stochastische Prozesse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        52
+   Wahrscheinlichkeitstheorie . . . . . . . . . . . . . . . . . . . . . . . . . . . .        53
+   Zeitreihenanalyse . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .       54
+
+Seminarmodule                                                                                55
+  Seminarmodul A . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         56
+  Seminarmodul B . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .         57
+
+Ökologie                                                                                    58
+   Tierökologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   59
+   Pflanzenökologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     61
+   Mikrobielle Ökologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     63
+   Plant Reproductive Biology . . . . . . . . . . . . . . . . . . . . . . . . . . . .        66
+
+Molekularbiologie                                                                            68
+  Allgemeine Molekularbiologie . . . . . . . . . . . . . . . . . . . . . . . . . . .         69
+  Spezielle Molekularbiologie I . . . . . . . . . . . . . . . . . . . . . . . . . . .        71
+  Spezielle Molekularbiologie II . . . . . . . . . . . . . . . . . . . . . . . . . . .       73
+  Spezielle Molekularbiologie III . . . . . . . . . . . . . . . . . . . . . . . . . . .      75
+  Molekulare Phylogenetik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        77
+
+Funktionelle Zellbiologie und Physiologie                                                    79
+  Tier- und Zellphysiologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .      80
+  Spezielle Physiologie I . . . . . . . . .

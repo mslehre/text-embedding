@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Biomathematik vom 7. April 2014
+ 2
+            Bachelorarbeit                                                                        1                       12
+                                                                                                   Summe   180
+Legende:
+Art V: Vorlesung (Umfang in SWS)
+Art Ü: Übung (Umfang in SWS)
+Art S: Seminar (Umfang in SWS)
+Prüfungsart mP/Kl: mündliche Prüfung oder Klausur
+Prüfungsart mP+Üs/Kl+Üs: mündliche Prüfung und Übungsschein oder alternativ Klausur und Übungsschein
+Prüfungsart mP: mündliche Prüfung
+Prüfungsart Kl: Klausur
+Prüfungsart Üs: Übungsschein
+Prüfungsart TB: Teilnahmebestätigung
+Prüfungsart SV: Seminarvortrag
+* Prüfungsleistung ist unbenotet
+LP: ECTS-Leistungspunkte
+D: Dauer des zugehörigen Moduls in Semestern
+  E RNST-M ORITZ -A RNDT-U NIVERSIT ÄT G REIFSWALD
+M ATHEMATISCH -N ATURWISSENSCHAFTLICHE FAKULT ÄT
+         Institut für Mathematik und Informatik
+
+
+
+
+              Modulkatalog
+             Bachelor of Science
+                Biomathematik
+Inhaltsverzeichnis
+
+Mathematik                                                                                   3
+  Analysis . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .     4
+  Lineare Algebra und Analytische Geometrie . . . . . . . . . . . . . . . . . . .            6
+  Algorithmen und Programmierung / Computeralgebra . . . . . . . . . . . . .                 8
+  Diskrete Strukturen in der Biologie . . . . . . . . . . . . . . . . . . . . . . . .       10
+  Gewöhnliche Differentialgleichungen / Proseminar . . . . . . . . . . . . . . .           11
+  Stochastik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .    13
+  Genomanalyse / Bioinformatisches Praktikum . . . . . . . . . . . . . . . . . .            14
+  Mathematische Biologie . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .        15
+  Statistik . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .   16
+  Biometrie . . . . . . . . . . 

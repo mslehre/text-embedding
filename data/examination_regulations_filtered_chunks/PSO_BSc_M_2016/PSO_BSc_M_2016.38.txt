@@ -1,0 +1,53 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+uaten Modellen und Metho-
+     den für reale Daten und Befähigung zur Interpretation der Ergebnisse,
+   • erweiterte Fähigkeiten in der Datenanalyse (Übung).
+
+Inhalt
+Grundlagen der Multivariaten Statistik:
+   • Allgemeine Lineare Modelle
+   • Generalisierte Lineare Modelle
+   • Hauptkomponentenanalyse
+   • Latentstrukturanalyse
+   • Diskriminanzanalyse
+   • Clusteranalyse
+   • Multidimensionale Skalierung
+
+Vorkenntnisse            Stochastik, Statistik
+Prüfung                 Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                         min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                         ten.
+Note                     Note der Modulprüfung
+Aufwand in h             270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte          9
+Modulart                 Wahlmodul
+
+
+
+
+                                          28
+Modul A11: Nichtlineare Optimierung
+Verantwortlicher       Professur Angewandte Mathematik, Professur Numerische
+                       Mathematik und Optimierung
+Lehrformen             Vorlesung (4 SWS)
+Dauer/Turnus           1 Sem., jährlich im WS
+Qualifikationsziele
+   • grundlegende Kenntnisse der Optimierungstheorie,
+   • Fähigkeiten zur numerischen Lösung von Optimierungsproblemen,
+   • Verständnis für die Relevanz von Optimierungsaufgaben für zahlreiche prakti-
+     sche Fragestellungen,
+   • Kompetenzen in der Klassifikation konkreter Aufgaben und der geeigneten Me-
+     thodenwahl.
+
+Inhalt
+   • Notwendige und hinreichende Bedingungen zur Lösung von unbeschränkten und
+     beschränkten, nichtlinearen Optimierungsproblemen (Karush-Kuhn-Tucker Theo-
+     rie)
+   • Methoden zur numerischen Lösung von entsprechenden, glatten Problemen
+   • Abstiegsverfahren
+   • Trust-Region-Verfahren
+   • Penalty-Verfahren
+   • Aktive-Mengen-Strategie und SQP-Verfahren
+
+Vorkenntnisse           Analysis I, II; Lineare Algebra I, II; Optimierung
+Prüfung                Die Modulprüfung best

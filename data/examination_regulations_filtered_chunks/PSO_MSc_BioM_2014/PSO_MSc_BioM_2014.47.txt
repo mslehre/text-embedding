@@ -1,0 +1,49 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+g
+
+Qualifikationsziele
+   • fundiertes Verständnis für die grundlegenden Prinzipien der Codierung,
+   • Kenntnisse über die Anwendung von Algebra (z. B. Galois-Felder) und Analysis
+     (z. B. p-Funktion von Weierstraß) in der Codierung.
+
+Vorkenntnisse           Algebra, Funktionentheorie
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Teilgebiet              Diskrete Mathematik/Algorithmik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      28
+Modul Computergrafik
+Verantwortlicher     Professur Informatik
+Lehrformen           Vorlesung (2 SWS) und Übung (2 SWS)
+Dauer/Turnus         1 Sem., zweijährlich im WiSe gerade Jahre
+Inhalt
+
+   • Mathematische Grundlagen der Computergrafik,
+   • menschliche Farbwahrnehmung,
+   • Theorie der Bildentstehung,
+   • OpenGL,
+   • objektorientierten Grafikprogrammierung,
+   • Dateiformate,
+   • OpenGLSL
+
+Qualifikationsziele
+   • Verständnis für die im Kontext der grafischen Darstellung auftretenden Problem-
+     stellungen,
+   • Befähigung zur Lösung entsprechender Probleme mit aktuellen Bibliotheken,
+   • vertiefte praktische Kompetenzen in der Bearbeitung von Programmieraufgaben
+     und Verwendung von u.a. OpenGL.
+
+Vorkenntnisse            Algorithmen und Programmierung, Lineare Algebra und ana-
+                         lytische Geometrie, Praxis des Programmierens
+Prüfung                 Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                         oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                         nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                         lesung und Übung sind Thema der Prüfung.
+Note                     Note der Modulprüfu

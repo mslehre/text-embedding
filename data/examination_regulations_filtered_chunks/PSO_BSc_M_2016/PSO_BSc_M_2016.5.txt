@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+e S2 und S3 können mehrfach belegt werden.
+
+       Modul                                     D      AB    LP   PL und PA
+
+ S1    Proseminar                                 1     60    2    1R
+ S2    Seminar                                    1     90    3    1R
+ S3    Seminar mit Ausarbeitung                   1     180   6    1 RV
+
+
+(5) Jeder Studierende wählt eines der nachfolgend angegebenen Nebenfächer. In
+diesem Nebenfach sind aus dem nachfolgend angegebenen Angebot Module im
+Umfang von mindestens 24 LP auszuwählen. Zulässige Nebenfächer und deren
+Module sind:
+
+   1.) Nebenfach Theoretische Physik
+
+      Modul                                      D      AB LP      PL und PA
+
+T1 Theoretische Physik 1: Klassische              1     270   9    1 ÜS
+   Mechanik                                                        1 K (120
+                                                                   Min.)/mP
+T2 Theoretische Physik 2: Elektrodynamik         1      270 9      1 ÜS
+                                                                   1 K (120
+                                                                   Min.)/mP
+T3 Theoretische Physik 3: Quantenmechanik        1      270 9      1 ÜS
+                                                                   1 K (120
+                                                                   Min.)/mP
+T4 Theoretische Physik 4: Thermodynamik und       1     270   9    1 ÜS
+   Statistische Physik                                             1 K (120
+                                                                   Min.)/mP
+
+   2.) Nebenfach Experimentalphysik
+
+      Modul                                      D      AB    LP PL und PA
+
+ E1 Experimentalphysik 1: Mechanik / Wärme        1     240   8    1 ÜS
+                                                                   1 mP/K
+ E2 Experimentalphysik 2: Elektrizität / Optik    1     240   8    1 ÜS
+                                                                   1 mP/K
+ E3 Exper

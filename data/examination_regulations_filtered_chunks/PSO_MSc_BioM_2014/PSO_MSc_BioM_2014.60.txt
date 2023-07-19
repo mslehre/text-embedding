@@ -1,0 +1,51 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+mündlichen Prüfung. Die aktive Teilnahme an den Übungen
+                         wird erwartet. Die Inhalte von Vorlesung und Übung sind
+                         Thema der Prüfung.
+Note                     Note der Modulprüfung
+Aufwand in h             180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte          6
+Teilgebiet               Stochastik/Statistik
+Regelprüfungstermin     Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                        45
+Modul Multivariate Statistik
+Verantwortlicher         Professur Stochastik, Professur Biomathematik
+Lehrformen               Vorlesung (4 SWS) und Übung (2 SWS)
+Dauer/Turnus             1 Sem., zweijährlich im WiSe ungerade Jahre
+Inhalt
+Grundlagen der Multivariaten Statistik:
+   • Allgemeine Lineare Modelle
+   • Generalisierte Lineare Modelle
+   • Hauptkomponentenanalyse
+   • Latentstrukturanalyse
+   • Diskriminanzanalyse
+   • Clusteranalyse
+   • Multidimensionale Skalierung
+
+Qualifikationsziele
+   • umfassende Kenntnisse zu Modellen und Methoden der Multivariaten Statik,
+   • Kompetenzen zur selbstständigen Auswahl von adäquaten Modellen und Metho-
+     den für reale Daten und Befähigung zur Interpretation der Ergebnisse,
+   • erweiterte Fähigkeiten in der Datenanalyse (Übung).
+
+Vorkenntnisse           Stochastik, Statistik
+Prüfung                Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                        oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                        nahme an der Übung wird erwartet. Die Inhalte von Vorle-
+                        sung und Übung sind Thema der Prüfung.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Teilgebiet              Stochastik/Statistik
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       46
+Modul Räumliche Statistik
+Ver

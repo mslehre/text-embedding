@@ -1,0 +1,41 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+          (2 SWS),
+                        Funktionelle Genomforschung – Molekulare Genetik, Übung
+                        (2 SWS),
+                        Molekular- und Zellbiologie, Vorlesung (2 SWS)
+Dauer/Turnus            1 Sem., jährlich im WiSe
+Inhalt
+Vorlesung Einführung in die Funktionelle Genomforschung:
+   • Methoden der Genomforschung (Genomsequenzierung, Mutagenese, Mutati-
+     onsanalyse, Transkriptomics, Proteomics, Metabolomics)
+   • Bioinformatische und Systembiologische Ansätze zu Datenauswertung und Mo-
+     dellierung
+   • Modellorganismen der Funktionellen Genomanalyse (Hefe, Nematoden, Droso-
+     phila, Maus, Arabidopsis)
+   • Anwendungsbeispiele aus Biotechnologie, Pharmazie und Molekularer Medizin
+   • Funktionelle Genomforschung und Ethik
+
+Übung Funktionelle Genomforschung – Molekulare Genetik:
+   • Grundzüge der Genomanalyse
+   • DNA-Array- bzw. RT-PCR basierte Transkriptonsmessungen
+   • Gel-basierte und Gel-freie Proteomanalysen
+
+Vorlesung Molekular- und Zellbiologie:
+   • Nukleus, Transkription, Genregulation, Transkiptionsverfahren, Zellzyklus; Ribo-
+     somen, Translation; Endoplasmatisches Retikulum, Golgi; Exozytose, Endozy-
+     tose, Trafficking; Signaling; Zytoskelett; Zellkontakte, Extrazelluläre Matrix, Zell-
+     verbände
+
+Qualifikationsziele
+   • Vertieftes Verständnis für die Konzepte der Genetik
+   • Kenntnisse der Funktionellen Genomforschung und Einschätzung der
+     Möglichkeiten und Grenzen der experimentellen Ansätze
+   • Übung der Fähigkeit zur Präsentation, Wertung und Diskussion von aktuellen
+     Ergebnissen des Themengebietes
+   • Vermittlung von Fertigkeiten zur Durchführung einfacher Experimente im Bereich
+     der Funktionellen Genomanalyse
+
+Vorkenntnisse             Grundkenntnisse der Genetik
+Prüfung                  60-minütige Klausur zur Vorlesung Einführung in die Funk-
+                          tionelle Genomforschung und Protokolle zur Übung.
+Note                      Note der Mod

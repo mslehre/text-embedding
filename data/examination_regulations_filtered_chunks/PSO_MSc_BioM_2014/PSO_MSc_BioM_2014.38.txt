@@ -1,0 +1,44 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Biomathematik vom 28. Maerz 2014
+antwortlicher      Professur Angewandte Mathematik, Professur Numerische
+                      Mathematik und Optimierung
+Lehrformen            Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus          1 Sem., zweijährlich im SoSe ungerade Jahre
+Inhalt
+   • Variationsprobleme ohne Nebenbedingungen - Notwendige Bedingungen 1. Ord-
+     nung
+   • Nebenbedingungen in Integralform, in Form von Differentialgleichungen und in
+     Form von Ungleichungen
+   • Optimalsteuerungsprobleme und Lösung von Mehrpunkt-Randwertproblemen
+   • Notwendige Bedingungen 2. Ordnung
+   • Hinreichende Bedingung von Weierstraß.
+
+Qualifikationsziele
+   • Beherrschung der grundlegenden Methoden der Variationsrechnung in einem
+     systematischen Aufbau,
+   • Kenntnis der notwendigen Bedingungen im Falle von Nebenbedingungen,
+   • Beherrschung der numerischen Verfahren zur Lösung der resultierenden Rand-
+     wertprobleme,
+   • Verständnis der Übereinstimmungen mit und Unterschiede zu Optimierungspro-
+     blemen im endlich-dimensionalen Raum,
+   • Befähigung zur Bearbeitung anwendungsorientierter Fragestellungen mit ent-
+     sprechender Software,
+   • Befähigung zur mündlichen Kommunikation und fachlichen Diskussion.
+
+Vorkenntnisse          Analysis I, II
+Prüfung               Die Modulprüfung besteht aus einer 90-minütigen Klausur
+                       oder einer 30-minütigen mündlichen Prüfung. Die aktive Teil-
+                       nahme an den Übungen wird erwartet. Die Inhalte von Vor-
+                       lesung und Übung sind Thema der Prüfung.
+Note                   Note der Modulprüfung
+Aufwand in h           180 (Vorlesung: 45, Übung: 15, Selbststudium: 120)
+Leistungspunkte        6
+Teilgebiet             Analysis/Optimierung
+Regelprüfungstermin   Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                      17
+Modul Partielle Differentialgleichungen
+Verantwortlicher            Professur Analysis
+Lehrformen                  Vorlesung (

@@ -1,0 +1,32 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+  1    270   9   1 ÜS
+                                                                     1 mP/K
+ A2    Numerik Grundpraktikum                         1    180   6   1 ÜS
+                                                                     1 mP/K
+ A3    Optimale Steuerung / Variationsrechnung        1    180   6   1 mP/K
+ A4    Differentialgeometrie                          1    180   6   1 mP/K
+ A5    Finanz- und Versicherungsmathematik            1    180   6   1 mP/K
+ A6    Fourieranalyse / Distributionentheorie         1    180   6   1 mP/K
+ A7    Funktionalanalysis                             1    270   9   1 ÜS
+                                                                     1 mP/K
+ A8    Funktionentheorie                              1    180   6   1 mP/K
+ A9    Mathematische Logik                            1    180   6   1 mP/K
+ A10   Multivariate Statistik                         1    270   9   1 mP/K
+ A11   Nichtlineare Optimierung                       1    180   6   1 mP/K
+ A12   Numerik II                                     1    270   9   1 ÜS
+                                                                     1 mP/K
+ A13   Partielle Differentialgleichungen              1    180   6   1 mP/K
+ A14   Statistik                                      1    270   9   1 ÜS
+                                                                     1 mP
+ A15   Spieltheorie                                   1    180   6   1 mP/K
+ A16   Spezialvorlesung I                             1    90    3   1 mP/K
+ A17   Spezialvorlesung II                            1    180   6   1 mP/K
+
+                                                                              4
+Die Module A16 und A17 können mehrfach belegt werden.
+
+(4) Der Seminarbereich besteht aus folgenden Modulen, aus denen Module im
+Umfang von mindestens 8 LP und höchstens 17 LP auszuwählen sind. Die
+Seminarmodule S2 und S3 können mehrfach belegt werden.
+
+       Modul                                     D      

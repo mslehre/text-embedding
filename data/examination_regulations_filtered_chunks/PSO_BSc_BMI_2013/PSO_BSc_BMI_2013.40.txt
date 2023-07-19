@@ -1,0 +1,47 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik mit Informatik vom 8. November 2013
+Inhalt
+Grundlagen der Maß- und Integrationstheorie:
+   • Konstruktion von Maßen
+   • Lebesguesche Integrationstheorie
+   • Produktmaße, Satz von Fubini
+   • Darstellungssätze (Riesz, Radon-Nikodym)
+   • Lp -Räume
+
+Weiterführende Themen, z.B.
+  • Lebesgue-Integral auf Untermannigfaltigkeiten des Rn , Differentialformen und
+     der Satz von Stokes
+  • Desintegration und bedingte Erwartungswerte
+
+Vorkenntnisse         Analysis I, II
+Prüfung              Die Modulprüfung besteht aus einer Klausur oder einer
+                      mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                      Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                      woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                      Übungsaufgaben erfolgreich zu bearbeiten.
+Note                  Note der Modulprüfung
+Aufwand               270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte       9
+Regelprüfungstermine Übung: 5. Sem., Modulprüfung: 5. Sem
+Modulart              Wahlmodul
+
+
+
+
+                                       32
+Modul Mathematische Logik
+Verantwortlicher           Professur Mathematische Logik und Grundlagen der Mathe-
+                           matik
+Lehrformen                 Vorlesung (4 SWS)
+Dauer/Turnus               1 Sem., zweijährlich im SoSe gerade Jahre
+Qualifikationsziele
+   • Kenntnis und Beherrschung grundlegender Präzisierungstechniken für die Syn-
+     tax und Semantik logischer Systeme,
+   • vertiefte Beherrschung der mathematischen Fachsprache,
+   • Kompetenzen bei der Bewertung mathematischer Beweismethoden,
+   • erweitertes Verständnis für das Wechselspiel zwischen mathematischer Intuition
+     und ihrer Präzisierung durch formale Systeme,
+   • Verständnis für die Bedeutung grundlegender Erkenntnisse der mathematischen
+     Logik (Kompaktheit, Vollständigkeit, Unvollständigkeit) für die Mathematik.
+
+Inhalt
+   • Syntax, Semantik und Beweiskalküle der Aussagenlogik u

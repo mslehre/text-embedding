@@ -1,0 +1,46 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+ rie und deren Anwendungen,
+   • Wissen über die enge Verzahnung von Reiner und Angewandter Mathematik
+     (mathematische Physik, Signaltheorie),
+   • Einsicht in die funktionalanalytischen Prinzipien, Zusammenführung von Metho-
+     den der Analysis und der Algebra,
+   • Befähigung zur mündlichen Kommunikation durch freie Rede und Diskussion
+     (Übungen).
+
+Inhalt
+   • Banachräume, Folgenräume, Dualräume, Hilberträume
+   • Prinzipien der Funktionalanalysis
+   • kompakte Operatoren
+   • Spektraltheorie beschränkter Operatoren
+   • Resolventen
+   • symmetrische Operatoren
+   • Funktionalkalkül
+   • unbeschränkte Operatoren
+
+Vorkenntnisse           Analysis I, II; Lineare Algebra und Analytische Geometrie I,
+                        II
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min) oder einer Klausur (90 min) nach Maßgabe des Dozen-
+                        ten und dem Erwerb eines unbenoteten Übungsscheines.
+                        Die Kriterien für den Erhalt eines Übungsscheines legt der
+                        Dozent in der ersten Vorlesungswoche fest. Erfolgt keine
+                        Festlegung, so sind 50 % der Übungsaufgaben erfolgreich
+                        zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand in h            270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Modulart                Wahlmodul
+
+
+
+
+                                       25
+Modul A8: Funktionentheorie
+Verantwortlicher          Professur Algebra und funktionalanalytische Anwendungen
+Lehrformen                Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Turnus              1 Sem., zweijährlich im WS gerade Jahre
+Qualifikationsziele
+   • Beherrschung einer eleganten mathematischen Theorie,
+   • Kenntnisse über die Anwendung komplex-analytischer Methoden zur Lösung von
+     Problemen der reellen Analysis,
+   • vertieftes Verständnis für die elementa

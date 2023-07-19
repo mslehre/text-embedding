@@ -1,0 +1,46 @@
+Pruefungs- und Studienordnung des Masterstudiengangs Mathematik vom 8. November 2013
+n).
+
+Inhalt
+   • Numerik partieller Differentialgleichungen
+   • Methoden für elliptische, parabolische und hyperbolische Probleme
+   • Iterative Lösung großer Gleichungssysteme
+   • Numerik von Eigenwertaufgaben
+
+Vorkenntnisse           Numerik I
+Prüfung                Die Modulprüfung besteht aus einer Klausur oder einer
+                        mündlichen Prüfung. Die Kriterien für den Erhalt eines
+                        Übungsscheines legt der Dozent in der ersten Vorlesungs-
+                        woche fest. Erfolgt keine Festlegung, so sind 50 % der
+                        Übungsaufgaben erfolgreich zu bearbeiten.
+Note                    Note der Modulprüfung
+Aufwand                 270 (Vorlesung: 60, Übung: 30, Selbststudium: 180)
+Leistungspunkte         9
+Teilgebiet              Analysis/Optimierung
+Regelprüfungstermin    Semester, in dem das Modul angeboten wird.
+
+
+
+
+                                       15
+Modul Optimale Steuerung / Variationsrechnung
+Verantwortlicher      Professur Angewandte Mathematik, Professur Numerische
+                      Mathematik und Optimierung
+Lehrformen            Vorlesung (3 SWS) und Übung (1 SWS)
+Dauer/Zyklus          1 Sem., D: zweijährlich im SoSe ungerade Jahre
+Qualifikationsziele
+   • Beherrschung der grundlegenden Methoden der Variationsrechnung in einem
+     systematischen Aufbau,
+   • Kenntnis der notwendigen Bedingungen im Falle von Nebenbedingungen,
+   • Beherrschung der numerischen Verfahren zur Lösung der resultierenden Rand-
+     wertprobleme,
+   • Verständnis der Übereinstimmungen mit und Unterschiede zu Optimierungspro-
+     blemen im endlich-dimensionalen Raum,
+   • Befähigung zur Bearbeitung anwendungsorientierter Fragestellungen mit ent-
+     sprechender Software,
+   • Befähigung zur mündlichen Kommunikation und fachlichen Diskussion.
+
+Inhalt
+   • Variationsprobleme ohne Nebenbedingungen - Notwendige Bedingungen 1. Ord-
+     nung
+   • Nebenbedingungen in Integralform, in Form von 

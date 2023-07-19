@@ -1,0 +1,51 @@
+Pruefungs- und Studienordnung des Bachelorstudiengangs Mathematik vom 12. Februar 2018
+   Probleme gelöst werden können.
+
+Inhalt
+   • Grundlegende Begriffe und Techniken (Typen von randomisierten Algorithmen,
+     Laufzeit als Erwartungswert, Chernoff-Schranken, probabilistische Methode,
+     Random Walks)
+   • Randomisierte Datenstrukturen
+   • Randomisierte Algorithmen für Probleme auf Graphen
+   • Randomisierte Algorithmen für Probleme aus der Zahlentheorie
+   • Randomisierte Approximationsalgorithmen
+
+Vorkenntnisse           Algorithmen und Programmierung, Stochastik, Theoretische
+                        Informatik
+Prüfung                Die Modulprüfung besteht aus einer mündlichen Prüfung (30
+                        min).
+Note                    Note der Modulprüfung
+Aufwand in h            180 (Vorlesung: 60, Selbststudium: 120)
+Leistungspunkte         6
+Modulart                Nebenfachmodul
+
+
+
+
+                                      57
+Betriebswirtschaftslehre
+
+
+
+
+                  58
+Modul B1: Einführung in die Betriebswirtschaftslehre
+Verantwortlicher           Professur Allgemeine Betriebswirtschaftslehre, insbesonde-
+                           re Marketing
+Lehrformen                 Vorlesung/Übung (3 SWS)
+Dauer/Turnus               1 Sem., jährlich, i. d. R. im Wintersemester
+Qualifikationsziele
+Die Studierenden haben einen Überblick über das Fach Betriebswirtschaftslehre ge-
+wonnen. Sie sind in der Lage, weiterführende Lehrveranstaltungen zu besuchen.
+Inhalt
+   • Gegenstand, Problemstellungen und Methoden der Betriebswirtschaftslehre,
+     Überblick über die gesamte Breite des Fachs
+   • vertieftes Wissen in den Bereichen Investition und Finanzierung, Produktion und
+     Absatz, Organisation und Rechnungswesen
+   • ökonomische Denkweise, betriebswirtschaftliche Fachsprache und -methodik
+
+Lehrveranstaltungen:
+  • Einführung in die Betriebswirtschaftslehre für Nicht-BWL (V/Ü)
+
+Vorkenntnisse            keine formellen Teilnahmevoraussetzungen
+Prüfung                 Die Modulprüfung besteht aus einer Klausur (120 mi
