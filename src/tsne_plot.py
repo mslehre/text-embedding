@@ -30,7 +30,7 @@ def check_thinning_args(thinning_arg: str,
         raise argparse.ArgumentTypeError("Argument " + thinning_arg + " is not"
                                          + " an integer!") 
 
-    # check if arg is a directory
+    # check if dir_path is a directory
     if not os.path.isdir(dir_path) or not os.access(dir_path, os.R_OK):
         raise argparse.ArgumentTypeError("The directory " + dir_path + " does "
                                          + "not exist or is not readable!")
