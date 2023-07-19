@@ -2,6 +2,10 @@ from os import path
 
 from flask import Flask, render_template, request
 from openai.embeddings_utils import cosine_similarity, get_embedding
+from tenacity import RetryError
+import pandas as pd
+
+import h5py
 
 from compute_embedding import embedding_from_string, compute_similarity_of_texts
 
@@ -62,6 +66,67 @@ def compute_similarity_of_files() -> str:
         texts_start.append(" ".join(words))
     return render_template("displaySimilarity.html", text1=texts_start[0], 
                            text2=texts_start[1], text=text)
+
+# navigate to grant call form when button is clicked
+@app.route('/grantcall', methods=['POST', 'GET'])
+def navigateToGrantCallForm() -> str:
+    return render_template("grantCallForm.html")
+
+# calculate similarity and list k most similar scientist upon button click 
+@app.route('/grantcallResult', methods=['POST', 'GET'])
+def calculateGrantCallResult() -> str:
+    # k most similar scientists to display
+    k = 10
+    # get grant call text
+    grantCall = request.form["grantCall"]
+    # calculate embedding for grant call text
+    try:
+        grantCallEmbedding = embedding_from_string(grantCall)
+    except RetryError:
+        return render_template("displayGrantCallResult.html",
+                               text1 = "Please enter a text.")
+
+    # get embeddings from publication list file
+    # hdf contains more than one object.
+    hdf = pd.HDFStore("../data/pub_embeddings.h5", mode='r')
+    embeddings = pd.read_hdf(hdf, "embeddings")
+    ids = pd.read_hdf(hdf, "ids")
+    hdf.close()
+
+    # set k to be smaller, if number of ids is small
+    if ids.shape[0] < k:
+        k = ids.shape[0]
+    
+    similarityList = []
+    for j in range(0, len(ids)-1):
+        # get associated embedding
+        embedding = embeddings.iloc[j]
+        try:
+            similarity = cosine_similarity(grantCallEmbedding, embedding)
+        except ValueError:
+            return render_template("displayGrantCallResult.html",
+                                   text1 = "Please enter a text.")
+        similarityList.append((similarity, int(ids.iat[j, 0])))
+    # sort list by similarity
+    similarityList = sorted(similarityList, reverse = True)
+    
+    # output k most similar
+    outputText = ""
+    # get names
+    prof_df = pd.read_table("../data/prof.tbl")
+    # if number of ids is too small, set k to be smaller
+    num_id = prof_df["id"].shape[0]
+    if num_id < k:
+        k = num_id
+    for i in range(k):
+        firstname = prof_df.loc[prof_df.id == similarityList[i][1],
+                                "firstname"].values[0]
+        lastname = prof_df.loc[prof_df.id == similarityList[i][1],
+                                "lastname"].values[0]
+        entry = ("<pre>" + str(firstname) + " " + str(lastname)
+                 + "    " + str(similarityList[i][0]) + "</pre>" + "<br>")
+        outputText += entry
+    return render_template("displayGrantCallResult.html", text1 = outputText)
 
 if __name__ == '__main__':
     app.run(debug=True)
