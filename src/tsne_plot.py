@@ -179,7 +179,6 @@ def compute_tsne(X: np.ndarray,
         pca = PCA(n_components = pca_components)
         pca_result = pca.fit_transform(X)  # fit model and apply dim reduction
         X = pca_result
-    
     tsne = TSNE(perplexity = tsne_perplexity)  # perplexity = knn
     tsne_result = tsne.fit_transform(X)  # fit model and apply dim reduction
     
