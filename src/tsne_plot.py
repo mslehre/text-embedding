@@ -408,7 +408,6 @@ def main():
     tsne_result = compute_tsne(embeddings, pca_reduction = args.pca, 
                                pca_components = pca_components, 
                                tsne_perplexity = k)
-                   
     # get last names, affiliations, and color palette
     lnames, affiliation, palette = get_author_info_and_palette(
         authors, 
