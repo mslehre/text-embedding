@@ -44,7 +44,7 @@ def try_to_read_file_or_dir(path: str) -> str:
 
 def main():
     parser = argparse.ArgumentParser(
-        description='Compute embeddings for lists of publications.')
+        description='Compute embeddings for text files and save in hdf5 file.')
     parser.add_argument('-d', '--dir_path', type=try_to_read_dir,
                         metavar='DIR',
                         help='Directory containing files with chunks '
