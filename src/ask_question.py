@@ -4,7 +4,7 @@ import os
 import openai
 
 from build_prompt import get_prompt
-from settings import DATA_DIR
+from settings import DATA_DIR, LM_model
 
 def get_answer(
         query: str, 
@@ -33,14 +33,24 @@ def get_answer(
         return None
 
     #call openai to obtain a response
-    response = openai.Completion.create(
-        model = "text-davinci-003",
-        prompt = this_prompt,
-        temperature = 0,
-        max_tokens = 500,
-    )
+    if LM_model == "gpt-3.5-turbo":
+        response = openai.ChatCompletion.create(
+            model = LM_model,
+            messages=[ {"role": "system", "content": "You are a helpful assistant."},
+                       {"role": "user", "content": this_prompt}],
+            temperature = 0,
+            max_tokens = 500,
+            )
+        result = response['choices'][0]['message']['content']
+    else:
+        response = openai.Completion.create(
+            model = "text-davinci-003",
+            prompt = this_prompt,
+            temperature = 0,
+            max_tokens = 500,
+        )
+        result = response['choices'][0]['text']
 
-    result = response['choices'][0]['text']
     return result
 
 def get_texts_from_ids(id_list: list[str],
