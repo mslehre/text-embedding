@@ -25,72 +25,58 @@ Genetik und Funktionelle Genomforschung	22
 MPI für Plasmaphysik	23
 Theologie	24
 Zoologie	25
-
-==========================================================
-
-institute	color
-Humangenetik	0
-Psychiatrie und Psychotherapie	1
-Physiologie	2
-
-Immunologie und Transfusionsmedizin	4
-ambulante R	5
-Medizinische Psychologie	6
-Frauenheilkunde und Geburtshilfe	7
-Klinische Chemie und Laboratoriumsmedizin	10
-Orthopädie	11
-Versuchstiere	12
-Dezernat Finanzen	14
-
-Physiotherapie	16
-
-Brustzentrum	18
-Neurochirurgie	19
-Hautkrankheiten	20
-Urologie	21
-
-Unfallchirurgie	23
-Erziehungswissenschaften	24
-
-Pharmakologie	28
-
-URZ	31
-INP	33
-Augenheilkunde	35
-Beschaffung	36
-Neurodegenerative Erkrankungen	37
-Ostseeforschung	38
-Hygiene und Umweltmedizin	39
-
-Chirurgie	41
-Medizinisches Leistungsmanagement	42
-MPG	43
-Weaning Ärzte	44
-Mediz. Biochemie und Molekularbiologie	45
-Datenintegrationszentrum	46
-Biologie	47
-Dezernat Einkauf	48
-
-Zahn-, Mund- und Kieferheilkunde	53
-Anästhesie, Intensiv- und Notfallmedizin	54
-Wissenschaftlicher Vorstand	55
-Kinder- und Jugendmedizin	56
-Ethik und Geschichte der Medizin	57
-FLI Medizinische Mikrobiologie	58
-Neurologie	59
-Universitätsapotheke	61
-Kaufmännisches Direktorat	62
-Community Medicine	63
-
-Imaging-Zentrum	66
-Bioinformatik	67
-Pathologie	68
-Ärztliches Direktorat	69
-BDH-Klinik	70
-Rechtsmedizin	71
-Pflegevorstand	72
-Innere Medizin	73
-HNO	74
-Pathophysiologie	75
-Radiologie	76
-
+Humangenetik	26
+Psychiatrie und Psychotherapie	27
+Physiologie	28
+Immunologie und Transfusionsmedizin	29
+ambulante R	30
+Medizinische Psychologie	31
+Frauenheilkunde und Geburtshilfe	32
+Klinische Chemie und Laboratoriumsmedizin	33
+Orthopädie	34
+Versuchstiere	35
+Dezernat Finanzen	36
+Physiotherapie	37
+Brustzentrum	38
+Neurochirurgie	39
+Hautkrankheiten	40
+Urologie	41
+Unfallchirurgie	42
+Erziehungswissenschaften	43
+Pharmakologie	44
+URZ	45
+INP	46
+Augenheilkunde	47
+Beschaffung	48
+Neurodegenerative Erkrankungen	49
+Ostseeforschung	50
+Hygiene und Umweltmedizin	51
+Chirurgie	52
+Medizinisches Leistungsmanagement	53
+MPG	54
+Weaning Ärzte	55
+Mediz. Biochemie und Molekularbiologie	56
+Datenintegrationszentrum	57
+Biologie	58
+Dezernat Einkauf	59
+Zahn-, Mund- und Kieferheilkunde	60
+Anästhesie, Intensiv- und Notfallmedizin	61
+Wissenschaftlicher Vorstand	62
+Kinder- und Jugendmedizin	63
+Ethik und Geschichte der Medizin	64
+FLI Medizinische Mikrobiologie	65
+Neurologie	66
+Universitätsapotheke	67
+Kaufmännisches Direktorat	68
+Community Medicine	69
+Imaging-Zentrum	70
+Bioinformatik	71
+Pathologie	72
+Ärztliches Direktorat	73
+BDH-Klinik	74
+Rechtsmedizin	75
+Pflegevorstand	76
+Innere Medizin	77
+HNO	78
+Pathophysiologie	79
+Radiologie	80
