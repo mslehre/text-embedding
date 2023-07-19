@@ -98,7 +98,7 @@ def suggest_collabs() -> str:
     scientist1 = request.form['scientist1']
     scientist2 = request.form['scientist2']
 
-    collab_suggestion = ask_about_fit([scientist1, scientist2], "data/publications", 2)
+    collab_suggestion = ask_about_fit([scientist1, scientist2], "data/publications", 3)
     return render_template("suggestCollabs.html", profs= profs, text=collab_suggestion, sel1 = scientist1, sel2 = scientist2)
 
 # navigate to grant call form when button is clicked
