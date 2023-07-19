@@ -28,13 +28,7 @@ def home() -> str:
             of_texts' is called. The result of this method is returned to the
             user.  
     """
-    if False: # is this needed? remove if not
-        profsfile = open(path.join(DATA_DIR, "profs_and_ids.tbl"), "r")
-        lines = profsfile.readlines()
-        profs ={}
-        for line in lines:
-            this_line = line.split("\t")
-            profs[this_line[0]] = this_line[1]
+
     return render_template("index.html")
 
 
@@ -55,6 +49,8 @@ def PSO_home() -> str:
     answer = ''
     question = ''
     chunk_texts=''
+    PSO_list_path = path.join(app.static_folder, "PSO_list.txt")
+    available_PSOs = open(PSO_list_path, 'r').read()
     if request.method == 'POST':
         # Get the question from the form:
         question = request.form['question']
@@ -67,7 +63,8 @@ def PSO_home() -> str:
     return render_template("PSO_website.html", 
                            answer = answer, 
                            question=question, 
-                           chunks=chunk_texts)
+                           chunks=chunk_texts,
+                           PSO_list=available_PSOs)
 
 
 def get_answer_from_question(question:str,
@@ -118,11 +115,12 @@ def get_answer_from_question(question:str,
     for chunk in chunk_texts_list:
         chunk_text += "\n\n--------------------------------------------------"\
             + "--------------------------------------------------------------"\
-            + "-------------------------------\n\n"
+            + "--------------\n\n"
         chunk_text += "This is text number " + str(i) + ":\n\n"
         chunk_text += "--------------------------------------------------"\
             + "--------------------------------------------------------------"\
-            + "-------------------------------\n\n"
+            + "--------------\n\n"
+
         chunk_text += chunk
         i += 1
 
@@ -194,7 +192,7 @@ def suggest_collabs() -> str:
     scientist2 = request.form['scientist2']
 
     collab_suggestion = ask_about_fit([scientist1, scientist2],
-                                      path.join(DATA_DIR, "publications"), 2)
+                                      path.join(DATA_DIR, "publications"), 3)
     return render_template("suggestCollabs.html", profs= profs,
                            text=collab_suggestion,
                            sel1 = scientist1, sel2 = scientist2)
