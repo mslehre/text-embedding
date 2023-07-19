@@ -264,19 +264,36 @@ file.close()
 modified_publication_data.loc[modified_publication_data['institution'] == \
     'Caspar-David-Friedrich Institut', 'faculty'] = 'Caspar-David-Friedrich \
         Institut'
+faculty_dict = {}
+faculty_dict['Mathematisch-Naturwissenschaftliche Fakultät'] = 'MNF'
+faculty_dict['Philosophische Fakultät'] = 'PHIL'
+faculty_dict['Rechts- und Staatswissenschaftliche Fakultät'] = 'RSF'
+faculty_dict['Theologische Fakultät'] = 'THEO'
+faculty_dict['Caspar-David-Friedrich Institut'] = 'CDFI'
+faculty_dict['Universitätsmedizin Greifswald'] = 'MED'
+faculty_dict['Interfakultär'] = 'INTERFAK'
+faculty_dict['Zentrale Verwaltung'] = 'VERW'
 
-# Change the institution column in modified_publication_data that contains the 
-# short name of the institution to the abbreviaion of the institution
-modified_publication_data['institution'] = \
-    modified_publication_data['institution'].apply(lambda institution: \
-        institutions_dict[institution])
+# for each faculty in modified_publication_data replace it with its abbreviation
+for faculty in faculty_dict.keys():
+    modified_publication_data.loc[modified_publication_data['faculty'] == \
+        faculty, 'faculty'] = faculty_dict[faculty]
 
-# Change order of the columns and write modified_publication_data to a 
+# Drop column lastname since it will be changed
+modified_publication_data.drop('lastname', axis=1, inplace=True)
+# Extract lastname from author_name since it has less missing values than the
+# former lastname column
+modified_publication_data['lastname'] = \
+    modified_publication_data['author_name'].str.split(' ', 1).str[0]
+# Drop column author_name
+modified_publication_data.drop('author_name', axis=1, inplace=True)
+
 # tab separated file
-modified_publication_data = modified_publication_data[['author_name', 
-                                                       'lastname', 'forename',
-                                                       'person_ID', 'faculty',
+modified_publication_data = modified_publication_data[['person_ID', 'lastname', 
+                                                       'forename', 'faculty',
                                                        'institution', 
                                                        'institution_long']]
-modified_publication_data.to_csv('../data/FIS/publishers.tbl', sep='\t',
+# Rename the columns so that names of columns are the same as in prof.tbl
+modified_publication_data.rename(columns={'person_ID': 'id', 'institution': 'institute', 'forename': 'firstname'}, inplace=True)
+modified_publication_data.to_csv('../data/FIS/authors.tbl', sep='\t',
                                  na_rep = "NN", encoding='latin-1', index=False)
