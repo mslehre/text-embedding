@@ -221,7 +221,9 @@ institutions_dict['Physiotherapie Neu'] = 'Physiotherapie'
 
 # Create a tab separated file containing for each institution its short name and 
 # its abbreviation as saved in the dictionary
-file = open('../data/FIS/FIS.inst.abbrev.tbl', 'w')
+# open unified institution abbrevation table Lukasz
+# file = open('../data/FIS/FIS.inst.abbrev.tbl', 'w')
+file = open('../data/FIS/HIS_inst_abbrev.tbl', 'w')
 # The first line of the file
 file.write('institute_long\tinstitute_short\n')
 for institution in institutions:
@@ -231,7 +233,9 @@ file.close()
 # Create a tab separated file containing the abbreviation of each instittution 
 # in modified_publication_data and a number representing a color for the t-SNE
 # plot
-file = open('../data/FIS/FIS.colors.inst.tbl', 'w')
+# open unified color table Lukasz
+# file = open('../data/FIS/FIS.colors.inst.tbl', 'w')
+file = open('../data/FIS/inst_color.tbl', 'w')
 # The first line of the file
 file.write('institute\tcolor\n')
 for i, institution in enumerate(set(institutions_dict.values())):
