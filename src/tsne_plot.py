@@ -23,7 +23,7 @@ def check_thinning_args(thinning_arg: str,
                         dir_path: str) -> tuple[int, str]:
     # function to check arguments for thinning data
 
-    # check if arg is an int
+    # check if thinning_arg is an int
     try:
         thinning_arg = int(thinning_arg)
     except ValueError as ve:
