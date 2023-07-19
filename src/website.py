@@ -1,3 +1,4 @@
+#to test locally in apphub, switch localhost:5000 to apphub-[username].wolke.uni-greifswald.de/proxy/5000/
 from os import path
 
 from flask import Flask, render_template, request
@@ -8,6 +9,7 @@ import pandas as pd
 import h5py
 
 from compute_embedding import embedding_from_string, compute_similarity_of_texts
+from justify_similarities import ask_about_fit
 
 app = Flask(__name__)
 @app.route('/')
@@ -23,7 +25,13 @@ def home() -> str:
             of_texts' is called. The result of this method is returned to the
             user.  
     """
-    return render_template("index.html")
+    profsfile = open("data/profs_and_ids.tbl", "r")
+    lines = profsfile.readlines()
+    profs ={}
+    for line in lines:
+        this_line = line.split("\t")
+        profs[this_line[0]] = this_line[1]
+    return render_template("index.html", profs = profs)
 
 @app.route('/result', methods=['POST', 'GET'])
 def compute_similarity_of_files() -> str:
@@ -66,6 +74,32 @@ def compute_similarity_of_files() -> str:
         texts_start.append(" ".join(words))
     return render_template("displaySimilarity.html", text1=texts_start[0], 
                            text2=texts_start[1], text=text)
+
+
+@app.route('/collab', methods=['GET'])
+def show_collabs_page() -> str:
+    profsfile = open("data/profs_and_ids.tbl", "r")
+    lines = profsfile.readlines()
+    profs ={}
+    for line in lines:
+        this_line = line.split("\t")
+        profs[this_line[0]] = this_line[1]
+    return render_template("suggestCollabs.html", profs = profs)
+
+@app.route('/collab', methods=['POST'])
+def suggest_collabs() -> str:
+    profsfile = open("data/profs_and_ids.tbl", "r")
+    lines = profsfile.readlines()
+    profs ={}
+    for line in lines:
+        this_line = line.split("\t")
+        profs[this_line[0]] = this_line[1]
+    
+    scientist1 = request.form['scientist1']
+    scientist2 = request.form['scientist2']
+
+    collab_suggestion = ask_about_fit([scientist1, scientist2], "data/publications", 2)
+    return render_template("suggestCollabs.html", profs= profs, text=collab_suggestion, sel1 = scientist1, sel2 = scientist2)
 
 # navigate to grant call form when button is clicked
 @app.route('/grantcall', methods=['POST', 'GET'])
