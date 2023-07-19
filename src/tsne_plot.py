@@ -181,7 +181,6 @@ def compute_tsne(X: np.ndarray,
         X = pca_result
     tsne = TSNE(perplexity = tsne_perplexity)  # perplexity = knn
     tsne_result = tsne.fit_transform(X)  # fit model and apply dim reduction
-    
     return tsne_result
 
 def compute_cosinesim(embeddings: np.ndarray) -> np.ndarray:
