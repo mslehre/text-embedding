@@ -118,7 +118,7 @@ def calculateGrantCallResult() -> str:
     num_id = prof_df["id"].shape[0]
     if num_id < k:
         k = num_id
-    for i in range(0, k-1):
+    for i in range(k):
         firstname = prof_df.loc[prof_df.id == similarityList[i][1],
                                 "firstname"].values[0]
         lastname = prof_df.loc[prof_df.id == similarityList[i][1],
