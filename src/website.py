@@ -76,7 +76,7 @@ def navigateToGrantCallForm() -> str:
 @app.route('/grantcallResult', methods=['POST', 'GET'])
 def calculateGrantCallResult() -> str:
     # k most similar scientists to display
-    k = 109
+    k = 10
     # get grant call text
     grantCall = request.form["grantCall"]
     # calculate embedding for grant call text
